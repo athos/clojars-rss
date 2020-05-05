@@ -5,7 +5,7 @@
             [pogonos.core :as pg]
             [pogonos.output :as output])
   (:import [java.text SimpleDateFormat]
-           [java.util Date Locale]))
+           [java.util Date Locale TimeZone]))
 
 (defn- fetch-libs
   ([since]
@@ -25,7 +25,8 @@
         (prn lib)))))
 
 (def ^:private format-date
-  (let [date-format (SimpleDateFormat. "EEE, d MMM yyyy HH:mm:ss Z" Locale/US)]
+  (let [date-format (doto (SimpleDateFormat. "EEE, d MMM yyyy HH:mm:ss Z" Locale/US)
+                      (.setTimeZone (TimeZone/getTimeZone "UTC")))]
     (fn [^Date d]
       (.format date-format d))))
 
