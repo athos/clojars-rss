@@ -1,3 +1,6 @@
+{:jar_name "babashka", :group_name "borkdude", :version "0.0.92-SNAPSHOT", :description "babashka", :created 1588690711859}
+{:jar_name "seql", :group_name "exoscale", :version "0.1.14", :description "Simplfied EDN Query Language for SQL", :created 1588689875550}
+{:jar_name "konserve-fire", :group_name "alekcz", :version "0.2.2", :description "A Firebase backend for konserve.", :created 1588689610899}
 {:jar_name "sweet-tooth-frontend", :group_name "sweet-tooth", :version "0.12.6", :description "Some opinions on top of re-frame", :created 1588687214962}
 {:jar_name "fire", :group_name "alekcz", :version "0.2.6", :description "Firebase from Clojure. Basically Charmander 2.0", :created 1588687205738}
 {:jar_name "gojira-core", :group_name "com.flipkart", :version "1.9.2", :description nil, :created 1588685497210}
@@ -5,7 +8,6 @@
 {:jar_name "mold-http", :group_name "kleene_ai", :version "0.0.3", :description "Mold http", :created 1588684001162}
 {:jar_name "pipedrive", :group_name "com.timezynk", :version "1.1.1", :description "TimeZynk Pipedrive API", :created 1588682381438}
 {:jar_name "glogi", :group_name "lambdaisland", :version "1.0.63", :description "", :created 1588679763590}
-{:jar_name "glogi", :group_name "lambdaisland", :version "1.0.63", :description nil, :created 1588679759543}
 {:jar_name "axel-f", :group_name "io.xapix", :version "2.0.20", :description "", :created 1588677237709}
 {:jar_name "axel-f", :group_name "io.xapix", :version "2.0.20-SNAPSHOT", :description "", :created 1588676613348}
 {:jar_name "jackdaw", :group_name "fundingcircle", :version "0.7.5-mc_BR_3591-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1588676593601}
@@ -16,7 +18,6 @@
 {:jar_name "zebra", :group_name "b-social", :version "0.1.11", :description "A clojure wrapper for Stripe", :created 1588671020627}
 {:jar_name "spec-tools", :group_name "metosin", :version "0.10.2-SNAPSHOT", :description "Clojure(Script) tools for clojure.spec", :created 1588666356416}
 {:jar_name "nano-id", :group_name "nano-id", :version "1.0.0", :description "A tiny, secure, URL-friendly unique string ID generator", :created 1588662962576}
-{:jar_name "nano-id", :group_name "nano-id", :version "1.0.0", :description "A tiny, secure, URL-friendly unique string ID generator", :created 1588662956084}
 {:jar_name "dropwizard-primer", :group_name "io.raven.dropwizard", :version "1.3.14-4", :description nil, :created 1588659962341}
 {:jar_name "lein-template", :group_name "jvm-opencv", :version "0.0.38", :description "Created with lein-create-template", :created 1588659651917}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.3.42", :description nil, :created 1588657640060}
@@ -25,7 +26,6 @@
 {:jar_name "clj-wxpay", :group_name "huzhengquan", :version "0.1.0", :description "FIXME: 微信支付SDK的clojure版本", :created 1588652896251}
 {:jar_name "sweet-tooth-endpoint", :group_name "sweet-tooth", :version "0.8.1", :description "Utilities for working with liberator-based endpoints", :created 1588650538212}
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.2.5-SNAPSHOT", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1588646084669}
-{:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.2.5-SNAPSHOT", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1588646080223}
 {:jar_name "schism", :group_name "com.holychao", :version "0.1.2", :description "First Class CRDTs for Clojure", :created 1588644980235}
 {:jar_name "molecula", :group_name "molecula", :version "0.1.4", :description "Clojure refs on Redis with one line of code", :created 1588644469061}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.3.41", :description nil, :created 1588643680509}
@@ -45,7 +45,6 @@
 {:jar_name "jobtech-taxonomy-database", :group_name "jobtech-taxonomy-database", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1588607956633}
 {:jar_name "fxl", :group_name "zero.one", :version "0.0.1", :description "fxl is a Clojure spreadsheet library.", :created 1588607519538}
 {:jar_name "sweet-tooth-frontend", :group_name "sweet-tooth", :version "0.12.5", :description "Some opinions on top of re-frame", :created 1588604428310}
-{:jar_name "axel-f", :group_name "io.xapix", :version "2.0.20-SNAPSHOT", :description "", :created 1588604323474}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.8.110", :description "CLJS development tools", :created 1588603220854}
 {:jar_name "sieppari", :group_name "metosin", :version "0.0.0-alpha9", :description "Small, fast, and complete interceptor library.", :created 1588570191816}
 {:jar_name "aerospike-clj", :group_name "aerospike-clj", :version "0.5.3", :description "An Aerospike Clojure client.", :created 1588580792561}
@@ -57,7 +56,6 @@
 {:jar_name "seql", :group_name "exoscale", :version "0.1.13", :description "Simplfied EDN Query Language for SQL", :created 1588579097911}
 {:jar_name "sys", :group_name "dev.polymeris", :version "20.5.18", :description "A very opinionated collection of integrant systems.", :created 1588593000728}
 {:jar_name "fulcro-rad-semantic-ui", :group_name "com.fulcrologic", :version "0.0.3-alpha", :description "A UI plugin for Fulcro RAD that renders to web/electron using Semantic UI CSS", :created 1588562152039}
-{:jar_name "vertx-jersey", :group_name "com.platform.vertx", :version "4.8.0-SNAPSHOT", :description "Allows creating JAX-RS jersey resources that will handle incoming http requests to\n        vert.x", :created 1588578545655}
 {:jar_name "clj-psql", :group_name "douglass", :version "0.1.2", :description "A small Clojure wrapper for interacting with Postgres via psql", :created 1588601228021}
 {:jar_name "js-interop", :group_name "applied-science", :version "0.2.5", :description "", :created 1588579488141}
 {:jar_name "data.union-find", :group_name "engelberg", :version "1.0.0", :description "FIXME: write description", :created 1588579607880}
