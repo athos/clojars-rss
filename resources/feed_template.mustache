@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+  <title>Clojars RSS</title>
+  <link>https://clojars.org/</link>
+  <description>Unofficially generated RSS feed for libraries registered on Clojars</description>
+  <lastBuildDate>{{{last-build-date}}}</lastBuildDate>
+  {{#items}}
+  <item>
+    <guid>{{{guid}}}</guid>
+    <title>{{{title}}}</title>
+    <link>{{{link}}}</link>
+    <description>{{{description}}}</description>
+    <pubDate>{{{publish-date}}}</pubDate>
+  </item>
+  {{/items}}
+  </channel>
+</rss>
