@@ -49,11 +49,26 @@
                         {:items items :last-build-date (format-date build-date)}
                         {:output (output/to-file output-file)})))
 
+(defn- distinct-by [f]
+  (fn [rf]
+    (let [seen (volatile! #{})]
+      (fn
+        ([] (rf))
+        ([result] (rf result))
+        ([result input]
+         (let [k (f input)]
+           (if (contains? @seen k)
+             result
+             (do (vswap! seen conj k)
+                 (rf result input)))))))))
+
 (defn -main [libs-file feed-file]
   (let [old-libs (with-open [r (io/reader libs-file)]
                    (mapv edn/read-string (line-seq r)))
-        libs (->> (fetch-libs (inc (:created (first old-libs))))
+        libs (->> (fetch-libs (:created (first old-libs)))
                   (sort-by :created (comparator >)))
-        libs' (take 256 (concat libs old-libs))]
+        libs' (->> (concat libs old-libs)
+                   (into [] (comp (distinct-by (juxt :group_name :jar_name :version))
+                                  (take 256))))]
     (dump-libs libs' libs-file)
     (generate-feed libs' (Date.) feed-file)))
