@@ -23,9 +23,7 @@ jobs:
     - name: Install deps
       run: lein deps
     - name: Generate feed
-      run: |
-        lein run -m clojars-rss.main data/libs.edn data/libs.edn.tmp docs/feed.xml
-        mv data/libs.edn.tmp data/libs.edn
+      run: lein run -m clojars-rss.main data/libs.edn docs/feed.xml
     - name: Push changes
       run: |
         git remote set-url origin https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git

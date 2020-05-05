@@ -49,11 +49,11 @@
                         {:items items :last-build-date (format-date build-date)}
                         {:output (output/to-file output-file)})))
 
-(defn -main [libs-in libs-out feed-file]
-  (let [old-libs (with-open [r (io/reader libs-in)]
+(defn -main [libs-file feed-file]
+  (let [old-libs (with-open [r (io/reader libs-file)]
                    (mapv edn/read-string (line-seq r)))
         libs (->> (fetch-libs (inc (:created (first old-libs))))
                   (sort-by :created (comparator >)))
         libs' (take 256 (concat libs old-libs))]
-    (dump-libs libs' libs-out)
+    (dump-libs libs' libs-file)
     (generate-feed libs' (Date.) feed-file)))
