@@ -1,10 +1,11 @@
 # clojars-rss
+![generate feed](https://github.com/athos/clojars-rss/workflows/generate%20feed/badge.svg?event=schedule)
 
-A Clojure library designed to ... well, that part is up to you.
+Unofficially generated RSS feed for libraries recently registered on [Clojars](https://clojars.org/)
 
 ## Usage
 
-FIXME
+Subscribe to https://athos.github.io/clojars-rss/feed.xml with your RSS reader.
 
 ## License
 
