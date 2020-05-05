@@ -1,4 +1,4 @@
-(ns clojars-rss.core
+(ns clojars-rss.main
   (:require [clj-http.client :as http]
             [clojure.edn :as edn]
             [clojure.java.io :as io]
