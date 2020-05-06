@@ -1,4 +1,5 @@
 (ns clojars-rss.main
+  (:gen-class)
   (:require [clj-http.client :as http]
             [clojure.edn :as edn]
             [clojure.java.io :as io]

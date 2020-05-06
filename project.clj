@@ -7,4 +7,6 @@
                  [cheshire "5.10.0"]
                  [clj-http "3.10.1"]
                  [pogonos "0.1.0-SNAPSHOT"]]
+  :aot [clojars-rss.main]
+  :main clojars-rss.main
   :repl-options {:init-ns clojars-rss.main})
