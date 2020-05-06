@@ -39,6 +39,7 @@
     {:guid (str link "/versions/" (:version lib))
      :title name
      :link link
+     :version (:version lib)
      :description (:description lib)
      :publish-date (->> (:created lib)
                         Date.
