@@ -13,20 +13,14 @@ jobs:
       uses: actions/setup-java@v1
       with:
         java-version: '11'
-    - name: Cache .m2
-      uses: actions/cache@v1
-      with:
-        path: ~/.m2
-        key: ${{ runner.os }}-m2-${{ hashFiles('deps.edn') }}
-        restore-keys: |
-          ${{ runner.os }}-m2-
-    - name: Install deps
-      run: lein deps
+    - name: Download latest jar
+      run: |
+        wget -qO clojars-rss.jar $(curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -s https://api.github.com/repos/${{ github.repository }}/releases/latest | jq -r '.assets[0].browser_download_url')
     - name: Generate feed
-      run: lein run -m clojars-rss.main data/libs.edn docs/rss/feed.xml
+      run: java -cp clojars-rss.jar clojars_rss.main data/libs.edn docs/rss/feed.xml
     - name: Push changes
       run: |
-        git remote set-url origin https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git
+        git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
         git config --local user.name 'GitHub Action'
         git config --local user.email 'github-action@users.noreply.github.com'
         git add .
