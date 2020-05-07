@@ -5,7 +5,7 @@ Unofficially generated RSS feed for libraries recently registered on [Clojars](h
 
 ## Usage
 
-Subscribe to https://athos.github.io/clojars-rss/rss/feed.xml with your RSS reader.
+Subscribe to https://athos.github.io/clojars-rss/rss/latest.xml with your RSS reader.
 
 ## License
 
