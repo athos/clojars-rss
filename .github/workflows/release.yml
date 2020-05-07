@@ -43,5 +43,5 @@ jobs:
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./clojars-rss.jar
-        asset_name: clojars-rss-${{ github.ref }}.jar
+        asset_name: clojars-rss.jar
         asset_content_type: application/java-archive
