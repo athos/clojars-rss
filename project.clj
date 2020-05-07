@@ -1,4 +1,4 @@
-(defproject clojars-rss "2020.05.06-SNAPSHOT"
+(defproject clojars-rss "2020.05.07-SNAPSHOT"
   :description "Unofficially generated RSS feed for libraries recently registered on Clojars"
   :url "https://github.com/athos/clojars-rss"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
