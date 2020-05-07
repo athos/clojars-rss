@@ -35,9 +35,9 @@
   (let [name (cond->> (:jar_name lib)
                (not= (:group_name lib) (:jar_name lib))
                (str (:group_name lib) \/))
-        link (str "https://clojars.org/" name)]
-    {:guid (str link "/versions/" (:version lib))
-     :title name
+        link (format "https://clojars.org/%s/versions/%s" name (:version lib))]
+    {:guid link
+     :title (format "[%s \"%s\"]" name (:version lib))
      :link link
      :version (:version lib)
      :description (:description lib)
@@ -48,7 +48,7 @@
 (defn- generate-feed [libs build-date output-file]
   (let [items (map ->feed-item libs)]
     (pg/render-resource "feed_template.mustache"
-                        {:items items :last-build-date (format-date build-date)}
+                        {:items items :build-date (format-date build-date)}
                         {:output (output/to-file output-file)})))
 
 (defn- distinct-by [f]
