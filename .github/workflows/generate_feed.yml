@@ -19,7 +19,7 @@ jobs:
       run: |
         wget -qO clojars-rss.jar $(curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -s https://api.github.com/repos/${{ github.repository }}/releases/latest | jq -r '.assets[0].browser_download_url')
     - name: Generate feed
-      run: java -cp clojars-rss.jar clojars_rss.main data/libs.edn rss/latest.xml
+      run: java -cp clojars-rss.jar clojars_rss.main data/latest.edn rss/latest.xml
     - name: Push changes
       run: |
         git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
