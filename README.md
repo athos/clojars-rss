@@ -1,11 +1,19 @@
 # clojars-rss
 ![generate feed](https://github.com/athos/clojars-rss/workflows/generate%20feed/badge.svg?event=schedule)
 
-Unofficially generated RSS feed for libraries recently registered on [Clojars](https://clojars.org/)
+Unofficially generated RSS feeds for libraries recently registered on [Clojars](https://clojars.org/)
 
 ## Usage
 
-Subscribe to https://athos.github.io/clojars-rss/rss/latest.xml with your RSS reader.
+Subscribe to RSS feeds below with your RSS reader:
+
+### Stable releases
+- https://athos.github.io/clojars-rss/rss/stable.xml
+- Latest updates on Clojars excluding SNAPSHOT releases
+
+### Latest releases
+- https://athos.github.io/clojars-rss/rss/latest.xml
+- Latest updates on Clojars including SNAPSHOT releases
 
 ## License
 
