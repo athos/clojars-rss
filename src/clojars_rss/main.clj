@@ -65,13 +65,14 @@
              (do (vswap! seen conj k)
                  (rf result input)))))))))
 
-(defn- generate-with [libs-file output-dir]
+(defn- generate-with [xf libs-file output-dir]
   (let [old-libs (with-open [r (io/reader libs-file)]
                    (mapv edn/read-string (line-seq r)))
         libs (->> (fetch-libs (:created (first old-libs)))
                   (sort-by :created (comparator >)))
         libs' (->> (concat libs old-libs)
                    (into [] (comp (distinct-by (juxt :group_name :jar_name :version))
+                                  xf
                                   (take 256))))
         output-file (as-> (io/file libs-file) <>
                       (.getName <>)
@@ -80,5 +81,7 @@
     (dump-libs libs' libs-file)
     (generate-feed libs' (Date.) output-file)))
 
-(defn -main [latest-libs-file output-dir]
-  (generate-with latest-libs-file output-dir))
+(defn -main [latest-libs-file stable-libs-file output-dir]
+  (generate-with identity latest-libs-file output-dir)
+  (generate-with (remove #(re-matches #".*-SNAPSHOT$" (:version %)))
+                 stable-libs-file output-dir))
