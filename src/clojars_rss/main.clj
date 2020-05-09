@@ -3,6 +3,7 @@
   (:require [clj-http.client :as http]
             [clojure.edn :as edn]
             [clojure.java.io :as io]
+            [clojure.string :as str]
             [pogonos.core :as pg]
             [pogonos.output :as output])
   (:import [java.text SimpleDateFormat]
@@ -64,13 +65,20 @@
              (do (vswap! seen conj k)
                  (rf result input)))))))))
 
-(defn -main [libs-file feed-file]
+(defn- generate-with [libs-file output-dir]
   (let [old-libs (with-open [r (io/reader libs-file)]
                    (mapv edn/read-string (line-seq r)))
         libs (->> (fetch-libs (:created (first old-libs)))
                   (sort-by :created (comparator >)))
         libs' (->> (concat libs old-libs)
                    (into [] (comp (distinct-by (juxt :group_name :jar_name :version))
-                                  (take 256))))]
+                                  (take 256))))
+        output-file (as-> (io/file libs-file) <>
+                      (.getName <>)
+                      (str/replace <> #"\.edn$" ".xml")
+                      (io/file output-dir <>))]
     (dump-libs libs' libs-file)
-    (generate-feed libs' (Date.) feed-file)))
+    (generate-feed libs' (Date.) output-file)))
+
+(defn -main [latest-libs-file output-dir]
+  (generate-with latest-libs-file output-dir))
