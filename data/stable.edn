@@ -1,3 +1,23 @@
+{:jar_name "crux-bench", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "", :created 1589196754947}
+{:jar_name "crux-cli", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "Crux Uberjar", :created 1589196736884}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "", :created 1589196726048}
+{:jar_name "crux-test", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "Crux Tests Project", :created 1589196714661}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "Crux Kafka", :created 1589196704849}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "Crux Kafka Connect", :created 1589196693574}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "Crux Kafka Embedded", :created 1589196681930}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "Crux HTTP Server", :created 1589196672435}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "Crux HTTP Client", :created 1589196662819}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "Crux JDBC", :created 1589196653304}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "Crux LMDB", :created 1589196643268}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "Crux RocksDB", :created 1589196633761}
+{:jar_name "crux-metrics", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "Provides Metrics for Crux nodes", :created 1589196623633}
+{:jar_name "crux-rdf", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "Crux RDF", :created 1589196613410}
+{:jar_name "crux-core", :group_name "juxt", :version "20.05-1.8.3-alpha", :description "An open source document database with bitemporal graph queries", :created 1589196603682}
+{:jar_name "revolver-server", :group_name "io.revolver", :version "2.0.8", :description nil, :created 1589196385269}
+{:jar_name "revolver-resilience4j", :group_name "io.revolver", :version "2.0.8", :description nil, :created 1589196365155}
+{:jar_name "revolver-core", :group_name "io.revolver", :version "2.0.8", :description nil, :created 1589196350075}
+{:jar_name "revolver-model", :group_name "io.revolver", :version "2.0.8", :description nil, :created 1589196334576}
+{:jar_name "dropwizard-revolver", :group_name "io.revolver", :version "2.0.8", :description nil, :created 1589196316473}
 {:jar_name "table2qb", :group_name "swirrl", :version "0.3.3", :description "Transform tables of observations and reference data into RDF data cube resources specified as csvw", :created 1589192238069}
 {:jar_name "flow", :group_name "fmnoise", :version "4.0.0", :description "Functional style of errors handling (without monads)", :created 1589188441660}
 {:jar_name "honeyeql", :group_name "org.graphqlize", :version "0.1.0-alpha25", :description "HoneyEQL enables you to query database using the EQL.", :created 1589186455937}
@@ -234,23 +254,3 @@
 {:jar_name "blossom", :group_name "blossom", :version "1.0.0", :description "Simple Bloom Filter", :created 1588657605426}
 {:jar_name "clj-wxpay", :group_name "huzhengquan", :version "0.1.0", :description "FIXME: 微信支付SDK的clojure版本", :created 1588652896251}
 {:jar_name "sweet-tooth-endpoint", :group_name "sweet-tooth", :version "0.8.1", :description "Utilities for working with liberator-based endpoints", :created 1588650538212}
-{:jar_name "schism", :group_name "com.holychao", :version "0.1.2", :description "First Class CRDTs for Clojure", :created 1588644980235}
-{:jar_name "molecula", :group_name "molecula", :version "0.1.4", :description "Clojure refs on Redis with one line of code", :created 1588644469061}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.3.41", :description nil, :created 1588643680509}
-{:jar_name "aleph", :group_name "hittaruki", :version "0.4.7-alpha.1", :description "a framework for asynchronous communication", :created 1588633190880}
-{:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha10", :description "OpenCompany Common Library", :created 1588630895324}
-{:jar_name "garden", :group_name "garden", :version "1.3.10", :description "Generate CSS from Clojure(Script) data structures.", :created 1588629368652}
-{:jar_name "jsonista", :group_name "metosin", :version "0.2.6", :description "Clojure library for fast JSON encoding and decoding.", :created 1588627121425}
-{:jar_name "cljfx", :group_name "cljfx", :version "1.7.0", :description "", :created 1588626999662}
-{:jar_name "cljfx-aot", :group_name "com.github.vlaaad", :version "0.0.2", :description "", :created 1588622812319}
-{:jar_name "db-schema-migration", :group_name "db-schema-migration", :version "0.1.6", :description "A simple database schema migration tool for Clojure", :created 1588614998873}
-{:jar_name "lilac-parser", :group_name "mvc-works", :version "0.0.2-a1", :description "", :created 1588613120094}
-{:jar_name "lein-template", :group_name "volcano", :version "0.1.1", :description "Leiningen template for a static web generated with Volcano", :created 1588609296128}
-{:jar_name "volcano", :group_name "orgpad", :version "0.1.0", :description "Static web generator with hot-code reloading in development", :created 1588609110967}
-{:jar_name "lein-template", :group_name "column", :version "0.10.2", :description "column sits on top of pedestal to support your projects", :created 1588608483958}
-{:jar_name "fxl", :group_name "zero.one", :version "0.0.1", :description "fxl is a Clojure spreadsheet library.", :created 1588607519538}
-{:jar_name "sweet-tooth-frontend", :group_name "sweet-tooth", :version "0.12.5", :description "Some opinions on top of re-frame", :created 1588604428310}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.8.110", :description "CLJS development tools", :created 1588603220854}
-{:jar_name "sieppari", :group_name "metosin", :version "0.0.0-alpha9", :description "Small, fast, and complete interceptor library.", :created 1588570191816}
-{:jar_name "aerospike-clj", :group_name "aerospike-clj", :version "0.5.3", :description "An Aerospike Clojure client.", :created 1588580792561}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "promote-20200430-081057-11-g84a9fce", :description "", :created 1588595182225}
