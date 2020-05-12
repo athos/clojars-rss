@@ -1,23 +1,3 @@
-{:jar_name "aws-sig4", :group_name "org.zarkone", :version "master-SNAPSHOT", :description "A description", :created 1588843851134}
-{:jar_name "babashka", :group_name "borkdude", :version "0.0.92-SNAPSHOT", :description "babashka", :created 1588845517261}
-{:jar_name "markov-chain", :group_name "markov-chain", :version "0.2.0", :description "A Clojure library to generate data using Markov chain probabilities.", :created 1588847758026}
-{:jar_name "clj-monaco", :group_name "clj-monaco", :version "0.0.5-SNAPSHOT", :description nil, :created 1588848840598}
-{:jar_name "clj-monaco", :group_name "clj-monaco", :version "0.0.5", :description nil, :created 1588849697982}
-{:jar_name "rye", :group_name "rye", :version "0.1.0-SNAPSHOT", :description "Misc error handling", :created 1588850205512}
-{:jar_name "axel-f", :group_name "io.xapix", :version "2.0.23", :description "", :created 1588851686542}
-{:jar_name "specord", :group_name "specord", :version "0.1.2", :description "Define record with spec", :created 1588856509358}
-{:jar_name "elle", :group_name "elle", :version "0.1.1-SNAPSHOT", :description "Black-box transactional consistency checker, based on cycle detection", :created 1588857589599}
-{:jar_name "ziggurat", :group_name "tech.gojek", :version "3.3.0-alpha.7", :description "A stream processing framework to build stateless applications on kafka", :created 1588857838282}
-{:jar_name "chimera", :group_name "onaio", :version "0.0.12-SNAPSHOT", :description "Collection of useful Clojure(Script) functions.", :created 1588860459816}
-{:jar_name "transpriem-api", :group_name "transpriem-api", :version "2.0", :description "Core of transpriem micro services", :created 1588862483033}
-{:jar_name "tag", :group_name "tolitius", :version "0.1.0", :description "tagging apps with git intel", :created 1588864760094}
-{:jar_name "gnuplot", :group_name "gnuplot", :version "0.1.3-SNAPSHOT", :description "A Clojure interface to Gnuplot", :created 1588865541988}
-{:jar_name "honeyeql", :group_name "org.graphqlize", :version "0.1.0-alpha21", :description "HoneyEQL enables you to query database using the EQL.", :created 1588869086459}
-{:jar_name "graphqlize", :group_name "org.graphqlize", :version "0.1.0-alpha17", :description "GraphQLize is a Clojure library to build production-ready GraphQL APIs instantly from relational databases (Postgres, MySQL, Oracle, SQLServer).", :created 1588869671897}
-{:jar_name "graphqlize-java", :group_name "org.graphqlize", :version "0.1.0-alpha16", :description "Java wrapper for graphqlize library", :created 1588869783391}
-{:jar_name "lilac-parser", :group_name "mvc-works", :version "0.0.2-a3", :description nil, :created 1588870363006}
-{:jar_name "sdk", :group_name "starkbank", :version "0.1.1", :description "SDK to make Clojure integrations with the Stark Bank API easier.", :created 1588872330419}
-{:jar_name "ring-exceptions", :group_name "tendant", :version "0.1.2", :description "Wrap exceptions for ring handler", :created 1588872605513}
 {:jar_name "starkbank", :group_name "starkbank", :version "0.1.1", :description "DEPRECATED: go to https://clojars.org/starkbank/sdk", :created 1588873278811}
 {:jar_name "lein-pinkgorilla", :group_name "org.pinkgorilla", :version "0.0.10", :description "A Leiningen plugin for the PinkGorilla Notebook.", :created 1588874790594}
 {:jar_name "clj-mavlink", :group_name "clj-mavlink", :version "0.1.3-SNAPSHOT", :description "Clojure MAVLink", :created 1588874859263}
@@ -254,3 +234,23 @@
 {:jar_name "clj-ml", :group_name "org.clojars.punit-naik", :version "0.1.7", :description "Collection of ML and it's corresponsing utilities in Clojure", :created 1589309466796}
 {:jar_name "abk", :group_name "com.danboykis", :version "0.1.3-SNAPSHOT", :description "One atom state management for clojure apps", :created 1589311328990}
 {:jar_name "clj-ml", :group_name "org.clojars.punit-naik", :version "0.1.8", :description "Collection of ML and it's corresponsing utilities in Clojure", :created 1589313466698}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Snappy data-driven router for Clojure(Script)", :created 1589316293326}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Snappy data-driven router for Clojure(Script)", :created 1589316310082}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Reitit: clojure.spec coercion", :created 1589316325993}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Reitit: Malli coercion", :created 1589316340636}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Reitit: Plumatic Schema coercion", :created 1589316354015}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Reitit: Ring routing", :created 1589316368411}
+{:jar_name "imo", :group_name "imo", :version "0.0.1", :description "Opinionated Clojure(Script) code formatting", :created 1589316377418}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Reitit, common middleware bundled", :created 1589316388646}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Reitit: HTTP routing with interceptors", :created 1589316404121}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Reitit, common interceptors bundled", :created 1589316418400}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Reitit: Swagger-support", :created 1589316432823}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Reitit: Swagger-ui support", :created 1589316447907}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Reitit: Clojurescript frontend routing core", :created 1589316465038}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Reitit: Sieppari Interceptors", :created 1589316479741}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Reitit + Pedestal Integration", :created 1589316496068}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.0-SNAPSHOT", :description "Snappy data-driven router for Clojure(Script)", :created 1589316523307}
+{:jar_name "allpa", :group_name "allpa", :version "0.1.44", :description "FIXME: write description", :created 1589317359800}
+{:jar_name "mayu", :group_name "mayu", :version "0.1.37", :description "FIXME: write description", :created 1589317458723}
+{:jar_name "gradual", :group_name "gradual", :version "0.1.1", :description "Gradual, dependent typing for Clojure.", :created 1589317520184}
+{:jar_name "lein-template", :group_name "mayu-node", :version "0.1.7", :description "FIXME: write description", :created 1589317819985}
