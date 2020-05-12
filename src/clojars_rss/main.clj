@@ -52,34 +52,45 @@
                         {:items items :build-date (format-date build-date)}
                         {:output (output/to-file output-file)})))
 
-(defn- distinct-by [f]
-  (fn [rf]
-    (let [seen (volatile! #{})]
-      (fn
-        ([] (rf))
-        ([result] (rf result))
-        ([result input]
-         (let [k (f input)]
-           (if (contains? @seen k)
-             result
-             (do (vswap! seen conj k)
-                 (rf result input)))))))))
+(defn- distinct-by
+  ([f] (distinct-by f (constantly true)))
+  ([f tolerant?]
+   (fn [rf]
+     (let [seen (volatile! {})]
+       (fn
+         ([] (rf))
+         ([result] (rf result))
+         ([result input]
+          (let [k (f input)]
+            (if (some-> (get @seen k) peek (tolerant? input))
+              result
+              (do (vswap! seen update k (fnil conj []) input)
+                  (rf result input))))))))))
+
+(def lib-coord (juxt :group_name :jar_name :version))
+
+(defn- updated-shortly? [lib1 lib2]
+  (< (Math/abs (- (:created lib2) (:created lib1))) 30000))
+
+(defn- update-libs [xf old-libs new-libs]
+  (->> (concat old-libs new-libs)
+       ;; keep older one if same lib occurs twice in a short range
+       (into () (distinct-by lib-coord updated-shortly?))
+       ;; keep newest one if same lib occurs more than once
+       (into () (comp (distinct-by lib-coord) xf (take 256)))))
 
 (defn- generate-with [xf libs-file output-dir]
   (let [old-libs (with-open [r (io/reader libs-file)]
                    (mapv edn/read-string (line-seq r)))
-        libs (->> (fetch-libs (:created (first old-libs)))
-                  (sort-by :created (comparator >)))
-        libs' (->> (concat libs old-libs)
-                   (into [] (comp (distinct-by (juxt :group_name :jar_name :version))
-                                  xf
-                                  (take 256))))
+        new-libs (->> (fetch-libs (:created (last old-libs)))
+                      (sort-by :created))
+        libs (update-libs xf old-libs new-libs)
         output-file (as-> (io/file libs-file) <>
                       (.getName <>)
                       (str/replace <> #"\.edn$" ".xml")
                       (io/file output-dir <>))]
-    (dump-libs libs' libs-file)
-    (generate-feed libs' (Date.) output-file)))
+    (dump-libs libs libs-file)
+    (generate-feed (reverse libs) (Date.) output-file)))
 
 (defn -main [latest-libs-file stable-libs-file output-dir]
   (generate-with identity latest-libs-file output-dir)
