@@ -1,11 +1,3 @@
-{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.4", :description "", :created 1588935167734}
-{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.4", :description "", :created 1588935182525}
-{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.4", :description "", :created 1588935197016}
-{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.4", :description "", :created 1588935211460}
-{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.4", :description "", :created 1588935226611}
-{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.4", :description "", :created 1588935241478}
-{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.4", :description "Exoscale library to generate blueprint clients", :created 1588935256233}
-{:jar_name "blueprint", :group_name "exoscale", :version "0.2.4", :description "Data definitions for APIs", :created 1588935280585}
 {:jar_name "ex", :group_name "exoscale", :version "0.3.7", :description "", :created 1588941295216}
 {:jar_name "ex-manifold", :group_name "exoscale", :version "0.3.7", :description "", :created 1588941310891}
 {:jar_name "ex-auspex", :group_name "exoscale", :version "0.3.7", :description "", :created 1588941325900}
@@ -251,6 +243,14 @@
 {:jar_name "lein-shadow", :group_name "lein-shadow", :version "0.2.0", :description "A Leiningen plugin to help keep your project configuration in your project.clj file when using shadow-cljs", :created 1589372982302}
 {:jar_name "liberator-mixin", :group_name "b-social", :version "0.0.49", :description "An extension to liberator allowing for composable mixins.", :created 1589373388890}
 {:jar_name "lein-template", :group_name "luminus", :version "3.71", :description "a template for creating Luminus applications", :created 1589373730843}
-{:jar_name "babashka", :group_name "borkdude", :version "0.0.95-SNAPSHOT", :description "babashka", :created 1589374057799}
 {:jar_name "atmos-web-kernel-reitit", :group_name "atmos-web-kernel-reitit", :version "0.1.0", :description "This library is the web core of atmos systems, it has commons functionality using *Reitit*.", :created 1589374299378}
 {:jar_name "babashka.nrepl", :group_name "babashka", :version "0.0.1", :description "babashka nREPL module", :created 1589375096170}
+{:jar_name "babashka.nrepl", :group_name "babashka", :version "0.0.2-SNAPSHOT", :description "babashka nREPL module", :created 1589375355465}
+{:jar_name "chui-core", :group_name "lambdaisland", :version "0.0.111", :description "ClojureScript Test Runner Core", :created 1589375563302}
+{:jar_name "chui-ui", :group_name "lambdaisland", :version "0.0.111", :description "Browser UI for the Chui test runner", :created 1589375580605}
+{:jar_name "chui-shadow", :group_name "lambdaisland", :version "0.0.111", :description "Chui-based test runner namespaces to be used with Shadow-cljs", :created 1589375597604}
+{:jar_name "chui", :group_name "lambdaisland", :version "0.0.111", :description "Modern ClojureScript test runner", :created 1589375615832}
+{:jar_name "babashka", :group_name "borkdude", :version "0.0.95-SNAPSHOT", :description "babashka", :created 1589375982133}
+{:jar_name "lein-template", :group_name "re-frame", :version "1.0.34", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1589377108640}
+{:jar_name "transpriem-api", :group_name "transpriem-api", :version "2.1-SNAPSHOT", :description "Core of transpriem micro services", :created 1589377705981}
+{:jar_name "systemic", :group_name "teknql", :version "0.2.0", :description "Application state management for Clojure", :created 1589379368037}
