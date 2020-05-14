@@ -1,5 +1,3 @@
-{:jar_name "deps", :group_name "net.b12n", :version "1.0.0", :description "Adding dependency at runtime using alembic", :created 1589125895721}
-{:jar_name "cljfx", :group_name "cljfx", :version "1.7.1", :description nil, :created 1589135782904}
 {:jar_name "sweet-tooth-endpoint", :group_name "sweet-tooth", :version "0.8.3", :description "Utilities for working with liberator-based endpoints", :created 1589137131451}
 {:jar_name "cljfx", :group_name "cljfx", :version "1.7.2", :description "", :created 1589140967726}
 {:jar_name "sweet-tooth-frontend", :group_name "sweet-tooth", :version "0.12.7", :description "Some opinions on top of re-frame", :created 1589143846211}
@@ -160,7 +158,6 @@
 {:jar_name "chui-ui", :group_name "lambdaisland", :version "0.0.106", :description "Browser UI for the Chui test runner", :created 1589368868799}
 {:jar_name "chui-shadow", :group_name "lambdaisland", :version "0.0.106", :description "Chui-based test runner namespaces to be used with Shadow-cljs", :created 1589368887230}
 {:jar_name "chui", :group_name "lambdaisland", :version "0.0.106", :description "Modern ClojureScript test runner", :created 1589368905049}
-{:jar_name "jobtech-taxonomy-database", :group_name "jobtech-taxonomy-database", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1589369354782}
 {:jar_name "babashka.nrepl", :group_name "babashka", :version "0.0.1-SNAPSHOT", :description "babashka nREPL module", :created 1589371305879}
 {:jar_name "lein-shadow", :group_name "lein-shadow", :version "0.2.0", :description "A Leiningen plugin to help keep your project configuration in your project.clj file when using shadow-cljs", :created 1589372982302}
 {:jar_name "liberator-mixin", :group_name "b-social", :version "0.0.49", :description "An extension to liberator allowing for composable mixins.", :created 1589373388890}
@@ -254,3 +251,6 @@
 {:jar_name "chrome-driver-clj", :group_name "chrome-driver-clj", :version "0.1.3", :description "chrome driver downloader", :created 1589460015762}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "2.0-beta-44", :description "Dataset and ETL pipeline for machine learning", :created 1589460692984}
 {:jar_name "babashka", :group_name "borkdude", :version "0.0.95-SNAPSHOT", :description "babashka", :created 1589461062333}
+{:jar_name "lein-template", :group_name "figwheel", :version "0.5.20-1", :description "A Leinigen template for figwheel", :created 1589462661112}
+{:jar_name "jobtech-taxonomy-database", :group_name "jobtech-taxonomy-database", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1589464274143}
+{:jar_name "lein-licenses-file", :group_name "lein-licenses-file", :version "0.1.0", :description "", :created 1589464507115}
