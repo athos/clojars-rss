@@ -1,5 +1,3 @@
-{:jar_name "axel-f", :group_name "io.xapix", :version "2.1.0-SNAPSHOT", :description "", :created 1589203102466}
-{:jar_name "tech.datatype", :group_name "techascent", :version "5.0-beta-29", :description "Library for efficient manipulation of contiguous mutable containers of primitive datatypes.", :created 1589203708111}
 {:jar_name "js-interop", :group_name "appliedscience", :version "0.2.6-MOVED", :description nil, :created 1589204279078}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "2.0-beta-41", :description "Dataset and ETL pipeline for machine learning", :created 1589204288162}
 {:jar_name "js-interop", :group_name "applied-science", :version "0.2.6", :description nil, :created 1589204949928}
@@ -36,7 +34,6 @@
 {:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.5", :description "", :created 1589229889299}
 {:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.5", :description "Exoscale library to generate blueprint clients", :created 1589229905942}
 {:jar_name "blueprint", :group_name "exoscale", :version "0.2.5", :description "Data definitions for APIs", :created 1589229923133}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2020.05.10-SNAPSHOT", :description "Tidy your code with clj-kondo.", :created 1589229929653}
 {:jar_name "sentry-tiny", :group_name "net.tbt-post", :version "0.1.9", :description "Tiny Sentry Interface for Clojure", :created 1589230098212}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "2.0-beta-42", :description "Dataset and ETL pipeline for machine learning", :created 1589233333183}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.9.1", :description "CLJS development tools", :created 1589236383488}
@@ -253,4 +250,7 @@
 {:jar_name "invoice-commons", :group_name "lupapiste", :version "0.2.0", :description "Shared functionality for invoice handling between lupapiste-internal and lupapiste-invoices", :created 1589529300092}
 {:jar_name "sieppari", :group_name "metosin", :version "0.0.0-alpha10", :description "Small, fast, and complete interceptor library.", :created 1589529862176}
 {:jar_name "mayu", :group_name "mayu", :version "0.1.41", :description "FIXME: write description", :created 1589532499968}
-{:jar_name "babashka", :group_name "borkdude", :version "0.0.95-SNAPSHOT", :description "babashka", :created 1589532675015}
+{:jar_name "clolyze", :group_name "clolyze", :version "0.5.0-SNAPSHOT", :description "A static code analyzer for Clojure.", :created 1589533547228}
+{:jar_name "lein-clolyze", :group_name "lein-clolyze", :version "0.4.0-SNAPSHOT", :description "A leiningen plugin for clolyze.", :created 1589535315019}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2020.05.10-SNAPSHOT", :description "Tidy your code with clj-kondo.", :created 1589535606437}
+{:jar_name "babashka", :group_name "borkdude", :version "0.0.95-SNAPSHOT", :description "babashka", :created 1589535641979}
