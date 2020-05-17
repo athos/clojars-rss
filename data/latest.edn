@@ -1,21 +1,3 @@
-{:jar_name "sicmutils", :group_name "net.littleredcomputer", :version "0.12.2-SNAPSHOT", :description "A port of the Scmutils computer algebra/mechanics system to Clojure", :created 1589331002264}
-{:jar_name "sdk", :group_name "starkbank", :version "0.2.0", :description "SDK to make Clojure integrations with the Stark Bank API easier.", :created 1589337506345}
-{:jar_name "minimallist", :group_name "minimallist", :version "0.0.1", :description "A minimalist data driven data model library, inspired by Spec and Malli.", :created 1589339355647}
-{:jar_name "honeyeql", :group_name "org.graphqlize", :version "0.1.0-alpha27", :description "HoneyEQL enables you to query database using the EQL.", :created 1589341384711}
-{:jar_name "ring-exceptions", :group_name "tendant", :version "0.1.4", :description "Wrap exceptions for ring handler", :created 1589343034950}
-{:jar_name "reagent", :group_name "reagent", :version "1.0.0-alpha2", :description "A simple ClojureScript interface to React", :created 1589345732730}
-{:jar_name "honeyeql", :group_name "org.graphqlize", :version "0.1.0-alpha28", :description "HoneyEQL enables you to query database using the EQL.", :created 1589346488655}
-{:jar_name "reporter", :group_name "exoscale", :version "0.1.49", :description "error and event reporting component", :created 1589352695134}
-{:jar_name "puumerkki", :group_name "puumerkki", :version "0.9.1", :description "Puumerkki allekirjoituskirjasto ja esimerkkipalvelin", :created 1589353615991}
-{:jar_name "kaocha", :group_name "lambdaisland", :version "1.0.632", :description "Full featured next generation test runner for Clojure.", :created 1589358713457}
-{:jar_name "moncee", :group_name "theorems", :version "0.7.4", :description "", :created 1589358784556}
-{:jar_name "periods", :group_name "com.levitanong", :version "0.1.1", :description "", :created 1589359209178}
-{:jar_name "sci", :group_name "borkdude", :version "0.0.13-alpha.21", :description "Small Clojure Interpreter", :created 1589361590251}
-{:jar_name "clj-monaco", :group_name "clj-monaco", :version "0.0.8-SNAPSHOT", :description nil, :created 1589363534304}
-{:jar_name "user.java.io", :group_name "user.java.io", :version "2020.134.36653", :description nil, :created 1589364701328}
-{:jar_name "chui-core", :group_name "lambdaisland", :version "0.0.106", :description "ClojureScript Test Runner Core", :created 1589368851292}
-{:jar_name "chui-ui", :group_name "lambdaisland", :version "0.0.106", :description "Browser UI for the Chui test runner", :created 1589368868799}
-{:jar_name "chui-shadow", :group_name "lambdaisland", :version "0.0.106", :description "Chui-based test runner namespaces to be used with Shadow-cljs", :created 1589368887230}
 {:jar_name "chui", :group_name "lambdaisland", :version "0.0.106", :description "Modern ClojureScript test runner", :created 1589368905049}
 {:jar_name "babashka.nrepl", :group_name "babashka", :version "0.0.1-SNAPSHOT", :description "babashka nREPL module", :created 1589371305879}
 {:jar_name "lein-shadow", :group_name "lein-shadow", :version "0.2.0", :description "A Leiningen plugin to help keep your project configuration in your project.clj file when using shadow-cljs", :created 1589372982302}
@@ -254,3 +236,21 @@
 {:jar_name "db-model", :group_name "db-model", :version "0.1.2", :description "配合duct framework，自動產生資料庫中英字典檔．spec．graphql schema及sql等檔案，避免重複人工作業。", :created 1589723415150}
 {:jar_name "babashka.nrepl", :group_name "babashka", :version "0.0.3-SNAPSHOT", :description "babashka nREPL module", :created 1589725520186}
 {:jar_name "babashka", :group_name "borkdude", :version "0.0.96-SNAPSHOT", :description "babashka", :created 1589726790804}
+{:jar_name "clj-pdf", :group_name "clj-pdf", :version "2.4.8", :description "PDF generation library", :created 1589729551909}
+{:jar_name "babashka", :group_name "borkdude", :version "0.0.97-SNAPSHOT", :description "babashka", :created 1589729789638}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.0", :description "Snappy data-driven router for Clojure(Script)", :created 1589730201569}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.0", :description "Snappy data-driven router for Clojure(Script)", :created 1589730216533}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.0", :description "Reitit: clojure.spec coercion", :created 1589730231480}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.0", :description "Reitit: Malli coercion", :created 1589730249499}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.0", :description "Reitit: Plumatic Schema coercion", :created 1589730264062}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.0", :description "Reitit: Ring routing", :created 1589730278994}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.0", :description "Reitit, common middleware bundled", :created 1589730294557}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.0", :description "Reitit: HTTP routing with interceptors", :created 1589730308932}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.0", :description "Reitit, common interceptors bundled", :created 1589730324208}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.0", :description "Reitit: Swagger-support", :created 1589730341787}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.0", :description "Reitit: Swagger-ui support", :created 1589730356738}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.0", :description "Reitit: Clojurescript frontend routing core", :created 1589730371973}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.0", :description "Reitit: Sieppari Interceptors", :created 1589730387592}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.0", :description "Reitit + Pedestal Integration", :created 1589730402696}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.0", :description "Snappy data-driven router for Clojure(Script)", :created 1589730418255}
+{:jar_name "itl", :group_name "coreagile", :version "1.0.5", :description "Integration Test Library", :created 1589731213520}

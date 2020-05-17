@@ -1,20 +1,3 @@
-{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.5", :description "", :created 1589229872188}
-{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.5", :description "", :created 1589229889299}
-{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.5", :description "Exoscale library to generate blueprint clients", :created 1589229905942}
-{:jar_name "blueprint", :group_name "exoscale", :version "0.2.5", :description "Data definitions for APIs", :created 1589229923133}
-{:jar_name "sentry-tiny", :group_name "net.tbt-post", :version "0.1.9", :description "Tiny Sentry Interface for Clojure", :created 1589230098212}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "2.0-beta-42", :description "Dataset and ETL pipeline for machine learning", :created 1589233333183}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.9.1", :description "CLJS development tools", :created 1589236383488}
-{:jar_name "cprop", :group_name "cprop", :version "0.1.17", :description "where all configuration properties converge", :created 1589238576247}
-{:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v0.0.35", :description "A client library for Vald.", :created 1589249199251}
-{:jar_name "mayu", :group_name "mayu", :version "0.1.33", :description "FIXME: write description", :created 1589251461768}
-{:jar_name "clj-wxpay", :group_name "huzhengquan", :version "0.1.3", :description "FIXME: 微信支付SDK的clojure版本", :created 1589256338874}
-{:jar_name "honeyeql", :group_name "org.graphqlize", :version "0.1.0-alpha26", :description "HoneyEQL enables you to query database using the EQL.", :created 1589262180420}
-{:jar_name "zip-tz", :group_name "com.github.csm", :version "1.0.0", :description nil, :created 1589262474721}
-{:jar_name "graphqlize", :group_name "org.graphqlize", :version "0.1.0-alpha18", :description "GraphQLize is a Clojure library to build production-ready GraphQL APIs instantly from relational databases (Postgres, MySQL, Oracle, SQLServer).", :created 1589262569408}
-{:jar_name "graphqlize-java", :group_name "org.graphqlize", :version "0.1.0-alpha17", :description "Java wrapper for graphqlize library", :created 1589262637521}
-{:jar_name "mayu", :group_name "mayu", :version "0.1.34", :description "FIXME: write description", :created 1589267973688}
-{:jar_name "re-harel", :group_name "re-harel", :version "0.0.1", :description "FIXME: write description", :created 1589269971470}
 {:jar_name "toyokumo-commons", :group_name "toyokumo", :version "0.1.5", :description "Utility functions that are used in multiple TOYOKUMO products", :created 1589270060946}
 {:jar_name "clj-ssh-keygen", :group_name "clj-ssh-keygen", :version "0.2.0", :description "Generate RSA PKCS #1 key-pairs from scratch in Clojure", :created 1589275121303}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.9.2", :description "CLJS development tools", :created 1589276790910}
@@ -254,3 +237,20 @@
 {:jar_name "sci", :group_name "borkdude", :version "0.0.13-alpha.23", :description "Small Clojure Interpreter", :created 1589710060792}
 {:jar_name "clj-rocksdb", :group_name "kotyo", :version "0.1.5", :description "Clojure bindings for facebook's rocksdbjni", :created 1589720021671}
 {:jar_name "db-model", :group_name "db-model", :version "0.1.2", :description "配合duct framework，自動產生資料庫中英字典檔．spec．graphql schema及sql等檔案，避免重複人工作業。", :created 1589723415150}
+{:jar_name "clj-pdf", :group_name "clj-pdf", :version "2.4.8", :description "PDF generation library", :created 1589729551909}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.0", :description "Snappy data-driven router for Clojure(Script)", :created 1589730201569}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.0", :description "Snappy data-driven router for Clojure(Script)", :created 1589730216533}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.0", :description "Reitit: clojure.spec coercion", :created 1589730231480}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.0", :description "Reitit: Malli coercion", :created 1589730249499}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.0", :description "Reitit: Plumatic Schema coercion", :created 1589730264062}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.0", :description "Reitit: Ring routing", :created 1589730278994}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.0", :description "Reitit, common middleware bundled", :created 1589730294557}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.0", :description "Reitit: HTTP routing with interceptors", :created 1589730308932}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.0", :description "Reitit, common interceptors bundled", :created 1589730324208}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.0", :description "Reitit: Swagger-support", :created 1589730341787}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.0", :description "Reitit: Swagger-ui support", :created 1589730356738}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.0", :description "Reitit: Clojurescript frontend routing core", :created 1589730371973}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.0", :description "Reitit: Sieppari Interceptors", :created 1589730387592}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.0", :description "Reitit + Pedestal Integration", :created 1589730402696}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.0", :description "Snappy data-driven router for Clojure(Script)", :created 1589730418255}
+{:jar_name "itl", :group_name "coreagile", :version "1.0.5", :description "Integration Test Library", :created 1589731213520}
