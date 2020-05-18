@@ -1,20 +1,3 @@
-{:jar_name "pedestal-utils", :group_name "clientsuccess", :version "1.0.10", :description "A set of utilities for Pedestal services", :created 1589388715383}
-{:jar_name "pedestal.jetty", :group_name "io.clubhouse.forks", :version "0.5.7-ch1", :description "Embedded Jetty adapter for Pedestal HTTP Service", :created 1589391924493}
-{:jar_name "pedestal.jetty", :group_name "io.clubhouse.forks", :version "0.5.7-ch2", :description "Embedded Jetty adapter for Pedestal HTTP Service", :created 1589394075292}
-{:jar_name "paprika", :group_name "paprika", :version "0.1.4-SNAPSHOT", :description "Simple utility functions", :created 1589394224093}
-{:jar_name "async-utils", :group_name "deercreeklabs", :version "0.1.22", :description "Utilities for async programming and testing in Clojure and Clojurescript", :created 1589397745671}
-{:jar_name "baracus", :group_name "deercreeklabs", :version "0.2.6", :description "Utilities for working with byte arrays in Clojure & Clojurescript", :created 1589397771314}
-{:jar_name "lancaster", :group_name "deercreeklabs", :version "0.9.3", :description "Tools for working with Apache Avro", :created 1589399960315}
-{:jar_name "stockroom", :group_name "deercreeklabs", :version "0.3.5", :description "Clojure/Clojurescript cache, using the Clock algorithm.", :created 1589399971498}
-{:jar_name "tube", :group_name "deercreeklabs", :version "0.3.7", :description "A websocket client and server library", :created 1589400693344}
-{:jar_name "capsule", :group_name "deercreeklabs", :version "0.4.26", :description "", :created 1589401469376}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.9.3", :description "CLJS development tools", :created 1589403218143}
-{:jar_name "sci", :group_name "borkdude", :version "0.0.13-alpha.22", :description "Small Clojure Interpreter", :created 1589403375687}
-{:jar_name "figwheel-core", :group_name "com.bhauman", :version "0.2.5-SNAPSHOT", :description "Figwheel core provides code reloading facilities for ClojureScript.", :created 1589406983756}
-{:jar_name "figwheel-repl", :group_name "com.bhauman", :version "0.2.5-SNAPSHOT", :description "Figwheel REPL provides a stable multiplexing REPL for ClojureScript", :created 1589407001179}
-{:jar_name "figwheel-main", :group_name "com.bhauman", :version "0.2.5-SNAPSHOT", :description "Figwheel Main - Clojurescript tooling.", :created 1589407022102}
-{:jar_name "yetibot", :group_name "yetibot", :version "0.5.71", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1589407968471}
-{:jar_name "cljs-http", :group_name "com.atomist", :version "0.1.4", :description nil, :created 1589408105360}
 {:jar_name "clj-ml", :group_name "org.clojars.punit-naik", :version "0.1.9", :description "Collection of ML and it's corresponsing utilities in Clojure", :created 1589408277527}
 {:jar_name "grape", :group_name "leadlab", :version "0.0.2", :description "Graph Rewriting And Persistence Engine", :created 1589409841204}
 {:jar_name "mayu", :group_name "mayu", :version "0.1.38", :description "FIXME: write description", :created 1589414346401}
@@ -254,3 +237,20 @@
 {:jar_name "eg", :group_name "eg", :version "0.4.19-alpha", :description "eg delivers clojure.test function tests with conciseness.", :created 1589796887093}
 {:jar_name "domain", :group_name "com.timezynk", :version "1.0.1", :description "Database modeling library for Clojure and MongoDB", :created 1589797263840}
 {:jar_name "sieppari", :group_name "metosin", :version "0.0.0-alpha13", :description "Small, fast, and complete interceptor library.", :created 1589798689901}
+{:jar_name "coax", :group_name "exoscale", :version "1.0.0-alpha3", :description "exo spec-coerce fork", :created 1589802250259}
+{:jar_name "robotto", :group_name "com.omarpolo", :version "0.1.0-SNAPSHOT", :description nil, :created 1589803195237}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.1", :description "Snappy data-driven router for Clojure(Script)", :created 1589803219945}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.1", :description "Snappy data-driven router for Clojure(Script)", :created 1589803240212}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.1", :description "Reitit: clojure.spec coercion", :created 1589803254959}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.1", :description "Reitit: Malli coercion", :created 1589803273279}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.1", :description "Reitit: Plumatic Schema coercion", :created 1589803287570}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.1", :description "Reitit: Ring routing", :created 1589803301742}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.1", :description "Reitit, common middleware bundled", :created 1589803318857}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.1", :description "Reitit: HTTP routing with interceptors", :created 1589803336212}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.1", :description "Reitit, common interceptors bundled", :created 1589803350604}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.1", :description "Reitit: Swagger-support", :created 1589803365147}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.1", :description "Reitit: Swagger-ui support", :created 1589803379695}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.1", :description "Reitit: Clojurescript frontend routing core", :created 1589803392954}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.1", :description "Reitit: Sieppari Interceptors", :created 1589803406518}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.1", :description "Reitit + Pedestal Integration", :created 1589803423481}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.1", :description "Snappy data-driven router for Clojure(Script)", :created 1589803453192}
