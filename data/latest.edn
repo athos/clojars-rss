@@ -1,5 +1,3 @@
-{:jar_name "clolyze", :group_name "clolyze", :version "0.5.0-SNAPSHOT", :description "A static code analyzer for Clojure.", :created 1589533547228}
-{:jar_name "lein-clolyze", :group_name "lein-clolyze", :version "0.4.0-SNAPSHOT", :description "A leiningen plugin for clolyze.", :created 1589535315019}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2020.05.10-SNAPSHOT", :description "Tidy your code with clj-kondo.", :created 1589535606437}
 {:jar_name "graphql-builder", :group_name "floatingpointio", :version "0.1.11", :description "A Clojure(Script) library designed to help with the consuming of GraphQL APIs.", :created 1589542600996}
 {:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.7", :description "Data definitions for APIs", :created 1589543832083}
@@ -254,3 +252,5 @@
 {:jar_name "puget", :group_name "mvxcvi", :version "1.3.0", :description "Colorizing canonical Clojure printer for EDN values.", :created 1589907367523}
 {:jar_name "state-flow", :group_name "nubank", :version "4.0.3", :description "Integration testing with composable flows", :created 1589913129135}
 {:jar_name "python-gorilla", :group_name "org.pinkgorilla", :version "0.0.13", :description "PinkGorilla<->Python interop (libpython-clj)", :created 1589916048262}
+{:jar_name "clj-reflector-graal-java11-fix", :group_name "borkdude", :version "0.0.1-graalvm-20.1.0", :description "A fix for an issue with clojure.lang.Reflector in GraalVM native-image JDK11.", :created 1589924309964}
+{:jar_name "clj-gdrive-downloader", :group_name "clj-gdrive-downloader", :version "0.1.0", :description "Download shared files from Google Drive.", :created 1589924498937}
