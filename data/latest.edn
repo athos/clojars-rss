@@ -1,6 +1,3 @@
-{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.0", :description "Reitit: Plumatic Schema coercion", :created 1589730264062}
-{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.0", :description "Reitit: Ring routing", :created 1589730278994}
-{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.0", :description "Reitit, common middleware bundled", :created 1589730294557}
 {:jar_name "reitit-http", :group_name "metosin", :version "0.5.0", :description "Reitit: HTTP routing with interceptors", :created 1589730308932}
 {:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.0", :description "Reitit, common interceptors bundled", :created 1589730324208}
 {:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.0", :description "Reitit: Swagger-support", :created 1589730341787}
@@ -234,14 +231,12 @@
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "promote-20200506-092307-32-g1e073e0", :description nil, :created 1590069875540}
 {:jar_name "state-flow", :group_name "nubank", :version "4.1.0", :description "Integration testing with composable flows", :created 1590071273038}
 {:jar_name "babashka.pods", :group_name "babashka", :version "0.0.1-SNAPSHOT", :description "babashka pods", :created 1590075494962}
-{:jar_name "babashka", :group_name "borkdude", :version "0.0.98-SNAPSHOT", :description "babashka", :created 1590075870784}
 {:jar_name "robotto", :group_name "com.omarpolo", :version "0.1.0-SNAPSHOT", :description nil, :created 1590075928958}
 {:jar_name "clowg", :group_name "clowg", :version "0.1.4", :description "A Clojure library for generating Clojure wrappers around Java", :created 1590076011319}
 {:jar_name "cljs-synchronous-promise", :group_name "cljs-synchronous-promise", :version "0.1.0", :description nil, :created 1590076517997}
 {:jar_name "singer-clojure", :group_name "singer-clojure", :version "0.2.0", :description "Clojure library for shared code between clojure taps", :created 1590077987514}
 {:jar_name "module.core", :group_name "hydrogen", :version "0.1.11", :description "Duct module for doing cljs-based SPA applications the Hydrogen way.", :created 1590078962546}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200521-164135-2-ga81849c", :description nil, :created 1590079834665}
-{:jar_name "enterprise", :group_name "degree9", :version "0.0.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1590079905811}
 {:jar_name "figwheel-core", :group_name "com.bhauman", :version "0.2.6-SNAPSHOT", :description "Figwheel core provides code reloading facilities for ClojureScript.", :created 1590080117215}
 {:jar_name "figwheel-repl", :group_name "com.bhauman", :version "0.2.6-SNAPSHOT", :description "Figwheel REPL provides a stable multiplexing REPL for ClojureScript", :created 1590080133450}
 {:jar_name "figwheel-main", :group_name "com.bhauman", :version "0.2.6-SNAPSHOT", :description "Figwheel Main - Clojurescript tooling.", :created 1590080153794}
@@ -254,3 +249,8 @@
 {:jar_name "konami", :group_name "cljsjs", :version "1.6.2-0", :description "A quick and silly script for adding the Konami Code easter egg to your site.", :created 1590090147639}
 {:jar_name "copy-jars", :group_name "copy-jars", :version "0.1.0-SNAPSHOT", :description "copy jars from dependencies into bundled dependencies", :created 1590091574795}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "1.7.35", :description "", :created 1590094482823}
+{:jar_name "grape", :group_name "leadlab", :version "0.0.7", :description "Graph Rewriting And Persistence Engine", :created 1590095528658}
+{:jar_name "asami", :group_name "org.clojars.quoll", :version "0.4.8", :description "An in-memory implementation of a graph store, implementing the naga-store protocol", :created 1590096565713}
+{:jar_name "naga", :group_name "org.clojars.quoll", :version "0.2.34", :description "Forward Chaining Rule Engine", :created 1590096728931}
+{:jar_name "enterprise", :group_name "degree9", :version "0.0.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1590098105573}
+{:jar_name "babashka", :group_name "borkdude", :version "0.0.98-SNAPSHOT", :description "babashka", :created 1590098727243}
