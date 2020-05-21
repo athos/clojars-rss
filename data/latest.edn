@@ -1,10 +1,3 @@
-{:jar_name "liquid", :group_name "mogenslund", :version "2.0.3", :description "This project is an attempt to create a text editor for editing\n               Clojure files and Markdown files. It operates primarily in a\n               terminal, but with dynamics and extensibilities inspired by\n               Emacs and Vim.\n               The best place to start is to watch the demo video.", :created 1589701778068}
-{:jar_name "slate", :group_name "cljsjs", :version "0.58.1-0", :description "A completely customizable framework for building rich text editors.", :created 1589701987438}
-{:jar_name "slate-react", :group_name "cljsjs", :version "0.58.1-0", :description "A completely customizable framework for building rich text editors.", :created 1589702014524}
-{:jar_name "db-model", :group_name "db-model", :version "0.1.1", :description "配合duct framework，自動產生資料庫中英字典檔．spec．graphql schema及sql等檔案，避免重複人工作業。", :created 1589706456121}
-{:jar_name "edamame", :group_name "borkdude", :version "0.0.11-alpha.12", :description "EDN parser with location metadata and pluggable dispatch table.", :created 1589709797265}
-{:jar_name "sci", :group_name "borkdude", :version "0.0.13-alpha.23", :description "Small Clojure Interpreter", :created 1589710060792}
-{:jar_name "dropwizard-revolver", :group_name "io.phonepe", :version "2.0.8-SNAPSHOT", :description nil, :created 1589716249756}
 {:jar_name "clj-rocksdb", :group_name "kotyo", :version "0.1.5", :description "Clojure bindings for facebook's rocksdbjni", :created 1589720021671}
 {:jar_name "db-model", :group_name "db-model", :version "0.1.2", :description "配合duct framework，自動產生資料庫中英字典檔．spec．graphql schema及sql等檔案，避免重複人工作業。", :created 1589723415150}
 {:jar_name "babashka", :group_name "borkdude", :version "0.0.96-SNAPSHOT", :description "babashka", :created 1589726790804}
@@ -253,4 +246,11 @@
 {:jar_name "robotto", :group_name "com.omarpolo", :version "0.1.0-SNAPSHOT", :description nil, :created 1590075928958}
 {:jar_name "clowg", :group_name "clowg", :version "0.1.4", :description "A Clojure library for generating Clojure wrappers around Java", :created 1590076011319}
 {:jar_name "cljs-synchronous-promise", :group_name "cljs-synchronous-promise", :version "0.1.0", :description nil, :created 1590076517997}
-{:jar_name "enterprise", :group_name "degree9", :version "0.0.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1590076632301}
+{:jar_name "singer-clojure", :group_name "singer-clojure", :version "0.2.0", :description "Clojure library for shared code between clojure taps", :created 1590077987514}
+{:jar_name "module.core", :group_name "hydrogen", :version "0.1.11", :description "Duct module for doing cljs-based SPA applications the Hydrogen way.", :created 1590078962546}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200521-164135-2-ga81849c", :description nil, :created 1590079834665}
+{:jar_name "enterprise", :group_name "degree9", :version "0.0.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1590079905811}
+{:jar_name "figwheel-core", :group_name "com.bhauman", :version "0.2.6-SNAPSHOT", :description "Figwheel core provides code reloading facilities for ClojureScript.", :created 1590080117215}
+{:jar_name "figwheel-repl", :group_name "com.bhauman", :version "0.2.6-SNAPSHOT", :description "Figwheel REPL provides a stable multiplexing REPL for ClojureScript", :created 1590080133450}
+{:jar_name "figwheel-main", :group_name "com.bhauman", :version "0.2.6-SNAPSHOT", :description "Figwheel Main - Clojurescript tooling.", :created 1590080153794}
+{:jar_name "tech.datatype", :group_name "techascent", :version "5.0-beta-33", :description "Library for efficient manipulation of contiguous mutable containers of primitive datatypes.", :created 1590080459267}
