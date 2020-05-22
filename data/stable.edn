@@ -1,23 +1,3 @@
-{:jar_name "itl", :group_name "coreagile", :version "1.0.5", :description "Integration Test Library", :created 1589731213520}
-{:jar_name "re-frisk-remote", :group_name "re-frisk-remote", :version "1.3.3", :description "Take full control of re-frame app", :created 1589732798602}
-{:jar_name "clj-pdf", :group_name "clj-pdf", :version "2.4.9", :description "PDF generation library", :created 1589733226014}
-{:jar_name "pathom", :group_name "com.wsscode", :version "2.3.0-alpha7", :description "A Clojure library designed to provide a collection of helper functions to support Clojure(script) graph parsers using\nom.next graph syntax.", :created 1589735802093}
-{:jar_name "reveal", :group_name "vlaaad", :version "0.1.0-ea16", :description nil, :created 1589738797791}
-{:jar_name "component.jdbc-data-source.postgres", :group_name "io.logicblocks", :version "0.1.1-RC3", :description "A component providing a pooled postgres JDBC data source.", :created 1589739705932}
-{:jar_name "taiwan-id", :group_name "taiwan-id", :version "0.3.4", :description "clojure台灣身分證字號檢核程式庫，提供1個檢核函數及1個struct validator", :created 1589740507916}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.9.7", :description "CLJS development tools", :created 1589749730347}
-{:jar_name "pathom", :group_name "com.wsscode", :version "2.3.0-alpha8", :description "A Clojure library designed to provide a collection of helper functions to support Clojure(script) graph parsers using\nom.next graph syntax.", :created 1589755804003}
-{:jar_name "taiwan-id", :group_name "taiwan-id", :version "0.3.5", :description "clojure台灣身分證字號檢核程式庫，提供1個檢核函數及1個struct validator", :created 1589758228044}
-{:jar_name "ring-exceptions", :group_name "tendant", :version "0.1.5", :description "Wrap exceptions for ring handler", :created 1589760249081}
-{:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v0.0.36", :description "A client library for Vald.", :created 1589764699265}
-{:jar_name "db-model", :group_name "db-model", :version "0.1.3", :description "配合duct framework，自動產生資料庫中英字典檔．spec．graphql schema及sql等檔案，避免重複人工作業。", :created 1589776177930}
-{:jar_name "aerospike-clj", :group_name "aerospike-clj", :version "0.5.5", :description "An Aerospike Clojure client.", :created 1589782137759}
-{:jar_name "proxy-request", :group_name "tendant", :version "0.1.0", :description "Proxy HTTP Request", :created 1589787164973}
-{:jar_name "taiwan-id", :group_name "taiwan-id", :version "0.3.6", :description "clojure台灣身分證字號檢核程式庫，提供1個檢核函數及1個struct validator", :created 1589795441325}
-{:jar_name "sieppari", :group_name "metosin", :version "0.0.0-alpha12", :description "Small, fast, and complete interceptor library.", :created 1589795930775}
-{:jar_name "eg", :group_name "eg", :version "0.4.19-alpha", :description "eg delivers clojure.test function tests with conciseness.", :created 1589796887093}
-{:jar_name "domain", :group_name "com.timezynk", :version "1.0.1", :description "Database modeling library for Clojure and MongoDB", :created 1589797263840}
-{:jar_name "sieppari", :group_name "metosin", :version "0.0.0-alpha13", :description "Small, fast, and complete interceptor library.", :created 1589798689901}
 {:jar_name "coax", :group_name "exoscale", :version "1.0.0-alpha3", :description "exo spec-coerce fork", :created 1589802250259}
 {:jar_name "reitit-core", :group_name "metosin", :version "0.5.1", :description "Snappy data-driven router for Clojure(Script)", :created 1589803219945}
 {:jar_name "reitit-dev", :group_name "metosin", :version "0.5.1", :description "Snappy data-driven router for Clojure(Script)", :created 1589803240212}
@@ -254,3 +234,23 @@
 {:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.15", :description "Simply Core Libs", :created 1590154236401}
 {:jar_name "swiza-commons", :group_name "net.b12n", :version "0.1.5", :description "Commonly used Clojure library", :created 1590156817008}
 {:jar_name "cucl", :group_name "cucl", :version "0.1.12", :description "Collection of useful Clojure libraries.", :created 1590157229262}
+{:jar_name "re-cog", :group_name "re-cog", :version "0.4.8", :description "Distributed provisioning Clojure functions to be used with Re-gent", :created 1590161461194}
+{:jar_name "crux-core", :group_name "juxt", :version "20.05-1.8.4-alpha", :description "An open source document database with bitemporal graph queries", :created 1590161744824}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.05-1.8.4-alpha", :description "Crux RocksDB", :created 1590161773487}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.05-1.8.4-alpha", :description "Crux JDBC", :created 1590161791526}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.05-1.8.4-alpha", :description "Crux HTTP Client", :created 1590161800585}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.05-1.8.4-alpha", :description "Crux HTTP Server", :created 1590161811133}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.05-1.8.4-alpha", :description "Crux Kafka", :created 1590161842023}
+{:jar_name "schematic", :group_name "com.walmartlabs", :version "1.3.0", :description "A library to aid in assembling Systems for use with Component", :created 1590167665574}
+{:jar_name "datascript", :group_name "datascript", :version "0.18.13", :description "An implementation of Datomic in-memory database and Datalog query engine in ClojureScript", :created 1590174883633}
+{:jar_name "tech.ml.dataset", :group_name "techascent", :version "2.0-beta-49", :description "Dataset and ETL pipeline for machine learning", :created 1590174935897}
+{:jar_name "pedestal.jetty", :group_name "io.pedestal", :version "0.5.8", :description "Embedded Jetty adapter for Pedestal HTTP Service", :created 1590183125045}
+{:jar_name "pedestal.immutant", :group_name "io.pedestal", :version "0.5.8", :description "Embedded Immutant adapter for Pedestal HTTP Service", :created 1590183137337}
+{:jar_name "pedestal.tomcat", :group_name "io.pedestal", :version "0.5.8", :description "Embedded Tomcat adapter for Pedestal HTTP Service", :created 1590183148457}
+{:jar_name "pedestal.log", :group_name "io.pedestal", :version "0.5.8", :description "Pedestal logging and metrics facilities", :created 1590183159472}
+{:jar_name "pedestal.interceptor", :group_name "io.pedestal", :version "0.5.8", :description "Pedestal interceptor chain and execution utilities", :created 1590183171856}
+{:jar_name "pedestal.aws", :group_name "io.pedestal", :version "0.5.8", :description "AWS utilities for running Pedestal services on AWS", :created 1590183184011}
+{:jar_name "pedestal.route", :group_name "io.pedestal", :version "0.5.8", :description "Pedestal route definition and router construction", :created 1590183195255}
+{:jar_name "pedestal.service", :group_name "io.pedestal", :version "0.5.8", :description "Pedestal Service", :created 1590183209658}
+{:jar_name "pedestal.service-tools", :group_name "io.pedestal", :version "0.5.8", :description "Pedestal tools for service development", :created 1590183221818}
+{:jar_name "lein-template", :group_name "pedestal-service", :version "0.5.8", :description "A Pedestal Service template.", :created 1590183232798}
