@@ -4,7 +4,168 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 25 May 2020 01:08:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 25 May 2020 02:07:17 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/liberator-hal.ping-resource/versions/0.1.3-RC2</guid>
+    <title>[io.logicblocks/liberator-hal.ping-resource &quot;0.1.3-RC2&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/liberator-hal.ping-resource/versions/0.1.3-RC2</link>
+    <description>A HAL ping resource for liberator</description>
+    <pubDate>Mon, 25 May 2020 02:06:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/component.jdbc-data-source.postgres/versions/0.1.1-RC4</guid>
+    <title>[io.logicblocks/component.jdbc-data-source.postgres &quot;0.1.1-RC4&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/component.jdbc-data-source.postgres/versions/0.1.1-RC4</link>
+    <description>A component providing a pooled postgres JDBC data source.</description>
+    <pubDate>Mon, 25 May 2020 02:04:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/component.flyway-migrator/versions/0.1.1-RC2</guid>
+    <title>[io.logicblocks/component.flyway-migrator &quot;0.1.1-RC2&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/component.flyway-migrator/versions/0.1.1-RC2</link>
+    <description>A component to run flyway migrations on system start.</description>
+    <pubDate>Mon, 25 May 2020 02:04:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/degree9/enterprise/versions/0.0.0-SNAPSHOT</guid>
+    <title>[degree9/enterprise &quot;0.0.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/degree9/enterprise/versions/0.0.0-SNAPSHOT</link>
+    <description>Degree9 Enterprise Platform.</description>
+    <pubDate>Mon, 25 May 2020 02:03:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/sweet-tooth/sweet-tooth-frontend/versions/0.13.0</guid>
+    <title>[sweet-tooth/sweet-tooth-frontend &quot;0.13.0&quot;]</title>
+    <link>https://clojars.org/sweet-tooth/sweet-tooth-frontend/versions/0.13.0</link>
+    <description>Some opinions on top of re-frame</description>
+    <pubDate>Mon, 25 May 2020 01:41:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fort.lib/core.async/versions/0.0.2-SNAPSHOT</guid>
+    <title>[fort.lib/core.async &quot;0.0.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/fort.lib/core.async/versions/0.0.2-SNAPSHOT</link>
+    <description>Type annotations and macros for core.async.</description>
+    <pubDate>Mon, 25 May 2020 01:19:37 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fort.clj/annotator/versions/0.0.2-SNAPSHOT</guid>
+    <title>[fort.clj/annotator &quot;0.0.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/fort.clj/annotator/versions/0.0.2-SNAPSHOT</link>
+    <description>Runtime type inference algorithm for Fort and clojure.spec.</description>
+    <pubDate>Mon, 25 May 2020 01:19:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fort.cljs/checker/versions/0.0.2-SNAPSHOT</guid>
+    <title>[fort.cljs/checker &quot;0.0.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/fort.cljs/checker/versions/0.0.2-SNAPSHOT</link>
+    <description>An optional type system for ClojureScript — full system for annotating and type-checking.</description>
+    <pubDate>Mon, 25 May 2020 01:19:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fort.clj/checker/versions/0.0.2-SNAPSHOT</guid>
+    <title>[fort.clj/checker &quot;0.0.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/fort.clj/checker/versions/0.0.2-SNAPSHOT</link>
+    <description>An optional type system for Clojure — full system for annotating and type-checking.</description>
+    <pubDate>Mon, 25 May 2020 01:19:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fort.clj/lang/versions/0.0.2-SNAPSHOT</guid>
+    <title>[fort.clj/lang &quot;0.0.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/fort.clj/lang/versions/0.0.2-SNAPSHOT</link>
+    <description>Extensible languages in Clojure, a la Racket&#39;s #lang.</description>
+    <pubDate>Mon, 25 May 2020 01:19:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fort.lib/clojure/versions/0.0.2-SNAPSHOT</guid>
+    <title>[fort.lib/clojure &quot;0.0.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/fort.lib/clojure/versions/0.0.2-SNAPSHOT</link>
+    <description>Type annotations and macros for the base Clojure distribution.</description>
+    <pubDate>Mon, 25 May 2020 01:19:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fort.clj/spec/versions/0.0.2-SNAPSHOT</guid>
+    <title>[fort.clj/spec &quot;0.0.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/fort.clj/spec/versions/0.0.2-SNAPSHOT</link>
+    <description>Type-like specs.</description>
+    <pubDate>Mon, 25 May 2020 01:18:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fort.clj/runtime/versions/0.0.2-SNAPSHOT</guid>
+    <title>[fort.clj/runtime &quot;0.0.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/fort.clj/runtime/versions/0.0.2-SNAPSHOT</link>
+    <description>An optional type system for Clojure — zero-dependency artifact for annotations only.</description>
+    <pubDate>Mon, 25 May 2020 01:18:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fort.cljs/analyzer/versions/0.0.2-SNAPSHOT</guid>
+    <title>[fort.cljs/analyzer &quot;0.0.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/fort.cljs/analyzer/versions/0.0.2-SNAPSHOT</link>
+    <description>A variant of tools.analyzer.js.</description>
+    <pubDate>Mon, 25 May 2020 01:18:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fort.clj/analyzer/versions/0.0.2-SNAPSHOT</guid>
+    <title>[fort.clj/analyzer &quot;0.0.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/fort.clj/analyzer/versions/0.0.2-SNAPSHOT</link>
+    <description>A variant of tools.analyzer.jvm.</description>
+    <pubDate>Mon, 25 May 2020 01:18:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fort.cljc/analyzer/versions/0.0.2-SNAPSHOT</guid>
+    <title>[fort.cljc/analyzer &quot;0.0.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/fort.cljc/analyzer/versions/0.0.2-SNAPSHOT</link>
+    <description>A variant of tools.analyzer.</description>
+    <pubDate>Mon, 25 May 2020 01:18:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/clojurephant-cljs-app/clj-template/versions/0.6.0-alpha.2</guid>
+    <title>[clojurephant-cljs-app/clj-template &quot;0.6.0-alpha.2&quot;]</title>
+    <link>https://clojars.org/clojurephant-cljs-app/clj-template/versions/0.6.0-alpha.2</link>
+    <description></description>
+    <pubDate>Mon, 25 May 2020 01:17:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/clojurephant-clj-lib/clj-template/versions/0.6.0-alpha.2</guid>
+    <title>[clojurephant-clj-lib/clj-template &quot;0.6.0-alpha.2&quot;]</title>
+    <link>https://clojars.org/clojurephant-clj-lib/clj-template/versions/0.6.0-alpha.2</link>
+    <description></description>
+    <pubDate>Mon, 25 May 2020 01:17:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/clojurephant-clj-app/clj-template/versions/0.6.0-alpha.2</guid>
+    <title>[clojurephant-clj-app/clj-template &quot;0.6.0-alpha.2&quot;]</title>
+    <link>https://clojars.org/clojurephant-clj-app/clj-template/versions/0.6.0-alpha.2</link>
+    <description></description>
+    <pubDate>Mon, 25 May 2020 01:16:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.clojurephant/clojurephant-tools/versions/0.6.0-alpha.2</guid>
+    <title>[dev.clojurephant/clojurephant-tools &quot;0.6.0-alpha.2&quot;]</title>
+    <link>https://clojars.org/dev.clojurephant/clojurephant-tools/versions/0.6.0-alpha.2</link>
+    <description></description>
+    <pubDate>Mon, 25 May 2020 01:16:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.clojurephant/clojurephant-plugin/versions/0.6.0-alpha.2</guid>
+    <title>[dev.clojurephant/clojurephant-plugin &quot;0.6.0-alpha.2&quot;]</title>
+    <link>https://clojars.org/dev.clojurephant/clojurephant-plugin/versions/0.6.0-alpha.2</link>
+    <description></description>
+    <pubDate>Mon, 25 May 2020 01:16:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.clojurephant.clojure/dev.clojurephant.clojure.gradle.plugin/versions/0.6.0-alpha.2</guid>
+    <title>[dev.clojurephant.clojure/dev.clojurephant.clojure.gradle.plugin &quot;0.6.0-alpha.2&quot;]</title>
+    <link>https://clojars.org/dev.clojurephant.clojure/dev.clojurephant.clojure.gradle.plugin/versions/0.6.0-alpha.2</link>
+    <description></description>
+    <pubDate>Mon, 25 May 2020 01:15:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.clojurephant.clojure-base/dev.clojurephant.clojure-base.gradle.plugin/versions/0.6.0-alpha.2</guid>
+    <title>[dev.clojurephant.clojure-base/dev.clojurephant.clojure-base.gradle.plugin &quot;0.6.0-alpha.2&quot;]</title>
+    <link>https://clojars.org/dev.clojurephant.clojure-base/dev.clojurephant.clojure-base.gradle.plugin/versions/0.6.0-alpha.2</link>
+    <description></description>
+    <pubDate>Mon, 25 May 2020 01:15:16 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.fulcrologic/fulcro-rad/versions/0.0.10-alpha</guid>
     <title>[com.fulcrologic/fulcro-rad &quot;0.0.10-alpha&quot;]</title>
@@ -321,83 +482,6 @@
     <pubDate>Sat, 23 May 2020 20:04:32 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/fort.lib/core.async/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.lib/core.async &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.lib/core.async/versions/0.0.2-SNAPSHOT</link>
-    <description>Type annotations and macros for core.async.</description>
-    <pubDate>Sat, 23 May 2020 19:52:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.clj/annotator/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.clj/annotator &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.clj/annotator/versions/0.0.2-SNAPSHOT</link>
-    <description>Runtime type inference algorithm for Fort and clojure.spec.</description>
-    <pubDate>Sat, 23 May 2020 19:52:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.cljs/checker/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.cljs/checker &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.cljs/checker/versions/0.0.2-SNAPSHOT</link>
-    <description>An optional type system for ClojureScript — full system for annotating and type-checking.</description>
-    <pubDate>Sat, 23 May 2020 19:52:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.clj/checker/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.clj/checker &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.clj/checker/versions/0.0.2-SNAPSHOT</link>
-    <description>An optional type system for Clojure — full system for annotating and type-checking.</description>
-    <pubDate>Sat, 23 May 2020 19:52:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.clj/lang/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.clj/lang &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.clj/lang/versions/0.0.2-SNAPSHOT</link>
-    <description>Extensible languages in Clojure, a la Racket&#39;s #lang.</description>
-    <pubDate>Sat, 23 May 2020 19:52:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.lib/clojure/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.lib/clojure &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.lib/clojure/versions/0.0.2-SNAPSHOT</link>
-    <description>Type annotations and macros for the base Clojure distribution.</description>
-    <pubDate>Sat, 23 May 2020 19:51:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.clj/spec/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.clj/spec &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.clj/spec/versions/0.0.2-SNAPSHOT</link>
-    <description>Type-like specs.</description>
-    <pubDate>Sat, 23 May 2020 19:51:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.clj/runtime/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.clj/runtime &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.clj/runtime/versions/0.0.2-SNAPSHOT</link>
-    <description>An optional type system for Clojure — zero-dependency artifact for annotations only.</description>
-    <pubDate>Sat, 23 May 2020 19:51:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.cljs/analyzer/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.cljs/analyzer &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.cljs/analyzer/versions/0.0.2-SNAPSHOT</link>
-    <description>A variant of tools.analyzer.js.</description>
-    <pubDate>Sat, 23 May 2020 19:51:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.clj/analyzer/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.clj/analyzer &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.clj/analyzer/versions/0.0.2-SNAPSHOT</link>
-    <description>A variant of tools.analyzer.jvm.</description>
-    <pubDate>Sat, 23 May 2020 19:51:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.cljc/analyzer/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.cljc/analyzer &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.cljc/analyzer/versions/0.0.2-SNAPSHOT</link>
-    <description>A variant of tools.analyzer.</description>
-    <pubDate>Sat, 23 May 2020 19:51:24 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/fort/pom/versions/0.0.2-SNAPSHOT</guid>
     <title>[fort/pom &quot;0.0.2-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/fort/pom/versions/0.0.2-SNAPSHOT</link>
@@ -445,13 +529,6 @@
     <link>https://clojars.org/cumulo/util/versions/0.1.11</link>
     <description></description>
     <pubDate>Sat, 23 May 2020 17:50:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/degree9/enterprise/versions/0.0.0-SNAPSHOT</guid>
-    <title>[degree9/enterprise &quot;0.0.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/degree9/enterprise/versions/0.0.0-SNAPSHOT</link>
-    <description>Degree9 Enterprise Platform.</description>
-    <pubDate>Sat, 23 May 2020 17:12:59 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/seancorfield/next.jdbc/versions/1.0.445</guid>
@@ -1720,83 +1797,6 @@
     <link>https://clojars.org/techascent/tech.netcdf/versions/0.98</link>
     <description>netcdf bindings for tech ecosystem.</description>
     <pubDate>Wed, 20 May 2020 16:54:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/techascent/tech.ml/versions/2.0-beta-46</guid>
-    <title>[techascent/tech.ml &quot;2.0-beta-46&quot;]</title>
-    <link>https://clojars.org/techascent/tech.ml/versions/2.0-beta-46</link>
-    <description>Base concepts of the techascent ml suite</description>
-    <pubDate>Wed, 20 May 2020 16:52:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/techascent/tech.ml.dataset/versions/2.0-beta-46</guid>
-    <title>[techascent/tech.ml.dataset &quot;2.0-beta-46&quot;]</title>
-    <link>https://clojars.org/techascent/tech.ml.dataset/versions/2.0-beta-46</link>
-    <description>Dataset and ETL pipeline for machine learning</description>
-    <pubDate>Wed, 20 May 2020 16:49:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/techascent/tech.datatype/versions/5.0-beta-32</guid>
-    <title>[techascent/tech.datatype &quot;5.0-beta-32&quot;]</title>
-    <link>https://clojars.org/techascent/tech.datatype/versions/5.0-beta-32</link>
-    <description>Library for efficient manipulation of contiguous mutable containers of primitive datatypes.</description>
-    <pubDate>Wed, 20 May 2020 16:45:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.replikativ/zufall/versions/0.1.0</guid>
-    <title>[io.replikativ/zufall &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/io.replikativ/zufall/versions/0.1.0</link>
-    <description>Random name generators</description>
-    <pubDate>Wed, 20 May 2020 16:25:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tupelo/versions/0.9.204</guid>
-    <title>[tupelo &quot;0.9.204&quot;]</title>
-    <link>https://clojars.org/tupelo/versions/0.9.204</link>
-    <description>Tupelo:  Clojure With A Spoonful of Honey</description>
-    <pubDate>Wed, 20 May 2020 16:14:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/techascent/tech.ml.dataset/versions/2.0-beta-45</guid>
-    <title>[techascent/tech.ml.dataset &quot;2.0-beta-45&quot;]</title>
-    <link>https://clojars.org/techascent/tech.ml.dataset/versions/2.0-beta-45</link>
-    <description>Dataset and ETL pipeline for machine learning</description>
-    <pubDate>Wed, 20 May 2020 15:48:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/techascent/tech.datatype/versions/5.0-beta-31</guid>
-    <title>[techascent/tech.datatype &quot;5.0-beta-31&quot;]</title>
-    <link>https://clojars.org/techascent/tech.datatype/versions/5.0-beta-31</link>
-    <description>Library for efficient manipulation of contiguous mutable containers of primitive datatypes.</description>
-    <pubDate>Wed, 20 May 2020 15:37:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/vvvvalvalval/mapdag/versions/0.1.0</guid>
-    <title>[vvvvalvalval/mapdag &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/vvvvalvalval/mapdag/versions/0.1.0</link>
-    <description>A library for expressing computations as DAGs of named steps. Maps-in, maps-out.</description>
-    <pubDate>Wed, 20 May 2020 15:13:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/de.active-group/reacl-c-basics/versions/0.7.9</guid>
-    <title>[de.active-group/reacl-c-basics &quot;0.7.9&quot;]</title>
-    <link>https://clojars.org/de.active-group/reacl-c-basics/versions/0.7.9</link>
-    <description>Library with utilities often useful when writing web applications with Reacl-C.</description>
-    <pubDate>Wed, 20 May 2020 15:07:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/borkdude/sci/versions/0.0.13-alpha.24</guid>
-    <title>[borkdude/sci &quot;0.0.13-alpha.24&quot;]</title>
-    <link>https://clojars.org/borkdude/sci/versions/0.0.13-alpha.24</link>
-    <description>Small Clojure Interpreter</description>
-    <pubDate>Wed, 20 May 2020 14:50:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/vvvvalvalval/mapdag/versions/0.1.0-alpha0</guid>
-    <title>[vvvvalvalval/mapdag &quot;0.1.0-alpha0&quot;]</title>
-    <link>https://clojars.org/vvvvalvalval/mapdag/versions/0.1.0-alpha0</link>
-    <description>A library for expressing computations as DAGs of named steps. Maps-in, maps-out.</description>
-    <pubDate>Wed, 20 May 2020 14:49:39 +0000</pubDate>
   </item>
   </channel>
 </rss>
