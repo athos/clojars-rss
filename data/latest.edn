@@ -1,15 +1,3 @@
-{:jar_name "babashka", :group_name "borkdude", :version "0.0.98-SNAPSHOT", :description "babashka", :created 1590271582605}
-{:jar_name "clj-telemetry", :group_name "clj-telemetry", :version "0.1.4", :description "A Clojure library designed to wrap OpenTelemetry Java API", :created 1590272017009}
-{:jar_name "jax-patcher", :group_name "wavejumper", :version "1.0.0", :description "Patcher DSL for jax", :created 1590290376947}
-{:jar_name "too-hot", :group_name "org.clojars.thesherwood", :version "0.1.0-SNAPSHOT", :description "A very simple Fahrenheit to Celsius converter.", :created 1590299062082}
-{:jar_name "clowg", :group_name "clowg", :version "0.1.7", :description "A Clojure library for generating Clojure wrappers around Java", :created 1590301711106}
-{:jar_name "too-hot", :group_name "org.clojars.thesherwood", :version "0.1.2-SNAPSHOT", :description "A very simple Fahrenheit to Celsius converter.", :created 1590301998381}
-{:jar_name "tonal", :group_name "wavejumper", :version "3.6.5-3", :description "Clojure API into the JavaScript tonal library", :created 1590304205876}
-{:jar_name "reel", :group_name "respo", :version "0.4.1-a1", :description nil, :created 1590304947662}
-{:jar_name "sci", :group_name "borkdude", :version "0.0.13-alpha.26", :description "Small Clojure Interpreter", :created 1590305995974}
-{:jar_name "clj-polyglot", :group_name "wavejumper", :version "1.0.0", :description "Clojure API into graal polygamy", :created 1590306707901}
-{:jar_name "babashka", :group_name "borkdude", :version "0.0.98", :description "babashka", :created 1590306957988}
-{:jar_name "db-model", :group_name "db-model", :version "0.1.4", :description "配合duct framework，自動產生資料庫中英字典檔．spec．graphql schema及sql等檔案，避免重複人工作業。", :created 1590310887443}
 {:jar_name "duct.module.pedestal", :group_name "duct.module.pedestal", :version "2.1.2", :description "Duct module for Pedestal", :created 1590311304645}
 {:jar_name "klj-api", :group_name "org.clojars.diogok", :version "0.0.1", :description "My personal libs for a Clojure web Api", :created 1590311924031}
 {:jar_name "db-model", :group_name "db-model", :version "0.1.5", :description "配合duct framework，自動產生資料庫中英字典檔．spec．graphql schema及sql等檔案，避免重複人工作業。", :created 1590313739348}
@@ -244,7 +232,6 @@
 {:jar_name "fulcro-material-ui-wrapper", :group_name "com.github.mrebbinghaus", :version "0.1.0", :description "Wrapper of https://material-ui.com/ for fulcro", :created 1590592432197}
 {:jar_name "lein-template", :group_name "luminus", :version "3.74", :description "a template for creating Luminus applications", :created 1590595326834}
 {:jar_name "vault", :group_name "vault", :version "1.0.0", :description "the simplest secret management system available", :created 1590595783191}
-{:jar_name "enterprise", :group_name "degree9", :version "0.0.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1590605071603}
 {:jar_name "cljc.java-time", :group_name "cljc.java-time", :version "0.1.9", :description "A Clojure(Script) library which provides the java.time api through kebab-case-named function vars.", :created 1590605150608}
 {:jar_name "common-cli", :group_name "org.cyverse", :version "2.8.2-SNAPSHOT", :description "Common CLI functions for the DE backend services and tools", :created 1590605580166}
 {:jar_name "async-tasks-client", :group_name "org.cyverse", :version "0.0.4-SNAPSHOT", :description "Client for the async-tasks service", :created 1590605728613}
@@ -254,3 +241,16 @@
 {:jar_name "cyverse-groups-client", :group_name "org.cyverse", :version "0.1.9-SNAPSHOT", :description "A Clojure client library for the CyVerse groups service.", :created 1590606146778}
 {:jar_name "redelay", :group_name "functionalbytes", :version "1.0.0-SNAPSHOT", :description "Clojure library for first class lifecycle-managed state.", :created 1590606318848}
 {:jar_name "debug-utils", :group_name "org.cyverse", :version "2.9.0-SNAPSHOT", :description "Common Debugging Utilities for Clojure Projects", :created 1590606374038}
+{:jar_name "clj-icat-direct", :group_name "org.cyverse", :version "2.8.7-SNAPSHOT", :description "A Clojure library for accessing the iRODS ICAT database directly.", :created 1590606456840}
+{:jar_name "common-swagger-api", :group_name "org.cyverse", :version "3.0.2-SNAPSHOT", :description "Common library for Swagger documented RESTful APIs", :created 1590606508930}
+{:jar_name "heuristomancer", :group_name "org.cyverse", :version "2.8.7-SNAPSHOT", :description "Clojure library for attempting to guess file types.", :created 1590606573580}
+{:jar_name "kameleon", :group_name "org.cyverse", :version "3.0.5-SNAPSHOT", :description "Library for interacting with backend relational databases.", :created 1590606939283}
+{:jar_name "clojure-commons", :group_name "org.cyverse", :version "3.0.6-SNAPSHOT", :description "Common Utilities for Clojure Projects", :created 1590607090750}
+{:jar_name "mescal", :group_name "org.cyverse", :version "3.1.4-SNAPSHOT", :description "A Clojure client library for the Agave API.", :created 1590607099046}
+{:jar_name "metadata-client", :group_name "org.cyverse", :version "3.1.2-SNAPSHOT", :description "Client for the metadata service", :created 1590607251664}
+{:jar_name "oai-ore", :group_name "org.cyverse", :version "1.0.4-SNAPSHOT", :description "Library for generating OAI-ORE files.", :created 1590607372188}
+{:jar_name "permissions-client", :group_name "org.cyverse", :version "2.8.2-SNAPSHOT", :description "A Clojure client library for the CyVerse permissions service.", :created 1590607438470}
+{:jar_name "tree-urls-client", :group_name "org.cyverse", :version "2.8.2-SNAPSHOT", :description "Client for the tree-urls service", :created 1590607898706}
+{:jar_name "service-logging", :group_name "org.cyverse", :version "2.8.3-SNAPSHOT", :description "Common Logging Utilities for Clojure Projects", :created 1590608059485}
+{:jar_name "reveal", :group_name "vlaaad", :version "0.1.0-ea20", :description nil, :created 1590608481438}
+{:jar_name "enterprise", :group_name "degree9", :version "0.0.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1590610051968}
