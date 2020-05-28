@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 28 May 2020 13:06:29 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2020 14:08:14 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/twarc/versions/0.1.14</guid>
+    <title>[twarc &quot;0.1.14&quot;]</title>
+    <link>https://clojars.org/twarc/versions/0.1.14</link>
+    <description>Doing Quartz the right way</description>
+    <pubDate>Thu, 28 May 2020 13:56:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/knossos/versions/0.3.7-SNAPSHOT</guid>
+    <title>[knossos &quot;0.3.7-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/knossos/versions/0.3.7-SNAPSHOT</link>
+    <description>Linearizability checker</description>
+    <pubDate>Thu, 28 May 2020 13:50:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/workshub/shyvana/versions/0.1.0-SNAPSHOT</guid>
+    <title>[workshub/shyvana &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/workshub/shyvana/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure, data-based, wrapper for getstream.io Java API</description>
+    <pubDate>Thu, 28 May 2020 13:43:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20200528-133446.d1dcd99c</guid>
+    <title>[org.akvo.flow/akvo-flow &quot;20200528-133446.d1dcd99c&quot;]</title>
+    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20200528-133446.d1dcd99c</link>
+    <description></description>
+    <pubDate>Thu, 28 May 2020 13:35:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.geek-vivek.dropwizard/jmx-dropwizard-metrics/versions/1.0.1</guid>
+    <title>[com.geek-vivek.dropwizard/jmx-dropwizard-metrics &quot;1.0.1&quot;]</title>
+    <link>https://clojars.org/com.geek-vivek.dropwizard/jmx-dropwizard-metrics/versions/1.0.1</link>
+    <description>A library to add metrics from JMX MBeanServer to MetricRegistry based on given config.</description>
+    <pubDate>Thu, 28 May 2020 13:20:22 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20200528-124248.67b358d5</guid>
     <title>[org.akvo.flow/akvo-flow &quot;20200528-124248.67b358d5&quot;]</title>
@@ -67,13 +102,6 @@
     <link>https://clojars.org/borkdude/babashka/versions/0.1.0-SNAPSHOT</link>
     <description>babashka</description>
     <pubDate>Thu, 28 May 2020 10:12:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/workshub/shyvana/versions/0.1.0-SNAPSHOT</guid>
-    <title>[workshub/shyvana &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/workshub/shyvana/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure, data-based, wrapper for getstream.io Java API</description>
-    <pubDate>Thu, 28 May 2020 09:40:24 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/cljam/versions/0.7.5-SNAPSHOT</guid>
@@ -1769,34 +1797,6 @@ om.next graph syntax.</description>
     <link>https://clojars.org/fort.clj/lang/versions/0.0.2-SNAPSHOT</link>
     <description>Extensible languages in Clojure, a la Racket&#39;s #lang.</description>
     <pubDate>Mon, 25 May 2020 01:19:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.lib/clojure/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.lib/clojure &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.lib/clojure/versions/0.0.2-SNAPSHOT</link>
-    <description>Type annotations and macros for the base Clojure distribution.</description>
-    <pubDate>Mon, 25 May 2020 01:19:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.clj/spec/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.clj/spec &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.clj/spec/versions/0.0.2-SNAPSHOT</link>
-    <description>Type-like specs.</description>
-    <pubDate>Mon, 25 May 2020 01:18:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.clj/runtime/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.clj/runtime &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.clj/runtime/versions/0.0.2-SNAPSHOT</link>
-    <description>An optional type system for Clojure — zero-dependency artifact for annotations only.</description>
-    <pubDate>Mon, 25 May 2020 01:18:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fort.cljs/analyzer/versions/0.0.2-SNAPSHOT</guid>
-    <title>[fort.cljs/analyzer &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fort.cljs/analyzer/versions/0.0.2-SNAPSHOT</link>
-    <description>A variant of tools.analyzer.js.</description>
-    <pubDate>Mon, 25 May 2020 01:18:40 +0000</pubDate>
   </item>
   </channel>
 </rss>
