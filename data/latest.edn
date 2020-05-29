@@ -1,6 +1,3 @@
-{:jar_name "clsql", :group_name "clsql", :version "0.1.0", :description "clsql provides a small abstraction for handling SQL and migrations", :created 1590427492861}
-{:jar_name "reacl-c-basics", :group_name "de.active-group", :version "0.8.0", :description "Library with utilities often useful when writing web applications with Reacl-C.", :created 1590427801758}
-{:jar_name "tech.datatype", :group_name "techascent", :version "5.0-beta-36", :description "Library for efficient manipulation of contiguous mutable containers of primitive datatypes.", :created 1590428311629}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.9.9", :description "CLJS development tools", :created 1590431600795}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "2.0-beta-51", :description "Dataset and ETL pipeline for machine learning", :created 1590432441094}
 {:jar_name "pg-types", :group_name "pg-types", :version "2.4.0", :description "Postgresql Types with Clojure JDBC", :created 1590432874355}
@@ -227,7 +224,6 @@
 {:jar_name "dv.cljs-emotion", :group_name "dv", :version "version-one", :description "ClojureScript wrapper of emotion css-in-js library", :created 1590725315428}
 {:jar_name "mlib", :group_name "maxp", :version "4.5.24", :description "mlib commons", :created 1590725798571}
 {:jar_name "cljs-emotion", :group_name "dv", :version "version-one", :description "ClojureScript wrapper of emotion css-in-js library", :created 1590727536875}
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1590727564762}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200529-074800.4b801e47", :description nil, :created 1590738505447}
 {:jar_name "taiwan-id", :group_name "taiwan-id", :version "0.4.1", :description "clojure台灣身分證字號檢核程式庫，包含新版及舊版外來人口統一證號檢核", :created 1590741762261}
 {:jar_name "useful", :group_name "com.timezynk", :version "1.9.0", :description "Useful functions", :created 1590744158957}
@@ -254,3 +250,7 @@
 {:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.11", :description "Data definitions for APIs", :created 1590762417655}
 {:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.11", :description "Data definitions for APIs", :created 1590762429019}
 {:jar_name "blueprint", :group_name "exoscale", :version "0.2.11", :description "Data definitions for APIs", :created 1590762440858}
+{:jar_name "cljc.java-time", :group_name "cljc.java-time", :version "0.1.11", :description "A Clojure(Script) library which provides the java.time api through kebab-case-named function vars.", :created 1590769887954}
+{:jar_name "core", :group_name "macchiato", :version "0.2.18", :description "ClojureScript Ring style HTTP server abstraction for Node.js.", :created 1590771201122}
+{:jar_name "lein-template", :group_name "macchiato", :version "0.2.62", :description "A Leiningen template for creating Node.js based ClojureScript apps.", :created 1590771255760}
+{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1590771575429}
