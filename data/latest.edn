@@ -27,7 +27,6 @@
 {:jar_name "figwheel-main", :group_name "com.bhauman", :version "0.2.6", :description "Figwheel Main - Clojurescript tooling.", :created 1590513550725}
 {:jar_name "funnel", :group_name "lambdaisland", :version "0.0.37", :description "Transit-over-WebSocket Message Relay", :created 1590514050372}
 {:jar_name "reel", :group_name "respo", :version "0.4.1", :description nil, :created 1590514587801}
-{:jar_name "duckula", :group_name "nomnom", :version "0.6.0-SNAPSHOT", :description "RPC server (and soon, client), built on top of JSON+Avro+HTTP", :created 1590514938865}
 {:jar_name "stylefy", :group_name "stylefy", :version "2.0.0-beta3", :description "Library for styling UI components", :created 1590515163989}
 {:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.1.38", :description "", :created 1590515453579}
 {:jar_name "ziggurat", :group_name "tech.gojek", :version "3.3.0", :description "A stream processing framework to build stateless applications on kafka", :created 1590516308574}
@@ -41,7 +40,6 @@
 {:jar_name "lein-template", :group_name "figwheel", :version "0.5.20-2", :description "A Leinigen template for figwheel", :created 1590528658613}
 {:jar_name "reveal", :group_name "vlaaad", :version "0.1.0-ea19", :description nil, :created 1590529851428}
 {:jar_name "redelay", :group_name "functionalbytes", :version "0.1.0-SNAPSHOT", :description "Clojure library for first class lifecycle-managed state.", :created 1590531452632}
-{:jar_name "rmap", :group_name "functionalbytes", :version "2.0.0-SNAPSHOT", :description "A Clojure library to define literal recursive maps.", :created 1590531995026}
 {:jar_name "lifted", :group_name "functionalbytes", :version "1.0.0-SNAPSHOT", :description "Lift Clojure functions into protocols.", :created 1590532289539}
 {:jar_name "tech.ml.dataset.sql", :group_name "techascent", :version "0.3", :description "SQL bindings for tech.ml.dataset", :created 1590534101285}
 {:jar_name "vault-clj-aws", :group_name "amperity", :version "0.0.3", :description "Vault-clj extension to support aws iam instance authentication.", :created 1590535844517}
@@ -247,10 +245,12 @@
 {:jar_name "figwheel-main", :group_name "com.bhauman", :version "0.2.7-SNAPSHOT", :description "Figwheel Main - Clojurescript tooling.", :created 1590851304561}
 {:jar_name "orchard", :group_name "cider", :version "0.5.9", :description "A fertile ground for Clojure tooling", :created 1590853412124}
 {:jar_name "babashka.nrepl", :group_name "babashka", :version "0.0.4-SNAPSHOT", :description "babashka nREPL module", :created 1590855062843}
-{:jar_name "babashka", :group_name "borkdude", :version "0.1.0-SNAPSHOT", :description "babashka", :created 1590855390237}
 {:jar_name "prevayler-clj", :group_name "coreagile", :version "3.0.7", :description "Simple, fast, ACID persistence in Clojure.", :created 1590857234237}
 {:jar_name "cider-nrepl", :group_name "cider", :version "0.25.0", :description "A collection of nREPL middlewares designed to enhance Clojure editors.", :created 1590857433785}
 {:jar_name "webdriver", :group_name "webdriver", :version "0.16.0", :description "A clojure selenium webdriver wrapper", :created 1590858714231}
 {:jar_name "prevayler-clj", :group_name "coreagile", :version "3.0.9", :description "Simple, fast, ACID persistence in Clojure.", :created 1590859184366}
 {:jar_name "logbug", :group_name "logbug", :version "5.0.0", :description "Cross-cutting utilities for logging and debugging in Clojure.", :created 1590859433605}
 {:jar_name "logfmt", :group_name "rymndhng", :version "0.1.0", :description "logfmt output for Clojure", :created 1590861372310}
+{:jar_name "duckula", :group_name "nomnom", :version "0.6.0-SNAPSHOT", :description "RPC server (and soon, client), built on top of JSON+Avro+HTTP", :created 1590864282012}
+{:jar_name "rmap", :group_name "functionalbytes", :version "2.0.0-SNAPSHOT", :description "A Clojure library to define literal recursive maps.", :created 1590865143285}
+{:jar_name "babashka", :group_name "borkdude", :version "0.1.0-SNAPSHOT", :description "babashka", :created 1590865377408}
