@@ -1,7 +1,3 @@
-{:jar_name "component.flyway-migrator", :group_name "io.logicblocks", :version "0.1.1-RC2", :description "A component to run flyway migrations on system start.", :created 1590372263368}
-{:jar_name "component.jdbc-data-source.postgres", :group_name "io.logicblocks", :version "0.1.1-RC4", :description "A component providing a pooled postgres JDBC data source.", :created 1590372271639}
-{:jar_name "liberator-hal.ping-resource", :group_name "io.logicblocks", :version "0.1.3-RC2", :description "A HAL ping resource for liberator", :created 1590372370776}
-{:jar_name "liberator-hal.discovery-resource", :group_name "io.logicblocks", :version "0.1.1-RC2", :description "A HAL discovery resource for liberator", :created 1590372452333}
 {:jar_name "datalog-parser", :group_name "io.lambdaforge", :version "0.1.4", :description "Datalog parser.", :created 1590380595345}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.20", :description nil, :created 1590381801610}
 {:jar_name "origami-sources", :group_name "origami-sources", :version "1.0.0", :description "", :created 1590383057955}
@@ -254,3 +250,7 @@
 {:jar_name "celtuce", :group_name "celtuce", :version "0.3.5", :description "An idiomatic Clojure Redis client wrapping the Java client Lettuce", :created 1590924862291}
 {:jar_name "carbon-wrapper", :group_name "ch.lyrion", :version "1.0.0", :description nil, :created 1590929372755}
 {:jar_name "carbon-wrapper", :group_name "ch.lyrion", :version "1.0.2", :description nil, :created 1590934875539}
+{:jar_name "rn-shadow-steroid", :group_name "rn-shadow-steroid", :version "0.2.3", :description "React Native with shadow-cljs on steroids", :created 1590937561140}
+{:jar_name "geni", :group_name "zero.one", :version "0.0.5", :description "A Clojure library that wraps Apache Spark", :created 1590940317427}
+{:jar_name "lein-template", :group_name "geni", :version "0.0.5", :description "Leiningen template for a Geni application.", :created 1590940449095}
+{:jar_name "spec-dict", :group_name "spec-dict", :version "0.2.0", :description "Better s/keys spec for Clojure", :created 1590940846248}
