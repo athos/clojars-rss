@@ -1,12 +1,3 @@
-{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.2", :description "Snappy data-driven router for Clojure(Script)", :created 1590557665734}
-{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.2", :description "Reitit: clojure.spec coercion", :created 1590557682862}
-{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.2", :description "Reitit: Malli coercion", :created 1590557699953}
-{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.2", :description "Reitit: Plumatic Schema coercion", :created 1590557716056}
-{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.2", :description "Reitit: Ring routing", :created 1590557734772}
-{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.2", :description "Reitit, common middleware bundled", :created 1590557759243}
-{:jar_name "reitit-http", :group_name "metosin", :version "0.5.2", :description "Reitit: HTTP routing with interceptors", :created 1590557779454}
-{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.2", :description "Reitit, common interceptors bundled", :created 1590557798390}
-{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.2", :description "Reitit: Swagger-support", :created 1590557815913}
 {:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.2", :description "Reitit: Swagger-ui support", :created 1590557830836}
 {:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.2", :description "Reitit: Clojurescript frontend routing core", :created 1590557851032}
 {:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.2", :description "Reitit: Sieppari Interceptors", :created 1590557867191}
@@ -232,7 +223,6 @@
 {:jar_name "tools.namespace", :group_name "org.clojure.clr", :version "1.0.0-SNAPSHOT", :description "Port of clojure.org/tools.namespace to ClojureCLR", :created 1590963394729}
 {:jar_name "data.generators", :group_name "org.clojure.clr", :version "1.0.0", :description "Port of clojure.org/data.generators to ClojureCLR", :created 1590965921602}
 {:jar_name "tools.namespace", :group_name "org.clojure.clr", :version "1.0.0", :description "Port of clojure.org/tools.namespace to ClojureCLR", :created 1590966565975}
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1590966676011}
 {:jar_name "gorilla-renderable-ui", :group_name "org.pinkgorilla", :version "0.1.35", :description "Gorilla Renderable UI - cljs based rendering for Pink Gorilla Notebook.", :created 1590967686391}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "2.0-beta-54", :description "Dataset and ETL pipeline for machine learning", :created 1590968900847}
 {:jar_name "fulcro-material-ui-wrapper", :group_name "com.github.mrebbinghaus", :version "0.4.0", :description "Wrapper of https://material-ui.com/ for fulcro", :created 1590970134919}
@@ -254,3 +244,13 @@
 {:jar_name "babashka", :group_name "borkdude", :version "0.1.1-SNAPSHOT", :description "babashka", :created 1591028221961}
 {:jar_name "sweet-tooth-endpoint", :group_name "sweet-tooth", :version "0.9.4", :description "Utilities for working with liberator-based endpoints", :created 1591029605072}
 {:jar_name "slava", :group_name "slava", :version "0.0.29", :description "Infer specs from any Avro type", :created 1591030816404}
+{:jar_name "alerts", :group_name "respo", :version "0.5.2", :description nil, :created 1591031528975}
+{:jar_name "effect", :group_name "darkleaf", :version "0.0.26", :description "Effect system", :created 1591032352461}
+{:jar_name "kurosawa.log", :group_name "org.purefn", :version "2.1.11", :description "A Kurosawa library for logging.", :created 1591033555162}
+{:jar_name "kurosawa.web", :group_name "org.purefn", :version "2.1.11", :description "The Kurosawa web library.", :created 1591033564486}
+{:jar_name "kurosawa.aws", :group_name "org.purefn", :version "2.1.11", :description "AWS Utilities.", :created 1591033573098}
+{:jar_name "kurosawa.nrepl", :group_name "org.purefn", :version "2.1.11", :description "The Kurosawa nREPL library.", :created 1591033581222}
+{:jar_name "kurosawa.core", :group_name "org.purefn", :version "2.1.11", :description "The root Kurosawa library.", :created 1591033589649}
+{:jar_name "kurosawa", :group_name "org.purefn", :version "2.1.11", :description "A catch-all project that brings in all Kurosawa libs.", :created 1591033599601}
+{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1591034541108}
+{:jar_name "sweet-tooth-endpoint", :group_name "sweet-tooth", :version "0.10.0", :description "Utilities for working with liberator-based endpoints", :created 1591034575734}
