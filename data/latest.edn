@@ -1,5 +1,3 @@
-{:jar_name "stylefy", :group_name "stylefy", :version "2.0.0-rc.1", :description "Library for styling UI components", :created 1590591713049}
-{:jar_name "fulcro-material-ui-wrapper", :group_name "com.github.mrebbinghaus", :version "0.1.0", :description "Wrapper of https://material-ui.com/ for fulcro", :created 1590592432197}
 {:jar_name "lein-template", :group_name "luminus", :version "3.74", :description "a template for creating Luminus applications", :created 1590595326834}
 {:jar_name "vault", :group_name "vault", :version "1.0.0", :description "the simplest secret management system available", :created 1590595783191}
 {:jar_name "cljc.java-time", :group_name "cljc.java-time", :version "0.1.9", :description "A Clojure(Script) library which provides the java.time api through kebab-case-named function vars.", :created 1590605150608}
@@ -116,7 +114,6 @@
 {:jar_name "clj-xlsxio", :group_name "clj-xlsxio", :version "0.5.2", :description "xlsxio for clojure", :created 1590777184730}
 {:jar_name "cnab-parser", :group_name "cnab-parser", :version "0.0.11", :description "Parser de CNAB de bancos brasileiros", :created 1590790951319}
 {:jar_name "honeysql", :group_name "honeysql", :version "1.0.444", :description "SQL as Clojure data structures.", :created 1590794016914}
-{:jar_name "vocabulary", :group_name "ont-app", :version "0.1.1-SNAPSHOT", :description "Utilities to map between namespaced keywords and URIs", :created 1590798043946}
 {:jar_name "jepsen.etcd", :group_name "jepsen.etcd", :version "0.2.1-SNAPSHOT", :description "etcd Jepsen test", :created 1590804267405}
 {:jar_name "grape", :group_name "leadlab", :version "0.0.9", :description "Graph Rewriting And Persistence Engine", :created 1590805255893}
 {:jar_name "sources", :group_name "origami", :version "1.0.2", :description "", :created 1590823477057}
@@ -254,3 +251,6 @@
 {:jar_name "cljsutil", :group_name "cljsutil", :version "0.1.0-SNAPSHOT", :description "Util for cljs projects", :created 1591122417969}
 {:jar_name "core", :group_name "yetibot", :version "20200602.191918.7afd3ad", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1591125739006}
 {:jar_name "gorilla-plot", :group_name "org.pinkgorilla", :version "0.9.9", :description "A simple data-driven plotting library using Gorilla UI.", :created 1591131786682}
+{:jar_name "deps.clj", :group_name "borkdude", :version "0.0.9", :description "deps.clj: a Clojure port of the clojure bash script", :created 1591131989915}
+{:jar_name "clojisr-gorilla", :group_name "org.pinkgorilla", :version "0.0.5", :description "Clojure<->R interop", :created 1591133531802}
+{:jar_name "vocabulary", :group_name "ont-app", :version "0.1.1-SNAPSHOT", :description "Utilities to map between namespaced keywords and URIs", :created 1591134852484}
