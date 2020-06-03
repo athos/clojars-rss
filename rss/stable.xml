@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 3 Jun 2020 22:05:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 3 Jun 2020 23:20:36 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/dv/tick-util/versions/2020-06-03-b</guid>
+    <title>[dv/tick-util &quot;2020-06-03-b&quot;]</title>
+    <link>https://clojars.org/dv/tick-util/versions/2020-06-03-b</link>
+    <description>Utils for juxt/tick</description>
+    <pubDate>Wed, 3 Jun 2020 23:19:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/leadlab/grape/versions/0.1.0</guid>
+    <title>[leadlab/grape &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/leadlab/grape/versions/0.1.0</link>
+    <description>Graph Rewriting And Persistence Engine</description>
+    <pubDate>Wed, 3 Jun 2020 23:18:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ont-app/vocabulary/versions/0.1.1</guid>
+    <title>[ont-app/vocabulary &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/ont-app/vocabulary/versions/0.1.1</link>
+    <description>Utilities to map between namespaced keywords and URIs</description>
+    <pubDate>Wed, 3 Jun 2020 23:09:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/toyokumo/tarayo/versions/0.2.2</guid>
+    <title>[toyokumo/tarayo &quot;0.2.2&quot;]</title>
+    <link>https://clojars.org/toyokumo/tarayo/versions/0.2.2</link>
+    <description>SMTP client library for Clojure. That’s it.</description>
+    <pubDate>Wed, 3 Jun 2020 23:02:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dv/clj-utils/versions/2020-06-03</guid>
+    <title>[dv/clj-utils &quot;2020-06-03&quot;]</title>
+    <link>https://clojars.org/dv/clj-utils/versions/2020-06-03</link>
+    <description>My helpers and additions</description>
+    <pubDate>Wed, 3 Jun 2020 22:59:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ont-app/igraph/versions/0.1.5</guid>
+    <title>[ont-app/igraph &quot;0.1.5&quot;]</title>
+    <link>https://clojars.org/ont-app/igraph/versions/0.1.5</link>
+    <description>Defines a IGraph protocol for maintaining a querying different graph implementations</description>
+    <pubDate>Wed, 3 Jun 2020 22:12:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/storage-backend/versions/0.1.4</guid>
+    <title>[storage-backend &quot;0.1.4&quot;]</title>
+    <link>https://clojars.org/storage-backend/versions/0.1.4</link>
+    <description>FIXME: write description</description>
+    <pubDate>Wed, 3 Jun 2020 22:07:09 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/iced-nrepl/versions/1.0.2</guid>
     <title>[iced-nrepl &quot;1.0.2&quot;]</title>
@@ -1750,55 +1799,6 @@
     <link>https://clojars.org/metosin/reitit-schema/versions/0.5.2</link>
     <description>Reitit: Plumatic Schema coercion</description>
     <pubDate>Wed, 27 May 2020 05:35:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-malli/versions/0.5.2</guid>
-    <title>[metosin/reitit-malli &quot;0.5.2&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-malli/versions/0.5.2</link>
-    <description>Reitit: Malli coercion</description>
-    <pubDate>Wed, 27 May 2020 05:34:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-spec/versions/0.5.2</guid>
-    <title>[metosin/reitit-spec &quot;0.5.2&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-spec/versions/0.5.2</link>
-    <description>Reitit: clojure.spec coercion</description>
-    <pubDate>Wed, 27 May 2020 05:34:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-dev/versions/0.5.2</guid>
-    <title>[metosin/reitit-dev &quot;0.5.2&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-dev/versions/0.5.2</link>
-    <description>Snappy data-driven router for Clojure(Script)</description>
-    <pubDate>Wed, 27 May 2020 05:34:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-core/versions/0.5.2</guid>
-    <title>[metosin/reitit-core &quot;0.5.2&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-core/versions/0.5.2</link>
-    <description>Snappy data-driven router for Clojure(Script)</description>
-    <pubDate>Wed, 27 May 2020 05:34:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/re-frame/lein-template/versions/1.1.2</guid>
-    <title>[re-frame/lein-template &quot;1.1.2&quot;]</title>
-    <link>https://clojars.org/re-frame/lein-template/versions/1.1.2</link>
-    <description>Leiningen template for a Reagent web app that implements the re-frame pattern.</description>
-    <pubDate>Wed, 27 May 2020 04:15:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/gorilla-ui/versions/0.1.44</guid>
-    <title>[org.pinkgorilla/gorilla-ui &quot;0.1.44&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/gorilla-ui/versions/0.1.44</link>
-    <description></description>
-    <pubDate>Wed, 27 May 2020 03:56:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/leancloud/carmine-sentinel/versions/0.1.2</guid>
-    <title>[leancloud/carmine-sentinel &quot;0.1.2&quot;]</title>
-    <link>https://clojars.org/leancloud/carmine-sentinel/versions/0.1.2</link>
-    <description>A Clojure library designed to connect redis by sentinel, make carmine to support sentinel.</description>
-    <pubDate>Wed, 27 May 2020 02:51:22 +0000</pubDate>
   </item>
   </channel>
 </rss>
