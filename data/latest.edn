@@ -1,5 +1,3 @@
-{:jar_name "common-cli", :group_name "org.cyverse", :version "2.8.2-SNAPSHOT", :description "Common CLI functions for the DE backend services and tools", :created 1590605580166}
-{:jar_name "async-tasks-client", :group_name "org.cyverse", :version "0.0.4-SNAPSHOT", :description "Client for the async-tasks service", :created 1590605728613}
 {:jar_name "common-cfg", :group_name "org.cyverse", :version "2.8.2-SNAPSHOT", :description "DE services code for managing configurations.", :created 1590605730308}
 {:jar_name "authy", :group_name "org.cyverse", :version "2.8.1-SNAPSHOT", :description "An OAuth 2.0 client clibrary written in Clojure.", :created 1590605730684}
 {:jar_name "clj-jargon", :group_name "org.cyverse", :version "2.8.11-SNAPSHOT", :description "Clojure API on top of iRODS's jargon-core.", :created 1590605854268}
@@ -254,3 +252,5 @@
 {:jar_name "ez-wire", :group_name "ez-wire", :version "0.1.1", :description "Wiring galore", :created 1591135728694}
 {:jar_name "igraph", :group_name "ont-app", :version "0.1.5-SNAPSHOT", :description "Defines a IGraph protocol for maintaining a querying different graph implementations", :created 1591137329787}
 {:jar_name "inquery", :group_name "tolitius", :version "0.1.6", :description "see qua l", :created 1591138402838}
+{:jar_name "gorilla-plot", :group_name "org.pinkgorilla", :version "0.9.11", :description "A simple data-driven plotting library using Gorilla UI.", :created 1591140628433}
+{:jar_name "hibp-client", :group_name "hibp-client", :version "2.0.0", :description "Have I been pwned clojure client", :created 1591141598843}
