@@ -1,17 +1,3 @@
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200528-133446.d1dcd99c", :description nil, :created 1590672919126}
-{:jar_name "knossos", :group_name "knossos", :version "0.3.7-SNAPSHOT", :description "Linearizability checker", :created 1590673845337}
-{:jar_name "twarc", :group_name "twarc", :version "0.1.14", :description "Doing Quartz the right way", :created 1590674162310}
-{:jar_name "re-cog", :group_name "re-cog", :version "0.4.9", :description "Distributed provisioning Clojure functions to be used with Re-gent", :created 1590676983355}
-{:jar_name "re-cipes", :group_name "re-cipes", :version "0.1.5", :description "Recipes for provioning Linux machines", :created 1590677150025}
-{:jar_name "tools-cli", :group_name "sparkfund", :version "0.0.1-SNAPSHOT", :description nil, :created 1590678565399}
-{:jar_name "testogramaton.sdk", :group_name "com.steammachine.org", :version "1.0.2", :description nil, :created 1590678792303}
-{:jar_name "tools-aws", :group_name "sparkfund", :version "0.0.1-SNAPSHOT", :description nil, :created 1590680828488}
-{:jar_name "jet", :group_name "twosigma", :version "0.7.10-20200528_154634-g4bf197a", :description "Jetty9 ring server adapter with WebSocket support", :created 1590680848307}
-{:jar_name "matchete", :group_name "io.xapix", :version "0.1.2", :description "", :created 1590680987498}
-{:jar_name "asami", :group_name "org.clojars.quoll", :version "0.4.9", :description "An in-memory implementation of a graph store, implementing the naga-store protocol", :created 1590681203246}
-{:jar_name "gniazdo", :group_name "stylefruits", :version "1.1.4", :description "A WebSocket client for Clojure", :created 1590683535975}
-{:jar_name "util", :group_name "cumulo", :version "0.1.12", :description nil, :created 1590685372897}
-{:jar_name "h2", :group_name "szew", :version "0.3.2", :description "Clojure wrapper for H2 database.", :created 1590691629659}
 {:jar_name "email-template", :group_name "tendant", :version "0.1.0", :description "FIXME: write description", :created 1590691640259}
 {:jar_name "kee-frame", :group_name "kee-frame", :version "0.4.1-SNAPSHOT", :description "A micro-framework on top of re-frame", :created 1590692006966}
 {:jar_name "restql-core", :group_name "b2wdigital", :version "3.7.0", :description "Microservice query language", :created 1590692357674}
@@ -254,3 +240,17 @@
 {:jar_name "vocabulary", :group_name "ont-app", :version "0.1.1", :description "Utilities to map between namespaced keywords and URIs", :created 1591225798995}
 {:jar_name "grape", :group_name "leadlab", :version "0.1.0", :description "Graph Rewriting And Persistence Engine", :created 1591226295026}
 {:jar_name "tick-util", :group_name "dv", :version "2020-06-03-b", :description "Utils for juxt/tick", :created 1591226386291}
+{:jar_name "pom", :group_name "typed", :version "1.0.12-SNAPSHOT", :description "An optional type system for Clojure", :created 1591226784693}
+{:jar_name "analyzer", :group_name "typed.cljc", :version "1.0.12-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1591226795597}
+{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.12-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1591226803065}
+{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.12-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1591226814724}
+{:jar_name "runtime", :group_name "typed.clj", :version "1.0.12-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1591226821660}
+{:jar_name "spec", :group_name "typed.clj", :version "1.0.12-SNAPSHOT", :description "Type-like specs.", :created 1591226828984}
+{:jar_name "clojure", :group_name "typed.lib", :version "1.0.12-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1591226835063}
+{:jar_name "lang", :group_name "typed.clj", :version "1.0.12-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1591226841671}
+{:jar_name "checker", :group_name "typed.clj", :version "1.0.12-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1591226849083}
+{:jar_name "checker", :group_name "typed.cljs", :version "1.0.12-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1591226855751}
+{:jar_name "annotator", :group_name "typed.clj", :version "1.0.12-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1591226862854}
+{:jar_name "core.async", :group_name "typed.lib", :version "1.0.12-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1591226869498}
+{:jar_name "igraph-vocabulary", :group_name "ont-app", :version "0.1.1", :description "Utilities for using ont-app/vocabulary in ont-app/igraph", :created 1591227284208}
+{:jar_name "graph-log", :group_name "ont-app", :version "0.1.1", :description "An graph-based logging system for debugging", :created 1591229523987}
