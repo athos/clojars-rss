@@ -1,23 +1,3 @@
-{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.12", :description "A variant of tools.analyzer.jvm.", :created 1591232989324}
-{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.12", :description "A variant of tools.analyzer.js.", :created 1591232995616}
-{:jar_name "runtime", :group_name "typed.clj", :version "1.0.12", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1591233002055}
-{:jar_name "spec", :group_name "typed.clj", :version "1.0.12", :description "Type-like specs.", :created 1591233008691}
-{:jar_name "clojure", :group_name "typed.lib", :version "1.0.12", :description "Type annotations and macros for the base Clojure distribution.", :created 1591233015111}
-{:jar_name "lang", :group_name "typed.clj", :version "1.0.12", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1591233021471}
-{:jar_name "checker", :group_name "typed.clj", :version "1.0.12", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1591233028107}
-{:jar_name "checker", :group_name "typed.cljs", :version "1.0.12", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1591233035034}
-{:jar_name "annotator", :group_name "typed.clj", :version "1.0.12", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1591233041522}
-{:jar_name "core.async", :group_name "typed.lib", :version "1.0.12", :description "Type annotations and macros for core.async.", :created 1591233047830}
-{:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.1.59", :description "", :created 1591239694306}
-{:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.1.60", :description "", :created 1591243518790}
-{:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.21", :description "Simply Core Libs", :created 1591251869731}
-{:jar_name "grape", :group_name "leadlab", :version "0.1.1", :description "Graph Rewriting And Persistence Engine", :created 1591252418756}
-{:jar_name "cider-nrepl", :group_name "cider", :version "0.25.1", :description "A collection of nREPL middlewares designed to enhance Clojure editors.", :created 1591252982984}
-{:jar_name "dumdom", :group_name "cjohansen", :version "2020.06.04", :description "Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.", :created 1591252995763}
-{:jar_name "extra-loom", :group_name "extra-loom", :version "0.1.0", :description nil, :created 1591254752478}
-{:jar_name "cljs-exif-reader", :group_name "remworks", :version "0.4.2", :description "Extract information from TIFF and JPEG images.", :created 1591255586349}
-{:jar_name "js-joda-locale-en-us", :group_name "cljsjs", :version "3.1.1-1", :description "prebuilt en-US locale addon for js-joda", :created 1591257966381}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200604-084817.6e7bab75", :description nil, :created 1591260526511}
 {:jar_name "tick", :group_name "tick", :version "0.4.26-alpha", :description "A Clojure(Script) library for dealing with time. Intended as a replacement for clj-time", :created 1591260927001}
 {:jar_name "coax", :group_name "exoscale", :version "1.0.0-alpha4", :description "exo spec-coerce fork", :created 1591263894952}
 {:jar_name "kafka-event-processor", :group_name "b-social", :version "0.1.0", :description "A library for processing kafka events as a stuartsierra component and configured with configurati. Opinionated that the event processing will be wrapped in a jdbc transaction.", :created 1591264212601}
@@ -248,9 +228,29 @@
 {:jar_name "clj-aws-s3", :group_name "ss", :version "0.3.10", :description "Clojure Amazon S3 library", :created 1591647483067}
 {:jar_name "couchdb-auth-for-ring", :group_name "com.stronganchortech", :version "1.0.3-SNAPSHOT", :description "Ring middleware that lets you use CouchDB's security model for your Ring app.", :created 1591648434258}
 {:jar_name "babashka", :group_name "borkdude", :version "0.1.1-SNAPSHOT", :description "babashka", :created 1591650328294}
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1591654106248}
 {:jar_name "email-template", :group_name "tendant", :version "0.1.1", :description "FIXME: write description", :created 1591655338835}
 {:jar_name "datalog-parser", :group_name "io.lambdaforge", :version "0.1.7", :description "Datalog parser.", :created 1591660469146}
 {:jar_name "clj-template", :group_name "dorab-lib-template", :version "0.1.0", :description "clj-new template to be used for Dorab's libs.", :created 1591666870325}
 {:jar_name "serverless", :group_name "dehli", :version "0.1.41", :description nil, :created 1591667266697}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.27", :description nil, :created 1591674707851}
+{:jar_name "peanuts", :group_name "peanuts", :version "0.2.0", :description "Packing peanut macros for Reagent/Re-frame Form-1 components", :created 1591677995434}
+{:jar_name "cli", :group_name "trident", :version "0.2.3", :description nil, :created 1591678410357}
+{:jar_name "ion", :group_name "trident", :version "0.2.3", :description nil, :created 1591678418469}
+{:jar_name "cljs-http", :group_name "trident", :version "0.2.3", :description nil, :created 1591678424865}
+{:jar_name "staticweb", :group_name "trident", :version "0.2.3", :description nil, :created 1591678431916}
+{:jar_name "views", :group_name "trident", :version "0.2.3", :description nil, :created 1591678439580}
+{:jar_name "web", :group_name "trident", :version "0.2.3", :description nil, :created 1591678457151}
+{:jar_name "frontend", :group_name "trident", :version "0.2.3", :description nil, :created 1591678464339}
+{:jar_name "firebase", :group_name "trident", :version "0.2.3", :description nil, :created 1591678472551}
+{:jar_name "rum", :group_name "trident", :version "0.2.3", :description nil, :created 1591678479318}
+{:jar_name "datascript", :group_name "trident", :version "0.2.3", :description nil, :created 1591678485962}
+{:jar_name "ring", :group_name "trident", :version "0.2.3", :description nil, :created 1591678492478}
+{:jar_name "util", :group_name "trident", :version "0.2.3", :description nil, :created 1591678498902}
+{:jar_name "docs", :group_name "trident", :version "0.2.3", :description nil, :created 1591678510093}
+{:jar_name "firestore", :group_name "trident", :version "0.2.3", :description nil, :created 1591678517341}
+{:jar_name "datomic-cloud", :group_name "trident", :version "0.2.3", :description nil, :created 1591678524493}
+{:jar_name "datomic", :group_name "trident", :version "0.2.3", :description nil, :created 1591678531812}
+{:jar_name "build", :group_name "trident", :version "0.2.3", :description nil, :created 1591678541152}
+{:jar_name "ion-dev", :group_name "trident", :version "0.2.3", :description nil, :created 1591678550815}
+{:jar_name "repl", :group_name "trident", :version "0.2.3", :description nil, :created 1591678558475}
+{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1591679120544}
