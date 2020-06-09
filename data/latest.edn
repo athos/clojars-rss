@@ -1,18 +1,3 @@
-{:jar_name "matrix-protocol", :group_name "matrix-protocol", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1591349866845}
-{:jar_name "irmagician", :group_name "theorems", :version "0.8.6", :description nil, :created 1591350102733}
-{:jar_name "shyvana", :group_name "workshub", :version "0.2.0", :description "Clojure, data-based, wrapper for getstream.io Java API", :created 1591350156499}
-{:jar_name "crux-active-objects", :group_name "avisi-apps", :version "1.0.3", :description nil, :created 1591350466864}
-{:jar_name "dsim", :group_name "dvlopt", :version "1.0.0-beta1", :description "Idiomatic and purely functional simulation library", :created 1591354643286}
-{:jar_name "roll", :group_name "dimovich", :version "0.2.0", :description nil, :created 1591355602777}
-{:jar_name "roll-aleph", :group_name "dimovich", :version "0.2.0", :description nil, :created 1591356342359}
-{:jar_name "clj-jasper", :group_name "net.tbt-post", :version "0.0.7", :description "A Clojure library to work with Jasper Reports", :created 1591358554750}
-{:jar_name "clj-wiremock", :group_name "kelveden", :version "1.5.4", :description "Clojure bindings for WireMock", :created 1591359532381}
-{:jar_name "nomis-clj-repl-tools", :group_name "nomis-clj-repl-tools", :version "0.1.5", :description "Clojure REPL tools", :created 1591360097619}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.10.2", :description "CLJS development tools", :created 1591364097016}
-{:jar_name "ring-graphql-voyager", :group_name "viebel", :version "0.1.2", :description "GraphQL Voyager for Ring apps", :created 1591364533265}
-{:jar_name "lein-template", :group_name "jvm-opencv", :version "0.0.40", :description "Created with lein-create-template", :created 1591365123372}
-{:jar_name "avow", :group_name "org.clojars.rutledgepaulv", :version "0.1.0", :description "An open definition of equality for more concise and robust tests.", :created 1591365375251}
-{:jar_name "datalogger", :group_name "org.clojars.rutledgepaulv", :version "0.1.5", :description "A simple structured logging library for Clojure that plays nice with others.", :created 1591366204083}
 {:jar_name "leona", :group_name "workshub", :version "0.1.17", :description "A pipeline for working with clojure.spec and GraphQL", :created 1591366919126}
 {:jar_name "ring-graphql-voyager", :group_name "threatgrid", :version "0.1.1", :description "GraphQL Voyager for Ring apps", :created 1591367673320}
 {:jar_name "bulbul", :group_name "bulbul", :version "0.1.0-SNAPSHOT", :description "A journal log library for Clojure", :created 1591369321683}
@@ -244,9 +229,7 @@
 {:jar_name "emotion-cljs", :group_name "emotion-cljs", :version "0.1.1", :description "ClojureScript wrapper for Emotion.", :created 1591687350742}
 {:jar_name "gorilla-renderable", :group_name "org.pinkgorilla", :version "3.0.12", :description "The protocol for custom rendering in Pink Gorilla Notebook.", :created 1591688288083}
 {:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.2.5", :description "Reagent components for data visualisation.", :created 1591689769806}
-{:jar_name "prospect", :group_name "io.axrs", :version "0.0.0-SNAPSHOT", :description "Simple Clojure Namespace function discovery tool for CLIs", :created 1591695491890}
 {:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.2.6", :description "Reagent components for data visualisation.", :created 1591695967695}
-{:jar_name "shuck", :group_name "io.axrs", :version "0.0.0-SNAPSHOT", :description "Shell Executor for Clojure", :created 1591697079829}
 {:jar_name "repl", :group_name "trident", :version "0.3.1", :description nil, :created 1591697112779}
 {:jar_name "util", :group_name "trident", :version "0.3.1", :description nil, :created 1591697120927}
 {:jar_name "rum", :group_name "trident", :version "0.3.1", :description nil, :created 1591697130255}
@@ -254,3 +237,20 @@
 {:jar_name "jwt", :group_name "trident", :version "0.3.1", :description nil, :created 1591697143266}
 {:jar_name "cljs-http", :group_name "trident", :version "0.3.1", :description nil, :created 1591697149018}
 {:jar_name "cli", :group_name "trident", :version "0.3.1", :description nil, :created 1591697155474}
+{:jar_name "build", :group_name "trident", :version "0.3.1", :description nil, :created 1591697169349}
+{:jar_name "ring", :group_name "trident", :version "0.3.1", :description nil, :created 1591697175713}
+{:jar_name "firebase", :group_name "trident", :version "0.3.1", :description nil, :created 1591697184612}
+{:jar_name "firestore", :group_name "trident", :version "0.3.1", :description nil, :created 1591697190960}
+{:jar_name "views", :group_name "trident", :version "0.3.1", :description nil, :created 1591697198428}
+{:jar_name "ion", :group_name "trident", :version "0.3.1", :description nil, :created 1591697204464}
+{:jar_name "ion-dev", :group_name "trident", :version "0.3.1", :description nil, :created 1591697212631}
+{:jar_name "datascript", :group_name "trident", :version "0.3.1", :description nil, :created 1591697219007}
+{:jar_name "datomic", :group_name "trident", :version "0.3.1", :description nil, :created 1591697225759}
+{:jar_name "datomic-cloud", :group_name "trident", :version "0.3.1", :description nil, :created 1591697233114}
+{:jar_name "web", :group_name "trident", :version "0.3.1", :description nil, :created 1591697264541}
+{:jar_name "frontend", :group_name "trident", :version "0.3.1", :description nil, :created 1591697274905}
+{:jar_name "docs", :group_name "trident", :version "0.3.1", :description nil, :created 1591697289804}
+{:jar_name "node-shuck", :group_name "io.axrs", :version "0.0.0-SNAPSHOT", :description "Node and NPM Shell Executor for Clojure", :created 1591697466145}
+{:jar_name "shuck", :group_name "io.axrs", :version "0.0.0-SNAPSHOT", :description "Shell Executor for Clojure", :created 1591697946749}
+{:jar_name "prospect", :group_name "io.axrs", :version "0.0.0-SNAPSHOT", :description "Simple Clojure Namespace function discovery tool for CLIs", :created 1591698105343}
+{:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.2.7", :description "Reagent components for data visualisation.", :created 1591699669183}
