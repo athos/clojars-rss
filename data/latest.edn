@@ -1,7 +1,3 @@
-{:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v0.0.39", :description "A client library for Vald.", :created 1591686427628}
-{:jar_name "emotion-cljs", :group_name "emotion-cljs", :version "0.1.1", :description "ClojureScript wrapper for Emotion.", :created 1591687350742}
-{:jar_name "gorilla-renderable", :group_name "org.pinkgorilla", :version "3.0.12", :description "The protocol for custom rendering in Pink Gorilla Notebook.", :created 1591688288083}
-{:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.2.5", :description "Reagent components for data visualisation.", :created 1591689769806}
 {:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.2.6", :description "Reagent components for data visualisation.", :created 1591695967695}
 {:jar_name "repl", :group_name "trident", :version "0.3.1", :description nil, :created 1591697112779}
 {:jar_name "util", :group_name "trident", :version "0.3.1", :description nil, :created 1591697120927}
@@ -254,3 +250,7 @@
 {:jar_name "katex", :group_name "cljsjs", :version "0.11.1-0", :description "A fast, easy-to-use JavaScript library for TeX math rendering on the web.", :created 1592154487940}
 {:jar_name "google-diff-match-patch", :group_name "cljsjs", :version "62f2e689f498f9c92dbc588c58750addec9b1654-0", :description "Diff, Match and Patch Library", :created 1592154508907}
 {:jar_name "clj-cbor", :group_name "mvxcvi", :version "1.1.0", :description "Concise Binary Object Representation (RFC 7049)", :created 1592154888788}
+{:jar_name "core.specs.alpha", :group_name "org.clojure.clr", :version "0.2.45", :description "Port of clojure.org/core.specs.alpha to ClojureCLR", :created 1592160940617}
+{:jar_name "gorilla-repl", :group_name "org.clojars.benfb", :version "0.7.0", :description "A rich REPL for Clojure in the notebook style.", :created 1592161440549}
+{:jar_name "lein-gorilla", :group_name "org.clojars.benfb", :version "0.7.0", :description "A Leiningen plugin for the Gorilla REPL.", :created 1592161488063}
+{:jar_name "lein-template", :group_name "gorilla-app", :version "0.7.0", :description "FIXME: write description", :created 1592161684667}
