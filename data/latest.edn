@@ -1,5 +1,3 @@
-{:jar_name "jax-patcher", :group_name "wavejumper", :version "1.0.3", :description "Patcher DSL for jax", :created 1591704021353}
-{:jar_name "dropwizard-primer", :group_name "com.platform", :version "1.3.14-6-SNAPSHOT", :description nil, :created 1591709663510}
 {:jar_name "defnw", :group_name "gabrielash", :version "0.1.0", :description "depnw a defn substitute macro with boundary case moved to the pre-post map", :created 1591711143294}
 {:jar_name "portable-text-clj", :group_name "cjohansen", :version "2020.06.09", :description "Render sanity.io Portable Text to HTML.", :created 1591711776800}
 {:jar_name "reporter", :group_name "exoscale", :version "0.1.52", :description "error and event reporting component", :created 1591712852352}
@@ -248,9 +246,11 @@
 {:jar_name "cljam", :group_name "cljam", :version "0.7.5-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1592209396415}
 {:jar_name "babashka.nrepl", :group_name "babashka", :version "0.0.4-SNAPSHOT", :description "babashka nREPL module", :created 1592211345472}
 {:jar_name "jobtech-taxonomy-database", :group_name "jobtech-taxonomy-database", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1592214312240}
-{:jar_name "omniconf", :group_name "com.grammarly", :version "0.4.2-SNAPSHOT", :description "Configuration library for Clojure that favors explicitness", :created 1592215911822}
-{:jar_name "omniconf.ssm", :group_name "com.grammarly", :version "0.4.2-SNAPSHOT", :description "Module for Omniconf to support Amazon SSM as a configuration source", :created 1592215921106}
-{:jar_name "tools-io", :group_name "com.oscaro", :version "0.3.20-SNAPSHOT", :description "Oscaro's generic I/O tools collection", :created 1592217102601}
-{:jar_name "tools-io-gs", :group_name "com.oscaro", :version "0.1.6-SNAPSHOT", :description "google storage support for tools-io", :created 1592217663696}
 {:jar_name "clj-gcloud-storage", :group_name "com.oscaro", :version "0.112-1.1-SNAPSHOT", :description "Clojure wrapper for google-cloud-storage Java client", :created 1592217969854}
 {:jar_name "jax-patcher", :group_name "wavejumper", :version "2020.06.15-1", :description "Patcher DSL for jax", :created 1592218868623}
+{:jar_name "omniconf", :group_name "com.grammarly", :version "0.4.2-SNAPSHOT", :description "Configuration library for Clojure that favors explicitness", :created 1592219795430}
+{:jar_name "omniconf.ssm", :group_name "com.grammarly", :version "0.4.2-SNAPSHOT", :description "Module for Omniconf to support Amazon SSM as a configuration source", :created 1592219807797}
+{:jar_name "pseudoace", :group_name "wormbase", :version "0.7.2", :description nil, :created 1592221064351}
+{:jar_name "nrebl.middleware", :group_name "ertu", :version "0.1.0", :description "An nREPL and cider middleware for capturing and\n  browsing data in REBL.", :created 1592222392014}
+{:jar_name "tools-io", :group_name "com.oscaro", :version "0.3.20-SNAPSHOT", :description "Oscaro's generic I/O tools collection", :created 1592222750991}
+{:jar_name "tools-io-gs", :group_name "com.oscaro", :version "0.1.6-SNAPSHOT", :description "google storage support for tools-io", :created 1592222863807}
