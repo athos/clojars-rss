@@ -1,4 +1,3 @@
-{:jar_name "zaum", :group_name "org.zaumdb", :version "0.3.7", :description "FIXME: write description", :created 1591819121571}
 {:jar_name "tech.netcdf", :group_name "techascent", :version "0.99", :description "netcdf bindings for tech ecosystem.", :created 1591819468818}
 {:jar_name "datasplash", :group_name "za.co.simply", :version "0.6.8", :description "Clojure API for a more dynamic Google Cloud Dataflow\n  and (hopefully) Apache BEAM", :created 1591819598257}
 {:jar_name "grape", :group_name "leadlab", :version "0.2.4-SNAPSHOT", :description "Graph Rewriting And Persistence Engine", :created 1591821074810}
@@ -114,7 +113,6 @@
 {:jar_name "jax-patcher", :group_name "wavejumper", :version "1.0.4", :description "Patcher DSL for jax", :created 1592021490416}
 {:jar_name "jax-patcher", :group_name "wavejumper", :version "1.0.5", :description "Patcher DSL for jax", :created 1592030714810}
 {:jar_name "cryogen-fork", :group_name "cryogen-fork", :version "0.3.3-SNAPSHOT", :description "", :created 1592032065747}
-{:jar_name "grape", :group_name "leadlab", :version "0.2.8-SNAPSHOT", :description "Graph Rewriting And Persistence Engine", :created 1592032289446}
 {:jar_name "clj-ksql", :group_name "com.mamun", :version "0.0.1-SNAPSHOT", :description "Clojure client for ksql", :created 1592033653950}
 {:jar_name "cryogen-fork-flexmark", :group_name "cryogen-fork-flexmark", :version "0.1.3-SNAPSHOT", :description "Markdown parser for Cryogen", :created 1592033777808}
 {:jar_name "clj-ksql", :group_name "clj-ksql", :version "0.0.21", :description "Clojure client for ksql", :created 1592035358075}
@@ -183,18 +181,6 @@
 {:jar_name "clj-paper-print", :group_name "clj-paper-print", :version "0.1.1", :description "A thin wraper of java.awt.print for clojure.", :created 1592167112692}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.10.8", :description "CLJS development tools", :created 1592168055941}
 {:jar_name "clojush", :group_name "clojush", :version "3.32.0", :description "The Push programming language and the PushGP genetic programming\n                system implemented in Clojure. See http://pushlanguage.com", :created 1592191705564}
-{:jar_name "pom", :group_name "typed", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure", :created 1592192507151}
-{:jar_name "analyzer", :group_name "typed.cljc", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1592192519699}
-{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1592192526878}
-{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1592192537402}
-{:jar_name "runtime", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1592192543794}
-{:jar_name "spec", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Type-like specs.", :created 1592192550826}
-{:jar_name "clojure", :group_name "typed.lib", :version "1.0.13-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1592192557037}
-{:jar_name "lang", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1592192563213}
-{:jar_name "checker", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1592192570077}
-{:jar_name "checker", :group_name "typed.cljs", :version "1.0.13-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1592192576457}
-{:jar_name "annotator", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1592192583633}
-{:jar_name "core.async", :group_name "typed.lib", :version "1.0.13-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1592192589920}
 {:jar_name "toyokumo-commons", :group_name "toyokumo", :version "0.1.6-SNAPSHOT", :description "Utility functions that are used in multiple TOYOKUMO products", :created 1592199821729}
 {:jar_name "gojira-compare", :group_name "com.flipkart", :version "1.9.6", :description nil, :created 1592204189189}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200615-080423.eaa95d12", :description nil, :created 1592208294006}
@@ -254,3 +240,17 @@
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200615-205614.44f9079d", :description nil, :created 1592254608339}
 {:jar_name "naga", :group_name "org.clojars.quoll", :version "0.2.36", :description "Forward Chaining Rule Engine", :created 1592254718916}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.40", :description nil, :created 1592258614721}
+{:jar_name "mermaid-clj", :group_name "mermaid-clj", :version "0.0.1", :description "DSL to build mermaidjs diagrams with clojure", :created 1592259696049}
+{:jar_name "pom", :group_name "typed", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure", :created 1592261266751}
+{:jar_name "analyzer", :group_name "typed.cljc", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1592261278642}
+{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1592261285834}
+{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1592261296374}
+{:jar_name "runtime", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1592261302798}
+{:jar_name "spec", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Type-like specs.", :created 1592261309641}
+{:jar_name "clojure", :group_name "typed.lib", :version "1.0.13-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1592261316397}
+{:jar_name "lang", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1592261322577}
+{:jar_name "checker", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1592261329273}
+{:jar_name "checker", :group_name "typed.cljs", :version "1.0.13-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1592261335373}
+{:jar_name "annotator", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1592261342308}
+{:jar_name "core.async", :group_name "typed.lib", :version "1.0.13-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1592261348568}
+{:jar_name "grape", :group_name "leadlab", :version "0.2.8-SNAPSHOT", :description "Graph Rewriting And Persistence Engine", :created 1592262176008}
