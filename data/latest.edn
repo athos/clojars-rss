@@ -34,7 +34,6 @@
 {:jar_name "igraph-grafter", :group_name "ont-app", :version "0.1.1-SNAPSHOT", :description "Wrapper around swirrl/grafter for IGraph protocols.", :created 1591746343147}
 {:jar_name "web-specs", :group_name "worldsingles", :version "0.1.1", :description "Common utility functions and \"extensions\" to Clojure.", :created 1591747566544}
 {:jar_name "grape", :group_name "leadlab", :version "0.2.2-SNAPSHOT", :description "Graph Rewriting And Persistence Engine", :created 1591748107523}
-{:jar_name "toyokumo-commons", :group_name "toyokumo", :version "0.1.6-SNAPSHOT", :description "Utility functions that are used in multiple TOYOKUMO products", :created 1591758351779}
 {:jar_name "gorilla-middleware", :group_name "org.pinkgorilla", :version "0.2.24", :description "Pink Gorilla nREPL middleware", :created 1591770486487}
 {:jar_name "grape", :group_name "leadlab", :version "0.2.3", :description "Graph Rewriting And Persistence Engine", :created 1591771400016}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.29", :description nil, :created 1591773200705}
@@ -254,3 +253,4 @@
 {:jar_name "checker", :group_name "typed.cljs", :version "1.0.13-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1592192576457}
 {:jar_name "annotator", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1592192583633}
 {:jar_name "core.async", :group_name "typed.lib", :version "1.0.13-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1592192589920}
+{:jar_name "toyokumo-commons", :group_name "toyokumo", :version "0.1.6-SNAPSHOT", :description "Utility functions that are used in multiple TOYOKUMO products", :created 1592199821729}
