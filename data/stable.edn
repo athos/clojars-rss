@@ -1,19 +1,3 @@
-{:jar_name "ion", :group_name "trident", :version "0.3.1", :description nil, :created 1591697204464}
-{:jar_name "ion-dev", :group_name "trident", :version "0.3.1", :description nil, :created 1591697212631}
-{:jar_name "datascript", :group_name "trident", :version "0.3.1", :description nil, :created 1591697219007}
-{:jar_name "datomic", :group_name "trident", :version "0.3.1", :description nil, :created 1591697225759}
-{:jar_name "datomic-cloud", :group_name "trident", :version "0.3.1", :description nil, :created 1591697233114}
-{:jar_name "web", :group_name "trident", :version "0.3.1", :description nil, :created 1591697264541}
-{:jar_name "frontend", :group_name "trident", :version "0.3.1", :description nil, :created 1591697274905}
-{:jar_name "docs", :group_name "trident", :version "0.3.1", :description nil, :created 1591697289804}
-{:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.2.7", :description "Reagent components for data visualisation.", :created 1591699669183}
-{:jar_name "jax-patcher", :group_name "wavejumper", :version "1.0.3", :description "Patcher DSL for jax", :created 1591704021353}
-{:jar_name "defnw", :group_name "gabrielash", :version "0.1.0", :description "depnw a defn substitute macro with boundary case moved to the pre-post map", :created 1591711143294}
-{:jar_name "portable-text-clj", :group_name "cjohansen", :version "2020.06.09", :description "Render sanity.io Portable Text to HTML.", :created 1591711776800}
-{:jar_name "reporter", :group_name "exoscale", :version "0.1.52", :description "error and event reporting component", :created 1591712852352}
-{:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v0.0.40.Rev1", :description "A client library for Vald.", :created 1591715220482}
-{:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha16", :description "OpenCompany Common Library", :created 1591716534559}
-{:jar_name "engine", :group_name "hodur", :version "0.1.8", :description nil, :created 1591718228801}
 {:jar_name "fulcro-rad-semantic-ui", :group_name "com.fulcrologic", :version "0.0.10-alpha", :description "A UI plugin for Fulcro RAD that renders to web/electron using Semantic UI CSS", :created 1591720256293}
 {:jar_name "clj-utils", :group_name "dv", :version "2020-06-09-b", :description "My helpers and additions", :created 1591720396310}
 {:jar_name "phlox", :group_name "quamolit", :version "0.3.1-a1", :description nil, :created 1591720805757}
@@ -254,3 +238,19 @@
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200616-160250.8b59ea00", :description nil, :created 1592323401891}
 {:jar_name "respo", :group_name "respo", :version "0.12.2", :description nil, :created 1592325754974}
 {:jar_name "alerts", :group_name "respo", :version "0.5.5", :description nil, :created 1592325819056}
+{:jar_name "crux-core", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "An open source document database with bitemporal graph queries", :created 1592329705475}
+{:jar_name "crux-rdf", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "Crux RDF", :created 1592329715194}
+{:jar_name "crux-metrics", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "Provides Metrics for Crux nodes", :created 1592329725350}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "Crux RocksDB", :created 1592329735178}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "Crux LMDB", :created 1592329744402}
+{:jar_name "jet", :group_name "twosigma", :version "0.7.10-20200616_174826-gc1f5694", :description "Jetty9 ring server adapter with WebSocket support", :created 1592329749425}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "Crux JDBC", :created 1592329754357}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "Crux HTTP Client", :created 1592329763821}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "Crux HTTP Server", :created 1592329774385}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "Crux Kafka Embedded", :created 1592329783872}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "Crux Kafka Connect", :created 1592329796092}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "Crux Kafka", :created 1592329806428}
+{:jar_name "crux-test", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "Crux Tests Project", :created 1592329816275}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "", :created 1592329827655}
+{:jar_name "crux-cli", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "Crux Uberjar", :created 1592329838919}
+{:jar_name "crux-bench", :group_name "juxt", :version "20.06-1.8.5-alpha", :description "", :created 1592329856606}
