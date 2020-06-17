@@ -1,19 +1,3 @@
-{:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha17", :description "OpenCompany Common Library", :created 1591822224127}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.10.6", :description "CLJS development tools", :created 1591825636022}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.33", :description nil, :created 1591832240053}
-{:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.2.8", :description "Reagent components for data visualisation.", :created 1591834404087}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200611-001255.e9f1edac", :description nil, :created 1591834410671}
-{:jar_name "grape", :group_name "leadlab", :version "0.2.4", :description "Graph Rewriting And Persistence Engine", :created 1591839362519}
-{:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.2.9", :description "Reagent components for data visualisation.", :created 1591840381494}
-{:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.2.10", :description "Reagent components for data visualisation.", :created 1591847691988}
-{:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.2.11", :description "Reagent components for data visualisation.", :created 1591848972340}
-{:jar_name "datasplash", :group_name "za.co.simply", :version "0.6.9", :description "Clojure API for a more dynamic Google Cloud Dataflow\n  and (hopefully) Apache BEAM", :created 1591853639460}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200611-081507.fcf6c736", :description "", :created 1591863340309}
-{:jar_name "im-tables", :group_name "org.intermine", :version "0.10.0", :description "ClojureScript library to display and manipulate InterMine query results on a webpage", :created 1591865423292}
-{:jar_name "uri", :group_name "lambdaisland", :version "1.4.49", :description "Pure Clojure/ClojureScript URI library", :created 1591866453773}
-{:jar_name "lein-template", :group_name "nedap-lib", :version "2.4.0", :description "A Leiningen template for Clojure projects.", :created 1591866913018}
-{:jar_name "datasplash", :group_name "za.co.simply", :version "0.6.11", :description "Clojure API for a more dynamic Google Cloud Dataflow\n  and (hopefully) Apache BEAM", :created 1591867708677}
-{:jar_name "markdown-clj", :group_name "net.solovyov", :version "1.10.1-2", :description "Markdown parser", :created 1591871377062}
 {:jar_name "datasplash", :group_name "za.co.simply", :version "0.6.12", :description "Clojure API for a more dynamic Google Cloud Dataflow\n  and (hopefully) Apache BEAM", :created 1591872315451}
 {:jar_name "cli-matic", :group_name "cli-matic", :version "0.4.3", :description "Compact [sub]command line parsing library, for Clojure", :created 1591872369777}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200611-104809.6c9e999b", :description nil, :created 1591872524007}
@@ -254,3 +238,19 @@
 {:jar_name "clj-gatling", :group_name "clj-gatling", :version "0.15.0", :description "Clojure library for load testing", :created 1592405647020}
 {:jar_name "paravim", :group_name "paravim", :version "0.11.0", :description "A parasitic editor for Clojure", :created 1592407442840}
 {:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.2.18", :description "Reagent components for data visualisation.", :created 1592409783719}
+{:jar_name "crux-core", :group_name "juxt", :version "20.06-1.9.0-beta", :description "An open source document database with bitemporal graph queries", :created 1592412188837}
+{:jar_name "crux-rdf", :group_name "juxt", :version "20.06-1.9.0-alpha", :description "Crux RDF", :created 1592412198685}
+{:jar_name "crux-metrics", :group_name "juxt", :version "20.06-1.9.0-alpha", :description "Provides Metrics for Crux nodes", :created 1592412209948}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.06-1.9.0-beta", :description "Crux RocksDB", :created 1592412220504}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "20.06-1.9.0-alpha", :description "Crux LMDB", :created 1592412230056}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.06-1.9.0-beta", :description "Crux JDBC", :created 1592412240328}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.06-1.9.0-beta", :description "Crux HTTP Client", :created 1592412250747}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.06-1.9.0-alpha", :description "Crux HTTP Server", :created 1592412262455}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.06-1.9.0-beta", :description "Crux Kafka Embedded", :created 1592412273043}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.06-1.9.0-beta", :description "Crux Kafka Connect", :created 1592412285150}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.06-1.9.0-beta", :description "Crux Kafka", :created 1592412296726}
+{:jar_name "crux-test", :group_name "juxt", :version "20.06-1.9.0", :description "Crux Tests Project", :created 1592412306966}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.06-1.9.0-beta", :description "", :created 1592412319245}
+{:jar_name "crux-cli", :group_name "juxt", :version "20.06-1.9.0-beta", :description "Crux Uberjar", :created 1592412331077}
+{:jar_name "crux-bench", :group_name "juxt", :version "20.06-1.9.0", :description "", :created 1592412350220}
+{:jar_name "ziggurat", :group_name "tech.gojek", :version "3.3.1", :description "A stream processing framework to build stateless applications on kafka", :created 1592412799619}
