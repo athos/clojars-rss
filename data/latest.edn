@@ -1,7 +1,3 @@
-{:jar_name "user.core.async", :group_name "user.core.async", :version "2020.167.58342", :description "", :created 1592237587715}
-{:jar_name "tech.datatype", :group_name "techascent", :version "5.0", :description "Library for efficient manipulation of contiguous mutable containers of primitive datatypes.", :created 1592237836731}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "2.0", :description "Dataset and ETL pipeline for machine learning", :created 1592238157001}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200615-162411.d00095b8", :description "", :created 1592238289937}
 {:jar_name "tech.ml", :group_name "techascent", :version "2.0", :description "Base concepts of the techascent ml suite", :created 1592238299625}
 {:jar_name "tech.netcdf", :group_name "techascent", :version "1.0", :description "netcdf bindings for tech ecosystem.", :created 1592238466302}
 {:jar_name "libpython-clj", :group_name "clj-python", :version "1.45", :description "libpython bindings to the techascent ecosystem", :created 1592238691953}
@@ -198,7 +194,6 @@
 {:jar_name "liberator-hal.health-resource", :group_name "io.logicblocks", :version "0.1.3-RC5", :description "A HAL health resource for liberator", :created 1592504181834}
 {:jar_name "liberator-hal.discovery-resource", :group_name "io.logicblocks", :version "0.1.1-RC3", :description "A HAL discovery resource for liberator", :created 1592504329961}
 {:jar_name "ring-correlation-id", :group_name "org.clojars.pablobcb", :version "0.4.3", :description "Correlation ID tracing for distributed systems using ring and clj-http", :created 1592504471081}
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1592506902770}
 {:jar_name "datahike", :group_name "timokramer", :version "0.3.4-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1592510707789}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "2.02", :description "Dataset and ETL pipeline for machine learning", :created 1592511618320}
 {:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.0.8", :description "Reagent components for notebook ui.", :created 1592514456353}
@@ -254,3 +249,8 @@
 {:jar_name "clsql", :group_name "clsql", :version "0.1.1", :description "clsql provides a small abstraction for handling SQL and migrations", :created 1592578393712}
 {:jar_name "gstorage", :group_name "gstorage", :version "0.1.2", :description "gstorage provides a wrapper to Google Cloud Storage", :created 1592578500617}
 {:jar_name "difo", :group_name "difo", :version "0.1.0", :description "Distributed FIFOs", :created 1592584840834}
+{:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.0.10", :description "Reagent components for notebook ui.", :created 1592588464506}
+{:jar_name "dda-provision", :group_name "dda", :version "0.2.0-SNAPSHOT", :description "tools for provisioning", :created 1592588521196}
+{:jar_name "dda-pallet-commons", :group_name "dda", :version "1.6.3-SNAPSHOT", :description "common utils for dda pallet", :created 1592588625845}
+{:jar_name "certifiable", :group_name "com.bhauman", :version "0.0.1-SNAPSHOT", :description "Assists in the creation of development SSL certificates and Java Keystore files", :created 1592588931800}
+{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1592589421878}
