@@ -1,21 +1,3 @@
-{:jar_name "nrebl.middleware", :group_name "ertu", :version "0.1.0", :description "An nREPL and cider middleware for capturing and\n  browsing data in REBL.", :created 1592222392014}
-{:jar_name "tools-io", :group_name "com.oscaro", :version "0.3.20-SNAPSHOT", :description "Oscaro's generic I/O tools collection", :created 1592222750991}
-{:jar_name "tools-io-gs", :group_name "com.oscaro", :version "0.1.6-SNAPSHOT", :description "google storage support for tools-io", :created 1592222863807}
-{:jar_name "clj-gcloud-storage", :group_name "com.oscaro", :version "0.112-1.1-SNAPSHOT", :description "Clojure wrapper for google-cloud-storage Java client", :created 1592222893379}
-{:jar_name "ds-test-tools", :group_name "com.oscaro", :version "0.2.0-SNAPSHOT", :description "Tools to test Datasplash pipelines", :created 1592223039747}
-{:jar_name "t7x", :group_name "com.oscaro", :version "0.1.1-SNAPSHOT", :description "Transifex API client", :created 1592223243511}
-{:jar_name "edn2json", :group_name "com.oscaro", :version "0.1.1-SNAPSHOT", :description "Convert EDN to JSON", :created 1592223355076}
-{:jar_name "nrebl.middleware", :group_name "ertu", :version "0.1.3", :description "An nREPL and cider middleware for capturing and\n  browsing data in REBL.", :created 1592224322556}
-{:jar_name "cumulus-message-adapter", :group_name "gov.nasa.earthdata", :version "1.3.1", :description nil, :created 1592226958894}
-{:jar_name "gojira-core", :group_name "com.flipkart", :version "1.9.6", :description nil, :created 1592227231510}
-{:jar_name "tablecloth", :group_name "scicloj", :version "1.0.0-pre-alpha1", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1592228190413}
-{:jar_name "clj-mu", :group_name "com.twelvenines", :version "0.0.11", :description "Clojure friendly library for using https://muserver.io", :created 1592228388287}
-{:jar_name "re-cog", :group_name "re-cog", :version "0.4.13", :description "Distributed provisioning Clojure functions to be used with Re-gent", :created 1592230086219}
-{:jar_name "re-cipes", :group_name "re-cipes", :version "0.1.18", :description "Recipes for provioning Linux machines", :created 1592230178605}
-{:jar_name "views-honeysql", :group_name "kirasystems", :version "0.1.7", :description "HoneySQL view implementation for views", :created 1592230503295}
-{:jar_name "cljs-exif-reader", :group_name "remworks", :version "0.5.1", :description "Extract information from TIFF and JPEG images.", :created 1592230909718}
-{:jar_name "kilgore", :group_name "kilgore", :version "0.2.0", :description "A very basic event sourcing library.", :created 1592231545819}
-{:jar_name "figwheel-core", :group_name "com.bhauman", :version "0.2.9-SNAPSHOT", :description "Figwheel core provides code reloading facilities for ClojureScript.", :created 1592233304534}
 {:jar_name "figwheel-repl", :group_name "com.bhauman", :version "0.2.9-SNAPSHOT", :description "Figwheel REPL provides a stable multiplexing REPL for ClojureScript", :created 1592233325453}
 {:jar_name "figwheel-main", :group_name "com.bhauman", :version "0.2.9-SNAPSHOT", :description "Figwheel Main - Clojurescript tooling.", :created 1592233345333}
 {:jar_name "datahike", :group_name "timokramer", :version "0.2.3-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1592233869165}
@@ -254,3 +236,21 @@
 {:jar_name "better-cond", :group_name "bb-utils", :version "2.1.0-SNAPSHOT", :description "A better cond", :created 1592559537993}
 {:jar_name "cronut", :group_name "com.troy-west", :version "0.2.5", :description "Clojure Scheduled Execution via Quartzite and Integrant", :created 1592560706978}
 {:jar_name "datahike", :group_name "timokramer", :version "0.3.3-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1592560991645}
+{:jar_name "liberator-hal.health-resource", :group_name "io.logicblocks", :version "0.1.3-RC6", :description "A HAL health resource for liberator", :created 1592563251492}
+{:jar_name "clj-hgvs", :group_name "clj-hgvs", :version "0.4.4-SNAPSHOT", :description "Clojure(Script) library for handling HGVS", :created 1592563866046}
+{:jar_name "crux-core", :group_name "juxt", :version "20.06-1.9.1-beta", :description "An open source document database with bitemporal graph queries", :created 1592563959803}
+{:jar_name "crux-rdf", :group_name "juxt", :version "20.06-1.9.1-alpha", :description "Crux RDF", :created 1592563968483}
+{:jar_name "crux-metrics", :group_name "juxt", :version "20.06-1.9.1-alpha", :description "Provides Metrics for Crux nodes", :created 1592563978582}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.06-1.9.1-beta", :description "Crux RocksDB", :created 1592563987858}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "20.06-1.9.1-alpha", :description "Crux LMDB", :created 1592563997114}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.06-1.9.1-beta", :description "Crux JDBC", :created 1592564006382}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.06-1.9.1-beta", :description "Crux HTTP Client", :created 1592564015649}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.06-1.9.1-alpha", :description "Crux HTTP Server", :created 1592564026077}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.06-1.9.1-beta", :description "Crux Kafka Embedded", :created 1592564035425}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.06-1.9.1-beta", :description "Crux Kafka Connect", :created 1592564046712}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.06-1.9.1-beta", :description "Crux Kafka", :created 1592564057408}
+{:jar_name "crux-test", :group_name "juxt", :version "20.06-1.9.1", :description "Crux Tests Project", :created 1592564067452}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.06-1.9.1-beta", :description "", :created 1592564078711}
+{:jar_name "crux-cli", :group_name "juxt", :version "20.06-1.9.1-beta", :description "Crux Uberjar", :created 1592564089431}
+{:jar_name "crux-bench", :group_name "juxt", :version "20.06-1.9.1", :description "", :created 1592564108778}
+{:jar_name "datahike", :group_name "timokramer", :version "0.3.3", :description "A durable datalog implementation adaptable for distribution.", :created 1592564509454}
