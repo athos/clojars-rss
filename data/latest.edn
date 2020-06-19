@@ -205,7 +205,6 @@
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.10.12", :description "CLJS development tools", :created 1592473277604}
 {:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v0.0.42", :description "A client library for Vald.", :created 1592474822609}
 {:jar_name "geni", :group_name "zero.one", :version "0.0.9", :description "A Clojure library that wraps Apache Spark", :created 1592477235226}
-{:jar_name "bb-utils", :group_name "bb-utils", :version "0.1.0-SNAPSHOT", :description "Babashka utils", :created 1592477244978}
 {:jar_name "lein-template", :group_name "geni", :version "0.0.9", :description "Leiningen template for a Geni application.", :created 1592477328511}
 {:jar_name "lib-misc", :group_name "lib-misc", :version "0.1.0-SNAPSHOT", :description "DELETE me", :created 1592478957481}
 {:jar_name "debux", :group_name "philoskim", :version "0.7.1", :description "A trace-based debugging library for Clojure and ClojureScript", :created 1592479793676}
@@ -253,4 +252,5 @@
 {:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.13.0", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1592529901341}
 {:jar_name "lein-tern", :group_name "cc.artifice", :version "0.6.0", :description "Migrations as data", :created 1592530601760}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.46", :description nil, :created 1592531043627}
-{:jar_name "better-cond", :group_name "bb-utils", :version "2.1.0-SNAPSHOT", :description "A better cond", :created 1592531129360}
+{:jar_name "bb-utils", :group_name "bb-utils", :version "0.1.0-SNAPSHOT", :description "Babashka utils", :created 1592534368032}
+{:jar_name "better-cond", :group_name "bb-utils", :version "2.1.0-SNAPSHOT", :description "A better cond", :created 1592534400375}
