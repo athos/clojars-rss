@@ -17,7 +17,6 @@
 {:jar_name "liberator-hal.health-resource", :group_name "io.logicblocks", :version "0.1.3-RC5", :description "A HAL health resource for liberator", :created 1592504181834}
 {:jar_name "liberator-hal.discovery-resource", :group_name "io.logicblocks", :version "0.1.1-RC3", :description "A HAL discovery resource for liberator", :created 1592504329961}
 {:jar_name "ring-correlation-id", :group_name "org.clojars.pablobcb", :version "0.4.3", :description "Correlation ID tracing for distributed systems using ring and clj-http", :created 1592504471081}
-{:jar_name "datahike", :group_name "timokramer", :version "0.3.4-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1592510707789}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "2.02", :description "Dataset and ETL pipeline for machine learning", :created 1592511618320}
 {:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.0.8", :description "Reagent components for notebook ui.", :created 1592514456353}
 {:jar_name "intake", :group_name "com.github.csm", :version "0.1.4", :description "Bindings-preserving manifold.deferred operations, core.async compat for manifold", :created 1592514745192}
@@ -252,5 +251,6 @@
 {:jar_name "figwheel-core", :group_name "com.bhauman", :version "0.2.10-SNAPSHOT", :description "Figwheel core provides code reloading facilities for ClojureScript.", :created 1592934415924}
 {:jar_name "figwheel-repl", :group_name "com.bhauman", :version "0.2.10-SNAPSHOT", :description "Figwheel REPL provides a stable multiplexing REPL for ClojureScript", :created 1592934432316}
 {:jar_name "figwheel-main", :group_name "com.bhauman", :version "0.2.10-SNAPSHOT", :description "Figwheel Main - Clojurescript tooling.", :created 1592934453003}
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1592935023123}
 {:jar_name "datahike", :group_name "timokramer", :version "0.5.1-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1592935478293}
+{:jar_name "datahike", :group_name "timokramer", :version "0.3.4-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1592935730818}
+{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1592939008470}
