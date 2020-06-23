@@ -1,7 +1,3 @@
-{:jar_name "lib-misc", :group_name "lib-misc", :version "0.1.0-SNAPSHOT", :description "DELETE me", :created 1592478957481}
-{:jar_name "debux", :group_name "philoskim", :version "0.7.1", :description "A trace-based debugging library for Clojure and ClojureScript", :created 1592479793676}
-{:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.24", :description "Simply Core Libs", :created 1592479807067}
-{:jar_name "debux-stubs", :group_name "philoskim", :version "0.7.1", :description "Debux library for production", :created 1592479924840}
 {:jar_name "ziggurat", :group_name "tech.gojek", :version "3.3.1-alpha.1", :description "A stream processing framework to build stateless applications on kafka", :created 1592483114703}
 {:jar_name "google-cloud-function-ring-adapter", :group_name "nl.epij", :version "0.1.0-alpha1", :description "A (Clojure) ring adapter for the Google Cloud Function Java Runtime on Google Cloud Platform", :created 1592483908523}
 {:jar_name "pogonos", :group_name "pogonos", :version "0.1.0", :description "Another Clojure(Script) implementation of the Mustache templating language", :created 1592486097980}
@@ -247,10 +243,14 @@
 {:jar_name "babashka", :group_name "borkdude", :version "0.1.3-SNAPSHOT", :description "babashka", :created 1592919005184}
 {:jar_name "liberator-mixin", :group_name "b-social", :version "0.0.53", :description "An extension to liberator allowing for composable mixins.", :created 1592919153056}
 {:jar_name "tools.namespace", :group_name "org.clojure.clr", :version "1.0.0.3", :description "Port of clojure.org/tools.namespace to ClojureCLR", :created 1592920457158}
-{:jar_name "hyperfiddle", :group_name "com.hyperfiddle", :version "0.3.0-SNAPSHOT", :description "", :created 1592921267034}
 {:jar_name "utility-belt", :group_name "nomnom", :version "1.3.0", :description "Some of the tools you'll ever need to fight crime and write Clojure stuffs", :created 1592922630559}
 {:jar_name "repl-tooling", :group_name "repl-tooling", :version "0.5.0-SNAPSHOT", :description "", :created 1592923958384}
 {:jar_name "clj-utils", :group_name "dv", :version "2020-06-23-1", :description "My helpers and additions", :created 1592927050674}
 {:jar_name "clj-template", :group_name "dv.fulcro-template", :version "2020-06-23-1", :description "clj-new template for Fulcro applications", :created 1592927154535}
 {:jar_name "repl-tooling", :group_name "repl-tooling", :version "0.5.0", :description "", :created 1592927809632}
 {:jar_name "certifiable", :group_name "com.bhauman", :version "0.0.2-SNAPSHOT", :description "Assists in the creation of development SSL certificates and Java Keystore files", :created 1592928117219}
+{:jar_name "certifiable", :group_name "com.bhauman", :version "0.0.2", :description "Assists in the creation of development SSL certificates and Java Keystore files", :created 1592928389023}
+{:jar_name "hyperfiddle", :group_name "com.hyperfiddle", :version "0.3.0-SNAPSHOT", :description "", :created 1592929014076}
+{:jar_name "quiltools", :group_name "org.clojars.fergalbyrne", :version "0.1.2", :description "Functional geometry wrapper for quil", :created 1592929488253}
+{:jar_name "cljs-emotion", :group_name "dv", :version "2020-06-23-1", :description "ClojureScript wrapper of emotion css-in-js library", :created 1592930348899}
+{:jar_name "clj-template", :group_name "dv.fulcro-template", :version "2020-06-23-2", :description "clj-new template for Fulcro applications", :created 1592931857530}
