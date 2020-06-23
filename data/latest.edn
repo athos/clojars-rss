@@ -1,6 +1,3 @@
-{:jar_name "toyokumo-commons", :group_name "toyokumo", :version "0.2.0", :description "Utility functions that are used in multiple TOYOKUMO products", :created 1592440804692}
-{:jar_name "expound", :group_name "expound", :version "0.8.5", :description "Human-optimized error messages for clojure.spec", :created 1592441736202}
-{:jar_name "komcrad-utils", :group_name "komcrad-utils", :version "0.11.0", :description "komcrad's utilities", :created 1592443278973}
 {:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.0.3", :description "Reagent components for notebook ui.", :created 1592443741439}
 {:jar_name "repl-reload", :group_name "komcrad", :version "0.1.1", :description "Reloads the repl on file change", :created 1592443747127}
 {:jar_name "epsilon", :group_name "meander", :version "0.0.466", :description "A library that enables transparent data manipulation through pattern matching, substitution, and rewriting.", :created 1592448695502}
@@ -65,7 +62,6 @@
 {:jar_name "lein-tern", :group_name "cc.artifice", :version "0.6.0", :description "Migrations as data", :created 1592530601760}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.46", :description nil, :created 1592531043627}
 {:jar_name "cook-jobclient", :group_name "twosigma", :version "0.6.0", :description "A Java API for connecting to the Cook scheduler, submitting, and monitoring jobs.", :created 1592537074947}
-{:jar_name "material-ui-reagent", :group_name "toyokumo", :version "0.1.0-SNAPSHOT", :description "A ClojureScript library for using Material-UI with Reagent on shadow-cljs", :created 1592544070499}
 {:jar_name "email-template", :group_name "tendant", :version "0.1.4", :description "FIXME: write description", :created 1592553351217}
 {:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.25", :description "Simply Core Libs", :created 1592554884596}
 {:jar_name "better-cond", :group_name "bb-utils", :version "2.1.0-SNAPSHOT", :description "A better cond", :created 1592559537993}
@@ -239,11 +235,6 @@
 {:jar_name "clj-template", :group_name "dv.fulcro-template", :version "2020-06-23", :description "clj-new template for Fulcro applications", :created 1592887772858}
 {:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1592889041293}
 {:jar_name "swinghelp", :group_name "swinghelp", :version "0.1.5-SNAPSHOT", :description "helper methods for seesaw.", :created 1592889986922}
-{:jar_name "dropwizard-revolver", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1592891154296}
-{:jar_name "revolver-model", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1592891296332}
-{:jar_name "revolver-core", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1592891383977}
-{:jar_name "revolver-resilience4j", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1592891434264}
-{:jar_name "revolver-server", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1592891477790}
 {:jar_name "user.core.async", :group_name "user.core.async", :version "2020.175.21735", :description nil, :created 1592892158523}
 {:jar_name "next.jdbc", :group_name "seancorfield", :version "1.0.476", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1592893157913}
 {:jar_name "pretty-print-plus", :group_name "paintparty", :version "0.1.1-SNAPSHOT", :description "Pretty-printing in color", :created 1592893581573}
@@ -254,3 +245,12 @@
 {:jar_name "revolver-resilience4j", :group_name "io.revolver", :version "2.0.11-1-SNAPSHOT", :description nil, :created 1592895195538}
 {:jar_name "revolver-server", :group_name "io.revolver", :version "2.0.11-1-SNAPSHOT", :description nil, :created 1592895223418}
 {:jar_name "user.core.async", :group_name "user.core.async", :version "2020.175.25012", :description nil, :created 1592895435480}
+{:jar_name "user.core.async", :group_name "user.core.async", :version "2020.175.26271", :description nil, :created 1592896694399}
+{:jar_name "ziggurat", :group_name "tech.gojek", :version "3.3.1-alpha.2", :description "A stream processing framework to build stateless applications on kafka", :created 1592897039421}
+{:jar_name "clj-ksql", :group_name "clj-ksql", :version "0.0.25-SNAPSHOT", :description "Clojure client for ksql", :created 1592897089900}
+{:jar_name "material-ui-reagent", :group_name "toyokumo", :version "0.1.0-SNAPSHOT", :description "A ClojureScript library for using Material-UI with Reagent on shadow-cljs", :created 1592897540546}
+{:jar_name "dropwizard-revolver", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1592899082813}
+{:jar_name "revolver-model", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1592899102365}
+{:jar_name "revolver-core", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1592899125228}
+{:jar_name "revolver-resilience4j", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1592899147159}
+{:jar_name "revolver-server", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1592899171863}
