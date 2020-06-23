@@ -1,6 +1,3 @@
-{:jar_name "crux-core", :group_name "juxt", :version "20.06-1.9.0-beta", :description "An open source document database with bitemporal graph queries", :created 1592412188837}
-{:jar_name "crux-rdf", :group_name "juxt", :version "20.06-1.9.0-alpha", :description "Crux RDF", :created 1592412198685}
-{:jar_name "crux-metrics", :group_name "juxt", :version "20.06-1.9.0-alpha", :description "Provides Metrics for Crux nodes", :created 1592412209948}
 {:jar_name "crux-rocksdb", :group_name "juxt", :version "20.06-1.9.0-beta", :description "Crux RocksDB", :created 1592412220504}
 {:jar_name "crux-lmdb", :group_name "juxt", :version "20.06-1.9.0-alpha", :description "Crux LMDB", :created 1592412230056}
 {:jar_name "crux-jdbc", :group_name "juxt", :version "20.06-1.9.0-beta", :description "Crux JDBC", :created 1592412240328}
@@ -250,7 +247,10 @@
 {:jar_name "cats.spec", :group_name "com.caioaao", :version "0.1.0", :description "specs for funcool cats monads", :created 1592857023578}
 {:jar_name "naga-store", :group_name "org.clojars.quoll", :version "0.3.5", :description "Protocol library for Naga storage", :created 1592858487474}
 {:jar_name "clsql", :group_name "clsql", :version "0.1.5", :description "clsql provides a small abstraction for handling SQL and migrations", :created 1592860500783}
-{:jar_name "repl-tooling", :group_name "repl-tooling", :version "0.5.0-SNAPSHOT", :description "", :created 1592861014052}
 {:jar_name "naga-store", :group_name "org.clojars.quoll", :version "0.3.6", :description "Protocol library for Naga storage", :created 1592866177842}
 {:jar_name "naga", :group_name "org.clojars.quoll", :version "0.2.37", :description "Forward Chaining Rule Engine", :created 1592868657806}
 {:jar_name "next.jdbc", :group_name "seancorfield", :version "1.0.475", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1592869835128}
+{:jar_name "clj-template", :group_name "dv.fulcro-template", :version "2020-06-22", :description "clj-new template for Fulcro applications", :created 1592871962506}
+{:jar_name "asami", :group_name "org.clojars.quoll", :version "0.4.12", :description "An in-memory implementation of a graph store, implementing the naga-store protocol", :created 1592873673697}
+{:jar_name "naga", :group_name "org.clojars.quoll", :version "0.2.38", :description "Forward Chaining Rule Engine", :created 1592873847636}
+{:jar_name "repl-tooling", :group_name "repl-tooling", :version "0.5.0-SNAPSHOT", :description "", :created 1592874037542}
