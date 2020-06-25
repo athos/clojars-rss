@@ -1,6 +1,3 @@
-{:jar_name "crux-http-client", :group_name "juxt", :version "20.06-1.9.1-beta", :description "Crux HTTP Client", :created 1592564015649}
-{:jar_name "crux-http-server", :group_name "juxt", :version "20.06-1.9.1-alpha", :description "Crux HTTP Server", :created 1592564026077}
-{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.06-1.9.1-beta", :description "Crux Kafka Embedded", :created 1592564035425}
 {:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.06-1.9.1-beta", :description "Crux Kafka Connect", :created 1592564046712}
 {:jar_name "crux-kafka", :group_name "juxt", :version "20.06-1.9.1-beta", :description "Crux Kafka", :created 1592564057408}
 {:jar_name "crux-test", :group_name "juxt", :version "20.06-1.9.1", :description "Crux Tests Project", :created 1592564067452}
@@ -247,10 +244,13 @@
 {:jar_name "clj-xlsxio", :group_name "clj-xlsxio", :version "0.6.1", :description "xlsxio for clojure", :created 1593034400725}
 {:jar_name "firestore-clj", :group_name "lurodrigo", :version "1.2.1", :description "A Firestore API for Clojure. Provides tools for doing single pulls and writes, streaming real-time data, batched writes and transactions.", :created 1593038456312}
 {:jar_name "lein-artifact-registry", :group_name "lurodrigo", :version "0.1.0", :description "Plugin for using Google Artifact Registry in Leiningen.", :created 1593038552057}
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1593038687569}
 {:jar_name "clj-xlsxio", :group_name "clj-xlsxio", :version "0.6.3", :description "xlsxio for clojure", :created 1593038710848}
 {:jar_name "re-frame-clipboard-fx", :group_name "superstructor", :version "0.0.1-0-c0e25da-SNAPSHOT", :description "A re-frame effects handler for interacting with the system clipboard.", :created 1593045467843}
 {:jar_name "repl-tooling", :group_name "repl-tooling", :version "0.5.1-SNAPSHOT", :description "", :created 1593047419872}
 {:jar_name "notebook-encoding", :group_name "org.pinkgorilla", :version "0.1.1", :description "Encoding of Pink Gorilla Notebook.", :created 1593049011685}
 {:jar_name "lazy-map", :group_name "com.guaranteedrate", :version "0.1.6", :description "Lazy maps for Clojure", :created 1593049205184}
 {:jar_name "lein-ring", :group_name "kimim", :version "1.0.0", :description "Leiningen Ring plugin with latest nrepl", :created 1593050396929}
+{:jar_name "discljord", :group_name "org.suskalo", :version "1.0.0-RC2", :description "A Clojure wrapper library for the Discord API, with full API coverage (except voice, for now), and high scalability.", :created 1593059368102}
+{:jar_name "lein-ring", :group_name "kimim", :version "1.0.1", :description "Leiningen Ring plugin with latest nrepl", :created 1593060046479}
+{:jar_name "sqs-utils", :group_name "motiva", :version "0.9.0-SNAPSHOT", :description "Higher level SQS utilities for use in Motiva products", :created 1593060772546}
+{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1593061323189}
