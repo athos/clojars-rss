@@ -1,20 +1,3 @@
-{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.12", :description "Data definitions for APIs", :created 1593155544670}
-{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.12", :description "Data definitions for APIs", :created 1593155557590}
-{:jar_name "matrix-protocol", :group_name "matrix-protocol", :version "0.1.15-SNAPSHOT", :description "Matrix protocol helper library", :created 1593156028003}
-{:jar_name "dropwizard-primer", :group_name "io.raven.dropwizard", :version "1.3.14-7", :description nil, :created 1593158020143}
-{:jar_name "clj-jfx", :group_name "clj-jfx", :version "0.1.25", :description "", :created 1593161541320}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200626-093721.9ca2d562", :description nil, :created 1593164268314}
-{:jar_name "timelines", :group_name "uk.rogerthemoose", :version "0.2.0-alpha", :description "simple svg rendering utility", :created 1593165118684}
-{:jar_name "neanderthal", :group_name "uncomplicate", :version "0.32.0", :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :created 1593167673435}
-{:jar_name "alphabase", :group_name "fluree", :version "3.2.1", :description "Clojure(script) library to encode binary data with alphabet base strings.", :created 1593178345422}
-{:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha19", :description "OpenCompany Common Library", :created 1593178435619}
-{:jar_name "matchete", :group_name "io.xapix", :version "2.0.0-SNAPSHOT", :description "", :created 1593178835948}
-{:jar_name "axel-f", :group_name "io.xapix", :version "2.2.0-SNAPSHOT", :description "", :created 1593179274807}
-{:jar_name "crypto", :group_name "fluree", :version "0.3.3", :description "Cryptography library for Fluree", :created 1593179908457}
-{:jar_name "checkmate", :group_name "exoscale", :version "0.1.0", :description "By failing to prepare, you are preparing to fail", :created 1593181588084}
-{:jar_name "bytegeist", :group_name "bytegeist", :version "0.1.0-SNAPSHOT", :description "Binary protocol specs for clojure", :created 1593187274736}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200626-173515.4fcf4914", :description nil, :created 1593192945776}
-{:jar_name "certifiable", :group_name "com.bhauman", :version "0.0.5", :description "Assists in the creation of development SSL certificates and Java Keystore files", :created 1593193890272}
 {:jar_name "nrepl-middleware", :group_name "org.pinkgorilla", :version "0.3.3", :description "nREPL middleware", :created 1593195456471}
 {:jar_name "komcrad-utils", :group_name "komcrad-utils", :version "0.12.0", :description "komcrad's utilities", :created 1593196569483}
 {:jar_name "detijd", :group_name "org.danielsz", :version "0.1.6", :description nil, :created 1593197303134}
@@ -254,3 +237,20 @@
 {:jar_name "mount", :group_name "district0x", :version "0.1.17", :description "managing Clojure and ClojureScript app state since (reset)", :created 1593674935405}
 {:jar_name "honeysql", :group_name "district0x", :version "1.0.444", :description "SQL as Clojure data structures.", :created 1593676248193}
 {:jar_name "re-frame", :group_name "re-frame", :version "1.0.0-rc4", :description "A ClojureScript MVC-like Framework For Writing SPAs Using Reagent.", :created 1593677663551}
+{:jar_name "spandex", :group_name "org.clojars.0xbase12", :version "0.7.5-SNAPSHOT", :description "Clojure Wrapper of the new/official ElasticSearch REST client", :created 1593680907838}
+{:jar_name "crux-core", :group_name "juxt", :version "20.07-1.10.0-beta-SNAPSHOT", :description "An open source document database with bitemporal graph queries", :created 1593682928967}
+{:jar_name "crux-rdf", :group_name "juxt", :version "20.07-1.10.0-alpha-SNAPSHOT", :description "Crux RDF", :created 1593682939635}
+{:jar_name "crux-metrics", :group_name "juxt", :version "20.07-1.10.0-alpha-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1593682949199}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.07-1.10.0-beta-SNAPSHOT", :description "Crux RocksDB", :created 1593682959875}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "20.07-1.10.0-alpha-SNAPSHOT", :description "Crux LMDB", :created 1593682969103}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.07-1.10.0-beta-SNAPSHOT", :description "Crux JDBC", :created 1593682978011}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.07-1.10.0-beta-SNAPSHOT", :description "Crux HTTP Client", :created 1593682987207}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.07-1.10.0-alpha-SNAPSHOT", :description "Crux HTTP Server", :created 1593682999435}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.07-1.10.0-beta-SNAPSHOT", :description "Crux Kafka Embedded", :created 1593683008175}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.07-1.10.0-beta-SNAPSHOT", :description "Crux Kafka Connect", :created 1593683020047}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.07-1.10.0-beta-SNAPSHOT", :description "Crux Kafka", :created 1593683029831}
+{:jar_name "crux-sql", :group_name "juxt", :version "20.07-1.10.0-alpha-SNAPSHOT", :description "SQL for Crux using Apache Calcite", :created 1593683041031}
+{:jar_name "crux-test", :group_name "juxt", :version "20.07-1.10.0-SNAPSHOT", :description "Crux Tests Project", :created 1593683059507}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.07-1.10.0-beta-SNAPSHOT", :description "", :created 1593683072108}
+{:jar_name "crux-cli", :group_name "juxt", :version "20.07-1.10.0-beta-SNAPSHOT", :description "Crux Uberjar", :created 1593683082476}
+{:jar_name "crux-bench", :group_name "juxt", :version "20.07-1.10.0-SNAPSHOT", :description "", :created 1593683098928}
