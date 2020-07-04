@@ -1,8 +1,3 @@
-{:jar_name "blueprint", :group_name "exoscale", :version "0.2.12", :description "Data definitions for APIs", :created 1593154320075}
-{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.12", :description "Data definitions for APIs", :created 1593155484260}
-{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.12", :description "Data definitions for APIs", :created 1593155496847}
-{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.12", :description "Data definitions for APIs", :created 1593155508495}
-{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.12", :description "Data definitions for APIs", :created 1593155520935}
 {:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.12", :description "Data definitions for APIs", :created 1593155533394}
 {:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.12", :description "Data definitions for APIs", :created 1593155544670}
 {:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.12", :description "Data definitions for APIs", :created 1593155557590}
@@ -254,3 +249,8 @@
 {:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.0.31", :description "Reagent components for notebook ui.", :created 1593813576755}
 {:jar_name "dumdom", :group_name "cjohansen", :version "2020.07.04", :description "Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.", :created 1593813697688}
 {:jar_name "notebook-encoding", :group_name "org.pinkgorilla", :version "0.1.6", :description "Encoding of Pink Gorilla Notebook.", :created 1593814205059}
+{:jar_name "lein-cljsbuild", :group_name "org.clojars.bost", :version "1.1.9", :description "ClojureScript Autobuilder Plugin", :created 1593822519308}
+{:jar_name "klipse", :group_name "org.clojars.bost", :version "7.9.13", :description "Embeddable multi-language WEB REPL", :created 1593822610729}
+{:jar_name "closure-compiler-unshaded", :group_name "org.clojars.bost", :version "v20200704", :description "Closure Compiler is a JavaScript optimizing compiler. It parses your\n    JavaScript, analyzes it, removes dead code and rewrites and minimizes\n    what's left. It also checks syntax, variable references, and types, and\n    warns about common JavaScript pitfalls. It is used in many of Google's\n    JavaScript apps, including Gmail, Google Web Search, Google Maps, and\n    Google Docs.", :created 1593823376690}
+{:jar_name "clojurescript", :group_name "org.clojars.bost", :version "1.10.786", :description "ClojureScript compiler and core runtime library", :created 1593823483775}
+{:jar_name "codemirror-parinfer", :group_name "org.clojars.bost", :version "0.0.5", :description "site for illustrating the value of Parinfer", :created 1593823613799}
