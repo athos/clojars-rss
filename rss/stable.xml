@@ -4,7 +4,77 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 8 Jul 2020 13:07:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 8 Jul 2020 14:08:21 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/kamera/versions/0.1.2</guid>
+    <title>[kamera &quot;0.1.2&quot;]</title>
+    <link>https://clojars.org/kamera/versions/0.1.2</link>
+    <description>UI testing via image comparison and devcards</description>
+    <pubDate>Wed, 8 Jul 2020 14:03:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.3.0</guid>
+    <title>[com.brunobonacci/mulog-kinesis &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.3.0</link>
+    <description>A publisher for μ/log to Kinesis.</description>
+    <pubDate>Wed, 8 Jul 2020 13:56:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.3.0</guid>
+    <title>[com.brunobonacci/mulog-zipkin &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.3.0</link>
+    <description>A publisher for μ/trace to OpenZipkin.</description>
+    <pubDate>Wed, 8 Jul 2020 13:55:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.3.0</guid>
+    <title>[com.brunobonacci/mulog-slack &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.3.0</link>
+    <description>A publisher for μ/log to a Slack incoming webhook.</description>
+    <pubDate>Wed, 8 Jul 2020 13:54:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.3.0</guid>
+    <title>[com.brunobonacci/mulog-kafka &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.3.0</link>
+    <description>A publisher for μ/log to Kafka.</description>
+    <pubDate>Wed, 8 Jul 2020 13:54:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.3.0</guid>
+    <title>[com.brunobonacci/mulog-jvm-metrics &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.3.0</link>
+    <description>A JVM metrics sampler for μ/log.</description>
+    <pubDate>Wed, 8 Jul 2020 13:54:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.3.0</guid>
+    <title>[com.brunobonacci/mulog-elasticsearch &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.3.0</link>
+    <description>A publisher for μ/log to ElasticSearch.</description>
+    <pubDate>Wed, 8 Jul 2020 13:53:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-json/versions/0.3.0</guid>
+    <title>[com.brunobonacci/mulog-json &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-json/versions/0.3.0</link>
+    <description>μ/log json handling</description>
+    <pubDate>Wed, 8 Jul 2020 13:53:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog/versions/0.3.0</guid>
+    <title>[com.brunobonacci/mulog &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog/versions/0.3.0</link>
+    <description>μ/log is a micro-logging library that logs events and data, not words!</description>
+    <pubDate>Wed, 8 Jul 2020 13:53:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.pinkgorilla/notebook-ui/versions/0.0.44</guid>
+    <title>[org.pinkgorilla/notebook-ui &quot;0.0.44&quot;]</title>
+    <link>https://clojars.org/org.pinkgorilla/notebook-ui/versions/0.0.44</link>
+    <description>Reagent components for notebook ui.</description>
+    <pubDate>Wed, 8 Jul 2020 13:31:12 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.pinkgorilla/gorilla-explore/versions/0.2.12</guid>
     <title>[org.pinkgorilla/gorilla-explore &quot;0.2.12&quot;]</title>
@@ -1741,77 +1811,6 @@
     <link>https://clojars.org/magnet/buddy-auth.jwt-oidc/versions/0.8.6</link>
     <description>Buddy-auth JWT token validator, for OpenID Connect ID tokens</description>
     <pubDate>Tue, 30 Jun 2020 22:50:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/play-cljc.text/versions/0.5.4</guid>
-    <title>[play-cljc.text &quot;0.5.4&quot;]</title>
-    <link>https://clojars.org/play-cljc.text/versions/0.5.4</link>
-    <description>A library for rendering text with play-cljc</description>
-    <pubDate>Tue, 30 Jun 2020 22:48:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/simple-kafka-client/versions/0.3.1</guid>
-    <title>[simple-kafka-client &quot;0.3.1&quot;]</title>
-    <link>https://clojars.org/simple-kafka-client/versions/0.3.1</link>
-    <description>Not another kafka client libary, instead this is a collection of functions for building kafka client in Clojure.</description>
-    <pubDate>Tue, 30 Jun 2020 22:19:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tendant/ring-exceptions/versions/0.1.7</guid>
-    <title>[tendant/ring-exceptions &quot;0.1.7&quot;]</title>
-    <link>https://clojars.org/tendant/ring-exceptions/versions/0.1.7</link>
-    <description>Wrap exceptions for ring handler</description>
-    <pubDate>Tue, 30 Jun 2020 22:16:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.walmartlabs/lacinia-pedestal/versions/0.14.0</guid>
-    <title>[com.walmartlabs/lacinia-pedestal &quot;0.14.0&quot;]</title>
-    <link>https://clojars.org/com.walmartlabs/lacinia-pedestal/versions/0.14.0</link>
-    <description>Pedestal infrastructure supporting Lacinia GraphQL</description>
-    <pubDate>Tue, 30 Jun 2020 21:20:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.quoll/naga/versions/0.2.39</guid>
-    <title>[org.clojars.quoll/naga &quot;0.2.39&quot;]</title>
-    <link>https://clojars.org/org.clojars.quoll/naga/versions/0.2.39</link>
-    <description>Forward Chaining Rule Engine</description>
-    <pubDate>Tue, 30 Jun 2020 21:13:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.walmartlabs/lacinia/versions/0.37.0</guid>
-    <title>[com.walmartlabs/lacinia &quot;0.37.0&quot;]</title>
-    <link>https://clojars.org/com.walmartlabs/lacinia/versions/0.37.0</link>
-    <description>A GraphQL server implementation in Clojure</description>
-    <pubDate>Tue, 30 Jun 2020 21:06:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tolitius/funcade/versions/0.1.11</guid>
-    <title>[tolitius/funcade &quot;0.1.11&quot;]</title>
-    <link>https://clojars.org/tolitius/funcade/versions/0.1.11</link>
-    <description>creates, manages and refreshes oauth 2.0 jwt tokens</description>
-    <pubDate>Tue, 30 Jun 2020 20:21:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/0.5.74</guid>
-    <title>[yetibot &quot;0.5.74&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/0.5.74</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Tue, 30 Jun 2020 19:14:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/core/versions/20200630.181106.8100b22</guid>
-    <title>[yetibot/core &quot;20200630.181106.8100b22&quot;]</title>
-    <link>https://clojars.org/yetibot/core/versions/20200630.181106.8100b22</link>
-    <description>Core yetibot utilities, extracted for shared use among yetibot
-                and its various plugins</description>
-    <pubDate>Tue, 30 Jun 2020 19:07:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/domino/core/versions/0.4.0-pre-alpha.1</guid>
-    <title>[domino/core &quot;0.4.0-pre-alpha.1&quot;]</title>
-    <link>https://clojars.org/domino/core/versions/0.4.0-pre-alpha.1</link>
-    <description>Clojure(script) data flow engine</description>
-    <pubDate>Tue, 30 Jun 2020 18:50:31 +0000</pubDate>
   </item>
   </channel>
 </rss>
