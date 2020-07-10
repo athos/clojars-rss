@@ -1,21 +1,3 @@
-{:jar_name "clj-pdf", :group_name "clj-pdf", :version "2.5.4", :description "PDF generation library", :created 1593888228461}
-{:jar_name "picasso", :group_name "org.pinkgorilla", :version "3.1.18", :description "renderer lookup engine", :created 1593899056367}
-{:jar_name "deploytest3", :group_name "org.clojars.tcrawley", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1593906403854}
-{:jar_name "easy-rpc", :group_name "easy-rpc", :version "0.5.0", :description "Turn any Clojure api into a microservice accessible over the network", :created 1593917025996}
-{:jar_name "varity", :group_name "varity", :version "0.6.2-SNAPSHOT", :description "Variant translation library for Clojure", :created 1593920813891}
-{:jar_name "shell-page", :group_name "mvc-works", :version "0.1.15", :description nil, :created 1593921628301}
-{:jar_name "re-cipes", :group_name "re-cipes", :version "0.1.24", :description "Recipes for provioning Linux machines", :created 1593938928452}
-{:jar_name "clj-faktory", :group_name "tech.ducktype", :version "0.3.11", :description "Faktory workers in Clojure!", :created 1593945403968}
-{:jar_name "geni", :group_name "zero.one", :version "0.0.14", :description "A Clojure library that wraps Apache Spark", :created 1593946627455}
-{:jar_name "re-cog", :group_name "re-cog", :version "0.4.17", :description "Distributed provisioning Clojure functions to be used with Re-gent", :created 1593946630303}
-{:jar_name "lein-template", :group_name "geni", :version "0.0.14", :description "Leiningen template for a Geni application.", :created 1593946837272}
-{:jar_name "lilac-parser", :group_name "mvc-works", :version "0.0.3-a6", :description "", :created 1593951287496}
-{:jar_name "stats", :group_name "kixi", :version "0.5.3", :description "A library of statistical distribution sampling and transducing functions", :created 1593957010023}
-{:jar_name "paravim", :group_name "paravim", :version "0.14.1", :description "A parasitic editor for Clojure", :created 1593958295399}
-{:jar_name "paravim", :group_name "paravim", :version "0.14.2", :description "A parasitic editor for Clojure", :created 1593965422980}
-{:jar_name "caches", :group_name "cumulo", :version "0.1.0-a1", :description "", :created 1593965650403}
-{:jar_name "experience", :group_name "degree9", :version "0.0.0-SNAPSHOT", :description "Degree9 Experience for Enterprise.", :created 1593966065389}
-{:jar_name "clarax", :group_name "net.sekao", :version "0.4.1", :description "", :created 1593971457535}
 {:jar_name "paravim", :group_name "paravim", :version "0.14.3", :description "A parasitic editor for Clojure", :created 1593971626008}
 {:jar_name "flexdb", :group_name "ndevreeze", :version "0.4.1-SNAPSHOT", :description "Provide flexible database access, insert records\n  without explicitly creating tables and columns first.", :created 1593975945307}
 {:jar_name "blockoid", :group_name "org.parkerici", :version "0.3.6", :description "Clojurescript shim for Blockly", :created 1593979812954}
@@ -254,3 +236,21 @@
 {:jar_name "crux-s3", :group_name "juxt", :version "20.06-1.9.2-beta-SNAPSHOT", :description "", :created 1594382558430}
 {:jar_name "crux-cli", :group_name "juxt", :version "20.06-1.9.2-beta-SNAPSHOT", :description "Crux Uberjar", :created 1594382570354}
 {:jar_name "crux-bench", :group_name "juxt", :version "20.06-1.9.2-SNAPSHOT", :description "", :created 1594382591683}
+{:jar_name "crux-core", :group_name "juxt", :version "20.07-1.9.2-beta-SNAPSHOT", :description "An open source document database with bitemporal graph queries", :created 1594383472163}
+{:jar_name "crux-rdf", :group_name "juxt", :version "20.07-1.9.2-alpha-SNAPSHOT", :description "Crux RDF", :created 1594383483519}
+{:jar_name "crux-metrics", :group_name "juxt", :version "20.07-1.9.2-alpha-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1594383494284}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.07-1.9.2-beta-SNAPSHOT", :description "Crux RocksDB", :created 1594383505608}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "20.07-1.9.2-alpha-SNAPSHOT", :description "Crux LMDB", :created 1594383515418}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.07-1.9.2-beta-SNAPSHOT", :description "Crux JDBC", :created 1594383524947}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.07-1.9.2-beta-SNAPSHOT", :description "Crux HTTP Client", :created 1594383534619}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.07-1.9.2-alpha-SNAPSHOT", :description "Crux HTTP Server", :created 1594383547333}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.07-1.9.2-beta-SNAPSHOT", :description "Crux Kafka Embedded", :created 1594383557034}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.07-1.9.2-beta-SNAPSHOT", :description "Crux Kafka Connect", :created 1594383570420}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.07-1.9.2-beta-SNAPSHOT", :description "Crux Kafka", :created 1594383582183}
+{:jar_name "crux-test", :group_name "juxt", :version "20.07-1.9.2-SNAPSHOT", :description "Crux Tests Project", :created 1594383602189}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.07-1.9.2-beta-SNAPSHOT", :description "", :created 1594383615580}
+{:jar_name "crux-cli", :group_name "juxt", :version "20.07-1.9.2-beta-SNAPSHOT", :description "Crux Uberjar", :created 1594383627390}
+{:jar_name "crux-bench", :group_name "juxt", :version "20.07-1.9.2-SNAPSHOT", :description "", :created 1594383649149}
+{:jar_name "odin", :group_name "ertu", :version "0.1.0", :description "A declarative query DSL for Clojure - halgari/odin", :created 1594385303800}
+{:jar_name "endpoint", :group_name "sweet-tooth", :version "0.10.9", :description "Utilities for working with liberator-based endpoints", :created 1594386014789}
+{:jar_name "generate", :group_name "sweet-tooth", :version "0.1.2", :description "Generate code from the REPL", :created 1594386074773}
