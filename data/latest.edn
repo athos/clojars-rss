@@ -1,18 +1,3 @@
-{:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.0.30", :description "Reagent components for notebook ui.", :created 1593808795878}
-{:jar_name "discord-bot", :group_name "io.rdgd", :version "0.1.4", :description nil, :created 1593809085819}
-{:jar_name "clometheus", :group_name "online.duevel", :version "0.1.1", :description "Prometheus client library", :created 1593809524270}
-{:jar_name "notebook-encoding", :group_name "org.pinkgorilla", :version "0.1.5", :description "Encoding of Pink Gorilla Notebook.", :created 1593811917977}
-{:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.0.31", :description "Reagent components for notebook ui.", :created 1593813576755}
-{:jar_name "dumdom", :group_name "cjohansen", :version "2020.07.04", :description "Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.", :created 1593813697688}
-{:jar_name "notebook-encoding", :group_name "org.pinkgorilla", :version "0.1.6", :description "Encoding of Pink Gorilla Notebook.", :created 1593814205059}
-{:jar_name "lein-cljsbuild", :group_name "org.clojars.bost", :version "1.1.9", :description "ClojureScript Autobuilder Plugin", :created 1593822519308}
-{:jar_name "klipse", :group_name "org.clojars.bost", :version "7.9.13", :description "Embeddable multi-language WEB REPL", :created 1593822610729}
-{:jar_name "closure-compiler-unshaded", :group_name "org.clojars.bost", :version "v20200704", :description "Closure Compiler is a JavaScript optimizing compiler. It parses your\n    JavaScript, analyzes it, removes dead code and rewrites and minimizes\n    what's left. It also checks syntax, variable references, and types, and\n    warns about common JavaScript pitfalls. It is used in many of Google's\n    JavaScript apps, including Gmail, Google Web Search, Google Maps, and\n    Google Docs.", :created 1593823376690}
-{:jar_name "clojurescript", :group_name "org.clojars.bost", :version "1.10.786", :description "ClojureScript compiler and core runtime library", :created 1593823483775}
-{:jar_name "codemirror-parinfer", :group_name "org.clojars.bost", :version "0.0.5", :description "site for illustrating the value of Parinfer", :created 1593823613799}
-{:jar_name "testdoc", :group_name "testdoc", :version "1.4.0", :description "Yet another doctest implementation in Clojure", :created 1593829889499}
-{:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.0.32", :description "Reagent components for notebook ui.", :created 1593851180591}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.10.14", :description "CLJS development tools", :created 1593856714223}
 {:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.0.33", :description "Reagent components for notebook ui.", :created 1593857648685}
 {:jar_name "closure-compiler-unshaded", :group_name "org.clojars.bost", :version "v20200704-2", :description "Closure Compiler is a JavaScript optimizing compiler. It parses your\n    JavaScript, analyzes it, removes dead code and rewrites and minimizes\n    what's left. It also checks syntax, variable references, and types, and\n    warns about common JavaScript pitfalls. It is used in many of Google's\n    JavaScript apps, including Gmail, Google Web Search, Google Maps, and\n    Google Docs.", :created 1593859794671}
 {:jar_name "clojurescript", :group_name "org.clojars.bost", :version "1.10.787", :description "ClojureScript compiler and core runtime library", :created 1593859942564}
@@ -254,3 +239,18 @@
 {:jar_name "salutem", :group_name "io.logicblocks", :version "0.1.0-RC2", :description "A health check library for sync / async health checks.", :created 1594334974313}
 {:jar_name "hyak", :group_name "net.ryanmccuaig", :version "0.1.0-SNAPSHOT", :description nil, :created 1594358529123}
 {:jar_name "cljam", :group_name "cljam", :version "0.8.1-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1594359438237}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.3", :description "Snappy data-driven router for Clojure(Script)", :created 1594361862769}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.3", :description "Snappy data-driven router for Clojure(Script)", :created 1594361883321}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.3", :description "Reitit: clojure.spec coercion", :created 1594361898289}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.3", :description "Reitit: Malli coercion", :created 1594361913517}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.3", :description "Reitit: Plumatic Schema coercion", :created 1594361929041}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.3", :description "Reitit: Ring routing", :created 1594361948141}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.3", :description "Reitit, common middleware bundled", :created 1594361965705}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.3", :description "Reitit: HTTP routing with interceptors", :created 1594361980529}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.3", :description "Reitit, common interceptors bundled", :created 1594361995721}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.3", :description "Reitit: Swagger-support", :created 1594362014321}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.3", :description "Reitit: Swagger-ui support", :created 1594362029366}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.3", :description "Reitit: Clojurescript frontend routing core", :created 1594362044162}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.3", :description "Reitit: Sieppari Interceptors", :created 1594362059930}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.3", :description "Reitit + Pedestal Integration", :created 1594362080538}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.3", :description "Snappy data-driven router for Clojure(Script)", :created 1594362109666}
