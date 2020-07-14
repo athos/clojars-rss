@@ -5,7 +5,7 @@
             :url "https://www.eclipse.org/legal/epl-2.0/"}
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [cheshire "5.10.0"]
-                 [clj-http "3.10.1"]
+                 [org.martinklepsch/clj-http-lite "0.4.3"]
                  [pogonos "0.1.0"]]
   :aot [clojars-rss.main]
   :main clojars-rss.main

@@ -1,6 +1,7 @@
 (ns clojars-rss.main
   (:gen-class)
-  (:require [clj-http.client :as http]
+  (:require [cheshire.core :as json]
+            [clj-http.lite.client :as http]
             [clojure.edn :as edn]
             [clojure.java.io :as io]
             [clojure.string :as str]
@@ -14,10 +15,10 @@
    (fetch-libs since (System/currentTimeMillis)))
   ([since until]
    (let [query (format "at:[%d TO %d]" since until)
-         res (http/get "https://clojars.org/search"
-                       {:as :json
-                        :query-params {"q" query "format" "json"}})]
-     (->> (get-in res [:body :results])
+         {:keys [body]} (http/get "https://clojars.org/search"
+                                  {:query-params {"q" query "format" "json"}})]
+     (->> (json/parse-string body keyword)
+          :results
           (map (fn [lib] (update lib :created #(Long/parseLong %))))))))
 
 (defn- dump-libs [libs dump-file]
