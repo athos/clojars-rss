@@ -43,7 +43,7 @@
      :link link
      :version (:version lib)
      :description (:description lib)
-     :publish-date (->> (:created lib)
+     :publish-date (->> (long (:created lib))
                         Date.
                         format-date)}))
 
@@ -71,7 +71,7 @@
 (def lib-coord (juxt :group_name :jar_name :version))
 
 (defn- updated-shortly? [lib1 lib2]
-  (< (Math/abs (- (:created lib2) (:created lib1))) 30000))
+  (< (Math/abs (- (long (:created lib2)) (long (:created lib1)))) 30000))
 
 (defn- update-libs [xf old-libs new-libs]
   (->> (concat old-libs new-libs)
