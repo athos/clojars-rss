@@ -7,6 +7,16 @@
                  [cheshire "5.10.0"]
                  [org.martinklepsch/clj-http-lite "0.4.3"]
                  [pogonos "0.1.0"]]
-  :aot [clojars-rss.main]
   :main clojars-rss.main
-  :repl-options {:init-ns clojars-rss.main})
+  :repl-options {:init-ns clojars-rss.main}
+  :profiles {:uberjar {:aot :all}
+             :dev {:plugins [[lein-shell "0.5.0"]]}}
+  :aliases
+  {"native"
+   ["shell"
+    "native-image" "--report-unsupported-elements-at-runtime"
+    "--initialize-at-build-time" "--no-server"
+    "-jar" "./target/${:uberjar-name:-${:name}-${:version}-standalone.jar}"
+    "-H:Name=./target/${:name}"
+    "-H:EnableURLProtocols=https"
+    "-H:IncludeResources=feed_template.mustache"]})
