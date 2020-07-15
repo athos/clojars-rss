@@ -1,18 +1,3 @@
-{:jar_name "leiningen", :group_name "leiningen", :version "2.9.4", :description "Automate Clojure projects without setting your hair on fire.", :created 1594235065979}
-{:jar_name "leiningen-core", :group_name "leiningen-core", :version "2.9.4", :description "Library for core functionality of Leiningen.", :created 1594235095851}
-{:jar_name "matlib", :group_name "matlib", :version "0.1.1", :description "A Clojure library of optimisation and control theory tools and convenience functions based on Neanderthal.", :created 1594235548310}
-{:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha23", :description "OpenCompany Common Library", :created 1594236831259}
-{:jar_name "lein-template", :group_name "luminus", :version "3.77", :description "a template for creating Luminus applications", :created 1594237600500}
-{:jar_name "markdown-clj", :group_name "markdown-clj", :version "1.10.5", :description "Markdown parser", :created 1594244078978}
-{:jar_name "courier", :group_name "twosigma", :version "1.5.17", :description nil, :created 1594245832161}
-{:jar_name "common-swagger-api", :group_name "org.cyverse", :version "3.0.3", :description "Common library for Swagger documented RESTful APIs", :created 1594249782487}
-{:jar_name "clojisr", :group_name "scicloj", :version "1.0.0-BETA12", :description "Clojure<->R interop", :created 1594251145160}
-{:jar_name "trapperkeeper-metrics", :group_name "puppetlabs", :version "1.3.1", :description "Trapperkeeper Metrics Service", :created 1594253006248}
-{:jar_name "clj-parent", :group_name "puppetlabs", :version "4.5.4", :description "", :created 1594254536396}
-{:jar_name "kaocha", :group_name "lambdaisland", :version "1.0.641", :description "Full featured next generation test runner for Clojure.", :created 1594271300659}
-{:jar_name "menard", :group_name "menard", :version "1.0.3", :description "A library for natural language generation and parsing", :created 1594281254639}
-{:jar_name "nrepl-middleware", :group_name "org.pinkgorilla", :version "0.3.10", :description "nREPL middleware", :created 1594286759586}
-{:jar_name "coax", :group_name "exoscale", :version "1.0.0-alpha5", :description "exo spec-coerce fork", :created 1594288122979}
 {:jar_name "lein-pinkgorilla", :group_name "org.pinkgorilla", :version "0.0.15", :description "A Leiningen plugin for the PinkGorilla Notebook.", :created 1594290528666}
 {:jar_name "clojisr", :group_name "scicloj", :version "1.0.0-BETA13", :description "Clojure <-> R interop", :created 1594292383402}
 {:jar_name "gorilla-explore", :group_name "org.pinkgorilla", :version "0.2.13", :description "Explore PinkGorilla notebooks (private and public) on github.", :created 1594292882553}
@@ -254,3 +239,18 @@
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.65", :description nil, :created 1594775095155}
 {:jar_name "lein-template", :group_name "luminus", :version "3.79", :description "a template for creating Luminus applications", :created 1594779575627}
 {:jar_name "serverless", :group_name "dehli", :version "0.1.51", :description "", :created 1594787203727}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.5", :description "Snappy data-driven router for Clojure(Script)", :created 1594801745604}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.5", :description "Snappy data-driven router for Clojure(Script)", :created 1594801764411}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.5", :description "Reitit: clojure.spec coercion", :created 1594801781699}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.5", :description "Reitit: Malli coercion", :created 1594801802053}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.5", :description "Reitit: Plumatic Schema coercion", :created 1594801818749}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.5", :description "Reitit: Ring routing", :created 1594801834984}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.5", :description "Reitit, common middleware bundled", :created 1594801856681}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.5", :description "Reitit: HTTP routing with interceptors", :created 1594801872788}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.5", :description "Reitit, common interceptors bundled", :created 1594801888628}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.5", :description "Reitit: Swagger-support", :created 1594801905499}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.5", :description "Reitit: Swagger-ui support", :created 1594801921323}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.5", :description "Reitit: Clojurescript frontend routing core", :created 1594801939396}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.5", :description "Reitit: Sieppari Interceptors", :created 1594801956659}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.5", :description "Reitit + Pedestal Integration", :created 1594801976258}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.5", :description "Snappy data-driven router for Clojure(Script)", :created 1594802008463}

@@ -1,18 +1,3 @@
-{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.3", :description "Reitit + Pedestal Integration", :created 1594362080538}
-{:jar_name "reitit", :group_name "metosin", :version "0.5.3", :description "Snappy data-driven router for Clojure(Script)", :created 1594362109666}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.60", :description nil, :created 1594367925275}
-{:jar_name "coax", :group_name "exoscale", :version "1.0.0-alpha6", :description "exo spec-coerce fork", :created 1594368121061}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.61", :description "", :created 1594370278135}
-{:jar_name "seql", :group_name "exoscale", :version "0.1.20", :description "Simplfied EDN Query Language for SQL", :created 1594370592813}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.62", :description nil, :created 1594373765709}
-{:jar_name "dda-git-crate", :group_name "dda", :version "2.2.4", :description "Module for cloning and managing git repositories & server conectivity.", :created 1594373853082}
-{:jar_name "dda-provision", :group_name "dda", :version "0.2.0", :description "tools for provisioning", :created 1594375370112}
-{:jar_name "dda-pallet-commons", :group_name "dda", :version "1.6.4", :description "common utils for dda pallet", :created 1594375497432}
-{:jar_name "dda-pallet", :group_name "dda", :version "3.1.2", :description "The dda-crate", :created 1594375637961}
-{:jar_name "kamera", :group_name "kamera", :version "0.1.3-SNAPSHOT", :description "UI testing via image comparison and devcards", :created 1594378822790}
-{:jar_name "java-sdk", :group_name "com.phonepe.sdk", :version "1.0.0-SNAPSHOT", :description nil, :created 1594379387830}
-{:jar_name "crux-rdf", :group_name "juxt", :version "20.06-1.9.2-alpha-SNAPSHOT", :description "Crux RDF", :created 1594382425077}
-{:jar_name "crux-metrics", :group_name "juxt", :version "20.06-1.9.2-alpha-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1594382438150}
 {:jar_name "crux-rocksdb", :group_name "juxt", :version "20.06-1.9.2-beta-SNAPSHOT", :description "Crux RocksDB", :created 1594382449782}
 {:jar_name "crux-lmdb", :group_name "juxt", :version "20.06-1.9.2-alpha-SNAPSHOT", :description "Crux LMDB", :created 1594382459622}
 {:jar_name "crux-jdbc", :group_name "juxt", :version "20.06-1.9.2-beta-SNAPSHOT", :description "Crux JDBC", :created 1594382468706}
@@ -153,7 +138,6 @@
 {:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1594617552551}
 {:jar_name "async", :group_name "com.wsscode.nt", :version "1.0.10", :description "Helpers for core.async.", :created 1594617927054}
 {:jar_name "geni", :group_name "zero.one", :version "0.0.15", :description "A Clojure library that wraps Apache Spark", :created 1594624310413}
-{:jar_name "malli", :group_name "metosin", :version "0.0.1-SNAPSHOT", :description "", :created 1594627372918}
 {:jar_name "reitit-core", :group_name "metosin", :version "0.5.4", :description "Snappy data-driven router for Clojure(Script)", :created 1594627728483}
 {:jar_name "reitit-dev", :group_name "metosin", :version "0.5.4", :description "Snappy data-driven router for Clojure(Script)", :created 1594627748240}
 {:jar_name "reitit-spec", :group_name "metosin", :version "0.5.4", :description "Reitit: clojure.spec coercion", :created 1594627766050}
@@ -254,3 +238,19 @@
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.65", :description nil, :created 1594775095155}
 {:jar_name "lein-template", :group_name "luminus", :version "3.79", :description "a template for creating Luminus applications", :created 1594779575627}
 {:jar_name "serverless", :group_name "dehli", :version "0.1.51", :description "", :created 1594787203727}
+{:jar_name "malli", :group_name "metosin", :version "0.0.1-SNAPSHOT", :description "", :created 1594801491172}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.5", :description "Snappy data-driven router for Clojure(Script)", :created 1594801745604}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.5", :description "Snappy data-driven router for Clojure(Script)", :created 1594801764411}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.5", :description "Reitit: clojure.spec coercion", :created 1594801781699}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.5", :description "Reitit: Malli coercion", :created 1594801802053}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.5", :description "Reitit: Plumatic Schema coercion", :created 1594801818749}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.5", :description "Reitit: Ring routing", :created 1594801834984}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.5", :description "Reitit, common middleware bundled", :created 1594801856681}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.5", :description "Reitit: HTTP routing with interceptors", :created 1594801872788}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.5", :description "Reitit, common interceptors bundled", :created 1594801888628}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.5", :description "Reitit: Swagger-support", :created 1594801905499}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.5", :description "Reitit: Swagger-ui support", :created 1594801921323}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.5", :description "Reitit: Clojurescript frontend routing core", :created 1594801939396}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.5", :description "Reitit: Sieppari Interceptors", :created 1594801956659}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.5", :description "Reitit + Pedestal Integration", :created 1594801976258}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.5", :description "Snappy data-driven router for Clojure(Script)", :created 1594802008463}
