@@ -1,6 +1,7 @@
 (ns clojars-rss.main
   (:gen-class)
-  (:require [clj-http.client :as http]
+  (:require [cheshire.core :as json]
+            [clj-http.lite.client :as http]
             [clojure.edn :as edn]
             [clojure.java.io :as io]
             [clojure.string :as str]
@@ -14,10 +15,10 @@
    (fetch-libs since (System/currentTimeMillis)))
   ([since until]
    (let [query (format "at:[%d TO %d]" since until)
-         res (http/get "https://clojars.org/search"
-                       {:as :json
-                        :query-params {"q" query "format" "json"}})]
-     (->> (get-in res [:body :results])
+         {:keys [body]} (http/get "https://clojars.org/search"
+                                  {:query-params {"q" query "format" "json"}})]
+     (->> (json/parse-string body keyword)
+          :results
           (map (fn [lib] (update lib :created #(Long/parseLong %))))))))
 
 (defn- dump-libs [libs dump-file]
@@ -42,7 +43,7 @@
      :link link
      :version (:version lib)
      :description (:description lib)
-     :publish-date (->> (:created lib)
+     :publish-date (->> (long (:created lib))
                         Date.
                         format-date)}))
 
@@ -70,7 +71,7 @@
 (def lib-coord (juxt :group_name :jar_name :version))
 
 (defn- updated-shortly? [lib1 lib2]
-  (< (Math/abs (- (:created lib2) (:created lib1))) 30000))
+  (< (Math/abs (- (long (:created lib2)) (long (:created lib1)))) 30000))
 
 (defn- update-libs [xf old-libs new-libs]
   (->> (concat old-libs new-libs)
