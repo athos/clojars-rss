@@ -1,6 +1,3 @@
-{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.07-1.9.2-beta", :description "Crux Kafka Connect", :created 1594393924058}
-{:jar_name "crux-kafka", :group_name "juxt", :version "20.07-1.9.2-beta", :description "Crux Kafka", :created 1594393935802}
-{:jar_name "crux-test", :group_name "juxt", :version "20.07-1.9.2", :description "Crux Tests Project", :created 1594393947810}
 {:jar_name "crux-s3", :group_name "juxt", :version "20.07-1.9.2-beta", :description "", :created 1594393959830}
 {:jar_name "crux-cli", :group_name "juxt", :version "20.07-1.9.2-beta", :description "Crux Uberjar", :created 1594393970926}
 {:jar_name "crux-bench", :group_name "juxt", :version "20.07-1.9.2", :description "", :created 1594393990118}
@@ -254,3 +251,6 @@
 {:jar_name "common-beer-format", :group_name "com.wallbrew", :version "1.2.0", :description "An implementation of the BeerXML spec in multiple formats", :created 1594857745288}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.1.13", :description "A port of Datascript to LMDB", :created 1594858037010}
 {:jar_name "experience", :group_name "degree9", :version "0.0.0-SNAPSHOT", :description "Degree9 Experience for Enterprise.", :created 1594860285048}
+{:jar_name "lein-jmh", :group_name "lein-jmh", :version "0.2.7", :description "Run jmh-clojure benchmarks with Leiningen.", :created 1594867478227}
+{:jar_name "clj-http-lite", :group_name "bb-utils", :version "0.4.4", :description "A Clojure HTTP library similar to clj-http, but more lightweight.", :created 1594868344365}
+{:jar_name "bb-utils", :group_name "bb-utils", :version "0.1.0-SNAPSHOT", :description "Babashka utils", :created 1594868407986}
