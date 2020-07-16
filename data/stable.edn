@@ -1,6 +1,3 @@
-{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.3", :description "Reitit: clojure.spec coercion", :created 1594361898289}
-{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.3", :description "Reitit: Malli coercion", :created 1594361913517}
-{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.3", :description "Reitit: Plumatic Schema coercion", :created 1594361929041}
 {:jar_name "reitit-ring", :group_name "metosin", :version "0.5.3", :description "Reitit: Ring routing", :created 1594361948141}
 {:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.3", :description "Reitit, common middleware bundled", :created 1594361965705}
 {:jar_name "reitit-http", :group_name "metosin", :version "0.5.3", :description "Reitit: HTTP routing with interceptors", :created 1594361980529}
@@ -254,3 +251,6 @@
 {:jar_name "lein-jmh", :group_name "lein-jmh", :version "0.2.7", :description "Run jmh-clojure benchmarks with Leiningen.", :created 1594867478227}
 {:jar_name "clj-http-lite", :group_name "bb-utils", :version "0.4.4", :description "A Clojure HTTP library similar to clj-http, but more lightweight.", :created 1594868344365}
 {:jar_name "tarayo", :group_name "toyokumo", :version "0.2.3", :description "SMTP client library for Clojure. That’s it.", :created 1594875236470}
+{:jar_name "re-frame-10x", :group_name "day8.re-frame", :version "0.7.0", :description "Become 10x more productive when developing and debugging re-frame applications.", :created 1594876126591}
+{:jar_name "tracing", :group_name "day8.re-frame", :version "0.6.0", :description "A tool for inspecting code execution for re-frame applications", :created 1594876158360}
+{:jar_name "tracing-stubs", :group_name "day8.re-frame", :version "0.6.0", :description "Macros for tracing functions", :created 1594876172904}
