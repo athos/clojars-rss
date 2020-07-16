@@ -1,5 +1,3 @@
-{:jar_name "datahike-jdbc", :group_name "io.replikativ", :version "0.1.1-SNAPSHOT", :description "Datahike with JDBC data storage backend", :created 1594394776315}
-{:jar_name "mulog-elasticsearch", :group_name "com.brunobonacci", :version "0.3.1", :description "A publisher for μ/log to Elasticsearch.", :created 1594394782655}
 {:jar_name "mulog-jvm-metrics", :group_name "com.brunobonacci", :version "0.3.1", :description "A JVM metrics sampler for μ/log.", :created 1594394798927}
 {:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.3.1", :description "A publisher for μ/log to Kafka.", :created 1594394816523}
 {:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.3.1", :description "A publisher for μ/trace to OpenZipkin.", :created 1594394868232}
@@ -254,3 +252,5 @@
 {:jar_name "tracing-stubs", :group_name "day8.re-frame", :version "0.6.0", :description "Macros for tracing functions", :created 1594876172904}
 {:jar_name "cryogen-fork", :group_name "cryogen-fork", :version "0.3.3-SNAPSHOT", :description "", :created 1594877213198}
 {:jar_name "lein-template", :group_name "re-frame", :version "1.1.4", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1594881359549}
+{:jar_name "active-riemann", :group_name "de.active-group", :version "0.3.0", :description "Common functionality for Riemann streams.", :created 1594885507492}
+{:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.0.56", :description "Reagent components for notebook ui.", :created 1594886447062}
