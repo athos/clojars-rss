@@ -1,12 +1,3 @@
-{:jar_name "gorilla-explore", :group_name "org.pinkgorilla", :version "0.2.19", :description "Explore PinkGorilla notebooks (private and public) on github.", :created 1594813555566}
-{:jar_name "clj-halodb", :group_name "clj-halodb", :version "0.0.4", :description "A clojure library for managing yahoo/HaloDB embedded key-value-store.", :created 1594817348478}
-{:jar_name "gorilla-explore", :group_name "org.pinkgorilla", :version "0.2.20", :description "Explore PinkGorilla notebooks (private and public) on github.", :created 1594824020533}
-{:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.0.55", :description "Reagent components for notebook ui.", :created 1594824624037}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "3.06", :description "Dataset and ETL pipeline for machine learning", :created 1594824993471}
-{:jar_name "prisma.plugins", :group_name "prisma.plugins", :version "0.1.16", :description "Prisma plugins interface library", :created 1594825582495}
-{:jar_name "gorilla-explore", :group_name "org.pinkgorilla", :version "0.2.21", :description "Explore PinkGorilla notebooks (private and public) on github.", :created 1594826470465}
-{:jar_name "aido", :group_name "sandbags", :version "0.4.0", :description "AIDO: AI do - behaviour tree library for Clojure and ClojureScript", :created 1594826780743}
-{:jar_name "check", :group_name "check", :version "0.1.1-SNAPSHOT", :description "Test helpers", :created 1594827069001}
 {:jar_name "discljord", :group_name "org.suskalo", :version "1.1.1", :description "A Clojure wrapper library for the Discord API, with full API coverage (except voice, for now), and high scalability.", :created 1594831226323}
 {:jar_name "jmh-clojure", :group_name "jmh-clojure", :version "0.3.0", :description "Benchmarking with JMH, the Java Microbenchmark Harness, from Clojure.", :created 1594837420463}
 {:jar_name "core", :group_name "domino", :version "0.4.0-pre-alpha.2-SNAPSHOT", :description "Clojure(script) data flow engine", :created 1594837793913}
@@ -157,7 +148,6 @@
 {:jar_name "lein-template", :group_name "protojure", :version "1.1.3", :description "A leiningen template for creating protojure projects", :created 1595246810051}
 {:jar_name "notebook-encoding", :group_name "org.pinkgorilla", :version "0.1.11", :description "Encoding of Pink Gorilla Notebook.", :created 1595247568408}
 {:jar_name "gorilla-explore", :group_name "org.pinkgorilla", :version "0.2.26", :description "Explore PinkGorilla notebooks (private and public) on github.", :created 1595247989898}
-{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.7.7-schema_registry_auth_support-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1595249425640}
 {:jar_name "ex", :group_name "exoscale", :version "0.3.11", :description "In which we deal with exceptions the clojure way", :created 1595251307937}
 {:jar_name "ex-manifold", :group_name "exoscale", :version "0.3.11", :description "In which we deal with exceptions the clojure way", :created 1595251320725}
 {:jar_name "ex-auspex", :group_name "exoscale", :version "0.3.11", :description "In which we deal with exceptions the clojure way", :created 1595251333361}
@@ -254,3 +244,13 @@
 {:jar_name "active-riemann", :group_name "de.active-group", :version "0.4.0", :description "Common functionality for Riemann streams.", :created 1595401118996}
 {:jar_name "next", :group_name "keechma", :version "0.0.1", :description "Data driven state management library for single page apps", :created 1595402730743}
 {:jar_name "milia", :group_name "onaio", :version "0.3.57-SNAPSHOT", :description "The ona.io Clojure Web API Client.", :created 1595402815411}
+{:jar_name "mulog", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "μ/log is a micro-logging library that logs events and data, not words!", :created 1595411377690}
+{:jar_name "mulog-json", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "μ/log json handling", :created 1595411394038}
+{:jar_name "mulog-elasticsearch", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A publisher for μ/log to Elasticsearch.", :created 1595411409850}
+{:jar_name "mulog-jvm-metrics", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A JVM metrics sampler for μ/log.", :created 1595411424398}
+{:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A publisher for μ/log to Kafka.", :created 1595411439303}
+{:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A publisher for μ/log to Kinesis.", :created 1595411453875}
+{:jar_name "mulog-cloudwatch", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A publisher for μ/log to Cloudwatch.", :created 1595411469883}
+{:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1595411486039}
+{:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A publisher for μ/trace to OpenZipkin.", :created 1595411500799}
+{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.7.7-schema_registry_auth_support-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1595411761841}
