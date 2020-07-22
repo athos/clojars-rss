@@ -1,7 +1,3 @@
-{:jar_name "discljord", :group_name "org.suskalo", :version "1.1.1", :description "A Clojure wrapper library for the Discord API, with full API coverage (except voice, for now), and high scalability.", :created 1594831226323}
-{:jar_name "jmh-clojure", :group_name "jmh-clojure", :version "0.3.0", :description "Benchmarking with JMH, the Java Microbenchmark Harness, from Clojure.", :created 1594837420463}
-{:jar_name "core", :group_name "domino", :version "0.4.0-pre-alpha.2-SNAPSHOT", :description "Clojure(script) data flow engine", :created 1594837793913}
-{:jar_name "uikit-hl", :group_name "degree9", :version "3.3.7-SNAPSHOT", :description "UIKit Components for Hoplon.", :created 1594838953929}
 {:jar_name "datasplash", :group_name "za.co.simply", :version "0.7.0", :description "Clojure API for a more dynamic Google Cloud Dataflow\n  and (hopefully) Apache BEAM", :created 1594840114836}
 {:jar_name "tablecloth", :group_name "scicloj", :version "1.0.0-pre-alpha8", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1594840211593}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.1.8", :description "A port of Datascript to LMDB", :created 1594841665027}
@@ -230,7 +226,6 @@
 {:jar_name "datalevin", :group_name "datalevin", :version "0.2.6", :description "A port of Datascript to LMDB", :created 1595350961654}
 {:jar_name "pathological", :group_name "io.logicblocks", :version "0.1.22-RC2", :description "A thin but complete wrapper of Java NIO2 for Clojure.", :created 1595353263653}
 {:jar_name "byu-cas", :group_name "byu-odh", :version "3", :description "BYU CAS authentication layer for Clojure", :created 1595355482848}
-{:jar_name "gungnir", :group_name "kwrooijen", :version "0.0.1-SNAPSHOT", :description "High level Clojure database library", :created 1595357296452}
 {:jar_name "reveal", :group_name "vlaaad", :version "0.0.1-ea23", :description "", :created 1595363973467}
 {:jar_name "http-kit", :group_name "http-kit", :version "2.4.0-beta1", :description "High-performance event-driven HTTP client/server for Clojure", :created 1595364010376}
 {:jar_name "oz", :group_name "metasoarous", :version "1.6.0-alpha12", :description "Great and powerful data visualizations and scientific documents in Clojure using Vega and Vega-lite", :created 1595366376648}
@@ -254,3 +249,8 @@
 {:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1595411486039}
 {:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A publisher for μ/trace to OpenZipkin.", :created 1595411500799}
 {:jar_name "jackdaw", :group_name "fundingcircle", :version "0.7.7-schema_registry_auth_support-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1595411761841}
+{:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.29", :description "Simply Core Libs", :created 1595412965240}
+{:jar_name "seql", :group_name "exoscale", :version "0.1.21", :description "Simplfied EDN Query Language for SQL", :created 1595412974376}
+{:jar_name "gungnir", :group_name "kwrooijen", :version "0.0.1-SNAPSHOT", :description "High level Clojure database library", :created 1595413578084}
+{:jar_name "datalog-parser", :group_name "timokramer", :version "0.1.8-SNAPSHOT", :description "Datalog parser.", :created 1595414529390}
+{:jar_name "milia", :group_name "onaio", :version "0.3.57", :description "The ona.io Clojure Web API Client.", :created 1595415384312}
