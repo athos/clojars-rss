@@ -1,5 +1,3 @@
-{:jar_name "datalevin", :group_name "datalevin", :version "0.1.13", :description "A port of Datascript to LMDB", :created 1594858037010}
-{:jar_name "lein-jmh", :group_name "lein-jmh", :version "0.2.7", :description "Run jmh-clojure benchmarks with Leiningen.", :created 1594867478227}
 {:jar_name "clj-http-lite", :group_name "bb-utils", :version "0.4.4", :description "A Clojure HTTP library similar to clj-http, but more lightweight.", :created 1594868344365}
 {:jar_name "bb-utils", :group_name "bb-utils", :version "0.1.0-SNAPSHOT", :description "Babashka utils", :created 1594868407986}
 {:jar_name "tarayo", :group_name "toyokumo", :version "0.2.3", :description "SMTP client library for Clojure. That’s it.", :created 1594875236470}
@@ -226,7 +224,6 @@
 {:jar_name "membrane", :group_name "com.phronemophobic", :version "0.9.9-beta-SNAPSHOT", :description "A platform agnostic library for creating user interfaces", :created 1595377099981}
 {:jar_name "murphy", :group_name "murphy", :version "0.5.1", :description "Clojure library for better handling of bad situations.", :created 1595379223618}
 {:jar_name "commons", :group_name "io.bloomventures", :version "0.8.1", :description "", :created 1595380971253}
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1595381057346}
 {:jar_name "experience", :group_name "degree9", :version "0.0.0-SNAPSHOT", :description "Degree9 Experience for Enterprise.", :created 1595384249602}
 {:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.28", :description "Simply Core Libs", :created 1595398841605}
 {:jar_name "active-riemann", :group_name "de.active-group", :version "0.4.0", :description "Common functionality for Riemann streams.", :created 1595401118996}
@@ -244,7 +241,6 @@
 {:jar_name "jackdaw", :group_name "fundingcircle", :version "0.7.7-schema_registry_auth_support-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1595411761841}
 {:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.29", :description "Simply Core Libs", :created 1595412965240}
 {:jar_name "seql", :group_name "exoscale", :version "0.1.21", :description "Simplfied EDN Query Language for SQL", :created 1595412974376}
-{:jar_name "gungnir", :group_name "kwrooijen", :version "0.0.1-SNAPSHOT", :description "High level Clojure database library", :created 1595413578084}
 {:jar_name "datalog-parser", :group_name "timokramer", :version "0.1.8-SNAPSHOT", :description "Datalog parser.", :created 1595414529390}
 {:jar_name "milia", :group_name "onaio", :version "0.3.57", :description "The ona.io Clojure Web API Client.", :created 1595415384312}
 {:jar_name "gorilla-explore", :group_name "org.pinkgorilla", :version "0.2.33", :description "Explore PinkGorilla notebooks (private and public) on github.", :created 1595418869558}
@@ -254,3 +250,7 @@
 {:jar_name "bread-core", :group_name "systems.bread", :version "0.4.0-alpha", :description "A new kind of content management system", :created 1595436288887}
 {:jar_name "rome-clj", :group_name "zsau", :version "1.0.0", :description "Clojure wrapper for ROME, a Java RSS/Atom feed parsing library", :created 1595436447396}
 {:jar_name "bread-datahike", :group_name "systems.bread", :version "0.1.0-alpha", :description "BreadCMS datastore plugin for Datahike", :created 1595437630012}
+{:jar_name "clograms", :group_name "clograms", :version "0.1.14", :description nil, :created 1595438928200}
+{:jar_name "oz", :group_name "metasoarous", :version "1.6.0-alpha13", :description "Great and powerful data visualizations and scientific documents in Clojure using Vega and Vega-lite", :created 1595440100752}
+{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1595440460974}
+{:jar_name "gungnir", :group_name "kwrooijen", :version "0.0.1-SNAPSHOT", :description "High level Clojure database library", :created 1595441219511}
