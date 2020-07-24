@@ -16,7 +16,6 @@
    ["shell"
     "native-image" "--report-unsupported-elements-at-runtime"
     "--initialize-at-build-time" "--no-server"
-    "-jar" "./target/${:uberjar-name:-${:name}-${:version}-standalone.jar}"
-    "-H:Name=./target/${:name}"
+    "-H:Name=./${:name}"
     "-H:EnableURLProtocols=https"
     "-H:IncludeResources=feed_template.mustache"]})

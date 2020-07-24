@@ -1,0 +1,95 @@
+name: build
+on:
+  push:
+    branches:
+      - master
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Java
+        uses: actions/setup-java@v1
+        with:
+          java-version: '11'
+      - name: Cache .m2
+        uses: actions/cache@v1
+        with:
+          path: ~/.m2
+          key: ${{ runner.os }}-m2-${{ hashFiles('project.clj') }}
+          restore-keys: |
+            ${{ runner.os }}-m2-
+      - name: Build
+        run: |
+          lein do clean, uberjar
+          mv target/*-standalone.jar clojars-rss.jar
+      - name: Upload jar
+        uses: actions/upload-artifact@v2
+        with:
+          name: clojars-rss.jar
+          path: ./clojars-rss.jar
+
+  native-build:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup GraalVM
+        uses: rinx/setup-graalvm-ce@v0.0.4
+        with:
+          graalvm-version: "20.1.0"
+          java-version: "java11"
+          native-image: "true"
+      - uses: actions/download-artifact@v2
+        with:
+          name: clojars-rss.jar
+      - name: Build
+        run: lein native -jar clojars-rss.jar
+      - uses: actions/upload-artifact@v2
+        with:
+          name: clojars-rss
+          path: ./clojars-rss
+
+  release:
+    needs: [build, native-build]
+    if: contains(github.ref, 'refs/tags/')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/download-artifact@v2
+        with:
+          name: clojars-rss
+      - uses: actions/download-artifact@v2
+        with:
+          name: clojars-rss.jar
+      - name: Create release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: false
+          prerelease: false
+      - name: Upload executable
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./clojars-rss
+          asset_name: clojars-rss-linux-amd64
+          asset_content_type: application/octet-stream
+      - name: Upload jar
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./clojars-rss.jar
+          asset_name: clojars-rss.jar
+          asset_content_type: application/java-archive
