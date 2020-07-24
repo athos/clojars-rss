@@ -1,8 +1,3 @@
-{:jar_name "common-beer-format", :group_name "com.wallbrew", :version "1.2.0", :description "An implementation of the BeerXML spec in multiple formats", :created 1594857745288}
-{:jar_name "datalevin", :group_name "datalevin", :version "0.1.13", :description "A port of Datascript to LMDB", :created 1594858037010}
-{:jar_name "lein-jmh", :group_name "lein-jmh", :version "0.2.7", :description "Run jmh-clojure benchmarks with Leiningen.", :created 1594867478227}
-{:jar_name "clj-http-lite", :group_name "bb-utils", :version "0.4.4", :description "A Clojure HTTP library similar to clj-http, but more lightweight.", :created 1594868344365}
-{:jar_name "tarayo", :group_name "toyokumo", :version "0.2.3", :description "SMTP client library for Clojure. That’s it.", :created 1594875236470}
 {:jar_name "re-frame-10x", :group_name "day8.re-frame", :version "0.7.0", :description "Become 10x more productive when developing and debugging re-frame applications.", :created 1594876126591}
 {:jar_name "tracing", :group_name "day8.re-frame", :version "0.6.0", :description "A tool for inspecting code execution for re-frame applications", :created 1594876158360}
 {:jar_name "tracing-stubs", :group_name "day8.re-frame", :version "0.6.0", :description "Macros for tracing functions", :created 1594876172904}
@@ -254,3 +249,8 @@
 {:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.12-RC2", :description "A structured logging abstraction with multiple backends.", :created 1595599675937}
 {:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.12-RC2", :description "A cambium backend for cartus.", :created 1595599684250}
 {:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.12-RC2", :description "A null backend for cartus.", :created 1595599691766}
+{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.12", :description "A structured logging abstraction with multiple backends.", :created 1595599958535}
+{:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.12", :description "A cambium backend for cartus.", :created 1595599966023}
+{:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.12", :description "A null backend for cartus.", :created 1595599973459}
+{:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.12", :description "A test backend for cartus.", :created 1595599980995}
+{:jar_name "spandex", :group_name "cc.qbits", :version "0.7.5", :description "Clojure Wrapper of the new/official ElasticSearch REST client", :created 1595600406834}
