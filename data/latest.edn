@@ -227,9 +227,7 @@
 {:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.10", :description "A structured logging abstraction with multiple backends.", :created 1595505924128}
 {:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.10", :description "A cambium backend for cartus.", :created 1595505933876}
 {:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.10", :description "A test backend for cartus.", :created 1595505945484}
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.2-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1595506899474}
 {:jar_name "logback.masking-pattern-layouts", :group_name "nl.mediquest", :version "1.0.8", :description "Logback appenders for scrubbing sensitive data from logs", :created 1595509411359}
-{:jar_name "mdb-to-csv", :group_name "mdb-to-csv", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1595510989221}
 {:jar_name "mulog", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "μ/log is a micro-logging library that logs events and data, not words!", :created 1595512107128}
 {:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.0.68", :description "Reagent components for notebook ui.", :created 1595514443916}
 {:jar_name "logback.masking-pattern-layouts", :group_name "nl.mediquest", :version "1.0.9", :description "Logback appenders for scrubbing sensitive data from logs", :created 1595515700712}
@@ -254,3 +252,5 @@
 {:jar_name "core", :group_name "erinite", :version "0.1.0-SNAPSHOT", :description "Base functionality for Erintie application framework", :created 1595553822128}
 {:jar_name "ring-jetty9-adapter", :group_name "wavejumper", :version "0.13.2", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1595559220959}
 {:jar_name "lein-redline-rpm", :group_name "de.active-group", :version "0.4.6", :description "Create an RPM without rpm-tools", :created 1595569049655}
+{:jar_name "mdb-to-csv", :group_name "mdb-to-csv", :version "0.1.0-SNAPSHOT", :description "A library to export csvfiles from access database.", :created 1595580234672}
+{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.2-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1595581089001}
