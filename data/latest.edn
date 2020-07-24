@@ -1,7 +1,3 @@
-{:jar_name "common", :group_name "css-gardener", :version "0.0.3", :description "Common libraries for css-gardener subpackages.", :created 1595115184834}
-{:jar_name "scope", :group_name "css-gardener", :version "0.0.3", :description "Common library for working with scopes in css-gardener.", :created 1595116168353}
-{:jar_name "luminus-jetty", :group_name "luminus-jetty", :version "0.2.0", :description "Jetty adapter for Luminus", :created 1595123283292}
-{:jar_name "common", :group_name "css-gardener", :version "0.0.4", :description "Common libraries for css-gardener subpackages.", :created 1595123377589}
 {:jar_name "scope", :group_name "css-gardener", :version "0.0.4", :description "Common library for working with scopes in css-gardener.", :created 1595123469853}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.2.2", :description "A port of Datascript to LMDB", :created 1595127211298}
 {:jar_name "reconciler", :group_name "dev.corkplace", :version "0.0.3", :description "A reconciler.", :created 1595133972719}
@@ -254,3 +250,7 @@
 {:jar_name "ex-manifold", :group_name "exoscale", :version "0.3.12", :description "In which we deal with exceptions the clojure way", :created 1595606597194}
 {:jar_name "ex-auspex", :group_name "exoscale", :version "0.3.12", :description "In which we deal with exceptions the clojure way", :created 1595606611462}
 {:jar_name "ex-http", :group_name "exoscale", :version "0.3.12", :description "In which we deal with exceptions the clojure way", :created 1595606625210}
+{:jar_name "nippy", :group_name "com.taoensso", :version "2.14.2", :description "High-performance serialization library for Clojure", :created 1595607369182}
+{:jar_name "target-bundle-libs", :group_name "target-bundle-libs", :version "0.1.0-SNAPSHOT", :description "Use :target :bundle in your CLJS libraries too (not just apps).", :created 1595607794309}
+{:jar_name "target-bundle-libs", :group_name "com.timetraveltoaster", :version "0.1.0-SNAPSHOT", :description "Use :target :bundle in your CLJS libraries too (not just apps).", :created 1595607953312}
+{:jar_name "odoyle-rules", :group_name "net.sekao", :version "0.1.3", :description "A rules engine for Clojure(Script)", :created 1595608256998}
