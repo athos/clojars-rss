@@ -1,5 +1,6 @@
 # clojars-rss
 ![generate feed](https://github.com/athos/clojars-rss/workflows/generate%20feed/badge.svg?event=schedule)
+![build](https://github.com/athos/clojars-rss/workflows/build/badge.svg)
 
 Unofficially generated RSS feeds for libraries recently registered on [Clojars](https://clojars.org/)
 
