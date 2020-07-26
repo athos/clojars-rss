@@ -18,4 +18,6 @@
     "--initialize-at-build-time" "--no-server"
     "-H:Name=./${:name}"
     "-H:EnableURLProtocols=https"
-    "-H:IncludeResources=feed_template.mustache"]})
+    "-H:IncludeResources=feed_template.mustache"
+    "-J-Dclojure.spec.skip-macros=true"
+    "-J-Dclojure.compiler.direct-linking=true"]})
