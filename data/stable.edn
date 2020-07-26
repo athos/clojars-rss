@@ -1,7 +1,3 @@
-{:jar_name "logback.masking-pattern-layouts", :group_name "nl.mediquest", :version "1.0.7", :description "Logback appenders for scrubbing sensitive data from logs", :created 1594983724138}
-{:jar_name "sci", :group_name "borkdude", :version "0.1.1-alpha.4", :description "Small Clojure Interpreter", :created 1594984524643}
-{:jar_name "gorilla-explore", :group_name "org.pinkgorilla", :version "0.2.23", :description "Explore PinkGorilla notebooks (private and public) on github.", :created 1594990620127}
-{:jar_name "kamera", :group_name "kamera", :version "0.1.3", :description "UI testing via image comparison and devcards", :created 1595000288196}
 {:jar_name "regal", :group_name "lambdaisland", :version "0.0.80", :description "A Regex Swiss Army Knife", :created 1595001633265}
 {:jar_name "cartus", :group_name "io.logicblocks", :version "0.1.1", :description "A structured logging abstraction with multiple backends.", :created 1595001936955}
 {:jar_name "draw", :group_name "dvlopt", :version "1.0.0-beta0", :description "Accessing the Canvas API", :created 1595006030974}
@@ -254,3 +250,7 @@
 {:jar_name "jax-patcher", :group_name "wavejumper", :version "2.0.0-alpha7", :description "Patcher DSL for jax", :created 1595746727099}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.2.8", :description "A port of Datascript to LMDB", :created 1595747105778}
 {:jar_name "lein-template", :group_name "geni", :version "0.0.18b", :description "Leiningen template for a Geni application.", :created 1595757189389}
+{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.13-RC2", :description "A structured logging abstraction with multiple backends.", :created 1595763626121}
+{:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.13-RC2", :description "A null backend for cartus.", :created 1595763633770}
+{:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.13-RC2", :description "A test backend for cartus.", :created 1595763640942}
+{:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.13-RC2", :description "A cambium backend for cartus.", :created 1595763647990}
