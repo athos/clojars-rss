@@ -1,8 +1,3 @@
-{:jar_name "antq", :group_name "antq", :version "0.5.1", :description "Point out your outdated dependencies", :created 1595288527745}
-{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.6-RC2", :description "A structured logging abstraction with multiple backends.", :created 1595290268336}
-{:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.6-RC2", :description "A structured logging abstraction with multiple backends.", :created 1595290279224}
-{:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.6-RC2", :description "A structured logging abstraction with multiple backends.", :created 1595290289229}
-{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.6", :description "A structured logging abstraction with multiple backends.", :created 1595291406965}
 {:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.6", :description "A structured logging abstraction with multiple backends.", :created 1595291415642}
 {:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.6", :description "A structured logging abstraction with multiple backends.", :created 1595291424396}
 {:jar_name "s3-mvn-upload", :group_name "s3-mvn-upload", :version "0.1.0", :description nil, :created 1595299502024}
@@ -254,3 +249,8 @@
 {:jar_name "clsql", :group_name "clsql", :version "0.3.0", :description "clsql provides a small abstraction for handling SQL and migrations", :created 1595883042802}
 {:jar_name "duct-drawbridge", :group_name "kwrooijen", :version "0.1.0", :description "Duct library for Drawbridge", :created 1595883099051}
 {:jar_name "reveal", :group_name "vlaaad", :version "0.1.0-ea25", :description nil, :created 1595883748835}
+{:jar_name "duct-middleware-gzip", :group_name "kwrooijen", :version "0.1.0", :description "Duct middleware for gzip", :created 1595884822566}
+{:jar_name "target-bundle-libs", :group_name "com.timetraveltoaster", :version "0.1.1", :description "Use :target :bundle in your CLJS libraries too (not just apps).", :created 1595885757420}
+{:jar_name "check", :group_name "check", :version "0.1.1-SNAPSHOT", :description "Test helpers", :created 1595885874321}
+{:jar_name "duct-middleware-anti-forgery", :group_name "kwrooijen", :version "0.1.0", :description "Duct middleware for anti-forgery", :created 1595886013082}
+{:jar_name "paravim", :group_name "paravim", :version "0.17.0", :description "A parasitic editor for Clojure", :created 1595886806319}
