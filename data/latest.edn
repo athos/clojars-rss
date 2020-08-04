@@ -1,8 +1,3 @@
-{:jar_name "crux-core", :group_name "juxt", :version "20.07-1.10.0-beta", :description "An open source document database with bitemporal graph queries", :created 1595957466419}
-{:jar_name "clojurecuda", :group_name "uncomplicate", :version "0.10.0", :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :created 1595958288176}
-{:jar_name "clojurecl", :group_name "uncomplicate", :version "0.15.0", :description "ClojureCL is a Clojure library for parallel computations with OpenCL.", :created 1595959389527}
-{:jar_name "neanderthal", :group_name "uncomplicate", :version "0.34.0", :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :created 1595960287953}
-{:jar_name "duct.module.reitit", :group_name "nl.mediquest", :version "1.0.1", :description "A Reitit router for Duct", :created 1595960976793}
 {:jar_name "deep-diamond", :group_name "uncomplicate", :version "0.9.0-SNAPSHOT", :description "Fast Clojure Deep Learning Library", :created 1595961188811}
 {:jar_name "nnichols", :group_name "nnichols", :version "1.0.0", :description "A bunch of functions and definitions I'm sick of copy/pasting", :created 1595966461733}
 {:jar_name "winkler", :group_name "imaginathansoft", :version "0.1.0", :description "A moderately paranoid clojurescript library for generating more entropy.", :created 1595968410303}
@@ -148,7 +143,6 @@
 {:jar_name "tech.datatype", :group_name "techascent", :version "5.11", :description "Library for efficient manipulation of contiguous mutable containers of primitive datatypes.", :created 1596300180089}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "3.09", :description "Dataset and ETL pipeline for machine learning", :created 1596300568708}
 {:jar_name "org.clojars.pancham.strava.bot.models", :group_name "com.bot.strava", :version "1.1.2", :description nil, :created 1596301844984}
-{:jar_name "konserve", :group_name "io.replikativ", :version "0.6.0-SNAPSHOT", :description "Durable cross-platform key-value store protocol with core.async.", :created 1596315122160}
 {:jar_name "reveal", :group_name "vlaaad", :version "0.1.0-ea26", :description nil, :created 1596317699758}
 {:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1596318814821}
 {:jar_name "cmp.poi", :group_name "org.soulspace.clj", :version "0.6.1", :description "The cmp.poi library is an Apache POI wrapper to create, read and update MS Excel files.", :created 1596321131365}
@@ -254,3 +248,9 @@
 {:jar_name "byu-cas", :group_name "byu-odh", :version "4", :description "BYU CAS authentication layer for Clojure", :created 1596561555738}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.0.25", :description "web (server / reagent) helper library.", :created 1596562681017}
 {:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.0.72", :description "Reagent components for notebook ui.", :created 1596564136046}
+{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.71", :description nil, :created 1596565753132}
+{:jar_name "konserve", :group_name "io.replikativ", :version "0.6.0-SNAPSHOT", :description "Durable cross-platform key-value store protocol with core.async.", :created 1596566119126}
+{:jar_name "gorilla-plot", :group_name "org.pinkgorilla", :version "1.2.5", :description "A simple data-driven plotting dsl using Vega via Gorilla UI.", :created 1596566514113}
+{:jar_name "compojure", :group_name "compojure", :version "1.6.2", :description "A concise routing library for Ring", :created 1596566746438}
+{:jar_name "pinkie", :group_name "org.pinkgorilla", :version "0.2.11", :description "Pinkie reagent component registry.", :created 1596567275074}
+{:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.2.31", :description "Reagent components for data visualisation.", :created 1596567797633}
