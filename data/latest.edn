@@ -1,6 +1,3 @@
-{:jar_name "mulog-jvm-metrics", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A JVM metrics sampler for μ/log.", :created 1596466529067}
-{:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A publisher for μ/log to Kafka.", :created 1596466542167}
-{:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A publisher for μ/log to Kinesis.", :created 1596466556791}
 {:jar_name "mulog-cloudwatch", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A publisher for μ/log to Cloudwatch.", :created 1596466571459}
 {:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1596466584339}
 {:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.4.0-SNAPSHOT", :description "A publisher for μ/trace to OpenZipkin.", :created 1596466598091}
@@ -254,3 +251,6 @@
 {:jar_name "potemkin", :group_name "org.msync", :version "0.4.5", :description "Some useful facades.", :created 1596888853246}
 {:jar_name "ejc-sql", :group_name "ejc-sql", :version "0.4.0-SNAPSHOT", :description "Interact with database via java/clojure libs to run SQL scripts", :created 1596891953116}
 {:jar_name "dirigiste", :group_name "org.msync", :version "0.1.6-alpha3", :description "centrally planned thread and object pools", :created 1596892029697}
+{:jar_name "tech.datatype", :group_name "techascent", :version "5.13", :description "Library for efficient manipulation of contiguous mutable containers of primitive datatypes.", :created 1596892283446}
+{:jar_name "re-cog", :group_name "re-cog", :version "0.4.20", :description "Distributed provisioning Clojure functions to be used with Re-gent", :created 1596893230956}
+{:jar_name "re-cipes", :group_name "re-cipes", :version "0.1.27", :description "Recipes for provioning Linux machines", :created 1596895723463}
