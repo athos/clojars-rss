@@ -1,8 +1,3 @@
-{:jar_name "mulog-jvm-metrics", :group_name "com.brunobonacci", :version "0.4.0", :description "A JVM metrics sampler for μ/log.", :created 1596532361491}
-{:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.4.0", :description "A publisher for μ/log to Kafka.", :created 1596532376427}
-{:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.4.0", :description "A publisher for μ/log to Kinesis.", :created 1596532392135}
-{:jar_name "mulog-cloudwatch", :group_name "com.brunobonacci", :version "0.4.0", :description "A publisher for μ/log to Cloudwatch.", :created 1596532407711}
-{:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.4.0", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1596532424079}
 {:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.4.0", :description "A publisher for μ/trace to OpenZipkin.", :created 1596532440088}
 {:jar_name "safely", :group_name "com.brunobonacci", :version "0.7.0-alpha1", :description "Safely is a Clojure's circuit-breaker library for handling retries in an elegant declarative way.", :created 1596532557208}
 {:jar_name "gorilla-plot", :group_name "org.pinkgorilla", :version "1.2.4", :description "A simple data-driven plotting dsl using Vega via Gorilla UI.", :created 1596534573204}
@@ -254,3 +249,8 @@
 {:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.13", :description "A null backend for cartus.", :created 1597091408871}
 {:jar_name "antq", :group_name "antq", :version "0.6.2", :description "Point out your outdated dependencies", :created 1597094572809}
 {:jar_name "potok", :group_name "funcool", :version "2020.08.10-2", :description "Reactive Streams based state management toolkit.", :created 1597096019946}
+{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.14-RC2", :description "A structured logging abstraction with multiple backends.", :created 1597099113595}
+{:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.14-RC2", :description "A test backend for cartus.", :created 1597099121815}
+{:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.14-RC2", :description "A null backend for cartus.", :created 1597099129599}
+{:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.14-RC2", :description "A cambium backend for cartus.", :created 1597099137259}
+{:jar_name "salutem", :group_name "io.logicblocks", :version "0.1.0-RC10", :description "A health check library for sync / async health checks.", :created 1597100050997}
