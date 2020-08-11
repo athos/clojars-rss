@@ -1,5 +1,3 @@
-{:jar_name "core", :group_name "com.flipkart.poseidon", :version "5.9.0-SNAPSHOT", :description "Poseidon Core", :created 1596628320063}
-{:jar_name "log4j-access", :group_name "com.flipkart.poseidon", :version "5.9.0-SNAPSHOT", :description "Poseidon access log implementation for Jetty using Log4J", :created 1596628352047}
 {:jar_name "container", :group_name "com.flipkart.poseidon", :version "5.9.0-SNAPSHOT", :description "Poseidon Container", :created 1596628382415}
 {:jar_name "api", :group_name "com.flipkart.poseidon", :version "5.9.0-SNAPSHOT", :description "Poseidon API", :created 1596628417095}
 {:jar_name "service-clients-gen", :group_name "com.flipkart.poseidon", :version "5.9.0-SNAPSHOT", :description "Poseidon Service Clients Generation", :created 1596628443064}
@@ -254,3 +252,5 @@
 {:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.14", :description "A null backend for cartus.", :created 1597157548278}
 {:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.14", :description "A test backend for cartus.", :created 1597157555862}
 {:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.14", :description "A cambium backend for cartus.", :created 1597157563398}
+{:jar_name "salutem", :group_name "io.logicblocks", :version "0.1.0-RC11", :description "A health check library for sync / async health checks.", :created 1597160079082}
+{:jar_name "langohr", :group_name "com.novemberain", :version "5.2.0", :description "An idiomatic Clojure client for RabbitMQ that embraces the AMQP 0.9.1 model. Built on top of the RabbitMQ Java client", :created 1597161344590}
