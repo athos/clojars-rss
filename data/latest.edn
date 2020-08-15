@@ -204,8 +204,6 @@
 {:jar_name "reformation", :group_name "byu-odh", :version "9", :description "Generate and manipulate form datastructures in pure Clojure, which can be read with Reagent.", :created 1597419733736}
 {:jar_name "jruby-utils", :group_name "puppetlabs", :version "3.2.0", :description "A library for working with JRuby", :created 1597423646319}
 {:jar_name "consul-clj", :group_name "net.tbt-post", :version "0.1.2", :description "Clojure library for registering service with consul agent", :created 1597425662440}
-{:jar_name "jmh-clojure", :group_name "jmh-clojure", :version "0.4.0-SNAPSHOT", :description "Benchmarking with JMH, the Java Microbenchmark Harness, from Clojure.", :created 1597427460797}
-{:jar_name "task", :group_name "jmh-clojure", :version "0.1.0-SNAPSHOT", :description "Various jmh-clojure file and output utilities.", :created 1597427702945}
 {:jar_name "lein-jmh", :group_name "lein-jmh", :version "0.3.0-SNAPSHOT", :description "Run jmh-clojure benchmarks with Leiningen.", :created 1597427828129}
 {:jar_name "libvim-clj", :group_name "libvim-clj", :version "0.9.0", :description "A library that wraps libvim", :created 1597429526773}
 {:jar_name "treemap-clj", :group_name "com.phronemophobic", :version "0.2.0", :description "FIXME: write description", :created 1597429570364}
@@ -253,4 +251,6 @@
 {:jar_name "jsonista", :group_name "threatgrid", :version "0.2.7", :description "Clojure library for fast JSON encoding and decoding.", :created 1597520133937}
 {:jar_name "menard", :group_name "menard", :version "1.3.1", :description "A library for natural language generation and parsing", :created 1597523151651}
 {:jar_name "notif", :group_name "vafer", :version "0.1.0", :description "A super tiny library to generate toast notification base on Bulma notification component", :created 1597524702132}
-{:jar_name "gorilla-notes", :group_name "scicloj", :version "0.2.0-SNAPSHOT", :description "basic example using gorilla-ui", :created 1597528073622}
+{:jar_name "jmh-clojure", :group_name "jmh-clojure", :version "0.4.0-SNAPSHOT", :description "Benchmarking with JMH, the Java Microbenchmark Harness, from Clojure.", :created 1597530599414}
+{:jar_name "task", :group_name "jmh-clojure", :version "0.1.0-SNAPSHOT", :description "Various jmh-clojure file and output utilities.", :created 1597530822318}
+{:jar_name "gorilla-notes", :group_name "scicloj", :version "0.2.0-SNAPSHOT", :description "basic example using gorilla-ui", :created 1597532756174}
