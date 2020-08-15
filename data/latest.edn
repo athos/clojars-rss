@@ -1,25 +1,3 @@
-{:jar_name "batboy", :group_name "dev.russell", :version "0.1.0", :description "MLB Stats API Library", :created 1596813005179}
-{:jar_name "diffuse", :group_name "diffuse", :version "0.0.2", :description nil, :created 1596813887201}
-{:jar_name "server.http.jetty", :group_name "duct", :version "0.2.1", :description "Integrant methods for running a Jetty web server", :created 1596815030812}
-{:jar_name "sepal", :group_name "cirru", :version "0.2.9-a1", :description "", :created 1596818171037}
-{:jar_name "cnab-parser", :group_name "cnab-parser", :version "0.2.4", :description "Parser de CNAB de bancos brasileiros", :created 1596823536528}
-{:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha24", :description "OpenCompany Common Library", :created 1596823791618}
-{:jar_name "oz", :group_name "metasoarous", :version "1.6.0-alpha16", :description "Great and powerful data visualizations and scientific documents in Clojure using Vega and Vega-lite", :created 1596837839080}
-{:jar_name "oz", :group_name "metasoarous", :version "1.6.0-alpha19", :description "Great and powerful data visualizations and scientific documents in Clojure using Vega and Vega-lite", :created 1596840950692}
-{:jar_name "odoyle-rules", :group_name "net.sekao", :version "0.3.0", :description "A rules engine for Clojure(Script)", :created 1596844615651}
-{:jar_name "oz", :group_name "metasoarous", :version "1.6.0-alpha21", :description "Great and powerful data visualizations and scientific documents in Clojure using Vega and Vega-lite", :created 1596844629647}
-{:jar_name "oz", :group_name "metasoarous", :version "1.6.0-alpha22", :description "Great and powerful data visualizations and scientific documents in Clojure using Vega and Vega-lite", :created 1596849300556}
-{:jar_name "jax-patcher", :group_name "wavejumper", :version "2.0.0-alpha13", :description "Patcher DSL for jax", :created 1596849795999}
-{:jar_name "portal", :group_name "djblue", :version "0.3.1", :description "A clojure tool to navigate through your data.", :created 1596851348305}
-{:jar_name "cawfn", :group_name "cawfn", :version "1.0-SNAPSHOT", :description "cawfn: a compile-time aware alternative to defn", :created 1596856042022}
-{:jar_name "jax-patcher", :group_name "wavejumper", :version "2.0.0-alpha14", :description "Patcher DSL for jax", :created 1596862538882}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.79", :description nil, :created 1596864392097}
-{:jar_name "jax-patcher", :group_name "wavejumper", :version "2.0.0-alpha15", :description "Patcher DSL for jax", :created 1596868272933}
-{:jar_name "lein-template", :group_name "nilsson", :version "1.0.0", :description "A leiningen template for a clojure backend with postgresql database, and ES6+React frontend.", :created 1596877823237}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.10.20", :description "CLJS development tools", :created 1596883008852}
-{:jar_name "lucene-clj", :group_name "org.msync", :version "0.2.0-SNAPSHOT", :description "Lucene bindings for Clojure", :created 1596887716243}
-{:jar_name "primitive-math", :group_name "org.msync", :version "0.1.6", :description "predictable, primitive math", :created 1596887841316}
-{:jar_name "clj-tuple", :group_name "org.msync", :version "0.2.2", :description "Efficient small collections.", :created 1596887972885}
 {:jar_name "riddley", :group_name "org.msync", :version "0.2.0", :description "code-walking without caveats", :created 1596888071929}
 {:jar_name "manifold", :group_name "org.msync", :version "0.1.9-alpha3", :description "a compatibility layer for event-driven abstractions", :created 1596888122790}
 {:jar_name "byte-streams", :group_name "org.msync", :version "0.2.5-alpha2", :description "A simple way to handle the menagerie of Java byte represenations.", :created 1596888217042}
@@ -254,3 +232,25 @@
 {:jar_name "clojure-inline-svgs", :group_name "com.stronganchortech", :version "1.0.0", :description "Inline svgs for ClojureScript / Reagent / Hiccup", :created 1597445606754}
 {:jar_name "machine_head", :group_name "tristefigure", :version "1.1.0-SNAPSHOT", :description "Clojure MQTT client", :created 1597453538492}
 {:jar_name "ui", :group_name "human-db", :version "0.0.3", :description "", :created 1597456521135}
+{:jar_name "repl", :group_name "trident", :version "0.3.2", :description nil, :created 1597457819246}
+{:jar_name "util", :group_name "trident", :version "0.3.2", :description nil, :created 1597457830817}
+{:jar_name "jwt", :group_name "trident", :version "0.3.2", :description nil, :created 1597457851433}
+{:jar_name "rum", :group_name "trident", :version "0.3.2", :description nil, :created 1597457860600}
+{:jar_name "staticweb", :group_name "trident", :version "0.3.2", :description nil, :created 1597457869460}
+{:jar_name "config-component", :group_name "eduardoeof", :version "1.0.0", :description "A stuartsierra/component for config files in JSON, YAML and EDN formats.", :created 1597457871876}
+{:jar_name "cljs-http", :group_name "trident", :version "0.3.2", :description nil, :created 1597457880504}
+{:jar_name "cli", :group_name "trident", :version "0.3.2", :description nil, :created 1597457890015}
+{:jar_name "build", :group_name "trident", :version "0.3.2", :description nil, :created 1597457911323}
+{:jar_name "ring", :group_name "trident", :version "0.3.2", :description nil, :created 1597457922602}
+{:jar_name "firebase", :group_name "trident", :version "0.3.2", :description nil, :created 1597457937274}
+{:jar_name "firestore", :group_name "trident", :version "0.3.2", :description nil, :created 1597457948609}
+{:jar_name "views", :group_name "trident", :version "0.3.2", :description nil, :created 1597457965561}
+{:jar_name "ion", :group_name "trident", :version "0.3.2", :description nil, :created 1597457977132}
+{:jar_name "ion-dev", :group_name "trident", :version "0.3.2", :description nil, :created 1597457988248}
+{:jar_name "datascript", :group_name "trident", :version "0.3.2", :description nil, :created 1597458001035}
+{:jar_name "datomic", :group_name "trident", :version "0.3.2", :description nil, :created 1597458011047}
+{:jar_name "datomic-cloud", :group_name "trident", :version "0.3.2", :description nil, :created 1597458021787}
+{:jar_name "web", :group_name "trident", :version "0.3.2", :description nil, :created 1597458071385}
+{:jar_name "frontend", :group_name "trident", :version "0.3.2", :description nil, :created 1597458096860}
+{:jar_name "docs", :group_name "trident", :version "0.3.2", :description nil, :created 1597458127247}
+{:jar_name "sente", :group_name "wavejumper", :version "1.15.1", :description "Realtime web comms for Clojure/Script", :created 1597460052692}

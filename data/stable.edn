@@ -1,25 +1,3 @@
-{:jar_name "portal", :group_name "djblue", :version "0.3.0", :description "A clojure tool to navigate through your data.", :created 1596683924103}
-{:jar_name "iapetos", :group_name "org.clojars.nanit", :version "0.1.11", :description "A Clojure Prometheus Client", :created 1596702775631}
-{:jar_name "cloud-backend-database", :group_name "kolko", :version "1.2.22", :description nil, :created 1596714053145}
-{:jar_name "bisection-key", :group_name "cirru", :version "0.1.6-a2", :description nil, :created 1596727107503}
-{:jar_name "re-cog", :group_name "re-cog", :version "0.4.19", :description "Distributed provisioning Clojure functions to be used with Re-gent", :created 1596727145315}
-{:jar_name "fulcro-rad", :group_name "com.fulcrologic", :version "1.0.0-RC1", :description "A library for rapid application development in Fulcro", :created 1596734521264}
-{:jar_name "fulcro-rad-datomic", :group_name "com.fulcrologic", :version "1.0.0-RC1", :description "A Datomic database driver for Fulcro RAD.", :created 1596734685329}
-{:jar_name "neanderthal", :group_name "uncomplicate", :version "0.35.0", :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :created 1596740342799}
-{:jar_name "naga", :group_name "org.clojars.quoll", :version "0.3.0", :description "Forward Chaining Rule Engine", :created 1596740510688}
-{:jar_name "reveal", :group_name "vlaaad", :version "0.1.0-ea28", :description nil, :created 1596741128528}
-{:jar_name "delimc", :group_name "lsevero", :version "0.2.0", :description "Delimited Continuations for Clojure", :created 1596741130832}
-{:jar_name "commons", :group_name "io.bloomventures", :version "0.9.0", :description "", :created 1596743276265}
-{:jar_name "esprit", :group_name "esprit", :version "0.6.0", :description "ClojureScript on the ESP32 using Espruino", :created 1596745272375}
-{:jar_name "calenjars", :group_name "piposaude", :version "0.2.0", :description "A clojure jar generator to create libraries for date arithmetics around non-business days", :created 1596752982019}
-{:jar_name "easy-rpc", :group_name "easy-rpc", :version "0.7.1", :description "Clojure rpc with one line of code", :created 1596758983592}
-{:jar_name "respo", :group_name "respo", :version "0.13.3-a1", :description nil, :created 1596767187019}
-{:jar_name "ziggurat", :group_name "tech.gojek", :version "3.3.1-alpha.7", :description "A stream processing framework to build stateless applications on kafka", :created 1596775848231}
-{:jar_name "diffuse", :group_name "diffuse", :version "0.0.1", :description nil, :created 1596776476587}
-{:jar_name "crux-core", :group_name "juxt", :version "20.08-1.10.1-beta", :description "An open source document database with bitemporal graph queries", :created 1596789074496}
-{:jar_name "crux-rdf", :group_name "juxt", :version "20.08-1.10.1-alpha", :description "Crux RDF", :created 1596789085198}
-{:jar_name "crux-metrics", :group_name "juxt", :version "20.08-1.10.1-alpha", :description "Provides Metrics for Crux nodes", :created 1596789095757}
-{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.08-1.10.1-beta", :description "Crux RocksDB", :created 1596789105920}
 {:jar_name "crux-lmdb", :group_name "juxt", :version "20.08-1.10.1-alpha", :description "Crux LMDB", :created 1596789117465}
 {:jar_name "crux-jdbc", :group_name "juxt", :version "20.08-1.10.1-beta", :description "Crux JDBC", :created 1596789127919}
 {:jar_name "crux-http-client", :group_name "juxt", :version "20.08-1.10.1-beta", :description "Crux HTTP Client", :created 1596789138263}
@@ -254,3 +232,25 @@
 {:jar_name "prismatic-graphql", :group_name "nubank", :version "0.1.3", :description "Clojure library for creating Prismatic Schemas from GraphQL Queries", :created 1597443607032}
 {:jar_name "clojure-inline-svgs", :group_name "com.stronganchortech", :version "1.0.0", :description "Inline svgs for ClojureScript / Reagent / Hiccup", :created 1597445606754}
 {:jar_name "ui", :group_name "human-db", :version "0.0.3", :description "", :created 1597456521135}
+{:jar_name "repl", :group_name "trident", :version "0.3.2", :description nil, :created 1597457819246}
+{:jar_name "util", :group_name "trident", :version "0.3.2", :description nil, :created 1597457830817}
+{:jar_name "jwt", :group_name "trident", :version "0.3.2", :description nil, :created 1597457851433}
+{:jar_name "rum", :group_name "trident", :version "0.3.2", :description nil, :created 1597457860600}
+{:jar_name "staticweb", :group_name "trident", :version "0.3.2", :description nil, :created 1597457869460}
+{:jar_name "config-component", :group_name "eduardoeof", :version "1.0.0", :description "A stuartsierra/component for config files in JSON, YAML and EDN formats.", :created 1597457871876}
+{:jar_name "cljs-http", :group_name "trident", :version "0.3.2", :description nil, :created 1597457880504}
+{:jar_name "cli", :group_name "trident", :version "0.3.2", :description nil, :created 1597457890015}
+{:jar_name "build", :group_name "trident", :version "0.3.2", :description nil, :created 1597457911323}
+{:jar_name "ring", :group_name "trident", :version "0.3.2", :description nil, :created 1597457922602}
+{:jar_name "firebase", :group_name "trident", :version "0.3.2", :description nil, :created 1597457937274}
+{:jar_name "firestore", :group_name "trident", :version "0.3.2", :description nil, :created 1597457948609}
+{:jar_name "views", :group_name "trident", :version "0.3.2", :description nil, :created 1597457965561}
+{:jar_name "ion", :group_name "trident", :version "0.3.2", :description nil, :created 1597457977132}
+{:jar_name "ion-dev", :group_name "trident", :version "0.3.2", :description nil, :created 1597457988248}
+{:jar_name "datascript", :group_name "trident", :version "0.3.2", :description nil, :created 1597458001035}
+{:jar_name "datomic", :group_name "trident", :version "0.3.2", :description nil, :created 1597458011047}
+{:jar_name "datomic-cloud", :group_name "trident", :version "0.3.2", :description nil, :created 1597458021787}
+{:jar_name "web", :group_name "trident", :version "0.3.2", :description nil, :created 1597458071385}
+{:jar_name "frontend", :group_name "trident", :version "0.3.2", :description nil, :created 1597458096860}
+{:jar_name "docs", :group_name "trident", :version "0.3.2", :description nil, :created 1597458127247}
+{:jar_name "sente", :group_name "wavejumper", :version "1.15.1", :description "Realtime web comms for Clojure/Script", :created 1597460052692}
