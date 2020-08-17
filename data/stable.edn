@@ -1,9 +1,3 @@
-{:jar_name "riddley", :group_name "org.msync", :version "0.2.0", :description "code-walking without caveats", :created 1596888071929}
-{:jar_name "manifold", :group_name "org.msync", :version "0.1.9-alpha3", :description "a compatibility layer for event-driven abstractions", :created 1596888122790}
-{:jar_name "byte-streams", :group_name "org.msync", :version "0.2.5-alpha2", :description "A simple way to handle the menagerie of Java byte represenations.", :created 1596888217042}
-{:jar_name "collection-check", :group_name "org.msync", :version "0.1.7", :description "fuzz testing for alternate data structures", :created 1596888695713}
-{:jar_name "potemkin", :group_name "org.msync", :version "0.4.5", :description "Some useful facades.", :created 1596888853246}
-{:jar_name "dirigiste", :group_name "org.msync", :version "0.1.6-alpha3", :description "centrally planned thread and object pools", :created 1596892029697}
 {:jar_name "tech.datatype", :group_name "techascent", :version "5.13", :description "Library for efficient manipulation of contiguous mutable containers of primitive datatypes.", :created 1596892283446}
 {:jar_name "re-cog", :group_name "re-cog", :version "0.4.20", :description "Distributed provisioning Clojure functions to be used with Re-gent", :created 1596893230956}
 {:jar_name "re-cipes", :group_name "re-cipes", :version "0.1.27", :description "Recipes for provioning Linux machines", :created 1596895723463}
@@ -254,3 +248,9 @@
 {:jar_name "funnel-client", :group_name "lambdaisland", :version "0.0.9", :description "Clojure and ClojureScript client libraries for Funnel", :created 1597671582150}
 {:jar_name "schema", :group_name "daaku", :version "0.1.1", :description nil, :created 1597671666331}
 {:jar_name "kaocha", :group_name "lambdaisland", :version "1.0.663", :description "Full featured next generation test runner for Clojure.", :created 1597673356684}
+{:jar_name "chui-core", :group_name "lambdaisland", :version "0.0.133", :description "ClojureScript Test Runner Core", :created 1597674612136}
+{:jar_name "chui-ui", :group_name "lambdaisland", :version "0.0.133", :description "Browser UI for the Chui test runner", :created 1597674632883}
+{:jar_name "chui-remote", :group_name "lambdaisland", :version "0.0.133", :description "Funnel client for connecting test tooling to ClojureScript runtimes", :created 1597674654766}
+{:jar_name "chui-shadow", :group_name "lambdaisland", :version "0.0.133", :description "Chui-based test runner namespaces to be used with Shadow-cljs", :created 1597674676437}
+{:jar_name "chui", :group_name "lambdaisland", :version "0.0.133", :description "Modern ClojureScript test runner", :created 1597674699077}
+{:jar_name "formatting-stack", :group_name "formatting-stack", :version "4.2.4-alpha1", :description "An efficient, smart, graceful composition of formatters, linters and such.", :created 1597675837473}

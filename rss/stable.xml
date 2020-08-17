@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 17 Aug 2020 14:10:12 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2020 15:09:27 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/formatting-stack/versions/4.2.4-alpha1</guid>
+    <title>[formatting-stack &quot;4.2.4-alpha1&quot;]</title>
+    <link>https://clojars.org/formatting-stack/versions/4.2.4-alpha1</link>
+    <description>An efficient, smart, graceful composition of formatters, linters and such.</description>
+    <pubDate>Mon, 17 Aug 2020 14:50:37 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/lambdaisland/chui/versions/0.0.133</guid>
+    <title>[lambdaisland/chui &quot;0.0.133&quot;]</title>
+    <link>https://clojars.org/lambdaisland/chui/versions/0.0.133</link>
+    <description>Modern ClojureScript test runner</description>
+    <pubDate>Mon, 17 Aug 2020 14:31:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/lambdaisland/chui-shadow/versions/0.0.133</guid>
+    <title>[lambdaisland/chui-shadow &quot;0.0.133&quot;]</title>
+    <link>https://clojars.org/lambdaisland/chui-shadow/versions/0.0.133</link>
+    <description>Chui-based test runner namespaces to be used with Shadow-cljs</description>
+    <pubDate>Mon, 17 Aug 2020 14:31:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/lambdaisland/chui-remote/versions/0.0.133</guid>
+    <title>[lambdaisland/chui-remote &quot;0.0.133&quot;]</title>
+    <link>https://clojars.org/lambdaisland/chui-remote/versions/0.0.133</link>
+    <description>Funnel client for connecting test tooling to ClojureScript runtimes</description>
+    <pubDate>Mon, 17 Aug 2020 14:30:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/lambdaisland/chui-ui/versions/0.0.133</guid>
+    <title>[lambdaisland/chui-ui &quot;0.0.133&quot;]</title>
+    <link>https://clojars.org/lambdaisland/chui-ui/versions/0.0.133</link>
+    <description>Browser UI for the Chui test runner</description>
+    <pubDate>Mon, 17 Aug 2020 14:30:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/lambdaisland/chui-core/versions/0.0.133</guid>
+    <title>[lambdaisland/chui-core &quot;0.0.133&quot;]</title>
+    <link>https://clojars.org/lambdaisland/chui-core/versions/0.0.133</link>
+    <description>ClojureScript Test Runner Core</description>
+    <pubDate>Mon, 17 Aug 2020 14:30:12 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/lambdaisland/kaocha/versions/1.0.663</guid>
     <title>[lambdaisland/kaocha &quot;1.0.663&quot;]</title>
@@ -1756,48 +1798,6 @@
     <link>https://clojars.org/techascent/tech.datatype/versions/5.13</link>
     <description>Library for efficient manipulation of contiguous mutable containers of primitive datatypes.</description>
     <pubDate>Sat, 8 Aug 2020 13:11:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.msync/dirigiste/versions/0.1.6-alpha3</guid>
-    <title>[org.msync/dirigiste &quot;0.1.6-alpha3&quot;]</title>
-    <link>https://clojars.org/org.msync/dirigiste/versions/0.1.6-alpha3</link>
-    <description>centrally planned thread and object pools</description>
-    <pubDate>Sat, 8 Aug 2020 13:07:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.msync/potemkin/versions/0.4.5</guid>
-    <title>[org.msync/potemkin &quot;0.4.5&quot;]</title>
-    <link>https://clojars.org/org.msync/potemkin/versions/0.4.5</link>
-    <description>Some useful facades.</description>
-    <pubDate>Sat, 8 Aug 2020 12:14:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.msync/collection-check/versions/0.1.7</guid>
-    <title>[org.msync/collection-check &quot;0.1.7&quot;]</title>
-    <link>https://clojars.org/org.msync/collection-check/versions/0.1.7</link>
-    <description>fuzz testing for alternate data structures</description>
-    <pubDate>Sat, 8 Aug 2020 12:11:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.msync/byte-streams/versions/0.2.5-alpha2</guid>
-    <title>[org.msync/byte-streams &quot;0.2.5-alpha2&quot;]</title>
-    <link>https://clojars.org/org.msync/byte-streams/versions/0.2.5-alpha2</link>
-    <description>A simple way to handle the menagerie of Java byte represenations.</description>
-    <pubDate>Sat, 8 Aug 2020 12:03:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.msync/manifold/versions/0.1.9-alpha3</guid>
-    <title>[org.msync/manifold &quot;0.1.9-alpha3&quot;]</title>
-    <link>https://clojars.org/org.msync/manifold/versions/0.1.9-alpha3</link>
-    <description>a compatibility layer for event-driven abstractions</description>
-    <pubDate>Sat, 8 Aug 2020 12:02:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.msync/riddley/versions/0.2.0</guid>
-    <title>[org.msync/riddley &quot;0.2.0&quot;]</title>
-    <link>https://clojars.org/org.msync/riddley/versions/0.2.0</link>
-    <description>code-walking without caveats</description>
-    <pubDate>Sat, 8 Aug 2020 12:01:11 +0000</pubDate>
   </item>
   </channel>
 </rss>
