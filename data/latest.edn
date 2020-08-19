@@ -1,13 +1,3 @@
-{:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha26", :description "OpenCompany Common Library", :created 1597145260318}
-{:jar_name "geni", :group_name "zero.one", :version "0.0.22", :description "A Clojure library that wraps Apache Spark", :created 1597147614005}
-{:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha27", :description "OpenCompany Common Library", :created 1597148623724}
-{:jar_name "ctim", :group_name "threatgrid", :version "1.0.18", :description "Cisco Threat Intelligence Model", :created 1597153029672}
-{:jar_name "jax-patcher", :group_name "wavejumper", :version "2.0.0-alpha18", :description "Patcher DSL for jax", :created 1597154971269}
-{:jar_name "clj-memory-meter", :group_name "com.clojure-goes-fast", :version "0.1.3", :description "Measure object memory consumption from Clojure", :created 1597156037624}
-{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.14", :description "A structured logging abstraction with multiple backends.", :created 1597157540441}
-{:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.14", :description "A null backend for cartus.", :created 1597157548278}
-{:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.14", :description "A test backend for cartus.", :created 1597157555862}
-{:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.14", :description "A cambium backend for cartus.", :created 1597157563398}
 {:jar_name "salutem", :group_name "io.logicblocks", :version "0.1.0-RC11", :description "A health check library for sync / async health checks.", :created 1597160079082}
 {:jar_name "langohr", :group_name "com.novemberain", :version "5.2.0", :description "An idiomatic Clojure client for RabbitMQ that embraces the AMQP 0.9.1 model. Built on top of the RabbitMQ Java client", :created 1597161344590}
 {:jar_name "klipse-clj", :group_name "viebel", :version "10.1.9", :description "Self-hosted clojurescript library", :created 1597162519523}
@@ -252,5 +242,15 @@
 {:jar_name "defn-spec", :group_name "org.clojars.frozenlock", :version "0.1.7", :description "A Clojure(Script) wrapper around `defn` that optionally adds\n                checking to a function's args and/or return value via assertions.", :created 1597804259156}
 {:jar_name "ctim", :group_name "threatgrid", :version "1.0.19-SNAPSHOT", :description "Cisco Threat Intelligence Model", :created 1597808425136}
 {:jar_name "sicmutils", :group_name "io.samritchie", :version "0.13.0-SNAPSHOT", :description "A port of the Scmutils computer algebra/mechanics system to Clojure", :created 1597815763067}
-{:jar_name "gorilla-notes", :group_name "scicloj", :version "0.3.0-SNAPSHOT", :description "basic example using gorilla-ui", :created 1597815818957}
 {:jar_name "skill-bundler", :group_name "com.atomist", :version "0.1.14", :description nil, :created 1597816444987}
+{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.80", :description nil, :created 1597821104165}
+{:jar_name "gorilla-notes", :group_name "scicloj", :version "0.3.0-SNAPSHOT", :description "basic example using gorilla-ui", :created 1597823414423}
+{:jar_name "dropwizard-revolver", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1597823475453}
+{:jar_name "revolver-model", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1597823536711}
+{:jar_name "revolver-core", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1597823564878}
+{:jar_name "revolver-resilience4j", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1597823591137}
+{:jar_name "revolver-server", :group_name "io.revolver", :version "2.0.11-SNAPSHOT", :description nil, :created 1597823624212}
+{:jar_name "kaocha", :group_name "lambdaisland", :version "1.0.669", :description "Full featured next generation test runner for Clojure.", :created 1597824186596}
+{:jar_name "chui-core", :group_name "lambdaisland", :version "0.0.141", :description "ClojureScript Test Runner Core", :created 1597824555711}
+{:jar_name "chui-ui", :group_name "lambdaisland", :version "0.0.141", :description "Browser UI for the Chui test runner", :created 1597824578698}
+{:jar_name "chui-remote", :group_name "lambdaisland", :version "0.0.141", :description "Funnel client for connecting test tooling to ClojureScript runtimes", :created 1597824601349}
