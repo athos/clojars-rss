@@ -6,7 +6,7 @@
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [cheshire "5.10.0"]
                  [org.martinklepsch/clj-http-lite "0.4.3"]
-                 [pogonos "0.1.0"]]
+                 [pogonos "0.1.1"]]
   :main clojars-rss.main
   :repl-options {:init-ns clojars-rss.main}
   :profiles {:uberjar {:aot :all}
