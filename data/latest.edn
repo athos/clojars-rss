@@ -1,21 +1,3 @@
-{:jar_name "skill-bundler", :group_name "com.atomist", :version "0.1.14", :description nil, :created 1597816444987}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.80", :description nil, :created 1597821104165}
-{:jar_name "kaocha", :group_name "lambdaisland", :version "1.0.669", :description "Full featured next generation test runner for Clojure.", :created 1597824186596}
-{:jar_name "chui-core", :group_name "lambdaisland", :version "0.0.141", :description "ClojureScript Test Runner Core", :created 1597824555711}
-{:jar_name "chui-ui", :group_name "lambdaisland", :version "0.0.141", :description "Browser UI for the Chui test runner", :created 1597824578698}
-{:jar_name "chui-remote", :group_name "lambdaisland", :version "0.0.141", :description "Funnel client for connecting test tooling to ClojureScript runtimes", :created 1597824601349}
-{:jar_name "chui-shadow", :group_name "lambdaisland", :version "0.0.141", :description "Chui-based test runner namespaces to be used with Shadow-cljs", :created 1597824631568}
-{:jar_name "chui", :group_name "lambdaisland", :version "0.0.141", :description "Modern ClojureScript test runner", :created 1597824654042}
-{:jar_name "glogi", :group_name "lambdaisland", :version "1.0.70", :description "A thin wrapper around `goog.log` inspired by `pedestal.log`.", :created 1597825492053}
-{:jar_name "funnel-client", :group_name "lambdaisland", :version "0.0.13", :description "Clojure and ClojureScript client libraries for Funnel", :created 1597825738635}
-{:jar_name "core", :group_name "rehook", :version "2.1.7", :description "React Hooks for Clojurescript", :created 1597827255275}
-{:jar_name "dom", :group_name "rehook", :version "2.1.7", :description "React component DSL for Clojurescript", :created 1597827334972}
-{:jar_name "events", :group_name "rehook", :version "2.1.7", :description "React Hooks for Clojurescript", :created 1597827363007}
-{:jar_name "test", :group_name "rehook", :version "2.1.7", :description "React Hooks for Clojurescript", :created 1597827519690}
-{:jar_name "rehook", :group_name "rehook", :version "2.1.7", :description "React Hooks for Clojurescript", :created 1597827598867}
-{:jar_name "cloud-backend-database", :group_name "kolko", :version "1.2.25", :description nil, :created 1597828993733}
-{:jar_name "clj-diff", :group_name "lambdaisland", :version "1.1.58", :description "Diff and patch for Clojure sequences", :created 1597829574637}
-{:jar_name "deep-diff2", :group_name "lambdaisland", :version "2.0.108", :description "Recursively compare Clojure or ClojureScript data structures, and produce a colorized diff of the result.", :created 1597830061256}
 {:jar_name "chui-core", :group_name "lambdaisland", :version "0.0.146", :description "ClojureScript Test Runner Core", :created 1597830304031}
 {:jar_name "chui-ui", :group_name "lambdaisland", :version "0.0.146", :description "Browser UI for the Chui test runner", :created 1597830324922}
 {:jar_name "chui-remote", :group_name "lambdaisland", :version "0.0.146", :description "Funnel client for connecting test tooling to ClojureScript runtimes", :created 1597830345717}
@@ -191,7 +173,6 @@
 {:jar_name "cljs-workers", :group_name "cljs-workers", :version "1.1.2", :description "A clojurescript lib for performing async tasks via web workers", :created 1598189172691}
 {:jar_name "protojure", :group_name "protojure", :version "1.5.4", :description "Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications", :created 1598192122840}
 {:jar_name "http-kit", :group_name "http-kit", :version "2.5.0-alpha2", :description "High-performance event-driven HTTP client/server for Clojure", :created 1598193480301}
-{:jar_name "clj-statecharts", :group_name "clj-statecharts", :version "0.0.1-SNAPSHOT", :description "StateChart for Clojure(script)", :created 1598195306385}
 {:jar_name "malli", :group_name "bb-utils", :version "0.0.1-SNAPSHOT", :description "malli", :created 1598195516378}
 {:jar_name "edamame", :group_name "borkdude", :version "0.0.11-alpha.14", :description "EDN parser with location metadata and pluggable dispatch table.", :created 1598201012120}
 {:jar_name "memento", :group_name "org.clojars.roklenarcic", :version "0.8.0", :description "A library for function memoization.", :created 1598206768228}
@@ -254,3 +235,22 @@
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.85", :description nil, :created 1598336182053}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.86", :description nil, :created 1598339474454}
 {:jar_name "tabulator", :group_name "cljsjs", :version "4.7.2-0", :description "An easy to use interactive table generation JavaScript library", :created 1598342252884}
+{:jar_name "uri-ext", :group_name "matteoredaelli", :version "0.1.0-SNAPSHOT", :description "FIXME: my new library.", :created 1598343868147}
+{:jar_name "active-riemann", :group_name "de.active-group", :version "0.5.0-SNAPSHOT", :description "Common functionality for Riemann streams.", :created 1598344810284}
+{:jar_name "crux-core", :group_name "juxt", :version "20.08-1.11.0-beta-SNAPSHOT", :description "An open source document database with bitemporal graph queries", :created 1598345647310}
+{:jar_name "crux-rdf", :group_name "juxt", :version "20.08-1.11.0-alpha-SNAPSHOT", :description "Crux RDF", :created 1598345659005}
+{:jar_name "crux-metrics", :group_name "juxt", :version "20.08-1.11.0-alpha-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1598345668697}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.08-1.11.0-beta-SNAPSHOT", :description "Crux RocksDB", :created 1598345679653}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "20.08-1.11.0-alpha-SNAPSHOT", :description "Crux LMDB", :created 1598345688948}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.08-1.11.0-beta-SNAPSHOT", :description "Crux JDBC", :created 1598345698360}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.08-1.11.0-beta-SNAPSHOT", :description "Crux HTTP Client", :created 1598345707816}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.08-1.11.0-alpha-SNAPSHOT", :description "Crux HTTP Server", :created 1598345720299}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.08-1.11.0-beta-SNAPSHOT", :description "Crux Kafka Embedded", :created 1598345729787}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.08-1.11.0-beta-SNAPSHOT", :description "Crux Kafka Connect", :created 1598345741067}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.08-1.11.0-beta-SNAPSHOT", :description "Crux Kafka", :created 1598345751350}
+{:jar_name "crux-sql", :group_name "juxt", :version "20.08-1.11.0-alpha-SNAPSHOT", :description "SQL for Crux using Apache Calcite", :created 1598345763154}
+{:jar_name "crux-test", :group_name "juxt", :version "20.08-1.11.0-SNAPSHOT", :description "Crux Tests Project", :created 1598345772233}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.08-1.11.0-beta-SNAPSHOT", :description "", :created 1598345782873}
+{:jar_name "crux-cli", :group_name "juxt", :version "20.08-1.11.0-beta-SNAPSHOT", :description "Crux Uberjar", :created 1598345796757}
+{:jar_name "crux-bench", :group_name "juxt", :version "20.08-1.11.0-SNAPSHOT", :description "", :created 1598345818776}
+{:jar_name "clj-statecharts", :group_name "clj-statecharts", :version "0.0.1-SNAPSHOT", :description "StateChart for Clojure(script)", :created 1598346531723}
