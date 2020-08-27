@@ -4,7 +4,77 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 27 Aug 2020 09:10:39 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2020 10:09:53 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/lambdaisland/edn-lines/versions/1.0.10</guid>
+    <title>[lambdaisland/edn-lines &quot;1.0.10&quot;]</title>
+    <link>https://clojars.org/lambdaisland/edn-lines/versions/1.0.10</link>
+    <description>Newline-separated EDN file format</description>
+    <pubDate>Thu, 27 Aug 2020 09:47:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/martian-test/versions/0.1.14</guid>
+    <title>[martian-test &quot;0.1.14&quot;]</title>
+    <link>https://clojars.org/martian-test/versions/0.1.14</link>
+    <description>Testing tools for martian</description>
+    <pubDate>Thu, 27 Aug 2020 09:25:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/martian-httpkit/versions/0.1.14</guid>
+    <title>[martian-httpkit &quot;0.1.14&quot;]</title>
+    <link>https://clojars.org/martian-httpkit/versions/0.1.14</link>
+    <description>httpkit implementation for martian</description>
+    <pubDate>Thu, 27 Aug 2020 09:24:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/martian-re-frame/versions/0.1.14</guid>
+    <title>[martian-re-frame &quot;0.1.14&quot;]</title>
+    <link>https://clojars.org/martian-re-frame/versions/0.1.14</link>
+    <description>re-frame bindings for martian</description>
+    <pubDate>Thu, 27 Aug 2020 09:24:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/martian-clj-http-lite/versions/0.1.14</guid>
+    <title>[martian-clj-http-lite &quot;0.1.14&quot;]</title>
+    <link>https://clojars.org/martian-clj-http-lite/versions/0.1.14</link>
+    <description>clj-http-lite implementation for martian</description>
+    <pubDate>Thu, 27 Aug 2020 09:24:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/martian-cljs-http/versions/0.1.14</guid>
+    <title>[martian-cljs-http &quot;0.1.14&quot;]</title>
+    <link>https://clojars.org/martian-cljs-http/versions/0.1.14</link>
+    <description>cljs-http implementation for martian</description>
+    <pubDate>Thu, 27 Aug 2020 09:23:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/martian-clj-http/versions/0.1.14</guid>
+    <title>[martian-clj-http &quot;0.1.14&quot;]</title>
+    <link>https://clojars.org/martian-clj-http/versions/0.1.14</link>
+    <description>clj-http implementation for martian</description>
+    <pubDate>Thu, 27 Aug 2020 09:23:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/martian/versions/0.1.14</guid>
+    <title>[martian &quot;0.1.14&quot;]</title>
+    <link>https://clojars.org/martian/versions/0.1.14</link>
+    <description>Client routing for Swagger APIs</description>
+    <pubDate>Thu, 27 Aug 2020 09:23:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/de.active-group/active-riemann/versions/0.5.0</guid>
+    <title>[de.active-group/active-riemann &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/de.active-group/active-riemann/versions/0.5.0</link>
+    <description>Common functionality for Riemann streams.</description>
+    <pubDate>Thu, 27 Aug 2020 09:20:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/wavejumper/jax-patcher/versions/2.0.0-alpha19</guid>
+    <title>[wavejumper/jax-patcher &quot;2.0.0-alpha19&quot;]</title>
+    <link>https://clojars.org/wavejumper/jax-patcher/versions/2.0.0-alpha19</link>
+    <description>Patcher DSL for jax</description>
+    <pubDate>Thu, 27 Aug 2020 09:15:09 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/de.active-group/active-riemann/versions/0.5.0-SNAPSHOT</guid>
     <title>[de.active-group/active-riemann &quot;0.5.0-SNAPSHOT&quot;]</title>
@@ -1733,76 +1803,6 @@ om.next graph syntax.</description>
     <link>https://clojars.org/datalevin/versions/0.2.18</link>
     <description>A simple, fast and durable Datalog database</description>
     <pubDate>Thu, 20 Aug 2020 21:17:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/kaocha-nrepl/versions/1.0.3</guid>
-    <title>[kaocha-nrepl &quot;1.0.3&quot;]</title>
-    <link>https://clojars.org/kaocha-nrepl/versions/1.0.3</link>
-    <description>nREPL Middleware for kaocha</description>
-    <pubDate>Thu, 20 Aug 2020 21:05:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.cyverse/clj-icat-direct/versions/2.8.8-SNAPSHOT</guid>
-    <title>[org.cyverse/clj-icat-direct &quot;2.8.8-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.cyverse/clj-icat-direct/versions/2.8.8-SNAPSHOT</link>
-    <description>A Clojure library for accessing the iRODS ICAT database directly.</description>
-    <pubDate>Thu, 20 Aug 2020 20:49:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/galdolber/api-common-server/versions/0.1.30</guid>
-    <title>[galdolber/api-common-server &quot;0.1.30&quot;]</title>
-    <link>https://clojars.org/galdolber/api-common-server/versions/0.1.30</link>
-    <description></description>
-    <pubDate>Thu, 20 Aug 2020 20:34:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cljfx/versions/1.7.6</guid>
-    <title>[cljfx &quot;1.7.6&quot;]</title>
-    <link>https://clojars.org/cljfx/versions/1.7.6</link>
-    <description></description>
-    <pubDate>Thu, 20 Aug 2020 19:39:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.woyt1/too-hot/versions/1.0.0</guid>
-    <title>[org.clojars.woyt1/too-hot &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.woyt1/too-hot/versions/1.0.0</link>
-    <description>A very simple Fahrenheit to Celsius converter.</description>
-    <pubDate>Thu, 20 Aug 2020 19:18:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/onto.aaroneberhart/fowl/versions/0.0.1-SNAPSHOT</guid>
-    <title>[onto.aaroneberhart/fowl &quot;0.0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/onto.aaroneberhart/fowl/versions/0.0.1-SNAPSHOT</link>
-    <description>(f OWL) is a minimalistic functional programming style ontology editor</description>
-    <pubDate>Thu, 20 Aug 2020 18:02:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/thheller/shadow-cljs/versions/2.10.22</guid>
-    <title>[thheller/shadow-cljs &quot;2.10.22&quot;]</title>
-    <link>https://clojars.org/thheller/shadow-cljs/versions/2.10.22</link>
-    <description>CLJS development tools</description>
-    <pubDate>Thu, 20 Aug 2020 17:40:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/funcool/log4j2-clojure/versions/2020.08.20-1</guid>
-    <title>[funcool/log4j2-clojure &quot;2020.08.20-1&quot;]</title>
-    <link>https://clojars.org/funcool/log4j2-clojure/versions/2020.08.20-1</link>
-    <description>Log4j2 clojure appender</description>
-    <pubDate>Thu, 20 Aug 2020 17:24:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/techascent/tech.viz/versions/0.4.3</guid>
-    <title>[techascent/tech.viz &quot;0.4.3&quot;]</title>
-    <link>https://clojars.org/techascent/tech.viz/versions/0.4.3</link>
-    <description>Simple Vega visualization library</description>
-    <pubDate>Thu, 20 Aug 2020 16:40:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.fulcrologic/fulcro-rad/versions/1.0.0-RC3-SNAPSHOT</guid>
-    <title>[com.fulcrologic/fulcro-rad &quot;1.0.0-RC3-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.fulcrologic/fulcro-rad/versions/1.0.0-RC3-SNAPSHOT</link>
-    <description>A library for rapid application development in Fulcro</description>
-    <pubDate>Thu, 20 Aug 2020 14:59:47 +0000</pubDate>
   </item>
   </channel>
 </rss>
