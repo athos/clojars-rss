@@ -1,5 +1,3 @@
-{:jar_name "jtds", :group_name "net.sourceforge.jmarcos00", :version "1.3.3-fixed", :description "jTDS is an open source 100% pure Java (type 4) JDBC 3.0 driver \n    for Microsoft SQL Server (6.5, 7, 2000, 2005, 2008, 2012) and Sybase ASE\n    (10, 11, 12, 15). jTDS is based on FreeTDS and is currently the fastest\n    production-ready JDBC driver for SQL Server and Sybase. jTDS is 100% JDBC\n    3.0 compatible, supporting forward-only and scrollable/updateable ResultSets\n    and implementing all the DatabaseMetaData and ResultSetMetaData methods.", :created 1597974987372}
-{:jar_name "ziggurat", :group_name "tech.gojek", :version "3.4.0", :description "A stream processing framework to build stateless applications on kafka", :created 1597989138733}
 {:jar_name "checkmate", :group_name "exoscale", :version "1.0.0-alpha7", :description "By failing to prepare, you are preparing to fail", :created 1597990221642}
 {:jar_name "swagger-mon", :group_name "jimengio", :version "0.0.4", :description nil, :created 1597991197495}
 {:jar_name "ex", :group_name "exoscale", :version "0.3.14", :description "In which we deal with exceptions the clojure way", :created 1597991248694}
@@ -216,7 +214,6 @@
 {:jar_name "membrane", :group_name "com.phronemophobic", :version "0.9.12-beta", :description "A platform agnostic library for creating user interfaces", :created 1598462246906}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2020.07.30-SNAPSHOT", :description "Tidy your code with clj-kondo.", :created 1598463758420}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "4.6.3", :description "", :created 1598466958750}
-{:jar_name "babashka", :group_name "borkdude", :version "0.1.4-SNAPSHOT", :description "babashka", :created 1598474030515}
 {:jar_name "byu-cas", :group_name "byu-odh", :version "5", :description "BYU CAS authentication layer for Clojure", :created 1598474247164}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.90", :description nil, :created 1598477033951}
 {:jar_name "crux-jdbc", :group_name "tolitius", :version "20.08-1.10.1-batch-insert-SNAPSHOT", :description "Crux JDBC", :created 1598477225860}
@@ -254,3 +251,6 @@
 {:jar_name "protojure", :group_name "protojure", :version "1.5.5", :description "Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications", :created 1598530209633}
 {:jar_name "kaocha-cljs2", :group_name "lambdaisland", :version "0.0.28", :description "cljs.test support for Kaocha, second generation.", :created 1598530852179}
 {:jar_name "clj-gcp", :group_name "ovotech", :version "0.6.3", :description "Clojure utilities for the Google Cloud Platform", :created 1598533301335}
+{:jar_name "odoyle-rum", :group_name "net.sekao", :version "0.3.0", :description "Make Rum components with O'Doyle Rules", :created 1598534351498}
+{:jar_name "corona", :group_name "corona", :version "0.1.11-SNAPSHOT", :description "A clojure wrapper Solr client", :created 1598535292381}
+{:jar_name "babashka", :group_name "borkdude", :version "0.1.4-SNAPSHOT", :description "babashka", :created 1598536496442}
