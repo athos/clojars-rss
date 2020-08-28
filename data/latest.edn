@@ -1,26 +1,3 @@
-{:jar_name "muplayer", :group_name "org.orangeplayer", :version "2.0.2", :description nil, :created 1598166090055}
-{:jar_name "sente", :group_name "com.taoensso", :version "1.16.0-SNAPSHOT", :description "Realtime web comms for Clojure/Script", :created 1598169857315}
-{:jar_name "microbe", :group_name "junegunn", :version "0.1.0-SNAPSHOT", :description "A simple micro benchmark helper", :created 1598171770686}
-{:jar_name "dali", :group_name "dali", :version "1.0.2", :description "A Clojure library for 2D graphics.", :created 1598175955926}
-{:jar_name "http-kit", :group_name "http-kit", :version "2.5.0-SNAPSHOT", :description "High-performance event-driven HTTP client/server for Clojure", :created 1598180021191}
-{:jar_name "lein-template", :group_name "luminus", :version "3.85", :description "a template for creating Luminus applications", :created 1598185931234}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.11.0", :description "CLJS development tools", :created 1598188004040}
-{:jar_name "core.async-helpers", :group_name "jtk-dvlp", :version "1.0.0", :description "Helper pack for core.async", :created 1598188371831}
-{:jar_name "cljs-workers", :group_name "cljs-workers", :version "1.1.2", :description "A clojurescript lib for performing async tasks via web workers", :created 1598189172691}
-{:jar_name "protojure", :group_name "protojure", :version "1.5.4", :description "Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications", :created 1598192122840}
-{:jar_name "http-kit", :group_name "http-kit", :version "2.5.0-alpha2", :description "High-performance event-driven HTTP client/server for Clojure", :created 1598193480301}
-{:jar_name "malli", :group_name "bb-utils", :version "0.0.1-SNAPSHOT", :description "malli", :created 1598195516378}
-{:jar_name "edamame", :group_name "borkdude", :version "0.0.11-alpha.14", :description "EDN parser with location metadata and pluggable dispatch table.", :created 1598201012120}
-{:jar_name "memento", :group_name "org.clojars.roklenarcic", :version "0.8.0", :description "A library for function memoization.", :created 1598206768228}
-{:jar_name "cljs-workers", :group_name "jtk-dvlp", :version "1.1.2", :description "A clojurescript lib for performing async tasks via web workers", :created 1598207418429}
-{:jar_name "re-frame-worker-fx", :group_name "jtk-dvlp", :version "1.0.3", :description "A re-frame effects handler for performing async tasks via cljs-workers", :created 1598207860481}
-{:jar_name "re-frame-readfile-fx", :group_name "jtk-dvlp", :version "1.0.0", :description "A re-frame effects handler for reading files via FileReader-Object", :created 1598208344817}
-{:jar_name "re-frame-cookie-fx", :group_name "jtk-dvlp", :version "1.0.0", :description "A re-frame effects handler for storing data in cookies", :created 1598208801848}
-{:jar_name "too-hot", :group_name "org.clojars.woyt1", :version "1.0.1", :description "A very simple Fahrenheit to Celsius converter.", :created 1598217068520}
-{:jar_name "pathom", :group_name "com.wsscode", :version "2.3.0-alpha10", :description "A Clojure library designed to provide a collection of helper functions to support Clojure(script) graph parsers using\nom.next graph syntax.", :created 1598217965088}
-{:jar_name "meyvn-installer", :group_name "org.danielsz", :version "1.2.4", :description nil, :created 1598218515133}
-{:jar_name "clj-socketio-client", :group_name "org.clojars.rockchalkjay", :version "0.1.0", :description "Clojure wrapper for io.socket/socket.io-client", :created 1598230144059}
-{:jar_name "clj-socketio-client", :group_name "org.clojars.rockchalkjay", :version "0.1.1", :description "Clojure wrapper for io.socket/socket.io-client", :created 1598232657031}
 {:jar_name "cli-progress", :group_name "cli-progress", :version "0.1.0", :description "CLI Progress bar with multibar support", :created 1598232947933}
 {:jar_name "re-frame", :group_name "re-frame", :version "1.1.0", :description "A ClojureScript MVC-like Framework For Writing SPAs Using Reagent.", :created 1598250940525}
 {:jar_name "skill-bundler", :group_name "com.atomist", :version "0.1.15", :description nil, :created 1598251513465}
@@ -215,7 +192,6 @@
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.11.1", :description "CLJS development tools", :created 1598566331687}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "1.7.38", :description "", :created 1598568545127}
 {:jar_name "kaocha-greenlight", :group_name "caioaao", :version "0.2.0", :description "Kaocha extension to run amperity/greenlight tests", :created 1598569213711}
-{:jar_name "re-frame-tasks", :group_name "jtk-dvlp", :version "1.0.0-SNAPSHOT", :description "A re-frame interceptor and helpers to register / unregister (background-)tasks", :created 1598570498003}
 {:jar_name "tupelo", :group_name "tupelo", :version "20.08.27", :description "Tupelo:  Clojure With A Spoonful of Honey", :created 1598574167424}
 {:jar_name "oz", :group_name "metasoarous", :version "1.6.0-alpha25", :description "Great and powerful data visualizations and scientific documents in Clojure using Vega and Vega-lite", :created 1598574290700}
 {:jar_name "ctim", :group_name "threatgrid", :version "1.0.20", :description "Cisco Threat Intelligence Model", :created 1598574689487}
@@ -254,3 +230,27 @@
 {:jar_name "gocd-clj", :group_name "gocd-clj", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598627977640}
 {:jar_name "common-datomic-metrics", :group_name "common-datomic-metrics", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598627990488}
 {:jar_name "state-flow-helpers", :group_name "state-flow-helpers", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628003908}
+{:jar_name "lacinia", :group_name "lacinia", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628019223}
+{:jar_name "sachem-interface", :group_name "sachem-interface", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628049536}
+{:jar_name "nuntio", :group_name "nuntio", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628062169}
+{:jar_name "common-tools", :group_name "common-tools", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628105128}
+{:jar_name "common-authorizer", :group_name "common-authorizer", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628117968}
+{:jar_name "common-generators", :group_name "common-generators", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628130545}
+{:jar_name "common-redis", :group_name "common-redis", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628142493}
+{:jar_name "common-github", :group_name "common-github", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628154771}
+{:jar_name "common-iso8583", :group_name "common-iso8583", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628178849}
+{:jar_name "common-stream", :group_name "common-stream", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628190749}
+{:jar_name "common-schedule", :group_name "common-schedule", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628227807}
+{:jar_name "common-etl-spec", :group_name "common-etl-spec", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628251104}
+{:jar_name "monorepl", :group_name "monorepl", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628288335}
+{:jar_name "sachem", :group_name "sachem", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628299821}
+{:jar_name "nu-boleto", :group_name "nu-boleto", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628313220}
+{:jar_name "datomic-exporter", :group_name "datomic-exporter", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628337581}
+{:jar_name "serverless-spec-generators", :group_name "serverless-spec-generators", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628350303}
+{:jar_name "common-fulcro", :group_name "common-fulcro", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628362583}
+{:jar_name "common-acquisition", :group_name "common-acquisition", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628375029}
+{:jar_name "common-safe", :group_name "common-safe", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628460766}
+{:jar_name "common-db", :group_name "common-db", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628497340}
+{:jar_name "nu-library-template", :group_name "nu-library-template", :version "0.1.0-XABLAW", :description "FIXME: write description", :created 1598628616676}
+{:jar_name "clj-mu", :group_name "com.twelvenines", :version "0.0.13", :description "Clojure friendly library for using https://muserver.io", :created 1598632682331}
+{:jar_name "re-frame-tasks", :group_name "jtk-dvlp", :version "1.0.0-SNAPSHOT", :description "A re-frame interceptor and helpers to register / unregister (background-)tasks", :created 1598632849519}
