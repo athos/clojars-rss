@@ -1,23 +1,3 @@
-{:jar_name "encore", :group_name "com.taoensso", :version "2.125.1", :description "Core utils library for Clojure/Script", :created 1598561146686}
-{:jar_name "common-core", :group_name "common-core", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1598562010772}
-{:jar_name "kitchensink", :group_name "puppetlabs", :version "2.6.0", :description "Clojure utility functions", :created 1598565183103}
-{:jar_name "asami", :group_name "org.clojars.quoll", :version "1.2.2", :description "An in memory graph store for Clojure and ClojureScript", :created 1598565289311}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.92", :description nil, :created 1598566028506}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.11.1", :description "CLJS development tools", :created 1598566331687}
-{:jar_name "clj-parent", :group_name "puppetlabs", :version "1.7.38", :description "", :created 1598568545127}
-{:jar_name "kaocha-greenlight", :group_name "caioaao", :version "0.2.0", :description "Kaocha extension to run amperity/greenlight tests", :created 1598569213711}
-{:jar_name "tupelo", :group_name "tupelo", :version "20.08.27", :description "Tupelo:  Clojure With A Spoonful of Honey", :created 1598574167424}
-{:jar_name "oz", :group_name "metasoarous", :version "1.6.0-alpha25", :description "Great and powerful data visualizations and scientific documents in Clojure using Vega and Vega-lite", :created 1598574290700}
-{:jar_name "ctim", :group_name "threatgrid", :version "1.0.20", :description "Cisco Threat Intelligence Model", :created 1598574689487}
-{:jar_name "tupelo", :group_name "tupelo", :version "20.08.27b", :description "Tupelo:  Clojure With A Spoonful of Honey", :created 1598575915979}
-{:jar_name "inquery", :group_name "tolitius", :version "0.1.12", :description "see qua l", :created 1598576025763}
-{:jar_name "clj-smartystreets", :group_name "democracyworks", :version "0.2.1", :description "A Clojure library wrapping SmartyStreets' Cloud APIs.", :created 1598576834846}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.93", :description nil, :created 1598579198864}
-{:jar_name "serverless", :group_name "dehli", :version "0.2.0", :description nil, :created 1598587378994}
-{:jar_name "encore", :group_name "com.taoensso", :version "2.125.2", :description "Core utils library for Clojure/Script", :created 1598610171552}
-{:jar_name "core.async-helpers", :group_name "jtk-dvlp", :version "1.1.2", :description "Helper pack for core.async", :created 1598611031642}
-{:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.39", :description "Simply Core Libs", :created 1598612553317}
-{:jar_name "odoyle-rum", :group_name "net.sekao", :version "0.3.1", :description "Make Rum components with O'Doyle Rules", :created 1598616628459}
 {:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.40", :description "Simply Core Libs", :created 1598617648851}
 {:jar_name "formalicious", :group_name "de.phenomdevel", :version "0.2.0-SNAPSHOT", :description "Generic form rendering library made for re-frame.", :created 1598625910984}
 {:jar_name "corona", :group_name "corona", :version "0.1.11-SNAPSHOT", :description "A clojure wrapper Solr client", :created 1598627134634}
@@ -254,3 +234,23 @@
 {:jar_name "clj-nio-alpha", :group_name "fr.jeremyschoffen", :version "0", :description nil, :created 1599052807910}
 {:jar_name "migratus", :group_name "migratus", :version "1.2.9", :description "MIGRATE ALL THE THINGS!", :created 1599053764649}
 {:jar_name "datahike", :group_name "io.replikativ", :version "0.3.2-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1599054001025}
+{:jar_name "migratus", :group_name "migratus", :version "1.3.0", :description "MIGRATE ALL THE THINGS!", :created 1599064311524}
+{:jar_name "dropwizard-primer", :group_name "io.raven.dropwizard", :version "1.3.14-8", :description "", :created 1599064728133}
+{:jar_name "commons", :group_name "uncomplicate", :version "0.12.0", :description "Common Uncomplicate utilities.", :created 1599065399379}
+{:jar_name "crux-core", :group_name "juxt", :version "20.09-1.11.0-beta", :description "An open source document database with bitemporal graph queries", :created 1599065576573}
+{:jar_name "crux-rdf", :group_name "juxt", :version "20.09-1.11.0-alpha", :description "Crux RDF", :created 1599065586753}
+{:jar_name "crux-metrics", :group_name "juxt", :version "20.09-1.11.0-alpha", :description "Provides Metrics for Crux nodes", :created 1599065597548}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.09-1.11.0-beta", :description "Crux RocksDB", :created 1599065607408}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "20.09-1.11.0-alpha", :description "Crux LMDB", :created 1599065617063}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.09-1.11.0-beta", :description "Crux JDBC", :created 1599065627083}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.09-1.11.0-beta", :description "Crux HTTP Client", :created 1599065637563}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.09-1.11.0-alpha", :description "Crux HTTP Server", :created 1599065649442}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.09-1.11.0-beta", :description "Crux Kafka Embedded", :created 1599065660294}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.09-1.11.0-beta", :description "Crux Kafka Connect", :created 1599065671790}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.09-1.11.0-beta", :description "Crux Kafka", :created 1599065682841}
+{:jar_name "crux-sql", :group_name "juxt", :version "20.09-1.11.0-alpha", :description "SQL for Crux using Apache Calcite", :created 1599065694377}
+{:jar_name "crux-test", :group_name "juxt", :version "20.09-1.11.0", :description "Crux Tests Project", :created 1599065704672}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.09-1.11.0-beta", :description "", :created 1599065716636}
+{:jar_name "crux-cli", :group_name "juxt", :version "20.09-1.11.0-beta", :description "Crux Uberjar", :created 1599065728668}
+{:jar_name "crux-bench", :group_name "juxt", :version "20.09-1.11.0", :description "", :created 1599065747695}
+{:jar_name "neanderthal", :group_name "uncomplicate", :version "0.36.0", :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :created 1599066219690}
