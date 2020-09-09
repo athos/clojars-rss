@@ -1,6 +1,3 @@
-{:jar_name "log4j-access", :group_name "com.flipkart.poseidon", :version "5.10.0", :description "Poseidon access log implementation for Jetty using Log4J", :created 1599026830475}
-{:jar_name "container", :group_name "com.flipkart.poseidon", :version "5.10.0", :description "Poseidon Container", :created 1599026852419}
-{:jar_name "api", :group_name "com.flipkart.poseidon", :version "5.10.0", :description "Poseidon API", :created 1599026876774}
 {:jar_name "service-clients-gen", :group_name "com.flipkart.poseidon", :version "5.10.0", :description "Poseidon Service Clients Generation", :created 1599026897721}
 {:jar_name "service-clients-archetype", :group_name "com.flipkart.poseidon", :version "5.10.0", :description "Mvn archetype used to create a new service client", :created 1599026920136}
 {:jar_name "cadfael", :group_name "com.flipkart.poseidon", :version "5.10.0", :description nil, :created 1599026942448}
@@ -254,3 +251,6 @@
 {:jar_name "jax-patcher", :group_name "wavejumper", :version "2.0.0-alpha24", :description "Patcher DSL for jax", :created 1599649036837}
 {:jar_name "cloud-backend-database", :group_name "kolko", :version "1.3.5", :description nil, :created 1599651197389}
 {:jar_name "json-schema", :group_name "luposlip", :version "0.2.8", :description "Clojure library for JSON Schema validation and generation - Draft-07 compatible", :created 1599652569003}
+{:jar_name "encore", :group_name "com.taoensso", :version "3.0.0", :description "Core utils library for Clojure/Script", :created 1599654269295}
+{:jar_name "re-frame-fetch-fx", :group_name "superstructor", :version "0.0.2-19-ead8c0f-SNAPSHOT", :description "A re-frame effects handler for fetching resources (including across the network).", :created 1599656189375}
+{:jar_name "sqs-consumer", :group_name "sqs-consumer", :version "0.1.6-SNAPSHOT", :description "Another SQS Library", :created 1599656887160}
