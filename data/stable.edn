@@ -1,5 +1,3 @@
-{:jar_name "runtime", :group_name "com.flipkart.phantom", :version "3.5.0", :description "Phantom Runtime", :created 1599025351567}
-{:jar_name "runtime-oio-uds", :group_name "com.flipkart.phantom", :version "3.5.0", :description "OIO UDS Server Implementation for Phantom", :created 1599025380370}
 {:jar_name "netty-uds", :group_name "com.flipkart.phantom", :version "3.5.0", :description "UDS Library using Netty", :created 1599025433720}
 {:jar_name "sample-task-proxy", :group_name "com.flipkart.phantom", :version "3.5.0", :description "Sample Task Proxy", :created 1599025507705}
 {:jar_name "sample-http-proxy", :group_name "com.flipkart.phantom", :version "3.5.0", :description "Sample HTTP Proxy", :created 1599025539536}
@@ -254,3 +252,5 @@
 {:jar_name "graphql-inquiry", :group_name "graphql-inquiry", :version "0.0.1", :description "Converts clojure(script) data structures into GraphQL queries", :created 1599730920401}
 {:jar_name "nippy", :group_name "com.taoensso", :version "2.15.3", :description "High-performance serialization library for Clojure", :created 1599731582871}
 {:jar_name "coax", :group_name "exoscale", :version "1.0.0-alpha7", :description "exo spec-coerce fork", :created 1599733143369}
+{:jar_name "shadow-experiments", :group_name "thheller", :version "0.0.1", :description "WARNING: Experimental Code! Changing completely without notice! Do not use for anything but other experiments!", :created 1599737051777}
+{:jar_name "lein-shadow", :group_name "lein-shadow", :version "0.2.3", :description "A Leiningen plugin to help keep your project configuration in your project.clj file when using shadow-cljs", :created 1599739978165}
