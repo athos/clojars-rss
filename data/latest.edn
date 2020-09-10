@@ -1,6 +1,3 @@
-{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.09-1.11.0-beta", :description "Crux RocksDB", :created 1599065607408}
-{:jar_name "crux-lmdb", :group_name "juxt", :version "20.09-1.11.0-alpha", :description "Crux LMDB", :created 1599065617063}
-{:jar_name "crux-jdbc", :group_name "juxt", :version "20.09-1.11.0-beta", :description "Crux JDBC", :created 1599065627083}
 {:jar_name "crux-http-client", :group_name "juxt", :version "20.09-1.11.0-beta", :description "Crux HTTP Client", :created 1599065637563}
 {:jar_name "crux-http-server", :group_name "juxt", :version "20.09-1.11.0-alpha", :description "Crux HTTP Server", :created 1599065649442}
 {:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.09-1.11.0-beta", :description "Crux Kafka Embedded", :created 1599065660294}
@@ -186,7 +183,6 @@
 {:jar_name "ziggurat", :group_name "tech.gojek", :version "3.4.1", :description "A stream processing framework to build stateless applications on kafka", :created 1599549406727}
 {:jar_name "cloud-backend-database", :group_name "kolko", :version "1.3.1", :description nil, :created 1599549452676}
 {:jar_name "fork", :group_name "fork", :version "2.2.1", :description "Reagent & Re-Frame form library", :created 1599550222143}
-{:jar_name "active-riemann", :group_name "de.active-group", :version "0.6.0-SNAPSHOT", :description "Common functionality for Riemann streams.", :created 1599553256447}
 {:jar_name "matcha.alpha", :group_name "grafter", :version "0.1.11", :description "A SPARQL-like query engine and DSL for querying in\n  memory RDF models.", :created 1599554385403}
 {:jar_name "java-sdk", :group_name "com.phonepe.sdk", :version "1.0.0-SNAPSHOT", :description nil, :created 1599554538168}
 {:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v0.0.54", :description "A client library for Vald.", :created 1599556350372}
@@ -214,7 +210,6 @@
 {:jar_name "lein-template", :group_name "geni", :version "0.0.26", :description "Leiningen template for a Geni application.", :created 1599615569968}
 {:jar_name "raid", :group_name "br.com.vikingmakt", :version "1.6.0", :description "Raid client", :created 1599616172223}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.100", :description nil, :created 1599619678516}
-{:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.1.0-SNAPSHOT", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1599625379980}
 {:jar_name "weaving", :group_name "weaving", :version "0.2.2", :description "Combinators to weave Clojure[Script] functions together", :created 1599634534756}
 {:jar_name "backpack", :group_name "io.jesi", :version "6.1.0-SNAPSHOT", :description "Clojure(Script) cross-project utilities", :created 1599638153933}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200909-080218.82eaab7a", :description nil, :created 1599638573713}
@@ -254,3 +249,8 @@
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2020.09.10-SNAPSHOT", :description "Tidy your code with clj-kondo.", :created 1599721012507}
 {:jar_name "parent", :group_name "io.jesi", :version "4.1.0", :description "Clojure and NPM parent package definitions", :created 1599721731333}
 {:jar_name "core.async-helpers", :group_name "jtk-dvlp", :version "2.0.0-SNAPSHOT", :description "Helper pack for core.async", :created 1599721857021}
+{:jar_name "sente", :group_name "com.taoensso", :version "1.16.0-RC1", :description "Realtime web comms for Clojure/Script", :created 1599726236753}
+{:jar_name "structural", :group_name "structural", :version "0.2.0-SNAPSHOT", :description "A little library for defining hinted destructuring operations.", :created 1599726432136}
+{:jar_name "gadget-inspector", :group_name "cjohansen", :version "0.2020.09.10", :description "Inspect ClojureScript data in a Chrome extension, or over a remote connection.", :created 1599727499867}
+{:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.1.0-SNAPSHOT", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1599727763581}
+{:jar_name "active-riemann", :group_name "de.active-group", :version "0.6.0-SNAPSHOT", :description "Common functionality for Riemann streams.", :created 1599728785915}
