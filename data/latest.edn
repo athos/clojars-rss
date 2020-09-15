@@ -1,21 +1,3 @@
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1599527296114}
-{:jar_name "swing.esub", :group_name "swing.esub", :version "0.1.23", :description "DELETE ME", :created 1599533168757}
-{:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v0.0.53", :description "A client library for Vald.", :created 1599541908491}
-{:jar_name "datalevin", :group_name "datalevin", :version "0.3.5", :description "A simple, fast and durable Datalog database", :created 1599544262902}
-{:jar_name "cloud-backend-database", :group_name "kolko", :version "1.3.0", :description nil, :created 1599547609434}
-{:jar_name "ziggurat", :group_name "tech.gojek", :version "3.4.2", :description "A stream processing framework to build stateless applications on kafka", :created 1599548893150}
-{:jar_name "ziggurat", :group_name "tech.gojek", :version "3.4.1", :description "A stream processing framework to build stateless applications on kafka", :created 1599549406727}
-{:jar_name "cloud-backend-database", :group_name "kolko", :version "1.3.1", :description nil, :created 1599549452676}
-{:jar_name "fork", :group_name "fork", :version "2.2.1", :description "Reagent & Re-Frame form library", :created 1599550222143}
-{:jar_name "matcha.alpha", :group_name "grafter", :version "0.1.11", :description "A SPARQL-like query engine and DSL for querying in\n  memory RDF models.", :created 1599554385403}
-{:jar_name "java-sdk", :group_name "com.phonepe.sdk", :version "1.0.0-SNAPSHOT", :description nil, :created 1599554538168}
-{:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v0.0.54", :description "A client library for Vald.", :created 1599556350372}
-{:jar_name "clj-camel", :group_name "takeoff", :version "1.1.0", :description "Clojure wrapper for Apache Camel", :created 1599558563593}
-{:jar_name "commons", :group_name "lupapiste", :version "0.10.22", :description "Common domain code and resources for lupapiste applications", :created 1599558924900}
-{:jar_name "re-frame", :group_name "re-frame", :version "1.1.1-77-4d5e9850-SNAPSHOT", :description "A ClojureScript MVC-like Framework For Writing SPAs Using Reagent.", :created 1599561235934}
-{:jar_name "mercury", :group_name "stigmergy", :version "0.1.2-SNAPSHOT", :description "", :created 1599567292733}
-{:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v0.0.55", :description "A client library for Vald.", :created 1599567358925}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200908-123018.ca9b9bd8", :description "", :created 1599568256825}
 {:jar_name "re-cipes", :group_name "re-cipes", :version "0.1.33", :description "Provioning re-cipes for Linux machines", :created 1599569081314}
 {:jar_name "mbt-alpha", :group_name "fr.jeremyschoffen", :version "3", :description nil, :created 1599569193714}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.0.0-RC1", :description "Core utils library for Clojure/Script", :created 1599569355739}
@@ -254,3 +236,21 @@
 {:jar_name "buddy-sign", :group_name "buddy", :version "3.2.0", :description "High level message signing for Clojure", :created 1600185099561}
 {:jar_name "babashka", :group_name "borkdude", :version "0.2.1-SNAPSHOT", :description "babashka", :created 1600185275548}
 {:jar_name "reporter", :group_name "exoscale", :version "0.1.54", :description "error and event reporting component", :created 1600185448444}
+{:jar_name "crux-core", :group_name "juxt", :version "20.09-1.12.0-beta-SNAPSHOT", :description "An open source document database with bitemporal graph queries", :created 1600191031586}
+{:jar_name "crux-rdf", :group_name "juxt", :version "20.09-1.12.0-alpha-SNAPSHOT", :description "Crux RDF", :created 1600191043661}
+{:jar_name "crux-metrics", :group_name "juxt", :version "20.09-1.12.0-alpha-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1600191053733}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.09-1.12.0-beta-SNAPSHOT", :description "Crux RocksDB", :created 1600191064404}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "20.09-1.12.0-alpha-SNAPSHOT", :description "Crux LMDB", :created 1600191074243}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.09-1.12.0-beta-SNAPSHOT", :description "Crux JDBC", :created 1600191083295}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.09-1.12.0-beta-SNAPSHOT", :description "Crux HTTP Client", :created 1600191092022}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.09-1.12.0-alpha-SNAPSHOT", :description "Crux HTTP Server", :created 1600191104089}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.09-1.12.0-beta-SNAPSHOT", :description "Crux Kafka Embedded", :created 1600191113381}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.09-1.12.0-beta-SNAPSHOT", :description "Crux Kafka Connect", :created 1600191127004}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.09-1.12.0-beta-SNAPSHOT", :description "Crux Kafka", :created 1600191137491}
+{:jar_name "crux-sql", :group_name "juxt", :version "20.09-1.12.0-alpha-SNAPSHOT", :description "SQL for Crux using Apache Calcite", :created 1600191150982}
+{:jar_name "crux-test", :group_name "juxt", :version "20.09-1.12.0-SNAPSHOT", :description "Crux Tests Project", :created 1600191163569}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.09-1.12.0-beta-SNAPSHOT", :description "", :created 1600191174936}
+{:jar_name "crux-bench", :group_name "juxt", :version "20.09-1.12.0-SNAPSHOT", :description "", :created 1600191200462}
+{:jar_name "cljfx", :group_name "cljfx", :version "1.7.10", :description nil, :created 1600191678549}
+{:jar_name "crypto", :group_name "com.fluree", :version "0.3.4", :description nil, :created 1600191993819}
+{:jar_name "sigel", :group_name "me.flowthing", :version "1.0.1", :description "Sigel «ᛋ» is a Clojure interface to the XSLT and XPath bits of Saxon.", :created 1600192532446}
