@@ -4,7 +4,52 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 16 Sep 2020 16:12:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2020 17:10:31 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/dragoon/cljdub-dsp/versions/1.2.0</guid>
+    <title>[dragoon/cljdub-dsp &quot;1.2.0&quot;]</title>
+    <link>https://clojars.org/dragoon/cljdub-dsp/versions/1.2.0</link>
+    <description>Sound processing library that allows usage of pydub library&#39;s functionality in Clojure as well as provides interface for interaction between pydub and TarsosDSP libraries</description>
+    <pubDate>Wed, 16 Sep 2020 16:48:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/spork/versions/0.2.1.3-SNAPSHOT</guid>
+    <title>[spork &quot;0.2.1.3-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/spork/versions/0.2.1.3-SNAPSHOT</link>
+    <description>A set of libraries derived from Spoon&#39;s Operations Research Kit.
+   Libraries are modular and will be supported as stand-alone dependencies.
+   This project is an uberjar that includes all of the modular bits in a single
+   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,
+   focusing on a functional API, a default towards purity and persistent data
+   structures, with alternative mutable/imperative counterparts.  The vast
+   majority of spork is written in Clojure, with an intentional nod toward
+   independence from external libraries, particularly Java libs.  Consequently,
+   spork should provide a lightweight, clojure-based platform for the topics
+   covered by the libraries.  I am currently working to eliminate legacy
+   java dependencies where possible.</description>
+    <pubDate>Wed, 16 Sep 2020 16:37:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/joinr/nightcode/versions/1.3.5-SNAPSHOT</guid>
+    <title>[joinr/nightcode &quot;1.3.5-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/joinr/nightcode/versions/1.3.5-SNAPSHOT</link>
+    <description>An IDE for Clojure and Java</description>
+    <pubDate>Wed, 16 Sep 2020 16:36:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/joinr/nightclub/versions/0.0.2-SNAPSHOT</guid>
+    <title>[joinr/nightclub &quot;0.0.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/joinr/nightclub/versions/0.0.2-SNAPSHOT</link>
+    <description>This is a revisitation of the nightcode swing database.
+                Based on Zach Oakes&#39;s body of work.  The intent is to 
+                extend his working example from NightCode, and provide
+                a powerful facility for embedded swing-based editing in 
+                clojure applications.  Similar to nightlite, but  
+                theoretically more robust.  At a minimum, re-use 
+                his widgets in a modular capacity.  Decouple the 
+                lein dependency and other build components...</description>
+    <pubDate>Wed, 16 Sep 2020 16:34:13 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.danboykis/cljhash/versions/0.1.1-SNAPSHOT</guid>
     <title>[com.danboykis/cljhash &quot;0.1.1-SNAPSHOT&quot;]</title>
@@ -1771,34 +1816,6 @@
     <link>https://clojars.org/cljdub-dsp/versions/1.0.0</link>
     <description>Sound processing library that allows usage of pydub library&#39;s functionality in Clojure as well as provides interface for interation between pydub and TarsosDSP libraries</description>
     <pubDate>Wed, 9 Sep 2020 16:07:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/za.co.simply/simply-ux/versions/1.0.9</guid>
-    <title>[za.co.simply/simply-ux &quot;1.0.9&quot;]</title>
-    <link>https://clojars.org/za.co.simply/simply-ux/versions/1.0.9</link>
-    <description></description>
-    <pubDate>Wed, 9 Sep 2020 16:01:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.amobee/meeseeks-db/versions/0.10.20</guid>
-    <title>[com.amobee/meeseeks-db &quot;0.10.20&quot;]</title>
-    <link>https://clojars.org/com.amobee/meeseeks-db/versions/0.10.20</link>
-    <description>Redis-based fast sharded set-oriented DB</description>
-    <pubDate>Wed, 9 Sep 2020 15:15:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.atomist/api-cljs/versions/0.4.101</guid>
-    <title>[com.atomist/api-cljs &quot;0.4.101&quot;]</title>
-    <link>https://clojars.org/com.atomist/api-cljs/versions/0.4.101</link>
-    <description></description>
-    <pubDate>Wed, 9 Sep 2020 14:57:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/sqs-consumer/versions/0.1.7-SNAPSHOT</guid>
-    <title>[sqs-consumer &quot;0.1.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/sqs-consumer/versions/0.1.7-SNAPSHOT</link>
-    <description>Another SQS Library</description>
-    <pubDate>Wed, 9 Sep 2020 14:54:57 +0000</pubDate>
   </item>
   </channel>
 </rss>
