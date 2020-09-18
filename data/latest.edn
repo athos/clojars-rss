@@ -1,5 +1,3 @@
-{:jar_name "mook", :group_name "mook", :version "0.1.0-SNAPSHOT", :description nil, :created 1599840547317}
-{:jar_name "repl", :group_name "integrant", :version "0.3.2", :description "Reloaded workflow functions for Integrant", :created 1599841005530}
 {:jar_name "test-runner", :group_name "org.clojars.jbiserkov", :version "0.1.0", :description nil, :created 1599842641974}
 {:jar_name "gojira-compare", :group_name "com.flipkart", :version "1.9.9", :description nil, :created 1599847800840}
 {:jar_name "gojira-core", :group_name "com.flipkart", :version "1.9.9", :description nil, :created 1599847964781}
@@ -198,7 +196,6 @@
 {:jar_name "geni", :group_name "zero.one", :version "0.0.27", :description "A Clojure dataframe library that runs on Spark", :created 1600304382684}
 {:jar_name "lein-template", :group_name "geni", :version "0.0.27", :description "Leiningen template for a Geni application.", :created 1600304647570}
 {:jar_name "yang", :group_name "tolitius", :version "0.1.22", :description "the yang of Clojure's ying", :created 1600306697405}
-{:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.2.0-SNAPSHOT", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1600309064198}
 {:jar_name "respo", :group_name "respo", :version "0.13.4", :description nil, :created 1600312396845}
 {:jar_name "verter", :group_name "tolitius", :version "0.1.5", :description "curator of the institute of time", :created 1600317745994}
 {:jar_name "nso_controller", :group_name "org.clojars.gwynbl31dd", :version "4.4.0", :description nil, :created 1600319839342}
@@ -254,3 +251,6 @@
 {:jar_name "dynaload", :group_name "borkdude", :version "0.2.1", :description "The dynaload logic from clojure.spec.alpha as a library.", :created 1600379767836}
 {:jar_name "clj-brcode", :group_name "clj-brcode", :version "1.1.0-SNAPSHOT", :description "Clojure wrapper of Rust's `brcode` parser and emitter", :created 1600382932043}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.3.7", :description "A simple, fast and durable Datalog database", :created 1600384341782}
+{:jar_name "ancient-clj", :group_name "viebel", :version "0.6.16", :description "Maven Version Utilities for Clojure", :created 1600390608172}
+{:jar_name "lein-ancient-viebel", :group_name "lein-ancient-viebel", :version "0.6.16", :description "Check your Projects for outdated Dependencies.", :created 1600390657125}
+{:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.2.0-SNAPSHOT", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1600391368468}
