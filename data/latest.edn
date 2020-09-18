@@ -1,9 +1,3 @@
-{:jar_name "skill-bundler", :group_name "com.atomist", :version "0.1.21", :description nil, :created 1599860421165}
-{:jar_name "lacinia", :group_name "com.walmartlabs", :version "0.38.0-alpha-1", :description "A GraphQL server implementation in Clojure", :created 1599860743487}
-{:jar_name "simpledb-clj", :group_name "simpledb-clj", :version "0.0.16-SNAPSHOT", :description "utility layer above aws simpledb", :created 1599866082765}
-{:jar_name "check", :group_name "check", :version "0.1.1-SNAPSHOT", :description "Test helpers", :created 1599873311542}
-{:jar_name "storage-backend", :group_name "storage-backend", :version "0.1.5", :description "FIXME: write description", :created 1599876157342}
-{:jar_name "storage-backend", :group_name "storage-backend", :version "0.1.6", :description "FIXME: write description", :created 1599877479072}
 {:jar_name "luminus-jetty", :group_name "luminus-jetty", :version "0.2.1", :description "Jetty adapter for Luminus", :created 1599881950725}
 {:jar_name "clj-brcode", :group_name "clj-brcode", :version "0.2.0-SNAPSHOT", :description "Clojure wrapper of Rust's `brcode` parser and emitter", :created 1599885258772}
 {:jar_name "dag_unify", :group_name "dag_unify", :version "1.9.7", :description "Unification of Directed Acyclic Graphs", :created 1599905743799}
@@ -227,7 +221,6 @@
 {:jar_name "crux-azure-blobs", :group_name "juxt", :version "20.09-1.12.0-alpha", :description "", :created 1600355284994}
 {:jar_name "crux-bench", :group_name "juxt", :version "20.09-1.12.0", :description "", :created 1600355304372}
 {:jar_name "neo4j-clj", :group_name "gorillalabs", :version "4.1.0", :description "Clojure bindings for Neo4j using the Java driver", :created 1600358054340}
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.2-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1600358364927}
 {:jar_name "s3-mvn-upload", :group_name "s3-mvn-upload", :version "0.2.0", :description "", :created 1600360436970}
 {:jar_name "funcade", :group_name "tolitius", :version "0.1.16", :description "creates, manages and refreshes oauth 2.0 jwt tokens", :created 1600361975844}
 {:jar_name "clj-htmltopdf", :group_name "clj-htmltopdf", :version "0.1-alpha8", :description "Simple Clojure wrapper for Open HTML to PDF", :created 1600363095524}
@@ -254,3 +247,10 @@
 {:jar_name "liberator-mixin", :group_name "b-social", :version "0.0.55", :description "An extension to liberator allowing for composable mixins.", :created 1600414485502}
 {:jar_name "fire", :group_name "alekcz", :version "0.3.0-SNAPSHOT", :description "Firebase from Clojure. Basically Charmander 2.0", :created 1600416426952}
 {:jar_name "dynaload", :group_name "borkdude", :version "0.2.2", :description "The dynaload logic from clojure.spec.alpha as a library.", :created 1600419973551}
+{:jar_name "scim-patch", :group_name "org.clojars.rkaippully", :version "0.2.2", :description "A Clojure library that implements patch operations as specified by RFC7644", :created 1600421327186}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.09-1.12.0-beta", :description "Crux Kafka Connect", :created 1600422314006}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.09-1.12.0-beta", :description "Crux Kafka Embedded", :created 1600422356959}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.09-1.12.0-beta", :description "Crux Kafka", :created 1600422368634}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.09-1.12.0-beta", :description "", :created 1600422380325}
+{:jar_name "crux-sql", :group_name "juxt", :version "20.09-1.12.0-alpha", :description "SQL for Crux using Apache Calcite", :created 1600422391744}
+{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.2-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1600422551221}
