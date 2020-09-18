@@ -1,6 +1,3 @@
-{:jar_name "db", :group_name "com.fluree", :version "0.17.0-SNAPSHOT", :description nil, :created 1599849162175}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.103", :description nil, :created 1599852162326}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.104", :description nil, :created 1599856887714}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2020.09.10-SNAPSHOT", :description "Tidy your code with clj-kondo.", :created 1599857758435}
 {:jar_name "clj-brcode", :group_name "clj-brcode", :version "0.1.1-SNAPSHOT", :description "Clojure wrapper of Rust's `brcode` parser and emitter", :created 1599858287239}
 {:jar_name "clj-brcode", :group_name "clj-brcode", :version "0.1.2-SNAPSHOT", :description "Clojure wrapper of Rust's `brcode` parser and emitter", :created 1599859069173}
@@ -238,7 +235,6 @@
 {:jar_name "funcade", :group_name "tolitius", :version "0.1.16", :description "creates, manages and refreshes oauth 2.0 jwt tokens", :created 1600361975844}
 {:jar_name "clj-htmltopdf", :group_name "clj-htmltopdf", :version "0.1-alpha8", :description "Simple Clojure wrapper for Open HTML to PDF", :created 1600363095524}
 {:jar_name "edn-env", :group_name "douglass", :version "0.1.0", :description "A small library to overlay environment variables onto a config", :created 1600363752251}
-{:jar_name "hystrix-optimizer", :group_name "io.phonepe", :version "1.0.4-SNAPSHOT", :description nil, :created 1600365158567}
 {:jar_name "commodities-auction", :group_name "org.iiasa", :version "1.0.1", :description "A special case of generalized English auction.", :created 1600367376583}
 {:jar_name "reveal", :group_name "vlaaad", :version "1.0.130", :description nil, :created 1600368043797}
 {:jar_name "commons", :group_name "io.bloomventures", :version "0.10.5", :description "", :created 1600368617334}
@@ -253,4 +249,8 @@
 {:jar_name "clj-wechat-pay", :group_name "clj-wechat-pay", :version "0.1.1", :description "clojure wechat pay", :created 1600393012166}
 {:jar_name "drcfg", :group_name "com.roomkey", :version "7.1.0", :description "Dynamic Runtime Configuration Utility based on Zookeeper", :created 1600400416756}
 {:jar_name "highcharts", :group_name "cljsjs", :version "7.0.3-1", :description "Create interactive charts easily for your web projects.", :created 1600402044992}
-{:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.2.0-SNAPSHOT", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1600408859386}
+{:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.2.0-SNAPSHOT", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1600409720786}
+{:jar_name "jet", :group_name "twosigma", :version "0.7.10-20200918_061523-gb24d1e5", :description "Jetty9 ring server adapter with WebSocket support", :created 1600409877855}
+{:jar_name "datalevin", :group_name "datalevin", :version "0.3.8", :description "A simple, fast and durable Datalog database", :created 1600411172538}
+{:jar_name "cloffeine", :group_name "com.appsflyer", :version "0.1.6", :description "A warpper over https://github.com/ben-manes/caffeine", :created 1600412629510}
+{:jar_name "hystrix-optimizer", :group_name "io.phonepe", :version "1.0.4-SNAPSHOT", :description nil, :created 1600412710720}
