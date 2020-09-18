@@ -1,4 +1,3 @@
-{:jar_name "luminus-jetty", :group_name "luminus-jetty", :version "0.2.1", :description "Jetty adapter for Luminus", :created 1599881950725}
 {:jar_name "clj-brcode", :group_name "clj-brcode", :version "0.2.0-SNAPSHOT", :description "Clojure wrapper of Rust's `brcode` parser and emitter", :created 1599885258772}
 {:jar_name "dag_unify", :group_name "dag_unify", :version "1.9.7", :description "Unification of Directed Acyclic Graphs", :created 1599905743799}
 {:jar_name "commodities-auction", :group_name "org.iiasa", :version "0.2.2-SNAPSHOT", :description "A special case of generalized English auction.", :created 1599905977915}
@@ -243,7 +242,6 @@
 {:jar_name "jet", :group_name "twosigma", :version "0.7.10-20200918_061523-gb24d1e5", :description "Jetty9 ring server adapter with WebSocket support", :created 1600409877855}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.3.8", :description "A simple, fast and durable Datalog database", :created 1600411172538}
 {:jar_name "cloffeine", :group_name "com.appsflyer", :version "0.1.6", :description "A warpper over https://github.com/ben-manes/caffeine", :created 1600412629510}
-{:jar_name "hystrix-optimizer", :group_name "io.phonepe", :version "1.0.4-SNAPSHOT", :description nil, :created 1600412710720}
 {:jar_name "liberator-mixin", :group_name "b-social", :version "0.0.55", :description "An extension to liberator allowing for composable mixins.", :created 1600414485502}
 {:jar_name "fire", :group_name "alekcz", :version "0.3.0-SNAPSHOT", :description "Firebase from Clojure. Basically Charmander 2.0", :created 1600416426952}
 {:jar_name "dynaload", :group_name "borkdude", :version "0.2.2", :description "The dynaload logic from clojure.spec.alpha as a library.", :created 1600419973551}
@@ -254,3 +252,5 @@
 {:jar_name "crux-s3", :group_name "juxt", :version "20.09-1.12.0-beta", :description "", :created 1600422380325}
 {:jar_name "crux-sql", :group_name "juxt", :version "20.09-1.12.0-alpha", :description "SQL for Crux using Apache Calcite", :created 1600422391744}
 {:jar_name "datahike", :group_name "io.replikativ", :version "0.3.2-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1600422551221}
+{:jar_name "kaocha", :group_name "lambdaisland", :version "1.0.700", :description "Full featured next generation test runner for Clojure.", :created 1600424518842}
+{:jar_name "hystrix-optimizer", :group_name "io.phonepe", :version "1.0.4-SNAPSHOT", :description nil, :created 1600427346490}
