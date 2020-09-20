@@ -143,7 +143,6 @@
 {:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.18", :description "Data definitions for APIs", :created 1600334339447}
 {:jar_name "blueprint", :group_name "exoscale", :version "0.2.18", :description "Data definitions for APIs", :created 1600334353358}
 {:jar_name "ui", :group_name "respo", :version "0.3.16-a2", :description nil, :created 1600337114565}
-{:jar_name "datahike-jdbc", :group_name "io.replikativ", :version "0.1.1-SNAPSHOT", :description "Datahike with JDBC data storage backend", :created 1600340733484}
 {:jar_name "repl", :group_name "szew", :version "0.3.5", :description "Simple Clojure REPL seeder.", :created 1600345984604}
 {:jar_name "coax", :group_name "exoscale", :version "1.0.0-alpha8", :description "exo spec-coerce fork", :created 1600346046127}
 {:jar_name "graphql-inquiry", :group_name "graphql-inquiry", :version "0.1.0", :description "Converts clojure(script) data structures into GraphQL queries", :created 1600346397623}
@@ -252,5 +251,6 @@
 {:jar_name "flow-storm", :group_name "jpmonettas", :version "0.2.0", :description nil, :created 1600611884739}
 {:jar_name "flow-storm-debugger", :group_name "jpmonettas", :version "0.2.0", :description nil, :created 1600612091320}
 {:jar_name "vocabulary", :group_name "ont-app", :version "0.1.2-SNAPSHOT", :description "Utilities to map between namespaced keywords and URIs", :created 1600612765442}
-{:jar_name "hystrix-optimizer", :group_name "io.phonepe", :version "1.0.4-SNAPSHOT", :description nil, :created 1600612941738}
 {:jar_name "minimallist", :group_name "minimallist", :version "0.0.7", :description "A minimalist data driven data model library, inspired by Spec and Malli.", :created 1600614147815}
+{:jar_name "hystrix-optimizer", :group_name "io.phonepe", :version "1.0.4-SNAPSHOT", :description nil, :created 1600615113852}
+{:jar_name "datahike-jdbc", :group_name "io.replikativ", :version "0.1.1-SNAPSHOT", :description "Datahike with JDBC data storage backend", :created 1600618015848}
