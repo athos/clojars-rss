@@ -1,5 +1,3 @@
-{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.17", :description "Data definitions for APIs", :created 1600069874211}
-{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.17", :description "Data definitions for APIs", :created 1600069887142}
 {:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.17", :description "Data definitions for APIs", :created 1600069900109}
 {:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.17", :description "Data definitions for APIs", :created 1600069912948}
 {:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.17", :description "Data definitions for APIs", :created 1600069925319}
@@ -254,3 +252,5 @@
 {:jar_name "hystrix-optimizer", :group_name "io.phonepe", :version "1.0.4-SNAPSHOT", :description nil, :created 1600615113852}
 {:jar_name "datahike-jdbc", :group_name "io.replikativ", :version "0.1.1-SNAPSHOT", :description "Datahike with JDBC data storage backend", :created 1600618015848}
 {:jar_name "sparql-client", :group_name "ont-app", :version "0.1.1-SNAPSHOT", :description "Provides an IGraph-compliant view onto an arbitrary SPARQL endpoint in clojure, informed by ont-app/vocabulary.", :created 1600621793536}
+{:jar_name "datomic-client", :group_name "ont-app", :version "0.1.1-SNAPSHOT", :description "Extends IGraph protocol to Datomic", :created 1600621988383}
+{:jar_name "athrun", :group_name "athrun", :version "0.0.2-SNAPSHOT", :description "Scheduler component, based on ScheduledExecutor", :created 1600624699969}
