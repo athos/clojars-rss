@@ -1,4 +1,3 @@
-{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.17", :description "Data definitions for APIs", :created 1600069900109}
 {:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.17", :description "Data definitions for APIs", :created 1600069912948}
 {:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.17", :description "Data definitions for APIs", :created 1600069925319}
 {:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.17", :description "Data definitions for APIs", :created 1600069937366}
@@ -226,7 +225,6 @@
 {:jar_name "luminus-http-kit", :group_name "luminus-http-kit", :version "0.1.9", :description "HTTP Kit adapter for Luminus", :created 1600522274135}
 {:jar_name "kaocha-greenlight", :group_name "caioaao", :version "0.4.0", :description "Kaocha extension to run amperity/greenlight tests", :created 1600527065653}
 {:jar_name "stowaway", :group_name "stowaway", :version "0.1.7", :description "Library for abstracting data storage from business logic", :created 1600528837651}
-{:jar_name "konserve-jdbc", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A generic JDBC backend for konserve.", :created 1600529955066}
 {:jar_name "konserve-fire", :group_name "alekcz", :version "0.3.0-SNAPSHOT", :description "A Firebase backend for konserve.", :created 1600532101432}
 {:jar_name "spec1-select", :group_name "compute", :version "0.1.0", :description nil, :created 1600541190661}
 {:jar_name "superv.async", :group_name "io.replikativ", :version "0.2.11", :description "Supervised channel management for core.async.", :created 1600547308805}
@@ -254,3 +252,5 @@
 {:jar_name "sparql-client", :group_name "ont-app", :version "0.1.1-SNAPSHOT", :description "Provides an IGraph-compliant view onto an arbitrary SPARQL endpoint in clojure, informed by ont-app/vocabulary.", :created 1600621793536}
 {:jar_name "datomic-client", :group_name "ont-app", :version "0.1.1-SNAPSHOT", :description "Extends IGraph protocol to Datomic", :created 1600621988383}
 {:jar_name "athrun", :group_name "athrun", :version "0.0.2-SNAPSHOT", :description "Scheduler component, based on ScheduledExecutor", :created 1600624699969}
+{:jar_name "konserve-jdbc", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A generic JDBC backend for konserve.", :created 1600626170676}
+{:jar_name "hitchhiker-tree", :group_name "io.replikativ", :version "0.1.9", :description "A Hitchhiker Tree Library", :created 1600628483109}
