@@ -4,7 +4,77 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 22 Sep 2020 13:10:54 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2020 14:12:37 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.5.0</guid>
+    <title>[com.brunobonacci/mulog-prometheus &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.5.0</link>
+    <description>A publisher for μ/log to Prometheus.</description>
+    <pubDate>Tue, 22 Sep 2020 13:13:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.5.0</guid>
+    <title>[com.brunobonacci/mulog-zipkin &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.5.0</link>
+    <description>A publisher for μ/trace to OpenZipkin.</description>
+    <pubDate>Tue, 22 Sep 2020 13:13:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.5.0</guid>
+    <title>[com.brunobonacci/mulog-slack &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.5.0</link>
+    <description>A publisher for μ/log to a Slack incoming webhook.</description>
+    <pubDate>Tue, 22 Sep 2020 13:12:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.5.0</guid>
+    <title>[com.brunobonacci/mulog-cloudwatch &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.5.0</link>
+    <description>A publisher for μ/log to Cloudwatch.</description>
+    <pubDate>Tue, 22 Sep 2020 13:12:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.5.0</guid>
+    <title>[com.brunobonacci/mulog-kinesis &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.5.0</link>
+    <description>A publisher for μ/log to Kinesis.</description>
+    <pubDate>Tue, 22 Sep 2020 13:12:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.5.0</guid>
+    <title>[com.brunobonacci/mulog-kafka &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.5.0</link>
+    <description>A publisher for μ/log to Kafka.</description>
+    <pubDate>Tue, 22 Sep 2020 13:12:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.5.0</guid>
+    <title>[com.brunobonacci/mulog-jvm-metrics &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.5.0</link>
+    <description>A JVM metrics sampler for μ/log.</description>
+    <pubDate>Tue, 22 Sep 2020 13:11:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.5.0</guid>
+    <title>[com.brunobonacci/mulog-elasticsearch &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.5.0</link>
+    <description>A publisher for μ/log to Elasticsearch.</description>
+    <pubDate>Tue, 22 Sep 2020 13:11:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-json/versions/0.5.0</guid>
+    <title>[com.brunobonacci/mulog-json &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-json/versions/0.5.0</link>
+    <description>μ/log json handling</description>
+    <pubDate>Tue, 22 Sep 2020 13:11:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog/versions/0.5.0</guid>
+    <title>[com.brunobonacci/mulog &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog/versions/0.5.0</link>
+    <description>μ/log is a micro-logging library that logs events and data, not words!</description>
+    <pubDate>Tue, 22 Sep 2020 13:11:01 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/nubank/matcher-combinators/versions/3.1.3</guid>
     <title>[nubank/matcher-combinators &quot;3.1.3&quot;]</title>
@@ -1728,76 +1798,6 @@
     <link>https://clojars.org/paravim/versions/0.18.3</link>
     <description>A parasitic editor for Clojure</description>
     <pubDate>Sun, 13 Sep 2020 18:54:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/parinferish/versions/0.8.0</guid>
-    <title>[parinferish &quot;0.8.0&quot;]</title>
-    <link>https://clojars.org/parinferish/versions/0.8.0</link>
-    <description>A library for parsing and optionally applying parinfer(ish) to Clojure code</description>
-    <pubDate>Sun, 13 Sep 2020 18:51:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/zero.one/fxl/versions/0.0.3a</guid>
-    <title>[zero.one/fxl &quot;0.0.3a&quot;]</title>
-    <link>https://clojars.org/zero.one/fxl/versions/0.0.3a</link>
-    <description>fxl is a Clojure spreadsheet library.</description>
-    <pubDate>Sun, 13 Sep 2020 15:45:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/column/lein-template/versions/0.13.0</guid>
-    <title>[column/lein-template &quot;0.13.0&quot;]</title>
-    <link>https://clojars.org/column/lein-template/versions/0.13.0</link>
-    <description>column sits on top of pedestal to support your projects</description>
-    <pubDate>Sun, 13 Sep 2020 15:29:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/jpmonettas/flow-storm-debugger/versions/0.1.0</guid>
-    <title>[jpmonettas/flow-storm-debugger &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/jpmonettas/flow-storm-debugger/versions/0.1.0</link>
-    <description></description>
-    <pubDate>Sun, 13 Sep 2020 15:16:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/jpmonettas/flow-storm/versions/0.1.0</guid>
-    <title>[jpmonettas/flow-storm &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/jpmonettas/flow-storm/versions/0.1.0</link>
-    <description></description>
-    <pubDate>Sun, 13 Sep 2020 15:12:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/flow-storm/versions/0.1.0</guid>
-    <title>[flow-storm &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/flow-storm/versions/0.1.0</link>
-    <description></description>
-    <pubDate>Sun, 13 Sep 2020 15:09:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/flow-storm-debugger/versions/0.1.0</guid>
-    <title>[flow-storm-debugger &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/flow-storm-debugger/versions/0.1.0</link>
-    <description></description>
-    <pubDate>Sun, 13 Sep 2020 15:07:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.dominic/clj-classpath-duplicates/versions/0.1.1</guid>
-    <title>[io.dominic/clj-classpath-duplicates &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/io.dominic/clj-classpath-duplicates/versions/0.1.1</link>
-    <description></description>
-    <pubDate>Sun, 13 Sep 2020 13:27:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/re-cipes/versions/0.2.1</guid>
-    <title>[re-cipes &quot;0.2.1&quot;]</title>
-    <link>https://clojars.org/re-cipes/versions/0.2.1</link>
-    <description>Provioning re-cipes for Linux machines</description>
-    <pubDate>Sun, 13 Sep 2020 12:22:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/menard/versions/1.3.3</guid>
-    <title>[menard &quot;1.3.3&quot;]</title>
-    <link>https://clojars.org/menard/versions/1.3.3</link>
-    <description>A library for natural language generation and parsing</description>
-    <pubDate>Sun, 13 Sep 2020 11:50:31 +0000</pubDate>
   </item>
   </channel>
 </rss>
