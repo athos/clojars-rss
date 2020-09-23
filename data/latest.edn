@@ -1,13 +1,3 @@
-{:jar_name "cljhash", :group_name "com.danboykis", :version "0.1.1-SNAPSHOT", :description "hashing clojure edn", :created 1600271124791}
-{:jar_name "nightclub", :group_name "joinr", :version "0.0.2-SNAPSHOT", :description "This is a revisitation of the nightcode swing database.\n                Based on Zach Oakes's body of work.  The intent is to \n                extend his working example from NightCode, and provide\n                a powerful facility for embedded swing-based editing in \n                clojure applications.  Similar to nightlite, but  \n                theoretically more robust.  At a minimum, re-use \n                his widgets in a modular capacity.  Decouple the \n                lein dependency and other build components...", :created 1600274053399}
-{:jar_name "nightcode", :group_name "joinr", :version "1.3.5-SNAPSHOT", :description "An IDE for Clojure and Java", :created 1600274160138}
-{:jar_name "spork", :group_name "spork", :version "0.2.1.3-SNAPSHOT", :description "A set of libraries derived from Spoon's Operations Research Kit.\n   Libraries are modular and will be supported as stand-alone dependencies.\n   This project is an uberjar that includes all of the modular bits in a single\n   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,\n   focusing on a functional API, a default towards purity and persistent data\n   structures, with alternative mutable/imperative counterparts.  The vast\n   majority of spork is written in Clojure, with an intentional nod toward\n   independence from external libraries, particularly Java libs.  Consequently,\n   spork should provide a lightweight, clojure-based platform for the topics\n   covered by the libraries.  I am currently working to eliminate legacy\n   java dependencies where possible.", :created 1600274246231}
-{:jar_name "cljdub-dsp", :group_name "dragoon", :version "1.2.0", :description "Sound processing library that allows usage of pydub library's functionality in Clojure as well as provides interface for interaction between pydub and TarsosDSP libraries", :created 1600274922791}
-{:jar_name "yang", :group_name "tolitius", :version "0.1.21", :description "the yang of Clojure's ying", :created 1600277203255}
-{:jar_name "simply-ux", :group_name "za.co.simply", :version "1.0.10", :description "", :created 1600283014673}
-{:jar_name "carmine", :group_name "com.taoensso", :version "2.21.0-SNAPSHOT", :description "Clojure Redis client & message queue", :created 1600285875213}
-{:jar_name "commons", :group_name "io.bloomventures", :version "0.10.1", :description "", :created 1600286987701}
-{:jar_name "commons", :group_name "io.bloomventures", :version "0.10.4", :description "", :created 1600287965543}
 {:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.3.9", :description "Templating engine for office documents.", :created 1600288892995}
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.3.2", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1600292170971}
 {:jar_name "utilities-clj", :group_name "org.iiasa", :version "1.0.0", :description "Commonly used functions.", :created 1600299612931}
@@ -254,3 +244,13 @@
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.4.0-SNAPSHOT", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1600862749952}
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.3.5-SNAPSHOT", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1600864028075}
 {:jar_name "rabid", :group_name "rabid", :version "2.10.1", :description "Robust RabbitMQ made easy", :created 1600864914731}
+{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867395365}
+{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867408532}
+{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867421391}
+{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867434142}
+{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867447357}
+{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867460876}
+{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867474083}
+{:jar_name "blueprint", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867487491}
+{:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.3.5", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1600867524028}
+{:jar_name "fulcro-spec", :group_name "fulcrologic", :version "3.1.8", :description "Helper Macros for clj and cljs test", :created 1600867622009}
