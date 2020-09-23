@@ -150,7 +150,6 @@
 {:jar_name "sparql-client", :group_name "ont-app", :version "0.1.1-SNAPSHOT", :description "Provides an IGraph-compliant view onto an arbitrary SPARQL endpoint in clojure, informed by ont-app/vocabulary.", :created 1600621793536}
 {:jar_name "datomic-client", :group_name "ont-app", :version "0.1.1-SNAPSHOT", :description "Extends IGraph protocol to Datomic", :created 1600621988383}
 {:jar_name "athrun", :group_name "athrun", :version "0.0.2-SNAPSHOT", :description "Scheduler component, based on ScheduledExecutor", :created 1600624699969}
-{:jar_name "konserve-jdbc", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A generic JDBC backend for konserve.", :created 1600626170676}
 {:jar_name "hitchhiker-tree", :group_name "io.replikativ", :version "0.1.9", :description "A Hitchhiker Tree Library", :created 1600628483109}
 {:jar_name "flow-storm", :group_name "jpmonettas", :version "0.2.1", :description "", :created 1600632843293}
 {:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.2.0-SNAPSHOT", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1600648002029}
@@ -162,7 +161,6 @@
 {:jar_name "customs", :group_name "io.jesi", :version "1.2.0-SNAPSHOT", :description "Clojure(Script) cross-project testing utilities", :created 1600661090216}
 {:jar_name "parent", :group_name "io.jesi", :version "4.2.0", :description "Clojure and NPM parent package definitions", :created 1600662157417}
 {:jar_name "customs", :group_name "io.jesi", :version "1.2.0", :description "Clojure(Script) cross-project testing utilities", :created 1600662174725}
-{:jar_name "konserve-redis", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A redis backend for konserve using carmine.", :created 1600672925157}
 {:jar_name "yummy", :group_name "exoscale", :version "0.2.9", :description "YAML configuration for Clojure application", :created 1600675729496}
 {:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.50", :description "Simply Core Libs", :created 1600676528240}
 {:jar_name "quip", :group_name "quip", :version "0.1.0-SNAPSHOT", :description "A 2D game library based on Quil", :created 1600686255855}
@@ -181,7 +179,6 @@
 {:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha40", :description "OpenCompany Common Library", :created 1600717793260}
 {:jar_name "cljdub-dsp", :group_name "dragoon", :version "1.3.0", :description "Sound processing library that allows usage of pydub library's functionality in Clojure as well as provides interface for interaction between pydub and TarsosDSP libraries", :created 1600720405374}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2020.09.10-SNAPSHOT", :description "Tidy your code with clj-kondo.", :created 1600721765494}
-{:jar_name "konserve-couchdb", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A couchdb backend for konserve using clutch.", :created 1600721896089}
 {:jar_name "zprint", :group_name "zprint", :version "1.0.1", :description "Pretty print zippers and s-expressions", :created 1600727210611}
 {:jar_name "http-client", :group_name "puppetlabs", :version "1.2.0", :description "HTTP client wrapper", :created 1600731910892}
 {:jar_name "clj-polyglot", :group_name "wavejumper", :version "1.0.7", :description "Clojure library for graal's polyglot functionality", :created 1600732151403}
@@ -254,3 +251,6 @@
 {:jar_name "mount-lite", :group_name "robhanlon22", :version "2.1.8", :description "mount, but different and light", :created 1600831530446}
 {:jar_name "geni", :group_name "zero.one", :version "0.0.29", :description "A Clojure dataframe library that runs on Spark", :created 1600833454821}
 {:jar_name "lein-template", :group_name "geni", :version "0.0.29", :description "Leiningen template for a Geni application.", :created 1600833595224}
+{:jar_name "konserve-jdbc", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A generic JDBC backend for konserve.", :created 1600836934782}
+{:jar_name "konserve-redis", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A redis backend for konserve using carmine.", :created 1600837149124}
+{:jar_name "konserve-couchdb", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A couchdb backend for konserve using clutch.", :created 1600837173606}
