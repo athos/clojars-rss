@@ -1,6 +1,3 @@
-{:jar_name "axel-f", :group_name "io.xapix", :version "2.2.2-SNAPSHOT", :description "", :created 1600252818348}
-{:jar_name "uberdeps", :group_name "uberdeps", :version "1.0.2", :description "Uberjar builder for deps.edn", :created 1600254635092}
-{:jar_name "cljdub-dsp", :group_name "dragoon", :version "1.1.2", :description "Sound processing library that allows usage of pydub library's functionality in Clojure as well as provides interface for interaction between pydub and TarsosDSP libraries", :created 1600258051933}
 {:jar_name "protojure", :group_name "protojure", :version "1.5.7", :description "Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications", :created 1600259576187}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20200916-125341.3f890d93", :description nil, :created 1600260851664}
 {:jar_name "axel-f", :group_name "io.xapix", :version "2.2.2", :description "", :created 1600264586436}
@@ -247,10 +244,13 @@
 {:jar_name "lein-template", :group_name "geni", :version "0.0.29", :description "Leiningen template for a Geni application.", :created 1600833595224}
 {:jar_name "konserve-jdbc", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A generic JDBC backend for konserve.", :created 1600836934782}
 {:jar_name "konserve-redis", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A redis backend for konserve using carmine.", :created 1600837149124}
-{:jar_name "konserve-couchdb", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A couchdb backend for konserve using clutch.", :created 1600837173606}
 {:jar_name "mount-lite", :group_name "robhanlon22", :version "2.1.9", :description "mount, but different and light", :created 1600838612147}
 {:jar_name "netcdf", :group_name "theophilusx", :version "1.0.0", :description "Basic support for reading NetCDF 4 data files", :created 1600842902272}
 {:jar_name "exoscale", :group_name "exoscale", :version "0.1.18", :description "All things Exoscale, in Clojure", :created 1600842940737}
 {:jar_name "user.tools.deps.alpha", :group_name "user.tools.deps.alpha", :version "2020.267.25958", :description nil, :created 1600845166737}
 {:jar_name "user.jsoup", :group_name "user.jsoup", :version "2020.267.26928", :description nil, :created 1600846135574}
-{:jar_name "babashka", :group_name "borkdude", :version "0.2.1-SNAPSHOT", :description "babashka", :created 1600851653690}
+{:jar_name "timbre", :group_name "com.taoensso", :version "5.0.1", :description "Pure Clojure/Script logging library", :created 1600852589834}
+{:jar_name "babashka", :group_name "borkdude", :version "0.2.1-SNAPSHOT", :description "babashka", :created 1600853077085}
+{:jar_name "konserve-couchdb", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A couchdb backend for konserve using clutch.", :created 1600853246529}
+{:jar_name "konserve-leveldb", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A leveldb backend for konserve using clj-leveldb.", :created 1600854475249}
+{:jar_name "pubsub", :group_name "magnet", :version "0.3.5", :description "Duct + Integrant library wrapping MQTT & AQMP publish/subcribe clients with a common boundary protocol", :created 1600854816837}
