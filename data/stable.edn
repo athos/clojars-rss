@@ -1,20 +1,3 @@
-{:jar_name "diehard", :group_name "diehard", :version "0.10.1", :description "Safety utilities for Clojure", :created 1600350531015}
-{:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v0.0.56", :description "A client library for Vald.", :created 1600352020025}
-{:jar_name "vigilia-logger", :group_name "io.hvac.vigilia", :version "1.0.19", :description "A library/app to record a BACnet network", :created 1600353334259}
-{:jar_name "bacure", :group_name "bacure", :version "1.1.8", :description "A Clojure wrapper for the bacnet4j library... and some nice additions.", :created 1600353736536}
-{:jar_name "crux-core", :group_name "juxt", :version "20.09-1.12.0-beta", :description "An open source document database with bitemporal graph queries", :created 1600355129168}
-{:jar_name "crux-rdf", :group_name "juxt", :version "20.09-1.12.0-alpha", :description "Crux RDF", :created 1600355140891}
-{:jar_name "crux-metrics", :group_name "juxt", :version "20.09-1.12.0-alpha", :description "Provides Metrics for Crux nodes", :created 1600355151719}
-{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.09-1.12.0-beta", :description "Crux RocksDB", :created 1600355163178}
-{:jar_name "crux-lmdb", :group_name "juxt", :version "20.09-1.12.0-alpha", :description "Crux LMDB", :created 1600355174021}
-{:jar_name "crux-jdbc", :group_name "juxt", :version "20.09-1.12.0-beta", :description "Crux JDBC", :created 1600355184708}
-{:jar_name "crux-http-client", :group_name "juxt", :version "20.09-1.12.0-beta", :description "Crux HTTP Client", :created 1600355194772}
-{:jar_name "crux-http-server", :group_name "juxt", :version "20.09-1.12.0-alpha", :description "Crux HTTP Server", :created 1600355207883}
-{:jar_name "crux-azure-blobs", :group_name "juxt", :version "20.09-1.12.0-alpha", :description "", :created 1600355284994}
-{:jar_name "crux-bench", :group_name "juxt", :version "20.09-1.12.0", :description "", :created 1600355304372}
-{:jar_name "neo4j-clj", :group_name "gorillalabs", :version "4.1.0", :description "Clojure bindings for Neo4j using the Java driver", :created 1600358054340}
-{:jar_name "s3-mvn-upload", :group_name "s3-mvn-upload", :version "0.2.0", :description "", :created 1600360436970}
-{:jar_name "funcade", :group_name "tolitius", :version "0.1.16", :description "creates, manages and refreshes oauth 2.0 jwt tokens", :created 1600361975844}
 {:jar_name "clj-htmltopdf", :group_name "clj-htmltopdf", :version "0.1-alpha8", :description "Simple Clojure wrapper for Open HTML to PDF", :created 1600363095524}
 {:jar_name "edn-env", :group_name "douglass", :version "0.1.0", :description "A small library to overlay environment variables onto a config", :created 1600363752251}
 {:jar_name "commodities-auction", :group_name "org.iiasa", :version "1.0.1", :description "A special case of generalized English auction.", :created 1600367376583}
@@ -254,3 +237,20 @@
 {:jar_name "minimallist", :group_name "minimallist", :version "0.0.8", :description "A minimalist data driven data model library, inspired by Spec and Malli.", :created 1601112503657}
 {:jar_name "moncee", :group_name "theorems", :version "0.7.5", :description nil, :created 1601114833066}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.2.0", :description "Core utils library for Clojure/Script", :created 1601124482909}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.6", :description "Snappy data-driven router for Clojure(Script)", :created 1601125826912}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.6", :description "Snappy data-driven router for Clojure(Script)", :created 1601125844819}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.6", :description "Reitit: clojure.spec coercion", :created 1601125860858}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.6", :description "Reitit: Malli coercion", :created 1601125876417}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.6", :description "Reitit: Plumatic Schema coercion", :created 1601125893100}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.6", :description "Reitit: Ring routing", :created 1601125909555}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.6", :description "Reitit, common middleware bundled", :created 1601125932013}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.6", :description "Reitit: HTTP routing with interceptors", :created 1601125949308}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.6", :description "Reitit, common interceptors bundled", :created 1601125963999}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.6", :description "Reitit: Swagger-support", :created 1601125983294}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.6", :description "Reitit: Swagger-ui support", :created 1601126000420}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.6", :description "Reitit: Clojurescript frontend routing core", :created 1601126015211}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.6", :description "Reitit: Sieppari Interceptors", :created 1601126031198}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.6", :description "Reitit + Pedestal Integration", :created 1601126052569}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.6", :description "Snappy data-driven router for Clojure(Script)", :created 1601126084691}
+{:jar_name "eg", :group_name "eg", :version "0.5.1-alpha", :description "eg delivers clojure.test function tests with conciseness.", :created 1601126218066}
+{:jar_name "encore", :group_name "com.taoensso", :version "3.3.0", :description "Core utils library for Clojure/Script", :created 1601127862269}
