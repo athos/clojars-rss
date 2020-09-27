@@ -1,6 +1,3 @@
-{:jar_name "server.figwheel-main", :group_name "hydrogen", :version "0.1.2", :description "Integrant methods for running Figwheel Main", :created 1600702736455}
-{:jar_name "verter", :group_name "tolitius", :version "0.1.9", :description "curator of the institute of time", :created 1600703135952}
-{:jar_name "module.cljs", :group_name "hydrogen", :version "0.5.1", :description "Duct module for developing and compiling ClojureScript", :created 1600703311940}
 {:jar_name "ids", :group_name "wormbase", :version "0.6.5", :description nil, :created 1600707686899}
 {:jar_name "timbre", :group_name "com.taoensso", :version "5.0.0", :description "Pure Clojure/Script logging library", :created 1600715007971}
 {:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha40", :description "OpenCompany Common Library", :created 1600717793260}
@@ -254,3 +251,6 @@
 {:jar_name "babashka", :group_name "borkdude", :version "0.2.2-SNAPSHOT", :description "babashka", :created 1601209636727}
 {:jar_name "ziggurat", :group_name "tech.gojek", :version "3.5.0", :description "A stream processing framework to build stateless applications on kafka", :created 1601209703383}
 {:jar_name "selmer", :group_name "selmer", :version "1.12.29", :description "Django style templates for Clojure", :created 1601215401075}
+{:jar_name "clj-api", :group_name "polylith", :version "0.1.0-alpha2", :description "Used to access Polylith as a library.", :created 1601218391442}
+{:jar_name "clj-poly-migrator", :group_name "polylith", :version "0.1.0-alpha2", :description "Used to migrate from lein-polyith to the new Polylith tool.", :created 1601218409573}
+{:jar_name "clj-poly", :group_name "polylith", :version "0.1.0-alpha2", :description "Poly is Polylith's command line interface for Clojure.", :created 1601218429431}
