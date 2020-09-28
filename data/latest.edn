@@ -1,4 +1,3 @@
-{:jar_name "lein-zprint", :group_name "lein-zprint", :version "1.0.1", :description "Run zprint to pretty print source files in your project.", :created 1600791035890}
 {:jar_name "unifier", :group_name "ninja.anywhere", :version "0.1.0", :description "A simple response unifier", :created 1600792552704}
 {:jar_name "js-interop", :group_name "com.wsscode", :version "0.0.1-SNAPSHOT", :description "Library to provide alternative tools to interop between Clojurescript immutable data structures and JSON.", :created 1600798937576}
 {:jar_name "verter", :group_name "tolitius", :version "0.1.10", :description "curator of the institute of time", :created 1600802207835}
@@ -67,7 +66,6 @@
 {:jar_name "trapperkeeper", :group_name "threatgrid", :version "3.1.0", :description "A framework for configuring, composing, and running Clojure services.", :created 1600883876419}
 {:jar_name "workspaces", :group_name "petardo", :version "1.0.16-RC1", :description "Work environments for development of web apps.", :created 1600884032304}
 {:jar_name "trapperkeeper-webserver-jetty9", :group_name "threatgrid", :version "4.2.0", :description "A jetty9-based webserver implementation for use with the puppetlabs/trapperkeeper service framework.", :created 1600884276668}
-{:jar_name "fowl", :group_name "onto.aaroneberhart", :version "0.0.1-SNAPSHOT", :description "(f OWL) is a minimalistic functional programming style ontology editor", :created 1600884335632}
 {:jar_name "re-state", :group_name "maximgb", :version "1.2.0", :description "Re-frame supplimentary library which routes dispatched events via statecharts implementing final state machines.", :created 1600893688345}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "4.6.6", :description "", :created 1600893992096}
 {:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha44", :description "OpenCompany Common Library", :created 1600894161208}
@@ -193,7 +191,6 @@
 {:jar_name "prelude", :group_name "org.clojars.quadmir", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1601203552679}
 {:jar_name "clj-poly", :group_name "polylith", :version "0.1.0-alpha1", :description nil, :created 1601203631670}
 {:jar_name "jackdaw", :group_name "bunker-inspector", :version "0.7.7-main-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1601207276976}
-{:jar_name "babashka", :group_name "borkdude", :version "0.2.2-SNAPSHOT", :description "babashka", :created 1601209636727}
 {:jar_name "ziggurat", :group_name "tech.gojek", :version "3.5.0", :description "A stream processing framework to build stateless applications on kafka", :created 1601209703383}
 {:jar_name "selmer", :group_name "selmer", :version "1.12.29", :description "Django style templates for Clojure", :created 1601215401075}
 {:jar_name "clj-api", :group_name "polylith", :version "0.1.0-alpha2", :description "Used to access Polylith as a library.", :created 1601218391442}
@@ -217,7 +214,6 @@
 {:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v0.0.57", :description "A client library for Vald.", :created 1601269983584}
 {:jar_name "hystrix-optimizer", :group_name "io.phonepe", :version "1.0.4-SNAPSHOT", :description nil, :created 1601271965984}
 {:jar_name "clj-ksql", :group_name "clj-ksql", :version "0.11.0-2-snapshot", :description "Clojure client for ksql", :created 1601281955200}
-{:jar_name "mxweb", :group_name "tiltontec", :version "0.1.7-SNAPSHOT", :description "A Web un-Framework for the Matrix (dataflow library)", :created 1601283714024}
 {:jar_name "spec-dict", :group_name "spec-dict", :version "0.2.1", :description "Better s/keys spec for Clojure", :created 1601290251780}
 {:jar_name "hasch", :group_name "io.replikativ", :version "0.3.8-SNAPSHOT", :description nil, :created 1601291666463}
 {:jar_name "datahike", :group_name "io.replikativ", :version "0.3.2-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1601291675658}
@@ -254,3 +250,7 @@
 {:jar_name "incognito", :group_name "io.replikativ", :version "0.2.7-SNAPSHOT", :description "Safe transport of unknown record types in distributed systems.", :created 1601321294699}
 {:jar_name "hitchhiker-tree", :group_name "timokramer", :version "0.1.10-SNAPSHOT", :description "A Hitchhiker Tree Library", :created 1601322016993}
 {:jar_name "hitchhiker-tree", :group_name "io.replikativ", :version "0.1.10-SNAPSHOT", :description "A Hitchhiker Tree Library", :created 1601322745028}
+{:jar_name "mxweb", :group_name "tiltontec", :version "0.1.7-SNAPSHOT", :description "A Web un-Framework for the Matrix (dataflow library)", :created 1601324233283}
+{:jar_name "fowl", :group_name "onto.aaroneberhart", :version "0.0.1-SNAPSHOT", :description "(f OWL) is a minimalistic functional programming style ontology editor", :created 1601324926524}
+{:jar_name "calfpath", :group_name "calfpath", :version "0.8.0-alpha3", :description "A la carte ring request matching", :created 1601327404317}
+{:jar_name "babashka", :group_name "borkdude", :version "0.2.2-SNAPSHOT", :description "babashka", :created 1601327461869}
