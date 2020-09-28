@@ -1,6 +1,3 @@
-{:jar_name "martian-httpkit", :group_name "martian-httpkit", :version "0.1.15-SNAPSHOT", :description "httpkit implementation for martian", :created 1600768542173}
-{:jar_name "martian-test", :group_name "martian-test", :version "0.1.15-SNAPSHOT", :description "Testing tools for martian", :created 1600768557172}
-{:jar_name "yummy", :group_name "exoscale", :version "0.2.10", :description "YAML configuration for Clojure application", :created 1600771492986}
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.0-SNAPSHOT", :description "basic example using gorilla-ui", :created 1600772415022}
 {:jar_name "ziggurat", :group_name "tech.gojek", :version "3.4.2-alpha.4", :description "A stream processing framework to build stateless applications on kafka", :created 1600775770612}
 {:jar_name "tongue", :group_name "tongue", :version "0.2.10", :description "DIY i18n library for Clojure/Script", :created 1600775809929}
@@ -149,7 +146,6 @@
 {:jar_name "babashka", :group_name "borkdude", :version "0.2.1-SNAPSHOT", :description "babashka", :created 1601029663909}
 {:jar_name "vertx-service-discovery-backend-ranger", :group_name "io.raven.vertx", :version "3.9.1-6", :description nil, :created 1601031738842}
 {:jar_name "matlib", :group_name "matlib", :version "0.1.9", :description "A Clojure library of optimisation and control theory tools and convenience functions based on Neanderthal.", :created 1601032373647}
-{:jar_name "gungnir", :group_name "kwrooijen", :version "0.0.1-SNAPSHOT", :description "High level Clojure database library", :created 1601032541091}
 {:jar_name "lein-shadow", :group_name "lein-shadow", :version "0.3.1", :description "A Leiningen plugin to help keep your project configuration in your project.clj file when using shadow-cljs", :created 1601033024014}
 {:jar_name "clostack", :group_name "exoscale", :version "0.2.22", :description "clojure cloudstack client", :created 1601033073139}
 {:jar_name "vertx-service-discovery-backend-ranger", :group_name "io.raven.vertx", :version "3.9.1-7", :description nil, :created 1601033186819}
@@ -254,3 +250,7 @@
 {:jar_name "eines", :group_name "metosin", :version "0.1.0-SNAPSHOT", :description "Simple clj/cljs library for WebSocket communication", :created 1601294562732}
 {:jar_name "crux-active-objects", :group_name "avisi-apps", :version "1.1.0", :description "", :created 1601295603323}
 {:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.53", :description "Simply Core Libs", :created 1601295791105}
+{:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha46", :description "OpenCompany Common Library", :created 1601298814985}
+{:jar_name "gungnir", :group_name "kwrooijen", :version "0.0.1-SNAPSHOT", :description "High level Clojure database library", :created 1601298997997}
+{:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.4.2-SNAPSHOT", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1601301173404}
+{:jar_name "riemann", :group_name "riemann", :version "0.3.6", :description "A network event stream processor. Intended for analytics, metrics, and alerting; and to glue various monitoring systems together.", :created 1601301215273}
