@@ -1,26 +1,3 @@
-{:jar_name "konserve-jdbc", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A generic JDBC backend for konserve.", :created 1600836934782}
-{:jar_name "konserve-redis", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A redis backend for konserve using carmine.", :created 1600837149124}
-{:jar_name "mount-lite", :group_name "robhanlon22", :version "2.1.9", :description "mount, but different and light", :created 1600838612147}
-{:jar_name "netcdf", :group_name "theophilusx", :version "1.0.0", :description "Basic support for reading NetCDF 4 data files", :created 1600842902272}
-{:jar_name "exoscale", :group_name "exoscale", :version "0.1.18", :description "All things Exoscale, in Clojure", :created 1600842940737}
-{:jar_name "user.tools.deps.alpha", :group_name "user.tools.deps.alpha", :version "2020.267.25958", :description nil, :created 1600845166737}
-{:jar_name "user.jsoup", :group_name "user.jsoup", :version "2020.267.26928", :description nil, :created 1600846135574}
-{:jar_name "timbre", :group_name "com.taoensso", :version "5.0.1", :description "Pure Clojure/Script logging library", :created 1600852589834}
-{:jar_name "konserve-couchdb", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A couchdb backend for konserve using clutch.", :created 1600853246529}
-{:jar_name "pubsub", :group_name "magnet", :version "0.3.5", :description "Duct + Integrant library wrapping MQTT & AQMP publish/subcribe clients with a common boundary protocol", :created 1600854816837}
-{:jar_name "fulcro-websockets", :group_name "com.fulcrologic", :version "3.1.2", :description nil, :created 1600862125759}
-{:jar_name "rabid", :group_name "rabid", :version "2.10.0", :description "Robust RabbitMQ made easy", :created 1600862377902}
-{:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.3.5-SNAPSHOT", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1600864028075}
-{:jar_name "rabid", :group_name "rabid", :version "2.10.1", :description "Robust RabbitMQ made easy", :created 1600864914731}
-{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867395365}
-{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867408532}
-{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867421391}
-{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867434142}
-{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867447357}
-{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867460876}
-{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867474083}
-{:jar_name "blueprint", :group_name "exoscale", :version "0.2.19", :description "Data definitions for APIs", :created 1600867487491}
-{:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.3.5", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1600867524028}
 {:jar_name "fulcro-spec", :group_name "fulcrologic", :version "3.1.8", :description "Helper Macros for clj and cljs test", :created 1600867622009}
 {:jar_name "firestream", :group_name "alekcz", :version "2.0.0-SNAPSHOT", :description "firestream: kafkaesque streams built on firebase", :created 1600872499226}
 {:jar_name "piped", :group_name "org.clojars.rutledgepaulv", :version "0.1.1", :description "A library for processing AWS SQS messages from a Clojure application.", :created 1600872511197}
@@ -254,3 +231,26 @@
 {:jar_name "cambium.codec-simple", :group_name "cambium", :version "1.0.0", :description "Simple Cambium codec with no support for nested log attributes", :created 1601387400649}
 {:jar_name "cambium.core", :group_name "cambium", :version "1.0.0", :description "Core module for the Cambium logging API", :created 1601388124359}
 {:jar_name "cambium.codec-cheshire", :group_name "cambium", :version "1.0.0", :description "A nesting-aware codec for Cambium using Cheshire", :created 1601388699527}
+{:jar_name "jepsen", :group_name "jepsen", :version "0.2.1", :description "Distributed systems testing framework.", :created 1601389210125}
+{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390221371}
+{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390236090}
+{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390250325}
+{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390264812}
+{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390280559}
+{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390294634}
+{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390310269}
+{:jar_name "blueprint", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390326936}
+{:jar_name "crux-core", :group_name "juxt", :version "20.09-1.12.1-beta", :description "An open source document database with bitemporal graph queries", :created 1601390360406}
+{:jar_name "crux-rdf", :group_name "juxt", :version "20.09-1.12.1-alpha", :description "Crux RDF", :created 1601390371117}
+{:jar_name "crux-metrics", :group_name "juxt", :version "20.09-1.12.1-alpha", :description "Provides Metrics for Crux nodes", :created 1601390382792}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.09-1.12.1-beta", :description "Crux RocksDB", :created 1601390393851}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "20.09-1.12.1-alpha", :description "Crux LMDB", :created 1601390404119}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.09-1.12.1-beta", :description "Crux JDBC", :created 1601390414298}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.09-1.12.1-beta", :description "Crux HTTP Client", :created 1601390424797}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.09-1.12.1-alpha", :description "Crux HTTP Server", :created 1601390437376}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.09-1.12.1-beta", :description "Crux Kafka Embedded", :created 1601390448352}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.09-1.12.1-beta", :description "Crux Kafka Connect", :created 1601390460303}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.09-1.12.1-beta", :description "Crux Kafka", :created 1601390473350}
+{:jar_name "crux-test", :group_name "juxt", :version "20.09-1.12.1", :description "Crux Tests Project", :created 1601390496552}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.09-1.12.1-beta", :description "", :created 1601390508932}
+{:jar_name "crux-bench", :group_name "juxt", :version "20.09-1.12.1", :description "", :created 1601390539165}

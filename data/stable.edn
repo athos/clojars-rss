@@ -1,26 +1,3 @@
-{:jar_name "hitchhiker-tree", :group_name "io.replikativ", :version "0.1.9", :description "A Hitchhiker Tree Library", :created 1600628483109}
-{:jar_name "flow-storm", :group_name "jpmonettas", :version "0.2.1", :description "", :created 1600632843293}
-{:jar_name "debux-stubs", :group_name "philoskim", :version "0.7.6", :description "Debux library for production", :created 1600656956856}
-{:jar_name "debux", :group_name "philoskim", :version "0.7.6", :description "A trace-based debugging library for Clojure and ClojureScript", :created 1600658234000}
-{:jar_name "vertx-service-discovery-backend-ranger", :group_name "io.raven.vertx", :version "3.9.1-3", :description nil, :created 1600659343392}
-{:jar_name "lilac", :group_name "mvc-works", :version "0.1.7-a1", :description nil, :created 1600661020945}
-{:jar_name "parent", :group_name "io.jesi", :version "4.2.0", :description "Clojure and NPM parent package definitions", :created 1600662157417}
-{:jar_name "customs", :group_name "io.jesi", :version "1.2.0", :description "Clojure(Script) cross-project testing utilities", :created 1600662174725}
-{:jar_name "yummy", :group_name "exoscale", :version "0.2.9", :description "YAML configuration for Clojure application", :created 1600675729496}
-{:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.50", :description "Simply Core Libs", :created 1600676528240}
-{:jar_name "gorilla-notes", :group_name "scicloj", :version "0.4.0", :description "basic example using gorilla-ui", :created 1600687461067}
-{:jar_name "notespace", :group_name "scicloj", :version "3-alpha2", :description "Notebook experience in your Clojure namespace.", :created 1600687667717}
-{:jar_name "matcher-combinators", :group_name "nubank", :version "3.1.2", :description "Library for creating matcher combinator to compare nested data structures", :created 1600689292133}
-{:jar_name "clj-gcp", :group_name "ovotech", :version "0.6.7", :description "Clojure utilities for the Google Cloud Platform", :created 1600701163272}
-{:jar_name "server.figwheel-main", :group_name "hydrogen", :version "0.1.2", :description "Integrant methods for running Figwheel Main", :created 1600702736455}
-{:jar_name "verter", :group_name "tolitius", :version "0.1.9", :description "curator of the institute of time", :created 1600703135952}
-{:jar_name "module.cljs", :group_name "hydrogen", :version "0.5.1", :description "Duct module for developing and compiling ClojureScript", :created 1600703311940}
-{:jar_name "ids", :group_name "wormbase", :version "0.6.5", :description nil, :created 1600707686899}
-{:jar_name "timbre", :group_name "com.taoensso", :version "5.0.0", :description "Pure Clojure/Script logging library", :created 1600715007971}
-{:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha40", :description "OpenCompany Common Library", :created 1600717793260}
-{:jar_name "cljdub-dsp", :group_name "dragoon", :version "1.3.0", :description "Sound processing library that allows usage of pydub library's functionality in Clojure as well as provides interface for interaction between pydub and TarsosDSP libraries", :created 1600720405374}
-{:jar_name "zprint", :group_name "zprint", :version "1.0.1", :description "Pretty print zippers and s-expressions", :created 1600727210611}
-{:jar_name "http-client", :group_name "puppetlabs", :version "1.2.0", :description "HTTP client wrapper", :created 1600731910892}
 {:jar_name "clj-polyglot", :group_name "wavejumper", :version "1.0.7", :description "Clojure library for graal's polyglot functionality", :created 1600732151403}
 {:jar_name "config-component", :group_name "eduardoeof", :version "1.1.0", :description "A stuartsierra/component for config files in JSON, YAML and EDN formats.", :created 1600740323217}
 {:jar_name "graphique", :group_name "dev.gpeltier", :version "0.1.0", :description "Utility to visualize and interact with graph data from the\n                REPL", :created 1600748306996}
@@ -254,3 +231,26 @@
 {:jar_name "cambium.codec-simple", :group_name "cambium", :version "1.0.0", :description "Simple Cambium codec with no support for nested log attributes", :created 1601387400649}
 {:jar_name "cambium.core", :group_name "cambium", :version "1.0.0", :description "Core module for the Cambium logging API", :created 1601388124359}
 {:jar_name "cambium.codec-cheshire", :group_name "cambium", :version "1.0.0", :description "A nesting-aware codec for Cambium using Cheshire", :created 1601388699527}
+{:jar_name "jepsen", :group_name "jepsen", :version "0.2.1", :description "Distributed systems testing framework.", :created 1601389210125}
+{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390221371}
+{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390236090}
+{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390250325}
+{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390264812}
+{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390280559}
+{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390294634}
+{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390310269}
+{:jar_name "blueprint", :group_name "exoscale", :version "0.2.20", :description "Data definitions for APIs", :created 1601390326936}
+{:jar_name "crux-core", :group_name "juxt", :version "20.09-1.12.1-beta", :description "An open source document database with bitemporal graph queries", :created 1601390360406}
+{:jar_name "crux-rdf", :group_name "juxt", :version "20.09-1.12.1-alpha", :description "Crux RDF", :created 1601390371117}
+{:jar_name "crux-metrics", :group_name "juxt", :version "20.09-1.12.1-alpha", :description "Provides Metrics for Crux nodes", :created 1601390382792}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.09-1.12.1-beta", :description "Crux RocksDB", :created 1601390393851}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "20.09-1.12.1-alpha", :description "Crux LMDB", :created 1601390404119}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.09-1.12.1-beta", :description "Crux JDBC", :created 1601390414298}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.09-1.12.1-beta", :description "Crux HTTP Client", :created 1601390424797}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.09-1.12.1-alpha", :description "Crux HTTP Server", :created 1601390437376}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.09-1.12.1-beta", :description "Crux Kafka Embedded", :created 1601390448352}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.09-1.12.1-beta", :description "Crux Kafka Connect", :created 1601390460303}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.09-1.12.1-beta", :description "Crux Kafka", :created 1601390473350}
+{:jar_name "crux-test", :group_name "juxt", :version "20.09-1.12.1", :description "Crux Tests Project", :created 1601390496552}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.09-1.12.1-beta", :description "", :created 1601390508932}
+{:jar_name "crux-bench", :group_name "juxt", :version "20.09-1.12.1", :description "", :created 1601390539165}
