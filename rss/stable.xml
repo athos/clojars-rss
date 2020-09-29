@@ -4,7 +4,37 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 29 Sep 2020 11:10:47 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2020 12:15:24 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/cnuernber/dtype-next/versions/0.4.0</guid>
+    <title>[cnuernber/dtype-next &quot;0.4.0&quot;]</title>
+    <link>https://clojars.org/cnuernber/dtype-next/versions/0.4.0</link>
+    <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.
+
+This library implements a subset of functionality required for &#39;array&#39; programming as well as several
+index-space algorithms for use with multiple arrays that share an index space.
+
+
+There is a top level interface in Java named Buffer that implements a generic typed read and write interface.
+This interface includes queries as to whether it is capable of reading or writing.
+
+
+There is an of that interface built on java arrays that is denoted by the keyword :jvm-heap
+and there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.
+
+
+From here we have implementations of the interface to allow generic permutations in index space or
+an implementation of the Buffer interface that returns a constant value.
+
+
+We have operations for working in index space in tech.v3.datatype.argops and a functional math and
+descriptive statistics namespace - tech.v3.datatype.functional.
+
+
+Combining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has
+a zerocopy pathway from/to neanderthal, numpy, and java&#39;s BufferdImage class.</description>
+    <pubDate>Tue, 29 Sep 2020 12:12:27 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/exoscale/ex-http/versions/0.3.15</guid>
     <title>[exoscale/ex-http &quot;0.3.15&quot;]</title>
@@ -1797,13 +1827,6 @@ high performance algorithms and systems</description>
     <link>https://clojars.org/com.taoensso/nippy/versions/3.0.0</link>
     <description>High-performance serialization library for Clojure</description>
     <pubDate>Sun, 20 Sep 2020 11:04:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/za.co.simply/simply-ux/versions/1.0.11</guid>
-    <title>[za.co.simply/simply-ux &quot;1.0.11&quot;]</title>
-    <link>https://clojars.org/za.co.simply/simply-ux/versions/1.0.11</link>
-    <description></description>
-    <pubDate>Sun, 20 Sep 2020 08:39:34 +0000</pubDate>
   </item>
   </channel>
 </rss>
