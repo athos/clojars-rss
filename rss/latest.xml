@@ -4,7 +4,84 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 1 Oct 2020 13:15:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 1 Oct 2020 14:12:56 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/dda/dda-k8s-crate/versions/0.2.0</guid>
+    <title>[dda/dda-k8s-crate &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/dda/dda-k8s-crate/versions/0.2.0</link>
+    <description>Module for installing a server with kubeadm</description>
+    <pubDate>Thu, 1 Oct 2020 14:12:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/bract/bract.cli/versions/0.6.2-0.1.1-alpha1</guid>
+    <title>[bract/bract.cli &quot;0.6.2-0.1.1-alpha1&quot;]</title>
+    <link>https://clojars.org/bract/bract.cli/versions/0.6.2-0.1.1-alpha1</link>
+    <description>CLI module for Bract</description>
+    <pubDate>Thu, 1 Oct 2020 14:06:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.rutledgepaulv/ring-firewall-middleware/versions/0.1.1</guid>
+    <title>[org.clojars.rutledgepaulv/ring-firewall-middleware &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/org.clojars.rutledgepaulv/ring-firewall-middleware/versions/0.1.1</link>
+    <description>A library for filtering ring requests by client ip address.</description>
+    <pubDate>Thu, 1 Oct 2020 13:47:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/exoscale/blueprint/versions/0.2.22</guid>
+    <title>[exoscale/blueprint &quot;0.2.22&quot;]</title>
+    <link>https://clojars.org/exoscale/blueprint/versions/0.2.22</link>
+    <description>Data definitions for APIs</description>
+    <pubDate>Thu, 1 Oct 2020 13:19:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/exoscale/blueprint-reporter/versions/0.2.22</guid>
+    <title>[exoscale/blueprint-reporter &quot;0.2.22&quot;]</title>
+    <link>https://clojars.org/exoscale/blueprint-reporter/versions/0.2.22</link>
+    <description>Data definitions for APIs</description>
+    <pubDate>Thu, 1 Oct 2020 13:19:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/exoscale/blueprint-server/versions/0.2.22</guid>
+    <title>[exoscale/blueprint-server &quot;0.2.22&quot;]</title>
+    <link>https://clojars.org/exoscale/blueprint-server/versions/0.2.22</link>
+    <description>Data definitions for APIs</description>
+    <pubDate>Thu, 1 Oct 2020 13:19:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/exoscale/blueprint-client/versions/0.2.22</guid>
+    <title>[exoscale/blueprint-client &quot;0.2.22&quot;]</title>
+    <link>https://clojars.org/exoscale/blueprint-client/versions/0.2.22</link>
+    <description>Data definitions for APIs</description>
+    <pubDate>Thu, 1 Oct 2020 13:19:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/exoscale/blueprint-handler/versions/0.2.22</guid>
+    <title>[exoscale/blueprint-handler &quot;0.2.22&quot;]</title>
+    <link>https://clojars.org/exoscale/blueprint-handler/versions/0.2.22</link>
+    <description>Data definitions for APIs</description>
+    <pubDate>Thu, 1 Oct 2020 13:18:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/exoscale/blueprint-router/versions/0.2.22</guid>
+    <title>[exoscale/blueprint-router &quot;0.2.22&quot;]</title>
+    <link>https://clojars.org/exoscale/blueprint-router/versions/0.2.22</link>
+    <description>Data definitions for APIs</description>
+    <pubDate>Thu, 1 Oct 2020 13:18:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/exoscale/blueprint-openapi/versions/0.2.22</guid>
+    <title>[exoscale/blueprint-openapi &quot;0.2.22&quot;]</title>
+    <link>https://clojars.org/exoscale/blueprint-openapi/versions/0.2.22</link>
+    <description>Data definitions for APIs</description>
+    <pubDate>Thu, 1 Oct 2020 13:18:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/exoscale/blueprint-core/versions/0.2.22</guid>
+    <title>[exoscale/blueprint-core &quot;0.2.22&quot;]</title>
+    <link>https://clojars.org/exoscale/blueprint-core/versions/0.2.22</link>
+    <description>Data definitions for APIs</description>
+    <pubDate>Thu, 1 Oct 2020 13:18:14 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/talltale/versions/0.5.0</guid>
     <title>[talltale &quot;0.5.0&quot;]</title>
@@ -1795,83 +1872,6 @@ high performance algorithms and systems</description>
     <link>https://clojars.org/exoscale/clostack/versions/0.2.22</link>
     <description>clojure cloudstack client</description>
     <pubDate>Fri, 25 Sep 2020 11:24:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/lein-shadow/versions/0.3.1</guid>
-    <title>[lein-shadow &quot;0.3.1&quot;]</title>
-    <link>https://clojars.org/lein-shadow/versions/0.3.1</link>
-    <description>A Leiningen plugin to help keep your project configuration in your project.clj file when using shadow-cljs</description>
-    <pubDate>Fri, 25 Sep 2020 11:23:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/matlib/versions/0.1.9</guid>
-    <title>[matlib &quot;0.1.9&quot;]</title>
-    <link>https://clojars.org/matlib/versions/0.1.9</link>
-    <description>A Clojure library of optimisation and control theory tools and convenience functions based on Neanderthal.</description>
-    <pubDate>Fri, 25 Sep 2020 11:12:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.raven.vertx/vertx-service-discovery-backend-ranger/versions/3.9.1-6</guid>
-    <title>[io.raven.vertx/vertx-service-discovery-backend-ranger &quot;3.9.1-6&quot;]</title>
-    <link>https://clojars.org/io.raven.vertx/vertx-service-discovery-backend-ranger/versions/3.9.1-6</link>
-    <description></description>
-    <pubDate>Fri, 25 Sep 2020 11:02:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/borkdude/babashka/versions/0.2.1-SNAPSHOT</guid>
-    <title>[borkdude/babashka &quot;0.2.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/borkdude/babashka/versions/0.2.1-SNAPSHOT</link>
-    <description>babashka</description>
-    <pubDate>Fri, 25 Sep 2020 10:27:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/za.co.simply/simply.core/versions/1.1.52</guid>
-    <title>[za.co.simply/simply.core &quot;1.1.52&quot;]</title>
-    <link>https://clojars.org/za.co.simply/simply.core/versions/1.1.52</link>
-    <description>Simply Core Libs</description>
-    <pubDate>Fri, 25 Sep 2020 10:11:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.senatehouse/http-kit/versions/2.5.0-httpsfix-1.1</guid>
-    <title>[org.senatehouse/http-kit &quot;2.5.0-httpsfix-1.1&quot;]</title>
-    <link>https://clojars.org/org.senatehouse/http-kit/versions/2.5.0-httpsfix-1.1</link>
-    <description>High-performance event-driven HTTP client/server for Clojure</description>
-    <pubDate>Fri, 25 Sep 2020 09:40:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/cloak/versions/0.1.2</guid>
-    <title>[exoscale/cloak &quot;0.1.2&quot;]</title>
-    <link>https://clojars.org/exoscale/cloak/versions/0.1.2</link>
-    <description></description>
-    <pubDate>Fri, 25 Sep 2020 08:38:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fork/versions/2.2.3</guid>
-    <title>[fork &quot;2.2.3&quot;]</title>
-    <link>https://clojars.org/fork/versions/2.2.3</link>
-    <description>Reagent &amp; Re-Frame form library</description>
-    <pubDate>Fri, 25 Sep 2020 08:31:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yle-clj-common/versions/3.6.0</guid>
-    <title>[yle-clj-common &quot;3.6.0&quot;]</title>
-    <link>https://clojars.org/yle-clj-common/versions/3.6.0</link>
-    <description>Code to support the way that Yle (Clojure) APIs are implemented.</description>
-    <pubDate>Fri, 25 Sep 2020 07:15:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.atomist/api-cljs/versions/0.4.105</guid>
-    <title>[com.atomist/api-cljs &quot;0.4.105&quot;]</title>
-    <link>https://clojars.org/com.atomist/api-cljs/versions/0.4.105</link>
-    <description></description>
-    <pubDate>Fri, 25 Sep 2020 06:35:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.atomist/skill-bundler/versions/0.1.22</guid>
-    <title>[com.atomist/skill-bundler &quot;0.1.22&quot;]</title>
-    <link>https://clojars.org/com.atomist/skill-bundler/versions/0.1.22</link>
-    <description></description>
-    <pubDate>Fri, 25 Sep 2020 06:23:50 +0000</pubDate>
   </item>
   </channel>
 </rss>
