@@ -4,7 +4,37 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 3 Oct 2020 17:10:55 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 3 Oct 2020 18:12:30 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/cnuernber/dtype-next/versions/0.4.7</guid>
+    <title>[cnuernber/dtype-next &quot;0.4.7&quot;]</title>
+    <link>https://clojars.org/cnuernber/dtype-next/versions/0.4.7</link>
+    <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.
+
+This library implements a subset of functionality required for &#39;array&#39; programming as well as several
+index-space algorithms for use with multiple arrays that share an index space.
+
+
+There is a top level interface in Java named Buffer that implements a generic typed read and write interface.
+This interface includes queries as to whether it is capable of reading or writing.
+
+
+There is an of that interface built on java arrays that is denoted by the keyword :jvm-heap
+and there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.
+
+
+From here we have implementations of the interface to allow generic permutations in index space or
+an implementation of the Buffer interface that returns a constant value.
+
+
+We have operations for working in index space in tech.v3.datatype.argops and a functional math and
+descriptive statistics namespace - tech.v3.datatype.functional.
+
+
+Combining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has
+a zerocopy pathway from/to neanderthal, numpy, and java&#39;s BufferdImage class.</description>
+    <pubDate>Sat, 3 Oct 2020 17:59:57 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/meander/epsilon/versions/0.0.508</guid>
     <title>[meander/epsilon &quot;0.0.508&quot;]</title>
@@ -1956,13 +1986,6 @@ high performance algorithms and systems</description>
     <description>A Clojure library designed to aid in the implementaion of
 high performance algorithms and systems</description>
     <pubDate>Fri, 25 Sep 2020 14:13:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/matlib/versions/0.1.10</guid>
-    <title>[matlib &quot;0.1.10&quot;]</title>
-    <link>https://clojars.org/matlib/versions/0.1.10</link>
-    <description>A Clojure library of optimisation and control theory tools and convenience functions based on Neanderthal.</description>
-    <pubDate>Fri, 25 Sep 2020 13:57:33 +0000</pubDate>
   </item>
   </channel>
 </rss>
