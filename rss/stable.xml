@@ -4,7 +4,58 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 3 Oct 2020 14:12:34 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 3 Oct 2020 15:11:16 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.taoensso/encore/versions/3.6.0</guid>
+    <title>[com.taoensso/encore &quot;3.6.0&quot;]</title>
+    <link>https://clojars.org/com.taoensso/encore/versions/3.6.0</link>
+    <description>Core utils library for Clojure/Script</description>
+    <pubDate>Sat, 3 Oct 2020 15:07:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ageneau/cljc-library.lein-template/versions/0.2.0</guid>
+    <title>[ageneau/cljc-library.lein-template &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/ageneau/cljc-library.lein-template/versions/0.2.0</link>
+    <description>Leiningen template for libraries with better release cycle.</description>
+    <pubDate>Sat, 3 Oct 2020 15:05:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/theorems/moncee/versions/0.8.0</guid>
+    <title>[theorems/moncee &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/theorems/moncee/versions/0.8.0</link>
+    <description></description>
+    <pubDate>Sat, 3 Oct 2020 14:42:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cnuernber/dtype-next/versions/0.4.6</guid>
+    <title>[cnuernber/dtype-next &quot;0.4.6&quot;]</title>
+    <link>https://clojars.org/cnuernber/dtype-next/versions/0.4.6</link>
+    <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.
+
+This library implements a subset of functionality required for &#39;array&#39; programming as well as several
+index-space algorithms for use with multiple arrays that share an index space.
+
+
+There is a top level interface in Java named Buffer that implements a generic typed read and write interface.
+This interface includes queries as to whether it is capable of reading or writing.
+
+
+There is an of that interface built on java arrays that is denoted by the keyword :jvm-heap
+and there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.
+
+
+From here we have implementations of the interface to allow generic permutations in index space or
+an implementation of the Buffer interface that returns a constant value.
+
+
+We have operations for working in index space in tech.v3.datatype.argops and a functional math and
+descriptive statistics namespace - tech.v3.datatype.functional.
+
+
+Combining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has
+a zerocopy pathway from/to neanderthal, numpy, and java&#39;s BufferdImage class.</description>
+    <pubDate>Sat, 3 Oct 2020 14:15:18 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.taoensso/encore/versions/3.5.1</guid>
     <title>[com.taoensso/encore &quot;3.5.1&quot;]</title>
@@ -1913,34 +1964,6 @@ high performance algorithms and systems</description>
     <link>https://clojars.org/io.raven.vertx/vertx-service-discovery-backend-ranger/versions/3.9.1-7</link>
     <description></description>
     <pubDate>Fri, 25 Sep 2020 11:26:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/clostack/versions/0.2.22</guid>
-    <title>[exoscale/clostack &quot;0.2.22&quot;]</title>
-    <link>https://clojars.org/exoscale/clostack/versions/0.2.22</link>
-    <description>clojure cloudstack client</description>
-    <pubDate>Fri, 25 Sep 2020 11:24:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/lein-shadow/versions/0.3.1</guid>
-    <title>[lein-shadow &quot;0.3.1&quot;]</title>
-    <link>https://clojars.org/lein-shadow/versions/0.3.1</link>
-    <description>A Leiningen plugin to help keep your project configuration in your project.clj file when using shadow-cljs</description>
-    <pubDate>Fri, 25 Sep 2020 11:23:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/matlib/versions/0.1.9</guid>
-    <title>[matlib &quot;0.1.9&quot;]</title>
-    <link>https://clojars.org/matlib/versions/0.1.9</link>
-    <description>A Clojure library of optimisation and control theory tools and convenience functions based on Neanderthal.</description>
-    <pubDate>Fri, 25 Sep 2020 11:12:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.raven.vertx/vertx-service-discovery-backend-ranger/versions/3.9.1-6</guid>
-    <title>[io.raven.vertx/vertx-service-discovery-backend-ranger &quot;3.9.1-6&quot;]</title>
-    <link>https://clojars.org/io.raven.vertx/vertx-service-discovery-backend-ranger/versions/3.9.1-6</link>
-    <description></description>
-    <pubDate>Fri, 25 Sep 2020 11:02:18 +0000</pubDate>
   </item>
   </channel>
 </rss>
