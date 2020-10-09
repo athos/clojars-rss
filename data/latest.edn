@@ -1,12 +1,3 @@
-{:jar_name "java-http-clj", :group_name "com.owainlewis", :version "0.2.1-SNAPSHOT", :description "Clojure HTTP client based on the Java 11+ HTTP client", :created 1601582210227}
-{:jar_name "auth", :group_name "clj-pkg", :version "0.0.2", :description "Clojure authenticator via oauth2", :created 1601582646809}
-{:jar_name "fulcro-rad-datomic", :group_name "com.fulcrologic", :version "1.0.1", :description "A Datomic database driver for Fulcro RAD.", :created 1601583081464}
-{:jar_name "fulcro-rad-datomic", :group_name "com.fulcrologic", :version "1.0.3", :description "A Datomic database driver for Fulcro RAD.", :created 1601583702643}
-{:jar_name "jsonista", :group_name "com.jeaye", :version "2020.10.01-1", :description "Clojure library for fast JSON encoding and decoding.", :created 1601585773934}
-{:jar_name "hyperion-mongo", :group_name "jenriquecerda", :version "3.12.7", :description "Mongo Datastore for Hyperion", :created 1601586564000}
-{:jar_name "utils", :group_name "org.clojars.bost", :version "0.0.0-43-0x8a82", :description "FIXME: write description", :created 1601590375686}
-{:jar_name "dtype-next", :group_name "cnuernber", :version "0.4.3", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.\n\nThis library implements a subset of functionality required for 'array' programming as well as several\nindex-space algorithms for use with multiple arrays that share an index space.\n\n\nThere is a top level interface in Java named Buffer that implements a generic typed read and write interface.\nThis interface includes queries as to whether it is capable of reading or writing.\n\n\nThere is an of that interface built on java arrays that is denoted by the keyword :jvm-heap\nand there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.\n\n\nFrom here we have implementations of the interface to allow generic permutations in index space or\nan implementation of the Buffer interface that returns a constant value.\n\n\nWe have operations for working in index space in tech.v3.datatype.argops and a functional math and\ndescriptive statistics namespace - tech.v3.datatype.functional.\n\n\nCombining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has\na zerocopy pathway from/to neanderthal, numpy, and java's BufferdImage class.", :created 1601590714931}
-{:jar_name "expound", :group_name "expound", :version "0.8.6", :description "Human-optimized error messages for clojure.spec", :created 1601598182717}
 {:jar_name "selmer", :group_name "selmer", :version "1.12.31", :description "Django style templates for Clojure", :created 1601601240743}
 {:jar_name "replr", :group_name "replr", :version "0.1.5", :description "read your code base", :created 1601611575692}
 {:jar_name "state-flow", :group_name "nubank", :version "5.6.0", :description "Integration testing with composable flows", :created 1601628700375}
@@ -254,3 +245,12 @@
 {:jar_name "scopula", :group_name "scopula", :version "0.2.0", :description "Offers a scope convention mechanism to enhance control access.", :created 1602251508598}
 {:jar_name "oxbow", :group_name "oliyh", :version "0.1.3", :description "A Server Sent Events (SSE) client for cljs based on js/fetch", :created 1602252223541}
 {:jar_name "defteron.core", :group_name "defteron", :version "0.3.1", :description "Protobuf to clojure transformations", :created 1602252572117}
+{:jar_name "defteron.core", :group_name "defteron", :version "0.3.7", :description "Protobuf to clojure transformations", :created 1602254241679}
+{:jar_name "alia", :group_name "cc.qbits", :version "4.3.4", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1602255052163}
+{:jar_name "alia-spec", :group_name "cc.qbits", :version "4.3.4", :description "clojure.spec for Alia", :created 1602255067890}
+{:jar_name "alia-async", :group_name "cc.qbits", :version "4.3.4", :description "core.async interface for Alia", :created 1602255084477}
+{:jar_name "alia-component", :group_name "cc.qbits", :version "4.3.4", :description "Component integration for Alia", :created 1602255101128}
+{:jar_name "alia-java-time", :group_name "cc.qbits", :version "4.3.4", :description "Alia extension for joda-time codec", :created 1602255117703}
+{:jar_name "alia-joda-time", :group_name "cc.qbits", :version "4.3.4", :description "Alia extension for joda-time codec", :created 1602255136761}
+{:jar_name "alia-manifold", :group_name "cc.qbits", :version "4.3.4", :description "", :created 1602255154652}
+{:jar_name "graphql-inquiry", :group_name "graphql-inquiry", :version "0.2.0", :description "Converts clojure(script) data structures into GraphQL queries", :created 1602256319416}
