@@ -1,6 +1,3 @@
-{:jar_name "shade", :group_name "shade", :version "0.4.0", :description "Library for relocating namespaces within uberjars", :created 1601575612837}
-{:jar_name "lein-shade", :group_name "lein-shade", :version "0.4.0", :description "Leiningen plugin for relocating namespaces within uberjars", :created 1601575638087}
-{:jar_name "timbre", :group_name "com.taoensso", :version "5.1.0", :description "Pure Clojure/Script logging library", :created 1601577389563}
 {:jar_name "hyperion-mongo", :group_name "jenriquecerda", :version "4.1-SNAPSHOT", :description "Mongo Datastore for Hyperion", :created 1601578459633}
 {:jar_name "fowl", :group_name "onto.aaroneberhart", :version "0.0.1-SNAPSHOT", :description "(f OWL) is a minimalistic functional programming style ontology editor", :created 1601578965894}
 {:jar_name "flow-storm-debugger", :group_name "jpmonettas", :version "0.2.4", :description nil, :created 1601580480162}
@@ -179,7 +176,6 @@
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20201007-095027.de2ef674", :description nil, :created 1602064258955}
 {:jar_name "ids", :group_name "wormbase", :version "0.7.0-rc1", :description nil, :created 1602064560399}
 {:jar_name "tako", :group_name "tako", :version "0.1.0-SNAPSHOT", :description nil, :created 1602067051640}
-{:jar_name "ductile", :group_name "threatgrid", :version "0.2.0-SNAPSHOT", :description "Yet another Clojure client for Elasticsearch REST API, that fits our needs", :created 1602069023748}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20201007-115957.a5856bba", :description nil, :created 1602072038450}
 {:jar_name "kubectl", :group_name "exoscale", :version "0.1.6", :description "A wrapper around the kubectl CLI", :created 1602072373091}
 {:jar_name "re-val", :group_name "re-val", :version "0.1.2", :description "A form component and form validation library/API for re-frame.", :created 1602072439030}
@@ -254,3 +250,7 @@
 {:jar_name "coax", :group_name "exoscale", :version "1.0.0-alpha10", :description "exo spec-coerce fork", :created 1602239157802}
 {:jar_name "crux-active-objects", :group_name "avisi-apps", :version "1.1.1", :description nil, :created 1602242962125}
 {:jar_name "re-dnd", :group_name "re-dnd", :version "0.1.19", :description "A configurable drag/drop widget + API for re-frame apps", :created 1602245556643}
+{:jar_name "keepachangelog", :group_name "ageneau", :version "0.1.0", :description "", :created 1602246535295}
+{:jar_name "protojure", :group_name "protojure", :version "1.5.8", :description "Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications", :created 1602246655993}
+{:jar_name "oxbow", :group_name "oliyh", :version "0.1.2", :description "A Server Sent Events (SSE) client for cljs based on js/fetch", :created 1602247954374}
+{:jar_name "ductile", :group_name "threatgrid", :version "0.2.0-SNAPSHOT", :description "Yet another Clojure client for Elasticsearch REST API, that fits our needs", :created 1602248380901}
