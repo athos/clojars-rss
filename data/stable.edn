@@ -1,5 +1,3 @@
-{:jar_name "utils.modular", :group_name "com.nedap.staffing-solutions", :version "2.1.1", :description "Utilities for creating modular Clojure systems.", :created 1601533192965}
-{:jar_name "formative", :group_name "davewm", :version "0.8.10", :description "Web forms - rendering, parsing, and validating", :created 1601541783886}
 {:jar_name "jdi-light", :group_name "com.custom.jdi", :version "1.2.20-modified2", :description nil, :created 1601542990923}
 {:jar_name "jdi-light-html", :group_name "com.custom.jdi", :version "1.2.20-modified2", :description nil, :created 1601543017474}
 {:jar_name "lein-jlink", :group_name "lein-jlink", :version "0.3.1", :description "Package your Leiningen project as a standalone and stripped-down JVM using Java's jlink. Great for distribution and Docker images.", :created 1601543608613}
@@ -254,3 +252,5 @@
 {:jar_name "iced-nrepl", :group_name "iced-nrepl", :version "1.0.6", :description "nREPL middleware for vim-iced", :created 1602281132927}
 {:jar_name "leave-balance-service", :group_name "leave-balance-service", :version "0.2.1", :description "HTTP service that calculates end of year leave/pto balance.", :created 1602294921078}
 {:jar_name "lein-monolith", :group_name "lein-monolith", :version "1.6.1", :description "Leiningen plugin for managing subrojects within a monorepo.", :created 1602304061761}
+{:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.2.0", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1602312040580}
+{:jar_name "sqs-utils", :group_name "motiva", :version "0.10.0", :description "Higher level SQS utilities for use in Motiva products", :created 1602312472310}
