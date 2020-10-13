@@ -1,7 +1,3 @@
-{:jar_name "kubectl", :group_name "exoscale", :version "0.1.5", :description "A wrapper around the kubectl CLI", :created 1601989938956}
-{:jar_name "compliment", :group_name "compliment", :version "0.3.11", :description "The Clojure completion library you deserve", :created 1601993253225}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20201006-150909.828e1e50", :description nil, :created 1601996988044}
-{:jar_name "imcljs", :group_name "org.intermine", :version "1.2.0", :description "imcljs", :created 1601998557529}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20201006-154559.7565e8a8", :description nil, :created 1601999195185}
 {:jar_name "oxbow", :group_name "oliyh", :version "0.1.0-SNAPSHOT", :description "A Server Sent Events (SSE) client for cljs based on js/fetch", :created 1601999559320}
 {:jar_name "ring-core", :group_name "ring", :version "1.8.2", :description "Ring core libraries.", :created 1601999730668}
@@ -170,7 +166,6 @@
 {:jar_name "lilac", :group_name "mvc-works", :version "0.1.7", :description nil, :created 1602470530549}
 {:jar_name "ui", :group_name "respo", :version "0.3.16", :description nil, :created 1602470776553}
 {:jar_name "inflow-popup", :group_name "respo", :version "0.3.0", :description nil, :created 1602470935454}
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1602472019997}
 {:jar_name "skir", :group_name "mvc-works", :version "0.0.9", :description nil, :created 1602473574141}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20201012-044110.aa777487", :description nil, :created 1602477700556}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.8.0", :description "Core utils library for Clojure/Script", :created 1602480625379}
@@ -248,9 +243,14 @@
 {:jar_name "gadjett", :group_name "viebel", :version "0.5.14", :description "Inspector tools for clojure[script]", :created 1602601025459}
 {:jar_name "atmos-kernel", :group_name "atmos-kernel", :version "2.1-SNAPSHOT", :description "Core of Atmos System", :created 1602601977717}
 {:jar_name "gadjett", :group_name "viebel", :version "0.5.15", :description "Inspector tools for clojure[script]", :created 1602602207362}
-{:jar_name "fowl", :group_name "onto.aaroneberhart", :version "0.0.1-SNAPSHOT", :description "(f OWL) is a minimalistic functional programming style ontology editor", :created 1602603258853}
 {:jar_name "transpriem-api", :group_name "transpriem-api", :version "2.2-SNAPSHOT", :description "Core of transpriem micro services", :created 1602603387997}
 {:jar_name "pathom", :group_name "com.wsscode", :version "2.3.0-alpha15", :description "A Clojure library designed to provide a collection of helper functions to support Clojure(script) graph parsers using\nom.next graph syntax.", :created 1602604641144}
 {:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha49", :description "OpenCompany Common Library", :created 1602604989721}
 {:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.3.10-SNAPSHOT", :description "Templating engine for office documents.", :created 1602605974049}
 {:jar_name "dtype-next", :group_name "cnuernber", :version "0.4.20", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.\n\nThis library implements a subset of functionality required for 'array' programming as well as several\nindex-space algorithms for use with multiple arrays that share an index space.\n\n\nThere is a top level interface in Java named Buffer that implements a generic typed read and write interface.\nThis interface includes queries as to whether it is capable of reading or writing.\n\n\nThere is an implementation of that interface built on java arrays that is denoted by the keyword :jvm-heap\nand there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.\n\n\nFrom here we have implementations of the interface to allow generic permutations in index space or\nan implementation of the Buffer interface that returns a constant value.\n\n\nWe have operations for working in index space in tech.v3.datatype.argops and a functional math and\ndescriptive statistics namespace - tech.v3.datatype.functional.\n\n\nCombining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has\na zerocopy pathway from/to neanderthal, numpy, Smile's matrix class and java's BufferdImage class.", :created 1602608100361}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20201013-173106.757155a9", :description nil, :created 1602610295398}
+{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1602610471098}
+{:jar_name "fowl", :group_name "onto.aaroneberhart", :version "0.0.1-SNAPSHOT", :description "(f OWL) is a minimalistic functional programming style ontology editor", :created 1602613615918}
+{:jar_name "clj-template", :group_name "metosin-api", :version "0.1.0", :description nil, :created 1602616696246}
+{:jar_name "readme", :group_name "alpha-prosoft", :version "1.6", :description "Turn README examples into executable tests.", :created 1602618683874}
+{:jar_name "mook", :group_name "mook", :version "0.2.0", :description "Frontend state mangement library for ClojureScript", :created 1602620460803}
