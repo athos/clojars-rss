@@ -4,7 +4,14 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 14 Oct 2020 17:12:37 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2020 18:14:10 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/eval/otarta/versions/VERSION</guid>
+    <title>[eval/otarta &quot;VERSION&quot;]</title>
+    <link>https://clojars.org/eval/otarta/versions/VERSION</link>
+    <description>An MQTT-library for ClojureScript</description>
+    <pubDate>Wed, 14 Oct 2020 17:19:21 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/threatgrid/ctim/versions/1.0.21-SNAPSHOT</guid>
     <title>[threatgrid/ctim &quot;1.0.21-SNAPSHOT&quot;]</title>
@@ -2001,36 +2008,6 @@ a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java
     <link>https://clojars.org/io.rdgd/trimax/versions/0.1.0</link>
     <description></description>
     <pubDate>Wed, 7 Oct 2020 14:07:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cnuernber/dtype-next/versions/0.4.11</guid>
-    <title>[cnuernber/dtype-next &quot;0.4.11&quot;]</title>
-    <link>https://clojars.org/cnuernber/dtype-next/versions/0.4.11</link>
-    <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.
-
-This library implements a subset of functionality required for &#39;array&#39; programming as well as several
-index-space algorithms for use with multiple arrays that share an index space.
-
-
-There is a top level interface in Java named Buffer that implements a generic typed read and write interface.
-This interface includes queries as to whether it is capable of reading or writing.
-
-
-There is an implementation of that interface built on java arrays that is denoted by the keyword :jvm-heap
-and there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.
-
-
-From here we have implementations of the interface to allow generic permutations in index space or
-an implementation of the Buffer interface that returns a constant value.
-
-
-We have operations for working in index space in tech.v3.datatype.argops and a functional math and
-descriptive statistics namespace - tech.v3.datatype.functional.
-
-
-Combining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has
-a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java&#39;s BufferdImage class.</description>
-    <pubDate>Wed, 7 Oct 2020 12:50:29 +0000</pubDate>
   </item>
   </channel>
 </rss>
