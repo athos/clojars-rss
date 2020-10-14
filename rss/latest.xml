@@ -4,7 +4,51 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 14 Oct 2020 12:17:08 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2020 13:12:38 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.clojars.roklenarcic/memento/versions/0.8.2</guid>
+    <title>[org.clojars.roklenarcic/memento &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/org.clojars.roklenarcic/memento/versions/0.8.2</link>
+    <description>A library for function memoization.</description>
+    <pubDate>Wed, 14 Oct 2020 13:10:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cnuernber/dtype-next/versions/0.4.21</guid>
+    <title>[cnuernber/dtype-next &quot;0.4.21&quot;]</title>
+    <link>https://clojars.org/cnuernber/dtype-next/versions/0.4.21</link>
+    <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.
+
+This library implements a subset of functionality required for &#39;array&#39; programming as well as several
+index-space algorithms for use with multiple arrays that share an index space.
+
+
+There is a top level interface in Java named Buffer that implements a generic typed read and write interface.
+This interface includes queries as to whether it is capable of reading or writing.
+
+
+There is an implementation of that interface built on java arrays that is denoted by the keyword :jvm-heap
+and there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.
+
+
+From here we have implementations of the interface to allow generic permutations in index space or
+an implementation of the Buffer interface that returns a constant value.
+
+
+We have operations for working in index space in tech.v3.datatype.argops and a functional math and
+descriptive statistics namespace - tech.v3.datatype.functional.
+
+
+Combining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has
+a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java&#39;s BufferdImage class.</description>
+    <pubDate>Wed, 14 Oct 2020 12:50:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/nedap-lib/lein-template/versions/2.4.3-alpha1</guid>
+    <title>[nedap-lib/lein-template &quot;2.4.3-alpha1&quot;]</title>
+    <link>https://clojars.org/nedap-lib/lein-template/versions/2.4.3-alpha1</link>
+    <description>A Leiningen template for Clojure projects.</description>
+    <pubDate>Wed, 14 Oct 2020 12:46:09 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/borkdude/babashka/versions/0.2.3-SNAPSHOT</guid>
     <title>[borkdude/babashka &quot;0.2.3-SNAPSHOT&quot;]</title>
@@ -1964,27 +2008,6 @@ a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java
     <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20201007-085315.7bf62c6a</link>
     <description></description>
     <pubDate>Wed, 7 Oct 2020 08:53:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cider/orchard/versions/0.6.1</guid>
-    <title>[cider/orchard &quot;0.6.1&quot;]</title>
-    <link>https://clojars.org/cider/orchard/versions/0.6.1</link>
-    <description>A fertile ground for Clojure tooling</description>
-    <pubDate>Wed, 7 Oct 2020 08:37:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yle-session-token-validation/versions/3.0.0</guid>
-    <title>[yle-session-token-validation &quot;3.0.0&quot;]</title>
-    <link>https://clojars.org/yle-session-token-validation/versions/3.0.0</link>
-    <description>Code to validate given Yle Tunnus token.</description>
-    <pubDate>Wed, 7 Oct 2020 08:19:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/clj-ksql/versions/0.11.0-31-snapshot</guid>
-    <title>[clj-ksql &quot;0.11.0-31-snapshot&quot;]</title>
-    <link>https://clojars.org/clj-ksql/versions/0.11.0-31-snapshot</link>
-    <description>Clojure client for ksql</description>
-    <pubDate>Wed, 7 Oct 2020 07:11:42 +0000</pubDate>
   </item>
   </channel>
 </rss>
