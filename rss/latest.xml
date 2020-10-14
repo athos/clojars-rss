@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 14 Oct 2020 21:12:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2020 22:12:51 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/datalevin/versions/0.3.12</guid>
+    <title>[datalevin &quot;0.3.12&quot;]</title>
+    <link>https://clojars.org/datalevin/versions/0.3.12</link>
+    <description>A simple, fast and durable Datalog database</description>
+    <pubDate>Wed, 14 Oct 2020 21:58:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.atomist/api-cljs/versions/0.4.110</guid>
+    <title>[com.atomist/api-cljs &quot;0.4.110&quot;]</title>
+    <link>https://clojars.org/com.atomist/api-cljs/versions/0.4.110</link>
+    <description></description>
+    <pubDate>Wed, 14 Oct 2020 21:45:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/re-chain/versions/1.3-SNAPSHOT</guid>
+    <title>[re-chain &quot;1.3-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/re-chain/versions/1.3-SNAPSHOT</link>
+    <description>Easy chaining of re-frame events</description>
+    <pubDate>Wed, 14 Oct 2020 21:39:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/kee-frame/versions/1.1.1-SNAPSHOT</guid>
+    <title>[kee-frame &quot;1.1.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/kee-frame/versions/1.1.1-SNAPSHOT</link>
+    <description>A micro-framework on top of re-frame</description>
+    <pubDate>Wed, 14 Oct 2020 21:35:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/babashka/clojure-lanterna/versions/0.9.8-SNAPSHOT</guid>
+    <title>[babashka/clojure-lanterna &quot;0.9.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/babashka/clojure-lanterna/versions/0.9.8-SNAPSHOT</link>
+    <description>A Clojure wrapper around the Lanterna terminal output library.</description>
+    <pubDate>Wed, 14 Oct 2020 21:34:26 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/byu-odh/retabled/versions/12</guid>
     <title>[byu-odh/retabled &quot;12&quot;]</title>
@@ -13,25 +48,11 @@
     <pubDate>Wed, 14 Oct 2020 21:10:24 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/re-chain/versions/1.3-SNAPSHOT</guid>
-    <title>[re-chain &quot;1.3-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/re-chain/versions/1.3-SNAPSHOT</link>
-    <description>Easy chaining of re-frame events</description>
-    <pubDate>Wed, 14 Oct 2020 21:07:48 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/funcool/rumext/versions/2020.10.14-1</guid>
     <title>[funcool/rumext &quot;2020.10.14-1&quot;]</title>
     <link>https://clojars.org/funcool/rumext/versions/2020.10.14-1</link>
     <description>Simple and Decomplected UI library based on React.</description>
     <pubDate>Wed, 14 Oct 2020 19:11:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/babashka/clojure-lanterna/versions/0.9.8-SNAPSHOT</guid>
-    <title>[babashka/clojure-lanterna &quot;0.9.8-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/babashka/clojure-lanterna/versions/0.9.8-SNAPSHOT</link>
-    <description>A Clojure wrapper around the Lanterna terminal output library.</description>
-    <pubDate>Wed, 14 Oct 2020 19:11:29 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/clj-rss/versions/0.2.6</guid>
@@ -1941,50 +1962,6 @@ a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java
     <link>https://clojars.org/defteron/defteron.core/versions/0.2.0</link>
     <description>Protobuf to clojure transformations</description>
     <pubDate>Wed, 7 Oct 2020 18:53:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20201007-185250.b9453b4d</guid>
-    <title>[org.akvo.flow/akvo-flow &quot;20201007-185250.b9453b4d&quot;]</title>
-    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20201007-185250.b9453b4d</link>
-    <description></description>
-    <pubDate>Wed, 7 Oct 2020 18:53:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cnuernber/dtype-next/versions/0.4.14</guid>
-    <title>[cnuernber/dtype-next &quot;0.4.14&quot;]</title>
-    <link>https://clojars.org/cnuernber/dtype-next/versions/0.4.14</link>
-    <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.
-
-This library implements a subset of functionality required for &#39;array&#39; programming as well as several
-index-space algorithms for use with multiple arrays that share an index space.
-
-
-There is a top level interface in Java named Buffer that implements a generic typed read and write interface.
-This interface includes queries as to whether it is capable of reading or writing.
-
-
-There is an implementation of that interface built on java arrays that is denoted by the keyword :jvm-heap
-and there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.
-
-
-From here we have implementations of the interface to allow generic permutations in index space or
-an implementation of the Buffer interface that returns a constant value.
-
-
-We have operations for working in index space in tech.v3.datatype.argops and a functional math and
-descriptive statistics namespace - tech.v3.datatype.functional.
-
-
-Combining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has
-a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java&#39;s BufferdImage class.</description>
-    <pubDate>Wed, 7 Oct 2020 18:33:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.rutledgepaulv/datalogger/versions/0.1.13</guid>
-    <title>[org.clojars.rutledgepaulv/datalogger &quot;0.1.13&quot;]</title>
-    <link>https://clojars.org/org.clojars.rutledgepaulv/datalogger/versions/0.1.13</link>
-    <description>A simple structured logging library for Clojure that plays nice with others.</description>
-    <pubDate>Wed, 7 Oct 2020 17:19:12 +0000</pubDate>
   </item>
   </channel>
 </rss>
