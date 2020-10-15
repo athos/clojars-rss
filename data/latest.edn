@@ -1,5 +1,3 @@
-{:jar_name "qliksense.jar", :group_name "matteoredaelli", :version "0.1.0-SNAPSHOT", :description "Qliksense Repository APIs", :created 1602188536958}
-{:jar_name "clj-icat-direct", :group_name "org.cyverse", :version "2.8.8-SNAPSHOT", :description "A Clojure library for accessing the iRODS ICAT database directly.", :created 1602190773708}
 {:jar_name "clj-jargon", :group_name "org.cyverse", :version "2.8.11-SNAPSHOT", :description "Clojure API on top of iRODS's jargon-core.", :created 1602191499647}
 {:jar_name "depstar", :group_name "seancorfield", :version "1.1.126", :description "a clj-based uberjarrer", :created 1602193079614}
 {:jar_name "clj-irods", :group_name "org.cyverse", :version "0.1.0", :description "A Clojure library for interacting with the IRODS data system. Wraps clj-jargon and clj-icat-direct for a nicer interface", :created 1602194541078}
@@ -13,7 +11,6 @@
 {:jar_name "graphql-builder", :group_name "floatingpointio", :version "0.1.14", :description "A Clojure(Script) library designed to help with the consuming of GraphQL APIs.", :created 1602225824150}
 {:jar_name "clj-ksql", :group_name "clj-ksql", :version "0.11.0-32-snapshot", :description "Clojure client for ksql", :created 1602227300704}
 {:jar_name "jsonista", :group_name "alpha-prosoft", :version "0.2.8", :description "Clojure library for fast JSON encoding and decoding.", :created 1602228082791}
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.3-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1602230742612}
 {:jar_name "dda-git-crate", :group_name "dda", :version "3.0.0", :description "Module for cloning and managing git repositories & server conectivity.", :created 1602235804168}
 {:jar_name "twijio", :group_name "kemurisense", :version "0.1.12", :description "Pure Clojure library for interacting with the Twilio REST API, to send SMS messages", :created 1602235855949}
 {:jar_name "qliksense.jar", :group_name "matteoredaelli", :version "0.3.0", :description "Qliksense Repository APIs", :created 1602237547089}
@@ -254,3 +251,6 @@
 {:jar_name "github-pr-lib", :group_name "eamonnsullivan", :version "0.0.14", :description "Small library for creating and modifying Github pull requests.", :created 1602764187457}
 {:jar_name "github-pr-lib", :group_name "eamonnsullivan", :version "0.0.15", :description "Small library for creating and modifying Github pull requests.", :created 1602766771980}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20201015-130459.16385aa1", :description nil, :created 1602767128041}
+{:jar_name "yle-session-token-validation", :group_name "yle-session-token-validation", :version "3.1.0", :description "Code to validate given Yle Tunnus token.", :created 1602768015127}
+{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.3-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1602768376424}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20201015-135220.e778a2be", :description nil, :created 1602769971420}
