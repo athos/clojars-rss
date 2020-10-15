@@ -1,4 +1,3 @@
-{:jar_name "skill-bundler", :group_name "com.atomist", :version "0.1.24", :description nil, :created 1602202701357}
 {:jar_name "sqs-utils", :group_name "motiva", :version "0.9.0-SNAPSHOT", :description "Higher level SQS utilities for use in Motiva products", :created 1602212050983}
 {:jar_name "skill-bundler", :group_name "com.atomist", :version "0.1.25", :description "", :created 1602217182340}
 {:jar_name "yle-session-token-validation", :group_name "yle-session-token-validation", :version "3.0.1", :description "Code to validate given Yle Tunnus token.", :created 1602221911438}
@@ -197,7 +196,6 @@
 {:jar_name "re-cog", :group_name "re-cog", :version "0.5.7", :description "Re-cog is a set of serializable functions including provisioning resources, system facts and commonly used remotely executable functions", :created 1602683362477}
 {:jar_name "memento", :group_name "org.clojars.roklenarcic", :version "0.8.3", :description "A library for function memoization.", :created 1602685835831}
 {:jar_name "seql", :group_name "exoscale", :version "0.1.24", :description "Simplfied EDN Query Language for SQL", :created 1602689915841}
-{:jar_name "babashka", :group_name "borkdude", :version "0.2.3-SNAPSHOT", :description "babashka", :created 1602690570594}
 {:jar_name "datahike", :group_name "timokramer", :version "0.3.8-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1602690790491}
 {:jar_name "otarta", :group_name "eval", :version "0.4.0-SNAPSHOT", :description "An MQTT-library for ClojureScript", :created 1602692369085}
 {:jar_name "dtype-next", :group_name "cnuernber", :version "0.4.22", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.\n\nThis library implements a subset of functionality required for 'array' programming as well as several\nindex-space algorithms for use with multiple arrays that share an index space.\n\n\nThere is a top level interface defined in Java named Buffer that implements a generic typed read and write\ninterface. This interface includes queries as to whether it is capable of reading or writing.\n\n\nThere is an implementation of that interface built on java arrays that is denoted by the keyword :jvm-heap\nand there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.\n\n\nFrom here we have implementations of the interface to allow generic permutations in index space or\nan implementation of the Buffer interface that returns a constant value.\n\n\nWe have operations for working in index space in tech.v3.datatype.argops and a functional math and\ndescriptive statistics namespace - tech.v3.datatype.functional.\n\n\nCombining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has\na zerocopy pathway from/to neanderthal, numpy, Smile's matrix class and java's BufferdImage class.", :created 1602692695712}
@@ -254,3 +252,5 @@
 {:jar_name "edd-core", :group_name "alphaprosoft", :version "1.42", :description nil, :created 1602772949499}
 {:jar_name "github-pr-lib", :group_name "eamonnsullivan", :version "0.0.16", :description "Small library for creating and modifying Github pull requests.", :created 1602773098852}
 {:jar_name "cloak", :group_name "exoscale", :version "0.1.3", :description "", :created 1602774494567}
+{:jar_name "tick", :group_name "tick", :version "0.4.27-alpha", :description "A Clojure(Script) library for dealing with time. Intended as a replacement for clj-time", :created 1602777204090}
+{:jar_name "babashka", :group_name "borkdude", :version "0.2.3-SNAPSHOT", :description "babashka", :created 1602777667463}
