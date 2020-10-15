@@ -1,12 +1,3 @@
-{:jar_name "clj-mu", :group_name "com.twelvenines", :version "0.0.14", :description "Clojure friendly library for using https://muserver.io", :created 1602150902005}
-{:jar_name "cider-nrepl", :group_name "cider", :version "0.25.4", :description "A collection of nREPL middlewares designed to enhance Clojure editors.", :created 1602152923502}
-{:jar_name "aws-profile-credentials-provider", :group_name "codesmith", :version "0.9.4", :description "A profile credentials provider library for cognitect-labs/aws-api.", :created 1602153343073}
-{:jar_name "java-http-clj", :group_name "com.owainlewis", :version "0.3.1-SNAPSHOT", :description "Clojure HTTP client based on the Java 11+ HTTP client", :created 1602153768060}
-{:jar_name "antq", :group_name "antq", :version "0.7.4", :description "Point out your outdated dependencies", :created 1602156654038}
-{:jar_name "auspex", :group_name "cc.qbits", :version "0.1.0-alpha3", :description "Mini wrapper over java-11 CompletableFuture with a manifold deferred after-taste", :created 1602158114390}
-{:jar_name "talltale", :group_name "talltale", :version "0.5.3", :description "A CLJ/CLJS generator lib for fake data", :created 1602161403756}
-{:jar_name "clj-xlsxio", :group_name "clj-xlsxio", :version "0.6.8", :description "xlsxio for clojure", :created 1602161481818}
-{:jar_name "utils.test", :group_name "com.nedap.staffing-solutions", :version "1.8.0", :description "utils.test", :created 1602164281426}
 {:jar_name "ring-firewall-middleware", :group_name "org.clojars.rutledgepaulv", :version "0.1.3", :description "A library for filtering ring requests by client ip address.", :created 1602164387179}
 {:jar_name "dtype-next", :group_name "cnuernber", :version "0.4.16", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.\n\nThis library implements a subset of functionality required for 'array' programming as well as several\nindex-space algorithms for use with multiple arrays that share an index space.\n\n\nThere is a top level interface in Java named Buffer that implements a generic typed read and write interface.\nThis interface includes queries as to whether it is capable of reading or writing.\n\n\nThere is an implementation of that interface built on java arrays that is denoted by the keyword :jvm-heap\nand there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.\n\n\nFrom here we have implementations of the interface to allow generic permutations in index space or\nan implementation of the Buffer interface that returns a constant value.\n\n\nWe have operations for working in index space in tech.v3.datatype.argops and a functional math and\ndescriptive statistics namespace - tech.v3.datatype.functional.\n\n\nCombining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has\na zerocopy pathway from/to neanderthal, numpy, Smile's matrix class and java's BufferdImage class.", :created 1602165114281}
 {:jar_name "oxbow", :group_name "oliyh", :version "0.1.1-SNAPSHOT", :description "A Server Sent Events (SSE) client for cljs based on js/fetch", :created 1602167281288}
@@ -241,7 +232,6 @@
 {:jar_name "rumext", :group_name "funcool", :version "2020.10.14-1", :description "Simple and Decomplected UI library based on React.", :created 1602702691301}
 {:jar_name "retabled", :group_name "byu-odh", :version "12", :description "Generate reagent-based tables for display and interaction with data collections", :created 1602709824204}
 {:jar_name "clojure-lanterna", :group_name "babashka", :version "0.9.8-SNAPSHOT", :description "A Clojure wrapper around the Lanterna terminal output library.", :created 1602711266472}
-{:jar_name "kee-frame", :group_name "kee-frame", :version "1.1.1-SNAPSHOT", :description "A micro-framework on top of re-frame", :created 1602711348288}
 {:jar_name "re-chain", :group_name "re-chain", :version "1.3-SNAPSHOT", :description "Easy chaining of re-frame events", :created 1602711586861}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.110", :description nil, :created 1602711930334}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.3.12", :description "A simple, fast and durable Datalog database", :created 1602712684224}
@@ -254,3 +244,13 @@
 {:jar_name "wayra", :group_name "wayra", :version "0.0.29", :description "FIXME: write description", :created 1602738748634}
 {:jar_name "mayu", :group_name "mayu", :version "0.1.47", :description "FIXME: write description", :created 1602738832842}
 {:jar_name "etp-backend", :group_name "solita.etp", :version "0.0.2", :description nil, :created 1602742285902}
+{:jar_name "kee-frame", :group_name "kee-frame", :version "1.1.1-SNAPSHOT", :description "A micro-framework on top of re-frame", :created 1602746616853}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20201015-073616.8958b782", :description nil, :created 1602747405619}
+{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748731978}
+{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748747210}
+{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748762558}
+{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748777319}
+{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748792059}
+{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748812323}
+{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748830823}
+{:jar_name "blueprint", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748848311}
