@@ -1,17 +1,3 @@
-{:jar_name "alia-spec", :group_name "cc.qbits", :version "4.3.4", :description "clojure.spec for Alia", :created 1602255067890}
-{:jar_name "alia-async", :group_name "cc.qbits", :version "4.3.4", :description "core.async interface for Alia", :created 1602255084477}
-{:jar_name "alia-component", :group_name "cc.qbits", :version "4.3.4", :description "Component integration for Alia", :created 1602255101128}
-{:jar_name "alia-java-time", :group_name "cc.qbits", :version "4.3.4", :description "Alia extension for joda-time codec", :created 1602255117703}
-{:jar_name "alia-joda-time", :group_name "cc.qbits", :version "4.3.4", :description "Alia extension for joda-time codec", :created 1602255136761}
-{:jar_name "alia-manifold", :group_name "cc.qbits", :version "4.3.4", :description "", :created 1602255154652}
-{:jar_name "graphql-inquiry", :group_name "graphql-inquiry", :version "0.2.0", :description "Converts clojure(script) data structures into GraphQL queries", :created 1602256319416}
-{:jar_name "quiddity", :group_name "quiddity", :version "0.3.0", :description "An S-Expression evaluation library for Clojure and ClojureScript", :created 1602257142204}
-{:jar_name "github-pr-lib", :group_name "eamonnsullivan", :version "0.0.13", :description "Small library for creating and modifying Github pull requests.", :created 1602264057929}
-{:jar_name "depstar", :group_name "seancorfield", :version "1.1.128", :description "a clj-based uberjarrer", :created 1602269001795}
-{:jar_name "clj-new", :group_name "seancorfield", :version "1.1.228", :description "Generate new projects based on clj, Boot, or Leiningen Templates!", :created 1602269542246}
-{:jar_name "iced-nrepl", :group_name "iced-nrepl", :version "1.0.6", :description "nREPL middleware for vim-iced", :created 1602281132927}
-{:jar_name "leave-balance-service", :group_name "leave-balance-service", :version "0.2.1", :description "HTTP service that calculates end of year leave/pto balance.", :created 1602294921078}
-{:jar_name "lein-monolith", :group_name "lein-monolith", :version "1.6.1", :description "Leiningen plugin for managing subrojects within a monorepo.", :created 1602304061761}
 {:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.2.0", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1602312040580}
 {:jar_name "sqs-utils", :group_name "motiva", :version "0.10.0", :description "Higher level SQS utilities for use in Motiva products", :created 1602312472310}
 {:jar_name "parcera", :group_name "carocad", :version "0.11.5", :description "Grammar-based Clojure(script) parser", :created 1602323087927}
@@ -254,3 +240,17 @@
 {:jar_name "silvur", :group_name "theorems", :version "1.9.4", :description nil, :created 1603016604558}
 {:jar_name "rate-limiter", :group_name "io.nottocode.project", :version "1.0.0", :description nil, :created 1603035798712}
 {:jar_name "tech.ml", :group_name "techascent", :version "5.00-alpha-4", :description "Basic machine learning toolkit.  `tech.v3.ml` is the root\nnamespace and provides train/predict pathways based on datasets and\nan options map.  Please see the xgboost article for a quick runthough\nof how to use this library.", :created 1603039687605}
+{:jar_name "malli", :group_name "metosin", :version "0.2.0", :description nil, :created 1603042815836}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.7", :description "Snappy data-driven router for Clojure(Script)", :created 1603043111452}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.7", :description "Snappy data-driven router for Clojure(Script)", :created 1603043128709}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.7", :description "Reitit: clojure.spec coercion", :created 1603043143973}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.7", :description "Reitit: Malli coercion", :created 1603043159045}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.7", :description "Reitit: Plumatic Schema coercion", :created 1603043173761}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.7", :description "Reitit: Ring routing", :created 1603043191245}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.7", :description "Reitit, common middleware bundled", :created 1603043211349}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.7", :description "Reitit: HTTP routing with interceptors", :created 1603043226725}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.7", :description "Reitit, common interceptors bundled", :created 1603043242337}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.7", :description "Reitit: Swagger-support", :created 1603044776020}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.7", :description "Reitit: Swagger-ui support", :created 1603044791060}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.7", :description "Reitit: Clojurescript frontend routing core", :created 1603044807572}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.7", :description "Reitit: Sieppari Interceptors", :created 1603044822756}
