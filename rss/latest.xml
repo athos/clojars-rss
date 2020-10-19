@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 19 Oct 2020 10:14:02 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2020 11:12:28 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20201019-110353.eb0dc757</guid>
+    <title>[org.akvo.flow/akvo-flow &quot;20201019-110353.eb0dc757&quot;]</title>
+    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20201019-110353.eb0dc757</link>
+    <description></description>
+    <pubDate>Mon, 19 Oct 2020 11:04:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.taoensso/encore/versions/3.8.1</guid>
+    <title>[com.taoensso/encore &quot;3.8.1&quot;]</title>
+    <link>https://clojars.org/com.taoensso/encore/versions/3.8.1</link>
+    <description>Core utils library for Clojure/Script</description>
+    <pubDate>Mon, 19 Oct 2020 10:48:31 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/metosin/reitit/versions/0.5.9</guid>
     <title>[metosin/reitit &quot;0.5.9&quot;]</title>
@@ -1854,43 +1868,6 @@ a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java
     <link>https://clojars.org/metosin-api/clj-template/versions/0.1.0</link>
     <description></description>
     <pubDate>Tue, 13 Oct 2020 19:18:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20201013-173106.757155a9</guid>
-    <title>[org.akvo.flow/akvo-flow &quot;20201013-173106.757155a9&quot;]</title>
-    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20201013-173106.757155a9</link>
-    <description></description>
-    <pubDate>Tue, 13 Oct 2020 17:31:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cnuernber/dtype-next/versions/0.4.20</guid>
-    <title>[cnuernber/dtype-next &quot;0.4.20&quot;]</title>
-    <link>https://clojars.org/cnuernber/dtype-next/versions/0.4.20</link>
-    <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.
-
-This library implements a subset of functionality required for &#39;array&#39; programming as well as several
-index-space algorithms for use with multiple arrays that share an index space.
-
-
-There is a top level interface in Java named Buffer that implements a generic typed read and write interface.
-This interface includes queries as to whether it is capable of reading or writing.
-
-
-There is an implementation of that interface built on java arrays that is denoted by the keyword :jvm-heap
-and there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.
-
-
-From here we have implementations of the interface to allow generic permutations in index space or
-an implementation of the Buffer interface that returns a constant value.
-
-
-We have operations for working in index space in tech.v3.datatype.argops and a functional math and
-descriptive statistics namespace - tech.v3.datatype.functional.
-
-
-Combining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has
-a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java&#39;s BufferdImage class.</description>
-    <pubDate>Tue, 13 Oct 2020 16:55:00 +0000</pubDate>
   </item>
   </channel>
 </rss>
