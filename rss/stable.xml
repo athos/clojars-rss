@@ -4,7 +4,51 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 19 Oct 2020 20:13:58 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2020 21:12:59 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/puppetlabs/pcp-broker/versions/1.5.8</guid>
+    <title>[puppetlabs/pcp-broker &quot;1.5.8&quot;]</title>
+    <link>https://clojars.org/puppetlabs/pcp-broker/versions/1.5.8</link>
+    <description>PCP fabric messaging broker</description>
+    <pubDate>Mon, 19 Oct 2020 20:41:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cnuernber/dtype-next/versions/6.00-alpha-2</guid>
+    <title>[cnuernber/dtype-next &quot;6.00-alpha-2&quot;]</title>
+    <link>https://clojars.org/cnuernber/dtype-next/versions/6.00-alpha-2</link>
+    <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.
+
+This library implements a subset of functionality required for &#39;array&#39; programming as well as several
+index-space algorithms for use with multiple arrays that share an index space.
+
+
+There is a top level interface defined in Java named Buffer that implements a generic typed read and write
+interface. This interface includes queries as to whether it is capable of reading or writing.
+
+
+There is an implementation of that interface built on java arrays that is denoted by the keyword :jvm-heap
+and there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.
+
+
+From here we have implementations of the interface to allow generic permutations in index space or
+an implementation of the Buffer interface that returns a constant value.
+
+
+We have operations for working in index space in tech.v3.datatype.argops and a functional math and
+descriptive statistics namespace - tech.v3.datatype.functional.
+
+
+Combining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has
+a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java&#39;s BufferdImage class.</description>
+    <pubDate>Mon, 19 Oct 2020 20:27:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/protojure/versions/1.5.11</guid>
+    <title>[protojure &quot;1.5.11&quot;]</title>
+    <link>https://clojars.org/protojure/versions/1.5.11</link>
+    <description>Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications</description>
+    <pubDate>Mon, 19 Oct 2020 20:23:55 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/syn-antd/versions/4.7.2</guid>
     <title>[syn-antd &quot;4.7.2&quot;]</title>
@@ -1896,27 +1940,6 @@ a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java
     <link>https://clojars.org/bract/bract.dev/versions/0.6.2-0.2.0-alpha3</link>
     <description>Dev module for Bract</description>
     <pubDate>Mon, 12 Oct 2020 18:14:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/bract/bract.cli/versions/0.6.2-0.1.1-alpha3</guid>
-    <title>[bract/bract.cli &quot;0.6.2-0.1.1-alpha3&quot;]</title>
-    <link>https://clojars.org/bract/bract.cli/versions/0.6.2-0.1.1-alpha3</link>
-    <description>CLI module for Bract</description>
-    <pubDate>Mon, 12 Oct 2020 18:04:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/bract/bract.core/versions/0.6.2-alpha3</guid>
-    <title>[bract/bract.core &quot;0.6.2-alpha3&quot;]</title>
-    <link>https://clojars.org/bract/bract.core/versions/0.6.2-alpha3</link>
-    <description>Multi-purpose, modular Clojure application initialization framework</description>
-    <pubDate>Mon, 12 Oct 2020 17:59:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/aleph/versions/0.4.7-alpha7</guid>
-    <title>[aleph &quot;0.4.7-alpha7&quot;]</title>
-    <link>https://clojars.org/aleph/versions/0.4.7-alpha7</link>
-    <description>a framework for asynchronous communication</description>
-    <pubDate>Mon, 12 Oct 2020 17:52:37 +0000</pubDate>
   </item>
   </channel>
 </rss>

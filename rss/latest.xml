@@ -4,7 +4,51 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 19 Oct 2020 20:13:58 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2020 21:12:59 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/puppetlabs/pcp-broker/versions/1.5.8</guid>
+    <title>[puppetlabs/pcp-broker &quot;1.5.8&quot;]</title>
+    <link>https://clojars.org/puppetlabs/pcp-broker/versions/1.5.8</link>
+    <description>PCP fabric messaging broker</description>
+    <pubDate>Mon, 19 Oct 2020 20:41:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cnuernber/dtype-next/versions/6.00-alpha-2</guid>
+    <title>[cnuernber/dtype-next &quot;6.00-alpha-2&quot;]</title>
+    <link>https://clojars.org/cnuernber/dtype-next/versions/6.00-alpha-2</link>
+    <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.
+
+This library implements a subset of functionality required for &#39;array&#39; programming as well as several
+index-space algorithms for use with multiple arrays that share an index space.
+
+
+There is a top level interface defined in Java named Buffer that implements a generic typed read and write
+interface. This interface includes queries as to whether it is capable of reading or writing.
+
+
+There is an implementation of that interface built on java arrays that is denoted by the keyword :jvm-heap
+and there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.
+
+
+From here we have implementations of the interface to allow generic permutations in index space or
+an implementation of the Buffer interface that returns a constant value.
+
+
+We have operations for working in index space in tech.v3.datatype.argops and a functional math and
+descriptive statistics namespace - tech.v3.datatype.functional.
+
+
+Combining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has
+a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java&#39;s BufferdImage class.</description>
+    <pubDate>Mon, 19 Oct 2020 20:27:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/protojure/versions/1.5.11</guid>
+    <title>[protojure &quot;1.5.11&quot;]</title>
+    <link>https://clojars.org/protojure/versions/1.5.11</link>
+    <description>Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications</description>
+    <pubDate>Mon, 19 Oct 2020 20:23:55 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/signal-ai/logging/versions/0.1.2-SNAPSHOT</guid>
     <title>[signal-ai/logging &quot;0.1.2-SNAPSHOT&quot;]</title>
@@ -1848,27 +1892,6 @@ a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java
     <link>https://clojars.org/timokramer/datahike/versions/0.3.4-SNAPSHOT</link>
     <description>A durable datalog implementation adaptable for distribution.</description>
     <pubDate>Wed, 14 Oct 2020 11:12:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/kee-frame/versions/1.0.1-SNAPSHOT</guid>
-    <title>[kee-frame &quot;1.0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/kee-frame/versions/1.0.1-SNAPSHOT</link>
-    <description>A micro-framework on top of re-frame</description>
-    <pubDate>Wed, 14 Oct 2020 10:03:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20201014-082012.bc41b245</guid>
-    <title>[org.akvo.flow/akvo-flow &quot;20201014-082012.bc41b245&quot;]</title>
-    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20201014-082012.bc41b245</link>
-    <description></description>
-    <pubDate>Wed, 14 Oct 2020 08:20:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20201014-075653.de4f1e4c</guid>
-    <title>[org.akvo.flow/akvo-flow &quot;20201014-075653.de4f1e4c&quot;]</title>
-    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20201014-075653.de4f1e4c</link>
-    <description></description>
-    <pubDate>Wed, 14 Oct 2020 07:57:24 +0000</pubDate>
   </item>
   </channel>
 </rss>
