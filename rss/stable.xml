@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 19 Oct 2020 18:14:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2020 19:11:56 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/syn-antd/versions/4.7.2</guid>
+    <title>[syn-antd &quot;4.7.2&quot;]</title>
+    <link>https://clojars.org/syn-antd/versions/4.7.2</link>
+    <description>Ant Design Reagent Wrapper - Optimised for shadow-cljs</description>
+    <pubDate>Mon, 19 Oct 2020 19:08:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/djs/ktest/versions/2.3.0</guid>
+    <title>[djs/ktest &quot;2.3.0&quot;]</title>
+    <link>https://clojars.org/djs/ktest/versions/2.3.0</link>
+    <description></description>
+    <pubDate>Mon, 19 Oct 2020 18:40:37 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/seancorfield/next.jdbc/versions/1.1.610</guid>
+    <title>[seancorfield/next.jdbc &quot;1.1.610&quot;]</title>
+    <link>https://clojars.org/seancorfield/next.jdbc/versions/1.1.610</link>
+    <description>The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.</description>
+    <pubDate>Mon, 19 Oct 2020 18:24:18 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/techascent/tech.io.aws/versions/3.20</guid>
     <title>[techascent/tech.io.aws &quot;3.20&quot;]</title>
@@ -1896,50 +1917,6 @@ a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java
     <link>https://clojars.org/aleph/versions/0.4.7-alpha7</link>
     <description>a framework for asynchronous communication</description>
     <pubDate>Mon, 12 Oct 2020 17:52:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.walmartlabs/lacinia/versions/0.38.0-alpha-4</guid>
-    <title>[com.walmartlabs/lacinia &quot;0.38.0-alpha-4&quot;]</title>
-    <link>https://clojars.org/com.walmartlabs/lacinia/versions/0.38.0-alpha-4</link>
-    <description>A GraphQL server implementation in Clojure</description>
-    <pubDate>Mon, 12 Oct 2020 17:24:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cnuernber/dtype-next/versions/0.4.18</guid>
-    <title>[cnuernber/dtype-next &quot;0.4.18&quot;]</title>
-    <link>https://clojars.org/cnuernber/dtype-next/versions/0.4.18</link>
-    <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.
-
-This library implements a subset of functionality required for &#39;array&#39; programming as well as several
-index-space algorithms for use with multiple arrays that share an index space.
-
-
-There is a top level interface in Java named Buffer that implements a generic typed read and write interface.
-This interface includes queries as to whether it is capable of reading or writing.
-
-
-There is an implementation of that interface built on java arrays that is denoted by the keyword :jvm-heap
-and there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.
-
-
-From here we have implementations of the interface to allow generic permutations in index space or
-an implementation of the Buffer interface that returns a constant value.
-
-
-We have operations for working in index space in tech.v3.datatype.argops and a functional math and
-descriptive statistics namespace - tech.v3.datatype.functional.
-
-
-Combining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has
-a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java&#39;s BufferdImage class.</description>
-    <pubDate>Mon, 12 Oct 2020 14:25:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/wormbase/ids/versions/0.7.0-rc2</guid>
-    <title>[wormbase/ids &quot;0.7.0-rc2&quot;]</title>
-    <link>https://clojars.org/wormbase/ids/versions/0.7.0-rc2</link>
-    <description></description>
-    <pubDate>Mon, 12 Oct 2020 13:51:39 +0000</pubDate>
   </item>
   </channel>
 </rss>
