@@ -1,12 +1,3 @@
-{:jar_name "kirtimukh-core", :group_name "io.kalp.athang.durg", :version "1.0.0.1", :description "", :created 1602879758676}
-{:jar_name "kirtimukh-dw-throttling-bundle", :group_name "io.kalp.athang.durg", :version "1.0.0.1", :description "", :created 1602879771147}
-{:jar_name "state-machete", :group_name "com.verybigthings", :version "0.0.1-alpha3", :description "Functional statecharts implementation for Clojure and ClojureScript.", :created 1602883440877}
-{:jar_name "module.sql", :group_name "duct", :version "0.6.1", :description "Duct module for working with a SQL database", :created 1602886871741}
-{:jar_name "clj-jargon", :group_name "org.cyverse", :version "2.8.12-SNAPSHOT", :description "Clojure API on top of iRODS's jargon-core.", :created 1602887411263}
-{:jar_name "tortilla", :group_name "emlyn", :version "0.1.3", :description "A thin wrapper for accessing Java classes from Clojure", :created 1602888647042}
-{:jar_name "dtype-next", :group_name "cnuernber", :version "0.4.23", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.\n\nThis library implements a subset of functionality required for 'array' programming as well as several\nindex-space algorithms for use with multiple arrays that share an index space.\n\n\nThere is a top level interface defined in Java named Buffer that implements a generic typed read and write\ninterface. This interface includes queries as to whether it is capable of reading or writing.\n\n\nThere is an implementation of that interface built on java arrays that is denoted by the keyword :jvm-heap\nand there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.\n\n\nFrom here we have implementations of the interface to allow generic permutations in index space or\nan implementation of the Buffer interface that returns a constant value.\n\n\nWe have operations for working in index space in tech.v3.datatype.argops and a functional math and\ndescriptive statistics namespace - tech.v3.datatype.functional.\n\n\nCombining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has\na zerocopy pathway from/to neanderthal, numpy, Smile's matrix class and java's BufferdImage class.", :created 1602893120589}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.00-alpha-4", :description "Clojure high performance data processing system", :created 1602893248397}
-{:jar_name "telegrambot-lib", :group_name "telegrambot-lib", :version "0.1.1", :description "A library for interacting with the Telegram Bot API.", :created 1602896962902}
 {:jar_name "cryogen-asciidoc", :group_name "cryogen-asciidoc", :version "0.3.2", :description "AsciiDoc parser for Cryogen", :created 1602906276928}
 {:jar_name "cryogen-markdown", :group_name "cryogen-markdown", :version "0.1.13", :description "Markdown parser for Cryogen", :created 1602906306628}
 {:jar_name "cryogen-flexmark", :group_name "cryogen-flexmark", :version "0.1.4", :description "Markdown parser for Cryogen", :created 1602906356805}
@@ -249,8 +240,17 @@
 {:jar_name "config", :group_name "com.outpace", :version "0.13.4", :description "A library for declaring and setting configuration vars.", :created 1603305061055}
 {:jar_name "porta-owl", :group_name "porta-owl", :version "0.2.1-SNAPSHOT", :description "A DSL for Web Ontology Language (OWL) and SQWRL rule/query language.", :created 1603305594004}
 {:jar_name "dev-local-tu", :group_name "dev-local-tu", :version "0.2.2", :description nil, :created 1603307393693}
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1603307908978}
 {:jar_name "atmos-kernel", :group_name "atmos-kernel", :version "2.1-SNAPSHOT", :description "Core of Atmos System", :created 1603307924874}
 {:jar_name "babashka", :group_name "borkdude", :version "0.2.4-SNAPSHOT", :description "babashka", :created 1603309516370}
 {:jar_name "tube", :group_name "deercreeklabs", :version "0.4.0", :description "A websocket client and server library", :created 1603309659263}
 {:jar_name "capsule", :group_name "deercreeklabs", :version "0.4.29", :description nil, :created 1603310381693}
+{:jar_name "migratus", :group_name "migratus", :version "1.3.2", :description "MIGRATE ALL THE THINGS!", :created 1603312628902}
+{:jar_name "luminus-migrations", :group_name "luminus-migrations", :version "0.7.0", :description "Luminus migrations", :created 1603312758451}
+{:jar_name "saml20-clj", :group_name "metabase", :version "2.0.0-SNAPSHOT", :description "Improved SAML 2.0 library for SSO.", :created 1603312775688}
+{:jar_name "clojisr", :group_name "scicloj", :version "1.0.0-BETA16-SNAPSHOT", :description "Clojure <-> R interop", :created 1603313708257}
+{:jar_name "malli", :group_name "metosin", :version "0.2.1", :description nil, :created 1603314361767}
+{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1603314644396}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.10", :description "Snappy data-driven router for Clojure(Script)", :created 1603314694588}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.10", :description "Snappy data-driven router for Clojure(Script)", :created 1603314714220}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.10", :description "Reitit: clojure.spec coercion", :created 1603314730284}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.10", :description "Reitit: Malli coercion", :created 1603314746132}
