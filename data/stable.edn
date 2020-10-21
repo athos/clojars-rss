@@ -1,26 +1,3 @@
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20201014-163507.2d86b409", :description "", :created 1602693343702}
-{:jar_name "ring-middleware", :group_name "puppetlabs", :version "1.3.0", :description "", :created 1602694104147}
-{:jar_name "otarta", :group_name "eval", :version "VERSION", :description "An MQTT-library for ClojureScript", :created 1602695961548}
-{:jar_name "clj-parent", :group_name "puppetlabs", :version "4.6.8", :description "", :created 1602700506636}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.00-alpha1", :description "Clojure high performance data processing system", :created 1602701384458}
-{:jar_name "clj-rss", :group_name "clj-rss", :version "0.2.6", :description "A library for generating RSS feeds from Clojure.", :created 1602701555235}
-{:jar_name "rumext", :group_name "funcool", :version "2020.10.14-1", :description "Simple and Decomplected UI library based on React.", :created 1602702691301}
-{:jar_name "retabled", :group_name "byu-odh", :version "12", :description "Generate reagent-based tables for display and interaction with data collections", :created 1602709824204}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.110", :description nil, :created 1602711930334}
-{:jar_name "datalevin", :group_name "datalevin", :version "0.3.12", :description "A simple, fast and durable Datalog database", :created 1602712684224}
-{:jar_name "meyvn-installer", :group_name "org.danielsz", :version "1.2.7", :description nil, :created 1602713634906}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.111", :description nil, :created 1602715632575}
-{:jar_name "telegrambot-lib", :group_name "telegrambot-lib", :version "0.1.0", :description "A library for interacting with the Telegram Bot API.", :created 1602738385181}
-{:jar_name "wayra", :group_name "wayra", :version "0.0.29", :description "FIXME: write description", :created 1602738748634}
-{:jar_name "mayu", :group_name "mayu", :version "0.1.47", :description "FIXME: write description", :created 1602738832842}
-{:jar_name "etp-backend", :group_name "solita.etp", :version "0.0.2", :description nil, :created 1602742285902}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20201015-073616.8958b782", :description nil, :created 1602747405619}
-{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748731978}
-{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748747210}
-{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748762558}
-{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748777319}
-{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748792059}
-{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748812323}
 {:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748830823}
 {:jar_name "blueprint", :group_name "exoscale", :version "0.2.24", :description "Data definitions for APIs", :created 1602748848311}
 {:jar_name "cawdy", :group_name "cawdy", :version "0.1.0", :description "Library for interacting with the Caddy Admin API", :created 1602757886657}
@@ -254,3 +231,26 @@
 {:jar_name "janus", :group_name "com.hapgood", :version "1.4.0", :description nil, :created 1603250675648}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.4.112", :description "", :created 1603253927194}
 {:jar_name "sentinel-parent", :group_name "com.platform.csp", :version "1.7.1", :description "The parent project of Sentinel", :created 1603257186360}
+{:jar_name "sentinel-core", :group_name "com.platform.csp", :version "1.7.1", :description "The core of Sentinel", :created 1603257235284}
+{:jar_name "sentinel-extension", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257244305}
+{:jar_name "sentinel-datasource-extension", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257257309}
+{:jar_name "sentinel-datasource-nacos", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257273021}
+{:jar_name "sentinel-datasource-zookeeper", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257290921}
+{:jar_name "sentinel-datasource-apollo", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257311765}
+{:jar_name "sentinel-datasource-redis", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257328781}
+{:jar_name "sentinel-annotation-aspectj", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257343129}
+{:jar_name "sentinel-transport", :group_name "com.platform.csp", :version "1.7.1", :description "The transport module of Sentinel", :created 1603257352301}
+{:jar_name "sentinel-transport-common", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257369761}
+{:jar_name "sentinel-parameter-flow-control", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257398473}
+{:jar_name "sentinel-datasource-spring-cloud-config", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257424349}
+{:jar_name "sentinel-datasource-consul", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257438129}
+{:jar_name "sentinel-datasource-etcd", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257462889}
+{:jar_name "sentinel-transport-simple-http", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257476333}
+{:jar_name "sentinel-transport-netty-http", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257497329}
+{:jar_name "sentinel-adapter", :group_name "com.platform.csp", :version "1.7.1", :description "The adapters of Sentinel", :created 1603257506521}
+{:jar_name "sentinel-web-servlet", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257531473}
+{:jar_name "sentinel-dubbo-adapter", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257547429}
+{:jar_name "sentinel-apache-dubbo-adapter", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257562669}
+{:jar_name "sentinel-grpc-adapter", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257591261}
+{:jar_name "sentinel-api-gateway-adapter-common", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257611249}
+{:jar_name "yle-session-token-validation", :group_name "yle-session-token-validation", :version "4.0.1", :description "Code to validate given Yle Tunnus token.", :created 1603259780923}
