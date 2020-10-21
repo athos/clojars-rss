@@ -1,15 +1,3 @@
-{:jar_name "cryogen-asciidoc", :group_name "cryogen-asciidoc", :version "0.3.2", :description "AsciiDoc parser for Cryogen", :created 1602906276928}
-{:jar_name "cryogen-markdown", :group_name "cryogen-markdown", :version "0.1.13", :description "Markdown parser for Cryogen", :created 1602906306628}
-{:jar_name "cryogen-flexmark", :group_name "cryogen-flexmark", :version "0.1.4", :description "Markdown parser for Cryogen", :created 1602906356805}
-{:jar_name "lein-template", :group_name "cryogen", :version "0.6.2", :description "A Leiningen template for the Cryogen static site generator", :created 1602907103234}
-{:jar_name "clj-irods", :group_name "org.cyverse", :version "0.1.1-SNAPSHOT", :description "A Clojure library for interacting with the IRODS data system. Wraps clj-jargon and clj-icat-direct for a nicer interface", :created 1602907918568}
-{:jar_name "otel", :group_name "org.cyverse", :version "0.2.0", :description "A Clojure library wrapping the opentelemetry client for Java", :created 1602908085209}
-{:jar_name "otel", :group_name "org.cyverse", :version "0.2.1-SNAPSHOT", :description "A Clojure library wrapping the opentelemetry client for Java", :created 1602908148847}
-{:jar_name "clj-jargon", :group_name "org.cyverse", :version "2.8.13-SNAPSHOT", :description "Clojure API on top of iRODS's jargon-core.", :created 1602908323074}
-{:jar_name "clj-icat-direct", :group_name "org.cyverse", :version "2.8.10-SNAPSHOT", :description "A Clojure library for accessing the iRODS ICAT database directly.", :created 1602908384676}
-{:jar_name "timbre", :group_name "ajchemist-patch", :version "5.1.0-SNAPSHOT", :description "Pure Clojure/Script logging library", :created 1602920415085}
-{:jar_name "re-cog", :group_name "re-cog", :version "0.5.9", :description "Re-cog is a set of serializable functions including provisioning resources, system facts and commonly used remotely executable functions", :created 1602920491905}
-{:jar_name "re-cipes", :group_name "re-cipes", :version "0.2.6", :description "Provioning re-cipes for Linux machines", :created 1602925077944}
 {:jar_name "webjars-api", :group_name "cljspad", :version "0.1.0", :description "", :created 1602926293035}
 {:jar_name "clj-api", :group_name "polylith", :version "0.1.0-alpha3", :description "Used to access Polylith as a library.", :created 1602928328167}
 {:jar_name "clj-poly", :group_name "polylith", :version "0.1.0-alpha3", :description "Poly is Polylith's command line interface for Clojure.", :created 1602928343495}
@@ -254,3 +242,15 @@
 {:jar_name "reitit-dev", :group_name "metosin", :version "0.5.10", :description "Snappy data-driven router for Clojure(Script)", :created 1603314714220}
 {:jar_name "reitit-spec", :group_name "metosin", :version "0.5.10", :description "Reitit: clojure.spec coercion", :created 1603314730284}
 {:jar_name "reitit-malli", :group_name "metosin", :version "0.5.10", :description "Reitit: Malli coercion", :created 1603314746132}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.10", :description "Reitit: Plumatic Schema coercion", :created 1603314763484}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.10", :description "Reitit: Ring routing", :created 1603314782760}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.10", :description "Reitit, common middleware bundled", :created 1603314802164}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.10", :description "Reitit: HTTP routing with interceptors", :created 1603314817648}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.10", :description "Reitit, common interceptors bundled", :created 1603314833216}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.10", :description "Reitit: Swagger-support", :created 1603314852268}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.10", :description "Reitit: Swagger-ui support", :created 1603314867209}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.10", :description "Reitit: Clojurescript frontend routing core", :created 1603314883401}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.10", :description "Reitit: Sieppari Interceptors", :created 1603314898517}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.10", :description "Reitit + Pedestal Integration", :created 1603314920245}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.10", :description "Snappy data-driven router for Clojure(Script)", :created 1603314952025}
+{:jar_name "saml20-clj", :group_name "metabase", :version "2.0.0", :description "Improved SAML 2.0 library for SSO.", :created 1603318416822}
