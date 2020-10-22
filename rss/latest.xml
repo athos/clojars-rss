@@ -4,7 +4,59 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 22 Oct 2020 19:12:34 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2020 20:14:19 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/techascent/tech.ml/versions/5.00-alpha-6</guid>
+    <title>[techascent/tech.ml &quot;5.00-alpha-6&quot;]</title>
+    <link>https://clojars.org/techascent/tech.ml/versions/5.00-alpha-6</link>
+    <description>Basic machine learning toolkit.  `tech.v3.ml` is the root
+namespace and provides train/predict pathways based on datasets and
+an options map.  Please see the xgboost article for a quick runthough
+of how to use this library.</description>
+    <pubDate>Thu, 22 Oct 2020 20:05:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/clj-python/libpython-clj/versions/2.00-alpha-2</guid>
+    <title>[clj-python/libpython-clj &quot;2.00-alpha-2&quot;]</title>
+    <link>https://clojars.org/clj-python/libpython-clj/versions/2.00-alpha-2</link>
+    <description>libpython bindings for Clojure</description>
+    <pubDate>Thu, 22 Oct 2020 19:58:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/techascent/tech.ml.dataset/versions/5.00-alpha-9</guid>
+    <title>[techascent/tech.ml.dataset &quot;5.00-alpha-9&quot;]</title>
+    <link>https://clojars.org/techascent/tech.ml.dataset/versions/5.00-alpha-9</link>
+    <description>Clojure high performance data processing system</description>
+    <pubDate>Thu, 22 Oct 2020 19:55:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.artifice/instaparse/versions/1.4.11</guid>
+    <title>[cc.artifice/instaparse &quot;1.4.11&quot;]</title>
+    <link>https://clojars.org/cc.artifice/instaparse/versions/1.4.11</link>
+    <description>Instaparse: No grammar left behind</description>
+    <pubDate>Thu, 22 Oct 2020 19:54:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cnuernber/dtype-next/versions/6.00-alpha-10</guid>
+    <title>[cnuernber/dtype-next &quot;6.00-alpha-10&quot;]</title>
+    <link>https://clojars.org/cnuernber/dtype-next/versions/6.00-alpha-10</link>
+    <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.</description>
+    <pubDate>Thu, 22 Oct 2020 19:49:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.fulcrologic/fulcro-rad/versions/1.0.5</guid>
+    <title>[com.fulcrologic/fulcro-rad &quot;1.0.5&quot;]</title>
+    <link>https://clojars.org/com.fulcrologic/fulcro-rad/versions/1.0.5</link>
+    <description>A library for rapid application development in Fulcro</description>
+    <pubDate>Thu, 22 Oct 2020 19:47:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/piposaude/calenjars/versions/0.4.0</guid>
+    <title>[piposaude/calenjars &quot;0.4.0&quot;]</title>
+    <link>https://clojars.org/piposaude/calenjars/versions/0.4.0</link>
+    <description>A clojure jar generator to create libraries for date arithmetics around non-business days</description>
+    <pubDate>Thu, 22 Oct 2020 19:34:38 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/flower/versions/0.4.7</guid>
     <title>[flower &quot;0.4.7&quot;]</title>
@@ -1797,55 +1849,6 @@ a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java
     <link>https://clojars.org/metosin/reitit-core/versions/0.5.9</link>
     <description>Snappy data-driven router for Clojure(Script)</description>
     <pubDate>Mon, 19 Oct 2020 07:47:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/sqs-consumer/versions/0.2.1-SNAPSHOT</guid>
-    <title>[sqs-consumer &quot;0.2.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/sqs-consumer/versions/0.2.1-SNAPSHOT</link>
-    <description>Another SQS Library</description>
-    <pubDate>Mon, 19 Oct 2020 07:40:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/clj-statecharts/versions/0.0.1-SNAPSHOT</guid>
-    <title>[clj-statecharts &quot;0.0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/clj-statecharts/versions/0.0.1-SNAPSHOT</link>
-    <description>StateChart for Clojure(script)</description>
-    <pubDate>Mon, 19 Oct 2020 07:35:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cjohansen/dumdom/versions/2020.10.19</guid>
-    <title>[cjohansen/dumdom &quot;2020.10.19&quot;]</title>
-    <link>https://clojars.org/cjohansen/dumdom/versions/2020.10.19</link>
-    <description>Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.</description>
-    <pubDate>Mon, 19 Oct 2020 07:26:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.kalp.athang.durg/kirtimukh-dw-throttling-bundle/versions/1.0.0.2</guid>
-    <title>[io.kalp.athang.durg/kirtimukh-dw-throttling-bundle &quot;1.0.0.2&quot;]</title>
-    <link>https://clojars.org/io.kalp.athang.durg/kirtimukh-dw-throttling-bundle/versions/1.0.0.2</link>
-    <description></description>
-    <pubDate>Mon, 19 Oct 2020 07:19:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.kalp.athang.durg/kirtimukh-core/versions/1.0.0.2</guid>
-    <title>[io.kalp.athang.durg/kirtimukh-core &quot;1.0.0.2&quot;]</title>
-    <link>https://clojars.org/io.kalp.athang.durg/kirtimukh-core/versions/1.0.0.2</link>
-    <description></description>
-    <pubDate>Mon, 19 Oct 2020 07:19:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.kalp.athang.durg/kirtimukh/versions/1.0.0.2</guid>
-    <title>[io.kalp.athang.durg/kirtimukh &quot;1.0.0.2&quot;]</title>
-    <link>https://clojars.org/io.kalp.athang.durg/kirtimukh/versions/1.0.0.2</link>
-    <description></description>
-    <pubDate>Mon, 19 Oct 2020 07:18:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit/versions/0.5.8</guid>
-    <title>[metosin/reitit &quot;0.5.8&quot;]</title>
-    <link>https://clojars.org/metosin/reitit/versions/0.5.8</link>
-    <description>Snappy data-driven router for Clojure(Script)</description>
-    <pubDate>Mon, 19 Oct 2020 05:35:53 +0000</pubDate>
   </item>
   </channel>
 </rss>
