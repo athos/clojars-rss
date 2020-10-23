@@ -4,20 +4,55 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 23 Oct 2020 16:19:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2020 17:13:03 +0000</lastBuildDate>
   <item>
-    <guid>https://clojars.org/com.nomistech/orgmode/versions/0.8.0</guid>
-    <title>[com.nomistech/orgmode &quot;0.8.0&quot;]</title>
-    <link>https://clojars.org/com.nomistech/orgmode/versions/0.8.0</link>
-    <description>Org-mode parser</description>
-    <pubDate>Fri, 23 Oct 2020 16:09:21 +0000</pubDate>
+    <guid>https://clojars.org/com.bhauman/figwheel-main/versions/0.2.12-SNAPSHOT</guid>
+    <title>[com.bhauman/figwheel-main &quot;0.2.12-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.bhauman/figwheel-main/versions/0.2.12-SNAPSHOT</link>
+    <description>Figwheel Main - Clojurescript tooling.</description>
+    <pubDate>Fri, 23 Oct 2020 16:47:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.bhauman/figwheel-repl/versions/0.2.12-SNAPSHOT</guid>
+    <title>[com.bhauman/figwheel-repl &quot;0.2.12-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.bhauman/figwheel-repl/versions/0.2.12-SNAPSHOT</link>
+    <description>Figwheel REPL provides a stable multiplexing REPL for ClojureScript</description>
+    <pubDate>Fri, 23 Oct 2020 16:46:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.bhauman/figwheel-core/versions/0.2.12-SNAPSHOT</guid>
+    <title>[com.bhauman/figwheel-core &quot;0.2.12-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.bhauman/figwheel-core/versions/0.2.12-SNAPSHOT</link>
+    <description>Figwheel core provides code reloading facilities for ClojureScript.</description>
+    <pubDate>Fri, 23 Oct 2020 16:46:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/scicloj/tablecloth/versions/5.0-SNAPSHOT</guid>
+    <title>[scicloj/tablecloth &quot;5.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/scicloj/tablecloth/versions/5.0-SNAPSHOT</link>
+    <description>Dataset manipulation library built on the top of tech.ml.dataset.</description>
+    <pubDate>Fri, 23 Oct 2020 16:45:02 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/bfontaine/grape/versions/0.4.0-SNAPSHOT</guid>
     <title>[bfontaine/grape &quot;0.4.0-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/bfontaine/grape/versions/0.4.0-SNAPSHOT</link>
     <description>Syntax-aware Grep-like for Clojure code</description>
-    <pubDate>Fri, 23 Oct 2020 15:59:31 +0000</pubDate>
+    <pubDate>Fri, 23 Oct 2020 16:41:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.vaugusto92/clj-ttldb/versions/0.0.1-SNAPSHOT</guid>
+    <title>[org.clojars.vaugusto92/clj-ttldb &quot;0.0.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.vaugusto92/clj-ttldb/versions/0.0.1-SNAPSHOT</link>
+    <description>Clojure bindings for the facebook&#39;s rocksdbjni TtlDB.</description>
+    <pubDate>Fri, 23 Oct 2020 16:40:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.nomistech/orgmode/versions/0.8.0</guid>
+    <title>[com.nomistech/orgmode &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.nomistech/orgmode/versions/0.8.0</link>
+    <description>Org-mode parser</description>
+    <pubDate>Fri, 23 Oct 2020 16:09:21 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.nomistech/clj-utils/versions/0.14.0-SNAPSHOT</guid>
@@ -109,13 +144,6 @@
     <link>https://clojars.org/reacl/versions/2.1.4</link>
     <description>ClojureScript wrappers for programming with React</description>
     <pubDate>Fri, 23 Oct 2020 09:18:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/scicloj/tablecloth/versions/5.0-SNAPSHOT</guid>
-    <title>[scicloj/tablecloth &quot;5.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/scicloj/tablecloth/versions/5.0-SNAPSHOT</link>
-    <description>Dataset manipulation library built on the top of tech.ml.dataset.</description>
-    <pubDate>Fri, 23 Oct 2020 08:38:54 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/theorems/silvur/versions/1.9.6</guid>
@@ -1774,57 +1802,6 @@ application development.</description>
     <link>https://clojars.org/seancorfield/depstar/versions/1.1.132</link>
     <description>a clj-based uberjarrer</description>
     <pubDate>Tue, 20 Oct 2020 01:40:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/bukkit-for-clojure/lein-template/versions/0.1.0-SNAPSHOT</guid>
-    <title>[bukkit-for-clojure/lein-template &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/bukkit-for-clojure/lein-template/versions/0.1.0-SNAPSHOT</link>
-    <description>A Leiningen template for creating Bukkit plugins in Clojure</description>
-    <pubDate>Tue, 20 Oct 2020 00:55:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/porta-owl/versions/0.1.2-SNAPSHOT</guid>
-    <title>[porta-owl &quot;0.1.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/porta-owl/versions/0.1.2-SNAPSHOT</link>
-    <description>A DSL for Web Ontology Language (OWL) and SQWRL rule/query language.</description>
-    <pubDate>Mon, 19 Oct 2020 23:27:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/techascent/tech.ml.dataset/versions/5.00-alpha-6</guid>
-    <title>[techascent/tech.ml.dataset &quot;5.00-alpha-6&quot;]</title>
-    <link>https://clojars.org/techascent/tech.ml.dataset/versions/5.00-alpha-6</link>
-    <description>Clojure high performance data processing system</description>
-    <pubDate>Mon, 19 Oct 2020 23:04:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cnuernber/dtype-next/versions/6.00-alpha-5</guid>
-    <title>[cnuernber/dtype-next &quot;6.00-alpha-5&quot;]</title>
-    <link>https://clojars.org/cnuernber/dtype-next/versions/6.00-alpha-5</link>
-    <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.
-
-This library implements a subset of functionality required for &#39;array&#39; programming as well as several
-index-space algorithms for use with multiple arrays that share an index space.
-
-
-There is a top level interface defined in Java named Buffer that implements a generic typed read and write
-interface. This interface includes queries as to whether it is capable of reading or writing.
-
-
-There is an implementation of that interface built on java arrays that is denoted by the keyword :jvm-heap
-and there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.
-
-
-From here we have implementations of the interface to allow generic permutations in index space or
-an implementation of the Buffer interface that returns a constant value.
-
-
-We have operations for working in index space in tech.v3.datatype.argops and a functional math and
-descriptive statistics namespace - tech.v3.datatype.functional.
-
-
-Combining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has
-a zerocopy pathway from/to neanderthal, numpy, Smile&#39;s matrix class and java&#39;s BufferdImage class.</description>
-    <pubDate>Mon, 19 Oct 2020 22:59:39 +0000</pubDate>
   </item>
   </channel>
 </rss>

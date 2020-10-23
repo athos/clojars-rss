@@ -1,7 +1,3 @@
-{:jar_name "dtype-next", :group_name "cnuernber", :version "6.00-alpha-5", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.\n\nThis library implements a subset of functionality required for 'array' programming as well as several\nindex-space algorithms for use with multiple arrays that share an index space.\n\n\nThere is a top level interface defined in Java named Buffer that implements a generic typed read and write\ninterface. This interface includes queries as to whether it is capable of reading or writing.\n\n\nThere is an implementation of that interface built on java arrays that is denoted by the keyword :jvm-heap\nand there is an implementation of that interface built on native arrays denoted by the keyword :native-heap.\n\n\nFrom here we have implementations of the interface to allow generic permutations in index space or\nan implementation of the Buffer interface that returns a constant value.\n\n\nWe have operations for working in index space in tech.v3.datatype.argops and a functional math and\ndescriptive statistics namespace - tech.v3.datatype.functional.\n\n\nCombining a Buffer with an ND index operator gives us an NDBuffer implemented in tech.v3.tensor.  This has\na zerocopy pathway from/to neanderthal, numpy, Smile's matrix class and java's BufferdImage class.", :created 1603148379513}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.00-alpha-6", :description "Clojure high performance data processing system", :created 1603148696270}
-{:jar_name "porta-owl", :group_name "porta-owl", :version "0.1.2-SNAPSHOT", :description "A DSL for Web Ontology Language (OWL) and SQWRL rule/query language.", :created 1603150057338}
-{:jar_name "lein-template", :group_name "bukkit-for-clojure", :version "0.1.0-SNAPSHOT", :description "A Leiningen template for creating Bukkit plugins in Clojure", :created 1603155346347}
 {:jar_name "depstar", :group_name "seancorfield", :version "1.1.132", :description "a clj-based uberjarrer", :created 1603158022078}
 {:jar_name "lein-inferv", :group_name "lein-inferv", :version "20201020.015531.74d2ced", :description "Opinionated inferred versions as a lein plugin", :created 1603158936252}
 {:jar_name "lein-template", :group_name "bukkit-for-clojure", :version "0.1.1", :description "A Leiningen template for creating Bukkit plugins in Clojure", :created 1603159137293}
@@ -238,7 +234,6 @@
 {:jar_name "blueprintjs-datetime", :group_name "cljsjs", :version "3.19.3-0", :description "Blueprint is a React UI toolkit for the web.", :created 1603436696601}
 {:jar_name "active-clojure", :group_name "de.active-group", :version "0.37.0", :description "Active Clojure: Various Clojure utilities in use at Active Group", :created 1603437693980}
 {:jar_name "silvur", :group_name "theorems", :version "1.9.6", :description nil, :created 1603438870951}
-{:jar_name "tablecloth", :group_name "scicloj", :version "5.0-SNAPSHOT", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1603442334754}
 {:jar_name "reacl", :group_name "reacl", :version "2.1.4", :description "ClojureScript wrappers for programming with React", :created 1603444717927}
 {:jar_name "kirtimukh", :group_name "io.kalp.athang.durg", :version "1.0.0.4", :description nil, :created 1603449751556}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20201023-104207.2c42c026", :description nil, :created 1603449761888}
@@ -252,5 +247,10 @@
 {:jar_name "tick-util", :group_name "dv", :version "2030.0.2", :description "Utils for juxt/tick", :created 1603465616537}
 {:jar_name "clj-utils", :group_name "dv", :version "2020-10-23", :description "My helpers and additions", :created 1603465911466}
 {:jar_name "clj-utils", :group_name "com.nomistech", :version "0.14.0-SNAPSHOT", :description "Simon's Clojure utilities", :created 1603467511666}
-{:jar_name "grape", :group_name "bfontaine", :version "0.4.0-SNAPSHOT", :description "Syntax-aware Grep-like for Clojure code", :created 1603468771322}
 {:jar_name "orgmode", :group_name "com.nomistech", :version "0.8.0", :description "Org-mode parser", :created 1603469361623}
+{:jar_name "clj-ttldb", :group_name "org.clojars.vaugusto92", :version "0.0.1-SNAPSHOT", :description "Clojure bindings for the facebook's rocksdbjni TtlDB.", :created 1603471204248}
+{:jar_name "grape", :group_name "bfontaine", :version "0.4.0-SNAPSHOT", :description "Syntax-aware Grep-like for Clojure code", :created 1603471266004}
+{:jar_name "tablecloth", :group_name "scicloj", :version "5.0-SNAPSHOT", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1603471502625}
+{:jar_name "figwheel-core", :group_name "com.bhauman", :version "0.2.12-SNAPSHOT", :description "Figwheel core provides code reloading facilities for ClojureScript.", :created 1603471600669}
+{:jar_name "figwheel-repl", :group_name "com.bhauman", :version "0.2.12-SNAPSHOT", :description "Figwheel REPL provides a stable multiplexing REPL for ClojureScript", :created 1603471613673}
+{:jar_name "figwheel-main", :group_name "com.bhauman", :version "0.2.12-SNAPSHOT", :description "Figwheel Main - Clojurescript tooling.", :created 1603471628545}
