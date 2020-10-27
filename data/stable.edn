@@ -1,8 +1,3 @@
-{:jar_name "unifier", :group_name "ninja.anywhere", :version "0.3.0", :description "A simple response unifier", :created 1603231158751}
-{:jar_name "skill-bundler", :group_name "com.atomist", :version "0.1.28", :description nil, :created 1603234551463}
-{:jar_name "geni", :group_name "zero.one", :version "0.0.33", :description "A Clojure dataframe library that runs on Spark", :created 1603242612900}
-{:jar_name "lein-template", :group_name "geni", :version "0.0.33", :description "Leiningen template for a Geni application.", :created 1603242672472}
-{:jar_name "migratus", :group_name "migratus", :version "1.3.1", :description "MIGRATE ALL THE THINGS!", :created 1603246272569}
 {:jar_name "luminus-migrations", :group_name "luminus-migrations", :version "0.6.9", :description "Luminus migrations", :created 1603246639014}
 {:jar_name "lein-template", :group_name "luminus", :version "3.87", :description "a template for creating Luminus applications", :created 1603247829169}
 {:jar_name "faraday", :group_name "com.mouryaravi", :version "1.11.1+protocol", :description "Clojure DynamoDB client", :created 1603250110526}
@@ -254,3 +249,8 @@
 {:jar_name "pathom", :group_name "com.wsscode", :version "2.3.0-alpha17", :description "A Clojure library designed to provide a collection of helper functions to support Clojure(script) graph parsers using\nom.next graph syntax.", :created 1603806631075}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.11.6", :description "CLJS development tools", :created 1603808120430}
 {:jar_name "cloud-backend-database", :group_name "kolko", :version "2.0.3", :description nil, :created 1603811308830}
+{:jar_name "figwheel-core", :group_name "com.bhauman", :version "0.2.12", :description "Figwheel core provides code reloading facilities for ClojureScript.", :created 1603813834772}
+{:jar_name "figwheel-repl", :group_name "com.bhauman", :version "0.2.12", :description "Figwheel REPL provides a stable multiplexing REPL for ClojureScript", :created 1603813849388}
+{:jar_name "figwheel-main", :group_name "com.bhauman", :version "0.2.12", :description "Figwheel Main - Clojurescript tooling.", :created 1603813865188}
+{:jar_name "lein-template", :group_name "figwheel-main", :version "0.2.12", :description "A Leinigen template for figwheel", :created 1603814281081}
+{:jar_name "sci", :group_name "borkdude", :version "0.1.1-alpha.8", :description "Small Clojure Interpreter", :created 1603814757070}
