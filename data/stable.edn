@@ -1,12 +1,3 @@
-{:jar_name "sentinel-extension", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257244305}
-{:jar_name "sentinel-datasource-extension", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257257309}
-{:jar_name "sentinel-datasource-nacos", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257273021}
-{:jar_name "sentinel-datasource-zookeeper", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257290921}
-{:jar_name "sentinel-datasource-apollo", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257311765}
-{:jar_name "sentinel-datasource-redis", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257328781}
-{:jar_name "sentinel-annotation-aspectj", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257343129}
-{:jar_name "sentinel-transport", :group_name "com.platform.csp", :version "1.7.1", :description "The transport module of Sentinel", :created 1603257352301}
-{:jar_name "sentinel-transport-common", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257369761}
 {:jar_name "sentinel-parameter-flow-control", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257398473}
 {:jar_name "sentinel-datasource-spring-cloud-config", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257424349}
 {:jar_name "sentinel-datasource-consul", :group_name "com.platform.csp", :version "1.7.1", :description nil, :created 1603257438129}
@@ -254,3 +245,12 @@
 {:jar_name "cljc-misc", :group_name "com.wsscode", :version "0.0.4", :description "Collection of general utils for Clojure and Clojurescript.", :created 1603829097252}
 {:jar_name "clj-utils", :group_name "com.nomistech", :version "0.14.0", :description "Simon's Clojure utilities", :created 1603832088387}
 {:jar_name "wedge", :group_name "io.dominic", :version "0.4.0", :description nil, :created 1603832984909}
+{:jar_name "kurosawa.log", :group_name "org.purefn", :version "2.1.12", :description "A Kurosawa library for logging.", :created 1603833722503}
+{:jar_name "kurosawa.web", :group_name "org.purefn", :version "2.1.12", :description "The Kurosawa web library.", :created 1603833736223}
+{:jar_name "kurosawa.aws", :group_name "org.purefn", :version "2.1.12", :description "AWS Utilities.", :created 1603833749023}
+{:jar_name "kurosawa.nrepl", :group_name "org.purefn", :version "2.1.12", :description "The Kurosawa nREPL library.", :created 1603833760315}
+{:jar_name "kurosawa.core", :group_name "org.purefn", :version "2.1.12", :description "The root Kurosawa library.", :created 1603833772683}
+{:jar_name "kurosawa", :group_name "org.purefn", :version "2.1.12", :description "A catch-all project that brings in all Kurosawa libs.", :created 1603833787847}
+{:jar_name "emacs-hacks-in-clojure", :group_name "com.nomistech", :version "0.1.0", :description "Nomistech utilities in Clojure for use in Emacs across a REPL connection.", :created 1603834831070}
+{:jar_name "bunnicula", :group_name "nomnom", :version "2.2.0", :description "Bunnicula: RabbitMQ client", :created 1603836195613}
+{:jar_name "clj-template", :group_name "io.dominic.wedge", :version "0.6.0", :description nil, :created 1603836344897}
