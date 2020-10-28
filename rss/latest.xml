@@ -4,20 +4,104 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 28 Oct 2020 21:13:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2020 22:15:18 +0000</lastBuildDate>
   <item>
-    <guid>https://clojars.org/jepsen/versions/0.2.2-SNAPSHOT</guid>
-    <title>[jepsen &quot;0.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/jepsen/versions/0.2.2-SNAPSHOT</link>
-    <description>Distributed systems testing framework.</description>
-    <pubDate>Wed, 28 Oct 2020 21:12:45 +0000</pubDate>
+    <guid>https://clojars.org/com.dthume/data.interval-treeset/versions/0.1.3</guid>
+    <title>[com.dthume/data.interval-treeset &quot;0.1.3&quot;]</title>
+    <link>https://clojars.org/com.dthume/data.interval-treeset/versions/0.1.3</link>
+    <description>Interval Treeset based on finger trees.</description>
+    <pubDate>Wed, 28 Oct 2020 22:04:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-prometheus &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/log to Prometheus.</description>
+    <pubDate>Wed, 28 Oct 2020 21:53:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-zipkin &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/trace to OpenZipkin.</description>
+    <pubDate>Wed, 28 Oct 2020 21:53:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-slack &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/log to a Slack incoming webhook.</description>
+    <pubDate>Wed, 28 Oct 2020 21:53:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-cloudwatch &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/log to Cloudwatch.</description>
+    <pubDate>Wed, 28 Oct 2020 21:52:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-kinesis &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/log to Kinesis.</description>
+    <pubDate>Wed, 28 Oct 2020 21:52:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-kafka &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/log to Kafka.</description>
+    <pubDate>Wed, 28 Oct 2020 21:52:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-filesystem-metrics &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.6.0-SNAPSHOT</link>
+    <description>A filesystem metrics sampler for μ/log.</description>
+    <pubDate>Wed, 28 Oct 2020 21:52:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-jvm-metrics &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.6.0-SNAPSHOT</link>
+    <description>A JVM metrics sampler for μ/log.</description>
+    <pubDate>Wed, 28 Oct 2020 21:51:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-elasticsearch &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/log to Elasticsearch.</description>
+    <pubDate>Wed, 28 Oct 2020 21:51:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-json/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-json &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-json/versions/0.6.0-SNAPSHOT</link>
+    <description>μ/log json handling</description>
+    <pubDate>Wed, 28 Oct 2020 21:51:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog/versions/0.6.0-SNAPSHOT</link>
+    <description>μ/log is a micro-logging library that logs events and data, not words!</description>
+    <pubDate>Wed, 28 Oct 2020 21:51:10 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/threatgrid/ductile/versions/0.2.0-SNAPSHOT</guid>
     <title>[threatgrid/ductile &quot;0.2.0-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/threatgrid/ductile/versions/0.2.0-SNAPSHOT</link>
     <description>Yet another Clojure client for Elasticsearch REST API, that fits our needs</description>
-    <pubDate>Wed, 28 Oct 2020 21:12:14 +0000</pubDate>
+    <pubDate>Wed, 28 Oct 2020 21:20:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/jepsen/versions/0.2.2-SNAPSHOT</guid>
+    <title>[jepsen &quot;0.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/jepsen/versions/0.2.2-SNAPSHOT</link>
+    <description>Distributed systems testing framework.</description>
+    <pubDate>Wed, 28 Oct 2020 21:12:45 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.aphyr/data.interval-treeset/versions/0.1.3</guid>
@@ -1724,90 +1808,6 @@ of how to use this library.</description>
     <link>https://clojars.org/flower/flower-messaging/versions/0.4.7-SNAPSHOT</link>
     <description>Flower messaging integration</description>
     <pubDate>Thu, 22 Oct 2020 18:00:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/flower/flower-repository/versions/0.4.7-SNAPSHOT</guid>
-    <title>[flower/flower-repository &quot;0.4.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/flower/flower-repository/versions/0.4.7-SNAPSHOT</link>
-    <description>Flower repositories integration</description>
-    <pubDate>Thu, 22 Oct 2020 18:00:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/flower/flower-tracker/versions/0.4.7-SNAPSHOT</guid>
-    <title>[flower/flower-tracker &quot;0.4.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/flower/flower-tracker/versions/0.4.7-SNAPSHOT</link>
-    <description>Flower trackers integration</description>
-    <pubDate>Thu, 22 Oct 2020 18:00:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/flower/flower-integration-slack/versions/0.4.7-SNAPSHOT</guid>
-    <title>[flower/flower-integration-slack &quot;0.4.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/flower/flower-integration-slack/versions/0.4.7-SNAPSHOT</link>
-    <description>Flower integration with Slack</description>
-    <pubDate>Thu, 22 Oct 2020 18:00:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/flower/flower-integration-exchange/versions/0.4.7-SNAPSHOT</guid>
-    <title>[flower/flower-integration-exchange &quot;0.4.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/flower/flower-integration-exchange/versions/0.4.7-SNAPSHOT</link>
-    <description>Flower integration with Microsoft Exchange</description>
-    <pubDate>Thu, 22 Oct 2020 17:59:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/flower/flower-integration-tfs/versions/0.4.7-SNAPSHOT</guid>
-    <title>[flower/flower-integration-tfs &quot;0.4.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/flower/flower-integration-tfs/versions/0.4.7-SNAPSHOT</link>
-    <description>Flower integration with Microsoft TFS</description>
-    <pubDate>Thu, 22 Oct 2020 17:59:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/flower/flower-integration-jira/versions/0.4.7-SNAPSHOT</guid>
-    <title>[flower/flower-integration-jira &quot;0.4.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/flower/flower-integration-jira/versions/0.4.7-SNAPSHOT</link>
-    <description>Flower integration with Atlassian Jira</description>
-    <pubDate>Thu, 22 Oct 2020 17:59:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/flower/flower-integration-gitlab/versions/0.4.7-SNAPSHOT</guid>
-    <title>[flower/flower-integration-gitlab &quot;0.4.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/flower/flower-integration-gitlab/versions/0.4.7-SNAPSHOT</link>
-    <description>Flower integration with GitLab</description>
-    <pubDate>Thu, 22 Oct 2020 17:59:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/flower/flower-integration-github/versions/0.4.7-SNAPSHOT</guid>
-    <title>[flower/flower-integration-github &quot;0.4.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/flower/flower-integration-github/versions/0.4.7-SNAPSHOT</link>
-    <description>Flower integration with GitHub</description>
-    <pubDate>Thu, 22 Oct 2020 17:59:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/flower/flower-integration-default/versions/0.4.7-SNAPSHOT</guid>
-    <title>[flower/flower-integration-default &quot;0.4.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/flower/flower-integration-default/versions/0.4.7-SNAPSHOT</link>
-    <description>Flower mock integration</description>
-    <pubDate>Thu, 22 Oct 2020 17:58:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/flower/flower-common/versions/0.4.7-SNAPSHOT</guid>
-    <title>[flower/flower-common &quot;0.4.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/flower/flower-common/versions/0.4.7-SNAPSHOT</link>
-    <description>Flower common utilities</description>
-    <pubDate>Thu, 22 Oct 2020 17:58:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/flower/flower-proto/versions/0.4.7-SNAPSHOT</guid>
-    <title>[flower/flower-proto &quot;0.4.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/flower/flower-proto/versions/0.4.7-SNAPSHOT</link>
-    <description>Flower protocols</description>
-    <pubDate>Thu, 22 Oct 2020 17:58:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/de.active-group/reacl-c/versions/0.9.1</guid>
-    <title>[de.active-group/reacl-c &quot;0.9.1&quot;]</title>
-    <link>https://clojars.org/de.active-group/reacl-c/versions/0.9.1</link>
-    <description>Compositional and declarative user interface library for Clojure and Clojurescript.</description>
-    <pubDate>Thu, 22 Oct 2020 17:32:19 +0000</pubDate>
   </item>
   </channel>
 </rss>
