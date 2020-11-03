@@ -1,7 +1,3 @@
-{:jar_name "eql", :group_name "edn-query-language", :version "1.0.1", :description "EDN Query Language support library", :created 1603635002496}
-{:jar_name "dtype-next", :group_name "cnuernber", :version "6.00-alpha-12", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1603638881173}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.00-alpha-12", :description "Clojure high performance data processing system", :created 1603638972097}
-{:jar_name "tech.io.aws", :group_name "techascent", :version "4.02", :description "aws bindings for io subsystem", :created 1603639869527}
 {:jar_name "tech.jna", :group_name "techascent", :version "4.04", :description "Bindings to JNA.  Used with libpython-clj among others.", :created 1603640352540}
 {:jar_name "libpython-clj", :group_name "clj-python", :version "2.00-alpha-5", :description "libpython bindings for Clojure", :created 1603640470280}
 {:jar_name "core", :group_name "yetibot", :version "20201025.161907.80d87f6", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1603642942683}
@@ -47,7 +43,6 @@
 {:jar_name "cloud-backend-database", :group_name "kolko", :version "2.0.1", :description nil, :created 1603788830047}
 {:jar_name "tablecloth", :group_name "scicloj", :version "4.04.1", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1603789694081}
 {:jar_name "grape", :group_name "bfontaine", :version "0.5.0-SNAPSHOT", :description "Syntax-aware Grep-like for Clojure code", :created 1603791907775}
-{:jar_name "tablecloth", :group_name "scicloj", :version "5.0-SNAPSHOT", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1603795898497}
 {:jar_name "clj-service-detect", :group_name "dn", :version "0.1.0-SNAPSHOT", :description "Service detection library using env vars", :created 1603796608455}
 {:jar_name "grape", :group_name "bfontaine", :version "0.5.0", :description "Syntax-aware Grep-like for Clojure code", :created 1603796680075}
 {:jar_name "grape", :group_name "bfontaine", :version "0.5.1-SNAPSHOT", :description "Syntax-aware Grep-like for Clojure code", :created 1603797326668}
@@ -254,3 +249,8 @@
 {:jar_name "blueprint", :group_name "exoscale", :version "0.2.28", :description "Data definitions for APIs", :created 1604406818405}
 {:jar_name "clj-gcp", :group_name "ovotech", :version "0.6.8", :description "Clojure utilities for the Google Cloud Platform", :created 1604413295814}
 {:jar_name "component-discord-bot", :group_name "de.phenomdevel", :version "1.0.0-SNAPSHOT", :description "WIP", :created 1604415658847}
+{:jar_name "clj-gcp", :group_name "ovotech", :version "0.6.9", :description "Clojure utilities for the Google Cloud Platform", :created 1604416646622}
+{:jar_name "jdbc-ring-session", :group_name "jdbc-ring-session", :version "1.4.1", :description "Ring JDBC Session Store", :created 1604417757578}
+{:jar_name "tablecloth", :group_name "scicloj", :version "5.0-SNAPSHOT", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1604417865638}
+{:jar_name "duct.module.cambium", :group_name "duct.module.cambium", :version "1.2.0", :description "Duct module for Cambium", :created 1604418249406}
+{:jar_name "ablauf", :group_name "exoscale", :version "0.1.8", :description "long-running workflow management", :created 1604419496443}
