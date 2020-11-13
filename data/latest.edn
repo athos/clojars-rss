@@ -1,23 +1,3 @@
-{:jar_name "deps-deploy", :group_name "swirrl", :version "0.1.4-SNAPSHOT", :description nil, :created 1604496136839}
-{:jar_name "arco", :group_name "arco", :version "0.3.2", :description "Instant formatter to render time that has passed or is left since/to a certain event", :created 1604501803130}
-{:jar_name "repl-tooling", :group_name "repl-tooling", :version "0.5.3-SNAPSHOT", :description "", :created 1604502314163}
-{:jar_name "clj-gcp", :group_name "ovotech", :version "0.6.11", :description "Clojure utilities for the Google Cloud Platform", :created 1604504553870}
-{:jar_name "arco", :group_name "arco", :version "0.3.3", :description "Instant formatter to render time that has passed or is left since/to a certain event", :created 1604505603538}
-{:jar_name "yetibot", :group_name "yetibot", :version "20201104.160613.426eeae", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1604505985342}
-{:jar_name "yetibot", :group_name "yetibot", :version "20201104.161952.426eeae", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1604506805621}
-{:jar_name "abclj", :group_name "abclj", :version "0.1.0", :description "Armed Bear Clojure, dead easy Common Lisp interop", :created 1604507832066}
-{:jar_name "db", :group_name "com.fluree", :version "0.17.0-SNAPSHOT", :description nil, :created 1604508602118}
-{:jar_name "core", :group_name "yetibot", :version "20201104.171710.5a1e514", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1604510420490}
-{:jar_name "yetibot", :group_name "yetibot", :version "20201104.173714.171d678", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1604511468162}
-{:jar_name "cats", :group_name "funcool", :version "2.4.1", :description "Category Theory abstractions for Clojure", :created 1604511507814}
-{:jar_name "test", :group_name "swirrl", :version "999", :description nil, :created 1604512827990}
-{:jar_name "tech.resource", :group_name "techascent", :version "5.02", :description "Exception-safe threadsafe resource management", :created 1604513332049}
-{:jar_name "tech.jna", :group_name "techascent", :version "4.05", :description "Bindings to JNA.  Used with libpython-clj among others.", :created 1604513700390}
-{:jar_name "dtype-next", :group_name "cnuernber", :version "6.00-alpha-18", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1604515129423}
-{:jar_name "tech.io", :group_name "techascent", :version "4.03", :description "IO abstractions to enable rapid research, prototyping, and cross cloud\napplication development.", :created 1604515544091}
-{:jar_name "tech.io.aws", :group_name "techascent", :version "4.03", :description "aws bindings for io subsystem", :created 1604515694110}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.00-alpha-23", :description "Clojure high performance data processing system", :created 1604516357638}
-{:jar_name "state-flow", :group_name "nubank", :version "5.8.1", :description "Integration testing with composable flows", :created 1604516745462}
 {:jar_name "binf", :group_name "io.helins", :version "0.0.0-beta0", :description "Handling any binary format", :created 1604517234454}
 {:jar_name "rp-jackdaw-clj", :group_name "com.rentpath", :version "0.3.3", :description "Clojure Kafka components using Jackdaw", :created 1604519221526}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.11.7", :description "CLJS development tools", :created 1604519384856}
@@ -254,3 +234,23 @@
 {:jar_name "lein-bikeshed", :group_name "ertu", :version "0.1.11", :description "strA Leiningen plugin designed to tell you your code is bad, and that you should feel bad", :created 1605262947159}
 {:jar_name "dtype-next", :group_name "cnuernber", :version "6.00-alpha-22", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1605275902068}
 {:jar_name "babashka", :group_name "borkdude", :version "0.2.4-SNAPSHOT", :description "babashka", :created 1605276407571}
+{:jar_name "crux-core", :group_name "juxt", :version "20.11-1.13.1-beta-SNAPSHOT", :description "An open source document database with bitemporal graph queries", :created 1605277892058}
+{:jar_name "crux-rdf", :group_name "juxt", :version "20.11-1.13.1-alpha-SNAPSHOT", :description "Crux RDF", :created 1605277909646}
+{:jar_name "crux-metrics", :group_name "juxt", :version "20.11-1.13.1-alpha-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1605277924854}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.11-1.13.1-beta-SNAPSHOT", :description "Crux RocksDB", :created 1605277941606}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "20.11-1.13.1-alpha-SNAPSHOT", :description "Crux LMDB", :created 1605277953670}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.11-1.13.1-beta-SNAPSHOT", :description "Crux JDBC", :created 1605277966414}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.11-1.13.1-beta-SNAPSHOT", :description "Crux HTTP Client", :created 1605277980842}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.11-1.13.1-alpha-SNAPSHOT", :description "Crux HTTP Server", :created 1605277996278}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.11-1.13.1-beta-SNAPSHOT", :description "Crux Kafka Embedded", :created 1605278010834}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.11-1.13.1-beta-SNAPSHOT", :description "Crux Kafka Connect", :created 1605278027538}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.11-1.13.1-beta-SNAPSHOT", :description "Crux Kafka", :created 1605278044814}
+{:jar_name "crux-sql", :group_name "juxt", :version "20.11-1.13.1-alpha-SNAPSHOT", :description "SQL for Crux using Apache Calcite", :created 1605278060111}
+{:jar_name "crux-lucene", :group_name "juxt", :version "20.11-1.13.1-alpha-SNAPSHOT", :description "Crux Lucene integration", :created 1605278073215}
+{:jar_name "crux-test", :group_name "juxt", :version "20.11-1.13.1-SNAPSHOT", :description "Crux Tests Project", :created 1605278091339}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.11-1.13.1-beta-SNAPSHOT", :description "", :created 1605278106595}
+{:jar_name "crux-azure-blobs", :group_name "juxt", :version "20.11-1.13.1-alpha-SNAPSHOT", :description "", :created 1605278119031}
+{:jar_name "crux-bench", :group_name "juxt", :version "20.11-1.13.1-SNAPSHOT", :description "", :created 1605278149263}
+{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.00-beta-2", :description "Clojure high performance data processing system", :created 1605278971671}
+{:jar_name "proxy-plus", :group_name "com.rpl", :version "0.0.4", :description "A faster and more usable replacement for Clojure's proxy.", :created 1605279015355}
+{:jar_name "tonos-client", :group_name "tonos-client", :version "1.0.0", :description "Clojure bindings to TON OS SDK's Core Client Library", :created 1605279626558}
