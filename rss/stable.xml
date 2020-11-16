@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 16 Nov 2020 07:09:54 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2020 08:11:23 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia-manifold/versions/4.3.5</guid>
+    <title>[cc.qbits/alia-manifold &quot;4.3.5&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia-manifold/versions/4.3.5</link>
+    <description></description>
+    <pubDate>Mon, 16 Nov 2020 07:25:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia-joda-time/versions/4.3.5</guid>
+    <title>[cc.qbits/alia-joda-time &quot;4.3.5&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia-joda-time/versions/4.3.5</link>
+    <description>Alia extension for joda-time codec</description>
+    <pubDate>Mon, 16 Nov 2020 07:25:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia-java-time/versions/4.3.5</guid>
+    <title>[cc.qbits/alia-java-time &quot;4.3.5&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia-java-time/versions/4.3.5</link>
+    <description>Alia extension for joda-time codec</description>
+    <pubDate>Mon, 16 Nov 2020 07:25:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia-component/versions/4.3.5</guid>
+    <title>[cc.qbits/alia-component &quot;4.3.5&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia-component/versions/4.3.5</link>
+    <description>Component integration for Alia</description>
+    <pubDate>Mon, 16 Nov 2020 07:25:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia-async/versions/4.3.5</guid>
+    <title>[cc.qbits/alia-async &quot;4.3.5&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia-async/versions/4.3.5</link>
+    <description>core.async interface for Alia</description>
+    <pubDate>Mon, 16 Nov 2020 07:24:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia-spec/versions/4.3.5</guid>
+    <title>[cc.qbits/alia-spec &quot;4.3.5&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia-spec/versions/4.3.5</link>
+    <description>clojure.spec for Alia</description>
+    <pubDate>Mon, 16 Nov 2020 07:24:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia/versions/4.3.5</guid>
+    <title>[cc.qbits/alia &quot;4.3.5&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia/versions/4.3.5</link>
+    <description>Cassandra CQL3 client for Clojure - datastax/java-driver wrapper</description>
+    <pubDate>Mon, 16 Nov 2020 07:24:17 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/toyokumo/kintone-client/versions/0.6.0</guid>
     <title>[toyokumo/kintone-client &quot;0.6.0&quot;]</title>
@@ -1758,55 +1807,6 @@ application development.</description>
     <link>https://clojars.org/za.co.simply/simply.core/versions/1.1.58</link>
     <description>Simply Core Libs</description>
     <pubDate>Wed, 4 Nov 2020 10:31:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ovotech/clj-gcp/versions/0.6.10</guid>
-    <title>[ovotech/clj-gcp &quot;0.6.10&quot;]</title>
-    <link>https://clojars.org/ovotech/clj-gcp/versions/0.6.10</link>
-    <description>Clojure utilities for the Google Cloud Platform</description>
-    <pubDate>Wed, 4 Nov 2020 09:11:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/stock-grok/util.messaging/versions/1.2.0</guid>
-    <title>[stock-grok/util.messaging &quot;1.2.0&quot;]</title>
-    <link>https://clojars.org/stock-grok/util.messaging/versions/1.2.0</link>
-    <description>FIXME: write description</description>
-    <pubDate>Wed, 4 Nov 2020 04:04:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/stock-grok/spec/versions/0.7.0</guid>
-    <title>[stock-grok/spec &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/stock-grok/spec/versions/0.7.0</link>
-    <description>SG data and boundary specifications</description>
-    <pubDate>Wed, 4 Nov 2020 04:02:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/db-model/versions/0.1.8</guid>
-    <title>[db-model &quot;0.1.8&quot;]</title>
-    <link>https://clojars.org/db-model/versions/0.1.8</link>
-    <description>配合duct framework，自動產生資料庫中英字典檔．spec．graphql schema及sql等檔案，避免重複人工作業。</description>
-    <pubDate>Wed, 4 Nov 2020 04:02:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/sql-compose/versions/0.1.1</guid>
-    <title>[sql-compose &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/sql-compose/versions/0.1.1</link>
-    <description>A simple sql query composer for clojure.</description>
-    <pubDate>Wed, 4 Nov 2020 02:00:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/puppetlabs/clj-parent/versions/4.6.9</guid>
-    <title>[puppetlabs/clj-parent &quot;4.6.9&quot;]</title>
-    <link>https://clojars.org/puppetlabs/clj-parent/versions/4.6.9</link>
-    <description></description>
-    <pubDate>Tue, 3 Nov 2020 23:40:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/techascent/tech.ml.dataset/versions/5.00-alpha-22</guid>
-    <title>[techascent/tech.ml.dataset &quot;5.00-alpha-22&quot;]</title>
-    <link>https://clojars.org/techascent/tech.ml.dataset/versions/5.00-alpha-22</link>
-    <description>Clojure high performance data processing system</description>
-    <pubDate>Tue, 3 Nov 2020 22:39:14 +0000</pubDate>
   </item>
   </channel>
 </rss>
