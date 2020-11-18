@@ -1,16 +1,3 @@
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1604976157180}
-{:jar_name "clj-icat-direct", :group_name "org.cyverse", :version "2.8.11-SNAPSHOT", :description "A Clojure library for accessing the iRODS ICAT database directly.", :created 1604978214111}
-{:jar_name "yetibot", :group_name "yetibot", :version "20201110.041935.1c54200", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1604981989372}
-{:jar_name "donkey", :group_name "com.appsflyer", :version "0.1.0-SNAPSHOT", :description "Clojure Web Server and Client", :created 1604993733588}
-{:jar_name "hicada", :group_name "hicada", :version "0.1.9", :description "A hiccup compiler for clojurescript", :created 1604994008993}
-{:jar_name "markdown", :group_name "respo", :version "0.2.6-a1", :description nil, :created 1604995003994}
-{:jar_name "clj-nippy-serde", :group_name "bigsy", :version "0.1.3", :description "FIXME: write description", :created 1604996993736}
-{:jar_name "jupyter", :group_name "clj-ksql", :version "0.11.0-39-snapshot", :description "Clojure client for ksql", :created 1605002700754}
-{:jar_name "github-api-lib", :group_name "eamonnsullivan", :version "0.1.18", :description "Library of Github API calls that I happen to need.", :created 1605003187072}
-{:jar_name "clolyze", :group_name "clolyze", :version "0.6.0-SNAPSHOT", :description "A static code analyzer for Clojure.", :created 1605005965453}
-{:jar_name "wedge", :group_name "io.dominic", :version "0.6.0", :description nil, :created 1605006997458}
-{:jar_name "clj-template", :group_name "io.dominic.wedge", :version "0.10.0", :description nil, :created 1605007547485}
-{:jar_name "clolyze", :group_name "clolyze", :version "0.6.0", :description "A static code analyzer for Clojure.", :created 1605007792314}
 {:jar_name "net-http", :group_name "exoscale", :version "0.1.0-alpha5", :description "java.net.http helpers", :created 1605011178586}
 {:jar_name "active-logger", :group_name "de.active-group", :version "0.1.0", :description "Active Logger: Utilities and DSL for logging on top of Timbre.", :created 1605013485420}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.9.2", :description "Core utils library for Clojure/Script", :created 1605019042127}
@@ -252,5 +239,18 @@
 {:jar_name "guardrails", :group_name "com.fulcrologic", :version "1.0.0-SNAPSHOT", :description "A library for using Clojure specs more like a type system during development.", :created 1605659646593}
 {:jar_name "cljs-emotion", :group_name "dv", :version "2020-11-17", :description "ClojureScript wrapper of emotion css-in-js library", :created 1605660435604}
 {:jar_name "alternate-deps", :group_name "com.fulcrologic", :version "1.0.0-SNAPSHOT", :description "Re-namespaces dependencies for Pro offerings of Fulcrologic.", :created 1605660526585}
-{:jar_name "cljam", :group_name "cljam", :version "0.8.1-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1605661809490}
 {:jar_name "prospero", :group_name "prospero", :version "0.1.1", :description "A multi-target pure Clojure(Script) game engine", :created 1605668800195}
+{:jar_name "iris", :group_name "prospero", :version "0.1.1", :description "Iris React renderer for Prospoero", :created 1605669275141}
+{:jar_name "cljam", :group_name "cljam", :version "0.8.1-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1605670008197}
+{:jar_name "pom", :group_name "typed", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure", :created 1605672206303}
+{:jar_name "analyzer", :group_name "typed.cljc", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1605672215639}
+{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1605672222987}
+{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1605672233543}
+{:jar_name "runtime", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1605672239811}
+{:jar_name "spec", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Type-like specs.", :created 1605672247215}
+{:jar_name "clojure", :group_name "typed.lib", :version "1.0.13-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1605672253531}
+{:jar_name "lang", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1605672259959}
+{:jar_name "checker", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1605672266903}
+{:jar_name "checker", :group_name "typed.cljs", :version "1.0.13-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1605672273811}
+{:jar_name "annotator", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1605672280755}
+{:jar_name "core.async", :group_name "typed.lib", :version "1.0.13-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1605672287239}

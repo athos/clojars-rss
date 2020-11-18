@@ -4,20 +4,111 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 18 Nov 2020 03:09:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2020 04:12:05 +0000</lastBuildDate>
   <item>
-    <guid>https://clojars.org/prospero/versions/0.1.1</guid>
-    <title>[prospero &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/prospero/versions/0.1.1</link>
-    <description>A multi-target pure Clojure(Script) game engine</description>
-    <pubDate>Wed, 18 Nov 2020 03:06:40 +0000</pubDate>
+    <guid>https://clojars.org/typed.lib/core.async/versions/1.0.13-SNAPSHOT</guid>
+    <title>[typed.lib/core.async &quot;1.0.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/typed.lib/core.async/versions/1.0.13-SNAPSHOT</link>
+    <description>Type annotations and macros for core.async.</description>
+    <pubDate>Wed, 18 Nov 2020 04:04:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/typed.clj/annotator/versions/1.0.13-SNAPSHOT</guid>
+    <title>[typed.clj/annotator &quot;1.0.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/typed.clj/annotator/versions/1.0.13-SNAPSHOT</link>
+    <description>Runtime type inference algorithm for core.typed and clojure.spec.</description>
+    <pubDate>Wed, 18 Nov 2020 04:04:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/typed.cljs/checker/versions/1.0.13-SNAPSHOT</guid>
+    <title>[typed.cljs/checker &quot;1.0.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/typed.cljs/checker/versions/1.0.13-SNAPSHOT</link>
+    <description>An optional type system for ClojureScript — full system for annotating and type-checking.</description>
+    <pubDate>Wed, 18 Nov 2020 04:04:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/typed.clj/checker/versions/1.0.13-SNAPSHOT</guid>
+    <title>[typed.clj/checker &quot;1.0.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/typed.clj/checker/versions/1.0.13-SNAPSHOT</link>
+    <description>An optional type system for Clojure — full system for annotating and type-checking.</description>
+    <pubDate>Wed, 18 Nov 2020 04:04:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/typed.clj/lang/versions/1.0.13-SNAPSHOT</guid>
+    <title>[typed.clj/lang &quot;1.0.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/typed.clj/lang/versions/1.0.13-SNAPSHOT</link>
+    <description>Extensible languages in Clojure, a la Racket&#39;s #lang.</description>
+    <pubDate>Wed, 18 Nov 2020 04:04:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/typed.lib/clojure/versions/1.0.13-SNAPSHOT</guid>
+    <title>[typed.lib/clojure &quot;1.0.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/typed.lib/clojure/versions/1.0.13-SNAPSHOT</link>
+    <description>Type annotations and macros for the base Clojure distribution.</description>
+    <pubDate>Wed, 18 Nov 2020 04:04:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/typed.clj/spec/versions/1.0.13-SNAPSHOT</guid>
+    <title>[typed.clj/spec &quot;1.0.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/typed.clj/spec/versions/1.0.13-SNAPSHOT</link>
+    <description>Type-like specs.</description>
+    <pubDate>Wed, 18 Nov 2020 04:04:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/typed.clj/runtime/versions/1.0.13-SNAPSHOT</guid>
+    <title>[typed.clj/runtime &quot;1.0.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/typed.clj/runtime/versions/1.0.13-SNAPSHOT</link>
+    <description>An optional type system for Clojure — zero-dependency artifact for annotations only.</description>
+    <pubDate>Wed, 18 Nov 2020 04:03:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/typed.cljs/analyzer/versions/1.0.13-SNAPSHOT</guid>
+    <title>[typed.cljs/analyzer &quot;1.0.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/typed.cljs/analyzer/versions/1.0.13-SNAPSHOT</link>
+    <description>A variant of tools.analyzer.js.</description>
+    <pubDate>Wed, 18 Nov 2020 04:03:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/typed.clj/analyzer/versions/1.0.13-SNAPSHOT</guid>
+    <title>[typed.clj/analyzer &quot;1.0.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/typed.clj/analyzer/versions/1.0.13-SNAPSHOT</link>
+    <description>A variant of tools.analyzer.jvm.</description>
+    <pubDate>Wed, 18 Nov 2020 04:03:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/typed.cljc/analyzer/versions/1.0.13-SNAPSHOT</guid>
+    <title>[typed.cljc/analyzer &quot;1.0.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/typed.cljc/analyzer/versions/1.0.13-SNAPSHOT</link>
+    <description>A variant of tools.analyzer.</description>
+    <pubDate>Wed, 18 Nov 2020 04:03:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/typed/pom/versions/1.0.13-SNAPSHOT</guid>
+    <title>[typed/pom &quot;1.0.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/typed/pom/versions/1.0.13-SNAPSHOT</link>
+    <description>An optional type system for Clojure</description>
+    <pubDate>Wed, 18 Nov 2020 04:03:26 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/cljam/versions/0.8.1-SNAPSHOT</guid>
     <title>[cljam &quot;0.8.1-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/cljam/versions/0.8.1-SNAPSHOT</link>
     <description>A DNA Sequence Alignment/Map (SAM) library for Clojure</description>
-    <pubDate>Wed, 18 Nov 2020 01:10:09 +0000</pubDate>
+    <pubDate>Wed, 18 Nov 2020 03:26:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/prospero/iris/versions/0.1.1</guid>
+    <title>[prospero/iris &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/prospero/iris/versions/0.1.1</link>
+    <description>Iris React renderer for Prospoero</description>
+    <pubDate>Wed, 18 Nov 2020 03:14:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/prospero/versions/0.1.1</guid>
+    <title>[prospero &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/prospero/versions/0.1.1</link>
+    <description>A multi-target pure Clojure(Script) game engine</description>
+    <pubDate>Wed, 18 Nov 2020 03:06:40 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.fulcrologic/alternate-deps/versions/1.0.0-SNAPSHOT</guid>
@@ -1712,97 +1803,6 @@
     <link>https://clojars.org/exoscale/net-http/versions/0.1.0-alpha5</link>
     <description>java.net.http helpers</description>
     <pubDate>Tue, 10 Nov 2020 12:26:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/clolyze/versions/0.6.0</guid>
-    <title>[clolyze &quot;0.6.0&quot;]</title>
-    <link>https://clojars.org/clolyze/versions/0.6.0</link>
-    <description>A static code analyzer for Clojure.</description>
-    <pubDate>Tue, 10 Nov 2020 11:29:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.dominic.wedge/clj-template/versions/0.10.0</guid>
-    <title>[io.dominic.wedge/clj-template &quot;0.10.0&quot;]</title>
-    <link>https://clojars.org/io.dominic.wedge/clj-template/versions/0.10.0</link>
-    <description></description>
-    <pubDate>Tue, 10 Nov 2020 11:25:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.dominic/wedge/versions/0.6.0</guid>
-    <title>[io.dominic/wedge &quot;0.6.0&quot;]</title>
-    <link>https://clojars.org/io.dominic/wedge/versions/0.6.0</link>
-    <description></description>
-    <pubDate>Tue, 10 Nov 2020 11:16:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/clolyze/versions/0.6.0-SNAPSHOT</guid>
-    <title>[clolyze &quot;0.6.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/clolyze/versions/0.6.0-SNAPSHOT</link>
-    <description>A static code analyzer for Clojure.</description>
-    <pubDate>Tue, 10 Nov 2020 10:59:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/eamonnsullivan/github-api-lib/versions/0.1.18</guid>
-    <title>[eamonnsullivan/github-api-lib &quot;0.1.18&quot;]</title>
-    <link>https://clojars.org/eamonnsullivan/github-api-lib/versions/0.1.18</link>
-    <description>Library of Github API calls that I happen to need.</description>
-    <pubDate>Tue, 10 Nov 2020 10:13:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/clj-ksql/jupyter/versions/0.11.0-39-snapshot</guid>
-    <title>[clj-ksql/jupyter &quot;0.11.0-39-snapshot&quot;]</title>
-    <link>https://clojars.org/clj-ksql/jupyter/versions/0.11.0-39-snapshot</link>
-    <description>Clojure client for ksql</description>
-    <pubDate>Tue, 10 Nov 2020 10:05:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/bigsy/clj-nippy-serde/versions/0.1.3</guid>
-    <title>[bigsy/clj-nippy-serde &quot;0.1.3&quot;]</title>
-    <link>https://clojars.org/bigsy/clj-nippy-serde/versions/0.1.3</link>
-    <description>FIXME: write description</description>
-    <pubDate>Tue, 10 Nov 2020 08:29:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/respo/markdown/versions/0.2.6-a1</guid>
-    <title>[respo/markdown &quot;0.2.6-a1&quot;]</title>
-    <link>https://clojars.org/respo/markdown/versions/0.2.6-a1</link>
-    <description></description>
-    <pubDate>Tue, 10 Nov 2020 07:56:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/hicada/versions/0.1.9</guid>
-    <title>[hicada &quot;0.1.9&quot;]</title>
-    <link>https://clojars.org/hicada/versions/0.1.9</link>
-    <description>A hiccup compiler for clojurescript</description>
-    <pubDate>Tue, 10 Nov 2020 07:40:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.appsflyer/donkey/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.appsflyer/donkey &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.appsflyer/donkey/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure Web Server and Client</description>
-    <pubDate>Tue, 10 Nov 2020 07:35:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20201110.041935.1c54200</guid>
-    <title>[yetibot &quot;20201110.041935.1c54200&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20201110.041935.1c54200</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Tue, 10 Nov 2020 04:19:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.cyverse/clj-icat-direct/versions/2.8.11-SNAPSHOT</guid>
-    <title>[org.cyverse/clj-icat-direct &quot;2.8.11-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.cyverse/clj-icat-direct/versions/2.8.11-SNAPSHOT</link>
-    <description>A Clojure library for accessing the iRODS ICAT database directly.</description>
-    <pubDate>Tue, 10 Nov 2020 03:16:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/degree9/enterprise/versions/0.2.0-SNAPSHOT</guid>
-    <title>[degree9/enterprise &quot;0.2.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/degree9/enterprise/versions/0.2.0-SNAPSHOT</link>
-    <description>Degree9 Enterprise Platform.</description>
-    <pubDate>Tue, 10 Nov 2020 02:42:37 +0000</pubDate>
   </item>
   </channel>
 </rss>
