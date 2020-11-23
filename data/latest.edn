@@ -1,6 +1,3 @@
-{:jar_name "core", :group_name "wing", :version "0.1.4", :description "Extensions to the clojure standard library", :created 1605376978569}
-{:jar_name "malli", :group_name "wing", :version "0.1.4", :description "Malli related functionality for Wing", :created 1605376987789}
-{:jar_name "repl", :group_name "wing", :version "0.1.4", :description "Repl functionality for Wing", :created 1605376996977}
 {:jar_name "test", :group_name "wing", :version "0.1.4", :description "Testing utilities for Wing", :created 1605377005957}
 {:jar_name "wing", :group_name "wing", :version "0.1.4", :description "Batteries included framework for building applications", :created 1605377014893}
 {:jar_name "lein-template", :group_name "luminus", :version "3.88", :description "a template for creating Luminus applications", :created 1605380103971}
@@ -236,21 +233,24 @@
 {:jar_name "storage-backend", :group_name "storage-backend", :version "0.1.10", :description "FIXME: write description", :created 1606079346656}
 {:jar_name "penkala", :group_name "com.verybigthings", :version "0.0.2", :description "Composable query builder for PostgreSQL.", :created 1606084722110}
 {:jar_name "hodur-translate", :group_name "hodur-translate", :version "0.1.3", :description "hodur plugins, postgres supported", :created 1606086275173}
-{:jar_name "pom", :group_name "typed", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure", :created 1606086382266}
-{:jar_name "analyzer", :group_name "typed.cljc", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1606086390642}
-{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1606086396962}
-{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1606086403250}
-{:jar_name "runtime", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1606086409646}
-{:jar_name "spec", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Type-like specs.", :created 1606086415806}
-{:jar_name "clojure", :group_name "typed.lib", :version "1.0.13-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1606086422398}
-{:jar_name "lang", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1606086428742}
-{:jar_name "checker", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1606086435214}
-{:jar_name "checker", :group_name "typed.cljs", :version "1.0.13-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1606086441870}
-{:jar_name "annotator", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1606086448314}
-{:jar_name "core.async", :group_name "typed.lib", :version "1.0.13-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1606086454738}
 {:jar_name "cuic", :group_name "cuic", :version "0.6.0-20201123.1", :description "Concise UI testing with Clojure", :created 1606087974117}
 {:jar_name "uikit-hl", :group_name "degree9", :version "3.5.9-SNAPSHOT", :description "UIKit Components for Hoplon.", :created 1606090908255}
 {:jar_name "fbia-client", :group_name "fbia-client", :version "0.5.1", :description "Facebook instant articles client in clojure", :created 1606093566380}
 {:jar_name "gql-format", :group_name "gql-format", :version "0.1.1", :description "A declaritive data formatting library for constructing GraphQL queries and transforming its results.", :created 1606093774521}
 {:jar_name "experience", :group_name "degree9", :version "0.0.0-SNAPSHOT", :description "Degree9 Experience for Enterprise.", :created 1606096130688}
 {:jar_name "hodur-translate", :group_name "hodur-translate", :version "0.1.4", :description "hodur plugins, postgres supported", :created 1606096503022}
+{:jar_name "hodur-translate", :group_name "hodur-translate", :version "0.1.5", :description "hodur plugins, postgres supported", :created 1606098828349}
+{:jar_name "iny", :group_name "iny", :version "0.0.1", :description "Performant Clojure HTTP server", :created 1606099528764}
+{:jar_name "iny", :group_name "social.kitsune", :version "0.0.1", :description "Performant Clojure HTTP server", :created 1606099681853}
+{:jar_name "pom", :group_name "typed", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure", :created 1606100800502}
+{:jar_name "analyzer", :group_name "typed.cljc", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1606100807734}
+{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1606100814034}
+{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1606100821210}
+{:jar_name "runtime", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1606100827910}
+{:jar_name "spec", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Type-like specs.", :created 1606100834426}
+{:jar_name "clojure", :group_name "typed.lib", :version "1.0.13-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1606100840778}
+{:jar_name "lang", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1606100847042}
+{:jar_name "checker", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1606100853902}
+{:jar_name "checker", :group_name "typed.cljs", :version "1.0.13-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1606100860370}
+{:jar_name "annotator", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1606100866990}
+{:jar_name "core.async", :group_name "typed.lib", :version "1.0.13-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1606100873486}
