@@ -1,4 +1,3 @@
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.3-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1605877016729}
 {:jar_name "datahike-jdbc", :group_name "io.replikativ", :version "0.1.2-SNAPSHOT", :description "Datahike with JDBC data storage backend", :created 1605878099850}
 {:jar_name "flow-storm-debugger", :group_name "jpmonettas", :version "0.4.1", :description nil, :created 1605878305067}
 {:jar_name "flow-storm", :group_name "jpmonettas", :version "0.4.1", :description nil, :created 1605878440280}
@@ -239,12 +238,6 @@
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.4.5", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1606594834745}
 {:jar_name "wedge", :group_name "io.dominic", :version "0.11.0", :description nil, :created 1606599608238}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.00-beta-12", :description "Clojure high performance data processing system", :created 1606600321846}
-{:jar_name "kube-api", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A set of Kubernetes libraries for Clojure.", :created 1606608280266}
-{:jar_name "kube-api-core", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A Kubernetes API client for Clojure.", :created 1606608290438}
-{:jar_name "kube-api-controllers", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A Kubernetes controller library for Clojure.", :created 1606608298538}
-{:jar_name "kube-api-io", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A Kubernetes io library for Clojure (exec, attach, port-forward, proxy, etc).", :created 1606608308090}
-{:jar_name "kube-api-ring", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A library for implementing", :created 1606608317130}
-{:jar_name "kube-api-term", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A library for opening emulated terminals into kubernetes pods from Clojure.", :created 1606608326646}
 {:jar_name "notespace", :group_name "scicloj", :version "3-alpha3-SNAPSHOT", :description "Notebook experience in your Clojure namespace.", :created 1606608560971}
 {:jar_name "tech.ml", :group_name "techascent", :version "5.00-beta-12", :description "Basic machine learning toolkit.  `tech.v3.ml` is the root\nnamespace and provides train/predict pathways based on datasets and\nan options map.  Please see the xgboost article for a quick runthough\nof how to use this library.", :created 1606610882149}
 {:jar_name "tech.ml.dataset.sql", :group_name "techascent", :version "5.00-beta-12", :description "SQL bindings for the 5.X branch of tech.ml.dataset", :created 1606611050282}
@@ -254,3 +247,10 @@
 {:jar_name "jwt-backend", :group_name "tendant", :version "0.1.1", :description "FIXME: write description", :created 1606623376338}
 {:jar_name "dmote-keycap", :group_name "dmote-keycap", :version "0.4.0", :description "Printable keycap models for mechanical keyboards", :created 1606628600023}
 {:jar_name "seesaw", :group_name "ntestoc", :version "0.1.6", :description "A Swing wrapper/DSL for Clojure with virtual dom. You want seesaw.core, FYI. See http://seesaw-clj.org for more info.", :created 1606629557112}
+{:jar_name "kube-api", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A set of Kubernetes libraries for Clojure.", :created 1606632326292}
+{:jar_name "kube-api-test", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A library for testing kubernetes libraries and applications from Clojure.", :created 1606632335117}
+{:jar_name "kube-api-core", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A Kubernetes API client for Clojure.", :created 1606632344573}
+{:jar_name "kube-api-controllers", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A Kubernetes controller library for Clojure.", :created 1606632354669}
+{:jar_name "kube-api-io", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A Kubernetes io library for Clojure (exec, attach, port-forward, proxy, etc).", :created 1606632363009}
+{:jar_name "kube-api-ring", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A library for implementing", :created 1606632371681}
+{:jar_name "kube-api-term", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A library for opening emulated terminals into kubernetes pods from Clojure.", :created 1606632380581}
