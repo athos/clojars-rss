@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 28 Nov 2020 23:10:48 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 29 Nov 2020 00:31:56 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/scicloj/notespace/versions/3-alpha3-SNAPSHOT</guid>
+    <title>[scicloj/notespace &quot;3-alpha3-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/scicloj/notespace/versions/3-alpha3-SNAPSHOT</link>
+    <description>Notebook experience in your Clojure namespace.</description>
+    <pubDate>Sun, 29 Nov 2020 00:09:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/kube-api/kube-api-term/versions/0.1.0-SNAPSHOT</guid>
+    <title>[kube-api/kube-api-term &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/kube-api/kube-api-term/versions/0.1.0-SNAPSHOT</link>
+    <description>A library for opening emulated terminals into kubernetes pods from Clojure.</description>
+    <pubDate>Sun, 29 Nov 2020 00:05:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/kube-api/kube-api-ring/versions/0.1.0-SNAPSHOT</guid>
+    <title>[kube-api/kube-api-ring &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/kube-api/kube-api-ring/versions/0.1.0-SNAPSHOT</link>
+    <description>A library for implementing</description>
+    <pubDate>Sun, 29 Nov 2020 00:05:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/kube-api/kube-api-io/versions/0.1.0-SNAPSHOT</guid>
+    <title>[kube-api/kube-api-io &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/kube-api/kube-api-io/versions/0.1.0-SNAPSHOT</link>
+    <description>A Kubernetes io library for Clojure (exec, attach, port-forward, proxy, etc).</description>
+    <pubDate>Sun, 29 Nov 2020 00:05:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/kube-api/kube-api-controllers/versions/0.1.0-SNAPSHOT</guid>
+    <title>[kube-api/kube-api-controllers &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/kube-api/kube-api-controllers/versions/0.1.0-SNAPSHOT</link>
+    <description>A Kubernetes controller library for Clojure.</description>
+    <pubDate>Sun, 29 Nov 2020 00:04:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/kube-api/kube-api-core/versions/0.1.0-SNAPSHOT</guid>
+    <title>[kube-api/kube-api-core &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/kube-api/kube-api-core/versions/0.1.0-SNAPSHOT</link>
+    <description>A Kubernetes API client for Clojure.</description>
+    <pubDate>Sun, 29 Nov 2020 00:04:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/kube-api/versions/0.1.0-SNAPSHOT</guid>
+    <title>[kube-api &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/kube-api/versions/0.1.0-SNAPSHOT</link>
+    <description>A set of Kubernetes libraries for Clojure.</description>
+    <pubDate>Sun, 29 Nov 2020 00:04:40 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/degree9/experience/versions/0.0.0-SNAPSHOT</guid>
     <title>[degree9/experience &quot;0.0.0-SNAPSHOT&quot;]</title>
@@ -25,41 +74,6 @@
     <link>https://clojars.org/io.dominic/wedge/versions/0.11.0</link>
     <description></description>
     <pubDate>Sat, 28 Nov 2020 21:40:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/kube-api/kube-api-term/versions/0.1.0-SNAPSHOT</guid>
-    <title>[kube-api/kube-api-term &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/kube-api/kube-api-term/versions/0.1.0-SNAPSHOT</link>
-    <description>A library for opening emulated terminals into kubernetes pods from Clojure.</description>
-    <pubDate>Sat, 28 Nov 2020 20:42:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/kube-api/kube-api-io/versions/0.1.0-SNAPSHOT</guid>
-    <title>[kube-api/kube-api-io &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/kube-api/kube-api-io/versions/0.1.0-SNAPSHOT</link>
-    <description>A Kubernetes io (exec / port-forward) library for Clojure.</description>
-    <pubDate>Sat, 28 Nov 2020 20:42:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/kube-api/kube-api-controllers/versions/0.1.0-SNAPSHOT</guid>
-    <title>[kube-api/kube-api-controllers &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/kube-api/kube-api-controllers/versions/0.1.0-SNAPSHOT</link>
-    <description>A Kubernetes controller library for Clojure.</description>
-    <pubDate>Sat, 28 Nov 2020 20:42:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/kube-api/kube-api-core/versions/0.1.0-SNAPSHOT</guid>
-    <title>[kube-api/kube-api-core &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/kube-api/kube-api-core/versions/0.1.0-SNAPSHOT</link>
-    <description>A Kubernetes API client for Clojure.</description>
-    <pubDate>Sat, 28 Nov 2020 20:42:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/kube-api/versions/0.1.0-SNAPSHOT</guid>
-    <title>[kube-api &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/kube-api/versions/0.1.0-SNAPSHOT</link>
-    <description>A set of Kubernetes libraries for Clojure.</description>
-    <pubDate>Sat, 28 Nov 2020 20:37:45 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.fulcrologic/fulcro/versions/3.4.5</guid>
@@ -1783,20 +1797,6 @@ om.next graph syntax.</description>
     <link>https://clojars.org/hodur-translate/versions/0.1.1</link>
     <description>hodur plugins, postgres supported</description>
     <pubDate>Fri, 20 Nov 2020 07:53:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/sine/versions/0.0.2.2-SNAPSHOT</guid>
-    <title>[sine &quot;0.0.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/sine/versions/0.0.2.2-SNAPSHOT</link>
-    <description>FIXME: write description</description>
-    <pubDate>Fri, 20 Nov 2020 07:50:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/sine/versions/0.0.2.1-SNAPSHOT</guid>
-    <title>[sine &quot;0.0.2.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/sine/versions/0.0.2.1-SNAPSHOT</link>
-    <description>FIXME: write description</description>
-    <pubDate>Fri, 20 Nov 2020 06:56:47 +0000</pubDate>
   </item>
   </channel>
 </rss>
