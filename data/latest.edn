@@ -1,4 +1,3 @@
-{:jar_name "clj-api", :group_name "polylith", :version "0.1.0-alpha6", :description "Used to access Polylith as a library.", :created 1606403133422}
 {:jar_name "clj-poly", :group_name "polylith", :version "0.1.0-alpha6", :description "Poly is Polylith's command line interface for Clojure.", :created 1606403149206}
 {:jar_name "clj-poly-migrator", :group_name "polylith", :version "0.1.0-alpha6", :description "Used to migrate from lein-polyith to the new Polylith tool.", :created 1606403165634}
 {:jar_name "vocabularies", :group_name "grafter", :version "0.3.6", :description "Vocabularies for grafting Linked-data", :created 1606408282251}
@@ -246,7 +245,6 @@
 {:jar_name "lein-template", :group_name "geni", :version "0.0.37", :description "Leiningen template for a Geni application.", :created 1607180101973}
 {:jar_name "stdlib", :group_name "kwrooijen", :version "0.0.1-SNAPSHOT", :description "Babashka compatible helper functions", :created 1607187570404}
 {:jar_name "genartlib", :group_name "genartlib", :version "0.1.21", :description "Utilities and common tasks for generative artwork", :created 1607192246741}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2020.11.08-SNAPSHOT", :description "Tidy your code with clj-kondo.", :created 1607197556108}
 {:jar_name "expound", :group_name "expound", :version "0.8.7", :description "Human-optimized error messages for clojure.spec", :created 1607199728710}
 {:jar_name "cryogen-core", :group_name "cryogen-core", :version "0.4.0", :description "Cryogen's compiler", :created 1607212805398}
 {:jar_name "thurber", :group_name "com.github.atdixon", :version "0.0.9-alpha1", :description "thurber: Apache Beam on Clojure", :created 1607215067372}
@@ -254,3 +252,5 @@
 {:jar_name "confick", :group_name "zcfux", :version "0.1.0", :description "Simple, stupid configuration management.", :created 1607248311295}
 {:jar_name "goophi", :group_name "zcfux", :version "0.1.0-SNAPSHOT", :description "Gopher protocol library.", :created 1607249691969}
 {:jar_name "babashka", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "babashka", :created 1607251680543}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2020.11.08-SNAPSHOT", :description "Tidy your code with clj-kondo.", :created 1607255506365}
+{:jar_name "grid", :group_name "luciodale", :version "0.0.1", :description "Grid for UIs", :created 1607255802538}
