@@ -4,7 +4,91 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 11 Dec 2020 10:14:58 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 11 Dec 2020 11:12:54 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/solita.etp/etp-backend/versions/0.0.3</guid>
+    <title>[solita.etp/etp-backend &quot;0.0.3&quot;]</title>
+    <link>https://clojars.org/solita.etp/etp-backend/versions/0.0.3</link>
+    <description></description>
+    <pubDate>Fri, 11 Dec 2020 11:05:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-prometheus &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/log to Prometheus.</description>
+    <pubDate>Fri, 11 Dec 2020 10:22:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-zipkin &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/trace to OpenZipkin.</description>
+    <pubDate>Fri, 11 Dec 2020 10:22:37 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-slack &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/log to a Slack incoming webhook.</description>
+    <pubDate>Fri, 11 Dec 2020 10:22:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-cloudwatch &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/log to Cloudwatch.</description>
+    <pubDate>Fri, 11 Dec 2020 10:21:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-kinesis &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/log to Kinesis.</description>
+    <pubDate>Fri, 11 Dec 2020 10:21:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-kafka &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/log to Kafka.</description>
+    <pubDate>Fri, 11 Dec 2020 10:21:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-filesystem-metrics &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.6.0-SNAPSHOT</link>
+    <description>A filesystem metrics sampler for μ/log.</description>
+    <pubDate>Fri, 11 Dec 2020 10:20:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-jvm-metrics &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.6.0-SNAPSHOT</link>
+    <description>A JVM metrics sampler for μ/log.</description>
+    <pubDate>Fri, 11 Dec 2020 10:20:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-elasticsearch &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.6.0-SNAPSHOT</link>
+    <description>A publisher for μ/log to Elasticsearch.</description>
+    <pubDate>Fri, 11 Dec 2020 10:20:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-json/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog-json &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-json/versions/0.6.0-SNAPSHOT</link>
+    <description>μ/log json handling</description>
+    <pubDate>Fri, 11 Dec 2020 10:19:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.brunobonacci/mulog &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog/versions/0.6.0-SNAPSHOT</link>
+    <description>μ/log is a micro-logging library that logs events and data, not words!</description>
+    <pubDate>Fri, 11 Dec 2020 10:19:34 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/redframe/versions/0.1.0-SNAPSHOT</guid>
     <title>[redframe &quot;0.1.0-SNAPSHOT&quot;]</title>
@@ -1713,90 +1797,6 @@ om.next graph syntax.</description>
     <link>https://clojars.org/redantd/versions/0.1.0-SNAPSHOT</link>
     <description>Make Antd easy for reagent</description>
     <pubDate>Wed, 2 Dec 2020 02:41:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.fulcrologic/fulcro-rad-semantic-ui/versions/1.0.1</guid>
-    <title>[com.fulcrologic/fulcro-rad-semantic-ui &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/com.fulcrologic/fulcro-rad-semantic-ui/versions/1.0.1</link>
-    <description>A UI plugin for Fulcro RAD that renders to web/electron using Semantic UI CSS</description>
-    <pubDate>Wed, 2 Dec 2020 01:39:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.fulcrologic/fulcro-rad-sql/versions/0.0.3-alpha-SNAPSHOT</guid>
-    <title>[com.fulcrologic/fulcro-rad-sql &quot;0.0.3-alpha-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.fulcrologic/fulcro-rad-sql/versions/0.0.3-alpha-SNAPSHOT</link>
-    <description>An SQL database driver for use with Fulcro RAD.</description>
-    <pubDate>Wed, 2 Dec 2020 00:26:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.7theta/servo/versions/1.5.0</guid>
-    <title>[com.7theta/servo &quot;1.5.0&quot;]</title>
-    <link>https://clojars.org/com.7theta/servo/versions/1.5.0</link>
-    <description>A rehinkdb client library designed to integrate with signum</description>
-    <pubDate>Tue, 1 Dec 2020 22:46:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/starkbank/sdk/versions/2.0.0</guid>
-    <title>[starkbank/sdk &quot;2.0.0&quot;]</title>
-    <link>https://clojars.org/starkbank/sdk/versions/2.0.0</link>
-    <description>SDK to make Clojure integrations with the Stark Bank API easier.</description>
-    <pubDate>Tue, 1 Dec 2020 21:52:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yummly/manifold/versions/0.1.10-alpha1</guid>
-    <title>[yummly/manifold &quot;0.1.10-alpha1&quot;]</title>
-    <link>https://clojars.org/yummly/manifold/versions/0.1.10-alpha1</link>
-    <description></description>
-    <pubDate>Tue, 1 Dec 2020 21:27:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wsscode/cljc-misc/versions/2020.12.01</guid>
-    <title>[com.wsscode/cljc-misc &quot;2020.12.01&quot;]</title>
-    <link>https://clojars.org/com.wsscode/cljc-misc/versions/2020.12.01</link>
-    <description>Collection of general utils for Clojure and Clojurescript.</description>
-    <pubDate>Tue, 1 Dec 2020 21:18:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/magnet/scheduling.twarc/versions/0.6.0</guid>
-    <title>[magnet/scheduling.twarc &quot;0.6.0&quot;]</title>
-    <link>https://clojars.org/magnet/scheduling.twarc/versions/0.6.0</link>
-    <description>Duct library that provides Integrant keys for using Twarc scheduling library with persistent JobStore</description>
-    <pubDate>Tue, 1 Dec 2020 18:06:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.cyverse/clj-irods/versions/0.2.1-SNAPSHOT</guid>
-    <title>[org.cyverse/clj-irods &quot;0.2.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.cyverse/clj-irods/versions/0.2.1-SNAPSHOT</link>
-    <description>A Clojure library for interacting with the IRODS data system. Wraps clj-jargon and clj-icat-direct for a nicer interface</description>
-    <pubDate>Tue, 1 Dec 2020 17:43:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.cyverse/clj-icat-direct/versions/2.9.1-SNAPSHOT</guid>
-    <title>[org.cyverse/clj-icat-direct &quot;2.9.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.cyverse/clj-icat-direct/versions/2.9.1-SNAPSHOT</link>
-    <description>A Clojure library for accessing the iRODS ICAT database directly.</description>
-    <pubDate>Tue, 1 Dec 2020 17:39:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20201201-164913.e044e88d</guid>
-    <title>[org.akvo.flow/akvo-flow &quot;20201201-164913.e044e88d&quot;]</title>
-    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20201201-164913.e044e88d</link>
-    <description></description>
-    <pubDate>Tue, 1 Dec 2020 16:49:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fourtytoo/carbonite/versions/1.6.0-SNAPSHOT</guid>
-    <title>[fourtytoo/carbonite &quot;1.6.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fourtytoo/carbonite/versions/1.6.0-SNAPSHOT</link>
-    <description>Write Clojure data to and from bytes using Kryo.</description>
-    <pubDate>Tue, 1 Dec 2020 15:52:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cnuernber/libjulia-clj/versions/0.01</guid>
-    <title>[cnuernber/libjulia-clj &quot;0.01&quot;]</title>
-    <link>https://clojars.org/cnuernber/libjulia-clj/versions/0.01</link>
-    <description>Experimental Julia bindings for Clojure.</description>
-    <pubDate>Tue, 1 Dec 2020 15:30:38 +0000</pubDate>
   </item>
   </channel>
 </rss>
