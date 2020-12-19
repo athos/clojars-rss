@@ -1,16 +1,3 @@
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.00-beta-17", :description "Clojure high performance data processing system", :created 1607567123366}
-{:jar_name "jackdaw", :group_name "dfbernal", :version "0.7.7-master-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1607568788678}
-{:jar_name "clj-parent", :group_name "puppetlabs", :version "4.6.10", :description "", :created 1607574414685}
-{:jar_name "json-schema", :group_name "luposlip", :version "0.2.9", :description "Clojure library for JSON Schema validation and generation - Draft-07 compatible", :created 1607592467295}
-{:jar_name "superlifter", :group_name "superlifter", :version "0.1.3", :description "A DataLoader for Clojure/script", :created 1607593589800}
-{:jar_name "dropwizard-riemann", :group_name "io.raven.dropwizard", :version "2.0.16-1", :description nil, :created 1607598232422}
-{:jar_name "dropwizard-oor", :group_name "io.raven.dropwizard", :version "2.0.16-1", :description nil, :created 1607598723904}
-{:jar_name "kaocha-retry", :group_name "kaocha-retry", :version "0.2.13", :description nil, :created 1607600527824}
-{:jar_name "jupyter", :group_name "clj-ksql", :version "0.11.0-45-snapshot", :description "Clojure client for ksql", :created 1607601651701}
-{:jar_name "cloak", :group_name "exoscale", :version "0.1.6", :description "", :created 1607603240418}
-{:jar_name "keycloak-clojure", :group_name "keycloak-clojure", :version "1.14.1", :description "A clojure wrapper of Keycloak", :created 1607605881333}
-{:jar_name "jupyter", :group_name "clj-ksql", :version "0.11.0-46-snapshot", :description "Clojure client for ksql", :created 1607606563792}
-{:jar_name "impedance", :group_name "bsless", :version "0.0.0-alpha1", :description "Fast Clojure map transformers and context", :created 1607614979315}
 {:jar_name "keycloak-clojure", :group_name "keycloak-clojure", :version "1.14.2", :description "A clojure wrapper of Keycloak", :created 1607615016384}
 {:jar_name "clojurecuda", :group_name "uncomplicate", :version "0.12.0", :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :created 1607617405321}
 {:jar_name "test-machine", :group_name "cddr", :version "0.1.0-SNAPSHOT", :description "FIXME: my new library.", :created 1607620183771}
@@ -254,3 +241,16 @@
 {:jar_name "goophi", :group_name "zcfux", :version "0.1.0", :description "Gopher protocol library.", :created 1608373509797}
 {:jar_name "babashka", :group_name "borkdude", :version "0.2.6-SNAPSHOT", :description "babashka", :created 1608380637802}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2020.12.13-SNAPSHOT", :description "Tidy your code with clj-kondo.", :created 1608382366334}
+{:jar_name "mulog", :group_name "com.brunobonacci", :version "0.6.0", :description "μ/log is a micro-logging library that logs events and data, not words!", :created 1608386037119}
+{:jar_name "mulog-json", :group_name "com.brunobonacci", :version "0.6.0", :description "μ/log json handling", :created 1608386054723}
+{:jar_name "mulog-elasticsearch", :group_name "com.brunobonacci", :version "0.6.0", :description "A publisher for μ/log to Elasticsearch.", :created 1608386072595}
+{:jar_name "mulog-jvm-metrics", :group_name "com.brunobonacci", :version "0.6.0", :description "A JVM metrics sampler for μ/log.", :created 1608386089983}
+{:jar_name "mulog-filesystem-metrics", :group_name "com.brunobonacci", :version "0.6.0", :description "A filesystem metrics sampler for μ/log.", :created 1608386107780}
+{:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.6.0", :description "A publisher for μ/log to Kafka.", :created 1608386126024}
+{:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.6.0", :description "A publisher for μ/log to Kinesis.", :created 1608386143960}
+{:jar_name "mulog-cloudwatch", :group_name "com.brunobonacci", :version "0.6.0", :description "A publisher for μ/log to Cloudwatch.", :created 1608386161708}
+{:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.6.0", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1608386179872}
+{:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.6.0", :description "A publisher for μ/trace to OpenZipkin.", :created 1608386197692}
+{:jar_name "mulog-prometheus", :group_name "com.brunobonacci", :version "0.6.0", :description "A publisher for μ/log to Prometheus.", :created 1608386216068}
+{:jar_name "clj-faktory", :group_name "tech.ducktype", :version "0.3.11-SNAPSHOT", :description "Faktory workers in Clojure!", :created 1608386765895}
+{:jar_name "vehiclj", :group_name "fr.reuz", :version "0.1.0-SNAPSHOT", :description "Vehicule identification and registration", :created 1608386832203}
