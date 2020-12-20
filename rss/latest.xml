@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 20 Dec 2020 17:31:46 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Dec 2020 18:17:38 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.clojure.clr/test.check/versions/1.1.0</guid>
+    <title>[org.clojure.clr/test.check &quot;1.1.0&quot;]</title>
+    <link>https://clojars.org/org.clojure.clr/test.check/versions/1.1.0</link>
+    <description>Port of github.com/clojure/test.check to ClojureCLR</description>
+    <pubDate>Sun, 20 Dec 2020 18:13:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/funcool/beicon/versions/2020.12.20-1</guid>
+    <title>[funcool/beicon &quot;2020.12.20-1&quot;]</title>
+    <link>https://clojars.org/funcool/beicon/versions/2020.12.20-1</link>
+    <description>Reactive Streams for Clojure(Script)</description>
+    <pubDate>Sun, 20 Dec 2020 18:02:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojure.clr/tools.namespace/versions/1.1.0</guid>
+    <title>[org.clojure.clr/tools.namespace &quot;1.1.0&quot;]</title>
+    <link>https://clojars.org/org.clojure.clr/tools.namespace/versions/1.1.0</link>
+    <description>Port of clojure.org/tools.namespace to ClojureCLR</description>
+    <pubDate>Sun, 20 Dec 2020 17:53:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojure.clr/tools.reader/versions/1.3.4</guid>
+    <title>[org.clojure.clr/tools.reader &quot;1.3.4&quot;]</title>
+    <link>https://clojars.org/org.clojure.clr/tools.reader/versions/1.3.4</link>
+    <description>Port of clojure.org/tool.reader to ClojureCLR</description>
+    <pubDate>Sun, 20 Dec 2020 17:36:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fr.reuz/vehiclj/versions/0.1.0-SNAPSHOT</guid>
+    <title>[fr.reuz/vehiclj &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/fr.reuz/vehiclj/versions/0.1.0-SNAPSHOT</link>
+    <description>Vehicule identification and registration</description>
+    <pubDate>Sun, 20 Dec 2020 17:34:15 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/borkdude/babashka/versions/0.2.6-SNAPSHOT</guid>
     <title>[borkdude/babashka &quot;0.2.6-SNAPSHOT&quot;]</title>
@@ -130,13 +165,6 @@
     <link>https://clojars.org/org.clojars.codemascot/wc-api-clj/versions/0.1.0</link>
     <description>WooCommerce REST API client written in Clojure.</description>
     <pubDate>Sat, 19 Dec 2020 14:29:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fr.reuz/vehiclj/versions/0.1.0-SNAPSHOT</guid>
-    <title>[fr.reuz/vehiclj &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fr.reuz/vehiclj/versions/0.1.0-SNAPSHOT</link>
-    <description>Vehicule identification and registration</description>
-    <pubDate>Sat, 19 Dec 2020 14:07:12 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/tech.ducktype/clj-faktory/versions/0.3.11-SNAPSHOT</guid>
@@ -1770,34 +1798,6 @@ om.next graph syntax.</description>
     <link>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.6.0-SNAPSHOT</link>
     <description>A JVM metrics sampler for μ/log.</description>
     <pubDate>Fri, 11 Dec 2020 10:20:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.6.0-SNAPSHOT</guid>
-    <title>[com.brunobonacci/mulog-elasticsearch &quot;0.6.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.6.0-SNAPSHOT</link>
-    <description>A publisher for μ/log to Elasticsearch.</description>
-    <pubDate>Fri, 11 Dec 2020 10:20:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-json/versions/0.6.0-SNAPSHOT</guid>
-    <title>[com.brunobonacci/mulog-json &quot;0.6.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-json/versions/0.6.0-SNAPSHOT</link>
-    <description>μ/log json handling</description>
-    <pubDate>Fri, 11 Dec 2020 10:19:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog/versions/0.6.0-SNAPSHOT</guid>
-    <title>[com.brunobonacci/mulog &quot;0.6.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog/versions/0.6.0-SNAPSHOT</link>
-    <description>μ/log is a micro-logging library that logs events and data, not words!</description>
-    <pubDate>Fri, 11 Dec 2020 10:19:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/redframe/versions/0.1.0-SNAPSHOT</guid>
-    <title>[redframe &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/redframe/versions/0.1.0-SNAPSHOT</link>
-    <description>redframe</description>
-    <pubDate>Fri, 11 Dec 2020 09:40:44 +0000</pubDate>
   </item>
   </channel>
 </rss>
