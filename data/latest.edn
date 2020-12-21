@@ -1,5 +1,3 @@
-{:jar_name "datascript", :group_name "datascript", :version "1.0.2", :description "An implementation of Datomic in-memory database and Datalog query engine in ClojureScript", :created 1607704788438}
-{:jar_name "fulcro-rad-sql", :group_name "com.fulcrologic", :version "0.0.3-alpha", :description "An SQL database driver for use with Fulcro RAD.", :created 1607707966898}
 {:jar_name "roll", :group_name "dimovich", :version "0.3.2", :description nil, :created 1607714536780}
 {:jar_name "commons", :group_name "io.bloomventures", :version "0.10.9", :description "", :created 1607717704741}
 {:jar_name "lib", :group_name "open-company", :version "0.17.29-alpha67", :description "OpenCompany Common Library", :created 1607719634224}
@@ -235,7 +233,6 @@
 {:jar_name "potok", :group_name "funcool", :version "3.0.0", :description "Reactive Streams based state management toolkit.", :created 1608499734210}
 {:jar_name "reveal", :group_name "vlaaad", :version "1.2.181", :description nil, :created 1608500388917}
 {:jar_name "sci", :group_name "borkdude", :version "0.2.0", :description "Small Clojure Interpreter", :created 1608503503320}
-{:jar_name "babashka", :group_name "borkdude", :version "0.2.6-SNAPSHOT", :description "babashka", :created 1608503537644}
 {:jar_name "tablecloth", :group_name "scicloj", :version "5.00-beta-21a", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1608504280487}
 {:jar_name "http-fx", :group_name "day8.re-frame", :version "0.2.2", :description "A re-frame effects handler for performing Ajax tasks", :created 1608510647129}
 {:jar_name "clj-karaoke-lyrics", :group_name "baskeboler", :version "1.0.3-SNAPSHOT", :description "Rip karaoke lyrics from karaoke midi files", :created 1608512516478}
@@ -254,3 +251,6 @@
 {:jar_name "kafka", :group_name "io.titanoboa.tasklet", :version "0.1.0", :description "kafka step functions for titanoboa.io", :created 1608554517228}
 {:jar_name "jvm-alloc-rate-meter", :group_name "com.clojure-goes-fast", :version "0.1.4", :description "Measure JVM heap allocation rate in real time", :created 1608554867314}
 {:jar_name "saturn", :group_name "ua.kasta", :version "1.0.1", :description "Run periodic tasks inside your application", :created 1608555443964}
+{:jar_name "lein-isolate", :group_name "lein-isolate", :version "0.1.2", :description "Provide isolation for your plugins.", :created 1608559492228}
+{:jar_name "potok", :group_name "funcool", :version "3.1.0", :description "Reactive Streams based state management toolkit.", :created 1608559577456}
+{:jar_name "babashka", :group_name "borkdude", :version "0.2.6-SNAPSHOT", :description "babashka", :created 1608559636716}
