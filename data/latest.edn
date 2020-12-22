@@ -1,5 +1,3 @@
-{:jar_name "kube-api-controllers", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A Kubernetes controller library for Clojure.", :created 1607906517621}
-{:jar_name "kube-api-io", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A Kubernetes io library for Clojure (exec, attach, port-forward, proxy, etc).", :created 1607906529009}
 {:jar_name "kube-api-ring", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A library for implementing", :created 1607906537633}
 {:jar_name "kube-api-term", :group_name "kube-api", :version "0.1.0-SNAPSHOT", :description "A library for opening emulated terminals into kubernetes pods from Clojure.", :created 1607906547593}
 {:jar_name "clj-djl", :group_name "clj-djl", :version "0.1.4", :description "A clojure lib wraps deep java learning(DJL.ai)", :created 1607909289330}
@@ -254,3 +252,5 @@
 {:jar_name "editscript", :group_name "juji", :version "0.5.0", :description "A diff library for Clojure/ClojureScript data structures", :created 1608672622446}
 {:jar_name "membrane", :group_name "com.phronemophobic", :version "0.9.17-beta-SNAPSHOT", :description "A platform agnostic library for creating user interfaces", :created 1608672784430}
 {:jar_name "depstar", :group_name "seancorfield", :version "2.0.160", :description "a clj-based uberjarrer", :created 1608673927452}
+{:jar_name "edamame", :group_name "borkdude", :version "0.0.11-alpha.25", :description "EDN parser with location metadata and pluggable dispatch table.", :created 1608676281198}
+{:jar_name "texticlj", :group_name "telent", :version "0.2.0-SNAPSHOT", :description "Convert approximately-Textile markup to Hiccup", :created 1608677631928}
