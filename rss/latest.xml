@@ -4,7 +4,70 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 23 Dec 2020 20:04:37 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Dec 2020 21:04:23 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia-all/versions/5.0.0-alpha2</guid>
+    <title>[cc.qbits/alia-all &quot;5.0.0-alpha2&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia-all/versions/5.0.0-alpha2</link>
+    <description>Cassandra CQL3 client for Clojure - datastax/java-driver wrapper</description>
+    <pubDate>Wed, 23 Dec 2020 20:12:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia-component/versions/5.0.0-alpha2</guid>
+    <title>[cc.qbits/alia-component &quot;5.0.0-alpha2&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia-component/versions/5.0.0-alpha2</link>
+    <description>Component integration for Alia</description>
+    <pubDate>Wed, 23 Dec 2020 20:12:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia-spec/versions/5.0.0-alpha2</guid>
+    <title>[cc.qbits/alia-spec &quot;5.0.0-alpha2&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia-spec/versions/5.0.0-alpha2</link>
+    <description>clojure.spec for Alia</description>
+    <pubDate>Wed, 23 Dec 2020 20:11:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia-manifold/versions/5.0.0-alpha2</guid>
+    <title>[cc.qbits/alia-manifold &quot;5.0.0-alpha2&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia-manifold/versions/5.0.0-alpha2</link>
+    <description>manifold interface for Alia</description>
+    <pubDate>Wed, 23 Dec 2020 20:11:37 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia-joda-time/versions/5.0.0-alpha2</guid>
+    <title>[cc.qbits/alia-joda-time &quot;5.0.0-alpha2&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia-joda-time/versions/5.0.0-alpha2</link>
+    <description>Alia extension for joda-time codec</description>
+    <pubDate>Wed, 23 Dec 2020 20:11:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia-java-legacy-time/versions/5.0.0-alpha2</guid>
+    <title>[cc.qbits/alia-java-legacy-time &quot;5.0.0-alpha2&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia-java-legacy-time/versions/5.0.0-alpha2</link>
+    <description>Alia extension for java legacy time codec</description>
+    <pubDate>Wed, 23 Dec 2020 20:11:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia-async/versions/5.0.0-alpha2</guid>
+    <title>[cc.qbits/alia-async &quot;5.0.0-alpha2&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia-async/versions/5.0.0-alpha2</link>
+    <description>core.async interface for Alia</description>
+    <pubDate>Wed, 23 Dec 2020 20:11:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cc.qbits/alia/versions/5.0.0-alpha2</guid>
+    <title>[cc.qbits/alia &quot;5.0.0-alpha2&quot;]</title>
+    <link>https://clojars.org/cc.qbits/alia/versions/5.0.0-alpha2</link>
+    <description>Cassandra CQL3 client for Clojure - datastax/java-driver wrapper</description>
+    <pubDate>Wed, 23 Dec 2020 20:10:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/escherize/defrag/versions/0.1.1</guid>
+    <title>[escherize/defrag &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/escherize/defrag/versions/0.1.1</link>
+    <description>A facility for writing defn macros that handle arguments</description>
+    <pubDate>Wed, 23 Dec 2020 20:05:51 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/lein-ancient/versions/0.7.0-SNAPSHOT</guid>
     <title>[lein-ancient &quot;0.7.0-SNAPSHOT&quot;]</title>
@@ -1736,69 +1799,6 @@ om.next graph syntax.</description>
     <link>https://clojars.org/elbenwald-template/lein-template/versions/0.24.0</link>
     <description>Elbenwald Lein Template</description>
     <pubDate>Tue, 15 Dec 2020 10:07:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tech.gojek/meajurements/versions/3.2.0</guid>
-    <title>[tech.gojek/meajurements &quot;3.2.0&quot;]</title>
-    <link>https://clojars.org/tech.gojek/meajurements/versions/3.2.0</link>
-    <description>A statsd client that supports tagged metrics in the dogstatsd format</description>
-    <pubDate>Tue, 15 Dec 2020 06:43:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/erinite/core/versions/0.1.0-SNAPSHOT</guid>
-    <title>[erinite/core &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/erinite/core/versions/0.1.0-SNAPSHOT</link>
-    <description>Base functionality for Erintie application framework</description>
-    <pubDate>Tue, 15 Dec 2020 04:36:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/sicmutils/versions/0.14.0</guid>
-    <title>[sicmutils &quot;0.14.0&quot;]</title>
-    <link>https://clojars.org/sicmutils/versions/0.14.0</link>
-    <description>A port of the Scmutils computer algebra/mechanics system to Clojure</description>
-    <pubDate>Tue, 15 Dec 2020 03:12:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.quoll/asami/versions/1.2.8</guid>
-    <title>[org.clojars.quoll/asami &quot;1.2.8&quot;]</title>
-    <link>https://clojars.org/org.clojars.quoll/asami/versions/1.2.8</link>
-    <description>An in memory graph store for Clojure and ClojureScript</description>
-    <pubDate>Tue, 15 Dec 2020 01:31:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.quoll/zuko/versions/0.3.3</guid>
-    <title>[org.clojars.quoll/zuko &quot;0.3.3&quot;]</title>
-    <link>https://clojars.org/org.clojars.quoll/zuko/versions/0.3.3</link>
-    <description>Threatgrid library for common graph database functionality</description>
-    <pubDate>Tue, 15 Dec 2020 00:47:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cnuernber/libjulia-clj/versions/0.02</guid>
-    <title>[cnuernber/libjulia-clj &quot;0.02&quot;]</title>
-    <link>https://clojars.org/cnuernber/libjulia-clj/versions/0.02</link>
-    <description>Experimental Julia bindings for Clojure.</description>
-    <pubDate>Mon, 14 Dec 2020 23:42:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/starkbank/sdk/versions/2.1.0</guid>
-    <title>[starkbank/sdk &quot;2.1.0&quot;]</title>
-    <link>https://clojars.org/starkbank/sdk/versions/2.1.0</link>
-    <description>SDK to make Clojure integrations with the Stark Bank API easier.</description>
-    <pubDate>Mon, 14 Dec 2020 23:24:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/juxt/crux-bench/versions/dev-SNAPSHOT</guid>
-    <title>[juxt/crux-bench &quot;dev-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/juxt/crux-bench/versions/dev-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Mon, 14 Dec 2020 22:56:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/juxt/crux-azure-blobs/versions/dev-SNAPSHOT</guid>
-    <title>[juxt/crux-azure-blobs &quot;dev-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/juxt/crux-azure-blobs/versions/dev-SNAPSHOT</link>
-    <description>Crux Azure Blobs Document Store</description>
-    <pubDate>Mon, 14 Dec 2020 22:55:34 +0000</pubDate>
   </item>
   </channel>
 </rss>
