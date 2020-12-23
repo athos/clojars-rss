@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 23 Dec 2020 16:13:15 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Dec 2020 17:35:05 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/protojure/versions/1.5.12</guid>
+    <title>[protojure &quot;1.5.12&quot;]</title>
+    <link>https://clojars.org/protojure/versions/1.5.12</link>
+    <description>Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications</description>
+    <pubDate>Wed, 23 Dec 2020 17:27:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.msync/spring-boot-bugger/versions/0.1.0-SNAPSHOT</guid>
+    <title>[org.msync/spring-boot-bugger &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.msync/spring-boot-bugger/versions/0.1.0-SNAPSHOT</link>
+    <description>Just add dependency, sprinkle some config, and run Clojure in your Springboot application.</description>
+    <pubDate>Wed, 23 Dec 2020 16:31:37 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/borkdude/babashka/versions/0.2.6-SNAPSHOT</guid>
+    <title>[borkdude/babashka &quot;0.2.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/borkdude/babashka/versions/0.2.6-SNAPSHOT</link>
+    <description>babashka</description>
+    <pubDate>Wed, 23 Dec 2020 16:29:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/borkdude/sci/versions/0.2.1-SNAPSHOT</guid>
+    <title>[borkdude/sci &quot;0.2.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/borkdude/sci/versions/0.2.1-SNAPSHOT</link>
+    <description>Small Clojure Interpreter</description>
+    <pubDate>Wed, 23 Dec 2020 16:23:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/borkdude/edamame/versions/0.0.11-alpha.27</guid>
+    <title>[borkdude/edamame &quot;0.0.11-alpha.27&quot;]</title>
+    <link>https://clojars.org/borkdude/edamame/versions/0.0.11-alpha.27</link>
+    <description>EDN parser with location metadata and pluggable dispatch table.</description>
+    <pubDate>Wed, 23 Dec 2020 16:18:20 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/juxt/crux-bench/versions/20.12-1.13.0</guid>
     <title>[juxt/crux-bench &quot;20.12-1.13.0&quot;]</title>
@@ -125,25 +160,11 @@
     <pubDate>Wed, 23 Dec 2020 15:53:05 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/org.msync/spring-boot-bugger/versions/0.1.0-SNAPSHOT</guid>
-    <title>[org.msync/spring-boot-bugger &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.msync/spring-boot-bugger/versions/0.1.0-SNAPSHOT</link>
-    <description>Just add dependency, sprinkle some config, and run Clojure in your Springboot application.</description>
-    <pubDate>Wed, 23 Dec 2020 15:49:39 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/com.rpl/defexception/versions/0.2.2</guid>
     <title>[com.rpl/defexception &quot;0.2.2&quot;]</title>
     <link>https://clojars.org/com.rpl/defexception/versions/0.2.2</link>
     <description>A simple Clojure library that allows one to dynamically define Java Exception classes in Clojure.</description>
     <pubDate>Wed, 23 Dec 2020 15:03:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/borkdude/sci/versions/0.2.1-SNAPSHOT</guid>
-    <title>[borkdude/sci &quot;0.2.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/borkdude/sci/versions/0.2.1-SNAPSHOT</link>
-    <description>Small Clojure Interpreter</description>
-    <pubDate>Wed, 23 Dec 2020 14:56:27 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.appsflyer/ketu/versions/0.6.1-SNAPSHOT</guid>
@@ -537,13 +558,6 @@
     <link>https://clojars.org/luminus/lein-template/versions/3.91</link>
     <description>a template for creating Luminus applications</description>
     <pubDate>Mon, 21 Dec 2020 23:07:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/borkdude/babashka/versions/0.2.6-SNAPSHOT</guid>
-    <title>[borkdude/babashka &quot;0.2.6-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/borkdude/babashka/versions/0.2.6-SNAPSHOT</link>
-    <description>babashka</description>
-    <pubDate>Mon, 21 Dec 2020 22:59:31 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/borkdude/edamame/versions/0.0.11-alpha.22</guid>
@@ -1785,20 +1799,6 @@ om.next graph syntax.</description>
     <link>https://clojars.org/juxt/crux-lucene/versions/dev-SNAPSHOT</link>
     <description>Crux Lucene integration</description>
     <pubDate>Mon, 14 Dec 2020 22:54:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/juxt/crux-sql/versions/dev-SNAPSHOT</guid>
-    <title>[juxt/crux-sql &quot;dev-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/juxt/crux-sql/versions/dev-SNAPSHOT</link>
-    <description>SQL for Crux using Apache Calcite</description>
-    <pubDate>Mon, 14 Dec 2020 22:54:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/juxt/crux-kafka/versions/dev-SNAPSHOT</guid>
-    <title>[juxt/crux-kafka &quot;dev-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/juxt/crux-kafka/versions/dev-SNAPSHOT</link>
-    <description>Crux Kafka</description>
-    <pubDate>Mon, 14 Dec 2020 22:54:20 +0000</pubDate>
   </item>
   </channel>
 </rss>
