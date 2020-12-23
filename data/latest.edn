@@ -1,20 +1,3 @@
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.00-beta-19", :description "Clojure high performance data processing system", :created 1607977137438}
-{:jar_name "re-frame-request", :group_name "oconn", :version "0.1.4", :description "", :created 1607977776934}
-{:jar_name "perun", :group_name "powerlaces", :version "0.5.13-SNAPSHOT", :description "Static site generator build with Clojure and Boot", :created 1607978181446}
-{:jar_name "flow-storm-debugger", :group_name "jpmonettas", :version "0.6.0", :description nil, :created 1607979812925}
-{:jar_name "flow-storm", :group_name "jpmonettas", :version "0.5.0", :description nil, :created 1607979815629}
-{:jar_name "perun", :group_name "powerlaces", :version "0.5.15-SNAPSHOT", :description "Static site generator build with Clojure and Boot", :created 1607980616045}
-{:jar_name "utility", :group_name "erinite", :version "0.1.2-SNAPSHOT", :description "Swiss-army-knife of utility functions", :created 1607982278509}
-{:jar_name "crux-core", :group_name "juxt", :version "dev-SNAPSHOT", :description "An open source document database with bitemporal graph queries", :created 1607986325499}
-{:jar_name "crux-rdf", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RDF", :created 1607986341027}
-{:jar_name "crux-metrics", :group_name "juxt", :version "dev-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1607986354215}
-{:jar_name "crux-rocksdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RocksDB", :created 1607986366952}
-{:jar_name "crux-lmdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux LMDB", :created 1607986378252}
-{:jar_name "crux-jdbc", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux JDBC", :created 1607986390800}
-{:jar_name "crux-http-client", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux HTTP Client", :created 1607986401872}
-{:jar_name "crux-http-server", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux HTTP Server", :created 1607986418480}
-{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka Embedded", :created 1607986428992}
-{:jar_name "crux-kafka-connect", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka Connect", :created 1607986446744}
 {:jar_name "crux-kafka", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka", :created 1607986460016}
 {:jar_name "crux-sql", :group_name "juxt", :version "dev-SNAPSHOT", :description "SQL for Crux using Apache Calcite", :created 1607986474988}
 {:jar_name "crux-lucene", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Lucene integration", :created 1607986485736}
@@ -240,7 +223,6 @@
 {:jar_name "clj-poly-migrator", :group_name "polylith", :version "0.1.0-alpha9", :description "Used to migrate from lein-polyith to the new Polylith tool.", :created 1608716945616}
 {:jar_name "tape", :group_name "cc.qbits", :version "0.3.3", :description "ChronicleQueue helpers", :created 1608717953440}
 {:jar_name "environment", :group_name "ajchemist", :version "2020.358.42164", :description nil, :created 1608723770352}
-{:jar_name "spring-boot-bugger", :group_name "org.msync", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1608727052816}
 {:jar_name "edamame", :group_name "borkdude", :version "0.0.11-alpha.26", :description "EDN parser with location metadata and pluggable dispatch table.", :created 1608730382046}
 {:jar_name "bytegeist", :group_name "bytegeist", :version "0.1.0-SNAPSHOT", :description "Binary protocol specs for clojure", :created 1608731070254}
 {:jar_name "chatda", :group_name "me.lomin", :version "0.1.0", :description nil, :created 1608731917830}
@@ -254,3 +236,21 @@
 {:jar_name "ketu", :group_name "com.appsflyer", :version "0.6.1-SNAPSHOT", :description "Clojure Apache Kafka client with core.async api", :created 1608734490070}
 {:jar_name "sci", :group_name "borkdude", :version "0.2.1-SNAPSHOT", :description "Small Clojure Interpreter", :created 1608735387462}
 {:jar_name "defexception", :group_name "com.rpl", :version "0.2.2", :description "A simple Clojure library that allows one to dynamically define Java Exception classes in Clojure.", :created 1608735791272}
+{:jar_name "spring-boot-bugger", :group_name "org.msync", :version "0.1.0-SNAPSHOT", :description "Just add dependency, sprinkle some config, and run Clojure in your Springboot application.", :created 1608738579409}
+{:jar_name "crux-core", :group_name "juxt", :version "20.12-1.13.0-beta", :description "An open source document database with bitemporal graph queries", :created 1608738785137}
+{:jar_name "crux-rdf", :group_name "juxt", :version "20.12-1.13.0-alpha", :description "Crux RDF", :created 1608738795057}
+{:jar_name "crux-metrics", :group_name "juxt", :version "20.12-1.13.0-alpha", :description "Provides Metrics for Crux nodes", :created 1608738805187}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "20.12-1.13.0-beta", :description "Crux RocksDB", :created 1608738814707}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "20.12-1.13.0-alpha", :description "Crux LMDB", :created 1608738824207}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "20.12-1.13.0-beta", :description "Crux JDBC", :created 1608738833937}
+{:jar_name "crux-http-client", :group_name "juxt", :version "20.12-1.13.0-beta", :description "Crux HTTP Client", :created 1608738843197}
+{:jar_name "crux-http-server", :group_name "juxt", :version "20.12-1.13.0-alpha", :description "Crux HTTP Server", :created 1608738855676}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "20.12-1.13.0-beta", :description "Crux Kafka Embedded", :created 1608738865626}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "20.12-1.13.0-beta", :description "Crux Kafka Connect", :created 1608738876616}
+{:jar_name "crux-kafka", :group_name "juxt", :version "20.12-1.13.0-beta", :description "Crux Kafka", :created 1608738887726}
+{:jar_name "crux-sql", :group_name "juxt", :version "20.12-1.13.0-alpha", :description "SQL for Crux using Apache Calcite", :created 1608738899006}
+{:jar_name "crux-lucene", :group_name "juxt", :version "20.12-1.13.0-alpha", :description "Crux Lucene integration", :created 1608738908636}
+{:jar_name "crux-test", :group_name "juxt", :version "20.12-1.13.0", :description "Crux Tests Project", :created 1608738918576}
+{:jar_name "crux-s3", :group_name "juxt", :version "20.12-1.13.0-beta", :description "", :created 1608738930346}
+{:jar_name "crux-azure-blobs", :group_name "juxt", :version "20.12-1.13.0-alpha", :description "Crux Azure Blobs Document Store", :created 1608738939646}
+{:jar_name "crux-bench", :group_name "juxt", :version "20.12-1.13.0", :description "", :created 1608738958466}
