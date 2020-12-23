@@ -1,11 +1,3 @@
-{:jar_name "pcp-broker", :group_name "puppetlabs", :version "1.6.0", :description "PCP fabric messaging broker", :created 1607964973504}
-{:jar_name "clj-xml", :group_name "com.wallbrew", :version "1.1.0", :description "The missingg link between clj and xml", :created 1607968362816}
-{:jar_name "duct-template", :group_name "hydrogen", :version "0.5.2", :description "Hydrogen duct template", :created 1607968870726}
-{:jar_name "pcp-broker", :group_name "puppetlabs", :version "1.7.0", :description "PCP fabric messaging broker", :created 1607969253556}
-{:jar_name "hazelcastdw", :group_name "io.github.hazelcastdw", :version "2.0.15-1", :description nil, :created 1607969402749}
-{:jar_name "interflow", :group_name "ninja.anywhere", :version "0.0.1-SNAPSHOT", :description "A Clojure(Script) library for data flow management.", :created 1607972516503}
-{:jar_name "clj-karaoke-lyrics", :group_name "baskeboler", :version "1.0.2-SNAPSHOT", :description "Rip karaoke lyrics from karaoke midi files", :created 1607975828678}
-{:jar_name "tailwind-hiccup", :group_name "rgm", :version "0.2.0", :description "tailwindcss + hiccup = 👍👍", :created 1607975912575}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.00-beta-19", :description "Clojure high performance data processing system", :created 1607977137438}
 {:jar_name "re-frame-request", :group_name "oconn", :version "0.1.4", :description "", :created 1607977776934}
 {:jar_name "perun", :group_name "powerlaces", :version "0.5.13-SNAPSHOT", :description "Static site generator build with Clojure and Boot", :created 1607978181446}
@@ -93,7 +85,6 @@
 {:jar_name "aleph", :group_name "org.clojars.pithyless", :version "0.4.7-beta7", :description "a framework for asynchronous communication", :created 1608186769012}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.11.9", :description "CLJS development tools", :created 1608211269519}
 {:jar_name "lein-template", :group_name "protojure", :version "1.1.4", :description "A leiningen template for creating protojure projects", :created 1608214869296}
-{:jar_name "ketu", :group_name "com.appsflyer", :version "0.6.1-SNAPSHOT", :description "Clojure Apache Kafka client with core.async api", :created 1608217956743}
 {:jar_name "keycloak-clojure", :group_name "keycloak-clojure", :version "1.14.4", :description "A clojure wrapper of Keycloak", :created 1608219429310}
 {:jar_name "stardog-clj", :group_name "stardog-clj", :version "7.4.0.1", :description "Stardog-clj: Clojure bindings for Stardog", :created 1608220472107}
 {:jar_name "fulcro-rad", :group_name "com.fulcrologic", :version "1.0.9-SNAPSHOT", :description "A library for rapid application development in Fulcro", :created 1608222188411}
@@ -234,7 +225,6 @@
 {:jar_name "datahike", :group_name "io.replikativ", :version "0.3.3-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1608656396209}
 {:jar_name "lein-template", :group_name "play-cljc", :version "0.9.4.3", :description "A template for making play-cljc projects", :created 1608664920911}
 {:jar_name "edamame", :group_name "borkdude", :version "0.0.11-alpha.24", :description "EDN parser with location metadata and pluggable dispatch table.", :created 1608666844804}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.1-SNAPSHOT", :description "Small Clojure Interpreter", :created 1608668370872}
 {:jar_name "editscript", :group_name "juji", :version "0.5.0", :description "A diff library for Clojure/ClojureScript data structures", :created 1608672622446}
 {:jar_name "depstar", :group_name "seancorfield", :version "2.0.160", :description "a clj-based uberjarrer", :created 1608673927452}
 {:jar_name "edamame", :group_name "borkdude", :version "0.0.11-alpha.25", :description "EDN parser with location metadata and pluggable dispatch table.", :created 1608676281198}
@@ -254,3 +244,13 @@
 {:jar_name "edamame", :group_name "borkdude", :version "0.0.11-alpha.26", :description "EDN parser with location metadata and pluggable dispatch table.", :created 1608730382046}
 {:jar_name "bytegeist", :group_name "bytegeist", :version "0.1.0-SNAPSHOT", :description "Binary protocol specs for clojure", :created 1608731070254}
 {:jar_name "chatda", :group_name "me.lomin", :version "0.1.0", :description nil, :created 1608731917830}
+{:jar_name "cljs-0x-connect", :group_name "org.clojars.ivan0x", :version "1.0.0", :description "[FORK] of district0x cljs wrapper around 0xproject/connect library", :created 1608732782442}
+{:jar_name "cljs-0x-connect", :group_name "ivan0x", :version "1.0.0", :description "[FORK] of district0x cljs wrapper around 0xproject/connect library", :created 1608732852642}
+{:jar_name "nginx-clojure", :group_name "nginx-clojure", :version "0.5.2", :description "Nginx module for clojure or groovy or java programming", :created 1608733394625}
+{:jar_name "nginx-clojure-embed", :group_name "nginx-clojure", :version "0.5.2", :description "Embeding Nginx-Clojure into a standard clojure/java/groovy app without additional Nginx process", :created 1608733442805}
+{:jar_name "nginx-jersey", :group_name "nginx-clojure", :version "0.1.7", :description "Intergrate Jersey into Nginx by Nignx-Clojure Module so that \n                Nginx can Support Java standard RESTful Web Services (JAX-RS)", :created 1608733514249}
+{:jar_name "nginx-tomcat8", :group_name "nginx-clojure", :version "0.2.7", :description "Embed Tomcat into Nginx by Nignx-Clojure Module so that Nginx can  Support Java Standard Web Applications", :created 1608733570709}
+{:jar_name "sinho", :group_name "me.lomin", :version "1.0.0", :description nil, :created 1608734308129}
+{:jar_name "ketu", :group_name "com.appsflyer", :version "0.6.1-SNAPSHOT", :description "Clojure Apache Kafka client with core.async api", :created 1608734490070}
+{:jar_name "sci", :group_name "borkdude", :version "0.2.1-SNAPSHOT", :description "Small Clojure Interpreter", :created 1608735387462}
+{:jar_name "defexception", :group_name "com.rpl", :version "0.2.2", :description "A simple Clojure library that allows one to dynamically define Java Exception classes in Clojure.", :created 1608735791272}
