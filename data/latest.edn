@@ -1,15 +1,3 @@
-{:jar_name "rollcage", :group_name "circleci", :version "1.0.218", :description "A Clojure client for Rollbar", :created 1608044152255}
-{:jar_name "imcljs", :group_name "org.intermine", :version "1.3.1", :description "imcljs", :created 1608044638406}
-{:jar_name "reagent-form", :group_name "oconn", :version "0.1.5", :description nil, :created 1608047552951}
-{:jar_name "ablauf", :group_name "exoscale", :version "0.1.13", :description "long-running workflow management", :created 1608049243026}
-{:jar_name "mdc-util", :group_name "mdc-util", :version "0.1.0", :description "A small utility library for use of MDC with tools.logging", :created 1608049281276}
-{:jar_name "datascript", :group_name "datascript", :version "1.0.3", :description "An implementation of Datomic in-memory database and Datalog query engine in ClojureScript", :created 1608049830223}
-{:jar_name "effect", :group_name "darkleaf", :version "1.0.0", :description nil, :created 1608050543649}
-{:jar_name "tir-js-property", :group_name "jp.ne.tir", :version "1.0.0", :description "js property manipulator utility", :created 1608051056479}
-{:jar_name "naga", :group_name "org.clojars.quoll", :version "0.3.6", :description "Forward Chaining Rule Engine", :created 1608061082506}
-{:jar_name "conman", :group_name "conman", :version "0.9.1", :description "a database connection management library", :created 1608063026623}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.00-beta-20", :description "Clojure high performance data processing system", :created 1608064960564}
-{:jar_name "cambada", :group_name "luchiniatwork", :version "1.0.3", :description nil, :created 1608068829198}
 {:jar_name "reveal", :group_name "vlaaad", :version "1.1.177", :description nil, :created 1608070752551}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.3.14", :description "A simple, fast and durable Datalog database", :created 1608079815073}
 {:jar_name "hato", :group_name "hato", :version "0.7.2-SNAPSHOT", :description "An HTTP client for Clojure, wrapping JDK 11's HttpClient.", :created 1608081771262}
@@ -105,7 +93,6 @@
 {:jar_name "repl-tooling", :group_name "repl-tooling", :version "0.5.6-SNAPSHOT", :description "", :created 1608427474137}
 {:jar_name "fulcro-websockets", :group_name "com.fulcrologic", :version "3.3.0", :description nil, :created 1608430860169}
 {:jar_name "clj-faktory", :group_name "tech.ducktype", :version "0.3.17", :description "Faktory workers in Clojure!", :created 1608448686189}
-{:jar_name "cljam", :group_name "cljam", :version "0.8.1-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1608463873653}
 {:jar_name "odoyle-rules", :group_name "net.sekao", :version "0.6.0", :description "A rules engine for Clojure(Script)", :created 1608471814379}
 {:jar_name "odoyle-rum", :group_name "net.sekao", :version "0.6.0", :description "Make Rum components with O'Doyle Rules", :created 1608474045721}
 {:jar_name "error-helpers", :group_name "com.danboykis", :version "0.1.0", :description "working with functions and flows that produce failure", :created 1608474467287}
@@ -254,3 +241,16 @@
 {:jar_name "libjulia-clj", :group_name "cnuernber", :version "0.03", :description "Experimental Julia bindings for Clojure.", :created 1608763820086}
 {:jar_name "cambada", :group_name "luchiniatwork", :version "1.0.5", :description nil, :created 1608770563932}
 {:jar_name "lacinia", :group_name "com.walmartlabs", :version "0.38.0-alpha-8", :description "A GraphQL server implementation in Clojure", :created 1608771515114}
+{:jar_name "cljam", :group_name "cljam", :version "0.8.1-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1608775520902}
+{:jar_name "pom", :group_name "typed", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure", :created 1608776218367}
+{:jar_name "analyzer", :group_name "typed.cljc", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1608776231547}
+{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1608776239227}
+{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.13-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1608776251387}
+{:jar_name "runtime", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1608776257576}
+{:jar_name "spec", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Type-like specs.", :created 1608776266756}
+{:jar_name "clojure", :group_name "typed.lib", :version "1.0.13-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1608776273276}
+{:jar_name "lang", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1608776279526}
+{:jar_name "checker", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1608776286546}
+{:jar_name "checker", :group_name "typed.cljs", :version "1.0.13-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1608776292726}
+{:jar_name "annotator", :group_name "typed.clj", :version "1.0.13-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1608776299596}
+{:jar_name "core.async", :group_name "typed.lib", :version "1.0.13-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1608776305806}
