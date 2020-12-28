@@ -1,6 +1,3 @@
-{:jar_name "odoyle-rules", :group_name "net.sekao", :version "0.6.0", :description "A rules engine for Clojure(Script)", :created 1608471814379}
-{:jar_name "odoyle-rum", :group_name "net.sekao", :version "0.6.0", :description "Make Rum components with O'Doyle Rules", :created 1608474045721}
-{:jar_name "error-helpers", :group_name "com.danboykis", :version "0.1.0", :description "working with functions and flows that produce failure", :created 1608474467287}
 {:jar_name "tools.reader", :group_name "org.clojure.clr", :version "1.3.4", :description "Port of clojure.org/tool.reader to ClojureCLR", :created 1608485799469}
 {:jar_name "tools.namespace", :group_name "org.clojure.clr", :version "1.1.0", :description "Port of clojure.org/tools.namespace to ClojureCLR", :created 1608486836386}
 {:jar_name "beicon", :group_name "funcool", :version "2020.12.20-1", :description "Reactive Streams for Clojure(Script)", :created 1608487362196}
@@ -176,7 +173,6 @@
 {:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v0.0.64", :description "A client library for Vald.", :created 1608787566287}
 {:jar_name "wc-api-clj", :group_name "org.clojars.codemascot", :version "0.1.2", :description "WooCommerce REST API client written in Clojure.", :created 1608788568519}
 {:jar_name "ring-middleware-csp", :group_name "toyokumo", :version "0.2.0", :description "Ring middleware for Content Security Policy", :created 1608796077259}
-{:jar_name "spring-boot-bugger", :group_name "org.msync", :version "0.1.0-SNAPSHOT", :description "Just add dependency, sprinkle some config, and run Clojure in your Springboot application.", :created 1608796916372}
 {:jar_name "spring-boot-bugger", :group_name "org.msync", :version "0.1.1-SNAPSHOT", :description "Just add dependency, sprinkle some config, and run Clojure in your Springboot application.", :created 1608797600054}
 {:jar_name "telnet_client", :group_name "telnet_client", :version "0.1.9", :description "Clojure wrap for TelnetClient", :created 1608800893780}
 {:jar_name "jme-clj", :group_name "jme-clj", :version "0.1.10", :description "A Clojure 3D Game Engine Wrapper, Powered By jMonkeyEngine", :created 1608804453272}
@@ -201,7 +197,6 @@
 {:jar_name "sweet-crud", :group_name "sweet-crud", :version "0.1.5", :description "Two complementary macros to create compojure.api.sweet CRUD routes, with (configurable) database calls.", :created 1608886745446}
 {:jar_name "clj-htmx", :group_name "clj-htmx", :version "0.1.0-SNAPSHOT", :description "Backend helpers for htmx", :created 1608888508071}
 {:jar_name "sweet-crud", :group_name "sweet-crud", :version "0.1.6", :description "Two complementary macros to create compojure.api.sweet CRUD routes, with (configurable) database calls.", :created 1608892072271}
-{:jar_name "zen", :group_name "zen-lang", :version "0.0.1-SNAPSHOT", :description nil, :created 1608919492682}
 {:jar_name "prom-metrics", :group_name "prom-metrics", :version "0.6-alpha.1", :description nil, :created 1608922615056}
 {:jar_name "cawfn", :group_name "cawfn", :version "2.1-SNAPSHOT", :description "cawfn: a compile-time aware alternative to defn", :created 1608929848006}
 {:jar_name "cawfn", :group_name "cawfn", :version "2.2-SNAPSHOT", :description "cawfn: a compile-time aware alternative to defn", :created 1608947080022}
@@ -253,4 +248,9 @@
 {:jar_name "transit-clj", :group_name "walkable", :version "1.0.343", :description nil, :created 1609149224153}
 {:jar_name "unleash-client-clojure", :group_name "unleash-client-clojure", :version "0.2.1", :description "A Clojure library wrapping https://github.com/Unleash/unleash-client-java", :created 1609149240243}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.9.3-alpha1", :description "Core utils library for Clojure/Script", :created 1609149477851}
-{:jar_name "org.clojars.rollacaster.deploy-test", :group_name "org.clojars.rollacaster.deploy-test", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1609150006447}
+{:jar_name "zen", :group_name "zen-lang", :version "0.0.1-SNAPSHOT", :description nil, :created 1609153862555}
+{:jar_name "tir-js-property", :group_name "jp.ne.tir", :version "2.0.0", :description "js property manipulator utility", :created 1609153879825}
+{:jar_name "spring-boot-bugger", :group_name "org.msync", :version "0.1.0-SNAPSHOT", :description "Just add dependency, sprinkle some config, and run Clojure in your Springboot application.", :created 1609155026696}
+{:jar_name "etaoin-graal", :group_name "borkdude", :version "0.3.7-alpha.1", :description "Pure Clojure Webdriver protocol implementation.", :created 1609155448302}
+{:jar_name "contextual", :group_name "bsless", :version "0.0.0-alpha4", :description "Deferred evaluation with context", :created 1609155651521}
+{:jar_name "org.clojars.rollacaster.deploy-test", :group_name "org.clojars.rollacaster.deploy-test", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1609155811769}
