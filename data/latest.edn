@@ -1,6 +1,3 @@
-{:jar_name "lein-template", :group_name "play-cljc", :version "0.9.4.1", :description "A template for making play-cljc projects", :created 1608644365513}
-{:jar_name "lein-template", :group_name "edna", :version "1.6.0.10", :description "A template for making edna projects", :created 1608645228093}
-{:jar_name "potok", :group_name "funcool", :version "3.2.0", :description "Reactive Streams based state management toolkit.", :created 1608646348230}
 {:jar_name "qliksense", :group_name "matteoredaelli", :version "0.4.0", :description "Qliksense Repository APIs", :created 1608650392929}
 {:jar_name "alia", :group_name "cc.qbits", :version "5.0.0-alpha1", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1608654654966}
 {:jar_name "alia-async", :group_name "cc.qbits", :version "5.0.0-alpha1", :description "core.async interface for Alia", :created 1608654667317}
@@ -254,3 +251,6 @@
 {:jar_name "antq", :group_name "antq", :version "0.10.1", :description "Point out your outdated dependencies", :created 1609314545128}
 {:jar_name "simple-kafka-client", :group_name "tendant", :version "0.4.1", :description "Not another kafka client libary, instead this is a collection of functions for building kafka client in Clojure.", :created 1609315350511}
 {:jar_name "fs", :group_name "clj-commons", :version "1.6.307", :description "File system utilities for clojure", :created 1609325709046}
+{:jar_name "time-literals", :group_name "time-literals", :version "0.1.5", :description "Clojure(Script) tagged literals for jsr-310 entities", :created 1609331208079}
+{:jar_name "resolve-java-sources-and-javadocs", :group_name "threatgrid", :version "0.1.7", :description "Automatically downloads all available .jars with Java sources and javadocs for a given project.", :created 1609331537242}
+{:jar_name "depot", :group_name "olical", :version "2.1.0", :description "Find newer versions of your dependencies in your deps.edn file.", :created 1609333632801}
