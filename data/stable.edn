@@ -1,5 +1,3 @@
-{:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.6.0", :description "A publisher for μ/log to Kinesis.", :created 1608386143960}
-{:jar_name "mulog-cloudwatch", :group_name "com.brunobonacci", :version "0.6.0", :description "A publisher for μ/log to Cloudwatch.", :created 1608386161708}
 {:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.6.0", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1608386179872}
 {:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.6.0", :description "A publisher for μ/trace to OpenZipkin.", :created 1608386197692}
 {:jar_name "mulog-prometheus", :group_name "com.brunobonacci", :version "0.6.0", :description "A publisher for μ/log to Prometheus.", :created 1608386216068}
@@ -254,3 +252,5 @@
 {:jar_name "common-service", :group_name "tendant", :version "0.1.4", :description "FIXME: write description", :created 1609289123129}
 {:jar_name "simple-kafka-client", :group_name "tendant", :version "0.4.0", :description "Not another kafka client libary, instead this is a collection of functions for building kafka client in Clojure.", :created 1609290818385}
 {:jar_name "editscript", :group_name "juji", :version "0.5.4", :description "A diff library for Clojure/ClojureScript data structures", :created 1609306182767}
+{:jar_name "antq", :group_name "antq", :version "0.10.1", :description "Point out your outdated dependencies", :created 1609314545128}
+{:jar_name "simple-kafka-client", :group_name "tendant", :version "0.4.1", :description "Not another kafka client libary, instead this is a collection of functions for building kafka client in Clojure.", :created 1609315350511}
