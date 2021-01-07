@@ -1,5 +1,3 @@
-{:jar_name "sine", :group_name "sine", :version "0.0.4", :description "A port of Sinuous to ClojureScript", :created 1609262806684}
-{:jar_name "failjure", :group_name "failjure", :version "2.1.0", :description "Simple helpers for treating failures as values", :created 1609268581957}
 {:jar_name "failjure", :group_name "failjure", :version "2.1.1", :description "Simple helpers for treating failures as values", :created 1609270572970}
 {:jar_name "tonos-client", :group_name "tonos-client", :version "1.5.0-SNAPSHOT", :description "Clojure bindings to TON OS SDK's Core Client Library", :created 1609272158148}
 {:jar_name "tonos-client", :group_name "tonos-client", :version "1.5.1-SNAPSHOT", :description "Clojure bindings to TON OS SDK's Core Client Library", :created 1609273061630}
@@ -22,7 +20,6 @@
 {:jar_name "depot", :group_name "olical", :version "2.1.0", :description "Find newer versions of your dependencies in your deps.edn file.", :created 1609333632801}
 {:jar_name "resolve-java-sources-and-javadocs", :group_name "threatgrid", :version "0.1.10", :description "Automatically downloads all available .jars with Java sources and javadocs for a given project.", :created 1609336262089}
 {:jar_name "reagent-dev-tools", :group_name "metosin", :version "0.3.1", :description "Reagent dev tools", :created 1609336424868}
-{:jar_name "core.async-helpers", :group_name "jtk-dvlp", :version "2.0.0-SNAPSHOT", :description "Helper pack for core.async", :created 1609340700612}
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.0-SNAPSHOT", :description "basic example using gorilla-ui", :created 1609347922603}
 {:jar_name "common-service", :group_name "tendant", :version "0.1.5", :description "FIXME: write description", :created 1609353148840}
 {:jar_name "commons", :group_name "io.bloomventures", :version "0.11.0", :description "", :created 1609354129662}
@@ -254,3 +251,6 @@
 {:jar_name "jepsen", :group_name "jepsen", :version "0.2.2-SNAPSHOT", :description "Distributed systems testing framework.", :created 1610054766832}
 {:jar_name "toto", :group_name "metasoarous", :version "0.0.1-alpha2", :description "Simple but powerful static site generation in Clojure (with live code reloading!)", :created 1610056106782}
 {:jar_name "stimulus", :group_name "kwrooijen", :version "0.0.1-SNAPSHOT", :description "Clojure wrapper for Stimulus", :created 1610056277691}
+{:jar_name "serum", :group_name "waffletower", :version "0.8.0", :description "Clojure library of utility functions and macros", :created 1610058732312}
+{:jar_name "sabisu", :group_name "waffletower", :version "0.2.0", :description "micro-service configuration library", :created 1610059258447}
+{:jar_name "core.async-helpers", :group_name "jtk-dvlp", :version "2.0.0-SNAPSHOT", :description "Helper pack for core.async", :created 1610060156000}
