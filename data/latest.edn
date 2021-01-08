@@ -1,12 +1,3 @@
-{:jar_name "defrag", :group_name "escherize", :version "0.1.4", :description "A facility for writing defn macros that handle arguments", :created 1609274425859}
-{:jar_name "resolve-java-sources-and-javadocs", :group_name "threatgrid", :version "0.1.5", :description "Automatically downloads all available .jars with Java sources and javadocs for a given project.", :created 1609277723942}
-{:jar_name "dtype-next", :group_name "cnuernber", :version "6.00-beta-13", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1609279361939}
-{:jar_name "resolve-java-sources-and-javadocs", :group_name "threatgrid", :version "0.1.6", :description "Automatically downloads all available .jars with Java sources and javadocs for a given project.", :created 1609279758656}
-{:jar_name "membrane", :group_name "com.phronemophobic", :version "0.9.19-beta", :description "A platform agnostic library for creating user interfaces", :created 1609280953226}
-{:jar_name "fulcro-rad-datomic", :group_name "com.fulcrologic", :version "1.0.5", :description "A Datomic database driver for Fulcro RAD.", :created 1609285218941}
-{:jar_name "clj-headlights", :group_name "logrhythm", :version "2.11.1", :description "Clojure on Beam", :created 1609285516889}
-{:jar_name "common-service", :group_name "tendant", :version "0.1.4", :description "FIXME: write description", :created 1609289123129}
-{:jar_name "simple-kafka-client", :group_name "tendant", :version "0.4.0", :description "Not another kafka client libary, instead this is a collection of functions for building kafka client in Clojure.", :created 1609290818385}
 {:jar_name "editscript", :group_name "juji", :version "0.5.4", :description "A diff library for Clojure/ClojureScript data structures", :created 1609306182767}
 {:jar_name "antq", :group_name "antq", :version "0.10.1", :description "Point out your outdated dependencies", :created 1609314545128}
 {:jar_name "simple-kafka-client", :group_name "tendant", :version "0.4.1", :description "Not another kafka client libary, instead this is a collection of functions for building kafka client in Clojure.", :created 1609315350511}
@@ -249,8 +240,17 @@
 {:jar_name "stimulus", :group_name "kwrooijen", :version "0.0.1-SNAPSHOT", :description "Clojure wrapper for Stimulus", :created 1610056277691}
 {:jar_name "serum", :group_name "waffletower", :version "0.8.0", :description "Clojure library of utility functions and macros", :created 1610058732312}
 {:jar_name "sabisu", :group_name "waffletower", :version "0.2.0", :description "micro-service configuration library", :created 1610059258447}
-{:jar_name "core.async-helpers", :group_name "jtk-dvlp", :version "2.0.0-SNAPSHOT", :description "Helper pack for core.async", :created 1610062016326}
 {:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.3.0", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1610064854744}
 {:jar_name "asami", :group_name "org.clojars.quoll", :version "1.2.9", :description "An in memory graph store for Clojure and ClojureScript", :created 1610072671412}
 {:jar_name "naga", :group_name "org.clojars.quoll", :version "0.3.7-SNAPSHOT", :description "Forward Chaining Rule Engine", :created 1610073348767}
 {:jar_name "tako", :group_name "tako", :version "0.1.0-SNAPSHOT", :description nil, :created 1610076468372}
+{:jar_name "gluttony", :group_name "toyokumo", :version "0.3.2", :description "A consumer library using core.async and aws-api based on AWS SQS", :created 1610094191227}
+{:jar_name "core.async-helpers", :group_name "jtk-dvlp", :version "2.0.0-SNAPSHOT", :description "Helper pack for core.async", :created 1610095194882}
+{:jar_name "alia", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1610095619102}
+{:jar_name "alia-async", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "core.async interface for Alia", :created 1610095631112}
+{:jar_name "alia-java-legacy-time", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Alia extension for java legacy time codec", :created 1610095641271}
+{:jar_name "alia-joda-time", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Alia extension for joda-time codec", :created 1610095651391}
+{:jar_name "alia-manifold", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "manifold interface for Alia", :created 1610095661531}
+{:jar_name "alia-spec", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "clojure.spec for Alia", :created 1610095671761}
+{:jar_name "alia-component", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Component integration for Alia", :created 1610095683881}
+{:jar_name "alia-all", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1610095745821}
