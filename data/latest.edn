@@ -1,7 +1,3 @@
-{:jar_name "fs", :group_name "clj-commons", :version "1.6.307", :description "File system utilities for clojure", :created 1609325709046}
-{:jar_name "time-literals", :group_name "time-literals", :version "0.1.5", :description "Clojure(Script) tagged literals for jsr-310 entities", :created 1609331208079}
-{:jar_name "resolve-java-sources-and-javadocs", :group_name "threatgrid", :version "0.1.7", :description "Automatically downloads all available .jars with Java sources and javadocs for a given project.", :created 1609331537242}
-{:jar_name "depot", :group_name "olical", :version "2.1.0", :description "Find newer versions of your dependencies in your deps.edn file.", :created 1609333632801}
 {:jar_name "resolve-java-sources-and-javadocs", :group_name "threatgrid", :version "0.1.10", :description "Automatically downloads all available .jars with Java sources and javadocs for a given project.", :created 1609336262089}
 {:jar_name "reagent-dev-tools", :group_name "metosin", :version "0.3.1", :description "Reagent dev tools", :created 1609336424868}
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.0-SNAPSHOT", :description "basic example using gorilla-ui", :created 1609347922603}
@@ -242,7 +238,6 @@
 {:jar_name "naga", :group_name "org.clojars.quoll", :version "0.3.7-SNAPSHOT", :description "Forward Chaining Rule Engine", :created 1610073348767}
 {:jar_name "tako", :group_name "tako", :version "0.1.0-SNAPSHOT", :description nil, :created 1610076468372}
 {:jar_name "gluttony", :group_name "toyokumo", :version "0.3.2", :description "A consumer library using core.async and aws-api based on AWS SQS", :created 1610094191227}
-{:jar_name "core.async-helpers", :group_name "jtk-dvlp", :version "2.0.0-SNAPSHOT", :description "Helper pack for core.async", :created 1610095194882}
 {:jar_name "alia", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1610095619102}
 {:jar_name "alia-async", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "core.async interface for Alia", :created 1610095631112}
 {:jar_name "alia-java-legacy-time", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Alia extension for java legacy time codec", :created 1610095641271}
@@ -252,5 +247,10 @@
 {:jar_name "alia-component", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Component integration for Alia", :created 1610095683881}
 {:jar_name "alia-all", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1610095745821}
 {:jar_name "opa", :group_name "clj-opa", :version "0.1.0-SNAPSHOT", :description "Clojure utilities and Ring middleware for app authorization using Open Policy Agent (OPA)", :created 1610103569609}
-{:jar_name "clj-opa", :group_name "clj-opa", :version "0.1.0-SNAPSHOT", :description "Clojure utilities and Ring middleware for app authorization using Open Policy Agent (OPA)", :created 1610106858092}
 {:jar_name "commons", :group_name "cc.qbits", :version "1.0.0-alpha5", :description "Stuff", :created 1610107044451}
+{:jar_name "tick-util", :group_name "dv", :version "2030.0.4", :description "Utils for juxt/tick", :created 1610108409235}
+{:jar_name "draw", :group_name "dvlopt", :version "1.0.0-beta1", :description "Accessing the Canvas API", :created 1610109587458}
+{:jar_name "repl-tooling", :group_name "repl-tooling", :version "0.5.6", :description "", :created 1610109994668}
+{:jar_name "core.async-helpers", :group_name "jtk-dvlp", :version "2.0.0-SNAPSHOT", :description "Helper pack for core.async", :created 1610110061757}
+{:jar_name "wikla", :group_name "wikla", :version "0.8.1", :description "Behavior Tree in Clojure(Script).", :created 1610111098009}
+{:jar_name "clj-opa", :group_name "clj-opa", :version "0.1.0-SNAPSHOT", :description "Clojure utilities and Ring middleware for app authorization using Open Policy Agent (OPA)", :created 1610111107389}
