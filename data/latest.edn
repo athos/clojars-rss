@@ -1,5 +1,3 @@
-{:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.0-SNAPSHOT", :description "basic example using gorilla-ui", :created 1609347922603}
-{:jar_name "common-service", :group_name "tendant", :version "0.1.5", :description "FIXME: write description", :created 1609353148840}
 {:jar_name "commons", :group_name "io.bloomventures", :version "0.11.0", :description "", :created 1609354129662}
 {:jar_name "omni", :group_name "io.bloomventures", :version "0.27.0", :description "", :created 1609354625188}
 {:jar_name "clj-common", :group_name "com.mungolab", :version "0.3.0-SNAPSHOT", :description "common functions", :created 1609358670575}
@@ -219,7 +217,6 @@
 {:jar_name "datasplash", :group_name "datasplash", :version "0.7.2", :description "Clojure API for a more dynamic Google Cloud Dataflow and (hopefully) Apache BEAM", :created 1610037355166}
 {:jar_name "too-hot", :group_name "org.clojars.blue0513", :version "1.0.0", :description "A very simple Fahrenheit to Celsius converter.", :created 1610037478382}
 {:jar_name "qbits-commons", :group_name "yapsterapp", :version "1.0.0-alpha5", :description "Stuff", :created 1610040458604}
-{:jar_name "simpledb-clj", :group_name "simpledb-clj", :version "0.0.17-SNAPSHOT", :description "utility layer above aws simpledb", :created 1610042808446}
 {:jar_name "resolve-java-sources-and-javadocs", :group_name "threatgrid", :version "1.1.0", :description "Makes available .jars with Java sources and javadocs for a given project.", :created 1610045126998}
 {:jar_name "menard", :group_name "menard", :version "1.4.0", :description "A library for natural language generation and parsing", :created 1610051531537}
 {:jar_name "coattail", :group_name "coattail", :version "0.0.1-SNAPSHOT", :description "Clojure/Script OpenAPI tooling to afford instant leverage", :created 1610051988966}
@@ -235,14 +232,6 @@
 {:jar_name "naga", :group_name "org.clojars.quoll", :version "0.3.7-SNAPSHOT", :description "Forward Chaining Rule Engine", :created 1610073348767}
 {:jar_name "tako", :group_name "tako", :version "0.1.0-SNAPSHOT", :description nil, :created 1610076468372}
 {:jar_name "gluttony", :group_name "toyokumo", :version "0.3.2", :description "A consumer library using core.async and aws-api based on AWS SQS", :created 1610094191227}
-{:jar_name "alia", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1610095619102}
-{:jar_name "alia-async", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "core.async interface for Alia", :created 1610095631112}
-{:jar_name "alia-java-legacy-time", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Alia extension for java legacy time codec", :created 1610095641271}
-{:jar_name "alia-joda-time", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Alia extension for joda-time codec", :created 1610095651391}
-{:jar_name "alia-manifold", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "manifold interface for Alia", :created 1610095661531}
-{:jar_name "alia-spec", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "clojure.spec for Alia", :created 1610095671761}
-{:jar_name "alia-component", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Component integration for Alia", :created 1610095683881}
-{:jar_name "alia-all", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1610095745821}
 {:jar_name "opa", :group_name "clj-opa", :version "0.1.0-SNAPSHOT", :description "Clojure utilities and Ring middleware for app authorization using Open Policy Agent (OPA)", :created 1610103569609}
 {:jar_name "commons", :group_name "cc.qbits", :version "1.0.0-alpha5", :description "Stuff", :created 1610107044451}
 {:jar_name "tick-util", :group_name "dv", :version "2030.0.4", :description "Utils for juxt/tick", :created 1610108409235}
@@ -254,3 +243,14 @@
 {:jar_name "clj-karaoke-lyrics", :group_name "baskeboler", :version "1.0.6-SNAPSHOT", :description "Rip karaoke lyrics from karaoke midi files", :created 1610114855939}
 {:jar_name "clj-opa", :group_name "clj-opa", :version "0.1.0-SNAPSHOT", :description "Clojure utilities and Ring middleware for app authorization using Open Policy Agent (OPA)", :created 1610114902939}
 {:jar_name "clj-opa", :group_name "clj-opa", :version "0.2.0-SNAPSHOT", :description "Clojure utilities and Ring middleware for app authorization using Open Policy Agent (OPA)", :created 1610116715595}
+{:jar_name "repl-tooling", :group_name "repl-tooling", :version "0.5.7-SNAPSHOT", :description "", :created 1610119546563}
+{:jar_name "alia", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1610120606994}
+{:jar_name "alia-async", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "core.async interface for Alia", :created 1610120619784}
+{:jar_name "alia-java-legacy-time", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Alia extension for java legacy time codec", :created 1610120630234}
+{:jar_name "alia-joda-time", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Alia extension for joda-time codec", :created 1610120640684}
+{:jar_name "alia-manifold", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "manifold interface for Alia", :created 1610120651214}
+{:jar_name "alia-spec", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "clojure.spec for Alia", :created 1610120661874}
+{:jar_name "alia-component", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Component integration for Alia", :created 1610120674264}
+{:jar_name "alia-all", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1610120693224}
+{:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc3", :description nil, :created 1610120802393}
+{:jar_name "simpledb-clj", :group_name "simpledb-clj", :version "0.0.17-SNAPSHOT", :description "utility layer above aws simpledb", :created 1610121267509}
