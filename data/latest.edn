@@ -1,7 +1,3 @@
-{:jar_name "guardrails", :group_name "com.fulcrologic", :version "1.1.2", :description "A library for using Clojure specs more like a type system during development.", :created 1609981847703}
-{:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.2.4", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1609984308454}
-{:jar_name "portal", :group_name "djblue", :version "0.8.0", :description "A clojure tool to navigate through your data.", :created 1609995001020}
-{:jar_name "cache", :group_name "com.github.cache", :version "1.0.2", :description nil, :created 1609995801304}
 {:jar_name "coattail", :group_name "coattail", :version "0.0.1-alpha1", :description "Clojure/Script OpenAPI tooling to afford instant leverage", :created 1609997313262}
 {:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.3.0-SNAPSHOT", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1610001480929}
 {:jar_name "donkey", :group_name "com.appsflyer", :version "0.3.0", :description "Clojure Server and Client", :created 1610007765640}
@@ -26,7 +22,6 @@
 {:jar_name "coattail", :group_name "coattail", :version "0.0.1-SNAPSHOT", :description "Clojure/Script OpenAPI tooling to afford instant leverage", :created 1610051988966}
 {:jar_name "uberdeps", :group_name "uberdeps", :version "1.0.4", :description "Uberjar builder for deps.edn", :created 1610053331754}
 {:jar_name "resolve-java-sources-and-javadocs", :group_name "threatgrid", :version "1.1.1", :description "Makes available .jars with Java sources and javadocs for a given project.", :created 1610054353206}
-{:jar_name "jepsen", :group_name "jepsen", :version "0.2.2-SNAPSHOT", :description "Distributed systems testing framework.", :created 1610054766832}
 {:jar_name "toto", :group_name "metasoarous", :version "0.0.1-alpha2", :description "Simple but powerful static site generation in Clojure (with live code reloading!)", :created 1610056106782}
 {:jar_name "serum", :group_name "waffletower", :version "0.8.0", :description "Clojure library of utility functions and macros", :created 1610058732312}
 {:jar_name "sabisu", :group_name "waffletower", :version "0.2.0", :description "micro-service configuration library", :created 1610059258447}
@@ -254,3 +249,8 @@
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210113-165301.7b180e78", :description nil, :created 1610556834391}
 {:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc5", :description nil, :created 1610559494329}
 {:jar_name "edd-core", :group_name "alphaprosoft", :version "1.190", :description nil, :created 1610559697488}
+{:jar_name "datalevin", :group_name "datalevin", :version "0.3.17", :description "A simple, fast and durable Datalog database", :created 1610563532386}
+{:jar_name "crypto", :group_name "com.fluree", :version "0.3.5", :description nil, :created 1610563904453}
+{:jar_name "clj-karaoke-lyrics", :group_name "baskeboler", :version "1.0.6", :description "Rip karaoke lyrics from karaoke midi files", :created 1610565858277}
+{:jar_name "jepsen", :group_name "jepsen", :version "0.2.2-SNAPSHOT", :description "Distributed systems testing framework.", :created 1610566500302}
+{:jar_name "cljaws", :group_name "timotheosh", :version "0.3.3-SNAPSHOT", :description "Convenience functions for interacting with AWS API's from closh", :created 1610567252106}
