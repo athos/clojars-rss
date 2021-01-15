@@ -1,8 +1,3 @@
-{:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.7.0-SNAPSHOT", :description "A publisher for μ/log to Kafka.", :created 1610125073469}
-{:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.7.0-SNAPSHOT", :description "A publisher for μ/log to Kinesis.", :created 1610125089499}
-{:jar_name "mulog-cloudwatch", :group_name "com.brunobonacci", :version "0.7.0-SNAPSHOT", :description "A publisher for μ/log to Cloudwatch.", :created 1610125105349}
-{:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.7.0-SNAPSHOT", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1610125120769}
-{:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.7.0-SNAPSHOT", :description "A publisher for μ/trace to OpenZipkin.", :created 1610125136009}
 {:jar_name "mulog-prometheus", :group_name "com.brunobonacci", :version "0.7.0-SNAPSHOT", :description "A publisher for μ/log to Prometheus.", :created 1610125151919}
 {:jar_name "alia", :group_name "cc.qbits", :version "5.0.0-alpha3", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1610126078621}
 {:jar_name "alia-async", :group_name "cc.qbits", :version "5.0.0-alpha3", :description "core.async interface for Alia", :created 1610126090281}
@@ -208,7 +203,6 @@
 {:jar_name "promenade", :group_name "promenade", :version "0.8.0-alpha2", :description "Take program design oddities in stride with Clojure/ClojureScript", :created 1610632688125}
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.0", :description "basic example using gorilla-ui", :created 1610632688555}
 {:jar_name "notespace", :group_name "scicloj", :version "3-alpha3-SNAPSHOT", :description "Notebook experience in your Clojure namespace.", :created 1610632877004}
-{:jar_name "ductile", :group_name "threatgrid", :version "0.3.0-SNAPSHOT", :description "Yet another Clojure client for Elasticsearch REST API, that fits our needs", :created 1610634942067}
 {:jar_name "babashka", :group_name "babashka", :version "0.2.7-SNAPSHOT", :description "babashka", :created 1610639213542}
 {:jar_name "mulog-cloudwatch", :group_name "com.brunobonacci", :version "0.6.2", :description "A publisher for μ/log to Cloudwatch.", :created 1610639525020}
 {:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.6.2", :description "A publisher for μ/log to Kafka.", :created 1610639879027}
@@ -254,3 +248,9 @@
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210115-110907.da7010c3", :description nil, :created 1610708983607}
 {:jar_name "recurring-cup", :group_name "ivarref", :version "0.3.50", :description nil, :created 1610709622832}
 {:jar_name "coax", :group_name "exoscale", :version "1.0.0-alpha11", :description "exo spec-coerce fork", :created 1610711725735}
+{:jar_name "jme-clj", :group_name "jme-clj", :version "0.1.13", :description "A Clojure 3D Game Engine Wrapper, Powered By jMonkeyEngine", :created 1610714903870}
+{:jar_name "cljc-misc", :group_name "com.wsscode", :version "2021.01.15", :description "Collection of general utils for Clojure and Clojurescript.", :created 1610716678756}
+{:jar_name "async", :group_name "com.wsscode", :version "2021.01.15", :description "Helpers for Clojure core.async.", :created 1610717228841}
+{:jar_name "ductile", :group_name "threatgrid", :version "0.3.0-SNAPSHOT", :description "Yet another Clojure client for Elasticsearch REST API, that fits our needs", :created 1610717240631}
+{:jar_name "datasplash", :group_name "za.co.simply", :version "0.8.2", :description "Clojure API for a more dynamic Google Cloud Dataflow\n  and (hopefully) Apache BEAM", :created 1610717510779}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210115-133256.5f6ef1e8", :description nil, :created 1610717634008}

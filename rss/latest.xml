@@ -4,7 +4,50 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 15 Jan 2021 12:18:24 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 Jan 2021 13:36:52 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20210115-133256.5f6ef1e8</guid>
+    <title>[org.akvo.flow/akvo-flow &quot;20210115-133256.5f6ef1e8&quot;]</title>
+    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20210115-133256.5f6ef1e8</link>
+    <description></description>
+    <pubDate>Fri, 15 Jan 2021 13:33:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/za.co.simply/datasplash/versions/0.8.2</guid>
+    <title>[za.co.simply/datasplash &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/za.co.simply/datasplash/versions/0.8.2</link>
+    <description>Clojure API for a more dynamic Google Cloud Dataflow
+  and (hopefully) Apache BEAM</description>
+    <pubDate>Fri, 15 Jan 2021 13:31:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/threatgrid/ductile/versions/0.3.0-SNAPSHOT</guid>
+    <title>[threatgrid/ductile &quot;0.3.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/threatgrid/ductile/versions/0.3.0-SNAPSHOT</link>
+    <description>Yet another Clojure client for Elasticsearch REST API, that fits our needs</description>
+    <pubDate>Fri, 15 Jan 2021 13:27:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wsscode/async/versions/2021.01.15</guid>
+    <title>[com.wsscode/async &quot;2021.01.15&quot;]</title>
+    <link>https://clojars.org/com.wsscode/async/versions/2021.01.15</link>
+    <description>Helpers for Clojure core.async.</description>
+    <pubDate>Fri, 15 Jan 2021 13:27:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wsscode/cljc-misc/versions/2021.01.15</guid>
+    <title>[com.wsscode/cljc-misc &quot;2021.01.15&quot;]</title>
+    <link>https://clojars.org/com.wsscode/cljc-misc/versions/2021.01.15</link>
+    <description>Collection of general utils for Clojure and Clojurescript.</description>
+    <pubDate>Fri, 15 Jan 2021 13:17:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/jme-clj/versions/0.1.13</guid>
+    <title>[jme-clj &quot;0.1.13&quot;]</title>
+    <link>https://clojars.org/jme-clj/versions/0.1.13</link>
+    <description>A Clojure 3D Game Engine Wrapper, Powered By jMonkeyEngine</description>
+    <pubDate>Fri, 15 Jan 2021 12:48:23 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/exoscale/coax/versions/1.0.0-alpha11</guid>
     <title>[exoscale/coax &quot;1.0.0-alpha11&quot;]</title>
@@ -320,13 +363,6 @@ om.next graph syntax.</description>
     <link>https://clojars.org/babashka/versions/0.2.7-SNAPSHOT</link>
     <description>babashka</description>
     <pubDate>Thu, 14 Jan 2021 15:46:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/threatgrid/ductile/versions/0.3.0-SNAPSHOT</guid>
-    <title>[threatgrid/ductile &quot;0.3.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/threatgrid/ductile/versions/0.3.0-SNAPSHOT</link>
-    <description>Yet another Clojure client for Elasticsearch REST API, that fits our needs</description>
-    <pubDate>Thu, 14 Jan 2021 14:35:42 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/scicloj/notespace/versions/3-alpha3-SNAPSHOT</guid>
@@ -1762,41 +1798,6 @@ om.next graph syntax.</description>
     <link>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.7.0-SNAPSHOT</link>
     <description>A publisher for μ/log to Prometheus.</description>
     <pubDate>Fri, 8 Jan 2021 16:59:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.7.0-SNAPSHOT</guid>
-    <title>[com.brunobonacci/mulog-zipkin &quot;0.7.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.7.0-SNAPSHOT</link>
-    <description>A publisher for μ/trace to OpenZipkin.</description>
-    <pubDate>Fri, 8 Jan 2021 16:58:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.7.0-SNAPSHOT</guid>
-    <title>[com.brunobonacci/mulog-slack &quot;0.7.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.7.0-SNAPSHOT</link>
-    <description>A publisher for μ/log to a Slack incoming webhook.</description>
-    <pubDate>Fri, 8 Jan 2021 16:58:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.7.0-SNAPSHOT</guid>
-    <title>[com.brunobonacci/mulog-cloudwatch &quot;0.7.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.7.0-SNAPSHOT</link>
-    <description>A publisher for μ/log to Cloudwatch.</description>
-    <pubDate>Fri, 8 Jan 2021 16:58:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.7.0-SNAPSHOT</guid>
-    <title>[com.brunobonacci/mulog-kinesis &quot;0.7.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.7.0-SNAPSHOT</link>
-    <description>A publisher for μ/log to Kinesis.</description>
-    <pubDate>Fri, 8 Jan 2021 16:58:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.7.0-SNAPSHOT</guid>
-    <title>[com.brunobonacci/mulog-kafka &quot;0.7.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.7.0-SNAPSHOT</link>
-    <description>A publisher for μ/log to Kafka.</description>
-    <pubDate>Fri, 8 Jan 2021 16:57:53 +0000</pubDate>
   </item>
   </channel>
 </rss>
