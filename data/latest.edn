@@ -1,8 +1,3 @@
-{:jar_name "mulog", :group_name "com.brunobonacci", :version "0.6.2", :description "μ/log is a micro-logging library that logs events and data, not words!", :created 1610124974360}
-{:jar_name "mulog-json", :group_name "com.brunobonacci", :version "0.6.2", :description "μ/log json handling", :created 1610124990790}
-{:jar_name "mulog-elasticsearch", :group_name "com.brunobonacci", :version "0.6.2", :description "A publisher for μ/log to Elasticsearch.", :created 1610125007950}
-{:jar_name "mulog-jvm-metrics", :group_name "com.brunobonacci", :version "0.6.2", :description "A JVM metrics sampler for μ/log.", :created 1610125024310}
-{:jar_name "mulog-filesystem-metrics", :group_name "com.brunobonacci", :version "0.6.2", :description "A filesystem metrics sampler for μ/log.", :created 1610125040470}
 {:jar_name "mulog-adv-console", :group_name "com.brunobonacci", :version "0.7.0-SNAPSHOT", :description "A publisher for μ/log to Console and Terminal.", :created 1610125058029}
 {:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.7.0-SNAPSHOT", :description "A publisher for μ/log to Kafka.", :created 1610125073469}
 {:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.7.0-SNAPSHOT", :description "A publisher for μ/log to Kinesis.", :created 1610125089499}
@@ -254,3 +249,8 @@
 {:jar_name "clj-push-notifications", :group_name "clj-push-notifications", :version "1.0.2", :description "Firebase cloud messaging client.", :created 1610705593544}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210115-101407.03c57d8c", :description nil, :created 1610705700173}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2020.12.13-SNAPSHOT", :description "Tidy your code with clj-kondo.", :created 1610705896092}
+{:jar_name "re-graph", :group_name "re-graph", :version "0.1.15-SNAPSHOT", :description "GraphQL client for re-frame applications", :created 1610708591150}
+{:jar_name "re-graph.clj-http-gniazdo", :group_name "re-graph.clj-http-gniazdo", :version "0.1.15-SNAPSHOT", :description "", :created 1610708605840}
+{:jar_name "re-graph.hato", :group_name "re-graph.hato", :version "0.1.15-SNAPSHOT", :description "", :created 1610708620860}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210115-110907.da7010c3", :description nil, :created 1610708983607}
+{:jar_name "recurring-cup", :group_name "ivarref", :version "0.3.50", :description nil, :created 1610709622832}
