@@ -1,7 +1,3 @@
-{:jar_name "alia-joda-time", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Alia extension for joda-time codec", :created 1610120640684}
-{:jar_name "alia-manifold", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "manifold interface for Alia", :created 1610120651214}
-{:jar_name "alia-spec", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "clojure.spec for Alia", :created 1610120661874}
-{:jar_name "alia-component", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Component integration for Alia", :created 1610120674264}
 {:jar_name "alia-all", :group_name "cc.qbits", :version "5.0.0-alpha3-SNAPSHOT", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1610120693224}
 {:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc3", :description nil, :created 1610120802393}
 {:jar_name "repl-tooling", :group_name "repl-tooling", :version "0.5.7", :description "", :created 1610124306565}
@@ -121,7 +117,6 @@
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210111-143659.18dcd0bd", :description nil, :created 1610375868826}
 {:jar_name "clj-gcp", :group_name "ovotech", :version "0.6.15", :description "Clojure utilities for the Google Cloud Platform", :created 1610380037462}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210111-160352.6de5f593", :description nil, :created 1610381073904}
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.3-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1610384190939}
 {:jar_name "databuilderframework", :group_name "com.nottocode.databuilderframework", :version "0.5.9-SNAPSHOT", :description nil, :created 1610387449123}
 {:jar_name "databuilderframework", :group_name "com.nottocode.databuilderframework", :version "0.5.11-SNAPSHOT", :description nil, :created 1610388145267}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210111-181129.71e9d6d1", :description nil, :created 1610388723203}
@@ -254,3 +249,8 @@
 {:jar_name "dbee", :group_name "tessellator", :version "0.2.0", :description "A convenient API for executing HoneySQL queries", :created 1610693727478}
 {:jar_name "tako", :group_name "tako", :version "0.1.0-SNAPSHOT", :description nil, :created 1610696029110}
 {:jar_name "fumi", :group_name "fumi", :version "0.2.0-SNAPSHOT", :description "A Prometheus client for Clojure.", :created 1610696396127}
+{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.3-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1610701173519}
+{:jar_name "formatting-stack", :group_name "formatting-stack", :version "4.3.0-alpha1", :description "An efficient, smart, graceful composition of formatters, linters and such.", :created 1610701292548}
+{:jar_name "recurring-cup", :group_name "ivarref", :version "0.1.20", :description nil, :created 1610701779034}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210115-091038.3270967a", :description nil, :created 1610701880504}
+{:jar_name "framework", :group_name "com.flexiana", :version "0.1.0", :description "Framework", :created 1610702586058}
