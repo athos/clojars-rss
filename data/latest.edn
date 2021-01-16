@@ -1,15 +1,3 @@
-{:jar_name "re-cipes", :group_name "re-cipes", :version "0.3.1", :description "Provioning re-cipes for Linux machines", :created 1610246411684}
-{:jar_name "duct.module.datomic", :group_name "hden", :version "0.2.0-SNAPSHOT", :description "A Duct module that adds Integrant keys for a Datomic database connection and Ragtime migrations to a configuration.", :created 1610251027437}
-{:jar_name "pom", :group_name "typed", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure", :created 1610256060017}
-{:jar_name "analyzer", :group_name "typed.cljc", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1610256066927}
-{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1610256073037}
-{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1610256079357}
-{:jar_name "runtime", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1610256085507}
-{:jar_name "spec", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Type-like specs.", :created 1610256091877}
-{:jar_name "clojure", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1610256098067}
-{:jar_name "lang", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1610256104247}
-{:jar_name "checker", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1610256110616}
-{:jar_name "checker", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1610256116846}
 {:jar_name "annotator", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1610256123016}
 {:jar_name "core.async", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1610256129296}
 {:jar_name "resolve-java-sources-and-javadocs", :group_name "threatgrid", :version "1.3.0", :description "Makes available .jars with Java sources and javadocs for a given project.", :created 1610264062633}
@@ -231,7 +219,6 @@
 {:jar_name "sparkplug-ml", :group_name "amperity", :version "0.1.5", :description "Clojure API for Apache Spark Machine Learning", :created 1610742511294}
 {:jar_name "sparkplug-sql", :group_name "amperity", :version "0.1.5", :description "Clojure API for Apache Spark SQL", :created 1610742522034}
 {:jar_name "domestic", :group_name "oconn", :version "0.0.2-SNAPSHOT", :description nil, :created 1610744625168}
-{:jar_name "babashka", :group_name "babashka", :version "0.2.7-SNAPSHOT", :description "babashka", :created 1610746580113}
 {:jar_name "clj-util", :group_name "com.michaelgaare", :version "0.1.0", :description "personal clojure utils library", :created 1610748510558}
 {:jar_name "testdoc", :group_name "testdoc", :version "1.4.1", :description "Yet another doctest implementation in Clojure", :created 1610758542250}
 {:jar_name "sparkplug-core", :group_name "amperity", :version "0.1.6", :description "Clojure API for Apache Spark", :created 1610768248604}
@@ -254,3 +241,16 @@
 {:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.6.3", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1610802635886}
 {:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.6.3", :description "A publisher for μ/trace to OpenZipkin.", :created 1610802652026}
 {:jar_name "mulog-prometheus", :group_name "com.brunobonacci", :version "0.6.3", :description "A publisher for μ/log to Prometheus.", :created 1610802667936}
+{:jar_name "mulog", :group_name "com.brunobonacci", :version "0.6.4", :description "μ/log is a micro-logging library that logs events and data, not words!", :created 1610808776749}
+{:jar_name "mulog-json", :group_name "com.brunobonacci", :version "0.6.4", :description "μ/log json handling", :created 1610808793909}
+{:jar_name "mulog-elasticsearch", :group_name "com.brunobonacci", :version "0.6.4", :description "A publisher for μ/log to Elasticsearch.", :created 1610808812469}
+{:jar_name "mulog-jvm-metrics", :group_name "com.brunobonacci", :version "0.6.4", :description "A JVM metrics sampler for μ/log.", :created 1610808829028}
+{:jar_name "mulog-filesystem-metrics", :group_name "com.brunobonacci", :version "0.6.4", :description "A filesystem metrics sampler for μ/log.", :created 1610808845368}
+{:jar_name "mulog-adv-console", :group_name "com.brunobonacci", :version "0.6.4", :description "A publisher for μ/log to Console and Terminal.", :created 1610808861988}
+{:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.6.4", :description "A publisher for μ/log to Kafka.", :created 1610808879608}
+{:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.6.4", :description "A publisher for μ/log to Kinesis.", :created 1610808897198}
+{:jar_name "mulog-cloudwatch", :group_name "com.brunobonacci", :version "0.6.4", :description "A publisher for μ/log to Cloudwatch.", :created 1610808913788}
+{:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.6.4", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1610808930808}
+{:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.6.4", :description "A publisher for μ/trace to OpenZipkin.", :created 1610808947637}
+{:jar_name "mulog-prometheus", :group_name "com.brunobonacci", :version "0.6.4", :description "A publisher for μ/log to Prometheus.", :created 1610808964187}
+{:jar_name "babashka", :group_name "babashka", :version "0.2.7-SNAPSHOT", :description "babashka", :created 1610809471793}
