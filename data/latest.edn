@@ -1,7 +1,3 @@
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210113-165301.7b180e78", :description nil, :created 1610556834391}
-{:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc5", :description nil, :created 1610559494329}
-{:jar_name "edd-core", :group_name "alphaprosoft", :version "1.190", :description nil, :created 1610559697488}
-{:jar_name "datalevin", :group_name "datalevin", :version "0.3.17", :description "A simple, fast and durable Datalog database", :created 1610563532386}
 {:jar_name "crypto", :group_name "com.fluree", :version "0.3.5", :description nil, :created 1610563904453}
 {:jar_name "clj-karaoke-lyrics", :group_name "baskeboler", :version "1.0.6", :description "Rip karaoke lyrics from karaoke midi files", :created 1610565858277}
 {:jar_name "cljaws", :group_name "timotheosh", :version "0.3.3-SNAPSHOT", :description "Convenience functions for interacting with AWS API's from closh", :created 1610567252106}
@@ -50,7 +46,6 @@
 {:jar_name "dbee", :group_name "tessellator", :version "0.2.0", :description "A convenient API for executing HoneySQL queries", :created 1610693727478}
 {:jar_name "tako", :group_name "tako", :version "0.1.0-SNAPSHOT", :description nil, :created 1610696029110}
 {:jar_name "fumi", :group_name "fumi", :version "0.2.0-SNAPSHOT", :description "A Prometheus client for Clojure.", :created 1610696396127}
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.3-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1610701173519}
 {:jar_name "formatting-stack", :group_name "formatting-stack", :version "4.3.0-alpha1", :description "An efficient, smart, graceful composition of formatters, linters and such.", :created 1610701292548}
 {:jar_name "recurring-cup", :group_name "ivarref", :version "0.1.20", :description nil, :created 1610701779034}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210115-091038.3270967a", :description nil, :created 1610701880504}
@@ -254,3 +249,8 @@
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2020.12.13-SNAPSHOT", :description "Tidy your code with clj-kondo.", :created 1611163614388}
 {:jar_name "lein-template", :group_name "rc", :version "0.2.0", :description "Template for Reagent Cookbook recipes", :created 1611163683948}
 {:jar_name "transpriem-api", :group_name "transpriem-api", :version "2.4", :description "Core of transpriem micro services", :created 1611164280913}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210120-181730.07d94142", :description nil, :created 1611166684624}
+{:jar_name "zprint", :group_name "zprint", :version "1.1.1", :description "Pretty print zippers and s-expressions", :created 1611168630979}
+{:jar_name "lein-zprint", :group_name "lein-zprint", :version "1.1.1", :description "Run zprint to pretty print source files in your project.", :created 1611168724468}
+{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.3-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1611169158675}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.01.21-SNAPSHOT", :description "Tidy your code with clj-kondo.", :created 1611170902311}
