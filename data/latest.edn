@@ -1,6 +1,3 @@
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210115-133256.5f6ef1e8", :description nil, :created 1610717634008}
-{:jar_name "nrepl", :group_name "nrepl", :version "0.9.0-SNAPSHOT", :description "nREPL is a Clojure *n*etwork REPL.", :created 1610718796539}
-{:jar_name "crux-core", :group_name "juxt", :version "dev-SNAPSHOT", :description "An open source document database with bitemporal graph queries", :created 1610720792403}
 {:jar_name "crux-rdf", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RDF", :created 1610720802233}
 {:jar_name "crux-metrics", :group_name "juxt", :version "dev-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1610720811343}
 {:jar_name "crux-rocksdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RocksDB", :created 1610720821083}
@@ -246,7 +243,6 @@
 {:jar_name "parallel-reload", :group_name "threatgrid", :version "0.1.1", :description "parallel-reload", :created 1611278990280}
 {:jar_name "cleancss", :group_name "cleancss", :version "0.1.0", :description nil, :created 1611299629192}
 {:jar_name "ssh-cli", :group_name "ssh-cli", :version "1.0.2", :description "A Clojure library designed to interact with the SSH CLI to perform tasks like setting up passwordless SSH between machines, executing remote commands, performing SCP, etc.", :created 1611306861295}
-{:jar_name "zen", :group_name "zen-lang", :version "0.0.1-SNAPSHOT", :description nil, :created 1611307976687}
 {:jar_name "dendrite", :group_name "dendrite", :version "0.5.14", :description "A Dremel-like columnar storage format for Clojure.", :created 1611308712291}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210122-102953.b9093ddb", :description nil, :created 1611311425660}
 {:jar_name "uri", :group_name "com.widdindustries", :version "0.1.3", :description "Makes working with URLs in Clojure a little more pleasant.", :created 1611312037565}
@@ -254,3 +250,7 @@
 {:jar_name "re-com", :group_name "re-com", :version "2.11.0", :description "Reusable UI components for Reagent", :created 1611314854344}
 {:jar_name "re-com", :group_name "re-com", :version "2.12.0", :description "Reusable UI components for Reagent", :created 1611316479591}
 {:jar_name "route-swagger", :group_name "oliyh", :version "0.1.5-SNAPSHOT", :description "", :created 1611316748239}
+{:jar_name "pedestal-api", :group_name "pedestal-api", :version "0.3.5-SNAPSHOT", :description "A batteries-included API for Pedestal using Swagger", :created 1611318103868}
+{:jar_name "lein-template", :group_name "xiana", :version "0.0.4", :description "FIXME: write description", :created 1611319337449}
+{:jar_name "exoscale", :group_name "exoscale", :version "0.2.4", :description "All things Exoscale, in Clojure", :created 1611320115803}
+{:jar_name "zen", :group_name "zen-lang", :version "0.0.1-SNAPSHOT", :description nil, :created 1611322005898}
