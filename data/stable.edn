@@ -1,7 +1,3 @@
-{:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.6.3", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1610802635886}
-{:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.6.3", :description "A publisher for μ/trace to OpenZipkin.", :created 1610802652026}
-{:jar_name "mulog-prometheus", :group_name "com.brunobonacci", :version "0.6.3", :description "A publisher for μ/log to Prometheus.", :created 1610802667936}
-{:jar_name "mulog", :group_name "com.brunobonacci", :version "0.6.4", :description "μ/log is a micro-logging library that logs events and data, not words!", :created 1610808776749}
 {:jar_name "mulog-json", :group_name "com.brunobonacci", :version "0.6.4", :description "μ/log json handling", :created 1610808793909}
 {:jar_name "mulog-elasticsearch", :group_name "com.brunobonacci", :version "0.6.4", :description "A publisher for μ/log to Elasticsearch.", :created 1610808812469}
 {:jar_name "mulog-jvm-metrics", :group_name "com.brunobonacci", :version "0.6.4", :description "A JVM metrics sampler for μ/log.", :created 1610808829028}
@@ -254,3 +250,7 @@
 {:jar_name "luminus-undertow", :group_name "luminus-undertow", :version "0.1.8", :description "Undertow adapter for Luminus", :created 1611608814929}
 {:jar_name "lein-template", :group_name "reagent-frontend", :version "0.1.63", :description "A Leiningen template for a ClojureScript setup with Reagent.", :created 1611609101366}
 {:jar_name "lein-template", :group_name "reagent", :version "0.10.44", :description "A Leiningen template for a ClojureScript setup with Figwheel, Austin, and Reagent.", :created 1611609191655}
+{:jar_name "duct-postcss", :group_name "kwrooijen", :version "0.1.0", :description "Duct library for Postcss", :created 1611610003177}
+{:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.3", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1611611617449}
+{:jar_name "exterial", :group_name "lumanu", :version "0.3.0", :description nil, :created 1611611970956}
+{:jar_name "sdk", :group_name "starkbank", :version "2.2.0", :description "SDK to make Clojure integrations with the Stark Bank API easier.", :created 1611612282772}
