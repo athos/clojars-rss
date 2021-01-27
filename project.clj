@@ -3,7 +3,7 @@
   :url "https://github.com/athos/clojars-rss"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
             :url "https://www.eclipse.org/legal/epl-2.0/"}
-  :dependencies [[org.clojure/clojure "1.10.1"]
+  :dependencies [[org.clojure/clojure "1.10.2"]
                  [cheshire "5.10.0"]
                  [org.martinklepsch/clj-http-lite "0.4.3"]
                  [pogonos "0.1.1"]]
