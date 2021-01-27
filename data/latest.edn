@@ -1,8 +1,3 @@
-{:jar_name "crux-test", :group_name "juxt", :version "21.01-1.14.0", :description "Crux Tests Project", :created 1611156273625}
-{:jar_name "crux-s3", :group_name "juxt", :version "21.01-1.14.0-beta", :description "", :created 1611156285085}
-{:jar_name "crux-azure-blobs", :group_name "juxt", :version "21.01-1.14.0-alpha", :description "Crux Azure Blobs Document Store", :created 1611156294885}
-{:jar_name "crux-bench", :group_name "juxt", :version "21.01-1.14.0", :description "", :created 1611156305475}
-{:jar_name "eastwood", :group_name "jonase", :version "0.3.13", :description "A Clojure lint tool", :created 1611157044219}
 {:jar_name "imcljs", :group_name "org.intermine", :version "1.3.2", :description "imcljs", :created 1611159256472}
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.1", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1611162111910}
 {:jar_name "notespace", :group_name "scicloj", :version "3-alpha3-SNAPSHOT", :description "Notebook experience in your Clojure namespace.", :created 1611163550149}
@@ -194,7 +189,6 @@
 {:jar_name "cljc.java-time", :group_name "cljc.java-time", :version "0.1.15", :description "A Clojure(Script) library which provides the java.time api through kebab-case-named function vars.", :created 1611645989653}
 {:jar_name "cleancss", :group_name "cleancss", :version "0.1.3", :description "CleanCSS - is a tool that removes unused CSS stylesheets", :created 1611650176550}
 {:jar_name "courier", :group_name "cjohansen", :version "2021.01.26", :description "A high-level HTTP client with built-in caching, retries, and \"http request dependencies\".", :created 1611654070357}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.2-SNAPSHOT", :description "Small Clojure Interpreter", :created 1611655488952}
 {:jar_name "babashka", :group_name "babashka", :version "0.2.9-SNAPSHOT", :description "babashka", :created 1611656049566}
 {:jar_name "coattail", :group_name "coattail", :version "0.0.1-SNAPSHOT", :description "Clojure/Script OpenAPI tooling to afford instant leverage", :created 1611656743479}
 {:jar_name "fastmath", :group_name "generateme", :version "2.1.0", :description "Fast and primitive math library", :created 1611664546345}
@@ -254,3 +248,9 @@
 {:jar_name "utils", :group_name "org.clojars.bost", :version "0.0.0-46-0x04c6", :description "FIXME: write description", :created 1611768263750}
 {:jar_name "morse", :group_name "org.clojars.bost", :version "0.0.0-163-0x00cf", :description "Telegram Bot API", :created 1611768573897}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "4.6.14", :description "", :created 1611774771241}
+{:jar_name "bract.ring", :group_name "bract", :version "0.6.2-0.2.0-beta1", :description "Bract module for Ring support", :created 1611774994808}
+{:jar_name "bract.core", :group_name "bract", :version "0.6.2-beta2", :description "Multi-purpose, modular Clojure application initialization framework", :created 1611776089717}
+{:jar_name "bract.cli", :group_name "bract", :version "0.6.2-0.1.1-beta2", :description "CLI module for Bract", :created 1611776381464}
+{:jar_name "pcp-broker", :group_name "puppetlabs", :version "1.7.1", :description "PCP fabric messaging broker", :created 1611776764290}
+{:jar_name "sci", :group_name "borkdude", :version "0.2.2-SNAPSHOT", :description "Small Clojure Interpreter", :created 1611777342333}
+{:jar_name "bract.dev", :group_name "bract", :version "0.6.2-0.2.0-beta2", :description "Dev module for Bract", :created 1611777573241}
