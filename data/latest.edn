@@ -1,4 +1,3 @@
-{:jar_name "orchard", :group_name "cider", :version "0.6.3", :description "A fertile ground for Clojure tooling", :created 1611228046824}
 {:jar_name "cider-nrepl", :group_name "cider", :version "0.25.7", :description "A collection of nREPL middlewares designed to enhance Clojure editors.", :created 1611228256012}
 {:jar_name "http-kit-aws4", :group_name "yleisradio", :version "0.3.0", :description "AWS Request Signing v4 for http-kit", :created 1611229125705}
 {:jar_name "nrepl-proxy", :group_name "ivarref", :version "0.2.34", :description nil, :created 1611230521855}
@@ -207,9 +206,7 @@
 {:jar_name "bract.core", :group_name "bract", :version "0.6.2-beta2", :description "Multi-purpose, modular Clojure application initialization framework", :created 1611776089717}
 {:jar_name "bract.cli", :group_name "bract", :version "0.6.2-0.1.1-beta2", :description "CLI module for Bract", :created 1611776381464}
 {:jar_name "pcp-broker", :group_name "puppetlabs", :version "1.7.1", :description "PCP fabric messaging broker", :created 1611776764290}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.2-SNAPSHOT", :description "Small Clojure Interpreter", :created 1611777342333}
 {:jar_name "bract.dev", :group_name "bract", :version "0.6.2-0.2.0-beta2", :description "Dev module for Bract", :created 1611777573241}
-{:jar_name "babashka", :group_name "babashka", :version "0.2.9-SNAPSHOT", :description "babashka", :created 1611777891889}
 {:jar_name "bract.ring", :group_name "bract", :version "0.6.2-0.2.0-beta2", :description "Bract module for Ring support", :created 1611778130523}
 {:jar_name "lein-template", :group_name "bract", :version "0.1.0-beta1", :description "A Leiningen template to create applications using the Bract framework", :created 1611778866835}
 {:jar_name "gossamer.core", :group_name "bract", :version "0.6.2-0.3.0-beta2", :description "A micro web framework module for Bract", :created 1611780473030}
@@ -254,3 +251,6 @@
 {:jar_name "clj-yaml", :group_name "clj-commons", :version "0.7.106", :description "YAML encoding and decoding for Clojure using SnakeYAML", :created 1611857478366}
 {:jar_name "reveal", :group_name "vlaaad", :version "1.3.194", :description nil, :created 1611858356066}
 {:jar_name "servo", :group_name "com.7theta", :version "1.5.6", :description "A rehinkdb client library designed to integrate with signum", :created 1611859490864}
+{:jar_name "sci", :group_name "borkdude", :version "0.2.2-SNAPSHOT", :description "Small Clojure Interpreter", :created 1611861303164}
+{:jar_name "babashka", :group_name "babashka", :version "0.2.9-SNAPSHOT", :description "babashka", :created 1611861633401}
+{:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc8", :description nil, :created 1611861641771}
