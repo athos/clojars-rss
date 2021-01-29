@@ -1,5 +1,3 @@
-{:jar_name "pedestal-api", :group_name "pedestal-api", :version "0.3.5-SNAPSHOT", :description "A batteries-included API for Pedestal using Swagger", :created 1611324525648}
-{:jar_name "clj-antlr", :group_name "clj-antlr", :version "0.2.9", :description "Clojure bindings for the ANTLR 4 parser library.", :created 1611325261602}
 {:jar_name "pedestal-api", :group_name "pedestal-api", :version "0.3.5", :description "A batteries-included API for Pedestal using Swagger", :created 1611325710049}
 {:jar_name "spec-tools", :group_name "metosin", :version "0.10.5", :description "Clojure(Script) tools for clojure.spec", :created 1611326221045}
 {:jar_name "core", :group_name "erinite", :version "0.1.0-SNAPSHOT", :description "Base functionality for Erintie application framework", :created 1611332340468}
@@ -220,7 +218,6 @@
 {:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc8", :description nil, :created 1611861641771}
 {:jar_name "otplike", :group_name "otplike", :version "0.7.0-SNAPSHOT", :description nil, :created 1611868155370}
 {:jar_name "otplike.nrepl", :group_name "otplike", :version "0.1.0-SNAPSHOT", :description nil, :created 1611868500696}
-{:jar_name "babashka", :group_name "babashka", :version "0.2.9-SNAPSHOT", :description "babashka", :created 1611872972398}
 {:jar_name "dtype-next", :group_name "cnuernber", :version "6.00-beta-21", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1611874820338}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.00-beta-28", :description "Clojure high performance data processing system", :created 1611874959216}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "4.6.16", :description "", :created 1611882360866}
@@ -254,3 +251,6 @@
 {:jar_name "depstar", :group_name "seancorfield", :version "2.0.171", :description "a clj-based uberjarrer", :created 1611951218711}
 {:jar_name "jieba-analysis", :group_name "tendant", :version "0.1.0", :description "FIXME: write description", :created 1611952388247}
 {:jar_name "lib", :group_name "open-company", :version "0.17.31-alpha2", :description "OpenCompany Common Library", :created 1611953045348}
+{:jar_name "babashka", :group_name "babashka", :version "0.2.9-SNAPSHOT", :description "babashka", :created 1611959150493}
+{:jar_name "sqlite-jni-graal-fix", :group_name "ericdallo", :version "0.0.2-graalvm-20.2.0", :description "A fix for sqlite issue with jni missing classes in GraalVM native-image.", :created 1611960247731}
+{:jar_name "response", :group_name "ninja.platform", :version "0.0.1-alpha1", :description nil, :created 1611960883704}
