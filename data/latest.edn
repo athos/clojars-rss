@@ -153,7 +153,6 @@
 {:jar_name "clj-yaml", :group_name "clj-commons", :version "0.7.106", :description "YAML encoding and decoding for Clojure using SnakeYAML", :created 1611857478366}
 {:jar_name "reveal", :group_name "vlaaad", :version "1.3.194", :description nil, :created 1611858356066}
 {:jar_name "servo", :group_name "com.7theta", :version "1.5.6", :description "A rehinkdb client library designed to integrate with signum", :created 1611859490864}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.2-SNAPSHOT", :description "Small Clojure Interpreter", :created 1611861303164}
 {:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc8", :description nil, :created 1611861641771}
 {:jar_name "otplike", :group_name "otplike", :version "0.7.0-SNAPSHOT", :description nil, :created 1611868155370}
 {:jar_name "otplike.nrepl", :group_name "otplike", :version "0.1.0-SNAPSHOT", :description nil, :created 1611868500696}
@@ -188,7 +187,6 @@
 {:jar_name "depstar", :group_name "seancorfield", :version "2.0.171", :description "a clj-based uberjarrer", :created 1611951218711}
 {:jar_name "jieba-analysis", :group_name "tendant", :version "0.1.0", :description "FIXME: write description", :created 1611952388247}
 {:jar_name "lib", :group_name "open-company", :version "0.17.31-alpha2", :description "OpenCompany Common Library", :created 1611953045348}
-{:jar_name "babashka", :group_name "babashka", :version "0.2.9-SNAPSHOT", :description "babashka", :created 1611959150493}
 {:jar_name "sqlite-jni-graal-fix", :group_name "ericdallo", :version "0.0.2-graalvm-20.2.0", :description "A fix for sqlite issue with jni missing classes in GraalVM native-image.", :created 1611960247731}
 {:jar_name "response", :group_name "ninja.platform", :version "0.0.1-alpha1", :description nil, :created 1611960883704}
 {:jar_name "membrane", :group_name "com.phronemophobic", :version "0.9.21-beta", :description "A platform agnostic library for creating user interfaces", :created 1611961768744}
@@ -254,3 +252,5 @@
 {:jar_name "igviz", :group_name "igviz", :version "0.2.2", :description nil, :created 1612222408292}
 {:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.3.0-8-7699868-SNAPSHOT", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1612231166148}
 {:jar_name "doo", :group_name "ingesolvoll", :version "0.2.1", :description "doo is a library to run clj.test on different js environments.", :created 1612250509199}
+{:jar_name "sci", :group_name "borkdude", :version "0.2.2-SNAPSHOT", :description "Small Clojure Interpreter", :created 1612265762345}
+{:jar_name "babashka", :group_name "babashka", :version "0.2.9-SNAPSHOT", :description "babashka", :created 1612266276439}
