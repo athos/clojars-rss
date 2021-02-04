@@ -1,26 +1,3 @@
-{:jar_name "mescal", :group_name "org.cyverse", :version "3.1.4", :description "A Clojure client library for the Agave API.", :created 1611622696871}
-{:jar_name "trapperkeeper-webserver-jetty9", :group_name "puppetlabs", :version "4.1.1", :description "A jetty9-based webserver implementation for use with the puppetlabs/trapperkeeper service framework.", :created 1611623334185}
-{:jar_name "clojure-aes", :group_name "clojure-aes", :version "0.1.0", :description "Pure Clojure implementation of the Advanced Encryption Standard (AES). Supports encryption and decryption for 128, 192, and 256 bit keys.", :created 1611630041763}
-{:jar_name "clj-util", :group_name "com.michaelgaare", :version "0.2.0", :description "personal clojure utils library", :created 1611630992343}
-{:jar_name "clojure-aes", :group_name "clojure-aes", :version "0.1.2", :description "Pure Clojure implementation of the Advanced Encryption Standard (AES). Supports encryption and decryption for 128, 192, and 256 bit keys.", :created 1611632098131}
-{:jar_name "surfs", :group_name "thlack", :version "2021.01.25", :description "Surfs is a library for creating user interfaces in Slack applications. It aims to make creating Slack surfaces enjoyable. It follows the spirit of libraries like hiccup, reagent, and rum.", :created 1611632217860}
-{:jar_name "clojure-aes", :group_name "com.griffinscribe", :version "0.1.4", :description "Pure Clojure implementation of the Advanced Encryption Standard (AES). Supports encryption and decryption for 128, 192, and 256 bit keys.", :created 1611634234047}
-{:jar_name "core.async-helpers", :group_name "jtk-dvlp", :version "3.0.0", :description "Helper pack for core.async", :created 1611643663378}
-{:jar_name "cljc.java-time", :group_name "cljc.java-time", :version "0.1.15", :description "A Clojure(Script) library which provides the java.time api through kebab-case-named function vars.", :created 1611645989653}
-{:jar_name "cleancss", :group_name "cleancss", :version "0.1.3", :description "CleanCSS - is a tool that removes unused CSS stylesheets", :created 1611650176550}
-{:jar_name "courier", :group_name "cjohansen", :version "2021.01.26", :description "A high-level HTTP client with built-in caching, retries, and \"http request dependencies\".", :created 1611654070357}
-{:jar_name "fastmath", :group_name "generateme", :version "2.1.0", :description "Fast and primitive math library", :created 1611664546345}
-{:jar_name "gregor", :group_name "luhhujbb", :version "1.1.0", :description "Lightweight Clojure bindings for Kafka", :created 1611665523195}
-{:jar_name "exoscale", :group_name "exoscale", :version "0.2.6", :description "All things Exoscale, in Clojure", :created 1611665762903}
-{:jar_name "fitdistr", :group_name "generateme", :version "1.0.1", :description "Distribution fitting with MLE, MGE, QME, MME and MPS methods (+ bootstrap)", :created 1611666415696}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.11.15", :description "CLJS development tools", :created 1611666881751}
-{:jar_name "exoscale", :group_name "exoscale", :version "0.2.7", :description "All things Exoscale, in Clojure", :created 1611669207876}
-{:jar_name "telex", :group_name "exoscale", :version "0.1.3", :description "java.net.http helpers", :created 1611675663227}
-{:jar_name "rumext", :group_name "funcool", :version "2021.01.26-0", :description "Simple and Decomplected UI library based on React.", :created 1611676740335}
-{:jar_name "libjulia-clj", :group_name "cnuernber", :version "0.07", :description "Experimental Julia bindings for Clojure.", :created 1611681021030}
-{:jar_name "jet", :group_name "twosigma", :version "0.7.10-20210126_171807-gea4b804", :description "Jetty9 ring server adapter with WebSocket support", :created 1611682614023}
-{:jar_name "lib", :group_name "open-company", :version "0.17.30-alpha1", :description "OpenCompany Common Library", :created 1611686303674}
-{:jar_name "clj-parent", :group_name "puppetlabs", :version "4.6.12", :description "", :created 1611687109035}
 {:jar_name "om-widgets", :group_name "org.clojars.intception", :version "0.3.46", :description "Widgets for OM/React", :created 1611687728059}
 {:jar_name "common-service", :group_name "tendant", :version "0.1.7", :description "FIXME: write description", :created 1611688862917}
 {:jar_name "proxy-plus", :group_name "com.rpl", :version "0.0.6", :description "A faster and more usable replacement for Clojure's proxy.", :created 1611689355361}
@@ -254,3 +231,26 @@
 {:jar_name "clj-template", :group_name "clojurephant-cljs-app", :version "0.6.0", :description nil, :created 1612458804229}
 {:jar_name "wait-for8", :group_name "sh.griffin", :version "1.0.6", :description "wait-for, using java8 time instead of joda", :created 1612459256664}
 {:jar_name "tada", :group_name "tada", :version "0.2.0", :description "A clojure(script) library that helps you compose web-applications out of declarative data-driven parts", :created 1612461399471}
+{:jar_name "ring-http-response", :group_name "metosin", :version "0.9.2", :description "Handling HTTP Statuses with Clojure(Script)", :created 1612462685027}
+{:jar_name "clj-ksql", :group_name "clj-ksql", :version "0.11.0-41-snapshot", :description "Clojure client for ksql", :created 1612462749846}
+{:jar_name "muuntaja", :group_name "metosin", :version "0.6.8", :description "Clojure library for format encoding, decoding and content-negotiation", :created 1612463248361}
+{:jar_name "muuntaja-form", :group_name "metosin", :version "0.6.8", :description "application/x-www-form-urlencoded format for Muuntaja", :created 1612463268031}
+{:jar_name "muuntaja-cheshire", :group_name "metosin", :version "0.6.8", :description "Cheshire/JSON format for Muuntaja", :created 1612463283580}
+{:jar_name "muuntaja-msgpack", :group_name "metosin", :version "0.6.8", :description "Messagepack format for Muuntaja", :created 1612463299970}
+{:jar_name "muuntaja-yaml", :group_name "metosin", :version "0.6.8", :description "YAML format for Muuntaja", :created 1612463315580}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.12", :description "Snappy data-driven router for Clojure(Script)", :created 1612464159911}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.12", :description "Snappy data-driven router for Clojure(Script)", :created 1612464177721}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.12", :description "Reitit: clojure.spec coercion", :created 1612464192410}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.12", :description "Reitit: Malli coercion", :created 1612464206170}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.12", :description "Reitit: Plumatic Schema coercion", :created 1612464221080}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.12", :description "Reitit: Ring routing", :created 1612464236170}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.12", :description "Reitit, common middleware bundled", :created 1612464254040}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.12", :description "Reitit: HTTP routing with interceptors", :created 1612464268880}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.12", :description "Reitit, common interceptors bundled", :created 1612464285059}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.12", :description "Reitit: Swagger-support", :created 1612464299539}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.12", :description "Reitit: Swagger-ui support", :created 1612464313729}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.12", :description "Reitit: Clojurescript frontend routing core", :created 1612464328179}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.12", :description "Reitit: Sieppari Interceptors", :created 1612464342429}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.12", :description "Reitit + Pedestal Integration", :created 1612464359219}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.12", :description "Snappy data-driven router for Clojure(Script)", :created 1612464386548}
+{:jar_name "rbac-client", :group_name "puppetlabs", :version "1.1.2", :description "Tools for interacting with PE RBAC", :created 1612465059031}

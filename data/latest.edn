@@ -1,26 +1,3 @@
-{:jar_name "formatting-stack", :group_name "formatting-stack", :version "4.3.0-alpha3", :description "An efficient, smart, graceful composition of formatters, linters and such.", :created 1611697507445}
-{:jar_name "clj-rcon", :group_name "clj-rcon", :version "0.1.1", :description "Source RCON protocol implementation", :created 1611697840621}
-{:jar_name "trapperkeeper-metrics", :group_name "puppetlabs", :version "1.4.0", :description "Trapperkeeper Metrics Service", :created 1611700723091}
-{:jar_name "sqlite-jni-graal-fix", :group_name "ericdallo", :version "0.0.1-graalvm-21.0.0", :description "A fix for sqlite issue with jni missing classes in GraalVM native-image.", :created 1611702759969}
-{:jar_name "clj-parent", :group_name "puppetlabs", :version "4.6.13", :description "", :created 1611709513037}
-{:jar_name "parallel-reload", :group_name "threatgrid", :version "0.1.3", :description "parallel-reload", :created 1611720882458}
-{:jar_name "php-clj", :group_name "org.clojars.john-shaffer", :version "1.1.0", :description "Deserialize PHP into Clojure data structures and back again.", :created 1611726155030}
-{:jar_name "connective.core", :group_name "codestiff", :version "0.1.9", :description "An API for each accessing persisted entities and the respective relationships.", :created 1611727411966}
-{:jar_name "connective.malli", :group_name "codestiff", :version "0.1.9", :description "a connective validator for malli", :created 1611727417286}
-{:jar_name "connective.firestore", :group_name "codestiff", :version "0.1.9", :description "A connective adaptor for firestore", :created 1611727429586}
-{:jar_name "ring-oauth2", :group_name "tendant", :version "0.1.5-wl", :description "OAuth 2.0 client middleware for Ring", :created 1611729980899}
-{:jar_name "jsonista", :group_name "metosin", :version "0.3.1", :description "Clojure library for fast JSON encoding and decoding.", :created 1611738454648}
-{:jar_name "github_actions_test", :group_name "com.asafch", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1611738771285}
-{:jar_name "github_actions_test", :group_name "org.clojars.asafch", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1611742766462}
-{:jar_name "ziggurat", :group_name "tech.gojek", :version "3.7.0", :description "A stream processing framework to build stateless applications on kafka", :created 1611744229677}
-{:jar_name "github_actions_test", :group_name "com.asafch.2", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1611749426434}
-{:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.61", :description "Simply Core Libs", :created 1611751397780}
-{:jar_name "riven", :group_name "workshub", :version "0.1.0-SNAPSHOT", :description "A tiny Clojure(Script) wrapper for the UpStamps API (upstamps.com)", :created 1611756037381}
-{:jar_name "github_actions_test", :group_name "org.clojars.asafch", :version "0.1.0", :description "FIXME: write description", :created 1611757599734}
-{:jar_name "favored-edn", :group_name "cirru", :version "0.1.4", :description nil, :created 1611760506753}
-{:jar_name "freeswitch-clj", :group_name "freeswitch-clj", :version "0.2.3", :description "A Clojure interface to freeswitch event socket.", :created 1611761175156}
-{:jar_name "github_actions_test", :group_name "org.clojars.asafch", :version "0.2.3", :description "FIXME: write description", :created 1611762686660}
-{:jar_name "github_actions_test", :group_name "org.clojars.asafch", :version "0.2.5", :description "FIXME: write description", :created 1611764527640}
 {:jar_name "trapperkeeper-webserver-jetty9", :group_name "puppetlabs", :version "4.1.3", :description "A jetty9-based webserver implementation for use with the puppetlabs/trapperkeeper service framework.", :created 1611766433160}
 {:jar_name "clj-arduino", :group_name "clj-arduino", :version "0.1.3-SNAPSHOT", :description "A Clojure Arduino prototyping library", :created 1611766717767}
 {:jar_name "clojisr", :group_name "scicloj", :version "1.0.0-BETA17", :description "Clojure <-> R interop", :created 1611768003473}
@@ -254,3 +231,26 @@
 {:jar_name "clj-template", :group_name "clojurephant-cljs-app", :version "0.6.0", :description nil, :created 1612458804229}
 {:jar_name "wait-for8", :group_name "sh.griffin", :version "1.0.6", :description "wait-for, using java8 time instead of joda", :created 1612459256664}
 {:jar_name "tada", :group_name "tada", :version "0.2.0", :description "A clojure(script) library that helps you compose web-applications out of declarative data-driven parts", :created 1612461399471}
+{:jar_name "ring-http-response", :group_name "metosin", :version "0.9.2", :description "Handling HTTP Statuses with Clojure(Script)", :created 1612462685027}
+{:jar_name "clj-ksql", :group_name "clj-ksql", :version "0.11.0-41-snapshot", :description "Clojure client for ksql", :created 1612462749846}
+{:jar_name "muuntaja", :group_name "metosin", :version "0.6.8", :description "Clojure library for format encoding, decoding and content-negotiation", :created 1612463248361}
+{:jar_name "muuntaja-form", :group_name "metosin", :version "0.6.8", :description "application/x-www-form-urlencoded format for Muuntaja", :created 1612463268031}
+{:jar_name "muuntaja-cheshire", :group_name "metosin", :version "0.6.8", :description "Cheshire/JSON format for Muuntaja", :created 1612463283580}
+{:jar_name "muuntaja-msgpack", :group_name "metosin", :version "0.6.8", :description "Messagepack format for Muuntaja", :created 1612463299970}
+{:jar_name "muuntaja-yaml", :group_name "metosin", :version "0.6.8", :description "YAML format for Muuntaja", :created 1612463315580}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.12", :description "Snappy data-driven router for Clojure(Script)", :created 1612464159911}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.12", :description "Snappy data-driven router for Clojure(Script)", :created 1612464177721}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.12", :description "Reitit: clojure.spec coercion", :created 1612464192410}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.12", :description "Reitit: Malli coercion", :created 1612464206170}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.12", :description "Reitit: Plumatic Schema coercion", :created 1612464221080}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.12", :description "Reitit: Ring routing", :created 1612464236170}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.12", :description "Reitit, common middleware bundled", :created 1612464254040}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.12", :description "Reitit: HTTP routing with interceptors", :created 1612464268880}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.12", :description "Reitit, common interceptors bundled", :created 1612464285059}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.12", :description "Reitit: Swagger-support", :created 1612464299539}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.12", :description "Reitit: Swagger-ui support", :created 1612464313729}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.12", :description "Reitit: Clojurescript frontend routing core", :created 1612464328179}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.12", :description "Reitit: Sieppari Interceptors", :created 1612464342429}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.12", :description "Reitit + Pedestal Integration", :created 1612464359219}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.12", :description "Snappy data-driven router for Clojure(Script)", :created 1612464386548}
+{:jar_name "rbac-client", :group_name "puppetlabs", :version "1.1.2", :description "Tools for interacting with PE RBAC", :created 1612465059031}
