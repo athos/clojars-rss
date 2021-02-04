@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 4 Feb 2021 15:01:49 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 4 Feb 2021 16:12:23 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.replikativ/datahike/versions/0.3.4-SNAPSHOT</guid>
+    <title>[io.replikativ/datahike &quot;0.3.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/io.replikativ/datahike/versions/0.3.4-SNAPSHOT</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Thu, 4 Feb 2021 16:00:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring-sse-middleware/versions/0.1.3</guid>
+    <title>[ring-sse-middleware &quot;0.1.3&quot;]</title>
+    <link>https://clojars.org/ring-sse-middleware/versions/0.1.3</link>
+    <description>Ring middleware to emit Server-sent Events</description>
+    <pubDate>Thu, 4 Feb 2021 15:52:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/puppetlabs/trapperkeeper/versions/3.1.1</guid>
+    <title>[puppetlabs/trapperkeeper &quot;3.1.1&quot;]</title>
+    <link>https://clojars.org/puppetlabs/trapperkeeper/versions/3.1.1</link>
+    <description>A framework for configuring, composing, and running Clojure services.</description>
+    <pubDate>Thu, 4 Feb 2021 15:37:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/puppetlabs/kitchensink/versions/3.1.2</guid>
+    <title>[puppetlabs/kitchensink &quot;3.1.2&quot;]</title>
+    <link>https://clojars.org/puppetlabs/kitchensink/versions/3.1.2</link>
+    <description>Clojure utility functions</description>
+    <pubDate>Thu, 4 Feb 2021 15:27:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/hato/versions/0.8.0-SNAPSHOT</guid>
+    <title>[hato &quot;0.8.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/hato/versions/0.8.0-SNAPSHOT</link>
+    <description>An HTTP client for Clojure, wrapping JDK 11&#39;s HttpClient.</description>
+    <pubDate>Thu, 4 Feb 2021 15:03:01 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/babashka/versions/0.2.9-SNAPSHOT</guid>
     <title>[babashka &quot;0.2.9-SNAPSHOT&quot;]</title>
@@ -1212,13 +1247,6 @@ of how to use this library.</description>
     <pubDate>Thu, 28 Jan 2021 16:13:02 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/io.replikativ/datahike/versions/0.3.4-SNAPSHOT</guid>
-    <title>[io.replikativ/datahike &quot;0.3.4-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/io.replikativ/datahike/versions/0.3.4-SNAPSHOT</link>
-    <description>A durable datalog implementation adaptable for distribution.</description>
-    <pubDate>Thu, 28 Jan 2021 15:39:14 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/datumbazo/versions/0.14.1</guid>
     <title>[datumbazo &quot;0.14.1&quot;]</title>
     <link>https://clojars.org/datumbazo/versions/0.14.1</link>
@@ -1777,34 +1805,6 @@ of how to use this library.</description>
     <link>https://clojars.org/org.clojars.intception/om-widgets/versions/0.3.46</link>
     <description>Widgets for OM/React</description>
     <pubDate>Tue, 26 Jan 2021 19:02:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/puppetlabs/clj-parent/versions/4.6.12</guid>
-    <title>[puppetlabs/clj-parent &quot;4.6.12&quot;]</title>
-    <link>https://clojars.org/puppetlabs/clj-parent/versions/4.6.12</link>
-    <description></description>
-    <pubDate>Tue, 26 Jan 2021 18:51:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/open-company/lib/versions/0.17.30-alpha1</guid>
-    <title>[open-company/lib &quot;0.17.30-alpha1&quot;]</title>
-    <link>https://clojars.org/open-company/lib/versions/0.17.30-alpha1</link>
-    <description>OpenCompany Common Library</description>
-    <pubDate>Tue, 26 Jan 2021 18:38:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/twosigma/jet/versions/0.7.10-20210126_171807-gea4b804</guid>
-    <title>[twosigma/jet &quot;0.7.10-20210126_171807-gea4b804&quot;]</title>
-    <link>https://clojars.org/twosigma/jet/versions/0.7.10-20210126_171807-gea4b804</link>
-    <description>Jetty9 ring server adapter with WebSocket support</description>
-    <pubDate>Tue, 26 Jan 2021 17:36:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cnuernber/libjulia-clj/versions/0.07</guid>
-    <title>[cnuernber/libjulia-clj &quot;0.07&quot;]</title>
-    <link>https://clojars.org/cnuernber/libjulia-clj/versions/0.07</link>
-    <description>Experimental Julia bindings for Clojure.</description>
-    <pubDate>Tue, 26 Jan 2021 17:10:21 +0000</pubDate>
   </item>
   </channel>
 </rss>
