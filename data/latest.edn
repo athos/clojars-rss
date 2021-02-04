@@ -1,7 +1,3 @@
-{:jar_name "clj-parent", :group_name "puppetlabs", :version "4.6.14", :description "", :created 1611774771241}
-{:jar_name "bract.ring", :group_name "bract", :version "0.6.2-0.2.0-beta1", :description "Bract module for Ring support", :created 1611774994808}
-{:jar_name "bract.core", :group_name "bract", :version "0.6.2-beta2", :description "Multi-purpose, modular Clojure application initialization framework", :created 1611776089717}
-{:jar_name "bract.cli", :group_name "bract", :version "0.6.2-0.1.1-beta2", :description "CLI module for Bract", :created 1611776381464}
 {:jar_name "pcp-broker", :group_name "puppetlabs", :version "1.7.1", :description "PCP fabric messaging broker", :created 1611776764290}
 {:jar_name "bract.dev", :group_name "bract", :version "0.6.2-0.2.0-beta2", :description "Dev module for Bract", :created 1611777573241}
 {:jar_name "bract.ring", :group_name "bract", :version "0.6.2-0.2.0-beta2", :description "Bract module for Ring support", :created 1611778130523}
@@ -254,3 +250,7 @@
 {:jar_name "edd-core", :group_name "alphaprosoft", :version "1.1", :description "", :created 1612470013831}
 {:jar_name "malli", :group_name "org.clojars.alexandergunnarson", :version "8289dd6d53b4140d0c94d19cc778992776ee074f", :description nil, :created 1612471227194}
 {:jar_name "email-attachments", :group_name "email-attachments", :version "1.0.0", :description "makes extracting email attachments simple", :created 1612471873967}
+{:jar_name "encore", :group_name "com.taoensso", :version "3.12.0", :description "Core utils library for Clojure/Script", :created 1612477150810}
+{:jar_name "figwheel-core", :group_name "com.bhauman", :version "0.2.13-SNAPSHOT", :description "Figwheel core provides code reloading facilities for ClojureScript.", :created 1612479523325}
+{:jar_name "figwheel-repl", :group_name "com.bhauman", :version "0.2.13-SNAPSHOT", :description "Figwheel REPL provides a stable multiplexing REPL for ClojureScript", :created 1612479535285}
+{:jar_name "figwheel-main", :group_name "com.bhauman", :version "0.2.13-SNAPSHOT", :description "Figwheel Main - Clojurescript tooling.", :created 1612479550005}
