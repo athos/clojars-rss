@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 5 Feb 2021 09:01:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 5 Feb 2021 10:01:49 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/sweet-crud/versions/0.1.8</guid>
+    <title>[sweet-crud &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/sweet-crud/versions/0.1.8</link>
+    <description>Two complementary macros to create compojure.api.sweet CRUD routes, with (configurable) database calls.</description>
+    <pubDate>Fri, 5 Feb 2021 10:01:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.taoensso.tests/clojars-test/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.taoensso.tests/clojars-test &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.taoensso.tests/clojars-test/versions/0.1.0-SNAPSHOT</link>
+    <description>FIXME: write description</description>
+    <pubDate>Fri, 5 Feb 2021 09:56:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.taoensso/timbre/versions/5.1.2-SNAPSHOT</guid>
+    <title>[com.taoensso/timbre &quot;5.1.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.taoensso/timbre/versions/5.1.2-SNAPSHOT</link>
+    <description>Pure Clojure/Script logging library</description>
+    <pubDate>Fri, 5 Feb 2021 09:49:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.taoensso/carmine/versions/3.2.0-SNAPSHOT</guid>
+    <title>[com.taoensso/carmine &quot;3.2.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.taoensso/carmine/versions/3.2.0-SNAPSHOT</link>
+    <description>Clojure Redis client &amp; message queue</description>
+    <pubDate>Fri, 5 Feb 2021 09:28:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.taoensso/encore/versions/3.12.1</guid>
+    <title>[com.taoensso/encore &quot;3.12.1&quot;]</title>
+    <link>https://clojars.org/com.taoensso/encore/versions/3.12.1</link>
+    <description>Core utils library for Clojure/Script</description>
+    <pubDate>Fri, 5 Feb 2021 09:09:58 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.taoensso/encore/versions/3.12.1-SNAPSHOT</guid>
     <title>[com.taoensso/encore &quot;3.12.1-SNAPSHOT&quot;]</title>
@@ -1068,13 +1103,6 @@
     <pubDate>Mon, 1 Feb 2021 09:22:48 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/com.taoensso/timbre/versions/5.1.2-SNAPSHOT</guid>
-    <title>[com.taoensso/timbre &quot;5.1.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.taoensso/timbre/versions/5.1.2-SNAPSHOT</link>
-    <description>Pure Clojure/Script logging library</description>
-    <pubDate>Mon, 1 Feb 2021 09:05:03 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/respo/versions/0.13.7</guid>
     <title>[respo &quot;0.13.7&quot;]</title>
     <link>https://clojars.org/respo/versions/0.13.7</link>
@@ -1777,34 +1805,6 @@ of how to use this library.</description>
     <link>https://clojars.org/org.clojars.asafch/github_actions_test/versions/0.3.0</link>
     <description>FIXME: write description</description>
     <pubDate>Thu, 28 Jan 2021 08:26:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.asafch/github_actions_test/versions/0.2.7</guid>
-    <title>[org.clojars.asafch/github_actions_test &quot;0.2.7&quot;]</title>
-    <link>https://clojars.org/org.clojars.asafch/github_actions_test/versions/0.2.7</link>
-    <description>FIXME: write description</description>
-    <pubDate>Thu, 28 Jan 2021 08:07:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.raven.dropwizard/dropwizard-riemann/versions/2.0.18-1</guid>
-    <title>[io.raven.dropwizard/dropwizard-riemann &quot;2.0.18-1&quot;]</title>
-    <link>https://clojars.org/io.raven.dropwizard/dropwizard-riemann/versions/2.0.18-1</link>
-    <description></description>
-    <pubDate>Thu, 28 Jan 2021 07:52:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.raven.dropwizard/dropwizard-oor/versions/2.0.18-1</guid>
-    <title>[io.raven.dropwizard/dropwizard-oor &quot;2.0.18-1&quot;]</title>
-    <link>https://clojars.org/io.raven.dropwizard/dropwizard-oor/versions/2.0.18-1</link>
-    <description></description>
-    <pubDate>Thu, 28 Jan 2021 07:49:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tendant/ring-oauth2/versions/0.1.5-wl-2</guid>
-    <title>[tendant/ring-oauth2 &quot;0.1.5-wl-2&quot;]</title>
-    <link>https://clojars.org/tendant/ring-oauth2/versions/0.1.5-wl-2</link>
-    <description>OAuth 2.0 client middleware for Ring</description>
-    <pubDate>Thu, 28 Jan 2021 07:48:53 +0000</pubDate>
   </item>
   </channel>
 </rss>
