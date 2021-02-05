@@ -1,5 +1,3 @@
-{:jar_name "bract.cli", :group_name "bract", :version "0.6.2-0.1.1-beta1", :description "CLI module for Bract", :created 1611693632716}
-{:jar_name "bract.dev", :group_name "bract", :version "0.6.2-0.2.0-beta1", :description "Dev module for Bract", :created 1611694109291}
 {:jar_name "trapperkeeper-webserver-jetty9", :group_name "puppetlabs", :version "4.1.2", :description "A jetty9-based webserver implementation for use with the puppetlabs/trapperkeeper service framework.", :created 1611697142099}
 {:jar_name "formatting-stack", :group_name "formatting-stack", :version "4.3.0-alpha3", :description "An efficient, smart, graceful composition of formatters, linters and such.", :created 1611697507445}
 {:jar_name "clj-rcon", :group_name "clj-rcon", :version "0.1.1", :description "Source RCON protocol implementation", :created 1611697840621}
@@ -254,3 +252,5 @@
 {:jar_name "reformation", :group_name "byu-odh", :version "10", :description "Generate and manipulate form datastructures in pure Clojure, which can be read with Reagent.", :created 1612480752512}
 {:jar_name "debug", :group_name "pinage404", :version "0.1.3", :description nil, :created 1612481983388}
 {:jar_name "test-doc-blocks", :group_name "lread", :version "1.0.0-alpha", :description "Generate Clojure tests from AsciiDoc and CommonMark doc code blocks", :created 1612487682027}
+{:jar_name "paramdecoder", :group_name "org.clojars.quoll", :version "0.1.0", :description "URL parameter decoding for Clojure/ClojureScript", :created 1612488722366}
+{:jar_name "sqlite-jni-graal-fix", :group_name "ericdallo", :version "0.0.3-graalvm-21.0.0", :description "A fix for sqlite issue with jni missing classes in GraalVM native-image.", :created 1612490243319}
