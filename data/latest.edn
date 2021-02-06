@@ -1,6 +1,3 @@
-{:jar_name "imcljs", :group_name "org.intermine", :version "1.4.1", :description "imcljs", :created 1611940315816}
-{:jar_name "clj-parent", :group_name "puppetlabs", :version "4.6.17", :description "", :created 1611943269074}
-{:jar_name "tech.ml", :group_name "techascent", :version "5.00-beta-14", :description "Basic machine learning toolkit.  `tech.v3.ml` is the root\nnamespace and provides train/predict pathways based on datasets and\nan options map.  Please see the xgboost article for a quick runthough\nof how to use this library.", :created 1611944423591}
 {:jar_name "lib", :group_name "open-company", :version "0.17.31-alpha1-debug", :description "OpenCompany Common Library", :created 1611945375651}
 {:jar_name "tech.ml.dataset.sql", :group_name "techascent", :version "5.00-beta-28", :description "SQL bindings for the 5.X branch of tech.ml.dataset", :created 1611950373137}
 {:jar_name "depstar", :group_name "seancorfield", :version "2.0.171", :description "a clj-based uberjarrer", :created 1611951218711}
@@ -241,7 +238,6 @@
 {:jar_name "re-cog", :group_name "re-cog", :version "0.5.22", :description "Re-cog is a set of serializable functions including provisioning resources, system facts and commonly used remotely executable functions", :created 1612586618413}
 {:jar_name "re-cipes", :group_name "re-cipes", :version "0.3.5", :description "Provioning re-cipes for Linux machines", :created 1612586818221}
 {:jar_name "lein-lean", :group_name "threatgrid", :version "0.6.0", :description "", :created 1612598578575}
-{:jar_name "babashka", :group_name "babashka", :version "0.2.9-SNAPSHOT", :description "babashka", :created 1612603702847}
 {:jar_name "bract.core", :group_name "bract", :version "0.6.2-beta3", :description "Multi-purpose, modular Clojure application initialization framework", :created 1612609694951}
 {:jar_name "bract.cli", :group_name "bract", :version "0.6.2-0.1.1-beta3", :description "CLI module for Bract", :created 1612610023328}
 {:jar_name "bract.dev", :group_name "bract", :version "0.6.2-0.2.0-beta3", :description "Dev module for Bract", :created 1612610663111}
@@ -254,3 +250,7 @@
 {:jar_name "martian-vcr", :group_name "martian-vcr", :version "0.1.15-SNAPSHOT", :description "Recording and playback for Martian", :created 1612616173689}
 {:jar_name "martian-test", :group_name "martian-test", :version "0.1.15-SNAPSHOT", :description "Testing tools for martian", :created 1612616190789}
 {:jar_name "martian-re-frame", :group_name "martian-re-frame", :version "0.1.15-SNAPSHOT", :description "re-frame bindings for martian", :created 1612616210449}
+{:jar_name "fs", :group_name "babashka", :version "0.0.1-alpha.4", :description "Babashka file system utilities.", :created 1612617154648}
+{:jar_name "babashka", :group_name "babashka", :version "0.2.9-SNAPSHOT", :description "babashka", :created 1612618027208}
+{:jar_name "bract.ring", :group_name "bract", :version "0.6.2-0.2.0-beta3", :description "Bract module for Ring support", :created 1612618283216}
+{:jar_name "gossamer.core", :group_name "bract", :version "0.6.2-0.3.0-beta3", :description "A micro web framework module for Bract", :created 1612619356844}
