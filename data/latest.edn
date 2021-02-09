@@ -168,14 +168,6 @@
 {:jar_name "bract.cli", :group_name "bract", :version "0.6.2-0.1.1-beta3", :description "CLI module for Bract", :created 1612610023328}
 {:jar_name "bract.dev", :group_name "bract", :version "0.6.2-0.2.0-beta3", :description "Dev module for Bract", :created 1612610663111}
 {:jar_name "uritemplate-clj", :group_name "uritemplate-clj", :version "1.2.4", :description "Clojure implementation of URI Templates as specified in RFC 6570 (http://tools.ietf.org/html/rfc6570), level 4 compliant", :created 1612613888139}
-{:jar_name "martian", :group_name "martian", :version "0.1.15-SNAPSHOT", :description "Client routing for Swagger APIs", :created 1612616082860}
-{:jar_name "martian-cljs-http", :group_name "martian-cljs-http", :version "0.1.15-SNAPSHOT", :description "cljs-http implementation for martian", :created 1612616104060}
-{:jar_name "martian-clj-http-lite", :group_name "martian-clj-http-lite", :version "0.1.15-SNAPSHOT", :description "clj-http-lite implementation for martian", :created 1612616121560}
-{:jar_name "martian-httpkit", :group_name "martian-httpkit", :version "0.1.15-SNAPSHOT", :description "httpkit implementation for martian", :created 1612616139790}
-{:jar_name "martian-clj-http", :group_name "martian-clj-http", :version "0.1.15-SNAPSHOT", :description "clj-http implementation for martian", :created 1612616156289}
-{:jar_name "martian-vcr", :group_name "martian-vcr", :version "0.1.15-SNAPSHOT", :description "Recording and playback for Martian", :created 1612616173689}
-{:jar_name "martian-test", :group_name "martian-test", :version "0.1.15-SNAPSHOT", :description "Testing tools for martian", :created 1612616190789}
-{:jar_name "martian-re-frame", :group_name "martian-re-frame", :version "0.1.15-SNAPSHOT", :description "re-frame bindings for martian", :created 1612616210449}
 {:jar_name "fs", :group_name "babashka", :version "0.0.1-alpha.4", :description "Babashka file system utilities.", :created 1612617154648}
 {:jar_name "bract.ring", :group_name "bract", :version "0.6.2-0.2.0-beta3", :description "Bract module for Ring support", :created 1612618283216}
 {:jar_name "gossamer.core", :group_name "bract", :version "0.6.2-0.3.0-beta3", :description "A micro web framework module for Bract", :created 1612619356844}
@@ -254,3 +246,11 @@
 {:jar_name "response", :group_name "ninja.platform", :version "0.1.1-SNAPSHOT", :description "A Clojure(Script) library for the unified responses.", :created 1612877550256}
 {:jar_name "schema", :group_name "ninja.platform", :version "0.0.1-SNAPSHOT", :description "A Clojure(Script) library for the data schemas.", :created 1612877563756}
 {:jar_name "specs", :group_name "exoscale", :version "1.0.0-alpha6", :description "Exoscale shared specs", :created 1612878094391}
+{:jar_name "martian", :group_name "martian", :version "0.1.15-SNAPSHOT", :description "Client routing for Swagger APIs", :created 1612885434311}
+{:jar_name "martian-clj-http", :group_name "martian-clj-http", :version "0.1.15-SNAPSHOT", :description "clj-http implementation for martian", :created 1612885450991}
+{:jar_name "martian-cljs-http", :group_name "martian-cljs-http", :version "0.1.15-SNAPSHOT", :description "cljs-http implementation for martian", :created 1612885465730}
+{:jar_name "martian-clj-http-lite", :group_name "martian-clj-http-lite", :version "0.1.15-SNAPSHOT", :description "clj-http-lite implementation for martian", :created 1612885479620}
+{:jar_name "martian-re-frame", :group_name "martian-re-frame", :version "0.1.15-SNAPSHOT", :description "re-frame bindings for martian", :created 1612885495890}
+{:jar_name "martian-vcr", :group_name "martian-vcr", :version "0.1.15-SNAPSHOT", :description "Recording and playback for Martian", :created 1612885510980}
+{:jar_name "martian-httpkit", :group_name "martian-httpkit", :version "0.1.15-SNAPSHOT", :description "httpkit implementation for martian", :created 1612885525900}
+{:jar_name "martian-test", :group_name "martian-test", :version "0.1.15-SNAPSHOT", :description "Testing tools for martian", :created 1612885540870}
