@@ -1,6 +1,3 @@
-{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.12", :description "Reitit: Sieppari Interceptors", :created 1612464342429}
-{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.12", :description "Reitit + Pedestal Integration", :created 1612464359219}
-{:jar_name "reitit", :group_name "metosin", :version "0.5.12", :description "Snappy data-driven router for Clojure(Script)", :created 1612464386548}
 {:jar_name "rbac-client", :group_name "puppetlabs", :version "1.1.2", :description "Tools for interacting with PE RBAC", :created 1612465059031}
 {:jar_name "ancient-clj", :group_name "ancient-clj", :version "1.0.0-SNAPSHOT", :description "Maven Version Utilities for Clojure", :created 1612466707043}
 {:jar_name "lein-ancient", :group_name "lein-ancient", :version "0.7.1-SNAPSHOT", :description "Check your Projects for outdated Dependencies.", :created 1612466988080}
@@ -234,7 +231,6 @@
 {:jar_name "babashka", :group_name "babashka", :version "0.2.11-SNAPSHOT", :description "babashka", :created 1613138489767}
 {:jar_name "kafka-clj-utils", :group_name "ovotech", :version "2.1.0-4", :description "Clojure utilities for Kafka", :created 1613139875232}
 {:jar_name "debug", :group_name "pinage404", :version "1.3.0", :description nil, :created 1613140502675}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.01.21-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1613140510325}
 {:jar_name "commons", :group_name "lupapiste", :version "0.10.27", :description "Common domain code and resources for lupapiste applications", :created 1613140519145}
 {:jar_name "document-search-commons", :group_name "lupapiste", :version "0.8.16", :description "Common document search related code shared between lupadoku and onkalo applications", :created 1613140536695}
 {:jar_name "carmine", :group_name "com.taoensso", :version "3.2.0-alpha1", :description "Clojure Redis client & message queue", :created 1613142692761}
@@ -254,3 +250,7 @@
 {:jar_name "route-swagger", :group_name "oliyh", :version "0.1.6", :description "", :created 1613164088108}
 {:jar_name "erdos.assert", :group_name "io.github.erdos", :version "0.2.0", :description "Smart assertions library for Clojure", :created 1613165187046}
 {:jar_name "email-attachments", :group_name "email-attachments", :version "1.2.3", :description "makes extracting email attachments simple", :created 1613166715990}
+{:jar_name "idm.graph", :group_name "edu.bard", :version "0.1.2", :description "Attribute graph traversal for Bard IdM", :created 1613168907186}
+{:jar_name "pedestal-api", :group_name "pedestal-api", :version "0.3.6-SNAPSHOT", :description "A batteries-included API for Pedestal using Swagger", :created 1613169093694}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.01.21-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1613170137932}
+{:jar_name "integrant-repl-autoreload", :group_name "tggreene", :version "0.1.0", :description "Simple integrant autoreloading using hawk, borrowed from duct", :created 1613170639527}
