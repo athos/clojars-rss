@@ -4,7 +4,98 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 14 Feb 2021 15:01:26 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Feb 2021 16:02:28 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.6.5</guid>
+    <title>[com.brunobonacci/mulog-prometheus &quot;0.6.5&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.6.5</link>
+    <description>A publisher for μ/log to Prometheus.</description>
+    <pubDate>Sun, 14 Feb 2021 15:08:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.6.5</guid>
+    <title>[com.brunobonacci/mulog-zipkin &quot;0.6.5&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.6.5</link>
+    <description>A publisher for μ/trace to OpenZipkin.</description>
+    <pubDate>Sun, 14 Feb 2021 15:08:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.6.5</guid>
+    <title>[com.brunobonacci/mulog-slack &quot;0.6.5&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.6.5</link>
+    <description>A publisher for μ/log to a Slack incoming webhook.</description>
+    <pubDate>Sun, 14 Feb 2021 15:07:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.6.5</guid>
+    <title>[com.brunobonacci/mulog-cloudwatch &quot;0.6.5&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.6.5</link>
+    <description>A publisher for μ/log to Cloudwatch.</description>
+    <pubDate>Sun, 14 Feb 2021 15:07:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.6.5</guid>
+    <title>[com.brunobonacci/mulog-kinesis &quot;0.6.5&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.6.5</link>
+    <description>A publisher for μ/log to Kinesis.</description>
+    <pubDate>Sun, 14 Feb 2021 15:07:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.6.5</guid>
+    <title>[com.brunobonacci/mulog-kafka &quot;0.6.5&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.6.5</link>
+    <description>A publisher for μ/log to Kafka.</description>
+    <pubDate>Sun, 14 Feb 2021 15:07:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-adv-console/versions/0.6.5</guid>
+    <title>[com.brunobonacci/mulog-adv-console &quot;0.6.5&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-adv-console/versions/0.6.5</link>
+    <description>A publisher for μ/log to Console and Terminal.</description>
+    <pubDate>Sun, 14 Feb 2021 15:06:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.6.5</guid>
+    <title>[com.brunobonacci/mulog-filesystem-metrics &quot;0.6.5&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.6.5</link>
+    <description>A filesystem metrics sampler for μ/log.</description>
+    <pubDate>Sun, 14 Feb 2021 15:06:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.6.5</guid>
+    <title>[com.brunobonacci/mulog-jvm-metrics &quot;0.6.5&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.6.5</link>
+    <description>A JVM metrics sampler for μ/log.</description>
+    <pubDate>Sun, 14 Feb 2021 15:06:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.6.5</guid>
+    <title>[com.brunobonacci/mulog-elasticsearch &quot;0.6.5&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.6.5</link>
+    <description>A publisher for μ/log to Elasticsearch.</description>
+    <pubDate>Sun, 14 Feb 2021 15:06:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-json/versions/0.6.5</guid>
+    <title>[com.brunobonacci/mulog-json &quot;0.6.5&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-json/versions/0.6.5</link>
+    <description>μ/log json handling</description>
+    <pubDate>Sun, 14 Feb 2021 15:05:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog/versions/0.6.5</guid>
+    <title>[com.brunobonacci/mulog &quot;0.6.5&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog/versions/0.6.5</link>
+    <description>μ/log is a micro-logging library that logs events and data, not words!</description>
+    <pubDate>Sun, 14 Feb 2021 15:05:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/into-docker/pem-reader/versions/1.0.0-SNAPSHOT</guid>
+    <title>[into-docker/pem-reader &quot;1.0.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/into-docker/pem-reader/versions/1.0.0-SNAPSHOT</link>
+    <description>A lightweight reader for key/certificate files</description>
+    <pubDate>Sun, 14 Feb 2021 15:05:27 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/bract/gossamer.core/versions/0.6.2-0.3.0-beta4</guid>
     <title>[bract/gossamer.core &quot;0.6.2-0.3.0-beta4&quot;]</title>
@@ -1709,97 +1800,6 @@
     <link>https://clojars.org/threatgrid/lein-lean/versions/0.5.0</link>
     <description></description>
     <pubDate>Fri, 5 Feb 2021 18:40:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/threatgrid/lein-lean/versions/0.4.0</guid>
-    <title>[threatgrid/lein-lean &quot;0.4.0&quot;]</title>
-    <link>https://clojars.org/threatgrid/lein-lean/versions/0.4.0</link>
-    <description></description>
-    <pubDate>Fri, 5 Feb 2021 16:27:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/datumbazo/versions/0.15.0</guid>
-    <title>[datumbazo &quot;0.15.0&quot;]</title>
-    <link>https://clojars.org/datumbazo/versions/0.15.0</link>
-    <description>Clojure Database Kung-Foo</description>
-    <pubDate>Fri, 5 Feb 2021 15:38:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/austinbirch/reactive-entity/versions/0.1.0-SNAPSHOT</guid>
-    <title>[austinbirch/reactive-entity &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/austinbirch/reactive-entity/versions/0.1.0-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Fri, 5 Feb 2021 15:06:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/versions/0.2.9</guid>
-    <title>[exoscale &quot;0.2.9&quot;]</title>
-    <link>https://clojars.org/exoscale/versions/0.2.9</link>
-    <description>All things Exoscale, in Clojure</description>
-    <pubDate>Fri, 5 Feb 2021 14:58:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/cloak/versions/0.1.8</guid>
-    <title>[exoscale/cloak &quot;0.1.8&quot;]</title>
-    <link>https://clojars.org/exoscale/cloak/versions/0.1.8</link>
-    <description></description>
-    <pubDate>Fri, 5 Feb 2021 14:53:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/threatgrid/lein-lean/versions/0.3.0</guid>
-    <title>[threatgrid/lein-lean &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/threatgrid/lein-lean/versions/0.3.0</link>
-    <description></description>
-    <pubDate>Fri, 5 Feb 2021 14:35:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/xiana/lein-template/versions/0.0.5</guid>
-    <title>[xiana/lein-template &quot;0.0.5&quot;]</title>
-    <link>https://clojars.org/xiana/lein-template/versions/0.0.5</link>
-    <description>FIXME: write description</description>
-    <pubDate>Fri, 5 Feb 2021 14:22:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.fulcrologic/fulcro/versions/3.4.15</guid>
-    <title>[com.fulcrologic/fulcro &quot;3.4.15&quot;]</title>
-    <link>https://clojars.org/com.fulcrologic/fulcro/versions/3.4.15</link>
-    <description>A library for building full-stack SPA webapps in Clojure and Clojurescript</description>
-    <pubDate>Fri, 5 Feb 2021 14:18:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flexiana/framework/versions/0.1.2</guid>
-    <title>[com.flexiana/framework &quot;0.1.2&quot;]</title>
-    <link>https://clojars.org/com.flexiana/framework/versions/0.1.2</link>
-    <description>Framework</description>
-    <pubDate>Fri, 5 Feb 2021 14:03:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flexiana/framework/versions/0.1.1</guid>
-    <title>[com.flexiana/framework &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/com.flexiana/framework/versions/0.1.1</link>
-    <description>Framework</description>
-    <pubDate>Fri, 5 Feb 2021 13:47:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.wactbprot/vl-data-insert/versions/0.2.1</guid>
-    <title>[org.clojars.wactbprot/vl-data-insert &quot;0.2.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.wactbprot/vl-data-insert/versions/0.2.1</link>
-    <description>Functions to insert vaclab style data in vaclab style database documents.</description>
-    <pubDate>Fri, 5 Feb 2021 13:46:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.taoensso/timbre/versions/5.1.2</guid>
-    <title>[com.taoensso/timbre &quot;5.1.2&quot;]</title>
-    <link>https://clojars.org/com.taoensso/timbre/versions/5.1.2</link>
-    <description>Pure Clojure/Script logging library</description>
-    <pubDate>Fri, 5 Feb 2021 13:33:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tonos-client/versions/1.6.2-SNAPSHOT</guid>
-    <title>[tonos-client &quot;1.6.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/tonos-client/versions/1.6.2-SNAPSHOT</link>
-    <description>Clojure bindings to TON OS SDK&#39;s Core Client Library</description>
-    <pubDate>Fri, 5 Feb 2021 12:58:45 +0000</pubDate>
   </item>
   </channel>
 </rss>

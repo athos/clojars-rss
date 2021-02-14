@@ -1,15 +1,3 @@
-{:jar_name "tada", :group_name "tada", :version "0.2.0", :description "A clojure(script) library that helps you compose web-applications out of declarative data-driven parts", :created 1612461399471}
-{:jar_name "ring-http-response", :group_name "metosin", :version "0.9.2", :description "Handling HTTP Statuses with Clojure(Script)", :created 1612462685027}
-{:jar_name "clj-ksql", :group_name "clj-ksql", :version "0.11.0-41-snapshot", :description "Clojure client for ksql", :created 1612462749846}
-{:jar_name "muuntaja", :group_name "metosin", :version "0.6.8", :description "Clojure library for format encoding, decoding and content-negotiation", :created 1612463248361}
-{:jar_name "muuntaja-form", :group_name "metosin", :version "0.6.8", :description "application/x-www-form-urlencoded format for Muuntaja", :created 1612463268031}
-{:jar_name "muuntaja-cheshire", :group_name "metosin", :version "0.6.8", :description "Cheshire/JSON format for Muuntaja", :created 1612463283580}
-{:jar_name "muuntaja-msgpack", :group_name "metosin", :version "0.6.8", :description "Messagepack format for Muuntaja", :created 1612463299970}
-{:jar_name "muuntaja-yaml", :group_name "metosin", :version "0.6.8", :description "YAML format for Muuntaja", :created 1612463315580}
-{:jar_name "reitit-core", :group_name "metosin", :version "0.5.12", :description "Snappy data-driven router for Clojure(Script)", :created 1612464159911}
-{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.12", :description "Snappy data-driven router for Clojure(Script)", :created 1612464177721}
-{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.12", :description "Reitit: clojure.spec coercion", :created 1612464192410}
-{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.12", :description "Reitit: Malli coercion", :created 1612464206170}
 {:jar_name "reitit-schema", :group_name "metosin", :version "0.5.12", :description "Reitit: Plumatic Schema coercion", :created 1612464221080}
 {:jar_name "reitit-ring", :group_name "metosin", :version "0.5.12", :description "Reitit: Ring routing", :created 1612464236170}
 {:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.12", :description "Reitit, common middleware bundled", :created 1612464254040}
@@ -254,3 +242,15 @@
 {:jar_name "bract.ring", :group_name "bract", :version "0.6.2-0.2.0-beta4", :description "Bract module for Ring support", :created 1613312605352}
 {:jar_name "debug", :group_name "pinage404", :version "1.3.2", :description nil, :created 1613312965288}
 {:jar_name "gossamer.core", :group_name "bract", :version "0.6.2-0.3.0-beta4", :description "A micro web framework module for Bract", :created 1613313234215}
+{:jar_name "mulog", :group_name "com.brunobonacci", :version "0.6.5", :description "μ/log is a micro-logging library that logs events and data, not words!", :created 1613315141385}
+{:jar_name "mulog-json", :group_name "com.brunobonacci", :version "0.6.5", :description "μ/log json handling", :created 1613315156294}
+{:jar_name "mulog-elasticsearch", :group_name "com.brunobonacci", :version "0.6.5", :description "A publisher for μ/log to Elasticsearch.", :created 1613315170874}
+{:jar_name "mulog-jvm-metrics", :group_name "com.brunobonacci", :version "0.6.5", :description "A JVM metrics sampler for μ/log.", :created 1613315185164}
+{:jar_name "mulog-filesystem-metrics", :group_name "com.brunobonacci", :version "0.6.5", :description "A filesystem metrics sampler for μ/log.", :created 1613315198894}
+{:jar_name "mulog-adv-console", :group_name "com.brunobonacci", :version "0.6.5", :description "A publisher for μ/log to Console and Terminal.", :created 1613315213064}
+{:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.6.5", :description "A publisher for μ/log to Kafka.", :created 1613315227184}
+{:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.6.5", :description "A publisher for μ/log to Kinesis.", :created 1613315242944}
+{:jar_name "mulog-cloudwatch", :group_name "com.brunobonacci", :version "0.6.5", :description "A publisher for μ/log to Cloudwatch.", :created 1613315258123}
+{:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.6.5", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1613315272553}
+{:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.6.5", :description "A publisher for μ/trace to OpenZipkin.", :created 1613315289203}
+{:jar_name "mulog-prometheus", :group_name "com.brunobonacci", :version "0.6.5", :description "A publisher for μ/log to Prometheus.", :created 1613315306233}
