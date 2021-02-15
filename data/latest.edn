@@ -1,23 +1,3 @@
-{:jar_name "re-cog", :group_name "re-cog", :version "0.5.22", :description "Re-cog is a set of serializable functions including provisioning resources, system facts and commonly used remotely executable functions", :created 1612586618413}
-{:jar_name "re-cipes", :group_name "re-cipes", :version "0.3.5", :description "Provioning re-cipes for Linux machines", :created 1612586818221}
-{:jar_name "lein-lean", :group_name "threatgrid", :version "0.6.0", :description "", :created 1612598578575}
-{:jar_name "bract.core", :group_name "bract", :version "0.6.2-beta3", :description "Multi-purpose, modular Clojure application initialization framework", :created 1612609694951}
-{:jar_name "bract.cli", :group_name "bract", :version "0.6.2-0.1.1-beta3", :description "CLI module for Bract", :created 1612610023328}
-{:jar_name "bract.dev", :group_name "bract", :version "0.6.2-0.2.0-beta3", :description "Dev module for Bract", :created 1612610663111}
-{:jar_name "uritemplate-clj", :group_name "uritemplate-clj", :version "1.2.4", :description "Clojure implementation of URI Templates as specified in RFC 6570 (http://tools.ietf.org/html/rfc6570), level 4 compliant", :created 1612613888139}
-{:jar_name "fs", :group_name "babashka", :version "0.0.1-alpha.4", :description "Babashka file system utilities.", :created 1612617154648}
-{:jar_name "bract.ring", :group_name "bract", :version "0.6.2-0.2.0-beta3", :description "Bract module for Ring support", :created 1612618283216}
-{:jar_name "gossamer.core", :group_name "bract", :version "0.6.2-0.3.0-beta3", :description "A micro web framework module for Bract", :created 1612619356844}
-{:jar_name "email-attachments", :group_name "email-attachments", :version "1.1.0", :description "makes extracting email attachments simple", :created 1612623407059}
-{:jar_name "test-doc-blocks", :group_name "lread", :version "1.0.85-alpha", :description "Generate Clojure tests from AsciiDoc and CommonMark doc code blocks", :created 1612627493900}
-{:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.4.16", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1612628258231}
-{:jar_name "igviz", :group_name "igviz", :version "0.2.3", :description nil, :created 1612631471170}
-{:jar_name "nemesis", :group_name "pbaille", :version "0.1.2", :description nil, :created 1612639026068}
-{:jar_name "qrecord", :group_name "fr.reuz", :version "0.1.0", :description "defrecord with qualified field names", :created 1612640972456}
-{:jar_name "duct-postcss", :group_name "kwrooijen", :version "0.1.1", :description "Duct library for Postcss", :created 1612647947470}
-{:jar_name "edd-core", :group_name "alphaprosoft", :version "1.213", :description nil, :created 1612649365775}
-{:jar_name "stack", :group_name "luciodale", :version "0.0.1", :description "Undo redo logic library", :created 1612650035608}
-{:jar_name "corbihttp", :group_name "mcorbin", :version "0.10.0", :description "Shared namespaces for my http projects", :created 1612651727599}
 {:jar_name "failjure", :group_name "failjure", :version "2.2.0-SNAPSHOT", :description "Simple helpers for treating failures as values", :created 1612665152503}
 {:jar_name "klipse", :group_name "viebel", :version "7.10.6", :description "Embeddable multi-language WEB REPL", :created 1612678384338}
 {:jar_name "jbox2d-library", :group_name "lambdaisland", :version "2.3.1.756", :description "A 2D java physics engine, a port of the C++ Box2d engine.  This is the core physics engine.", :created 1612689716222}
@@ -112,7 +92,6 @@
 {:jar_name "ctim", :group_name "threatgrid", :version "1.1.2", :description "Cisco Threat Intelligence Model", :created 1612958706051}
 {:jar_name "hato", :group_name "hato", :version "0.8.0", :description "An HTTP client for Clojure, wrapping JDK 11's HttpClient.", :created 1612960704565}
 {:jar_name "lfs-fetchup", :group_name "lfs-fetchup", :version "0.1.0-SNAPSHOT", :description "A very simple library that fetches LFS setups from lfs.net/files/setups", :created 1612967384870}
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.4-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1612967940114}
 {:jar_name "lancaster", :group_name "deercreeklabs", :version "0.9.5", :description "Tools for working with Apache Avro", :created 1612969236210}
 {:jar_name "capsule", :group_name "deercreeklabs", :version "0.4.34", :description nil, :created 1612969800334}
 {:jar_name "next", :group_name "keechma", :version "0.0.6", :description "Data driven state management library for single page apps", :created 1612971168639}
@@ -254,3 +233,24 @@
 {:jar_name "crux-hbase-test", :group_name "io.kosong.crux", :version "0.2.0-SNAPSHOT", :description "Crux HBase test module", :created 1613408747782}
 {:jar_name "alia-scylla", :group_name "com.nivekuil", :version "5.0.0-alpha4-SNAPSHOT", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1613409541543}
 {:jar_name "erdos.assert", :group_name "io.github.erdos", :version "0.2.1", :description "Smart assertions library for Clojure", :created 1613411998067}
+{:jar_name "erdos.assert", :group_name "io.github.erdos", :version "0.2.2", :description "Smart assertions library for Clojure", :created 1613413002396}
+{:jar_name "crux-core", :group_name "juxt", :version "dev-SNAPSHOT", :description "An open source document database with bitemporal graph queries", :created 1613413682428}
+{:jar_name "crux-rdf", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RDF", :created 1613413693128}
+{:jar_name "crux-metrics", :group_name "juxt", :version "dev-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1613413702148}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RocksDB", :created 1613413711468}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux LMDB", :created 1613413719168}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux JDBC", :created 1613413727008}
+{:jar_name "crux-http-client", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux HTTP Client", :created 1613413734948}
+{:jar_name "crux-http-server", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux HTTP Server", :created 1613413745538}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka Embedded", :created 1613413754008}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka Connect", :created 1613413765697}
+{:jar_name "crux-kafka", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka", :created 1613413775247}
+{:jar_name "crux-sql", :group_name "juxt", :version "dev-SNAPSHOT", :description "SQL for Crux using Apache Calcite", :created 1613413786057}
+{:jar_name "crux-lucene", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Lucene integration", :created 1613413794427}
+{:jar_name "crux-test", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Tests Project", :created 1613413812507}
+{:jar_name "crux-s3", :group_name "juxt", :version "dev-SNAPSHOT", :description "", :created 1613413823047}
+{:jar_name "crux-azure-blobs", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Azure Blobs Document Store", :created 1613413832187}
+{:jar_name "crux-bench", :group_name "juxt", :version "dev-SNAPSHOT", :description "", :created 1613413849537}
+{:jar_name "pem-reader", :group_name "into-docker", :version "1.0.0", :description "A lightweight reader for key/certificate files", :created 1613414805916}
+{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.4-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1613415610778}
+{:jar_name "tonos-client", :group_name "tonos-client", :version "1.8.0", :description "Clojure bindings to TON OS SDK's Core Client Library", :created 1613415613068}
