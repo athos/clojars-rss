@@ -1,12 +1,3 @@
-{:jar_name "martian-clj-http", :group_name "martian-clj-http", :version "0.1.15-SNAPSHOT", :description "clj-http implementation for martian", :created 1612885450991}
-{:jar_name "martian-cljs-http", :group_name "martian-cljs-http", :version "0.1.15-SNAPSHOT", :description "cljs-http implementation for martian", :created 1612885465730}
-{:jar_name "martian-clj-http-lite", :group_name "martian-clj-http-lite", :version "0.1.15-SNAPSHOT", :description "clj-http-lite implementation for martian", :created 1612885479620}
-{:jar_name "martian-re-frame", :group_name "martian-re-frame", :version "0.1.15-SNAPSHOT", :description "re-frame bindings for martian", :created 1612885495890}
-{:jar_name "martian-vcr", :group_name "martian-vcr", :version "0.1.15-SNAPSHOT", :description "Recording and playback for Martian", :created 1612885510980}
-{:jar_name "martian-httpkit", :group_name "martian-httpkit", :version "0.1.15-SNAPSHOT", :description "httpkit implementation for martian", :created 1612885525900}
-{:jar_name "martian-test", :group_name "martian-test", :version "0.1.15-SNAPSHOT", :description "Testing tools for martian", :created 1612885540870}
-{:jar_name "ctim", :group_name "threatgrid", :version "1.1.2-SNAPSHOT", :description "Cisco Threat Intelligence Model", :created 1612889966571}
-{:jar_name "pcp-common", :group_name "puppetlabs", :version "1.3.3", :description "Common protocol components for PCP", :created 1612891581064}
 {:jar_name "reveal", :group_name "vlaaad", :version "1.3.196", :description nil, :created 1612895639810}
 {:jar_name "pcp-client", :group_name "puppetlabs", :version "1.3.2", :description "client library for PCP", :created 1612898768756}
 {:jar_name "deep-diamond", :group_name "uncomplicate", :version "0.18.0-alpha", :description "Fast Clojure Deep Learning Library", :created 1612898981663}
@@ -249,8 +240,17 @@
 {:jar_name "coax", :group_name "exoscale", :version "1.0.0-alpha12", :description "exo spec-coerce fork", :created 1613563826635}
 {:jar_name "object-storage.ftp", :group_name "magnet", :version "0.1.5", :description "A library that provides an Integrant key for managing objects in a FTP server", :created 1613566334617}
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.5", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1613566937049}
-{:jar_name "notespace", :group_name "scicloj", :version "3-alpha3-SNAPSHOT", :description "Notebook experience in your Clojure namespace.", :created 1613569455399}
 {:jar_name "ring-gzip-middleware", :group_name "blackwaterpark", :version "1.0.0", :description "Ring gzip encoding middleware (Eva fork)", :created 1613571312478}
 {:jar_name "clj-rss", :group_name "clj-rss", :version "0.2.7", :description "A library for generating RSS feeds from Clojure.", :created 1613573873719}
 {:jar_name "test-with-files", :group_name "com.magnars", :version "2021-02-17", :description "Easily write tests with files.", :created 1613574363353}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210217-152743.9c5d421c", :description nil, :created 1613575703579}
+{:jar_name "dtype-next", :group_name "cnuernber", :version "6.01", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1613578165116}
+{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.34", :description "Data definitions for APIs", :created 1613579730760}
+{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.34", :description "Data definitions for APIs", :created 1613579744177}
+{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.34", :description "Data definitions for APIs", :created 1613579758062}
+{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.34", :description "Data definitions for APIs", :created 1613579771109}
+{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.34", :description "Data definitions for APIs", :created 1613579784173}
+{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.34", :description "Data definitions for APIs", :created 1613579797962}
+{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.34", :description "Data definitions for APIs", :created 1613579811438}
+{:jar_name "blueprint", :group_name "exoscale", :version "0.2.34", :description "Data definitions for APIs", :created 1613579824819}
+{:jar_name "notespace", :group_name "scicloj", :version "3-alpha3-SNAPSHOT", :description "Notebook experience in your Clojure namespace.", :created 1613580362607}
