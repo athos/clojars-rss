@@ -1,6 +1,3 @@
-{:jar_name "bract.dev", :group_name "bract", :version "0.6.2-0.2.0-beta3", :description "Dev module for Bract", :created 1612610663111}
-{:jar_name "uritemplate-clj", :group_name "uritemplate-clj", :version "1.2.4", :description "Clojure implementation of URI Templates as specified in RFC 6570 (http://tools.ietf.org/html/rfc6570), level 4 compliant", :created 1612613888139}
-{:jar_name "fs", :group_name "babashka", :version "0.0.1-alpha.4", :description "Babashka file system utilities.", :created 1612617154648}
 {:jar_name "bract.ring", :group_name "bract", :version "0.6.2-0.2.0-beta3", :description "Bract module for Ring support", :created 1612618283216}
 {:jar_name "gossamer.core", :group_name "bract", :version "0.6.2-0.3.0-beta3", :description "A micro web framework module for Bract", :created 1612619356844}
 {:jar_name "email-attachments", :group_name "email-attachments", :version "1.1.0", :description "makes extracting email attachments simple", :created 1612623407059}
@@ -254,3 +251,6 @@
 {:jar_name "coax", :group_name "exoscale", :version "1.0.0-alpha12", :description "exo spec-coerce fork", :created 1613563826635}
 {:jar_name "object-storage.ftp", :group_name "magnet", :version "0.1.5", :description "A library that provides an Integrant key for managing objects in a FTP server", :created 1613566334617}
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.5", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1613566937049}
+{:jar_name "ring-gzip-middleware", :group_name "blackwaterpark", :version "1.0.0", :description "Ring gzip encoding middleware (Eva fork)", :created 1613571312478}
+{:jar_name "clj-rss", :group_name "clj-rss", :version "0.2.7", :description "A library for generating RSS feeds from Clojure.", :created 1613573873719}
+{:jar_name "test-with-files", :group_name "com.magnars", :version "2021-02-17", :description "Easily write tests with files.", :created 1613574363353}
