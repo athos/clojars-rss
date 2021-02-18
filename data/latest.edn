@@ -1,4 +1,3 @@
-{:jar_name "ctim", :group_name "threatgrid", :version "1.1.2", :description "Cisco Threat Intelligence Model", :created 1612958706051}
 {:jar_name "hato", :group_name "hato", :version "0.8.0", :description "An HTTP client for Clojure, wrapping JDK 11's HttpClient.", :created 1612960704565}
 {:jar_name "lfs-fetchup", :group_name "lfs-fetchup", :version "0.1.0-SNAPSHOT", :description "A very simple library that fetches LFS setups from lfs.net/files/setups", :created 1612967384870}
 {:jar_name "lancaster", :group_name "deercreeklabs", :version "0.9.5", :description "Tools for working with Apache Avro", :created 1612969236210}
@@ -158,7 +157,6 @@
 {:jar_name "crux-azure-blobs", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Azure Blobs Document Store", :created 1613413832187}
 {:jar_name "crux-bench", :group_name "juxt", :version "dev-SNAPSHOT", :description "", :created 1613413849537}
 {:jar_name "pem-reader", :group_name "into-docker", :version "1.0.0", :description "A lightweight reader for key/certificate files", :created 1613414805916}
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.4-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1613415610778}
 {:jar_name "tonos-client", :group_name "tonos-client", :version "1.8.0", :description "Clojure bindings to TON OS SDK's Core Client Library", :created 1613415613068}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210215-212843.f832e84d", :description nil, :created 1613424559821}
 {:jar_name "cljs-emotion", :group_name "dv", :version "2021-02-15.1.0", :description "ClojureScript wrapper of emotion css-in-js library", :created 1613424628090}
@@ -214,8 +212,6 @@
 {:jar_name "writer", :group_name "cirru", :version "0.1.9", :description nil, :created 1613548697685}
 {:jar_name "enviable", :group_name "johncowie", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1613555099089}
 {:jar_name "writer", :group_name "cirru", :version "0.1.10", :description nil, :created 1613555140899}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.4-SNAPSHOT", :description "Small Clojure Interpreter", :created 1613557735958}
-{:jar_name "babashka", :group_name "babashka", :version "0.2.11-SNAPSHOT", :description "babashka", :created 1613558174713}
 {:jar_name "writer", :group_name "cirru", :version "0.1.11", :description "", :created 1613563333883}
 {:jar_name "coax", :group_name "exoscale", :version "1.0.0-alpha12", :description "exo spec-coerce fork", :created 1613563826635}
 {:jar_name "object-storage.ftp", :group_name "magnet", :version "0.1.5", :description "A library that provides an Integrant key for managing objects in a FTP server", :created 1613566334617}
@@ -253,4 +249,8 @@
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.4.17", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1613608402104}
 {:jar_name "utilza", :group_name "utilza", :version "0.1.110", :description "ken's random utilities", :created 1613611868164}
 {:jar_name "pem-reader", :group_name "into-docker", :version "1.0.1", :description "A lightweight reader for key/certificate files", :created 1613632758306}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.02.14-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1613644719876}
+{:jar_name "mranderson", :group_name "thomasa", :version "0.5.3", :description "Dependency inlining and shadowing tool.", :created 1613647760603}
+{:jar_name "sci", :group_name "borkdude", :version "0.2.4-SNAPSHOT", :description "Small Clojure Interpreter", :created 1613648957690}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.02.14-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1613648988430}
+{:jar_name "babashka", :group_name "babashka", :version "0.2.11-SNAPSHOT", :description "babashka", :created 1613649231887}
+{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.4-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1613649529114}
