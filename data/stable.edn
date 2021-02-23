@@ -1,20 +1,3 @@
-{:jar_name "tonos-client", :group_name "tonos-client", :version "1.8.0", :description "Clojure bindings to TON OS SDK's Core Client Library", :created 1613415613068}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210215-212843.f832e84d", :description nil, :created 1613424559821}
-{:jar_name "cljs-emotion", :group_name "dv", :version "2021-02-15.1.0", :description "ClojureScript wrapper of emotion css-in-js library", :created 1613424628090}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.9", :description nil, :created 1613425578100}
-{:jar_name "debug", :group_name "pinage404", :version "1.4.0", :description nil, :created 1613426896076}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.10", :description nil, :created 1613432641703}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.11", :description "", :created 1613434701588}
-{:jar_name "debug", :group_name "pinage404", :version "1.5.0", :description "", :created 1613434898893}
-{:jar_name "cljs-emotion", :group_name "dv", :version "2021-02-15.2.0", :description "ClojureScript wrapper of emotion css-in-js library", :created 1613439128563}
-{:jar_name "milia", :group_name "onaio", :version "0.4.0-rc", :description "The ona.io Clojure Web API Client.", :created 1613460169704}
-{:jar_name "databuilderframework", :group_name "com.flipkart.databuilderframework", :version "0.5.11", :description "", :created 1613463655614}
-{:jar_name "tesla-microservice", :group_name "de.otto", :version "0.16.1", :description "basic microservice.", :created 1613463762780}
-{:jar_name "tesla-jetty", :group_name "de.otto", :version "0.2.7", :description "basic microservice.", :created 1613464400608}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210216-090414.73e2f73d", :description nil, :created 1613466287746}
-{:jar_name "refactor-nrepl", :group_name "refactor-nrepl", :version "2.5.1", :description "nREPL middleware to support editor-agnostic refactoring", :created 1613466981968}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210216-102400.9f199f96", :description nil, :created 1613471074472}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210216-121111.eacbee3a", :description "", :created 1613477517022}
 {:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.33", :description "Data definitions for APIs", :created 1613480267889}
 {:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.33", :description "Data definitions for APIs", :created 1613480281829}
 {:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.33", :description "Data definitions for APIs", :created 1613480296059}
@@ -254,3 +237,20 @@
 {:jar_name "depstar", :group_name "com.github.seancorfield", :version "2.0.188", :description "a clj-based uberjarrer", :created 1614107536437}
 {:jar_name "depstar", :group_name "seancorfield", :version "2.0.188", :description "a clj-based uberjarrer", :created 1614107566966}
 {:jar_name "gorilla-explore", :group_name "org.pinkgorilla", :version "0.2.36", :description "Explore PinkGorilla notebooks (private and public) on github.", :created 1614108468717}
+{:jar_name "crux-core", :group_name "juxt", :version "21.02-1.15.0-beta", :description "An open source document database with bitemporal graph queries", :created 1614113016888}
+{:jar_name "crux-rdf", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Crux RDF", :created 1614113026728}
+{:jar_name "crux-metrics", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Provides Metrics for Crux nodes", :created 1614113038008}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux RocksDB", :created 1614113047508}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Crux LMDB", :created 1614113057338}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux JDBC", :created 1614113067218}
+{:jar_name "crux-http-client", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux HTTP Client", :created 1614113077568}
+{:jar_name "crux-http-server", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Crux HTTP Server", :created 1614113091138}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux Kafka Embedded", :created 1614113101608}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux Kafka Connect", :created 1614113113247}
+{:jar_name "crux-kafka", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux Kafka", :created 1614113125117}
+{:jar_name "crux-sql", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "SQL for Crux using Apache Calcite", :created 1614113137947}
+{:jar_name "crux-lucene", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Crux Lucene integration", :created 1614113149117}
+{:jar_name "crux-test", :group_name "juxt", :version "21.02-1.15.0", :description "Crux Tests Project", :created 1614113163357}
+{:jar_name "crux-s3", :group_name "juxt", :version "21.02-1.15.0-beta", :description "", :created 1614113175567}
+{:jar_name "crux-azure-blobs", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Crux Azure Blobs Document Store", :created 1614113185977}
+{:jar_name "crux-bench", :group_name "juxt", :version "21.02-1.15.0", :description "", :created 1614113197427}

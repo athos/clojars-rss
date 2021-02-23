@@ -1,21 +1,3 @@
-{:jar_name "ring-codec", :group_name "ring", :version "1.1.3", :description "Library for encoding and decoding data", :created 1613521680783}
-{:jar_name "logger.timbre", :group_name "duct", :version "0.5.0", :description "Integrant methods for the Timbre logging library", :created 1613523532460}
-{:jar_name "ring-core", :group_name "ring", :version "1.9.1", :description "Ring core libraries.", :created 1613525766855}
-{:jar_name "ring-devel", :group_name "ring", :version "1.9.1", :description "Ring development and debugging libraries.", :created 1613525795644}
-{:jar_name "ring-servlet", :group_name "ring", :version "1.9.1", :description "Ring servlet utilities.", :created 1613525843214}
-{:jar_name "ring-jetty-adapter", :group_name "ring", :version "1.9.1", :description "Ring Jetty adapter.", :created 1613525922933}
-{:jar_name "ring", :group_name "ring", :version "1.9.1", :description "A Clojure web applications library.", :created 1613525977412}
-{:jar_name "failjure", :group_name "failjure", :version "2.2.0", :description "Simple helpers for treating failures as values", :created 1613526283509}
-{:jar_name "migratus", :group_name "migratus", :version "1.3.5", :description "MIGRATE ALL THE THINGS!", :created 1613530306352}
-{:jar_name "honeysql", :group_name "seancorfield", :version "2.0.0-alpha2", :description "SQL as Clojure data structures.", :created 1613533867941}
-{:jar_name "utilza", :group_name "utilza", :version "0.1.109", :description "ken's random utilities", :created 1613541423653}
-{:jar_name "writer", :group_name "cirru", :version "0.1.9", :description nil, :created 1613548697685}
-{:jar_name "writer", :group_name "cirru", :version "0.1.10", :description nil, :created 1613555140899}
-{:jar_name "writer", :group_name "cirru", :version "0.1.11", :description "", :created 1613563333883}
-{:jar_name "coax", :group_name "exoscale", :version "1.0.0-alpha12", :description "exo spec-coerce fork", :created 1613563826635}
-{:jar_name "object-storage.ftp", :group_name "magnet", :version "0.1.5", :description "A library that provides an Integrant key for managing objects in a FTP server", :created 1613566334617}
-{:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.5", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1613566937049}
-{:jar_name "ring-gzip-middleware", :group_name "blackwaterpark", :version "1.0.0", :description "Ring gzip encoding middleware (Eva fork)", :created 1613571312478}
 {:jar_name "clj-rss", :group_name "clj-rss", :version "0.2.7", :description "A library for generating RSS feeds from Clojure.", :created 1613573873719}
 {:jar_name "test-with-files", :group_name "com.magnars", :version "2021-02-17", :description "Easily write tests with files.", :created 1613574363353}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210217-152743.9c5d421c", :description nil, :created 1613575703579}
@@ -242,7 +224,6 @@
 {:jar_name "ez-wire", :group_name "ez-wire", :version "0.4.1", :description "Helper library for reagent+re-frame", :created 1614092321678}
 {:jar_name "donkey", :group_name "com.appsflyer", :version "0.5.1", :description "Clojure Server and Client", :created 1614092534916}
 {:jar_name "omega-red", :group_name "nomnom", :version "1.0.0-SNAPSHOT", :description "Component firendly Redis client, based on Carmine", :created 1614093805283}
-{:jar_name "clj-template", :group_name "rssyslib", :version "0.1.0-SNAPSHOT", :description "Red Stars Systems library template.", :created 1614094652434}
 {:jar_name "omega-red", :group_name "nomnom", :version "1.0.0", :description "Component firendly Redis client, based on Carmine", :created 1614096513028}
 {:jar_name "cook-jobclient", :group_name "twosigma", :version "0.8.4", :description "A Java API for connecting to the Cook scheduler, submitting, and monitoring jobs.", :created 1614098694611}
 {:jar_name "freeswitch-clj", :group_name "freeswitch-clj", :version "1.1.2", :description "A Clojure interface to freeswitch event socket.", :created 1614101096005}
@@ -254,3 +235,22 @@
 {:jar_name "depstar", :group_name "com.github.seancorfield", :version "2.0.188", :description "a clj-based uberjarrer", :created 1614107536437}
 {:jar_name "depstar", :group_name "seancorfield", :version "2.0.188", :description "a clj-based uberjarrer", :created 1614107566966}
 {:jar_name "gorilla-explore", :group_name "org.pinkgorilla", :version "0.2.36", :description "Explore PinkGorilla notebooks (private and public) on github.", :created 1614108468717}
+{:jar_name "protobluff", :group_name "fourtytoo", :version "0.1.0-SNAPSHOT", :description "A GRPC library for Clojure", :created 1614111314132}
+{:jar_name "clj-template", :group_name "rssyslib", :version "0.1.0-SNAPSHOT", :description "Red Stars Systems library template.", :created 1614112254398}
+{:jar_name "crux-core", :group_name "juxt", :version "21.02-1.15.0-beta", :description "An open source document database with bitemporal graph queries", :created 1614113016888}
+{:jar_name "crux-rdf", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Crux RDF", :created 1614113026728}
+{:jar_name "crux-metrics", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Provides Metrics for Crux nodes", :created 1614113038008}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux RocksDB", :created 1614113047508}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Crux LMDB", :created 1614113057338}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux JDBC", :created 1614113067218}
+{:jar_name "crux-http-client", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux HTTP Client", :created 1614113077568}
+{:jar_name "crux-http-server", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Crux HTTP Server", :created 1614113091138}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux Kafka Embedded", :created 1614113101608}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux Kafka Connect", :created 1614113113247}
+{:jar_name "crux-kafka", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux Kafka", :created 1614113125117}
+{:jar_name "crux-sql", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "SQL for Crux using Apache Calcite", :created 1614113137947}
+{:jar_name "crux-lucene", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Crux Lucene integration", :created 1614113149117}
+{:jar_name "crux-test", :group_name "juxt", :version "21.02-1.15.0", :description "Crux Tests Project", :created 1614113163357}
+{:jar_name "crux-s3", :group_name "juxt", :version "21.02-1.15.0-beta", :description "", :created 1614113175567}
+{:jar_name "crux-azure-blobs", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Crux Azure Blobs Document Store", :created 1614113185977}
+{:jar_name "crux-bench", :group_name "juxt", :version "21.02-1.15.0", :description "", :created 1614113197427}
