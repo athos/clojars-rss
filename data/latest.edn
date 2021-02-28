@@ -1,7 +1,3 @@
-{:jar_name "editor", :group_name "cirru", :version "0.3.1", :description nil, :created 1613830640185}
-{:jar_name "ring-undertow-adapter", :group_name "luminus", :version "1.2.0", :description "Ring Underow adapter", :created 1613831641794}
-{:jar_name "luminus-undertow", :group_name "luminus-undertow", :version "0.1.10", :description "Undertow adapter for Luminus", :created 1613831699804}
-{:jar_name "lein-template", :group_name "luminus", :version "3.97", :description "a template for creating Luminus applications", :created 1613832494995}
 {:jar_name "numbers2words", :group_name "numbers2words", :version "0.1.0-SNAPSHOT", :description "FIXME: numbers2words Clojure lib [WeFarm:GG]", :created 1613834663511}
 {:jar_name "clojisr-template", :group_name "clojisr-template", :version "1.0.0", :description "Template to get started with ClojisR - a wrapper library exposing APIs for calling R functions on R objects in Clojure", :created 1613838982839}
 {:jar_name "notespace", :group_name "scicloj", :version "3-beta3", :description "Notebook experience in your Clojure namespace.", :created 1613841075851}
@@ -233,7 +229,6 @@
 {:jar_name "crux-hbase", :group_name "io.kosong.crux", :version "0.2.0-SNAPSHOT", :description "Crux HBase", :created 1614417269736}
 {:jar_name "crux-hbase-embedded", :group_name "io.kosong.crux", :version "0.2.0-SNAPSHOT", :description "Embedded HBase for development and testing", :created 1614417291196}
 {:jar_name "crux-hbase-test", :group_name "io.kosong.crux", :version "0.2.0-SNAPSHOT", :description "Crux HBase test module", :created 1614417318675}
-{:jar_name "babashka", :group_name "babashka", :version "0.2.11-SNAPSHOT", :description "babashka", :created 1614417796720}
 {:jar_name "hiccup-components", :group_name "za.co.simply", :version "0.5.1", :description "Hiccup components' primary goal is to allow hiccup to be defined as pure data while leveraging functions as a way to abstract components.", :created 1614427193810}
 {:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.4.0-7-58265d3-SNAPSHOT", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1614427817196}
 {:jar_name "jackdaw", :group_name "scoville", :version "0.0.2-main-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1614431889180}
@@ -254,3 +249,8 @@
 {:jar_name "bract.cli", :group_name "bract", :version "0.6.2-0.1.1", :description "CLI module for Bract", :created 1614494351138}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.4.1", :description "A simple, fast and durable Datalog database", :created 1614494473907}
 {:jar_name "epsilon", :group_name "org.clojars.aratare", :version "v1.1.0", :description "Model-driven code generator", :created 1614498905550}
+{:jar_name "hashp", :group_name "hashp", :version "0.2.1", :description "A better \"prn\" for debugging", :created 1614503875408}
+{:jar_name "daedalus", :group_name "lambdaisland", :version "0.0.14", :description "Path finding and Delaunay triangulation in 2D, cljs wrapper for hxdaedalus-js", :created 1614504957437}
+{:jar_name "data-printers", :group_name "lambdaisland", :version "0.0.22", :description "Quickly define print handlers for tagged literals across print/pprint implementations.", :created 1614505097125}
+{:jar_name "bract.dev", :group_name "bract", :version "0.6.2-0.2.0", :description "Dev module for Bract", :created 1614506173214}
+{:jar_name "babashka", :group_name "babashka", :version "0.2.11-SNAPSHOT", :description "babashka", :created 1614506296853}
