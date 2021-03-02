@@ -1,7 +1,3 @@
-{:jar_name "crux-jdbc", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux JDBC", :created 1614113067218}
-{:jar_name "crux-http-client", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux HTTP Client", :created 1614113077568}
-{:jar_name "crux-http-server", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Crux HTTP Server", :created 1614113091138}
-{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux Kafka Embedded", :created 1614113101608}
 {:jar_name "crux-kafka-connect", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux Kafka Connect", :created 1614113113247}
 {:jar_name "crux-kafka", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux Kafka", :created 1614113125117}
 {:jar_name "crux-sql", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "SQL for Crux using Apache Calcite", :created 1614113137947}
@@ -227,7 +223,6 @@
 {:jar_name "user.apache.maven.alpha", :group_name "user.apache.maven.alpha", :version "2021.61.26503", :description nil, :created 1614669712195}
 {:jar_name "user.tools.deps.alpha", :group_name "user.tools.deps.alpha", :version "2021.61.27107", :description nil, :created 1614670316328}
 {:jar_name "github.clj.alpha", :group_name "ajchemist", :version "2021.61.27454", :description nil, :created 1614670664545}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.03.01-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1614674385654}
 {:jar_name "rigui", :group_name "cn.leancloud", :version "0.5.3", :description "Timing Wheels", :created 1614674605332}
 {:jar_name "axel-f", :group_name "io.xapix", :version "2.2.3", :description "", :created 1614682774714}
 {:jar_name "malli", :group_name "metosin", :version "0.3.0", :description nil, :created 1614685531614}
@@ -254,3 +249,8 @@
 {:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc10", :description nil, :created 1614713673872}
 {:jar_name "common-service", :group_name "tendant", :version "0.1.8", :description "FIXME: write description", :created 1614713837000}
 {:jar_name "imcljs", :group_name "org.intermine", :version "1.4.3", :description "imcljs", :created 1614714441244}
+{:jar_name "cljaws", :group_name "timotheosh", :version "0.3.5-SNAPSHOT", :description "Convenience functions for interacting with AWS API's from closh", :created 1614719020615}
+{:jar_name "depstar", :group_name "seancorfield", :version "2.0.193", :description "a clj-based uberjarrer", :created 1614719801747}
+{:jar_name "depstar", :group_name "com.github.seancorfield", :version "2.0.193", :description "a clj-based uberjarrer", :created 1614719822757}
+{:jar_name "neo4clj", :group_name "fullspectrum", :version "1.0.0-ALPHA3", :description "Clojure client for Neo4j", :created 1614721475349}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.03.01-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1614721896825}
