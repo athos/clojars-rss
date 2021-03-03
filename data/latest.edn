@@ -1,4 +1,3 @@
-{:jar_name "re-frame", :group_name "re-frame", :version "1.2.0", :description "A ClojureScript MVC-like Framework For Writing SPAs Using Reagent.", :created 1614167405546}
 {:jar_name "tesla-microservice", :group_name "de.otto", :version "0.17.0", :description "basic microservice.", :created 1614168555499}
 {:jar_name "lein-template", :group_name "re-frame", :version "1.4.0", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1614169651808}
 {:jar_name "clj-time", :group_name "org.clojars.bost", :version "0.6.0-288-0xce29", :description "A date and time library for Clojure, wrapping Joda Time.", :created 1614169723272}
@@ -178,7 +177,6 @@
 {:jar_name "guardrails", :group_name "com.fulcrologic", :version "1.1.4", :description "A library for using Clojure specs more like a type system during development.", :created 1614633712918}
 {:jar_name "ring-sse", :group_name "lnostdal", :version "0.2.10", :description "Ring async (Spec 1.4+) Server-Sent Events handler (and helpers)", :created 1614637326730}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.4.10", :description "A simple, fast and durable Datalog database", :created 1614638464548}
-{:jar_name "babashka", :group_name "babashka", :version "0.2.13-SNAPSHOT", :description "babashka", :created 1614639756045}
 {:jar_name "salesforce", :group_name "lsevero", :version "1.1.0-SNAPSHOT", :description "A clojure library for accessing the salesforce api", :created 1614639977962}
 {:jar_name "endpoint", :group_name "sweet-tooth", :version "0.10.10-SNAPSHOT", :description "Utilities for working with liberator-based endpoints", :created 1614640209810}
 {:jar_name "maelstrom", :group_name "maelstrom", :version "0.2.0", :description "A test bench for writing toy Raft implementations", :created 1614641130340}
@@ -254,3 +252,5 @@
 {:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc12", :description "", :created 1614802340853}
 {:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc13", :description nil, :created 1614806398846}
 {:jar_name "clj-template", :group_name "rssysapp", :version "0.1.0-SNAPSHOT", :description "Red Stars Systems application template.", :created 1614807869661}
+{:jar_name "memoize-ttl", :group_name "lsevero", :version "1.0.0", :description "A simple caching TTL strategy", :created 1614811633993}
+{:jar_name "babashka", :group_name "babashka", :version "0.2.13-SNAPSHOT", :description "babashka", :created 1614811796441}
