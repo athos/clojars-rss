@@ -1,7 +1,3 @@
-{:jar_name "crux-core", :group_name "juxt", :version "21.02-1.15.0-beta", :description "An open source document database with bitemporal graph queries", :created 1614113016888}
-{:jar_name "crux-rdf", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Crux RDF", :created 1614113026728}
-{:jar_name "crux-metrics", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Provides Metrics for Crux nodes", :created 1614113038008}
-{:jar_name "crux-rocksdb", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux RocksDB", :created 1614113047508}
 {:jar_name "crux-lmdb", :group_name "juxt", :version "21.02-1.15.0-alpha", :description "Crux LMDB", :created 1614113057338}
 {:jar_name "crux-jdbc", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux JDBC", :created 1614113067218}
 {:jar_name "crux-http-client", :group_name "juxt", :version "21.02-1.15.0-beta", :description "Crux HTTP Client", :created 1614113077568}
@@ -254,3 +250,7 @@
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210304-155351.8714550f", :description nil, :created 1614873270080}
 {:jar_name "midje", :group_name "midje", :version "1.9.10", :description "A TDD library for Clojure that supports top-down ('mockish') TDD, encourages readable tests, provides a smooth migration path from clojure.test, balances abstraction and concreteness, and strives for graciousness.", :created 1614874388422}
 {:jar_name "tentacles", :group_name "irresponsible", :version "0.6.7", :description "Clojure library for working with the Github v3 API", :created 1614879960379}
+{:jar_name "state-flow", :group_name "nubank", :version "5.11.2", :description "Integration testing with composable flows", :created 1614882723330}
+{:jar_name "tabres", :group_name "com.zensols.gui", :version "0.0.11", :description "GUI library to visualize (usually DB) results", :created 1614882926408}
+{:jar_name "sdk", :group_name "starkbank", :version "2.3.1", :description "SDK to make Clojure integrations with the Stark Bank API easier.", :created 1614883912967}
+{:jar_name "dtype-next", :group_name "cnuernber", :version "6.06", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1614884309573}
