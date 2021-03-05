@@ -1,5 +1,3 @@
-{:jar_name "clj-docker-client", :group_name "lispyclouds", :version "1.0.3", :description "An idiomatic data-driven clojure client for Docker.", :created 1614330491459}
-{:jar_name "sente", :group_name "com.taoensso", :version "1.16.2", :description "Realtime web comms for Clojure/Script", :created 1614336509815}
 {:jar_name "datahike-jdbc", :group_name "io.replikativ", :version "0.1.2-SNAPSHOT", :description "Datahike with JDBC data storage backend", :created 1614339940438}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.13.0", :description "Core utils library for Clojure/Script", :created 1614340033607}
 {:jar_name "chui-core", :group_name "lambdaisland", :version "1.0.173", :description "ClojureScript Test Runner Core", :created 1614340063367}
@@ -37,7 +35,6 @@
 {:jar_name "tech.ml", :group_name "techascent", :version "5.01", :description "Basic machine learning toolkit.  `tech.v3.ml` is the root\nnamespace and provides train/predict pathways based on datasets and\nan options map.  Please see the xgboost article for a quick runthough\nof how to use this library.", :created 1614445040541}
 {:jar_name "jwt-backend", :group_name "tendant", :version "0.1.3", :description "FIXME: write description", :created 1614451727050}
 {:jar_name "lib", :group_name "open-company", :version "0.17.33-alpha5a", :description "OpenCompany Common Library", :created 1614461869753}
-{:jar_name "gitcha", :group_name "gitcha", :version "0.1.0-SNAPSHOT", :description "Git blame for your unit tests!", :created 1614464625174}
 {:jar_name "lib", :group_name "open-company", :version "0.17.34-alpha7", :description "OpenCompany Common Library", :created 1614464887482}
 {:jar_name "clj-petitparser", :group_name "clj-petitparser", :version "0.1.0-SNAPSHOT", :description "Clojure port of Lukas Renggli's PetitParser", :created 1614465001481}
 {:jar_name "antq", :group_name "antq", :version "0.11.2", :description "Point out your outdated dependencies", :created 1614467776011}
@@ -254,3 +251,6 @@
 {:jar_name "ziggurat", :group_name "tech.gojek", :version "3.10.0", :description "A stream processing framework to build stateless applications on kafka", :created 1614926689651}
 {:jar_name "taiwan-id", :group_name "caesarhu", :version "0.1.1", :description nil, :created 1614927174406}
 {:jar_name "core", :group_name "ragtime", :version "0.8.1", :description "A database-independent migration library", :created 1614930095445}
+{:jar_name "gitcha", :group_name "gitcha", :version "0.1.0-SNAPSHOT", :description "Git blame for your unit tests!", :created 1614933866164}
+{:jar_name "jdbc", :group_name "ragtime", :version "0.8.1", :description "Ragtime migrations for JDBC", :created 1614933907264}
+{:jar_name "ragtime", :group_name "ragtime", :version "0.8.1", :description "A database-independent migration library", :created 1614933934203}
