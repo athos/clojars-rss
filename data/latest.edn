@@ -1,11 +1,3 @@
-{:jar_name "chui-ui", :group_name "lambdaisland", :version "1.0.173", :description "Browser UI for the Chui test runner", :created 1614340075167}
-{:jar_name "chui-remote", :group_name "lambdaisland", :version "1.0.173", :description "Funnel client for connecting test tooling to ClojureScript runtimes", :created 1614340086997}
-{:jar_name "chui-shadow", :group_name "lambdaisland", :version "1.0.173", :description "Chui-based test runner namespaces to be used with Shadow-cljs", :created 1614340098817}
-{:jar_name "chui", :group_name "lambdaisland", :version "1.0.173", :description "Modern ClojureScript test runner", :created 1614340110547}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.4-SNAPSHOT", :description "Small Clojure Interpreter", :created 1614344554209}
-{:jar_name "epsilon", :group_name "org.clojars.aratare", :version "v1.0.0", :description "Model-driven code generator", :created 1614347827414}
-{:jar_name "hiccup-components", :group_name "hiccup-components", :version "0.1.0-SNAPSHOT", :description "Hiccup components' primary goal is to allow hiccup to be defined as pure data while leveraging functions as a way to abstract components.", :created 1614348744644}
-{:jar_name "hiccup-components", :group_name "za.co.simply", :version "0.1.0-SNAPSHOT", :description "Hiccup components' primary goal is to allow hiccup to be defined as pure data while leveraging functions as a way to abstract components.", :created 1614348929732}
 {:jar_name "nrepl-proxy", :group_name "ivarref", :version "2021.02.26-alpha37", :description nil, :created 1614351215768}
 {:jar_name "nrepl-server-web-handler", :group_name "ivarref", :version "2021.02.26-alpha37", :description nil, :created 1614351242278}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210226-150259.b0235f73", :description nil, :created 1614351812791}
@@ -254,3 +246,11 @@
 {:jar_name "lib", :group_name "open-company", :version "0.17.34-alpha9", :description "OpenCompany Common Library", :created 1614949019352}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.21", :description nil, :created 1614950736263}
 {:jar_name "tentacles", :group_name "irresponsible", :version "0.6.8", :description "Clojure library for working with the Github v3 API", :created 1614955846538}
+{:jar_name "martian", :group_name "martian", :version "0.1.16-SNAPSHOT", :description "Client routing for Swagger APIs", :created 1614958189133}
+{:jar_name "martian-clj-http", :group_name "martian-clj-http", :version "0.1.16-SNAPSHOT", :description "clj-http implementation for martian", :created 1614958207063}
+{:jar_name "martian-cljs-http", :group_name "martian-cljs-http", :version "0.1.16-SNAPSHOT", :description "cljs-http implementation for martian", :created 1614958221633}
+{:jar_name "martian-clj-http-lite", :group_name "martian-clj-http-lite", :version "0.1.16-SNAPSHOT", :description "clj-http-lite implementation for martian", :created 1614958235913}
+{:jar_name "martian-re-frame", :group_name "martian-re-frame", :version "0.1.16-SNAPSHOT", :description "re-frame bindings for martian", :created 1614958254613}
+{:jar_name "martian-vcr", :group_name "martian-vcr", :version "0.1.16-SNAPSHOT", :description "Recording and playback for Martian", :created 1614958272532}
+{:jar_name "martian-httpkit", :group_name "martian-httpkit", :version "0.1.16-SNAPSHOT", :description "httpkit implementation for martian", :created 1614958289252}
+{:jar_name "martian-test", :group_name "martian-test", :version "0.1.16-SNAPSHOT", :description "Testing tools for martian", :created 1614958304522}
