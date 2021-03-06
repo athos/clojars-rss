@@ -1,4 +1,3 @@
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.01", :description "Clojure high performance data processing system", :created 1614442452364}
 {:jar_name "tech.ml", :group_name "techascent", :version "5.01", :description "Basic machine learning toolkit.  `tech.v3.ml` is the root\nnamespace and provides train/predict pathways based on datasets and\nan options map.  Please see the xgboost article for a quick runthough\nof how to use this library.", :created 1614445040541}
 {:jar_name "jwt-backend", :group_name "tendant", :version "0.1.3", :description "FIXME: write description", :created 1614451727050}
 {:jar_name "lib", :group_name "open-company", :version "0.17.33-alpha5a", :description "OpenCompany Common Library", :created 1614461869753}
@@ -51,7 +50,6 @@
 {:jar_name "tape", :group_name "cc.qbits", :version "0.3.4", :description "ChronicleQueue helpers", :created 1614586796719}
 {:jar_name "incognito", :group_name "io.replikativ", :version "0.2.7-SNAPSHOT", :description "Safe transport of unknown record types in distributed systems.", :created 1614591418854}
 {:jar_name "clj-ksql", :group_name "clj-ksql", :version "0.0.01-SNAPSHOT", :description nil, :created 1614591747360}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1614596952285}
 {:jar_name "girouette", :group_name "girouette", :version "0.0.2", :description nil, :created 1614599526858}
 {:jar_name "eql-graphql", :group_name "edn-query-language", :version "2021.03.01", :description "", :created 1614600945349}
 {:jar_name "processor", :group_name "girouette", :version "0.0.2", :description "", :created 1614601983596}
@@ -188,7 +186,6 @@
 {:jar_name "epsilon", :group_name "org.clojars.aratare", :version "v1.2.2", :description "Model-driven code generator", :created 1614846881804}
 {:jar_name "loop", :group_name "saberstack", :version "0.1.3", :description "Take control of your core.async loops!", :created 1614847348996}
 {:jar_name "taiwan-id", :group_name "caesarhu", :version "0.1.0", :description nil, :created 1614850036437}
-{:jar_name "babashka", :group_name "babashka", :version "0.2.13-SNAPSHOT", :description "babashka", :created 1614851875217}
 {:jar_name "lein-bom", :group_name "de.active-group", :version "0.2.1", :description "Generate a BOM file from a project.clj.", :created 1614852625229}
 {:jar_name "clj-camel", :group_name "takeoff", :version "1.4.0", :description "Clojure wrapper for Apache Camel", :created 1614853083954}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210304-105756.341d204a", :description nil, :created 1614855521239}
@@ -254,3 +251,6 @@
 {:jar_name "rate-limit", :group_name "io.staticweb", :version "0.2.0", :description nil, :created 1615006549377}
 {:jar_name "dmarced.dns", :group_name "dmarced.dns", :version "0.3.0", :description "nicer clojure interface to DNSJava", :created 1615010118709}
 {:jar_name "reagent-material-ui", :group_name "arttuka", :version "4.11.3-0", :description "Reagent wrapper library for Material UI v4", :created 1615024870841}
+{:jar_name "clj-util", :group_name "com.michaelgaare", :version "0.3.0", :description "personal clojure utils library", :created 1615025148068}
+{:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1615025511144}
+{:jar_name "babashka", :group_name "babashka", :version "0.2.13-SNAPSHOT", :description "babashka", :created 1615026379794}
