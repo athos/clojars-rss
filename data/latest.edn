@@ -1,5 +1,3 @@
-{:jar_name "tentacles", :group_name "irresponsible", :version "0.6.8", :description "Clojure library for working with the Github v3 API", :created 1614955846538}
-{:jar_name "martian", :group_name "martian", :version "0.1.16-SNAPSHOT", :description "Client routing for Swagger APIs", :created 1614958189133}
 {:jar_name "martian-clj-http", :group_name "martian-clj-http", :version "0.1.16-SNAPSHOT", :description "clj-http implementation for martian", :created 1614958207063}
 {:jar_name "martian-cljs-http", :group_name "martian-cljs-http", :version "0.1.16-SNAPSHOT", :description "cljs-http implementation for martian", :created 1614958221633}
 {:jar_name "martian-clj-http-lite", :group_name "martian-clj-http-lite", :version "0.1.16-SNAPSHOT", :description "clj-http-lite implementation for martian", :created 1614958235913}
@@ -198,7 +196,6 @@
 {:jar_name "rewrite-clj", :group_name "rewrite-clj", :version "1.0.572-alpha", :description "A library that reads and writes Clojure, ClojureScript and EDN from Clojure and ClojureScript in a whitespace and comment preserving way.", :created 1615412279619}
 {:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1615412656856}
 {:jar_name "keirin", :group_name "rachbowyer", :version "1.1.1", :description "Microbenchmarking library for Clojure", :created 1615414756959}
-{:jar_name "babashka", :group_name "babashka", :version "0.2.14-SNAPSHOT", :description "babashka", :created 1615415475383}
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.4.19", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1615416330306}
 {:jar_name "statsd", :group_name "circleci", :version "0.1.200", :description "Wrapper around clj-statsd", :created 1615418702546}
 {:jar_name "rewrite-clj", :group_name "rewrite-clj", :version "1.0.574-alpha", :description "A library that reads and writes Clojure, ClojureScript and EDN from Clojure and ClojureScript in a whitespace and comment preserving way.", :created 1615419775347}
@@ -207,7 +204,6 @@
 {:jar_name "protojure", :group_name "protojure", :version "1.5.13", :description "Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications", :created 1615428911742}
 {:jar_name "telegrambot-lib", :group_name "telegrambot-lib", :version "0.3.2", :description "A library for interacting with the Telegram Bot API.", :created 1615436638634}
 {:jar_name "clj-util", :group_name "com.michaelgaare", :version "0.3.1", :description "personal clojure utils library", :created 1615440920303}
-{:jar_name "mastodon-bot", :group_name "dda", :version "1.10.5-SNAPSHOT", :description "Bot to publish twitter, tumblr or rss posts to an mastodon account.", :created 1615448718509}
 {:jar_name "honeysql-postgres", :group_name "nilenso", :version "0.3.104", :description "PostgreSQL extension for honeysql", :created 1615450093435}
 {:jar_name "tracing", :group_name "day8.re-frame", :version "0.6.2", :description "A tool for inspecting code execution for re-frame applications", :created 1615451854118}
 {:jar_name "tracing-stubs", :group_name "day8.re-frame", :version "0.6.2", :description "Macros for tracing functions", :created 1615451861728}
@@ -254,3 +250,7 @@
 {:jar_name "backfill", :group_name "backfill", :version "0.1.13", :description nil, :created 1615517778896}
 {:jar_name "github.clj.alpha", :group_name "ajchemist", :version "2021.71.10711", :description nil, :created 1615517920495}
 {:jar_name "material-ui-reagent", :group_name "toyokumo", :version "0.1.0-SNAPSHOT", :description "A ClojureScript library for using Material-UI with Reagent on shadow-cljs", :created 1615538423205}
+{:jar_name "talltale", :group_name "talltale", :version "0.5.4", :description "A CLJ/CLJS generator lib for fake data", :created 1615541600089}
+{:jar_name "mastodon-bot", :group_name "dda", :version "1.10.5-SNAPSHOT", :description "Bot to publish twitter, tumblr or rss posts to an mastodon account.", :created 1615542700880}
+{:jar_name "babashka", :group_name "babashka", :version "0.2.14-SNAPSHOT", :description "babashka", :created 1615543274865}
+{:jar_name "confair", :group_name "com.magnars", :version "2021-03-12", :description nil, :created 1615543521213}
