@@ -209,8 +209,6 @@
 {:jar_name "matcha.alpha", :group_name "grafter", :version "0.1.12", :description "A SPARQL-like query engine and DSL for querying in\n  memory RDF models.", :created 1615479436558}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.29", :description "", :created 1615480286862}
 {:jar_name "libpython-clj", :group_name "clj-python", :version "2.00-beta-12", :description "", :created 1615480330302}
-{:jar_name "response", :group_name "ninja.platform", :version "0.1.1-SNAPSHOT", :description "A Clojure(Script) library for the unified responses.", :created 1615481006485}
-{:jar_name "schema", :group_name "ninja.platform", :version "0.0.1-SNAPSHOT", :description "A Clojure(Script) library for the data schemas.", :created 1615481019915}
 {:jar_name "test-doc-blocks", :group_name "lread", :version "1.0.92-alpha", :description "Generate Clojure tests from AsciiDoc and CommonMark doc code blocks", :created 1615483035499}
 {:jar_name "clj-puredata", :group_name "clj-puredata", :version "0.2.0", :description "Generate PureData patches.", :created 1615492113554}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.4.24", :description "A simple, fast and durable Datalog database", :created 1615492756539}
@@ -242,7 +240,6 @@
 {:jar_name "lib", :group_name "open-company", :version "0.17.35-alpha1", :description "OpenCompany Common Library", :created 1615548878588}
 {:jar_name "mastodon-bot", :group_name "dda", :version "1.10.5-SNAPSHOT", :description "Bot to publish twitter, tumblr or rss posts to an mastodon account.", :created 1615556334476}
 {:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1615556619634}
-{:jar_name "babashka", :group_name "babashka", :version "0.2.14-SNAPSHOT", :description "babashka", :created 1615557375357}
 {:jar_name "writer", :group_name "cirru", :version "0.1.13", :description nil, :created 1615558790776}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210312-153356.e4fa5a47", :description nil, :created 1615563273969}
 {:jar_name "cljsbuild", :group_name "cljsbuild", :version "2.0.0-SNAPSHOT", :description "ClojureScript Autobuilder", :created 1615563458187}
@@ -253,4 +250,7 @@
 {:jar_name "core", :group_name "yetibot", :version "20210312.173148.c77b178", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1615570345781}
 {:jar_name "zuko", :group_name "org.clojars.quoll", :version "0.4.6", :description "Threatgrid library for common graph database functionality", :created 1615571060816}
 {:jar_name "yetibot", :group_name "yetibot", :version "20210312.185846.cc71dde", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1615575540360}
-{:jar_name "javac", :group_name "ninja.platform", :version "0.0.1-SNAPSHOT", :description "A Clojure library for compiling Java source code.", :created 1615576885419}
+{:jar_name "response", :group_name "ninja.platform", :version "0.1.1-SNAPSHOT", :description "A Clojure(Script) library for the unified responses.", :created 1615577067868}
+{:jar_name "schema", :group_name "ninja.platform", :version "0.0.1-SNAPSHOT", :description "A Clojure(Script) library for the data schemas.", :created 1615577082857}
+{:jar_name "javac", :group_name "ninja.platform", :version "0.0.1-SNAPSHOT", :description "A Clojure library for compiling Java source code.", :created 1615577096657}
+{:jar_name "babashka", :group_name "babashka", :version "0.2.14-SNAPSHOT", :description "babashka", :created 1615578058860}
