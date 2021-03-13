@@ -1,4 +1,3 @@
-{:jar_name "clj-template", :group_name "rssysapp", :version "0.1.1", :description "Red Stars Systems application template.", :created 1615034611036}
 {:jar_name "closeable-map", :group_name "piotr-yuxuan", :version "0.4.0", :description "A Clojure map which implements java.io.Closeable", :created 1615038795751}
 {:jar_name "closeable-map", :group_name "piotr-yuxuan", :version "0.5.0", :description "A Clojure map which implements java.io.Closeable", :created 1615040095647}
 {:jar_name "sqlite-jni-graal-fix", :group_name "johan1a", :version "0.0.3-graalvm-21.0.0", :description "A fix for sqlite issue with jni missing classes in GraalVM native-image.", :created 1615040305365}
@@ -248,9 +247,10 @@
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.6", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1615634636654}
 {:jar_name "boot-reload", :group_name "adzerk", :version "0.6.1", :description "Boot task to automatically reload page resources in the browser.", :created 1615635997162}
 {:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1615644185702}
-{:jar_name "babashka", :group_name "babashka", :version "0.2.14-SNAPSHOT", :description "babashka", :created 1615644498140}
 {:jar_name "latte-kernel", :group_name "latte-kernel", :version "1.0b10-SNAPSHOT", :description "The (very) small kernel of the LaTTe proof assistant", :created 1615647423185}
 {:jar_name "latte", :group_name "latte", :version "1.0b10-SNAPSHOT", :description "LaTTe : a Laboratory for Type Theory Experiments", :created 1615647456015}
 {:jar_name "latte-sets", :group_name "latte-sets", :version "1.0b10-SNAPSHOT", :description "A formalization of (typed) Set theory in LaTTe.", :created 1615647515994}
 {:jar_name "latte-integers", :group_name "latte-integers", :version "0.13.0-SNAPSHOT", :description "A formalization of integers in LaTTe.", :created 1615647561314}
 {:jar_name "latte-prelude", :group_name "latte-prelude", :version "1.0b10-SNAPSHOT", :description "The core library for the LaTTe proof assistant.", :created 1615647615773}
+{:jar_name "clj-xml", :group_name "com.wallbrew", :version "1.2.0", :description "The missingg link between clj and xml", :created 1615650245661}
+{:jar_name "babashka", :group_name "babashka", :version "0.2.14-SNAPSHOT", :description "babashka", :created 1615650361450}
