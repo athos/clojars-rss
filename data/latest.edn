@@ -1,15 +1,3 @@
-{:jar_name "google-cloud-function-ring-adapter", :group_name "nl.epij", :version "0.1.0-alpha3", :description "A (Clojure) ring adapter for the Google Cloud Function Java Runtime on Google Cloud Platform", :created 1615050515939}
-{:jar_name "google-cloud-function-ring-adapter", :group_name "nl.epij", :version "0.1.0-alpha4", :description "A (Clojure) ring adapter for the Google Cloud Function Java Runtime on Google Cloud Platform", :created 1615053012888}
-{:jar_name "datascript", :group_name "datascript", :version "1.0.7", :description "An implementation of Datomic in-memory database and Datalog query engine in ClojureScript", :created 1615054929043}
-{:jar_name "google-cloud-function-ring-adapter", :group_name "nl.epij", :version "0.1.0-alpha5", :description "A (Clojure) ring adapter for the Google Cloud Function Java Runtime on Google Cloud Platform", :created 1615057804910}
-{:jar_name "henderson", :group_name "rachbowyer", :version "0.1.0", :description "Henderson Picture Language for Clojure", :created 1615059557556}
-{:jar_name "salesforce", :group_name "com.owainlewis", :version "1.0.3-SNAPSHOT", :description "A Clojure library for accessing the Salesforce API", :created 1615062421345}
-{:jar_name "recife", :group_name "pfeodrippe", :version "0.0.2-SNAPSHOT", :description "", :created 1615064205848}
-{:jar_name "next.jdbc", :group_name "seancorfield", :version "1.1.643", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1615072837049}
-{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.1.643", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1615072857818}
-{:jar_name "client-java", :group_name "alda", :version "0.7.3", :description "A Java command-line client for Alda", :created 1615082772407}
-{:jar_name "question-mark", :group_name "pbaille", :version "0.1.1", :description nil, :created 1615113167664}
-{:jar_name "re-share", :group_name "re-share", :version "0.17.1", :description "Common utilities for re-ops", :created 1615113576891}
 {:jar_name "question-mark", :group_name "pbaille", :version "0.1.2", :description nil, :created 1615117086121}
 {:jar_name "super-rss", :group_name "com.github.julienba", :version "0.1.0-SNAPSHOT", :description "A library to read RSS feed", :created 1615117621176}
 {:jar_name "lein-template", :group_name "re-frame", :version "1.4.2", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1615122291517}
@@ -254,3 +242,15 @@
 {:jar_name "honeysql", :group_name "seancorfield", :version "2.0.0-alpha3", :description "SQL as Clojure data structures.", :created 1615679894435}
 {:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.0.0-alpha3", :description "SQL as Clojure data structures.", :created 1615679914245}
 {:jar_name "test-doc-blocks", :group_name "lread", :version "1.0.114-alpha", :description "Generate Clojure tests from AsciiDoc and CommonMark doc code blocks", :created 1615684024271}
+{:jar_name "pom", :group_name "typed", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure", :created 1615691898404}
+{:jar_name "analyzer", :group_name "typed.cljc", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1615691909504}
+{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1615691917984}
+{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1615691927224}
+{:jar_name "runtime", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1615691933574}
+{:jar_name "spec", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Type-like specs.", :created 1615691940354}
+{:jar_name "clojure", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1615691946534}
+{:jar_name "lang", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1615691952944}
+{:jar_name "checker", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1615691959824}
+{:jar_name "checker", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1615691966104}
+{:jar_name "annotator", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1615691973114}
+{:jar_name "core.async", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1615691979583}
