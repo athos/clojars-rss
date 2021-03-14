@@ -1,5 +1,3 @@
-{:jar_name "lein-template", :group_name "re-frame", :version "1.4.2", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1615122291517}
-{:jar_name "re-chain", :group_name "re-chain", :version "1.4-SNAPSHOT", :description "Easy chaining of re-frame events", :created 1615127264286}
 {:jar_name "tbf", :group_name "szew", :version "0.1.0", :description "DRY-er data.", :created 1615130181232}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.15.0", :description "Core utils library for Clojure/Script", :created 1615133473138}
 {:jar_name "monnit", :group_name "com.deepbeginnings", :version "0.1.0-alpha6", :description "", :created 1615134107419}
@@ -227,9 +225,6 @@
 {:jar_name "parallel-reload", :group_name "threatgrid", :version "0.3.0", :description "parallel-reload", :created 1615665322476}
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.7", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1615665475695}
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.8", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1615671359566}
-{:jar_name "response", :group_name "ninja.platform", :version "0.1.1-SNAPSHOT", :description "A Clojure(Script) library for the unified responses.", :created 1615673469369}
-{:jar_name "schema", :group_name "ninja.platform", :version "0.0.1-SNAPSHOT", :description "A Clojure(Script) library for the data schemas.", :created 1615673482999}
-{:jar_name "javac", :group_name "ninja.platform", :version "0.0.1-SNAPSHOT", :description "A Clojure library for compiling Java source code.", :created 1615673496908}
 {:jar_name "antq", :group_name "com.github.liquidz", :version "0.12.0", :description "Point out your outdated dependencies", :created 1615674044464}
 {:jar_name "antq", :group_name "antq", :version "0.12.0", :description "Point out your outdated dependencies", :created 1615674126303}
 {:jar_name "flume-nodes-clj", :group_name "org.ezand", :version "0.0.1", :description "Flume Nodes for Clojure", :created 1615674158193}
@@ -254,3 +249,8 @@
 {:jar_name "core.async", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1615691979583}
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.4.20", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1615699033664}
 {:jar_name "api-common-server", :group_name "galdolber", :version "0.1.33", :description "", :created 1615702255296}
+{:jar_name "response", :group_name "ninja.platform", :version "0.1.1-SNAPSHOT", :description "A Clojure(Script) library for the unified responses.", :created 1615717232408}
+{:jar_name "schema", :group_name "ninja.platform", :version "0.0.1-SNAPSHOT", :description "A Clojure(Script) library for the data schemas.", :created 1615717245278}
+{:jar_name "javac", :group_name "ninja.platform", :version "0.0.1-SNAPSHOT", :description "A Clojure library for compiling Java source code.", :created 1615717258707}
+{:jar_name "wedge", :group_name "io.dominic", :version "0.12.0", :description nil, :created 1615719537758}
+{:jar_name "clj-template", :group_name "io.dominic.juxt-wedge", :version "0.2.0", :description nil, :created 1615719662827}
