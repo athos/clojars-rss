@@ -4,13 +4,37 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 15 Mar 2021 16:12:33 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 15 Mar 2021 17:24:43 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/spork/versions/0.2.1.4-SNAPSHOT</guid>
+    <title>[spork &quot;0.2.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/spork/versions/0.2.1.4-SNAPSHOT</link>
+    <description>A set of libraries derived from Spoon&#39;s Operations Research Kit.
+   Libraries are modular and will be supported as stand-alone dependencies.
+   This project is an uberjar that includes all of the modular bits in a single
+   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,
+   focusing on a functional API, a default towards purity and persistent data
+   structures, with alternative mutable/imperative counterparts.  The vast
+   majority of spork is written in Clojure, with an intentional nod toward
+   independence from external libraries, particularly Java libs.  Consequently,
+   spork should provide a lightweight, clojure-based platform for the topics
+   covered by the libraries.  I am currently working to eliminate legacy
+   java dependencies where possible.</description>
+    <pubDate>Mon, 15 Mar 2021 17:20:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/backfill/versions/0.1.18</guid>
+    <title>[backfill &quot;0.1.18&quot;]</title>
+    <link>https://clojars.org/backfill/versions/0.1.18</link>
+    <description></description>
+    <pubDate>Mon, 15 Mar 2021 16:48:56 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/babashka/versions/0.2.14-SNAPSHOT</guid>
     <title>[babashka &quot;0.2.14-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/babashka/versions/0.2.14-SNAPSHOT</link>
     <description>babashka</description>
-    <pubDate>Mon, 15 Mar 2021 16:06:37 +0000</pubDate>
+    <pubDate>Mon, 15 Mar 2021 16:29:52 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/clj-ksql/versions/0.0.01-SNAPSHOT</guid>
@@ -1699,23 +1723,6 @@
     <pubDate>Mon, 8 Mar 2021 14:18:32 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/spork/versions/0.2.1.4-SNAPSHOT</guid>
-    <title>[spork &quot;0.2.1.4-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/spork/versions/0.2.1.4-SNAPSHOT</link>
-    <description>A set of libraries derived from Spoon&#39;s Operations Research Kit.
-   Libraries are modular and will be supported as stand-alone dependencies.
-   This project is an uberjar that includes all of the modular bits in a single
-   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,
-   focusing on a functional API, a default towards purity and persistent data
-   structures, with alternative mutable/imperative counterparts.  The vast
-   majority of spork is written in Clojure, with an intentional nod toward
-   independence from external libraries, particularly Java libs.  Consequently,
-   spork should provide a lightweight, clojure-based platform for the topics
-   covered by the libraries.  I am currently working to eliminate legacy
-   java dependencies where possible.</description>
-    <pubDate>Mon, 8 Mar 2021 14:12:20 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/clj-python/libpython-clj/versions/2.00-beta-6</guid>
     <title>[clj-python/libpython-clj &quot;2.00-beta-6&quot;]</title>
     <link>https://clojars.org/clj-python/libpython-clj/versions/2.00-beta-6</link>
@@ -1812,13 +1819,6 @@
     <link>https://clojars.org/martian/versions/0.1.16</link>
     <description>Client routing for Swagger APIs</description>
     <pubDate>Mon, 8 Mar 2021 11:59:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.magnars/confair/versions/2021-03-08</guid>
-    <title>[com.magnars/confair &quot;2021-03-08&quot;]</title>
-    <link>https://clojars.org/com.magnars/confair/versions/2021-03-08</link>
-    <description></description>
-    <pubDate>Mon, 8 Mar 2021 10:40:06 +0000</pubDate>
   </item>
   </channel>
 </rss>
