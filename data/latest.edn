@@ -1,9 +1,3 @@
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.24", :description "", :created 1615206940017}
-{:jar_name "graph-log", :group_name "ont-app", :version "0.1.2", :description "An graph-based logging system for debugging", :created 1615209204675}
-{:jar_name "re-frisk-remote", :group_name "re-frisk-remote", :version "1.3.12", :description "Take full control of re-frame app", :created 1615209911399}
-{:jar_name "re-frisk", :group_name "re-frisk", :version "1.3.12", :description "Take full control of re-frame app", :created 1615209936239}
-{:jar_name "libpython-clj", :group_name "clj-python", :version "2.00-beta-6", :description "libpython bindings for Clojure", :created 1615211894422}
-{:jar_name "confair", :group_name "com.magnars", :version "2021-03-08b", :description nil, :created 1615213112632}
 {:jar_name "navi", :group_name "org.clojars.lispyclouds", :version "0.0.1", :description "A tiny library converting OpenAPI route definitions to Reitit routes.", :created 1615213315980}
 {:jar_name "jackdaw", :group_name "fundingcircle", :version "0.7.8", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1615213439249}
 {:jar_name "lein-bom", :group_name "de.active-group", :version "0.2.2", :description "Generate a BOM file from a project.clj.", :created 1615215367713}
@@ -183,7 +177,6 @@
 {:jar_name "latte-integers", :group_name "latte-integers", :version "0.13.0-SNAPSHOT", :description "A formalization of integers in LaTTe.", :created 1615647561314}
 {:jar_name "latte-prelude", :group_name "latte-prelude", :version "1.0b10-SNAPSHOT", :description "The core library for the LaTTe proof assistant.", :created 1615647615773}
 {:jar_name "clj-xml", :group_name "com.wallbrew", :version "1.2.0", :description "The missingg link between clj and xml", :created 1615650245661}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1615655561947}
 {:jar_name "test-doc-blocks", :group_name "lread", :version "1.0.107-alpha", :description "Generate Clojure tests from AsciiDoc and CommonMark doc code blocks", :created 1615656374600}
 {:jar_name "parallel-reload", :group_name "threatgrid", :version "0.3.0", :description "parallel-reload", :created 1615665322476}
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.7", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1615665475695}
@@ -239,7 +232,6 @@
 {:jar_name "clj-haikunator", :group_name "io.staticweb", :version "1.0.0", :description nil, :created 1615822155180}
 {:jar_name "cljblpapiwrapper", :group_name "cljblpapiwrapper", :version "0.3.2", :description "Simple Clojure wrapper around the Bloomberg Java API", :created 1615822437279}
 {:jar_name "clj-ksql", :group_name "clj-ksql", :version "0.0.01-SNAPSHOT", :description nil, :created 1615822868467}
-{:jar_name "babashka", :group_name "babashka", :version "0.2.14-SNAPSHOT", :description "babashka", :created 1615825792349}
 {:jar_name "backfill", :group_name "backfill", :version "0.1.18", :description nil, :created 1615826936408}
 {:jar_name "spork", :group_name "spork", :version "0.2.1.4-SNAPSHOT", :description "A set of libraries derived from Spoon's Operations Research Kit.\n   Libraries are modular and will be supported as stand-alone dependencies.\n   This project is an uberjar that includes all of the modular bits in a single\n   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,\n   focusing on a functional API, a default towards purity and persistent data\n   structures, with alternative mutable/imperative counterparts.  The vast\n   majority of spork is written in Clojure, with an intentional nod toward\n   independence from external libraries, particularly Java libs.  Consequently,\n   spork should provide a lightweight, clojure-based platform for the topics\n   covered by the libraries.  I am currently working to eliminate legacy\n   java dependencies where possible.", :created 1615828854469}
 {:jar_name "backfill", :group_name "backfill", :version "0.1.19", :description nil, :created 1615830715370}
@@ -250,7 +242,15 @@
 {:jar_name "lein-essthree", :group_name "org.clojars.reutsharabani", :version "0.0.1", :description "Leiningen plugin for easy S3 project deployment and dependency resolution", :created 1615834096924}
 {:jar_name "response", :group_name "ninja.platform", :version "0.1.1-SNAPSHOT", :description "A Clojure(Script) library for the unified responses.", :created 1615834515002}
 {:jar_name "schema", :group_name "ninja.platform", :version "0.0.1-SNAPSHOT", :description "A Clojure(Script) library for the data schemas.", :created 1615834528552}
-{:jar_name "javac", :group_name "ninja.platform", :version "0.0.1-SNAPSHOT", :description "A Clojure library for compiling Java source code.", :created 1615834541892}
 {:jar_name "lein-essthree", :group_name "reutsharabani", :version "0.0.1", :description "Leiningen plugin for easy S3 project deployment and dependency resolution", :created 1615835322668}
 {:jar_name "backfill", :group_name "backfill", :version "0.1.23", :description nil, :created 1615837890937}
 {:jar_name "core", :group_name "yetibot", :version "20210315.195946.9f6f7b6", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1615838422824}
+{:jar_name "vase.elasticsearch", :group_name "com.nytimes", :version "0.0.2", :description nil, :created 1615841023552}
+{:jar_name "konserve-jdbc", :group_name "alekcz", :version "0.1.0-SNAPSHOT", :description "A generic JDBC backend for konserve.", :created 1615841174451}
+{:jar_name "javac", :group_name "ninja.platform", :version "0.0.1-SNAPSHOT", :description "A Clojure library for compiling Java source code.", :created 1615841457010}
+{:jar_name "clj-template", :group_name "clj-py-r-template", :version "1.1.2", :description "Template to quickly create clojure data sciene projects with  R + python", :created 1615842582365}
+{:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1615842686534}
+{:jar_name "neo4clj", :group_name "fullspectrum", :version "1.0.0-ALPHA4", :description "Clojure client for Neo4j", :created 1615842918863}
+{:jar_name "yetibot", :group_name "yetibot", :version "20210315.213630.f6e22e8", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1615844206317}
+{:jar_name "cljdub-dsp", :group_name "dragoon", :version "1.4.1", :description "Sound processing library that allows usage of pydub library's functionality in Clojure as well as provides interface for interaction between pydub and TarsosDSP libraries", :created 1615844588365}
+{:jar_name "babashka", :group_name "babashka", :version "0.2.14-SNAPSHOT", :description "babashka", :created 1615845360502}
