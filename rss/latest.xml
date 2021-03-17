@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 17 Mar 2021 21:01:31 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 17 Mar 2021 22:02:01 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/ninja.platform/schema/versions/0.0.1-SNAPSHOT</guid>
+    <title>[ninja.platform/schema &quot;0.0.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/ninja.platform/schema/versions/0.0.1-SNAPSHOT</link>
+    <description>A Clojure(Script) library for the data schemas.</description>
+    <pubDate>Wed, 17 Mar 2021 21:52:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ninja.platform/fsm/versions/0.0.1-SNAPSHOT</guid>
+    <title>[ninja.platform/fsm &quot;0.0.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/ninja.platform/fsm/versions/0.0.1-SNAPSHOT</link>
+    <description>A Clojure(Script) library for the finite state machines.</description>
+    <pubDate>Wed, 17 Mar 2021 21:52:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ninja.platform/javac/versions/0.0.2-SNAPSHOT</guid>
+    <title>[ninja.platform/javac &quot;0.0.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/ninja.platform/javac/versions/0.0.2-SNAPSHOT</link>
+    <description>A Clojure library for compiling Java source code.</description>
+    <pubDate>Wed, 17 Mar 2021 21:52:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ninja.platform/response/versions/0.1.1-SNAPSHOT</guid>
+    <title>[ninja.platform/response &quot;0.1.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/ninja.platform/response/versions/0.1.1-SNAPSHOT</link>
+    <description>A Clojure(Script) library for the unified responses.</description>
+    <pubDate>Wed, 17 Mar 2021 21:52:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/pez/taplet/versions/0.1.1</guid>
+    <title>[pez/taplet &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/pez/taplet/versions/0.1.1</link>
+    <description>A Clojure/ClojureScript macro that works like `let`, and also will tap the binding vector.</description>
+    <pubDate>Wed, 17 Mar 2021 21:29:05 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/cleancss/versions/1.0.0</guid>
     <title>[cleancss &quot;1.0.0&quot;]</title>
@@ -646,27 +681,6 @@
     <link>https://clojars.org/io.randomseed/bankster/versions/1.0.1</link>
     <description>Currencies and money processing in Clojure</description>
     <pubDate>Mon, 15 Mar 2021 23:12:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ninja.platform/schema/versions/0.0.1-SNAPSHOT</guid>
-    <title>[ninja.platform/schema &quot;0.0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/ninja.platform/schema/versions/0.0.1-SNAPSHOT</link>
-    <description>A Clojure(Script) library for the data schemas.</description>
-    <pubDate>Mon, 15 Mar 2021 22:48:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ninja.platform/javac/versions/0.0.2-SNAPSHOT</guid>
-    <title>[ninja.platform/javac &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/ninja.platform/javac/versions/0.0.2-SNAPSHOT</link>
-    <description>A Clojure library for compiling Java source code.</description>
-    <pubDate>Mon, 15 Mar 2021 22:47:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ninja.platform/response/versions/0.1.1-SNAPSHOT</guid>
-    <title>[ninja.platform/response &quot;0.1.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/ninja.platform/response/versions/0.1.1-SNAPSHOT</link>
-    <description>A Clojure(Script) library for the unified responses.</description>
-    <pubDate>Mon, 15 Mar 2021 22:47:31 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.verybigthings/penkala/versions/0.0.4</guid>
@@ -1799,20 +1813,6 @@
     <link>https://clojars.org/com.fulcrologic/fulcro/versions/3.4.19</link>
     <description>A library for building full-stack SPA webapps in Clojure and Clojurescript</description>
     <pubDate>Wed, 10 Mar 2021 22:45:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/rachbowyer/keirin/versions/1.1.1</guid>
-    <title>[rachbowyer/keirin &quot;1.1.1&quot;]</title>
-    <link>https://clojars.org/rachbowyer/keirin/versions/1.1.1</link>
-    <description>Microbenchmarking library for Clojure</description>
-    <pubDate>Wed, 10 Mar 2021 22:19:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/rewrite-clj/versions/1.0.572-alpha</guid>
-    <title>[rewrite-clj &quot;1.0.572-alpha&quot;]</title>
-    <link>https://clojars.org/rewrite-clj/versions/1.0.572-alpha</link>
-    <description>A library that reads and writes Clojure, ClojureScript and EDN from Clojure and ClojureScript in a whitespace and comment preserving way.</description>
-    <pubDate>Wed, 10 Mar 2021 21:37:59 +0000</pubDate>
   </item>
   </channel>
 </rss>
