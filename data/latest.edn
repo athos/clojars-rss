@@ -1,8 +1,3 @@
-{:jar_name "latte-prelude", :group_name "latte-prelude", :version "1.0b10-SNAPSHOT", :description "The core library for the LaTTe proof assistant.", :created 1615647615773}
-{:jar_name "clj-xml", :group_name "com.wallbrew", :version "1.2.0", :description "The missingg link between clj and xml", :created 1615650245661}
-{:jar_name "test-doc-blocks", :group_name "lread", :version "1.0.107-alpha", :description "Generate Clojure tests from AsciiDoc and CommonMark doc code blocks", :created 1615656374600}
-{:jar_name "parallel-reload", :group_name "threatgrid", :version "0.3.0", :description "parallel-reload", :created 1615665322476}
-{:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.7", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1615665475695}
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.8", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1615671359566}
 {:jar_name "antq", :group_name "com.github.liquidz", :version "0.12.0", :description "Point out your outdated dependencies", :created 1615674044464}
 {:jar_name "antq", :group_name "antq", :version "0.12.0", :description "Point out your outdated dependencies", :created 1615674126303}
@@ -254,3 +249,8 @@
 {:jar_name "babashka", :group_name "babashka", :version "0.3.1-SNAPSHOT", :description "babashka", :created 1616254469609}
 {:jar_name "spade", :group_name "net.dhleong", :version "1.1.0", :description "A nice tool to use in the Garden", :created 1616255746813}
 {:jar_name "spade", :group_name "net.dhleong", :version "1.2.0-SNAPSHOT", :description "A nice tool to use in the Garden", :created 1616256215353}
+{:jar_name "ring-core", :group_name "ring", :version "1.9.2", :description "Ring core libraries.", :created 1616261160477}
+{:jar_name "ring-devel", :group_name "ring", :version "1.9.2", :description "Ring development and debugging libraries.", :created 1616261312516}
+{:jar_name "ring-servlet", :group_name "ring", :version "1.9.2", :description "Ring servlet utilities.", :created 1616261400346}
+{:jar_name "ring-jetty-adapter", :group_name "ring", :version "1.9.2", :description "Ring Jetty adapter.", :created 1616261442745}
+{:jar_name "ring", :group_name "ring", :version "1.9.2", :description "A Clojure web applications library.", :created 1616261472955}
