@@ -1,5 +1,3 @@
-{:jar_name "latte", :group_name "latte", :version "1.0b10-SNAPSHOT", :description "LaTTe : a Laboratory for Type Theory Experiments", :created 1615647456015}
-{:jar_name "latte-sets", :group_name "latte-sets", :version "1.0b10-SNAPSHOT", :description "A formalization of (typed) Set theory in LaTTe.", :created 1615647515994}
 {:jar_name "latte-integers", :group_name "latte-integers", :version "0.13.0-SNAPSHOT", :description "A formalization of integers in LaTTe.", :created 1615647561314}
 {:jar_name "latte-prelude", :group_name "latte-prelude", :version "1.0b10-SNAPSHOT", :description "The core library for the LaTTe proof assistant.", :created 1615647615773}
 {:jar_name "clj-xml", :group_name "com.wallbrew", :version "1.2.0", :description "The missingg link between clj and xml", :created 1615650245661}
@@ -207,7 +205,6 @@
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.03.04-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1616093738701}
 {:jar_name "state-flow", :group_name "nubank", :version "5.11.3", :description "Integration testing with composable flows", :created 1616096202199}
 {:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1616098238925}
-{:jar_name "babashka", :group_name "babashka", :version "0.3.1-SNAPSHOT", :description "babashka", :created 1616098559927}
 {:jar_name "cljdub-dsp", :group_name "dragoon", :version "1.4.2", :description "Sound processing library that allows usage of pydub library's functionality in Clojure as well as provides interface for interaction between pydub and TarsosDSP libraries", :created 1616099611448}
 {:jar_name "repl-tooling", :group_name "repl-tooling", :version "0.5.8-SNAPSHOT", :description "", :created 1616102261582}
 {:jar_name "antq", :group_name "com.github.liquidz", :version "0.12.2", :description "Point out your outdated dependencies", :created 1616102603260}
@@ -254,3 +251,6 @@
 {:jar_name "mulog-mbean-sampler", :group_name "com.brunobonacci", :version "0.7.0-SNAPSHOT", :description "A MBean sampler for μ/log.", :created 1616249462773}
 {:jar_name "rewrite-clj", :group_name "rewrite-clj", :version "1.0.594-alpha", :description "A library that reads and writes Clojure, ClojureScript and EDN from Clojure and ClojureScript in a whitespace and comment preserving way.", :created 1616250785356}
 {:jar_name "dtype-next", :group_name "cnuernber", :version "6.21", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1616251311904}
+{:jar_name "cljc.java-time", :group_name "cljc.java-time", :version "0.1.16", :description nil, :created 1616254030121}
+{:jar_name "babashka", :group_name "babashka", :version "0.3.1-SNAPSHOT", :description "babashka", :created 1616254469609}
+{:jar_name "spade", :group_name "net.dhleong", :version "1.1.0", :description "A nice tool to use in the Garden", :created 1616255746813}
