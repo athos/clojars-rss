@@ -1,6 +1,3 @@
-{:jar_name "clojure", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1615691946534}
-{:jar_name "lang", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1615691952944}
-{:jar_name "checker", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1615691959824}
 {:jar_name "checker", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1615691966104}
 {:jar_name "annotator", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1615691973114}
 {:jar_name "core.async", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1615691979583}
@@ -253,4 +250,7 @@
 {:jar_name "logger", :group_name "ndevreeze", :version "0.2.0", :description "Small slf4j/log4j logging wrapper", :created 1616324469797}
 {:jar_name "reagent-material-ui-js", :group_name "arttuka", :version "4.11.3-1", :description "Packaged Javascript files for reagent-material-ui", :created 1616326288879}
 {:jar_name "reagent-material-ui", :group_name "arttuka", :version "4.11.3-1", :description "Reagent wrapper library for Material UI v4", :created 1616326301049}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.03.04-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1616328573809}
+{:jar_name "github.clj.alpha", :group_name "ajchemist", :version "2021.80.46410", :description nil, :created 1616331219267}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.03.04-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1616331419836}
+{:jar_name "telegram.clj", :group_name "ajchemist", :version "2021.80.46708", :description nil, :created 1616331516826}
+{:jar_name "cmdline", :group_name "ndevreeze", :version "0.1.2", :description "Command line and script functions", :created 1616331608845}
