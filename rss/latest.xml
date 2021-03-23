@@ -4,7 +4,105 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 23 Mar 2021 10:06:28 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Mar 2021 11:06:24 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/takeoff/clj-camel/versions/1.5.4</guid>
+    <title>[takeoff/clj-camel &quot;1.5.4&quot;]</title>
+    <link>https://clojars.org/takeoff/clj-camel/versions/1.5.4</link>
+    <description>Clojure wrapper for Apache Camel</description>
+    <pubDate>Tue, 23 Mar 2021 11:00:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.7.1</guid>
+    <title>[com.brunobonacci/mulog-prometheus &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.7.1</link>
+    <description>A publisher for μ/log to Prometheus.</description>
+    <pubDate>Tue, 23 Mar 2021 10:52:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.7.1</guid>
+    <title>[com.brunobonacci/mulog-zipkin &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.7.1</link>
+    <description>A publisher for μ/trace to OpenZipkin.</description>
+    <pubDate>Tue, 23 Mar 2021 10:52:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.7.1</guid>
+    <title>[com.brunobonacci/mulog-slack &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.7.1</link>
+    <description>A publisher for μ/log to a Slack incoming webhook.</description>
+    <pubDate>Tue, 23 Mar 2021 10:52:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.7.1</guid>
+    <title>[com.brunobonacci/mulog-cloudwatch &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.7.1</link>
+    <description>A publisher for μ/log to Cloudwatch.</description>
+    <pubDate>Tue, 23 Mar 2021 10:52:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.7.1</guid>
+    <title>[com.brunobonacci/mulog-kinesis &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.7.1</link>
+    <description>A publisher for μ/log to Kinesis.</description>
+    <pubDate>Tue, 23 Mar 2021 10:51:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.7.1</guid>
+    <title>[com.brunobonacci/mulog-kafka &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.7.1</link>
+    <description>A publisher for μ/log to Kafka.</description>
+    <pubDate>Tue, 23 Mar 2021 10:51:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-adv-console/versions/0.7.1</guid>
+    <title>[com.brunobonacci/mulog-adv-console &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-adv-console/versions/0.7.1</link>
+    <description>A publisher for μ/log to Console and Terminal.</description>
+    <pubDate>Tue, 23 Mar 2021 10:51:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-mbean-sampler/versions/0.7.1</guid>
+    <title>[com.brunobonacci/mulog-mbean-sampler &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-mbean-sampler/versions/0.7.1</link>
+    <description>A MBean sampler for μ/log.</description>
+    <pubDate>Tue, 23 Mar 2021 10:51:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.7.1</guid>
+    <title>[com.brunobonacci/mulog-filesystem-metrics &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.7.1</link>
+    <description>A filesystem metrics sampler for μ/log.</description>
+    <pubDate>Tue, 23 Mar 2021 10:50:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.7.1</guid>
+    <title>[com.brunobonacci/mulog-jvm-metrics &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.7.1</link>
+    <description>A JVM metrics sampler for μ/log.</description>
+    <pubDate>Tue, 23 Mar 2021 10:50:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.7.1</guid>
+    <title>[com.brunobonacci/mulog-elasticsearch &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.7.1</link>
+    <description>A publisher for μ/log to Elasticsearch.</description>
+    <pubDate>Tue, 23 Mar 2021 10:50:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-json/versions/0.7.1</guid>
+    <title>[com.brunobonacci/mulog-json &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-json/versions/0.7.1</link>
+    <description>μ/log json handling</description>
+    <pubDate>Tue, 23 Mar 2021 10:50:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog/versions/0.7.1</guid>
+    <title>[com.brunobonacci/mulog &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog/versions/0.7.1</link>
+    <description>μ/log is a micro-logging library that logs events and data, not words!</description>
+    <pubDate>Tue, 23 Mar 2021 10:49:55 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/de.active-group/active-logger/versions/0.2.0</guid>
     <title>[de.active-group/active-logger &quot;0.2.0&quot;]</title>
@@ -1712,104 +1810,6 @@
     <link>https://clojars.org/cljsjs/pixi-legacy/versions/6.0.0-0</link>
     <description>2D webGL renderer with canvas fallback (Legacy supports canvas renderer)</description>
     <pubDate>Tue, 16 Mar 2021 15:08:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cljsjs/pixi/versions/6.0.0-0</guid>
-    <title>[cljsjs/pixi &quot;6.0.0-0&quot;]</title>
-    <link>https://clojars.org/cljsjs/pixi/versions/6.0.0-0</link>
-    <description>2D webGL renderer with canvas fallback</description>
-    <pubDate>Tue, 16 Mar 2021 15:07:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cljsjs/pixi/versions/5.3.8-0</guid>
-    <title>[cljsjs/pixi &quot;5.3.8-0&quot;]</title>
-    <link>https://clojars.org/cljsjs/pixi/versions/5.3.8-0</link>
-    <description>2D webGL renderer with canvas fallback</description>
-    <pubDate>Tue, 16 Mar 2021 15:03:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cljsjs/pixi-legacy/versions/5.3.8-0</guid>
-    <title>[cljsjs/pixi-legacy &quot;5.3.8-0&quot;]</title>
-    <link>https://clojars.org/cljsjs/pixi-legacy/versions/5.3.8-0</link>
-    <description>2D webGL renderer with canvas fallback (Legacy supports canvas renderer)</description>
-    <pubDate>Tue, 16 Mar 2021 15:02:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/duct/module.web/versions/0.7.2</guid>
-    <title>[duct/module.web &quot;0.7.2&quot;]</title>
-    <link>https://clojars.org/duct/module.web/versions/0.7.2</link>
-    <description>Duct module for running web applications</description>
-    <pubDate>Tue, 16 Mar 2021 14:59:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cljsjs/react-toastify/versions/7.0.3-1</guid>
-    <title>[cljsjs/react-toastify &quot;7.0.3-1&quot;]</title>
-    <link>https://clojars.org/cljsjs/react-toastify/versions/7.0.3-1</link>
-    <description>React notification made easy.</description>
-    <pubDate>Tue, 16 Mar 2021 14:51:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cljsjs/re-resizable/versions/6.5.0-1</guid>
-    <title>[cljsjs/re-resizable &quot;6.5.0-1&quot;]</title>
-    <link>https://clojars.org/cljsjs/re-resizable/versions/6.5.0-1</link>
-    <description>A resizable component for React.</description>
-    <pubDate>Tue, 16 Mar 2021 14:50:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cljsjs/rc-slider/versions/9.7.1-1</guid>
-    <title>[cljsjs/rc-slider &quot;9.7.1-1&quot;]</title>
-    <link>https://clojars.org/cljsjs/rc-slider/versions/9.7.1-1</link>
-    <description>Slider ui component for React</description>
-    <pubDate>Tue, 16 Mar 2021 14:49:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.aratare/epsilon/versions/v1.3.1</guid>
-    <title>[org.clojars.aratare/epsilon &quot;v1.3.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.aratare/epsilon/versions/v1.3.1</link>
-    <description>Model-driven code generator</description>
-    <pubDate>Tue, 16 Mar 2021 14:12:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/no.nsd/rewriting-history/versions/0.1.270</guid>
-    <title>[no.nsd/rewriting-history &quot;0.1.270&quot;]</title>
-    <link>https://clojars.org/no.nsd/rewriting-history/versions/0.1.270</link>
-    <description></description>
-    <pubDate>Tue, 16 Mar 2021 12:32:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ez-wire/versions/0.5.0-beta2</guid>
-    <title>[ez-wire &quot;0.5.0-beta2&quot;]</title>
-    <link>https://clojars.org/ez-wire/versions/0.5.0-beta2</link>
-    <description>Helper library for reagent+re-frame</description>
-    <pubDate>Tue, 16 Mar 2021 11:22:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/no.nsd/rewriting-history/versions/0.1.268</guid>
-    <title>[no.nsd/rewriting-history &quot;0.1.268&quot;]</title>
-    <link>https://clojars.org/no.nsd/rewriting-history/versions/0.1.268</link>
-    <description></description>
-    <pubDate>Tue, 16 Mar 2021 10:56:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.magnars/confair/versions/2021-03-16</guid>
-    <title>[com.magnars/confair &quot;2021-03-16&quot;]</title>
-    <link>https://clojars.org/com.magnars/confair/versions/2021-03-16</link>
-    <description></description>
-    <pubDate>Tue, 16 Mar 2021 10:16:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/no.nsd/rewriting-history/versions/0.1.264</guid>
-    <title>[no.nsd/rewriting-history &quot;0.1.264&quot;]</title>
-    <link>https://clojars.org/no.nsd/rewriting-history/versions/0.1.264</link>
-    <description></description>
-    <pubDate>Tue, 16 Mar 2021 09:45:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20210316-093427.64836a65</guid>
-    <title>[org.akvo.flow/akvo-flow &quot;20210316-093427.64836a65&quot;]</title>
-    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20210316-093427.64836a65</link>
-    <description></description>
-    <pubDate>Tue, 16 Mar 2021 09:35:05 +0000</pubDate>
   </item>
   </channel>
 </rss>
