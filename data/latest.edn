@@ -1,9 +1,3 @@
-{:jar_name "schema-cartographer", :group_name "schema-cartographer", :version "0.0.3", :description "Schema Cartographer provides a means to visualize, navigate, create, edit and share the relationships that exist in your Datomic schema.", :created 1616468823759}
-{:jar_name "lasync", :group_name "tolitius", :version "0.1.19", :description "executor service that blocks on .submit after the task queue limit is reached", :created 1616469816574}
-{:jar_name "nrepl-middleware", :group_name "org.pinkgorilla", :version "0.3.24", :description "nREPL middleware", :created 1616471253628}
-{:jar_name "nrepl-middleware", :group_name "org.pinkgorilla", :version "0.3.25", :description "nREPL middleware", :created 1616473474688}
-{:jar_name "nrepl-middleware", :group_name "org.pinkgorilla", :version "0.3.26", :description "nREPL middleware", :created 1616476327723}
-{:jar_name "epsilon", :group_name "org.clojars.aratare", :version "v1.4.0-SNAPSHOT", :description "Model-driven code generator", :created 1616476618982}
 {:jar_name "re-highlight", :group_name "superstructor", :version "0.0.1", :description "Reagent wrapper for Highlight.js", :created 1616480291654}
 {:jar_name "re-frame-10x", :group_name "day8.re-frame", :version "1.0.2", :description "Become 10x more productive when developing and debugging re-frame applications.", :created 1616481582408}
 {:jar_name "lein-template", :group_name "re-frame", :version "1.5.0", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1616483237320}
@@ -254,3 +248,9 @@
 {:jar_name "crux-azure-blobs", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Azure Blobs Document Store", :created 1617121079617}
 {:jar_name "crux-google-cloud-storage", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Google Cloud Storage Document Store", :created 1617121089174}
 {:jar_name "crux-bench", :group_name "juxt", :version "dev-SNAPSHOT", :description "", :created 1617121104439}
+{:jar_name "babashka", :group_name "babashka", :version "0.3.2-SNAPSHOT", :description "babashka", :created 1617125242253}
+{:jar_name "buddy-auth.jwt-oidc", :group_name "magnet", :version "0.10.1", :description "Buddy-auth JWT token validator, for OpenID Connect ID tokens", :created 1617125449732}
+{:jar_name "core", :group_name "yetibot", :version "20210330.173013.2e57e69", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1617125458732}
+{:jar_name "stockroom", :group_name "deercreeklabs", :version "0.3.6", :description "Clojure/Clojurescript cache, using the Clock algorithm.", :created 1617125509322}
+{:jar_name "yetibot", :group_name "yetibot", :version "20210330.173408.6908f70", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617125663591}
+{:jar_name "cella-rn", :group_name "com.7theta", :version "0.4.1", :description "A library to wrap React Native Async Storage", :created 1617125840840}
