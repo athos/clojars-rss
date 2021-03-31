@@ -1,5 +1,3 @@
-{:jar_name "utilis", :group_name "com.7theta", :version "1.12.2", :description "Library of common utilities used in 7theta projects", :created 1616537063502}
-{:jar_name "clj-template", :group_name "clj-py-r-template", :version "1.2.0", :description "Template to quickly create clojure data sciene projects with  R + python", :created 1616537619389}
 {:jar_name "linux.i2c.mcp342x", :group_name "io.helins", :version "2.0.0-beta0", :description "Talking to the MCP342x family of ADC via I2C on Clojure JVM", :created 1616539854299}
 {:jar_name "nrepl-middleware", :group_name "org.pinkgorilla", :version "0.3.27", :description "nREPL middleware", :created 1616540566245}
 {:jar_name "linux.i2c.horter-i2hae", :group_name "io.helins", :version "2.0.0", :description "A/D conversion via I2C with Horter I2HAE from Clojure JVM", :created 1616542357677}
@@ -253,4 +251,6 @@
 {:jar_name "core", :group_name "yetibot", :version "20210331.210832.c86f088", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1617224953806}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.04.01-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1617226719567}
 {:jar_name "yetibot", :group_name "yetibot", :version "20210331.215654.e6dcc26", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617227832702}
-{:jar_name "with-log", :group_name "motiva", :version "0.3.0-SNAPSHOT", :description "Log macro for capturing errors and timings", :created 1617228341039}
+{:jar_name "vault-clj", :group_name "amperity", :version "1.0.2", :description "Clojure client for the Vault secret management system.", :created 1617228366969}
+{:jar_name "servo", :group_name "com.7theta", :version "1.10.0", :description "A rehinkdb client library designed to integrate with signum", :created 1617228578478}
+{:jar_name "with-log", :group_name "motiva", :version "0.3.0-SNAPSHOT", :description "Log macro for capturing errors and timings", :created 1617231869461}
