@@ -1,26 +1,3 @@
-{:jar_name "kubectl", :group_name "exoscale", :version "0.1.11", :description "A wrapper around the kubectl CLI", :created 1616595388956}
-{:jar_name "fastmath", :group_name "generateme", :version "2.1.5", :description "Fast and primitive math library", :created 1616600398833}
-{:jar_name "clojure2d", :group_name "clojure2d", :version "1.4.3", :description "Creative coding / glitch library backed by Java2D", :created 1616600782531}
-{:jar_name "data.csv", :group_name "blackwaterpark", :version "1.1.1", :description "A Clojure library for reading and writing comma separated value (csv) files (Eva fork)", :created 1616601707517}
-{:jar_name "data.csv", :group_name "blackwaterpark", :version "1.1.2", :description "A Clojure library for reading and writing comma separated value (csv) files (Eva fork)", :created 1616603214265}
-{:jar_name "clj-common-java", :group_name "com.mungolab", :version "0.3.0-SNAPSHOT", :description "common functions", :created 1616603980441}
-{:jar_name "sendgrid", :group_name "camdez", :version "0.1.1-api-key-SNAPSHOT", :description "Clojure library for sending emails with SendGrid", :created 1616604375875}
-{:jar_name "keycloak-clojure", :group_name "keycloak-clojure", :version "1.15.2", :description "A clojure wrapper of Keycloak", :created 1616605229091}
-{:jar_name "clj-concordion", :group_name "cz.holyjak", :version "2.0.0-SNAPSHOT", :description "clojure.test integration for https://concordion.org", :created 1616610921024}
-{:jar_name "rewriting-history", :group_name "no.nsd", :version "0.7.347", :description nil, :created 1616614101200}
-{:jar_name "t-digest", :group_name "com.techascent", :version "4.0-pre-release-1", :description "Pre release of tdunning 4.0 that fixes several major issues with\nt-digest.", :created 1616614435589}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.07", :description "Clojure high performance data processing system", :created 1616614829427}
-{:jar_name "via", :group_name "com.7theta", :version "6.2.4", :description "A re-frame library for WebSocket based messaging", :created 1616614870927}
-{:jar_name "sendgrid", :group_name "camdez", :version "0.2.0", :description "Clojure library for sending emails with SendGrid", :created 1616615418864}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.11.25", :description "CLJS development tools", :created 1616616584730}
-{:jar_name "membrane", :group_name "com.phronemophobic", :version "0.9.23-beta", :description "A platform agnostic library for creating user interfaces", :created 1616616985077}
-{:jar_name "rewriting-history", :group_name "no.nsd", :version "0.7.350", :description nil, :created 1616618889469}
-{:jar_name "arrangement", :group_name "mvxcvi", :version "2.0.0", :description "Total-order comparator for Clojure(Script).", :created 1616639802824}
-{:jar_name "cella-rn", :group_name "com.7theta", :version "0.3.9", :description "A library to wrap React Native Async Storage", :created 1616641393487}
-{:jar_name "jackdaw", :group_name "parksidesecurities", :version "0.7.6-add_internal_topic_name_support-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1616650103176}
-{:jar_name "rxtx", :group_name "io.helins", :version "2.0.0", :description "Serial IO based on RXTX from Clojure JVM", :created 1616663796853}
-{:jar_name "mbus", :group_name "io.helins", :version "2.0.0-beta0", :description "Using the Meter-Bus protocol from Clojure JVM", :created 1616667027238}
-{:jar_name "gen-avro", :group_name "djs", :version "0.0.1", :description nil, :created 1616669260977}
 {:jar_name "pom-patch", :group_name "ivarref", :version "0.1.14", :description nil, :created 1616672202634}
 {:jar_name "ez-wire", :group_name "ez-wire", :version "0.5.0-beta2.1", :description "Helper library for reagent+re-frame", :created 1616676501184}
 {:jar_name "schema-cartographer", :group_name "schema-cartographer", :version "1.0.0", :description "Schema Cartographer provides a means to visualize, navigate, create, edit and share the relationships that exist in your Datomic schema.", :created 1616676992581}
@@ -254,3 +231,26 @@
 {:jar_name "rum", :group_name "stylefy", :version "3.0.0-beta1", :description "RumDOM for stylefy", :created 1617288236607}
 {:jar_name "generic-dom", :group_name "stylefy", :version "3.0.0-beta1", :description "Generic DOM for stylefy", :created 1617288271127}
 {:jar_name "stylefy", :group_name "stylefy", :version "3.0.0-beta1", :description "Library for styling UI components", :created 1617288292827}
+{:jar_name "dtype-next", :group_name "cnuernber", :version "7.02", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1617290073897}
+{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.13", :description "Clojure high performance data processing system", :created 1617290336876}
+{:jar_name "crux-core", :group_name "juxt", :version "21.04-1.16.0-beta", :description "An open source document database with bitemporal graph queries", :created 1617290978113}
+{:jar_name "crux-rdf", :group_name "juxt", :version "21.04-1.16.0-alpha", :description "Crux RDF", :created 1617290987723}
+{:jar_name "crux-metrics", :group_name "juxt", :version "21.04-1.16.0-alpha", :description "Provides Metrics for Crux nodes", :created 1617290998073}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux RocksDB", :created 1617291007572}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "21.04-1.16.0-alpha", :description "Crux LMDB", :created 1617291016822}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux JDBC", :created 1617291026192}
+{:jar_name "crux-http-client", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux HTTP Client", :created 1617291035162}
+{:jar_name "crux-http-server", :group_name "juxt", :version "21.04-1.16.0-alpha", :description "Crux HTTP Server", :created 1617291047212}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux Kafka Embedded", :created 1617291056792}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux Kafka Connect", :created 1617291067652}
+{:jar_name "crux-kafka", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux Kafka", :created 1617291078482}
+{:jar_name "crux-lucene", :group_name "juxt", :version "21.04-1.16.0-alpha", :description "Crux Lucene integration", :created 1617291099012}
+{:jar_name "crux-test", :group_name "juxt", :version "21.04-1.16.0", :description "Crux Tests Project", :created 1617291110552}
+{:jar_name "crux-s3", :group_name "juxt", :version "21.04-1.16.0-beta", :description "", :created 1617291120972}
+{:jar_name "martian", :group_name "martian", :version "0.1.17-SNAPSHOT", :description "Client routing for Swagger APIs", :created 1617291433430}
+{:jar_name "martian-clj-http", :group_name "martian-clj-http", :version "0.1.17-SNAPSHOT", :description "clj-http implementation for martian", :created 1617291450340}
+{:jar_name "martian-cljs-http", :group_name "martian-cljs-http", :version "0.1.17-SNAPSHOT", :description "cljs-http implementation for martian", :created 1617291464290}
+{:jar_name "martian-re-frame", :group_name "martian-re-frame", :version "0.1.17-SNAPSHOT", :description "re-frame bindings for martian", :created 1617291494460}
+{:jar_name "martian-httpkit", :group_name "martian-httpkit", :version "0.1.17-SNAPSHOT", :description "httpkit implementation for martian", :created 1617291521540}
+{:jar_name "martian-test", :group_name "martian-test", :version "0.1.17-SNAPSHOT", :description "Testing tools for martian", :created 1617291535530}
+{:jar_name "hitchhiker-tree", :group_name "io.replikativ", :version "0.1.10", :description "A Hitchhiker Tree Library", :created 1617292189816}

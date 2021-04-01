@@ -1,20 +1,3 @@
-{:jar_name "mulog-json", :group_name "com.brunobonacci", :version "0.7.1", :description "μ/log json handling", :created 1616496610325}
-{:jar_name "mulog-elasticsearch", :group_name "com.brunobonacci", :version "0.7.1", :description "A publisher for μ/log to Elasticsearch.", :created 1616496627615}
-{:jar_name "mulog-jvm-metrics", :group_name "com.brunobonacci", :version "0.7.1", :description "A JVM metrics sampler for μ/log.", :created 1616496641755}
-{:jar_name "mulog-filesystem-metrics", :group_name "com.brunobonacci", :version "0.7.1", :description "A filesystem metrics sampler for μ/log.", :created 1616496656105}
-{:jar_name "mulog-mbean-sampler", :group_name "com.brunobonacci", :version "0.7.1", :description "A MBean sampler for μ/log.", :created 1616496670655}
-{:jar_name "mulog-adv-console", :group_name "com.brunobonacci", :version "0.7.1", :description "A publisher for μ/log to Console and Terminal.", :created 1616496685185}
-{:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.7.1", :description "A publisher for μ/log to Kafka.", :created 1616496700125}
-{:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.7.1", :description "A publisher for μ/log to Kinesis.", :created 1616496715235}
-{:jar_name "mulog-cloudwatch", :group_name "com.brunobonacci", :version "0.7.1", :description "A publisher for μ/log to Cloudwatch.", :created 1616496729885}
-{:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.7.1", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1616496747565}
-{:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.7.1", :description "A publisher for μ/trace to OpenZipkin.", :created 1616496763075}
-{:jar_name "mulog-prometheus", :group_name "com.brunobonacci", :version "0.7.1", :description "A publisher for μ/log to Prometheus.", :created 1616496777695}
-{:jar_name "clj-camel", :group_name "takeoff", :version "1.5.4", :description "Clojure wrapper for Apache Camel", :created 1616497236242}
-{:jar_name "data.csv", :group_name "blackwaterpark", :version "1.1.0", :description "A Clojure library for reading and writing comma separated value (csv) files (Eva fork)", :created 1616497751000}
-{:jar_name "re-jsoneditor", :group_name "superstructor", :version "0.0.1", :description "Reagent wrapper for josdejong/jsoneditor", :created 1616498903854}
-{:jar_name "deps.clj", :group_name "borkdude", :version "0.0.12", :description "deps.clj: a Clojure port of the clojure bash script", :created 1616504989065}
-{:jar_name "notespace-sicmutils", :group_name "notespace-sicmutils", :version "0.17.0", :description "A Notespace extension for rendering Sicmutils math nicely.", :created 1616509811222}
 {:jar_name "dtype-next", :group_name "cnuernber", :version "6.25", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1616510907767}
 {:jar_name "clj-camel", :group_name "takeoff", :version "1.5.5", :description "Clojure wrapper for Apache Camel", :created 1616511429874}
 {:jar_name "copy-deps", :group_name "biiwide", :version "0.7.0", :description "Copy files from your dependencies into your resources.", :created 1616511842262}
@@ -254,3 +237,20 @@
 {:jar_name "rum", :group_name "stylefy", :version "3.0.0-beta1", :description "RumDOM for stylefy", :created 1617288236607}
 {:jar_name "generic-dom", :group_name "stylefy", :version "3.0.0-beta1", :description "Generic DOM for stylefy", :created 1617288271127}
 {:jar_name "stylefy", :group_name "stylefy", :version "3.0.0-beta1", :description "Library for styling UI components", :created 1617288292827}
+{:jar_name "dtype-next", :group_name "cnuernber", :version "7.02", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1617290073897}
+{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.13", :description "Clojure high performance data processing system", :created 1617290336876}
+{:jar_name "crux-core", :group_name "juxt", :version "21.04-1.16.0-beta", :description "An open source document database with bitemporal graph queries", :created 1617290978113}
+{:jar_name "crux-rdf", :group_name "juxt", :version "21.04-1.16.0-alpha", :description "Crux RDF", :created 1617290987723}
+{:jar_name "crux-metrics", :group_name "juxt", :version "21.04-1.16.0-alpha", :description "Provides Metrics for Crux nodes", :created 1617290998073}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux RocksDB", :created 1617291007572}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "21.04-1.16.0-alpha", :description "Crux LMDB", :created 1617291016822}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux JDBC", :created 1617291026192}
+{:jar_name "crux-http-client", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux HTTP Client", :created 1617291035162}
+{:jar_name "crux-http-server", :group_name "juxt", :version "21.04-1.16.0-alpha", :description "Crux HTTP Server", :created 1617291047212}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux Kafka Embedded", :created 1617291056792}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux Kafka Connect", :created 1617291067652}
+{:jar_name "crux-kafka", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux Kafka", :created 1617291078482}
+{:jar_name "crux-lucene", :group_name "juxt", :version "21.04-1.16.0-alpha", :description "Crux Lucene integration", :created 1617291099012}
+{:jar_name "crux-test", :group_name "juxt", :version "21.04-1.16.0", :description "Crux Tests Project", :created 1617291110552}
+{:jar_name "crux-s3", :group_name "juxt", :version "21.04-1.16.0-beta", :description "", :created 1617291120972}
+{:jar_name "hitchhiker-tree", :group_name "io.replikativ", :version "0.1.10", :description "A Hitchhiker Tree Library", :created 1617292189816}
