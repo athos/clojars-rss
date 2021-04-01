@@ -1,6 +1,3 @@
-{:jar_name "linux.i2c.mcp342x", :group_name "io.helins", :version "2.0.0-beta0", :description "Talking to the MCP342x family of ADC via I2C on Clojure JVM", :created 1616539854299}
-{:jar_name "nrepl-middleware", :group_name "org.pinkgorilla", :version "0.3.27", :description "nREPL middleware", :created 1616540566245}
-{:jar_name "linux.i2c.horter-i2hae", :group_name "io.helins", :version "2.0.0", :description "A/D conversion via I2C with Horter I2HAE from Clojure JVM", :created 1616542357677}
 {:jar_name "ring-utils", :group_name "org.danielsz", :version "0.2.0", :description nil, :created 1616543455242}
 {:jar_name "schema-cartographer", :group_name "schema-cartographer", :version "0.0.4", :description "Schema Cartographer provides a means to visualize, navigate, create, edit and share the relationships that exist in your Datomic schema.", :created 1616549805251}
 {:jar_name "schema-cartographer", :group_name "schema-cartographer", :version "0.0.5", :description "Schema Cartographer provides a means to visualize, navigate, create, edit and share the relationships that exist in your Datomic schema.", :created 1616552215280}
@@ -254,3 +251,6 @@
 {:jar_name "vault-clj", :group_name "amperity", :version "1.0.2", :description "Clojure client for the Vault secret management system.", :created 1617228366969}
 {:jar_name "servo", :group_name "com.7theta", :version "1.10.0", :description "A rehinkdb client library designed to integrate with signum", :created 1617228578478}
 {:jar_name "with-log", :group_name "motiva", :version "0.3.0-SNAPSHOT", :description "Log macro for capturing errors and timings", :created 1617231869461}
+{:jar_name "shadow-git-inject", :group_name "day8", :version "0.0.3", :description "Injects shadow-cljs.edn with some execution context.", :created 1617233317583}
+{:jar_name "with-log", :group_name "motiva", :version "0.3.0", :description "Log macro for capturing errors and timings", :created 1617233567372}
+{:jar_name "lein-template", :group_name "re-frame", :version "2.0.3", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1617233909250}

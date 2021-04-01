@@ -1,6 +1,3 @@
-{:jar_name "kvdb-api", :group_name "biiwide", :version "0.1.0", :description "A reusable protocol for KeyValue DataBases.", :created 1616437423861}
-{:jar_name "kvdb-aws-dynamodb", :group_name "biiwide", :version "0.1.0", :description "KVDB implementation(s) for AWS DynamoDB.", :created 1616438857324}
-{:jar_name "fs", :group_name "babashka", :version "0.0.3", :description "Babashka file system utilities.", :created 1616440260257}
 {:jar_name "deps-bin", :group_name "deps-bin", :version "0.1.0", :description "", :created 1616443943689}
 {:jar_name "deps-bin", :group_name "com.github.ericdallo", :version "0.1.0", :description nil, :created 1616445850530}
 {:jar_name "cbass", :group_name "cbass", :version "0.2.7", :description "adding simple to HBase", :created 1616446588237}
@@ -254,3 +251,6 @@
 {:jar_name "yetibot", :group_name "yetibot", :version "20210331.215654.e6dcc26", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617227832702}
 {:jar_name "vault-clj", :group_name "amperity", :version "1.0.2", :description "Clojure client for the Vault secret management system.", :created 1617228366969}
 {:jar_name "servo", :group_name "com.7theta", :version "1.10.0", :description "A rehinkdb client library designed to integrate with signum", :created 1617228578478}
+{:jar_name "shadow-git-inject", :group_name "day8", :version "0.0.3", :description "Injects shadow-cljs.edn with some execution context.", :created 1617233317583}
+{:jar_name "with-log", :group_name "motiva", :version "0.3.0", :description "Log macro for capturing errors and timings", :created 1617233567372}
+{:jar_name "lein-template", :group_name "re-frame", :version "2.0.3", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1617233909250}
