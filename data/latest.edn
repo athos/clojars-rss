@@ -1,6 +1,3 @@
-{:jar_name "active-logger", :group_name "de.active-group", :version "0.3.0", :description "Active Logger: Utilities and DSL for logging on top of Timbre.", :created 1616684943495}
-{:jar_name "active-saml", :group_name "de.active-group", :version "0.1.0-SNAPSHOT", :description "SAML auth.", :created 1616685054694}
-{:jar_name "gen-avro", :group_name "djs", :version "0.0.3", :description nil, :created 1616694889639}
 {:jar_name "navi", :group_name "org.clojars.lispyclouds", :version "0.0.2", :description "A tiny library converting OpenAPI route definitions to Reitit routes.", :created 1616695651165}
 {:jar_name "library-test", :group_name "org.clojars.arubio", :version "0.1.0-SNAPSHOT", :description "Library made to test deployment into Clojars", :created 1616696037753}
 {:jar_name "ctim", :group_name "threatgrid", :version "1.1.6-SNAPSHOT", :description "Cisco Threat Intelligence Model", :created 1616702726189}
@@ -157,7 +154,6 @@
 {:jar_name "tube", :group_name "deercreeklabs", :version "0.4.6", :description "A websocket client and server library", :created 1617131178534}
 {:jar_name "capsule", :group_name "deercreeklabs", :version "0.4.36", :description nil, :created 1617131989750}
 {:jar_name "config", :group_name "com.outpace", :version "0.13.5", :description "A library for declaring and setting configuration vars.", :created 1617136007533}
-{:jar_name "ulti", :group_name "lt", :version "1.0.0-SNAPSHOT", :description "an experimental web UI framework", :created 1617138000602}
 {:jar_name "lib", :group_name "open-company", :version "0.18.0-alpha4", :description "OpenCompany Common Library", :created 1617143651587}
 {:jar_name "libpython-clj", :group_name "clj-python", :version "2.00-beta-13", :description nil, :created 1617145615108}
 {:jar_name "clj-jargon", :group_name "org.cyverse", :version "2.8.13", :description "Clojure API on top of iRODS's jargon-core.", :created 1617146696743}
@@ -254,3 +250,7 @@
 {:jar_name "magellan", :group_name "sig-gis", :version "20210401", :description nil, :created 1617303056800}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.04.01-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1617303306748}
 {:jar_name "babashka", :group_name "babashka", :version "0.3.2-SNAPSHOT", :description "babashka", :created 1617305792245}
+{:jar_name "ulti", :group_name "lt", :version "1.0.0-SNAPSHOT", :description "an experimental web UI framework", :created 1617308401943}
+{:jar_name "core", :group_name "yetibot", :version "20210401.203104.5c8f234", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1617309105662}
+{:jar_name "yetibot", :group_name "yetibot", :version "20210401.203316.21cb89c", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617309219795}
+{:jar_name "clem-repl", :group_name "clem-repl", :version "0.1.6-SNAPSHOT", :description "Repl Integration for Clem, the Clojure Error Mediator", :created 1617309304253}
