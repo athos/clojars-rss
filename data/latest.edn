@@ -1,5 +1,3 @@
-{:jar_name "mastodon-bot", :group_name "dda", :version "1.10.12-SNAPSHOT", :description "Bot to publish twitter, tumblr or rss posts to an mastodon account.", :created 1616770545295}
-{:jar_name "pppmap", :group_name "pppmap", :version "0.2.2", :description "Partitioned parallel maps with progress", :created 1616771076143}
 {:jar_name "timbre-json-appender", :group_name "viesti", :version "0.2.0", :description "A structured log appender for Timbre using jsonista", :created 1616772227538}
 {:jar_name "mapquest", :group_name "mapquest", :version "0.1.1", :description "tiny clojure library of functions and macros for dealing with maps", :created 1616774369798}
 {:jar_name "metamorph", :group_name "scicloj", :version "0.1.0-alpha3", :description "Context based pipeline.", :created 1616775013992}
@@ -248,9 +246,11 @@
 {:jar_name "clometheus", :group_name "online.duevel", :version "0.2.2", :description "Prometheus client library", :created 1617374420855}
 {:jar_name "clometheus-pushgateway", :group_name "online.duevel", :version "0.2.1", :description "Pushgateway library for clometheus", :created 1617374517985}
 {:jar_name "datahike", :group_name "io.replikativ", :version "0.3.4", :description "A durable datalog implementation adaptable for distribution.", :created 1617377910987}
-{:jar_name "google-cloud-function-ring-adapter", :group_name "nl.epij", :version "0.1.0-SNAPSHOT", :description "A (Clojure) ring adapter for the Google Cloud Function Java Runtime on Google Cloud Platform", :created 1617379098480}
 {:jar_name "google-cloud-function-commons", :group_name "nl.epij", :version "0.1.0-SNAPSHOT", :description "Common functions for running Clojure on the Cloud Function Java Runtime on Google Cloud Platform", :created 1617380302275}
 {:jar_name "tonos-client", :group_name "tonos-client", :version "1.12.0", :description "Clojure bindings to TON OS SDK's Core Client Library", :created 1617381810796}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.04.01-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1617382586532}
 {:jar_name "reagent", :group_name "stylefy", :version "3.0.0-beta2", :description "ReagentDOM for stylefy", :created 1617383039439}
 {:jar_name "rum", :group_name "stylefy", :version "3.0.0-beta2", :description "RumDOM for stylefy", :created 1617383085819}
+{:jar_name "cli4clj", :group_name "cli4clj", :version "1.7.7", :description "Create simple interactive CLIs for Clojure applications.", :created 1617385560266}
+{:jar_name "google-cloud-function-ring-adapter", :group_name "nl.epij", :version "0.1.0-SNAPSHOT", :description "A (Clojure) ring adapter for the Google Cloud Function Java Runtime on Google Cloud Platform", :created 1617387131388}
+{:jar_name "rum", :group_name "stylefy", :version "3.0.0-beta3", :description "RumDOM for stylefy", :created 1617387225457}
