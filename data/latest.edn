@@ -1,4 +1,3 @@
-{:jar_name "crux-rdf", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RDF", :created 1617120922646}
 {:jar_name "crux-metrics", :group_name "juxt", :version "dev-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1617120932833}
 {:jar_name "crux-rocksdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RocksDB", :created 1617120943975}
 {:jar_name "crux-lmdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux LMDB", :created 1617120953698}
@@ -231,7 +230,6 @@
 {:jar_name "gcp-ser-clj", :group_name "gcp-ser-clj", :version "0.7.1", :description "A Clojure library trying to make reporting errors to Google Cloud's Error Reporting system (Stackdriver) simpler.", :created 1617701901141}
 {:jar_name "scicloj.ml.smile", :group_name "scicloj", :version "5.04", :description "Basic machine learning toolkit.  `tech.v3.ml` is the root\nnamespace and provides train/predict pathways based on datasets and\nan options map.  Please see the xgboost article for a quick runthough\nof how to use this library.", :created 1617702875177}
 {:jar_name "scicloj.ml.xgboost", :group_name "scicloj", :version "5.03", :description "Basic machine learning toolkit.  `tech.v3.ml` is the root\nnamespace and provides train/predict pathways based on datasets and\nan options map.  Please see the xgboost article for a quick runthough\nof how to use this library.", :created 1617704582499}
-{:jar_name "zen", :group_name "zen-lang", :version "0.0.1-SNAPSHOT", :description nil, :created 1617705290715}
 {:jar_name "metamorph.ml", :group_name "scicloj", :version "0.3.0-alpha1", :description "Machine learning model evaluations using context based pipelines.", :created 1617706236841}
 {:jar_name "interval-tree", :group_name "com.dean", :version "0.1.2", :description "Modular, Extensible, Foldable Weight-Balanced Tree", :created 1617708354121}
 {:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1617709984993}
@@ -253,4 +251,6 @@
 {:jar_name "depot", :group_name "olical", :version "2.2.0", :description "Find newer versions of your dependencies in your deps.edn file.", :created 1617721131951}
 {:jar_name "rtengine-service-connection", :group_name "rtcritical", :version "1.0.0", :description "Service Connection for RTEngine", :created 1617722729424}
 {:jar_name "wasm", :group_name "io.helins", :version "0.0.0-alpha2", :description "WebAssembly compiler and decompiler in Clojure/script", :created 1617723800129}
-{:jar_name "clj-petitparser", :group_name "clj-petitparser", :version "0.1.2-SNAPSHOT", :description "Clojure port of Lukas Renggli's PetitParser", :created 1617724471827}
+{:jar_name "clj-petitparser", :group_name "clj-petitparser", :version "0.1.2-SNAPSHOT", :description "Clojure port of Lukas Renggli's PetitParser", :created 1617726184065}
+{:jar_name "stylefy", :group_name "stylefy", :version "3.0.0-beta2", :description "Library for styling UI components", :created 1617726251147}
+{:jar_name "zen", :group_name "zen-lang", :version "0.0.1-SNAPSHOT", :description "", :created 1617726298761}
