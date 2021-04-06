@@ -1,5 +1,3 @@
-{:jar_name "google-cloud-function-ring-adapter", :group_name "nl.epij", :version "0.1.0-alpha7", :description "A (Clojure) ring adapter for the Google Cloud Function Java Runtime on Google Cloud Platform", :created 1616784849771}
-{:jar_name "google-cloud-function-ring-adapter", :group_name "nl.epij", :version "0.1.0-alpha8", :description "A (Clojure) ring adapter for the Google Cloud Function Java Runtime on Google Cloud Platform", :created 1616787468459}
 {:jar_name "lib", :group_name "open-company", :version "0.17.35-alpha4", :description "OpenCompany Common Library", :created 1616789551373}
 {:jar_name "tablecloth", :group_name "scicloj", :version "5.11", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1616791762150}
 {:jar_name "metamorph.ml", :group_name "scicloj", :version "0.3.0-alpha3", :description "Machine learning model evaluations using context based pipelines.", :created 1616792423047}
@@ -254,3 +252,5 @@
 {:jar_name "metamorph", :group_name "scicloj", :version "0.1.0", :description "Context based pipeline.", :created 1617698776646}
 {:jar_name "metamorph.ml", :group_name "scicloj", :version "0.3.0-beta1", :description "Machine learning model evaluations using context based pipelines.", :created 1617698956895}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210406-090151.5895cbc3", :description nil, :created 1617699746492}
+{:jar_name "gcp-ser-clj", :group_name "gcp-ser-clj", :version "0.7.1", :description "A Clojure library trying to make reporting errors to Google Cloud's Error Reporting system (Stackdriver) simpler.", :created 1617701901141}
+{:jar_name "scicloj.ml.smile", :group_name "scicloj", :version "5.04", :description "Basic machine learning toolkit.  `tech.v3.ml` is the root\nnamespace and provides train/predict pathways based on datasets and\nan options map.  Please see the xgboost article for a quick runthough\nof how to use this library.", :created 1617702875177}
