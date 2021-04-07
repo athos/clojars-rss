@@ -1,4 +1,3 @@
-{:jar_name "core", :group_name "yetibot", :version "20210330.173013.2e57e69", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1617125458732}
 {:jar_name "stockroom", :group_name "deercreeklabs", :version "0.3.6", :description "Clojure/Clojurescript cache, using the Clock algorithm.", :created 1617125509322}
 {:jar_name "yetibot", :group_name "yetibot", :version "20210330.173408.6908f70", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617125663591}
 {:jar_name "cella-rn", :group_name "com.7theta", :version "0.4.1", :description "A library to wrap React Native Async Storage", :created 1617125840840}
@@ -252,5 +251,6 @@
 {:jar_name "lein-template", :group_name "reagent", :version "0.10.46", :description "A Leiningen template for a ClojureScript setup with Figwheel, Austin, and Reagent.", :created 1617760473315}
 {:jar_name "lein-template", :group_name "reagent-frontend", :version "0.1.65", :description "A Leiningen template for a ClojureScript setup with Reagent.", :created 1617760635744}
 {:jar_name "justplots", :group_name "net.justminecraft.plots", :version "0.9.6", :description "Just a plots plugin for spigot, not much else", :created 1617764003900}
-{:jar_name "justplots-deny", :group_name "net.justminecraft.plots.deny", :version "1.0.1-SNAPSHOT", :description "Allows players to deny other players from entering their plot in JustPlots", :created 1617764838896}
-{:jar_name "justplots", :group_name "net.justminecraft.plots", :version "0.9.7-SNAPSHOT", :description "Just a plots plugin for spigot, not much else", :created 1617768176321}
+{:jar_name "justplots", :group_name "net.justminecraft.plots", :version "0.9.7-SNAPSHOT", :description "Just a plots plugin for spigot, not much else", :created 1617768701423}
+{:jar_name "justplots-deny", :group_name "net.justminecraft.plots.deny", :version "1.0.1-SNAPSHOT", :description "Allows players to deny other players from entering their plot in JustPlots", :created 1617770178626}
+{:jar_name "justplots-voxelsniper", :group_name "net.justminecraft.plots.voxelsniper", :version "1.0.2-SNAPSHOT", :description "Restricts VoxelSniper to the player's plots in JustPlots", :created 1617770410940}
