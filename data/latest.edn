@@ -1,7 +1,3 @@
-{:jar_name "cricsheet", :group_name "craftybones", :version "0.1.0-SNAPSHOT", :description "Spec to validate cricsheet", :created 1617272995607}
-{:jar_name "shadow-git-inject", :group_name "day8", :version "0.0.4", :description "Injects shadow-cljs.edn with some execution context.", :created 1617273247675}
-{:jar_name "kafka-avro-confluent", :group_name "ovotech", :version "2.7.0-1", :description "An Avro Kafka De/Serializer lib that works with Confluent's Schema Registry", :created 1617273731393}
-{:jar_name "lein-template", :group_name "re-frame", :version "2.0.4", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1617274573908}
 {:jar_name "loop", :group_name "saberstack", :version "0.2.3", :description "Take control of your core.async loops!", :created 1617279870900}
 {:jar_name "beholder", :group_name "com.nextjournal", :version "1.0.0", :description nil, :created 1617283094354}
 {:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.15.1", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1617287515121}
@@ -254,3 +250,7 @@
 {:jar_name "babashka", :group_name "babashka", :version "0.3.3-SNAPSHOT", :description "babashka", :created 1617910284637}
 {:jar_name "marathon-schemas", :group_name "marathon-schemas", :version "4.1.7-SNAPSHOT", :description "data schemas, specifications, and validation tools for marathon", :created 1617910665885}
 {:jar_name "spork", :group_name "spork", :version "0.2.1.4-SNAPSHOT", :description "A set of libraries derived from Spoon's Operations Research Kit.\n   Libraries are modular and will be supported as stand-alone dependencies.\n   This project is an uberjar that includes all of the modular bits in a single\n   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,\n   focusing on a functional API, a default towards purity and persistent data\n   structures, with alternative mutable/imperative counterparts.  The vast\n   majority of spork is written in Clojure, with an intentional nod toward\n   independence from external libraries, particularly Java libs.  Consequently,\n   spork should provide a lightweight, clojure-based platform for the topics\n   covered by the libraries.  I am currently working to eliminate legacy\n   java dependencies where possible.", :created 1617910706045}
+{:jar_name "nightcode", :group_name "joinr", :version "1.3.6-SNAPSHOT", :description "An IDE for Clojure and Java", :created 1617913061447}
+{:jar_name "asami", :group_name "org.clojars.quoll", :version "2.0.0", :description "An in memory graph store for Clojure and ClojureScript", :created 1617913325753}
+{:jar_name "nrepl-middleware", :group_name "org.pinkgorilla", :version "0.3.28", :description "nREPL middleware", :created 1617915685453}
+{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.18", :description "Clojure high performance data processing system", :created 1617915929032}
