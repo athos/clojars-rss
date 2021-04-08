@@ -1,7 +1,3 @@
-{:jar_name "depstar", :group_name "com.github.seancorfield", :version "2.0.211", :description "a clj-based uberjarrer", :created 1617209162628}
-{:jar_name "buddy-auth.jwt-oidc", :group_name "magnet", :version "0.10.2", :description "Buddy-auth JWT token validator, for OpenID Connect ID tokens", :created 1617209331347}
-{:jar_name "lein-ezbake", :group_name "puppetlabs", :version "2.2.3", :description "A system for building packages for trapperkeeper-based applications", :created 1617215647774}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.03.31", :description "A linter for Clojure that sparks joy.", :created 1617224342750}
 {:jar_name "core", :group_name "yetibot", :version "20210331.210832.c86f088", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1617224953806}
 {:jar_name "yetibot", :group_name "yetibot", :version "20210331.215654.e6dcc26", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617227832702}
 {:jar_name "vault-clj", :group_name "amperity", :version "1.0.2", :description "Clojure client for the Vault secret management system.", :created 1617228366969}
@@ -251,6 +247,10 @@
 {:jar_name "jelastic", :group_name "io.github.jelastic", :version "7.2.0-7-SNAPSHOT", :description nil, :created 1617881240518}
 {:jar_name "clj-gcloud-common", :group_name "com.oscaro", :version "0.112-1.1-SNAPSHOT", :description "Common library for all google cloud clojure wrappers", :created 1617881623876}
 {:jar_name "cider-nrepl", :group_name "cider", :version "0.25.10", :description "A collection of nREPL middlewares designed to enhance Clojure editors.", :created 1617883899609}
-{:jar_name "clj-async-profiler", :group_name "com.clojure-goes-fast", :version "1.0.0-SNAPSHOT", :description "Embeddable Clojure profiler (based on async-profiler)", :created 1617886812163}
 {:jar_name "clam", :group_name "kepler16", :version "4.0.17", :description nil, :created 1617888822284}
 {:jar_name "contextual", :group_name "bsless", :version "0.0.0-alpha8", :description "Deferred evaluation with context", :created 1617889427551}
+{:jar_name "clj-async-profiler", :group_name "com.clojure-goes-fast", :version "1.0.0-SNAPSHOT", :description "Embeddable Clojure profiler (based on async-profiler)", :created 1617892263499}
+{:jar_name "dtype-next", :group_name "cnuernber", :version "7.07", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1617892549978}
+{:jar_name "crux-hbase", :group_name "io.kosong.crux", :version "0.2.0", :description "Crux HBase", :created 1617893441514}
+{:jar_name "crux-hbase-embedded", :group_name "io.kosong.crux", :version "0.2.0", :description "Embedded HBase for development and testing", :created 1617893465404}
+{:jar_name "crux-hbase-test", :group_name "io.kosong.crux", :version "0.2.0", :description "Crux HBase test module", :created 1617893488514}

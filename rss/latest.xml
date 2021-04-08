@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 8 Apr 2021 14:06:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 8 Apr 2021 15:05:57 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.kosong.crux/crux-hbase-test/versions/0.2.0</guid>
+    <title>[io.kosong.crux/crux-hbase-test &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/io.kosong.crux/crux-hbase-test/versions/0.2.0</link>
+    <description>Crux HBase test module</description>
+    <pubDate>Thu, 8 Apr 2021 14:51:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.kosong.crux/crux-hbase-embedded/versions/0.2.0</guid>
+    <title>[io.kosong.crux/crux-hbase-embedded &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/io.kosong.crux/crux-hbase-embedded/versions/0.2.0</link>
+    <description>Embedded HBase for development and testing</description>
+    <pubDate>Thu, 8 Apr 2021 14:51:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.kosong.crux/crux-hbase/versions/0.2.0</guid>
+    <title>[io.kosong.crux/crux-hbase &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/io.kosong.crux/crux-hbase/versions/0.2.0</link>
+    <description>Crux HBase</description>
+    <pubDate>Thu, 8 Apr 2021 14:50:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cnuernber/dtype-next/versions/7.07</guid>
+    <title>[cnuernber/dtype-next &quot;7.07&quot;]</title>
+    <link>https://clojars.org/cnuernber/dtype-next/versions/7.07</link>
+    <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.</description>
+    <pubDate>Thu, 8 Apr 2021 14:35:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.clojure-goes-fast/clj-async-profiler/versions/1.0.0-SNAPSHOT</guid>
+    <title>[com.clojure-goes-fast/clj-async-profiler &quot;1.0.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.clojure-goes-fast/clj-async-profiler/versions/1.0.0-SNAPSHOT</link>
+    <description>Embeddable Clojure profiler (based on async-profiler)</description>
+    <pubDate>Thu, 8 Apr 2021 14:31:03 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/bsless/contextual/versions/0.0.0-alpha8</guid>
     <title>[bsless/contextual &quot;0.0.0-alpha8&quot;]</title>
@@ -18,13 +53,6 @@
     <link>https://clojars.org/kepler16/clam/versions/4.0.17</link>
     <description></description>
     <pubDate>Thu, 8 Apr 2021 13:33:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.clojure-goes-fast/clj-async-profiler/versions/1.0.0-SNAPSHOT</guid>
-    <title>[com.clojure-goes-fast/clj-async-profiler &quot;1.0.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.clojure-goes-fast/clj-async-profiler/versions/1.0.0-SNAPSHOT</link>
-    <description>Embeddable Clojure profiler (based on async-profiler)</description>
-    <pubDate>Thu, 8 Apr 2021 13:00:12 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/cider/cider-nrepl/versions/0.25.10</guid>
@@ -1779,34 +1807,6 @@ application development.</description>
     <description>Core yetibot utilities, extracted for shared use among yetibot
                 and its various plugins</description>
     <pubDate>Wed, 31 Mar 2021 21:09:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/clj-kondo/versions/2021.03.31</guid>
-    <title>[clj-kondo &quot;2021.03.31&quot;]</title>
-    <link>https://clojars.org/clj-kondo/versions/2021.03.31</link>
-    <description>A linter for Clojure that sparks joy.</description>
-    <pubDate>Wed, 31 Mar 2021 20:59:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/puppetlabs/lein-ezbake/versions/2.2.3</guid>
-    <title>[puppetlabs/lein-ezbake &quot;2.2.3&quot;]</title>
-    <link>https://clojars.org/puppetlabs/lein-ezbake/versions/2.2.3</link>
-    <description>A system for building packages for trapperkeeper-based applications</description>
-    <pubDate>Wed, 31 Mar 2021 18:34:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/magnet/buddy-auth.jwt-oidc/versions/0.10.2</guid>
-    <title>[magnet/buddy-auth.jwt-oidc &quot;0.10.2&quot;]</title>
-    <link>https://clojars.org/magnet/buddy-auth.jwt-oidc/versions/0.10.2</link>
-    <description>Buddy-auth JWT token validator, for OpenID Connect ID tokens</description>
-    <pubDate>Wed, 31 Mar 2021 16:48:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.seancorfield/depstar/versions/2.0.211</guid>
-    <title>[com.github.seancorfield/depstar &quot;2.0.211&quot;]</title>
-    <link>https://clojars.org/com.github.seancorfield/depstar/versions/2.0.211</link>
-    <description>a clj-based uberjarrer</description>
-    <pubDate>Wed, 31 Mar 2021 16:46:02 +0000</pubDate>
   </item>
   </channel>
 </rss>
