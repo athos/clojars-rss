@@ -1,4 +1,3 @@
-{:jar_name "deps.clj", :group_name "borkdude", :version "0.0.13-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1617270904957}
 {:jar_name "cricsheet", :group_name "craftybones", :version "0.1.0-SNAPSHOT", :description "Spec to validate cricsheet", :created 1617272995607}
 {:jar_name "shadow-git-inject", :group_name "day8", :version "0.0.4", :description "Injects shadow-cljs.edn with some execution context.", :created 1617273247675}
 {:jar_name "kafka-avro-confluent", :group_name "ovotech", :version "2.7.0-1", :description "An Avro Kafka De/Serializer lib that works with Confluent's Schema Registry", :created 1617273731393}
@@ -152,7 +151,6 @@
 {:jar_name "scicloj.ml.xgboost", :group_name "scicloj", :version "5.03", :description "Basic machine learning toolkit.  `tech.v3.ml` is the root\nnamespace and provides train/predict pathways based on datasets and\nan options map.  Please see the xgboost article for a quick runthough\nof how to use this library.", :created 1617704582499}
 {:jar_name "metamorph.ml", :group_name "scicloj", :version "0.3.0-alpha1", :description "Machine learning model evaluations using context based pipelines.", :created 1617706236841}
 {:jar_name "interval-tree", :group_name "com.dean", :version "0.1.2", :description "Modular, Extensible, Foldable Weight-Balanced Tree", :created 1617708354121}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1617709984993}
 {:jar_name "rewriting-history", :group_name "no.nsd", :version "0.8.378", :description "", :created 1617712229895}
 {:jar_name "scicloj.ml", :group_name "scicloj", :version "0.1.0-beta1", :description nil, :created 1617714671591}
 {:jar_name "aws-api-credential-providers", :group_name "org.clojars.rutledgepaulv", :version "0.1.1", :description "A library providing more featureful implementations of aws authentication providers for cognitect's aws-api library.", :created 1617714936130}
@@ -192,7 +190,6 @@
 {:jar_name "justplots-deny", :group_name "net.justminecraft.plots.deny", :version "1.0.1-SNAPSHOT", :description "Allows players to deny other players from entering their plot in JustPlots", :created 1617770178626}
 {:jar_name "justplots-voxelsniper", :group_name "net.justminecraft.plots.voxelsniper", :version "1.0.2-SNAPSHOT", :description "Restricts VoxelSniper to the player's plots in JustPlots", :created 1617770410940}
 {:jar_name "contextual", :group_name "bsless", :version "0.0.0-alpha7", :description "Deferred evaluation with context", :created 1617774120523}
-{:jar_name "babashka", :group_name "babashka", :version "0.3.3-SNAPSHOT", :description "babashka", :created 1617784248602}
 {:jar_name "zen", :group_name "zen-lang", :version "0.0.1-SNAPSHOT", :description nil, :created 1617785068952}
 {:jar_name "cljam", :group_name "cljam", :version "0.8.1-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1617786502146}
 {:jar_name "clj-common", :group_name "com.mungolab", :version "0.3.0-SNAPSHOT", :description "common functions", :created 1617787472341}
@@ -243,7 +240,6 @@
 {:jar_name "rtengine", :group_name "rtcritical", :version "1.0.0", :description "Minimal clojure service engine that allows deploying single file services at runtime with their own isolated dependencies. Dependencies are downloaded as necessary. Multiple versions of a service can coexist in the system and be individually ran.", :created 1617897538740}
 {:jar_name "tablecloth", :group_name "scicloj", :version "5.17", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1617898196155}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.19.0", :description "Core utils library for Clojure/Script", :created 1617899658594}
-{:jar_name "marathon-schemas", :group_name "marathon-schemas", :version "4.1.7-SNAPSHOT", :description "data schemas, specifications, and validation tools for marathon", :created 1617900277201}
 {:jar_name "tailwind-garden", :group_name "com.wsscode", :version "2021.04.08-1", :description "", :created 1617900306101}
 {:jar_name "proc", :group_name "proc", :version "0.2.8-SNAPSHOT", :description "Embeddable post-processor.", :created 1617900429231}
 {:jar_name "demand_builder", :group_name "demand_builder", :version "0.1.1-SNAPSHOT", :description "FIXME: write description", :created 1617900505291}
@@ -254,3 +250,7 @@
 {:jar_name "zuko", :group_name "org.clojars.quoll", :version "0.6.2", :description "Threatgrid library for common graph database functionality", :created 1617908397135}
 {:jar_name "reveal", :group_name "vlaaad", :version "1.3.206", :description nil, :created 1617908765763}
 {:jar_name "membrane", :group_name "com.phronemophobic", :version "0.9.25-beta", :description "A platform agnostic library for creating user interfaces", :created 1617908779003}
+{:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1617909827529}
+{:jar_name "babashka", :group_name "babashka", :version "0.3.3-SNAPSHOT", :description "babashka", :created 1617910284637}
+{:jar_name "marathon-schemas", :group_name "marathon-schemas", :version "4.1.7-SNAPSHOT", :description "data schemas, specifications, and validation tools for marathon", :created 1617910665885}
+{:jar_name "spork", :group_name "spork", :version "0.2.1.4-SNAPSHOT", :description "A set of libraries derived from Spoon's Operations Research Kit.\n   Libraries are modular and will be supported as stand-alone dependencies.\n   This project is an uberjar that includes all of the modular bits in a single\n   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,\n   focusing on a functional API, a default towards purity and persistent data\n   structures, with alternative mutable/imperative counterparts.  The vast\n   majority of spork is written in Clojure, with an intentional nod toward\n   independence from external libraries, particularly Java libs.  Consequently,\n   spork should provide a lightweight, clojure-based platform for the topics\n   covered by the libraries.  I am currently working to eliminate legacy\n   java dependencies where possible.", :created 1617910706045}
