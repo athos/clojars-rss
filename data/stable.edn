@@ -1,13 +1,3 @@
-{:jar_name "buddy-auth.jwt-oidc", :group_name "magnet", :version "0.10.2", :description "Buddy-auth JWT token validator, for OpenID Connect ID tokens", :created 1617209331347}
-{:jar_name "lein-ezbake", :group_name "puppetlabs", :version "2.2.3", :description "A system for building packages for trapperkeeper-based applications", :created 1617215647774}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.03.31", :description "A linter for Clojure that sparks joy.", :created 1617224342750}
-{:jar_name "core", :group_name "yetibot", :version "20210331.210832.c86f088", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1617224953806}
-{:jar_name "yetibot", :group_name "yetibot", :version "20210331.215654.e6dcc26", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617227832702}
-{:jar_name "vault-clj", :group_name "amperity", :version "1.0.2", :description "Clojure client for the Vault secret management system.", :created 1617228366969}
-{:jar_name "servo", :group_name "com.7theta", :version "1.10.0", :description "A rehinkdb client library designed to integrate with signum", :created 1617228578478}
-{:jar_name "shadow-git-inject", :group_name "day8", :version "0.0.3", :description "Injects shadow-cljs.edn with some execution context.", :created 1617233317583}
-{:jar_name "with-log", :group_name "motiva", :version "0.3.0", :description "Log macro for capturing errors and timings", :created 1617233567372}
-{:jar_name "lein-template", :group_name "re-frame", :version "2.0.3", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1617233909250}
 {:jar_name "rx", :group_name "haar", :version "0.1.2", :description "make regular expression easier", :created 1617243040183}
 {:jar_name "rx", :group_name "haar", :version "0.1.4", :description "make regular expression easier", :created 1617245771649}
 {:jar_name "rx", :group_name "haar", :version "0.1.5", :description "make regular expression easier", :created 1617248728323}
@@ -254,3 +244,13 @@
 {:jar_name "generic-dom", :group_name "stylefy", :version "3.0.0", :description "Generic DOM for stylefy", :created 1617979995076}
 {:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc16", :description nil, :created 1617981549569}
 {:jar_name "hitchhiker-tree", :group_name "io.replikativ", :version "0.1.11", :description "A Hitchhiker Tree Library", :created 1617981964447}
+{:jar_name "clj-ph-css", :group_name "clj-ph-css", :version "0.1.3", :description "Clojure wrapper for ph-css", :created 1617986014719}
+{:jar_name "cleancss", :group_name "cleancss", :version "2.0.0", :description "CleanCSS - ClojureScript tool that removes unused CSS", :created 1617986443118}
+{:jar_name "alia", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1617986979466}
+{:jar_name "alia-async", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "core.async interface for Alia", :created 1617986990856}
+{:jar_name "alia-java-legacy-time", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "Alia extension for java legacy time codec", :created 1617987002066}
+{:jar_name "alia-joda-time", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "Alia extension for joda-time codec", :created 1617987013195}
+{:jar_name "alia-manifold", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "manifold interface for Alia", :created 1617987024735}
+{:jar_name "alia-spec", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "clojure.spec for Alia", :created 1617987035825}
+{:jar_name "alia-component", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "Component integration for Alia", :created 1617987047005}
+{:jar_name "alia-all", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1617987058135}
