@@ -1,19 +1,3 @@
-{:jar_name "cljstyle", :group_name "mvxcvi", :version "0.15.0", :description "A tool for formatting Clojure code", :created 1617163227881}
-{:jar_name "origami", :group_name "origami", :version "4.5.1-1", :description "OpenCV4 Wrapper", :created 1617167810749}
-{:jar_name "telegram.clj", :group_name "ajchemist", :version "2021.90.30128", :description "", :created 1617178940320}
-{:jar_name "beicon", :group_name "funcool", :version "2021.03.31-1", :description "Reactive Streams for Clojure(Script)", :created 1617180408765}
-{:jar_name "lein-template", :group_name "nedap-lib", :version "2.7.4", :description "A Leiningen template for Clojure projects.", :created 1617181157422}
-{:jar_name "lein-template", :group_name "re-frame", :version "2.0.2", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1617183111062}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.12.0", :description "CLJS development tools", :created 1617187763128}
-{:jar_name "cljs-ajax", :group_name "cljs-ajax", :version "0.8.3", :description "A simple Ajax library for ClojureScript", :created 1617188526894}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210331-110428.baa87f48", :description nil, :created 1617188718023}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210331-111027.f99c8834", :description nil, :created 1617189062402}
-{:jar_name "cbass", :group_name "viebel", :version "0.2.7", :description "adding simple to HBase", :created 1617193273256}
-{:jar_name "malli", :group_name "metosin", :version "0.4.0", :description nil, :created 1617198083616}
-{:jar_name "postmortem", :group_name "postmortem", :version "0.5.0", :description "A tiny data-oriented debugging tool for Clojure(Script), powered by transducers", :created 1617200001136}
-{:jar_name "zookareg", :group_name "vise890", :version "2.7.0-1", :description "Embedded ZOokeeper KAfka and Confluent's Schema REGistry", :created 1617200955501}
-{:jar_name "cella-rn", :group_name "com.7theta", :version "0.4.2", :description "A library to wrap React Native Async Storage", :created 1617207502175}
-{:jar_name "zuko", :group_name "org.clojars.quoll", :version "0.6.1", :description "Threatgrid library for common graph database functionality", :created 1617208952839}
 {:jar_name "depstar", :group_name "seancorfield", :version "2.0.211", :description "a clj-based uberjarrer", :created 1617209129118}
 {:jar_name "depstar", :group_name "com.github.seancorfield", :version "2.0.211", :description "a clj-based uberjarrer", :created 1617209162628}
 {:jar_name "buddy-auth.jwt-oidc", :group_name "magnet", :version "0.10.2", :description "Buddy-auth JWT token validator, for OpenID Connect ID tokens", :created 1617209331347}
@@ -254,3 +238,19 @@
 {:jar_name "re-frisk", :group_name "re-frisk", :version "1.4.0", :description "Take full control of re-frame app", :created 1617955772606}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.12.3", :description "CLJS development tools", :created 1617967512970}
 {:jar_name "re-frame-throttle", :group_name "org.clojars.salohonka", :version "1.0.0", :description "Throttling effect for Re-frame events.", :created 1617971391595}
+{:jar_name "beicon", :group_name "funcool", :version "2021.04.09-1", :description "Reactive Streams for Clojure(Script)", :created 1617977390227}
+{:jar_name "core", :group_name "yetibot", :version "20210409.141640.9f859de", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1617977832105}
+{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.19", :description "Clojure high performance data processing system", :created 1617977871295}
+{:jar_name "yetibot", :group_name "yetibot", :version "20210409.142314.85cc53f", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617978209814}
+{:jar_name "alia", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1617979003590}
+{:jar_name "alia-async", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "core.async interface for Alia", :created 1617979014940}
+{:jar_name "alia-java-legacy-time", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "Alia extension for java legacy time codec", :created 1617979026070}
+{:jar_name "alia-joda-time", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "Alia extension for joda-time codec", :created 1617979037720}
+{:jar_name "alia-manifold", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "manifold interface for Alia", :created 1617979048890}
+{:jar_name "alia-spec", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "clojure.spec for Alia", :created 1617979059910}
+{:jar_name "alia-component", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "Component integration for Alia", :created 1617979071020}
+{:jar_name "alia-all", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1617979082140}
+{:jar_name "stylefy", :group_name "stylefy", :version "3.0.0", :description "Library for styling UI components", :created 1617979898446}
+{:jar_name "reagent", :group_name "stylefy", :version "3.0.0", :description "ReagentDOM for stylefy", :created 1617979936066}
+{:jar_name "rum", :group_name "stylefy", :version "3.0.0", :description "RumDOM for stylefy", :created 1617979971696}
+{:jar_name "generic-dom", :group_name "stylefy", :version "3.0.0", :description "Generic DOM for stylefy", :created 1617979995076}

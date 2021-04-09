@@ -1,19 +1,3 @@
-{:jar_name "crux-test", :group_name "juxt", :version "21.04-1.16.0", :description "Crux Tests Project", :created 1617291110552}
-{:jar_name "crux-s3", :group_name "juxt", :version "21.04-1.16.0-beta", :description "", :created 1617291120972}
-{:jar_name "martian", :group_name "martian", :version "0.1.17-SNAPSHOT", :description "Client routing for Swagger APIs", :created 1617291433430}
-{:jar_name "martian-clj-http", :group_name "martian-clj-http", :version "0.1.17-SNAPSHOT", :description "clj-http implementation for martian", :created 1617291450340}
-{:jar_name "martian-cljs-http", :group_name "martian-cljs-http", :version "0.1.17-SNAPSHOT", :description "cljs-http implementation for martian", :created 1617291464290}
-{:jar_name "martian-re-frame", :group_name "martian-re-frame", :version "0.1.17-SNAPSHOT", :description "re-frame bindings for martian", :created 1617291494460}
-{:jar_name "martian-httpkit", :group_name "martian-httpkit", :version "0.1.17-SNAPSHOT", :description "httpkit implementation for martian", :created 1617291521540}
-{:jar_name "martian-test", :group_name "martian-test", :version "0.1.17-SNAPSHOT", :description "Testing tools for martian", :created 1617291535530}
-{:jar_name "hitchhiker-tree", :group_name "io.replikativ", :version "0.1.10", :description "A Hitchhiker Tree Library", :created 1617292189816}
-{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.7.9-fix_documentation-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1617293874875}
-{:jar_name "core", :group_name "yetibot", :version "20210401.164142.6e74b79", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1617295350680}
-{:jar_name "yetibot", :group_name "yetibot", :version "20210401.164448.270703c", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617295503029}
-{:jar_name "eastwood", :group_name "jonase", :version "0.4.0", :description "A Clojure lint tool", :created 1617301772096}
-{:jar_name "magellan", :group_name "sig-gis", :version "20210401", :description nil, :created 1617303056800}
-{:jar_name "ulti", :group_name "lt", :version "1.0.0-SNAPSHOT", :description "an experimental web UI framework", :created 1617308401943}
-{:jar_name "core", :group_name "yetibot", :version "20210401.203104.5c8f234", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1617309105662}
 {:jar_name "yetibot", :group_name "yetibot", :version "20210401.203316.21cb89c", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617309219795}
 {:jar_name "clem-repl", :group_name "clem-repl", :version "0.1.6-SNAPSHOT", :description "Repl Integration for Clem, the Clojure Error Mediator", :created 1617309304253}
 {:jar_name "antq", :group_name "com.github.liquidz", :version "0.12.4", :description "Point out your outdated dependencies", :created 1617311932783}
@@ -225,8 +209,6 @@
 {:jar_name "zuko", :group_name "org.clojars.quoll", :version "0.6.2", :description "Threatgrid library for common graph database functionality", :created 1617908397135}
 {:jar_name "reveal", :group_name "vlaaad", :version "1.3.206", :description nil, :created 1617908765763}
 {:jar_name "membrane", :group_name "com.phronemophobic", :version "0.9.25-beta", :description "A platform agnostic library for creating user interfaces", :created 1617908779003}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1617909827529}
-{:jar_name "babashka", :group_name "babashka", :version "0.3.3-SNAPSHOT", :description "babashka", :created 1617910284637}
 {:jar_name "marathon-schemas", :group_name "marathon-schemas", :version "4.1.7-SNAPSHOT", :description "data schemas, specifications, and validation tools for marathon", :created 1617910665885}
 {:jar_name "nightcode", :group_name "joinr", :version "1.3.6-SNAPSHOT", :description "An IDE for Clojure and Java", :created 1617913061447}
 {:jar_name "asami", :group_name "org.clojars.quoll", :version "2.0.0", :description "An in memory graph store for Clojure and ClojureScript", :created 1617913325753}
@@ -253,4 +235,22 @@
 {:jar_name "re-frisk", :group_name "re-frisk", :version "1.4.0", :description "Take full control of re-frame app", :created 1617955772606}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.12.3", :description "CLJS development tools", :created 1617967512970}
 {:jar_name "re-frame-throttle", :group_name "org.clojars.salohonka", :version "1.0.0", :description "Throttling effect for Re-frame events.", :created 1617971391595}
-{:jar_name "logging-timbre", :group_name "signal-ai", :version "0.1.0-SNAPSHOT", :description "Consistent timbre configuration, with JSON structured logging support", :created 1617971668040}
+{:jar_name "beicon", :group_name "funcool", :version "2021.04.09-1", :description "Reactive Streams for Clojure(Script)", :created 1617977390227}
+{:jar_name "core", :group_name "yetibot", :version "20210409.141640.9f859de", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1617977832105}
+{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.19", :description "Clojure high performance data processing system", :created 1617977871295}
+{:jar_name "yetibot", :group_name "yetibot", :version "20210409.142314.85cc53f", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617978209814}
+{:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1617978223334}
+{:jar_name "babashka", :group_name "babashka", :version "0.3.3-SNAPSHOT", :description "babashka", :created 1617978769681}
+{:jar_name "alia", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1617979003590}
+{:jar_name "alia-async", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "core.async interface for Alia", :created 1617979014940}
+{:jar_name "alia-java-legacy-time", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "Alia extension for java legacy time codec", :created 1617979026070}
+{:jar_name "alia-joda-time", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "Alia extension for joda-time codec", :created 1617979037720}
+{:jar_name "alia-manifold", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "manifold interface for Alia", :created 1617979048890}
+{:jar_name "alia-spec", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "clojure.spec for Alia", :created 1617979059910}
+{:jar_name "alia-component", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "Component integration for Alia", :created 1617979071020}
+{:jar_name "alia-all", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1617979082140}
+{:jar_name "stylefy", :group_name "stylefy", :version "3.0.0", :description "Library for styling UI components", :created 1617979898446}
+{:jar_name "reagent", :group_name "stylefy", :version "3.0.0", :description "ReagentDOM for stylefy", :created 1617979936066}
+{:jar_name "rum", :group_name "stylefy", :version "3.0.0", :description "RumDOM for stylefy", :created 1617979971696}
+{:jar_name "generic-dom", :group_name "stylefy", :version "3.0.0", :description "Generic DOM for stylefy", :created 1617979995076}
+{:jar_name "logging-timbre", :group_name "signal-ai", :version "0.1.0-SNAPSHOT", :description "Consistent timbre configuration, with JSON structured logging support", :created 1617980627583}
