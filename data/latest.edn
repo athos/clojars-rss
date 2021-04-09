@@ -1,5 +1,3 @@
-{:jar_name "yetibot", :group_name "yetibot", :version "20210401.203316.21cb89c", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617309219795}
-{:jar_name "clem-repl", :group_name "clem-repl", :version "0.1.6-SNAPSHOT", :description "Repl Integration for Clem, the Clojure Error Mediator", :created 1617309304253}
 {:jar_name "antq", :group_name "com.github.liquidz", :version "0.12.4", :description "Point out your outdated dependencies", :created 1617311932783}
 {:jar_name "antq", :group_name "antq", :version "0.12.4", :description "Point out your outdated dependencies", :created 1617311985783}
 {:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.14.3", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1617330217437}
@@ -240,7 +238,6 @@
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.19", :description "Clojure high performance data processing system", :created 1617977871295}
 {:jar_name "yetibot", :group_name "yetibot", :version "20210409.142314.85cc53f", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617978209814}
 {:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1617978223334}
-{:jar_name "babashka", :group_name "babashka", :version "0.3.3-SNAPSHOT", :description "babashka", :created 1617978769681}
 {:jar_name "alia", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1617979003590}
 {:jar_name "alia-async", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "core.async interface for Alia", :created 1617979014940}
 {:jar_name "alia-java-legacy-time", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "Alia extension for java legacy time codec", :created 1617979026070}
@@ -253,4 +250,7 @@
 {:jar_name "reagent", :group_name "stylefy", :version "3.0.0", :description "ReagentDOM for stylefy", :created 1617979936066}
 {:jar_name "rum", :group_name "stylefy", :version "3.0.0", :description "RumDOM for stylefy", :created 1617979971696}
 {:jar_name "generic-dom", :group_name "stylefy", :version "3.0.0", :description "Generic DOM for stylefy", :created 1617979995076}
-{:jar_name "logging-timbre", :group_name "signal-ai", :version "0.1.0-SNAPSHOT", :description "Consistent timbre configuration, with JSON structured logging support", :created 1617980627583}
+{:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc16", :description nil, :created 1617981549569}
+{:jar_name "hitchhiker-tree", :group_name "io.replikativ", :version "0.1.11", :description "A Hitchhiker Tree Library", :created 1617981964447}
+{:jar_name "babashka", :group_name "babashka", :version "0.3.3-SNAPSHOT", :description "babashka", :created 1617983414381}
+{:jar_name "logging-timbre", :group_name "signal-ai", :version "0.1.0-SNAPSHOT", :description "Consistent timbre configuration, with JSON structured logging support", :created 1617984088298}
