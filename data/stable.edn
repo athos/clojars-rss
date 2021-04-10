@@ -1,8 +1,3 @@
-{:jar_name "crux-lmdb", :group_name "juxt", :version "21.04-1.16.0-alpha", :description "Crux LMDB", :created 1617291016822}
-{:jar_name "crux-jdbc", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux JDBC", :created 1617291026192}
-{:jar_name "crux-http-client", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux HTTP Client", :created 1617291035162}
-{:jar_name "crux-http-server", :group_name "juxt", :version "21.04-1.16.0-alpha", :description "Crux HTTP Server", :created 1617291047212}
-{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux Kafka Embedded", :created 1617291056792}
 {:jar_name "crux-kafka-connect", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux Kafka Connect", :created 1617291067652}
 {:jar_name "crux-kafka", :group_name "juxt", :version "21.04-1.16.0-beta", :description "Crux Kafka", :created 1617291078482}
 {:jar_name "crux-lucene", :group_name "juxt", :version "21.04-1.16.0-alpha", :description "Crux Lucene integration", :created 1617291099012}
@@ -254,3 +249,8 @@
 {:jar_name "reagent-material-ui", :group_name "arttuka", :version "5.0.0-alpha.29-0", :description "Reagent wrapper library for Material UI v5 alpha", :created 1618066144171}
 {:jar_name "missing", :group_name "org.clojars.rutledgepaulv", :version "0.1.37", :description "A utility library for Clojure of functions and macros that are frequently missed and recreated.", :created 1618067799674}
 {:jar_name "clojure-hl7-parser", :group_name "org.clojars.cmiles74", :version "3.4.2", :description "A parser for parsing HL7 messages.", :created 1618068988170}
+{:jar_name "girouette", :group_name "girouette", :version "0.0.3", :description nil, :created 1618076560385}
+{:jar_name "nrepl-middleware", :group_name "org.pinkgorilla", :version "0.3.29", :description "nREPL middleware", :created 1618077059923}
+{:jar_name "closeable-map", :group_name "piotr-yuxuan", :version "0.8.0", :description "A Clojure map which implements java.io.Closeable", :created 1618077440812}
+{:jar_name "strgen", :group_name "com.velisco", :version "0.2.0", :description "String generator from regular expressions, for use with Clojure test.check and spec", :created 1618077661312}
+{:jar_name "gorilla-explore", :group_name "org.pinkgorilla", :version "0.2.43", :description "Explore PinkGorilla notebooks (private and public) on github.", :created 1618078159980}
