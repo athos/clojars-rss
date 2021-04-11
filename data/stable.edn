@@ -1,6 +1,3 @@
-{:jar_name "core", :group_name "yetibot", :version "20210401.203104.5c8f234", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1617309105662}
-{:jar_name "yetibot", :group_name "yetibot", :version "20210401.203316.21cb89c", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617309219795}
-{:jar_name "antq", :group_name "com.github.liquidz", :version "0.12.4", :description "Point out your outdated dependencies", :created 1617311932783}
 {:jar_name "antq", :group_name "antq", :version "0.12.4", :description "Point out your outdated dependencies", :created 1617311985783}
 {:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.14.3", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1617330217437}
 {:jar_name "fulcro-rad-datomic", :group_name "com.fulcrologic", :version "1.0.6-1", :description "A Datomic database driver for Fulcro RAD.", :created 1617331625659}
@@ -254,3 +251,6 @@
 {:jar_name "closeable-map", :group_name "piotr-yuxuan", :version "0.11.0", :description "A Clojure map which implements java.io.Closeable", :created 1618093484380}
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.4.21", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1618100254542}
 {:jar_name "re-jsoneditor", :group_name "superstructor", :version "0.0.3", :description "Reagent wrapper for josdejong/jsoneditor", :created 1618108405148}
+{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.1.14", :description "web (server / reagent) helper library.", :created 1618111269476}
+{:jar_name "re-frame-clipboard-fx", :group_name "superstructor", :version "0.0.2", :description "A re-frame effects handler for interacting with the system clipboard.", :created 1618111760433}
+{:jar_name "cbass", :group_name "viebel", :version "0.2.11", :description "adding simple to HBase", :created 1618111795943}
