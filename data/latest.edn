@@ -1,7 +1,3 @@
-{:jar_name "experience", :group_name "degree9", :version "0.0.0-SNAPSHOT", :description "Degree9 Experience for Enterprise.", :created 1617654275774}
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1617655378037}
-{:jar_name "reformation", :group_name "byu-odh", :version "12", :description "Generate and manipulate form datastructures in pure Clojure, which can be read with Reagent.", :created 1617657266249}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.04.01-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1617658196085}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.1.1", :description "web (server / reagent) helper library.", :created 1617663097303}
 {:jar_name "re-highlight", :group_name "superstructor", :version "0.0.2", :description "Reagent wrapper for Highlight.js", :created 1617667175926}
 {:jar_name "re-jsoneditor", :group_name "superstructor", :version "0.0.2", :description "Reagent wrapper for josdejong/jsoneditor", :created 1617669666184}
@@ -254,3 +250,7 @@
 {:jar_name "duct.module.datomic", :group_name "hden", :version "0.5.0", :description "A Duct module that adds Integrant keys for a Datomic database connection and Ragtime migrations to a configuration.", :created 1618199127187}
 {:jar_name "duct.auth.jwks", :group_name "hden", :version "0.1.0", :description "FIXME: write description", :created 1618199689214}
 {:jar_name "pomegranate", :group_name "clj-commons", :version "1.2.1", :description "Pomegranate is a library that provides a sane Clojure API for Maven-resolver", :created 1618209086652}
+{:jar_name "boot-sass", :group_name "deraen", :version "0.5.5", :description "Boot task to compile SASS", :created 1618211893450}
+{:jar_name "lein-sass4clj", :group_name "deraen", :version "0.5.5", :description "Leinigen task to compile SASS", :created 1618211903260}
+{:jar_name "sass4clj", :group_name "deraen", :version "0.5.5", :description "Clojure wrapper for jsass", :created 1618211913800}
+{:jar_name "babashka", :group_name "babashka", :version "0.3.4", :description "babashka", :created 1618214369239}
