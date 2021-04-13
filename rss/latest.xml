@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 13 Apr 2021 19:10:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Apr 2021 20:08:35 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.seancorfield/honeysql/versions/2.0.0-beta2</guid>
+    <title>[com.github.seancorfield/honeysql &quot;2.0.0-beta2&quot;]</title>
+    <link>https://clojars.org/com.github.seancorfield/honeysql/versions/2.0.0-beta2</link>
+    <description>SQL as Clojure data structures.</description>
+    <pubDate>Tue, 13 Apr 2021 20:02:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/seancorfield/honeysql/versions/2.0.0-beta2</guid>
+    <title>[seancorfield/honeysql &quot;2.0.0-beta2&quot;]</title>
+    <link>https://clojars.org/seancorfield/honeysql/versions/2.0.0-beta2</link>
+    <description>SQL as Clojure data structures.</description>
+    <pubDate>Tue, 13 Apr 2021 20:01:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/thheller/shadow-cljs/versions/2.12.5</guid>
+    <title>[thheller/shadow-cljs &quot;2.12.5&quot;]</title>
+    <link>https://clojars.org/thheller/shadow-cljs/versions/2.12.5</link>
+    <description>CLJS development tools</description>
+    <pubDate>Tue, 13 Apr 2021 19:40:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.clojure-goes-fast/clj-async-profiler/versions/1.0.0-SNAPSHOT</guid>
+    <title>[com.clojure-goes-fast/clj-async-profiler &quot;1.0.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.clojure-goes-fast/clj-async-profiler/versions/1.0.0-SNAPSHOT</link>
+    <description>Embeddable Clojure profiler (based on async-profiler)</description>
+    <pubDate>Tue, 13 Apr 2021 19:24:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.phronemophobic.reveal-plugin/reveal-exception/versions/1.0.2</guid>
+    <title>[com.phronemophobic.reveal-plugin/reveal-exception &quot;1.0.2&quot;]</title>
+    <link>https://clojars.org/com.phronemophobic.reveal-plugin/reveal-exception/versions/1.0.2</link>
+    <description>FIXME: my new application.</description>
+    <pubDate>Tue, 13 Apr 2021 19:17:36 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.fluree/db/versions/1.0.0-rc17</guid>
     <title>[com.fluree/db &quot;1.0.0-rc17&quot;]</title>
@@ -424,13 +459,6 @@
     <link>https://clojars.org/clj-kondo/versions/2021.04.01-SNAPSHOT</link>
     <description>A linter for Clojure that sparks joy.</description>
     <pubDate>Mon, 12 Apr 2021 14:16:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.clojure-goes-fast/clj-async-profiler/versions/1.0.0-SNAPSHOT</guid>
-    <title>[com.clojure-goes-fast/clj-async-profiler &quot;1.0.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.clojure-goes-fast/clj-async-profiler/versions/1.0.0-SNAPSHOT</link>
-    <description>Embeddable Clojure profiler (based on async-profiler)</description>
-    <pubDate>Mon, 12 Apr 2021 14:04:11 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/funcool/beicon/versions/2021.04.12-1</guid>
@@ -1780,34 +1808,6 @@
     <link>https://clojars.org/jhonny007/lambdakube/versions/0.10.1</link>
     <description>A Clojure library for generating Kubernetes API objects</description>
     <pubDate>Wed, 7 Apr 2021 15:24:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cognitect-aws-s3-retry/versions/0.1.0</guid>
-    <title>[cognitect-aws-s3-retry &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/cognitect-aws-s3-retry/versions/0.1.0</link>
-    <description>Retry library S3-specific errors</description>
-    <pubDate>Wed, 7 Apr 2021 14:45:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/rtcritical/rtengine-service-connection/versions/2.0.0</guid>
-    <title>[rtcritical/rtengine-service-connection &quot;2.0.0&quot;]</title>
-    <link>https://clojars.org/rtcritical/rtengine-service-connection/versions/2.0.0</link>
-    <description>Service Connection for RTEngine</description>
-    <pubDate>Wed, 7 Apr 2021 13:44:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.justminecraft.afksleep/afksleep/versions/1.0.1</guid>
-    <title>[net.justminecraft.afksleep/afksleep &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/net.justminecraft.afksleep/afksleep/versions/1.0.1</link>
-    <description>Ignores afk players when players try to sleep</description>
-    <pubDate>Wed, 7 Apr 2021 12:00:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.vertx/vertx-opentracing/versions/4.0.3-1</guid>
-    <title>[com.vertx/vertx-opentracing &quot;4.0.3-1&quot;]</title>
-    <link>https://clojars.org/com.vertx/vertx-opentracing/versions/4.0.3-1</link>
-    <description></description>
-    <pubDate>Wed, 7 Apr 2021 09:38:56 +0000</pubDate>
   </item>
   </channel>
 </rss>
