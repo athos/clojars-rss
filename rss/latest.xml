@@ -4,7 +4,31 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 14 Apr 2021 16:07:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Apr 2021 17:20:04 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/spork/versions/0.2.1.4-SNAPSHOT</guid>
+    <title>[spork &quot;0.2.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/spork/versions/0.2.1.4-SNAPSHOT</link>
+    <description>A set of libraries derived from Spoon&#39;s Operations Research Kit.
+   Libraries are modular and will be supported as stand-alone dependencies.
+   This project is an uberjar that includes all of the modular bits in a single
+   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,
+   focusing on a functional API, a default towards purity and persistent data
+   structures, with alternative mutable/imperative counterparts.  The vast
+   majority of spork is written in Clojure, with an intentional nod toward
+   independence from external libraries, particularly Java libs.  Consequently,
+   spork should provide a lightweight, clojure-based platform for the topics
+   covered by the libraries.  I am currently working to eliminate legacy
+   java dependencies where possible.</description>
+    <pubDate>Wed, 14 Apr 2021 16:59:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.backminds/heroicons-clojure/versions/1.0.1</guid>
+    <title>[com.backminds/heroicons-clojure &quot;1.0.1&quot;]</title>
+    <link>https://clojars.org/com.backminds/heroicons-clojure/versions/1.0.1</link>
+    <description>heroicons for Fulcro and Reagent</description>
+    <pubDate>Wed, 14 Apr 2021 16:13:51 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/borkdude/sci/versions/0.2.5-SNAPSHOT</guid>
     <title>[borkdude/sci &quot;0.2.5-SNAPSHOT&quot;]</title>
@@ -1540,23 +1564,6 @@
     <pubDate>Thu, 8 Apr 2021 23:03:56 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/spork/versions/0.2.1.4-SNAPSHOT</guid>
-    <title>[spork &quot;0.2.1.4-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/spork/versions/0.2.1.4-SNAPSHOT</link>
-    <description>A set of libraries derived from Spoon&#39;s Operations Research Kit.
-   Libraries are modular and will be supported as stand-alone dependencies.
-   This project is an uberjar that includes all of the modular bits in a single
-   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,
-   focusing on a functional API, a default towards purity and persistent data
-   structures, with alternative mutable/imperative counterparts.  The vast
-   majority of spork is written in Clojure, with an intentional nod toward
-   independence from external libraries, particularly Java libs.  Consequently,
-   spork should provide a lightweight, clojure-based platform for the topics
-   covered by the libraries.  I am currently working to eliminate legacy
-   java dependencies where possible.</description>
-    <pubDate>Thu, 8 Apr 2021 22:31:41 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/io.staticweb/aws-api-failjure/versions/1.0.0</guid>
     <title>[io.staticweb/aws-api-failjure &quot;1.0.0&quot;]</title>
     <link>https://clojars.org/io.staticweb/aws-api-failjure/versions/1.0.0</link>
@@ -1801,13 +1808,6 @@
     <link>https://clojars.org/io.github.jelastic/jelastic/versions/7.2.0-7-SNAPSHOT</link>
     <description></description>
     <pubDate>Thu, 8 Apr 2021 11:27:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20210408-105253.1e29f0eb</guid>
-    <title>[org.akvo.flow/akvo-flow &quot;20210408-105253.1e29f0eb&quot;]</title>
-    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20210408-105253.1e29f0eb</link>
-    <description></description>
-    <pubDate>Thu, 8 Apr 2021 10:53:31 +0000</pubDate>
   </item>
   </channel>
 </rss>
