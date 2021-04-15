@@ -1,5 +1,3 @@
-{:jar_name "crux-hbase-test", :group_name "io.kosong.crux", :version "0.3.0-SNAPSHOT", :description "Crux HBase test module", :created 1617896466883}
-{:jar_name "rtengine", :group_name "rtcritical", :version "1.0.0", :description "Minimal clojure service engine that allows deploying single file services at runtime with their own isolated dependencies. Dependencies are downloaded as necessary. Multiple versions of a service can coexist in the system and be individually ran.", :created 1617897538740}
 {:jar_name "tablecloth", :group_name "scicloj", :version "5.17", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1617898196155}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.19.0", :description "Core utils library for Clojure/Script", :created 1617899658594}
 {:jar_name "tailwind-garden", :group_name "com.wsscode", :version "2021.04.08-1", :description "", :created 1617900306101}
@@ -137,7 +135,6 @@
 {:jar_name "gorilla-explore", :group_name "org.pinkgorilla", :version "0.2.46", :description "Explore PinkGorilla notebooks (private and public) on github.", :created 1618176447817}
 {:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.1.2", :description "Reagent components for notebook ui.", :created 1618178538628}
 {:jar_name "babashka", :group_name "babashka", :version "0.3.4-SNAPSHOT", :description "babashka", :created 1618179121446}
-{:jar_name "cljam", :group_name "cljam", :version "0.8.1-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1618187847025}
 {:jar_name "duct.module.datomic", :group_name "hden", :version "0.5.0", :description "A Duct module that adds Integrant keys for a Datomic database connection and Ragtime migrations to a configuration.", :created 1618199127187}
 {:jar_name "duct.auth.jwks", :group_name "hden", :version "0.1.0", :description "FIXME: write description", :created 1618199689214}
 {:jar_name "pomegranate", :group_name "clj-commons", :version "1.2.1", :description "Pomegranate is a library that provides a sane Clojure API for Maven-resolver", :created 1618209086652}
@@ -254,3 +251,6 @@
 {:jar_name "fastmath", :group_name "generateme", :version "2.1.6-SNAPSHOT", :description "Fast and primitive math library", :created 1618443280883}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.1.19", :description "web (server / reagent) helper library.", :created 1618445084845}
 {:jar_name "ki", :group_name "kepler16", :version "0.0.2", :description nil, :created 1618445349564}
+{:jar_name "sqsaws-clj", :group_name "sqsaws-clj", :version "0.1.0", :description "Library for simple usage of AWS SQS", :created 1618447308275}
+{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.1.20", :description "web (server / reagent) helper library.", :created 1618448433871}
+{:jar_name "cljam", :group_name "cljam", :version "0.8.1-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1618449068238}
