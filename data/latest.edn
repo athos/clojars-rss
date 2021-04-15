@@ -1,5 +1,3 @@
-{:jar_name "cognitect-aws-retry", :group_name "democracyworks", :version "0.1.2", :description "Retry library for http errors", :created 1617906413512}
-{:jar_name "zuko", :group_name "org.clojars.quoll", :version "0.6.2", :description "Threatgrid library for common graph database functionality", :created 1617908397135}
 {:jar_name "reveal", :group_name "vlaaad", :version "1.3.206", :description nil, :created 1617908765763}
 {:jar_name "membrane", :group_name "com.phronemophobic", :version "0.9.25-beta", :description "A platform agnostic library for creating user interfaces", :created 1617908779003}
 {:jar_name "marathon-schemas", :group_name "marathon-schemas", :version "4.1.7-SNAPSHOT", :description "data schemas, specifications, and validation tools for marathon", :created 1617910665885}
@@ -155,7 +153,6 @@
 {:jar_name "chartjs", :group_name "cljsjs", :version "3.1.0-0", :description "Chart.js - Simple yet flexible JavaScript charting for designers & developers", :created 1618244562669}
 {:jar_name "date-fns", :group_name "cljsjs", :version "2.20.2-0", :description "Modern JavaScript date utility library", :created 1618245962058}
 {:jar_name "clam", :group_name "kepler16", :version "4.0.20", :description nil, :created 1618246235766}
-{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.7.9-fix_docs-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1618246859414}
 {:jar_name "ring-swagger-ui", :group_name "metosin", :version "3.46.0", :description "Swagger UI for Ring apps", :created 1618252556388}
 {:jar_name "framework", :group_name "com.flexiana", :version "0.1.7", :description "Framework", :created 1618252558168}
 {:jar_name "alia", :group_name "cc.qbits", :version "5.0.0-alpha7", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1618256564650}
@@ -227,7 +224,6 @@
 {:jar_name "active-logger", :group_name "de.active-group", :version "0.4.0", :description "Active Logger: Utilities and DSL for logging on top of Timbre.", :created 1618412198379}
 {:jar_name "datofu", :group_name "vvvvalvalval", :version "0.1.1", :description "Battery-included Datomic", :created 1618413103235}
 {:jar_name "tightly-packed-trie", :group_name "com.owoga", :version "0.2.2", :description nil, :created 1618415237075}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1618415745303}
 {:jar_name "heroicons-clojure", :group_name "com.backminds", :version "1.0.1", :description "heroicons for Fulcro and Reagent", :created 1618416831319}
 {:jar_name "spork", :group_name "spork", :version "0.2.1.4-SNAPSHOT", :description "A set of libraries derived from Spoon's Operations Research Kit.\n   Libraries are modular and will be supported as stand-alone dependencies.\n   This project is an uberjar that includes all of the modular bits in a single\n   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,\n   focusing on a functional API, a default towards purity and persistent data\n   structures, with alternative mutable/imperative counterparts.  The vast\n   majority of spork is written in Clojure, with an intentional nod toward\n   independence from external libraries, particularly Java libs.  Consequently,\n   spork should provide a lightweight, clojure-based platform for the topics\n   covered by the libraries.  I am currently working to eliminate legacy\n   java dependencies where possible.", :created 1618419570746}
 {:jar_name "tightly-packed-trie", :group_name "com.owoga", :version "0.2.3", :description nil, :created 1618425819719}
@@ -238,7 +234,6 @@
 {:jar_name "depstar", :group_name "seancorfield", :version "2.0.216", :description "a clj-based uberjarrer", :created 1618437263309}
 {:jar_name "depstar", :group_name "com.github.seancorfield", :version "2.0.216", :description "a clj-based uberjarrer", :created 1618437287309}
 {:jar_name "bankster", :group_name "io.randomseed", :version "1.2.1", :description "Currencies and money processing in Clojure", :created 1618438023926}
-{:jar_name "babashka", :group_name "babashka", :version "0.3.5-SNAPSHOT", :description "babashka", :created 1618438408864}
 {:jar_name "envoy", :group_name "tolitius", :version "0.1.24", :description "a gentle touch of clojure to hashicorp's consul", :created 1618439620099}
 {:jar_name "fastmath", :group_name "generateme", :version "2.1.6-SNAPSHOT", :description "Fast and primitive math library", :created 1618443280883}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.1.19", :description "web (server / reagent) helper library.", :created 1618445084845}
@@ -254,3 +249,8 @@
 {:jar_name "gorilla-explore", :group_name "org.pinkgorilla", :version "0.2.47", :description "Explore PinkGorilla notebooks (private and public) on github.", :created 1618469972468}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.1.22", :description "web (server / reagent) helper library.", :created 1618472210009}
 {:jar_name "glogi", :group_name "lambdaisland", :version "1.0.100", :description "A thin wrapper around `goog.log` inspired by `pedestal.log`.", :created 1618472710026}
+{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.7.9-fix_docs-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1618475163517}
+{:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.1.3", :description "Reagent components for notebook ui.", :created 1618475476386}
+{:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1618476483700}
+{:jar_name "babashka", :group_name "babashka", :version "0.3.5-SNAPSHOT", :description "babashka", :created 1618476929638}
+{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.1.23", :description "web (server / reagent) helper library.", :created 1618477380176}
