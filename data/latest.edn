@@ -1,5 +1,3 @@
-{:jar_name "alia", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1617986979466}
-{:jar_name "alia-async", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "core.async interface for Alia", :created 1617986990856}
 {:jar_name "alia-java-legacy-time", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "Alia extension for java legacy time codec", :created 1617987002066}
 {:jar_name "alia-joda-time", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "Alia extension for joda-time codec", :created 1617987013195}
 {:jar_name "alia-manifold", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "manifold interface for Alia", :created 1617987024735}
@@ -209,7 +207,6 @@
 {:jar_name "clj-camel", :group_name "takeoff", :version "1.6.1", :description "Clojure wrapper for Apache Camel", :created 1618480912921}
 {:jar_name "sci", :group_name "borkdude", :version "0.2.5-SNAPSHOT", :description "Small Clojure Interpreter", :created 1618481601848}
 {:jar_name "sqs-consumer", :group_name "com.signal-ai", :version "0.4.0-SNAPSHOT", :description "Another SQS Library", :created 1618483013342}
-{:jar_name "babashka", :group_name "babashka", :version "0.3.6-SNAPSHOT", :description "babashka", :created 1618484225026}
 {:jar_name "bluegenes-tool-store", :group_name "org.intermine", :version "0.2.2", :description "Microservice which serves tools for use with BlueGene's Tool API", :created 1618489356613}
 {:jar_name "clj-camel", :group_name "takeoff", :version "1.6.4", :description "Clojure wrapper for Apache Camel", :created 1618490824637}
 {:jar_name "bluegenes", :group_name "org.intermine", :version "1.0.0", :description "Bluegenes is a Clojure-powered user interface for InterMine, the biological data warehouse", :created 1618493855124}
@@ -254,3 +251,6 @@
 {:jar_name "clj-async-profiler", :group_name "com.clojure-goes-fast", :version "1.0.0-SNAPSHOT", :description "Embeddable Clojure profiler (based on async-profiler)", :created 1618580866546}
 {:jar_name "erpnext-client", :group_name "erpnext-client", :version "0.1.0-SNAPSHOT", :description "Base layer for ERPNext interaction through its REST API", :created 1618581122015}
 {:jar_name "jackdaw", :group_name "fundingcircle", :version "0.7.11-am_remove_codecov_TDI_2564-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1618581866232}
+{:jar_name "babashka", :group_name "babashka", :version "0.3.6-SNAPSHOT", :description "babashka", :created 1618583009397}
+{:jar_name "k8s-mastodon-bot", :group_name "dda", :version "0.1.3-SNAPSHOT", :description "common utils for dda config", :created 1618583696064}
+{:jar_name "wedge", :group_name "io.dominic", :version "0.13.0", :description nil, :created 1618584400391}
