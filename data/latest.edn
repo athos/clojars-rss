@@ -1,5 +1,3 @@
-{:jar_name "core", :group_name "yetibot", :version "20210409.141640.9f859de", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1617977832105}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "5.19", :description "Clojure high performance data processing system", :created 1617977871295}
 {:jar_name "yetibot", :group_name "yetibot", :version "20210409.142314.85cc53f", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1617978209814}
 {:jar_name "alia", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "Cassandra CQL3 client for Clojure - datastax/java-driver wrapper", :created 1617979003590}
 {:jar_name "alia-async", :group_name "cc.qbits", :version "5.0.0-alpha4", :description "core.async interface for Alia", :created 1617979014940}
@@ -245,7 +243,6 @@
 {:jar_name "repl-tooling", :group_name "repl-tooling", :version "0.5.12", :description "", :created 1618512005200}
 {:jar_name "closeable-map", :group_name "piotr-yuxuan", :version "0.12.0", :description "A Clojure map which implements java.io.Closeable", :created 1618515070357}
 {:jar_name "servo", :group_name "com.7theta", :version "1.11.1", :description "A rehinkdb client library designed to integrate with signum", :created 1618515571585}
-{:jar_name "uikit-hl", :group_name "degree9", :version "3.5.16-SNAPSHOT", :description "UIKit Components for Hoplon.", :created 1618516758920}
 {:jar_name "devcards", :group_name "atsman", :version "0.2.9-SNAPSHOT", :description "Devcards is a ClojureScript library that provides a lab space in which you can develop your UI components independently and interactively.", :created 1618518257044}
 {:jar_name "wasm", :group_name "io.helins", :version "0.0.0-alpha3", :description "WebAssembly compiler and decompiler in Clojure/script", :created 1618519904308}
 {:jar_name "quip", :group_name "quip", :version "1.0.6", :description "A 2D game library based on Quil", :created 1618521172223}
@@ -254,3 +251,6 @@
 {:jar_name "celtuce-manifold", :group_name "celtuce-manifold", :version "0.4.0", :description "", :created 1618522004369}
 {:jar_name "celtuce", :group_name "celtuce", :version "0.4.0", :description "An idiomatic Clojure Redis client wrapping the Java client Lettuce", :created 1618522032189}
 {:jar_name "trapperkeeper-webserver-jetty9", :group_name "puppetlabs", :version "4.1.5", :description "A jetty9-based webserver implementation for use with the puppetlabs/trapperkeeper service framework.", :created 1618522521427}
+{:jar_name "clj-flx", :group_name "anonimitoraf", :version "1.1.0", :description "Flexible \"fuzzy\" matching", :created 1618527997104}
+{:jar_name "clj-parent", :group_name "puppetlabs", :version "4.6.19", :description "", :created 1618528305403}
+{:jar_name "uikit-hl", :group_name "degree9", :version "3.5.16-SNAPSHOT", :description "UIKit Components for Hoplon.", :created 1618528896871}
