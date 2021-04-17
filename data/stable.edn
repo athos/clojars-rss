@@ -1,6 +1,3 @@
-{:jar_name "alia-async", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "core.async interface for Alia", :created 1617986990856}
-{:jar_name "alia-java-legacy-time", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "Alia extension for java legacy time codec", :created 1617987002066}
-{:jar_name "alia-joda-time", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "Alia extension for joda-time codec", :created 1617987013195}
 {:jar_name "alia-manifold", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "manifold interface for Alia", :created 1617987024735}
 {:jar_name "alia-spec", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "clojure.spec for Alia", :created 1617987035825}
 {:jar_name "alia-component", :group_name "cc.qbits", :version "5.0.0-alpha5", :description "Component integration for Alia", :created 1617987047005}
@@ -254,3 +251,6 @@
 {:jar_name "closeable-map", :group_name "piotr-yuxuan", :version "0.29.0", :description "A Clojure map which implements java.io.Closeable", :created 1618682529222}
 {:jar_name "closeable-map", :group_name "piotr-yuxuan", :version "0.30.0", :description "A Clojure map which implements java.io.Closeable", :created 1618683339839}
 {:jar_name "slava", :group_name "piotr-yuxuan", :version "0.26.0", :description "Kafka Avro Serde for Clojure", :created 1618683935456}
+{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.1.27", :description "web (server / reagent) helper library.", :created 1618690989042}
+{:jar_name "lein-template", :group_name "holy-lambda", :version "0.0.10", :description "Template for holy lambda micro framework", :created 1618691738433}
+{:jar_name "holy-lambda", :group_name "fierycod", :version "0.1.8", :description "Micro framework which turns your code into AWS Lambda functions", :created 1618692007427}
