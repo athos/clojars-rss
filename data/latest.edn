@@ -1,8 +1,3 @@
-{:jar_name "boot-sass", :group_name "deraen", :version "0.5.5", :description "Boot task to compile SASS", :created 1618211893450}
-{:jar_name "lein-sass4clj", :group_name "deraen", :version "0.5.5", :description "Leinigen task to compile SASS", :created 1618211903260}
-{:jar_name "sass4clj", :group_name "deraen", :version "0.5.5", :description "Clojure wrapper for jsass", :created 1618211913800}
-{:jar_name "babashka", :group_name "babashka", :version "0.3.4", :description "babashka", :created 1618214369239}
-{:jar_name "logging-timbre", :group_name "com.signal-ai", :version "0.2.0-SNAPSHOT", :description "Consistent timbre configuration, with JSON structured logging support", :created 1618217264325}
 {:jar_name "framework", :group_name "com.flexiana", :version "0.1.6", :description "Framework", :created 1618221969324}
 {:jar_name "cider-nrepl", :group_name "cider", :version "0.25.11", :description "A collection of nREPL middlewares designed to enhance Clojure editors.", :created 1618222299973}
 {:jar_name "pipeline-schemas", :group_name "com.signal-ai", :version "0.1.0-SNAPSHOT", :description "Schemas for pipeline services", :created 1618225587978}
@@ -184,7 +179,6 @@
 {:jar_name "lein-template", :group_name "re-frame", :version "2.2.0", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1618614839392}
 {:jar_name "leiningen", :group_name "leiningen", :version "2.9.6", :description "Automate Clojure projects without setting your hair on fire.", :created 1618616663344}
 {:jar_name "leiningen-core", :group_name "leiningen-core", :version "2.9.6", :description "Library for core functionality of Leiningen.", :created 1618616712624}
-{:jar_name "tla-edn", :group_name "pfeodrippe", :version "0.6.0-SNAPSHOT", :description "", :created 1618634587766}
 {:jar_name "closeable-map", :group_name "piotr-yuxuan", :version "0.18.0", :description "A Clojure map which implements java.io.Closeable", :created 1618649945240}
 {:jar_name "closeable-map", :group_name "piotr-yuxuan", :version "0.19.0", :description "A Clojure map which implements java.io.Closeable", :created 1618653729804}
 {:jar_name "clj-imap-observer", :group_name "com.markusaschl", :version "0.2.0", :description "IdleObserver for Clojure", :created 1618653840224}
@@ -253,4 +247,10 @@
 {:jar_name "backpack", :group_name "io.jesi", :version "7.1.0-SNAPSHOT", :description "Clojure(Script) cross-project utilities", :created 1618808951076}
 {:jar_name "backpack", :group_name "io.jesi", :version "7.1.0", :description "Clojure(Script) cross-project utilities", :created 1618809303984}
 {:jar_name "parent", :group_name "io.jesi", :version "4.9.0", :description "Clojure and NPM parent package definitions", :created 1618809923102}
-{:jar_name "clj-template", :group_name "org.rssys.libtemplate", :version "2.0.0-SNAPSHOT", :description "Red Stars Systems library template.", :created 1618811936283}
+{:jar_name "tla-edn", :group_name "pfeodrippe", :version "0.6.0-SNAPSHOT", :description "", :created 1618812688040}
+{:jar_name "clj-template", :group_name "org.rssys.libtemplate", :version "2.0.0-SNAPSHOT", :description "Red Stars Systems library template.", :created 1618813434077}
+{:jar_name "chui-core", :group_name "lambdaisland", :version "1.0.179", :description "ClojureScript Test Runner Core", :created 1618815605417}
+{:jar_name "chui-ui", :group_name "lambdaisland", :version "1.0.179", :description "Browser UI for the Chui test runner", :created 1618815619487}
+{:jar_name "chui-remote", :group_name "lambdaisland", :version "1.0.179", :description "Funnel client for connecting test tooling to ClojureScript runtimes", :created 1618815632137}
+{:jar_name "chui-shadow", :group_name "lambdaisland", :version "1.0.179", :description "Chui-based test runner namespaces to be used with Shadow-cljs", :created 1618815644097}
+{:jar_name "chui", :group_name "lambdaisland", :version "1.0.179", :description "Modern ClojureScript test runner", :created 1618815655997}
