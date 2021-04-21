@@ -4,7 +4,50 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 21 Apr 2021 18:14:47 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Apr 2021 19:10:16 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/yetibot/core/versions/20210421.190858.0612017</guid>
+    <title>[yetibot/core &quot;20210421.190858.0612017&quot;]</title>
+    <link>https://clojars.org/yetibot/core/versions/20210421.190858.0612017</link>
+    <description>Core yetibot utilities, extracted for shared use among yetibot
+                and its various plugins</description>
+    <pubDate>Wed, 21 Apr 2021 19:09:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/kelveden/clj-wiremock/versions/1.6.0</guid>
+    <title>[kelveden/clj-wiremock &quot;1.6.0&quot;]</title>
+    <link>https://clojars.org/kelveden/clj-wiremock/versions/1.6.0</link>
+    <description>Clojure bindings for WireMock</description>
+    <pubDate>Wed, 21 Apr 2021 19:07:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.FieryCod/holy-lambda-async-retriever/versions/0.0.3</guid>
+    <title>[io.github.FieryCod/holy-lambda-async-retriever &quot;0.0.3&quot;]</title>
+    <link>https://clojars.org/io.github.FieryCod/holy-lambda-async-retriever/versions/0.0.3</link>
+    <description>Support for async handlers which returns channel as a response.</description>
+    <pubDate>Wed, 21 Apr 2021 19:06:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.FieryCod/holy-lambda-default-retriever/versions/0.0.3</guid>
+    <title>[io.github.FieryCod/holy-lambda-default-retriever &quot;0.0.3&quot;]</title>
+    <link>https://clojars.org/io.github.FieryCod/holy-lambda-default-retriever/versions/0.0.3</link>
+    <description>Default retriever for payloads</description>
+    <pubDate>Wed, 21 Apr 2021 19:05:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.FieryCod/holy-lambda/versions/0.1.23</guid>
+    <title>[io.github.FieryCod/holy-lambda &quot;0.1.23&quot;]</title>
+    <link>https://clojars.org/io.github.FieryCod/holy-lambda/versions/0.1.23</link>
+    <description>Micro framework which turns your code into AWS Lambda functions</description>
+    <pubDate>Wed, 21 Apr 2021 18:41:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/holy-lambda/lein-template/versions/0.1.23</guid>
+    <title>[holy-lambda/lein-template &quot;0.1.23&quot;]</title>
+    <link>https://clojars.org/holy-lambda/lein-template/versions/0.1.23</link>
+    <description>Template for holy lambda micro framework</description>
+    <pubDate>Wed, 21 Apr 2021 18:41:33 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/notespace-sicmutils/versions/0.18.0</guid>
     <title>[notespace-sicmutils &quot;0.18.0&quot;]</title>
@@ -1759,48 +1802,6 @@ application development.</description>
     <link>https://clojars.org/org.intermine/bluegenes/versions/1.0.0</link>
     <description>Bluegenes is a Clojure-powered user interface for InterMine, the biological data warehouse</description>
     <pubDate>Thu, 15 Apr 2021 13:37:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/takeoff/clj-camel/versions/1.6.4</guid>
-    <title>[takeoff/clj-camel &quot;1.6.4&quot;]</title>
-    <link>https://clojars.org/takeoff/clj-camel/versions/1.6.4</link>
-    <description>Clojure wrapper for Apache Camel</description>
-    <pubDate>Thu, 15 Apr 2021 12:47:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.intermine/bluegenes-tool-store/versions/0.2.2</guid>
-    <title>[org.intermine/bluegenes-tool-store &quot;0.2.2&quot;]</title>
-    <link>https://clojars.org/org.intermine/bluegenes-tool-store/versions/0.2.2</link>
-    <description>Microservice which serves tools for use with BlueGene&#39;s Tool API</description>
-    <pubDate>Thu, 15 Apr 2021 12:22:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.signal-ai/sqs-consumer/versions/0.4.0-SNAPSHOT</guid>
-    <title>[com.signal-ai/sqs-consumer &quot;0.4.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.signal-ai/sqs-consumer/versions/0.4.0-SNAPSHOT</link>
-    <description>Another SQS Library</description>
-    <pubDate>Thu, 15 Apr 2021 10:36:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/borkdude/sci/versions/0.2.5-SNAPSHOT</guid>
-    <title>[borkdude/sci &quot;0.2.5-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/borkdude/sci/versions/0.2.5-SNAPSHOT</link>
-    <description>Small Clojure Interpreter</description>
-    <pubDate>Thu, 15 Apr 2021 10:13:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/takeoff/clj-camel/versions/1.6.1</guid>
-    <title>[takeoff/clj-camel &quot;1.6.1&quot;]</title>
-    <link>https://clojars.org/takeoff/clj-camel/versions/1.6.1</link>
-    <description>Clojure wrapper for Apache Camel</description>
-    <pubDate>Thu, 15 Apr 2021 10:01:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/luposlip/json-schema/versions/0.3.0</guid>
-    <title>[luposlip/json-schema &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/luposlip/json-schema/versions/0.3.0</link>
-    <description>Clojure library for JSON Schema validation and generation - Draft-07 compatible</description>
-    <pubDate>Thu, 15 Apr 2021 09:48:07 +0000</pubDate>
   </item>
   </channel>
 </rss>
