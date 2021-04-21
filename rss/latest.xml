@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 21 Apr 2021 20:06:13 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Apr 2021 21:05:47 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.FieryCod/holy-lambda-babashka/versions/0.1.27-SNAPSHOT</guid>
+    <title>[io.github.FieryCod/holy-lambda-babashka &quot;0.1.27-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/io.github.FieryCod/holy-lambda-babashka/versions/0.1.27-SNAPSHOT</link>
+    <description>Micro framework which turns your code into AWS Lambda functions suites for babashka based Lambdas</description>
+    <pubDate>Wed, 21 Apr 2021 21:03:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.FieryCod/holy-lambda/versions/0.1.28</guid>
+    <title>[io.github.FieryCod/holy-lambda &quot;0.1.28&quot;]</title>
+    <link>https://clojars.org/io.github.FieryCod/holy-lambda/versions/0.1.28</link>
+    <description>Micro framework which turns your code into AWS Lambda functions</description>
+    <pubDate>Wed, 21 Apr 2021 21:03:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/holy-lambda/lein-template/versions/0.1.28</guid>
+    <title>[holy-lambda/lein-template &quot;0.1.28&quot;]</title>
+    <link>https://clojars.org/holy-lambda/lein-template/versions/0.1.28</link>
+    <description>Template for holy lambda micro framework</description>
+    <pubDate>Wed, 21 Apr 2021 21:03:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.oscaro/clj-gcloud-common/versions/0.150-2.0-SNAPSHOT</guid>
+    <title>[com.oscaro/clj-gcloud-common &quot;0.150-2.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.oscaro/clj-gcloud-common/versions/0.150-2.0-SNAPSHOT</link>
+    <description>Common library for all google cloud clojure wrappers</description>
+    <pubDate>Wed, 21 Apr 2021 20:44:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.FieryCod/holy-lambda-default-retriever/versions/0.0.4</guid>
+    <title>[io.github.FieryCod/holy-lambda-default-retriever &quot;0.0.4&quot;]</title>
+    <link>https://clojars.org/io.github.FieryCod/holy-lambda-default-retriever/versions/0.0.4</link>
+    <description>Default retriever for payloads</description>
+    <pubDate>Wed, 21 Apr 2021 20:15:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.FieryCod/holy-lambda-async-retriever/versions/0.0.4</guid>
+    <title>[io.github.FieryCod/holy-lambda-async-retriever &quot;0.0.4&quot;]</title>
+    <link>https://clojars.org/io.github.FieryCod/holy-lambda-async-retriever/versions/0.0.4</link>
+    <description>Support for async handlers which returns channel as a response.</description>
+    <pubDate>Wed, 21 Apr 2021 20:14:30 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.FieryCod/holy-lambda/versions/0.1.26</guid>
     <title>[io.github.FieryCod/holy-lambda &quot;0.1.26&quot;]</title>
@@ -1760,48 +1802,6 @@ application development.</description>
     <link>https://clojars.org/com.7theta/servo/versions/1.11.1</link>
     <description>A rehinkdb client library designed to integrate with signum</description>
     <pubDate>Thu, 15 Apr 2021 19:39:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/piotr-yuxuan/closeable-map/versions/0.12.0</guid>
-    <title>[piotr-yuxuan/closeable-map &quot;0.12.0&quot;]</title>
-    <link>https://clojars.org/piotr-yuxuan/closeable-map/versions/0.12.0</link>
-    <description>A Clojure map which implements java.io.Closeable</description>
-    <pubDate>Thu, 15 Apr 2021 19:31:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/repl-tooling/versions/0.5.12</guid>
-    <title>[repl-tooling &quot;0.5.12&quot;]</title>
-    <link>https://clojars.org/repl-tooling/versions/0.5.12</link>
-    <description></description>
-    <pubDate>Thu, 15 Apr 2021 18:40:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ndevreeze/logger/versions/0.4.0</guid>
-    <title>[ndevreeze/logger &quot;0.4.0&quot;]</title>
-    <link>https://clojars.org/ndevreeze/logger/versions/0.4.0</link>
-    <description>Small log4j logging wrapper</description>
-    <pubDate>Thu, 15 Apr 2021 18:37:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.omarpolo/gemtext/versions/0.1.0</guid>
-    <title>[com.omarpolo/gemtext &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/com.omarpolo/gemtext/versions/0.1.0</link>
-    <description></description>
-    <pubDate>Thu, 15 Apr 2021 17:16:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/rachbowyer/keirin/versions/1.1.2</guid>
-    <title>[rachbowyer/keirin &quot;1.1.2&quot;]</title>
-    <link>https://clojars.org/rachbowyer/keirin/versions/1.1.2</link>
-    <description>Microbenchmarking library for Clojure</description>
-    <pubDate>Thu, 15 Apr 2021 17:16:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/kepler16/ki/versions/0.0.3</guid>
-    <title>[kepler16/ki &quot;0.0.3&quot;]</title>
-    <link>https://clojars.org/kepler16/ki/versions/0.0.3</link>
-    <description></description>
-    <pubDate>Thu, 15 Apr 2021 14:15:13 +0000</pubDate>
   </item>
   </channel>
 </rss>
