@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 26 Apr 2021 15:05:56 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Apr 2021 16:08:17 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/viesti/timbre-json-appender/versions/0.2.1</guid>
+    <title>[viesti/timbre-json-appender &quot;0.2.1&quot;]</title>
+    <link>https://clojars.org/viesti/timbre-json-appender/versions/0.2.1</link>
+    <description>A structured log appender for Timbre using jsonista</description>
+    <pubDate>Mon, 26 Apr 2021 15:43:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.lambdaisland/glogi/versions/1.0.116</guid>
+    <title>[com.lambdaisland/glogi &quot;1.0.116&quot;]</title>
+    <link>https://clojars.org/com.lambdaisland/glogi/versions/1.0.116</link>
+    <description>A thin wrapper around `goog.log` inspired by `pedestal.log`.</description>
+    <pubDate>Mon, 26 Apr 2021 15:33:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/versions/1.9.3</guid>
+    <title>[ring &quot;1.9.3&quot;]</title>
+    <link>https://clojars.org/ring/versions/1.9.3</link>
+    <description>A Clojure web applications library.</description>
+    <pubDate>Mon, 26 Apr 2021 15:30:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-jetty-adapter/versions/1.9.3</guid>
+    <title>[ring/ring-jetty-adapter &quot;1.9.3&quot;]</title>
+    <link>https://clojars.org/ring/ring-jetty-adapter/versions/1.9.3</link>
+    <description>Ring Jetty adapter.</description>
+    <pubDate>Mon, 26 Apr 2021 15:30:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-servlet/versions/1.9.3</guid>
+    <title>[ring/ring-servlet &quot;1.9.3&quot;]</title>
+    <link>https://clojars.org/ring/ring-servlet/versions/1.9.3</link>
+    <description>Ring servlet utilities.</description>
+    <pubDate>Mon, 26 Apr 2021 15:28:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-devel/versions/1.9.3</guid>
+    <title>[ring/ring-devel &quot;1.9.3&quot;]</title>
+    <link>https://clojars.org/ring/ring-devel/versions/1.9.3</link>
+    <description>Ring development and debugging libraries.</description>
+    <pubDate>Mon, 26 Apr 2021 15:28:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-core/versions/1.9.3</guid>
+    <title>[ring/ring-core &quot;1.9.3&quot;]</title>
+    <link>https://clojars.org/ring/ring-core/versions/1.9.3</link>
+    <description>Ring core libraries.</description>
+    <pubDate>Mon, 26 Apr 2021 15:27:38 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20210426-140329.a471638f</guid>
     <title>[org.akvo.flow/akvo-flow &quot;20210426-140329.a471638f&quot;]</title>
@@ -1753,55 +1802,6 @@ application development.</description>
     <link>https://clojars.org/com.wallbrew/clj-xml/versions/1.5.0</link>
     <description>The missingg link between clj and xml</description>
     <pubDate>Mon, 19 Apr 2021 21:49:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.michaelgaare/clj-util/versions/0.4.2</guid>
-    <title>[com.michaelgaare/clj-util &quot;0.4.2&quot;]</title>
-    <link>https://clojars.org/com.michaelgaare/clj-util/versions/0.4.2</link>
-    <description>personal clojure utils library</description>
-    <pubDate>Mon, 19 Apr 2021 21:34:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/datascript/versions/1.1.0</guid>
-    <title>[datascript &quot;1.1.0&quot;]</title>
-    <link>https://clojars.org/datascript/versions/1.1.0</link>
-    <description>An implementation of Datomic in-memory database and Datalog query engine in ClojureScript</description>
-    <pubDate>Mon, 19 Apr 2021 20:52:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.michaelgaare/clj-util/versions/0.4.1</guid>
-    <title>[com.michaelgaare/clj-util &quot;0.4.1&quot;]</title>
-    <link>https://clojars.org/com.michaelgaare/clj-util/versions/0.4.1</link>
-    <description>personal clojure utils library</description>
-    <pubDate>Mon, 19 Apr 2021 20:39:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/webly/versions/0.2.2</guid>
-    <title>[org.pinkgorilla/webly &quot;0.2.2&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/webly/versions/0.2.2</link>
-    <description>web (server / reagent) helper library.</description>
-    <pubDate>Mon, 19 Apr 2021 20:02:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.gfjalar/data.html/versions/0.1.0</guid>
-    <title>[org.clojars.gfjalar/data.html &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.gfjalar/data.html/versions/0.1.0</link>
-    <description>Library for HTML data tokenization.</description>
-    <pubDate>Mon, 19 Apr 2021 19:22:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/piotr-yuxuan/slava/versions/0.28.0</guid>
-    <title>[piotr-yuxuan/slava &quot;0.28.0&quot;]</title>
-    <link>https://clojars.org/piotr-yuxuan/slava/versions/0.28.0</link>
-    <description>Kafka Avro Serde for Clojure</description>
-    <pubDate>Mon, 19 Apr 2021 17:57:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/open-company/lib/versions/0.18.0-alpha5</guid>
-    <title>[open-company/lib &quot;0.18.0-alpha5&quot;]</title>
-    <link>https://clojars.org/open-company/lib/versions/0.18.0-alpha5</link>
-    <description>OpenCompany Common Library</description>
-    <pubDate>Mon, 19 Apr 2021 17:50:06 +0000</pubDate>
   </item>
   </channel>
 </rss>
