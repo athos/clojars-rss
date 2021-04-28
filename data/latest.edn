@@ -1,22 +1,3 @@
-{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.38", :description "Data definitions for APIs", :created 1619092477584}
-{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.38", :description "Data definitions for APIs", :created 1619092490094}
-{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.38", :description "Data definitions for APIs", :created 1619092502524}
-{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.38", :description "Data definitions for APIs", :created 1619092514943}
-{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.38", :description "Data definitions for APIs", :created 1619092527363}
-{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.38", :description "Data definitions for APIs", :created 1619092539493}
-{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.38", :description "Data definitions for APIs", :created 1619092551653}
-{:jar_name "blueprint", :group_name "exoscale", :version "0.2.38", :description "Data definitions for APIs", :created 1619092563923}
-{:jar_name "clj-imap-observer", :group_name "com.markusaschl", :version "0.5.0", :description "IdleObserver for Clojure", :created 1619092754043}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210422-122044.9ca01bc4", :description "", :created 1619094086157}
-{:jar_name "clj-imap-observer", :group_name "com.markusaschl", :version "0.6.2-SNAPSHOT", :description "IdleObserver for Clojure", :created 1619096730466}
-{:jar_name "oxbow", :group_name "oliyh", :version "0.1.4-SNAPSHOT", :description "A Server Sent Events (SSE) client for cljs based on js/fetch", :created 1619097405683}
-{:jar_name "rewriting-history", :group_name "no.nsd", :version "0.8.415", :description nil, :created 1619097499212}
-{:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.68-1-SNAPSHOT", :description "Simply Core Libs", :created 1619098113200}
-{:jar_name "clojure-hl7-parser", :group_name "org.clojars.cmiles74", :version "3.4.4", :description "A parser for parsing HL7 messages.", :created 1619100074931}
-{:jar_name "walter-ci", :group_name "com.github.piotr-yuxuan", :version "0.0.3", :description "A Clojure map which implements java.io.Closeable", :created 1619101977223}
-{:jar_name "ws-client-cljc", :group_name "com.ben-allred", :version "0.2.0", :description "A validation and conforming library for nested data structures", :created 1619104640621}
-{:jar_name "clj-maxima", :group_name "org.clojars.lsevero", :version "0.1.0-SNAPSHOT", :description "Maxima as a clojure library", :created 1619104928600}
-{:jar_name "deep-diamond", :group_name "uncomplicate", :version "0.20.2", :description "Fast Clojure Deep Learning Library", :created 1619107330409}
 {:jar_name "notebook-encoding", :group_name "org.pinkgorilla", :version "0.1.29", :description "Encoding of Pink Gorilla Notebook.", :created 1619107696678}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.2.6", :description "web (server / reagent) helper library.", :created 1619108135270}
 {:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.2.36", :description "Reagent components for data visualisation.", :created 1619108701800}
@@ -254,3 +235,22 @@
 {:jar_name "cybermonday", :group_name "com.kiranshila", :version "0.0.5", :description nil, :created 1619623730616}
 {:jar_name "clj-maxima", :group_name "org.clojars.lsevero", :version "0.2.0", :description "Maxima as a clojure library", :created 1619628365817}
 {:jar_name "malli", :group_name "metosin", :version "0.5.0", :description nil, :created 1619628470686}
+{:jar_name "corbihttp", :group_name "mcorbin", :version "0.13.0", :description "Shared namespaces for my http projects", :created 1619631249083}
+{:jar_name "crux-core", :group_name "juxt", :version "dev-SNAPSHOT", :description "An open source document database with bitemporal graph queries", :created 1619633302574}
+{:jar_name "crux-rdf", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RDF", :created 1619633313644}
+{:jar_name "crux-metrics", :group_name "juxt", :version "dev-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1619633323214}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RocksDB", :created 1619633333723}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux LMDB", :created 1619633342593}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux JDBC", :created 1619633351693}
+{:jar_name "crux-http-client", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux HTTP Client", :created 1619633360113}
+{:jar_name "crux-http-server", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux HTTP Server", :created 1619633371853}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka Embedded", :created 1619633380873}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka Connect", :created 1619633392223}
+{:jar_name "crux-kafka", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka", :created 1619633401963}
+{:jar_name "crux-sql", :group_name "juxt", :version "dev-SNAPSHOT", :description "SQL for Crux using Apache Calcite", :created 1619633413333}
+{:jar_name "crux-lucene", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Lucene integration", :created 1619633421893}
+{:jar_name "crux-test", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Tests Project", :created 1619633438093}
+{:jar_name "crux-s3", :group_name "juxt", :version "dev-SNAPSHOT", :description "", :created 1619633448033}
+{:jar_name "crux-azure-blobs", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Azure Blobs Document Store", :created 1619633456643}
+{:jar_name "crux-google-cloud-storage", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Google Cloud Storage Document Store", :created 1619633465433}
+{:jar_name "crux-bench", :group_name "juxt", :version "dev-SNAPSHOT", :description "", :created 1619633479893}
