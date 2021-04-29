@@ -1,5 +1,3 @@
-{:jar_name "holy-lambda", :group_name "io.github.FieryCod", :version "0.1.23", :description "Micro framework which turns your code into AWS Lambda functions", :created 1619030515027}
-{:jar_name "holy-lambda-default-retriever", :group_name "io.github.FieryCod", :version "0.0.3", :description "Default retriever for payloads", :created 1619031939650}
 {:jar_name "holy-lambda-async-retriever", :group_name "io.github.FieryCod", :version "0.0.3", :description "Support for async handlers which returns channel as a response.", :created 1619031962750}
 {:jar_name "clj-wiremock", :group_name "kelveden", :version "1.6.0", :description "Clojure bindings for WireMock", :created 1619032041340}
 {:jar_name "core", :group_name "yetibot", :version "20210421.190858.0612017", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1619032173429}
@@ -254,3 +252,5 @@
 {:jar_name "yetibot", :group_name "yetibot", :version "20210429.022654.1c82f3f", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1619663227333}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.19", :description "reactive html ui with clj-cljs interop", :created 1619665565571}
 {:jar_name "leipzig", :group_name "net.clojars.karlthorssen", :version "0.11.1-alpha1", :description "A composition library for Clojure and Clojurescript.", :created 1619666040838}
+{:jar_name "picasso", :group_name "org.pinkgorilla", :version "3.1.21", :description "renderer lookup engine", :created 1619669275282}
+{:jar_name "nrepl-middleware", :group_name "org.pinkgorilla", :version "0.3.35", :description "nREPL middleware", :created 1619669495574}
