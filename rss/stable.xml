@@ -4,7 +4,77 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 8 May 2021 16:37:19 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 8 May 2021 17:41:14 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/farseer-all/versions/0.1.0</guid>
+    <title>[com.github.igrishaev/farseer-all &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/farseer-all/versions/0.1.0</link>
+    <description>JSON-RPC client and server with tools</description>
+    <pubDate>Sat, 8 May 2021 17:34:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/farseer-doc/versions/0.1.0</guid>
+    <title>[com.github.igrishaev/farseer-doc &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/farseer-doc/versions/0.1.0</link>
+    <description>Utilities to generate RPC documentation</description>
+    <pubDate>Sat, 8 May 2021 17:33:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/farseer-client/versions/0.1.0</guid>
+    <title>[com.github.igrishaev/farseer-client &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/farseer-client/versions/0.1.0</link>
+    <description>HTTP client for RPC server</description>
+    <pubDate>Sat, 8 May 2021 17:33:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/farseer-stub/versions/0.1.0</guid>
+    <title>[com.github.igrishaev/farseer-stub &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/farseer-stub/versions/0.1.0</link>
+    <description>Local HTTP stub for RPC server</description>
+    <pubDate>Sat, 8 May 2021 17:33:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/farseer-jetty/versions/0.1.0</guid>
+    <title>[com.github.igrishaev/farseer-jetty &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/farseer-jetty/versions/0.1.0</link>
+    <description>Jetty server for HTTP RPC handler</description>
+    <pubDate>Sat, 8 May 2021 17:32:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/farseer-http/versions/0.1.0</guid>
+    <title>[com.github.igrishaev/farseer-http &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/farseer-http/versions/0.1.0</link>
+    <description>HTTP Ring handler for an RPC hadnler</description>
+    <pubDate>Sat, 8 May 2021 17:32:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/farseer-handler/versions/0.1.0</guid>
+    <title>[com.github.igrishaev/farseer-handler &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/farseer-handler/versions/0.1.0</link>
+    <description>The basic, transport-agnostic RPC handler</description>
+    <pubDate>Sat, 8 May 2021 17:31:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/farseer-common/versions/0.1.0</guid>
+    <title>[com.github.igrishaev/farseer-common &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/farseer-common/versions/0.1.0</link>
+    <description>Common parts of the project</description>
+    <pubDate>Sat, 8 May 2021 17:31:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.markusaschl/clj-imap-observer/versions/3.2.0</guid>
+    <title>[com.markusaschl/clj-imap-observer &quot;3.2.0&quot;]</title>
+    <link>https://clojars.org/com.markusaschl/clj-imap-observer/versions/3.2.0</link>
+    <description>IdleObserver for Clojure</description>
+    <pubDate>Sat, 8 May 2021 17:23:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.pinkgorilla/webly/versions/0.2.28</guid>
+    <title>[org.pinkgorilla/webly &quot;0.2.28&quot;]</title>
+    <link>https://clojars.org/org.pinkgorilla/webly/versions/0.2.28</link>
+    <description>web (server / reagent) helper library.</description>
+    <pubDate>Sat, 8 May 2021 16:47:53 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/babashka/versions/0.4.0</guid>
     <title>[babashka &quot;0.4.0&quot;]</title>
@@ -1728,77 +1798,6 @@
     <link>https://clojars.org/org.pinkgorilla/gorilla-ui/versions/0.3.14</link>
     <description>Reagent components for data visualisation.</description>
     <pubDate>Thu, 29 Apr 2021 05:19:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/nrepl-middleware/versions/0.3.35</guid>
-    <title>[org.pinkgorilla/nrepl-middleware &quot;0.3.35&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/nrepl-middleware/versions/0.3.35</link>
-    <description>nREPL middleware</description>
-    <pubDate>Thu, 29 Apr 2021 04:11:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/picasso/versions/3.1.21</guid>
-    <title>[org.pinkgorilla/picasso &quot;3.1.21&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/picasso/versions/3.1.21</link>
-    <description>renderer lookup engine</description>
-    <pubDate>Thu, 29 Apr 2021 04:07:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.karlthorssen/leipzig/versions/0.11.1-alpha1</guid>
-    <title>[net.clojars.karlthorssen/leipzig &quot;0.11.1-alpha1&quot;]</title>
-    <link>https://clojars.org/net.clojars.karlthorssen/leipzig/versions/0.11.1-alpha1</link>
-    <description>A composition library for Clojure and Clojurescript.</description>
-    <pubDate>Thu, 29 Apr 2021 03:14:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/goldly/versions/0.2.19</guid>
-    <title>[org.pinkgorilla/goldly &quot;0.2.19&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/goldly/versions/0.2.19</link>
-    <description>reactive html ui with clj-cljs interop</description>
-    <pubDate>Thu, 29 Apr 2021 03:06:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20210429.022654.1c82f3f</guid>
-    <title>[yetibot &quot;20210429.022654.1c82f3f&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20210429.022654.1c82f3f</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Thu, 29 Apr 2021 02:27:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/core/versions/20210429.022507.008506e</guid>
-    <title>[yetibot/core &quot;20210429.022507.008506e&quot;]</title>
-    <link>https://clojars.org/yetibot/core/versions/20210429.022507.008506e</link>
-    <description>Core yetibot utilities, extracted for shared use among yetibot
-                and its various plugins</description>
-    <pubDate>Thu, 29 Apr 2021 02:25:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/gorilla-ui/versions/0.3.13</guid>
-    <title>[org.pinkgorilla/gorilla-ui &quot;0.3.13&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/gorilla-ui/versions/0.3.13</link>
-    <description>Reagent components for data visualisation.</description>
-    <pubDate>Thu, 29 Apr 2021 02:12:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/webly/versions/0.2.19</guid>
-    <title>[org.pinkgorilla/webly &quot;0.2.19&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/webly/versions/0.2.19</link>
-    <description>web (server / reagent) helper library.</description>
-    <pubDate>Wed, 28 Apr 2021 22:48:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.cleancoders.c3kit/wire/versions/1.0.0</guid>
-    <title>[com.cleancoders.c3kit/wire &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/com.cleancoders.c3kit/wire/versions/1.0.0</link>
-    <description>Clean Coders Clojure (C3) Kit - Wire: API for AJAX and WebSocket.</description>
-    <pubDate>Wed, 28 Apr 2021 21:43:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.cleancoders.c3kit/bucket/versions/1.0.0</guid>
-    <title>[com.cleancoders.c3kit/bucket &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/com.cleancoders.c3kit/bucket/versions/1.0.0</link>
-    <description>Clean Coders Clojure (C3) Kit - Bucket: Database API for datomic and in-memory.</description>
-    <pubDate>Wed, 28 Apr 2021 21:42:37 +0000</pubDate>
   </item>
   </channel>
 </rss>
