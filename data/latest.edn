@@ -227,23 +227,10 @@
 {:jar_name "farseer-all", :group_name "com.github.igrishaev", :version "0.1.0", :description "JSON-RPC client and server with tools", :created 1620495261556}
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.12", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1620504342110}
 {:jar_name "notespace", :group_name "scicloj", :version "3-beta6", :description "Notebook experience in your Clojure namespace.", :created 1620504728267}
-{:jar_name "pom", :group_name "typed", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure", :created 1620506301692}
-{:jar_name "analyzer", :group_name "typed.cljc", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1620506310884}
-{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1620506319545}
-{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1620506328071}
-{:jar_name "runtime", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1620506336680}
-{:jar_name "spec", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Type-like specs.", :created 1620506345497}
-{:jar_name "clojure", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1620506353993}
-{:jar_name "lang", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1620506362453}
-{:jar_name "checker", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1620506371633}
-{:jar_name "checker", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1620506380041}
-{:jar_name "annotator", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1620506388731}
-{:jar_name "core.async", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1620506397265}
 {:jar_name "re-frame-flow", :group_name "org.clojars.ertucetin", :version "0.1.0", :description "Graph based visualization tool for Re-frame event chains", :created 1620511399001}
 {:jar_name "babashka", :group_name "babashka", :version "0.4.1-SNAPSHOT", :description "babashka", :created 1620511415461}
 {:jar_name "closeable-map", :group_name "piotr-yuxuan", :version "0.35.0", :description "A Clojure map which implements java.io.Closeable", :created 1620513491454}
 {:jar_name "clj-util", :group_name "com.michaelgaare", :version "0.5.0", :description "personal clojure utils library", :created 1620519048858}
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1620520393189}
 {:jar_name "pedestal.log", :group_name "io.pedestal", :version "0.5.9", :description "Pedestal logging and metrics facilities", :created 1620520450983}
 {:jar_name "pedestal.jetty", :group_name "io.pedestal", :version "0.5.9", :description "Embedded Jetty adapter for Pedestal HTTP Service", :created 1620520462662}
 {:jar_name "pedestal.immutant", :group_name "io.pedestal", :version "0.5.9", :description "Embedded Immutant adapter for Pedestal HTTP Service", :created 1620520473753}
@@ -254,3 +241,16 @@
 {:jar_name "pedestal.service", :group_name "io.pedestal", :version "0.5.9", :description "Pedestal Service", :created 1620520532668}
 {:jar_name "pedestal.service-tools", :group_name "io.pedestal", :version "0.5.9", :description "Pedestal tools for service development", :created 1620520544877}
 {:jar_name "lein-template", :group_name "pedestal-service", :version "0.5.9", :description "A Pedestal Service template.", :created 1620520555585}
+{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1620523264873}
+{:jar_name "pom", :group_name "typed", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure", :created 1620524399473}
+{:jar_name "analyzer", :group_name "typed.cljc", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1620524408983}
+{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1620524417493}
+{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1620524425833}
+{:jar_name "runtime", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1620524434573}
+{:jar_name "spec", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Type-like specs.", :created 1620524443203}
+{:jar_name "clojure", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1620524451843}
+{:jar_name "lang", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1620524460113}
+{:jar_name "checker", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1620524468923}
+{:jar_name "checker", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1620524477853}
+{:jar_name "annotator", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1620524486633}
+{:jar_name "core.async", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1620524495363}
