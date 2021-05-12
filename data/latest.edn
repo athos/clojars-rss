@@ -1,4 +1,3 @@
-{:jar_name "inspector-gadget", :group_name "org.clojars.mthbernardes", :version "0.2.0-SNAPSHOT", :description "Leiningen plugin responsible for finding possible vulnerabilities.", :created 1620182089406}
 {:jar_name "inspector-gadget", :group_name "org.clojars.mthbernardes", :version "1.0.0", :description "Leiningen plugin responsible for finding possible vulnerabilities.", :created 1620182713732}
 {:jar_name "htmlfilter", :group_name "htmlfilter", :version "0.1.5", :description "filter html elements.", :created 1620190853622}
 {:jar_name "tools-io", :group_name "com.oscaro", :version "0.3.22-SNAPSHOT", :description "Oscaro's generic I/O tools collection", :created 1620201319279}
@@ -150,7 +149,6 @@
 {:jar_name "holy-lambda", :group_name "io.github.FieryCod", :version "0.1.47-SNAPSHOT", :description "Micro framework which turns your code into AWS Lambda functions", :created 1620582691311}
 {:jar_name "notebook-ui", :group_name "org.pinkgorilla", :version "0.1.18", :description "Reagent components for notebook ui.", :created 1620582866809}
 {:jar_name "utilities-clj", :group_name "org.iiasa", :version "1.1.0", :description "Commonly used functions.", :created 1620583185876}
-{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1620594460811}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.2.30", :description "web (server / reagent) helper library.", :created 1620595535732}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.30", :description "reactive html ui with clj-cljs interop", :created 1620596641553}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.2.31", :description "web (server / reagent) helper library.", :created 1620600638399}
@@ -202,18 +200,6 @@
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.2.32", :description "web (server / reagent) helper library.", :created 1620698016369}
 {:jar_name "notebook", :group_name "org.pinkgorilla", :version "0.5.4", :description "A clojure notebook web-app", :created 1620701696518}
 {:jar_name "notebook-bundel", :group_name "org.pinkgorilla", :version "0.5.4", :description "notebook - bundel", :created 1620703256605}
-{:jar_name "pom", :group_name "typed", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure", :created 1620703711652}
-{:jar_name "analyzer", :group_name "typed.cljc", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1620703718712}
-{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1620703724962}
-{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1620703731321}
-{:jar_name "runtime", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1620703737651}
-{:jar_name "spec", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Type-like specs.", :created 1620703743961}
-{:jar_name "clojure", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1620703750271}
-{:jar_name "lang", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1620703756451}
-{:jar_name "checker", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1620703763161}
-{:jar_name "checker", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1620703769561}
-{:jar_name "annotator", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1620703775841}
-{:jar_name "core.async", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1620703782091}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.2.33", :description "web (server / reagent) helper library.", :created 1620706752446}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210511-044427.3f4b5409", :description nil, :created 1620708304803}
 {:jar_name "honeysql", :group_name "seancorfield", :version "2.0.0-rc2", :description "SQL as Clojure data structures.", :created 1620712398209}
@@ -254,3 +240,17 @@
 {:jar_name "antq", :group_name "com.github.liquidz", :version "0.14.0", :description "Point out your outdated dependencies", :created 1620768514729}
 {:jar_name "antq", :group_name "antq", :version "0.14.0", :description "Point out your outdated dependencies", :created 1620768577149}
 {:jar_name "tube", :group_name "deercreeklabs", :version "0.4.8", :description "A websocket client and server library", :created 1620774690619}
+{:jar_name "capsule", :group_name "deercreeklabs", :version "0.4.39", :description "", :created 1620775870108}
+{:jar_name "pom", :group_name "typed", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure", :created 1620776348797}
+{:jar_name "analyzer", :group_name "typed.cljc", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1620776356417}
+{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1620776365004}
+{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1620776371388}
+{:jar_name "runtime", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1620776378716}
+{:jar_name "spec", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Type-like specs.", :created 1620776385492}
+{:jar_name "clojure", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1620776391917}
+{:jar_name "lang", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1620776398224}
+{:jar_name "checker", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1620776405427}
+{:jar_name "checker", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1620776411894}
+{:jar_name "annotator", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1620776418637}
+{:jar_name "core.async", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1620776424888}
+{:jar_name "enterprise", :group_name "degree9", :version "0.2.0-SNAPSHOT", :description "Degree9 Enterprise Platform.", :created 1620777947785}
