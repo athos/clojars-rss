@@ -1,5 +1,3 @@
-{:jar_name "analyzer", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1620783587215}
-{:jar_name "analyzer", :group_name "typed.cljs", :version "1.0.15-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1620783593695}
 {:jar_name "runtime", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1620783600755}
 {:jar_name "spec", :group_name "typed.clj", :version "1.0.15-SNAPSHOT", :description "Type-like specs.", :created 1620783607455}
 {:jar_name "clojure", :group_name "typed.lib", :version "1.0.15-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1620783613925}
@@ -215,7 +213,6 @@
 {:jar_name "fire", :group_name "alekcz", :version "0.3.1", :description "Firebase from Clojure. Basically Charmander 2.0", :created 1621287983398}
 {:jar_name "konserve-fire", :group_name "alekcz", :version "0.3.0-alpha2", :description "A Firebase backend for konserve.", :created 1621289454126}
 {:jar_name "firestream", :group_name "alekcz", :version "2.0.0", :description "firestream: kafkaesque streams built on firebase", :created 1621291716769}
-{:jar_name "clj-xml", :group_name "org.clojars.lmchoi", :version "0.1.0-SNAPSHOT", :description nil, :created 1621293879863}
 {:jar_name "farolero", :group_name "org.suskalo", :version "1.0.4", :description "Thread-safe Common Lisp style conditions and restarts for Clojure(Script).", :created 1621294463230}
 {:jar_name "clj-yaml", :group_name "org.clojars.clumsyjedi", :version "0.7.3", :description "YAML encoding and decoding for Clojure using SnakeYAML", :created 1621301825131}
 {:jar_name "cavia", :group_name "cavia", :version "0.6.0-SNAPSHOT", :description "Test resource manager for Clojure project", :created 1621316664008}
@@ -254,3 +251,6 @@
 {:jar_name "logging", :group_name "io.aviso", :version "1.0", :description "Clojure logging with Logback and SLF4J plus request correlation across servers.", :created 1621382359781}
 {:jar_name "warp", :group_name "place.cork", :version "0.1.0-SNAPSHOT", :description "Simple Parsing Library", :created 1621382906283}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.40", :description "reactive html ui with clj-cljs interop", :created 1621384676661}
+{:jar_name "clj-xml", :group_name "org.clojars.lmchoi", :version "0.1.0-SNAPSHOT", :description nil, :created 1621386914322}
+{:jar_name "ui-binaryclock", :group_name "org.pinkgorilla", :version "0.0.3", :description nil, :created 1621391863168}
+{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.44", :description "reactive html ui with clj-cljs interop", :created 1621391929267}
