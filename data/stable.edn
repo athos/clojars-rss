@@ -1,4 +1,3 @@
-{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.15", :description "A variant of tools.analyzer.", :created 1620833154617}
 {:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.15", :description "A variant of tools.analyzer.jvm.", :created 1620833160597}
 {:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.15", :description "A variant of tools.analyzer.js.", :created 1620833167427}
 {:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.15", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1620833173567}
@@ -254,3 +253,4 @@
 {:jar_name "sandboxica", :group_name "biiwide", :version "0.2.1", :description "Avoid the Jungle", :created 1621620178834}
 {:jar_name "core", :group_name "yetibot", :version "20210521.185125.6c55a34", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1621623117535}
 {:jar_name "yetibot", :group_name "yetibot", :version "20210521.185458.5da0901", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1621623313573}
+{:jar_name "r2pipe", :group_name "org.radare", :version "0.5.1", :description "Communicate with radare2 via pipes", :created 1621627123096}
