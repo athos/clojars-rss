@@ -1,18 +1,3 @@
-{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.44", :description "reactive html ui with clj-cljs interop", :created 1621391929267}
-{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.45", :description "reactive html ui with clj-cljs interop", :created 1621392663452}
-{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.47", :description "reactive html ui with clj-cljs interop", :created 1621395886208}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210519-045624.9305d486", :description nil, :created 1621400221145}
-{:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.3.22", :description "Reagent components for data visualisation.", :created 1621400883610}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210519-060712.c21fd556", :description nil, :created 1621404467083}
-{:jar_name "vertx-service-discovery-backend-ranger", :group_name "io.raven.vertx", :version "4.0.3-1", :description nil, :created 1621404516263}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210519-065202.78d03c8b", :description nil, :created 1621407164763}
-{:jar_name "iny", :group_name "social.kitsune", :version "0.1.7", :description "Performant Clojure HTTP server", :created 1621408608912}
-{:jar_name "iny", :group_name "social.kitsune", :version "0.1.8", :description "Performant Clojure HTTP server", :created 1621410839165}
-{:jar_name "payments.stripe", :group_name "magnet", :version "0.3.5", :description "A Duct library for interacting with the Stripe API", :created 1621411397181}
-{:jar_name "plug-debug", :group_name "net.clojars.mokr", :version "0.1.0-SNAPSHOT", :description "A Clojure and Clojurescript library with small debug helpers", :created 1621414575717}
-{:jar_name "concurrently", :group_name "concurrently", :version "0.2.1", :description "A clojure library for running actions concurrently but restricting a number of threads.", :created 1621415222442}
-{:jar_name "reacl-c-basics", :group_name "de.active-group", :version "0.10.1", :description "Library with utilities often useful when writing web applications with Reacl-C.", :created 1621416050785}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210519-103210.0233d84d", :description nil, :created 1621420366732}
 {:jar_name "duct.module.cambium", :group_name "duct.module.cambium", :version "1.3.0", :description "Duct module for Cambium", :created 1621424141313}
 {:jar_name "duct.module.pedestal", :group_name "duct.module.pedestal", :version "2.1.3", :description "Duct module for Pedestal", :created 1621425586242}
 {:jar_name "deep-diamond", :group_name "uncomplicate", :version "0.20.3", :description "Fast Clojure Deep Learning Library", :created 1621428965697}
@@ -254,3 +239,18 @@
 {:jar_name "ui-code", :group_name "org.pinkgorilla", :version "0.0.7", :description nil, :created 1622061620508}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.63", :description nil, :created 1622062040625}
 {:jar_name "goldly-bundel", :group_name "org.pinkgorilla", :version "0.2.63", :description nil, :created 1622062397603}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.16", :description "An optional type system for Clojure", :created 1622065574653}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.16", :description "A variant of tools.analyzer.", :created 1622065582163}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.16", :description "A variant of tools.analyzer.jvm.", :created 1622065590153}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.16", :description "A variant of tools.analyzer.js.", :created 1622065598043}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.16", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1622065606313}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.16", :description "Type-like specs.", :created 1622065614323}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.16", :description "Type annotations and macros for the base Clojure distribution.", :created 1622065622163}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.16", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1622065630063}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.16", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1622065638262}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.16", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1622065646472}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.16", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1622065654422}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.16", :description "Type annotations and macros for core.async.", :created 1622065662572}
+{:jar_name "ui-code", :group_name "org.pinkgorilla", :version "0.0.8", :description nil, :created 1622067312252}
+{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.68", :description nil, :created 1622067523321}
+{:jar_name "goldly-bundel", :group_name "org.pinkgorilla", :version "0.2.68", :description nil, :created 1622067892858}

@@ -1,18 +1,3 @@
-{:jar_name "fulcro-rad-crux", :group_name "roterski", :version "0.0.1-alpha-2", :description "A Crux database driver for Fulcro RAD.", :created 1621282909177}
-{:jar_name "ui-codemirror", :group_name "org.pinkgorilla", :version "0.0.3", :description nil, :created 1621285018801}
-{:jar_name "fire", :group_name "alekcz", :version "0.3.1", :description "Firebase from Clojure. Basically Charmander 2.0", :created 1621287983398}
-{:jar_name "konserve-fire", :group_name "alekcz", :version "0.3.0-alpha2", :description "A Firebase backend for konserve.", :created 1621289454126}
-{:jar_name "firestream", :group_name "alekcz", :version "2.0.0", :description "firestream: kafkaesque streams built on firebase", :created 1621291716769}
-{:jar_name "farolero", :group_name "org.suskalo", :version "1.0.4", :description "Thread-safe Common Lisp style conditions and restarts for Clojure(Script).", :created 1621294463230}
-{:jar_name "clj-yaml", :group_name "org.clojars.clumsyjedi", :version "0.7.3", :description "YAML encoding and decoding for Clojure using SnakeYAML", :created 1621301825131}
-{:jar_name "lein-template", :group_name "re-frame", :version "2.2.3", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1621316994415}
-{:jar_name "iny", :group_name "social.kitsune", :version "0.1.2", :description "Performant Clojure HTTP server", :created 1621319267678}
-{:jar_name "iny", :group_name "social.kitsune", :version "0.1.4", :description "Performant Clojure HTTP server", :created 1621321015094}
-{:jar_name "fire", :group_name "alekcz", :version "0.3.2", :description "Firebase from Clojure. Basically Charmander 2.0", :created 1621323717583}
-{:jar_name "net", :group_name "org.spootnik", :version "0.3.3-beta42", :description "A clojure netty companion", :created 1621324219390}
-{:jar_name "konserve-fire", :group_name "alekcz", :version "0.3.0-alpha3", :description "A Firebase backend for konserve.", :created 1621324308339}
-{:jar_name "firestream", :group_name "alekcz", :version "2.0.1", :description "firestream: kafkaesque streams built on firebase", :created 1621324838735}
-{:jar_name "iny", :group_name "social.kitsune", :version "0.1.6", :description "Performant Clojure HTTP server", :created 1621327067966}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.61", :description nil, :created 1621329509078}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210518-095135.cf56cfcf", :description nil, :created 1621331533482}
 {:jar_name "ktest", :group_name "djs", :version "2.4.2", :description nil, :created 1621332028679}
@@ -254,3 +239,18 @@
 {:jar_name "ui-code", :group_name "org.pinkgorilla", :version "0.0.7", :description nil, :created 1622061620508}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.63", :description nil, :created 1622062040625}
 {:jar_name "goldly-bundel", :group_name "org.pinkgorilla", :version "0.2.63", :description nil, :created 1622062397603}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.16", :description "An optional type system for Clojure", :created 1622065574653}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.16", :description "A variant of tools.analyzer.", :created 1622065582163}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.16", :description "A variant of tools.analyzer.jvm.", :created 1622065590153}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.16", :description "A variant of tools.analyzer.js.", :created 1622065598043}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.16", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1622065606313}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.16", :description "Type-like specs.", :created 1622065614323}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.16", :description "Type annotations and macros for the base Clojure distribution.", :created 1622065622163}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.16", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1622065630063}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.16", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1622065638262}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.16", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1622065646472}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.16", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1622065654422}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.16", :description "Type annotations and macros for core.async.", :created 1622065662572}
+{:jar_name "ui-code", :group_name "org.pinkgorilla", :version "0.0.8", :description nil, :created 1622067312252}
+{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.68", :description nil, :created 1622067523321}
+{:jar_name "goldly-bundel", :group_name "org.pinkgorilla", :version "0.2.68", :description nil, :created 1622067892858}
