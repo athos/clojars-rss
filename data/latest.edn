@@ -1,7 +1,3 @@
-{:jar_name "inertia-clojure", :group_name "com.github.prestancedesign", :version "0.2.2", :description "A Clojure adapter for Inertia.js", :created 1621958981636}
-{:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.4.22", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1621959089471}
-{:jar_name "org-parser", :group_name "org-parser", :version "0.1.17", :description "A parser for the Org mode markup language for Emacs", :created 1621961215091}
-{:jar_name "etlp", :group_name "org.clojars.aregee", :version "0.1.0", :description "Transducers based ETL processing pipeline", :created 1621961570769}
 {:jar_name "jelastic", :group_name "io.github.jelastic", :version "7.2.0-7-SNAPSHOT", :description nil, :created 1621964508778}
 {:jar_name "lein-template", :group_name "luminus", :version "4.09", :description "a template for creating Luminus applications", :created 1621966751063}
 {:jar_name "lein-template", :group_name "reagent", :version "0.10.47", :description "A Leiningen template for a ClojureScript setup with Figwheel, Austin, and Reagent.", :created 1621966784342}
@@ -116,24 +112,6 @@
 {:jar_name "lib", :group_name "open-company", :version "0.18.0-alpha8", :description "OpenCompany Common Library", :created 1622166025197}
 {:jar_name "peanuts", :group_name "peanuts", :version "0.4.4", :description "Packing peanuts for decoupling Reagent Form-1 components from Re-frame subscriptions", :created 1622168877446}
 {:jar_name "api", :group_name "sixsq.nuvla", :version "2.0.10", :description "nuvla clojure library", :created 1622186171881}
-{:jar_name "crux-core", :group_name "juxt", :version "dev-SNAPSHOT", :description "An open source document database with bitemporal graph queries", :created 1622192977742}
-{:jar_name "crux-rdf", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RDF", :created 1622192986612}
-{:jar_name "crux-metrics", :group_name "juxt", :version "dev-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1622192995721}
-{:jar_name "crux-rocksdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RocksDB", :created 1622193006091}
-{:jar_name "crux-lmdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux LMDB", :created 1622193014981}
-{:jar_name "crux-jdbc", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux JDBC", :created 1622193022771}
-{:jar_name "crux-http-client", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux HTTP Client", :created 1622193030811}
-{:jar_name "crux-http-server", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux HTTP Server", :created 1622193041131}
-{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka Embedded", :created 1622193050471}
-{:jar_name "crux-kafka-connect", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka Connect", :created 1622193061591}
-{:jar_name "crux-kafka", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka", :created 1622193071441}
-{:jar_name "crux-sql", :group_name "juxt", :version "dev-SNAPSHOT", :description "SQL for Crux using Apache Calcite", :created 1622193080471}
-{:jar_name "crux-lucene", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Lucene integration", :created 1622193088491}
-{:jar_name "crux-test", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Tests Project", :created 1622193104601}
-{:jar_name "crux-s3", :group_name "juxt", :version "dev-SNAPSHOT", :description "", :created 1622193114621}
-{:jar_name "crux-azure-blobs", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Azure Blobs Document Store", :created 1622193123121}
-{:jar_name "crux-google-cloud-storage", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Google Cloud Storage Document Store", :created 1622193132050}
-{:jar_name "crux-bench", :group_name "juxt", :version "dev-SNAPSHOT", :description "", :created 1622193146380}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210528-092439.85c889dc", :description nil, :created 1622193915655}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210528-103428.545b550a", :description nil, :created 1622198124624}
 {:jar_name "cbass", :group_name "viebel", :version "0.2.16", :description "adding simple to HBase", :created 1622205729737}
@@ -254,3 +232,25 @@
 {:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.36", :description "", :created 1622536695256}
 {:jar_name "sci", :group_name "borkdude", :version "0.2.6-SNAPSHOT", :description "Small Clojure Interpreter", :created 1622539970928}
 {:jar_name "babashka", :group_name "babashka", :version "0.4.4", :description "babashka", :created 1622541494086}
+{:jar_name "yle-session-token-validation", :group_name "yle-session-token-validation", :version "4.1.1", :description "Code to validate given Yle Tunnus token.", :created 1622541782534}
+{:jar_name "crux-core", :group_name "juxt", :version "dev-SNAPSHOT", :description "An open source document database with bitemporal graph queries", :created 1622542394029}
+{:jar_name "crux-rdf", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RDF", :created 1622542404239}
+{:jar_name "crux-metrics", :group_name "juxt", :version "dev-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1622542413539}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RocksDB", :created 1622542424229}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux LMDB", :created 1622542435359}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux JDBC", :created 1622542443979}
+{:jar_name "crux-http-client", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux HTTP Client", :created 1622542452298}
+{:jar_name "crux-http-server", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux HTTP Server", :created 1622542463568}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka Embedded", :created 1622542473168}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka Connect", :created 1622542484188}
+{:jar_name "crux-kafka", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka", :created 1622542493618}
+{:jar_name "crux-sql", :group_name "juxt", :version "dev-SNAPSHOT", :description "SQL for Crux using Apache Calcite", :created 1622542504128}
+{:jar_name "crux-lucene", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Lucene integration", :created 1622542512978}
+{:jar_name "crux-test", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Tests Project", :created 1622542529638}
+{:jar_name "crux-s3", :group_name "juxt", :version "dev-SNAPSHOT", :description "", :created 1622542539238}
+{:jar_name "crux-azure-blobs", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Azure Blobs Document Store", :created 1622542547998}
+{:jar_name "crux-google-cloud-storage", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Google Cloud Storage Document Store", :created 1622542556608}
+{:jar_name "crux-bench", :group_name "juxt", :version "dev-SNAPSHOT", :description "", :created 1622542570678}
+{:jar_name "babashka", :group_name "babashka", :version "0.4.5-SNAPSHOT", :description "babashka", :created 1622542655067}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210601-102811.b86b1fc2", :description nil, :created 1622543330621}
+{:jar_name "mudguard", :group_name "johncowie", :version "0.0.10", :description "FIXME: write description", :created 1622548089484}
