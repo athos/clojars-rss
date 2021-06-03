@@ -1,7 +1,3 @@
-{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.69", :description nil, :created 1622069912035}
-{:jar_name "goldly-bundel", :group_name "org.pinkgorilla", :version "0.2.69", :description nil, :created 1622070221783}
-{:jar_name "kibit", :group_name "org.clojars.tugh", :version "0.1.9", :description "There's a function for that!", :created 1622071756774}
-{:jar_name "lein-kibit", :group_name "org.clojars.tugh", :version "0.1.9", :description "kibit lein plugin", :created 1622071834603}
 {:jar_name "kibit", :group_name "org.clojars.tugh", :version "0.1.10", :description "There's a function for that!", :created 1622072080316}
 {:jar_name "lein-kibit", :group_name "org.clojars.tugh", :version "0.1.10", :description "kibit lein plugin", :created 1622072116728}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.70", :description "", :created 1622073682310}
@@ -196,18 +192,6 @@
 {:jar_name "picasso", :group_name "org.pinkgorilla", :version "3.1.40", :description "renderer lookup engine", :created 1622604137948}
 {:jar_name "gorilla-plot", :group_name "org.pinkgorilla", :version "1.2.11", :description "A simple data-driven plotting dsl using Vega via Gorilla UI.", :created 1622605472211}
 {:jar_name "ui-code", :group_name "org.pinkgorilla", :version "0.0.12", :description "", :created 1622606305410}
-{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "An optional type system for Clojure", :created 1622609599456}
-{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1622609605966}
-{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1622609612225}
-{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1622609618535}
-{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1622609624865}
-{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "Type-like specs.", :created 1622609630975}
-{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1622609637025}
-{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1622609643315}
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1622609649545}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1622609655815}
-{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1622609661975}
-{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1622609668265}
 {:jar_name "bluejdbc", :group_name "bluejdbc", :version "0.9.1-alpha", :description "", :created 1622611046285}
 {:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.3.28", :description "Reagent components for data visualisation.", :created 1622611092364}
 {:jar_name "ui-site", :group_name "org.pinkgorilla", :version "0.0.5", :description nil, :created 1622611123534}
@@ -254,3 +238,19 @@
 {:jar_name "ui-repl", :group_name "org.pinkgorilla", :version "0.0.4", :description nil, :created 1622685484129}
 {:jar_name "notebook", :group_name "org.pinkgorilla", :version "0.5.13", :description nil, :created 1622687546725}
 {:jar_name "notebook-bundel", :group_name "org.pinkgorilla", :version "0.5.13", :description nil, :created 1622687980492}
+{:jar_name "cbass", :group_name "cbass", :version "0.2.9", :description "adding simple to HBase", :created 1622691533373}
+{:jar_name "gorilla-explore", :group_name "org.pinkgorilla", :version "0.2.63", :description "Explore PinkGorilla notebooks (private and public) on github.", :created 1622693803166}
+{:jar_name "notebook", :group_name "org.pinkgorilla", :version "0.5.15", :description "", :created 1622694669739}
+{:jar_name "notebook-bundel", :group_name "org.pinkgorilla", :version "0.5.15", :description "", :created 1622695114430}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "An optional type system for Clojure", :created 1622696554494}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1622696561224}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1622696567654}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1622696573754}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1622696580614}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "Type-like specs.", :created 1622696587294}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1622696593563}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1622696600183}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1622696610773}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1622696617233}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1622696623413}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1622696629653}
