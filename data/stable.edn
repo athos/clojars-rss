@@ -1,6 +1,3 @@
-{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.16", :description "An optional type system for Clojure", :created 1622065574653}
-{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.16", :description "A variant of tools.analyzer.", :created 1622065582163}
-{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.16", :description "A variant of tools.analyzer.jvm.", :created 1622065590153}
 {:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.16", :description "A variant of tools.analyzer.js.", :created 1622065598043}
 {:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.16", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1622065606313}
 {:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.16", :description "Type-like specs.", :created 1622065614323}
@@ -254,3 +251,6 @@
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.14.3", :description "CLJS development tools", :created 1622815862250}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210604-142811.4614604f", :description nil, :created 1622816929523}
 {:jar_name "via", :group_name "com.7theta", :version "8.1.2", :description "A re-frame library for WebSocket based messaging", :created 1622817295490}
+{:jar_name "via-auth", :group_name "com.7theta", :version "0.4.0", :description "Common authentication strategies for via", :created 1622820237942}
+{:jar_name "via-schema", :group_name "com.7theta", :version "0.3.0", :description "Schema validation for via events and subs.", :created 1622820329072}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210604-153411.55d4485f", :description nil, :created 1622820888078}
