@@ -1,27 +1,7 @@
-{:jar_name "yle-session-token-validation", :group_name "yle-session-token-validation", :version "4.1.1", :description "Code to validate given Yle Tunnus token.", :created 1622541782534}
-{:jar_name "crux-core", :group_name "juxt", :version "dev-SNAPSHOT", :description "An open source document database with bitemporal graph queries", :created 1622542394029}
-{:jar_name "crux-rdf", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RDF", :created 1622542404239}
-{:jar_name "crux-metrics", :group_name "juxt", :version "dev-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1622542413539}
-{:jar_name "crux-rocksdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RocksDB", :created 1622542424229}
-{:jar_name "crux-lmdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux LMDB", :created 1622542435359}
-{:jar_name "crux-jdbc", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux JDBC", :created 1622542443979}
-{:jar_name "crux-http-client", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux HTTP Client", :created 1622542452298}
-{:jar_name "crux-http-server", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux HTTP Server", :created 1622542463568}
-{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka Embedded", :created 1622542473168}
-{:jar_name "crux-kafka-connect", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka Connect", :created 1622542484188}
-{:jar_name "crux-kafka", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Kafka", :created 1622542493618}
-{:jar_name "crux-sql", :group_name "juxt", :version "dev-SNAPSHOT", :description "SQL for Crux using Apache Calcite", :created 1622542504128}
-{:jar_name "crux-lucene", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Lucene integration", :created 1622542512978}
-{:jar_name "crux-test", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Tests Project", :created 1622542529638}
-{:jar_name "crux-s3", :group_name "juxt", :version "dev-SNAPSHOT", :description "", :created 1622542539238}
-{:jar_name "crux-azure-blobs", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Azure Blobs Document Store", :created 1622542547998}
-{:jar_name "crux-google-cloud-storage", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux Google Cloud Storage Document Store", :created 1622542556608}
-{:jar_name "crux-bench", :group_name "juxt", :version "dev-SNAPSHOT", :description "", :created 1622542570678}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210601-102811.b86b1fc2", :description nil, :created 1622543330621}
 {:jar_name "mudguard", :group_name "johncowie", :version "0.0.10", :description "FIXME: write description", :created 1622548089484}
 {:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v1.1.1", :description "A client library for Vald.", :created 1622557519523}
 {:jar_name "fastmath", :group_name "generateme", :version "2.1.6-SNAPSHOT", :description "Fast and primitive math library", :created 1622560012124}
-{:jar_name "datahike-client", :group_name "io.replikativ", :version "0.1.0-SNAPSHOT", :description "A library to interact with Datahike Server from your Clojure and Clojurescript applications.", :created 1622561535083}
 {:jar_name "sqlhoney", :group_name "com.camsaul", :version "0.1.0-alpha-SNAPSHOT", :description "", :created 1622565424668}
 {:jar_name "qtrouper", :group_name "io.github.qtrouper", :version "0.0.2-SNAPSHOT", :description nil, :created 1622568069426}
 {:jar_name "org.clojars.lbernardo", :group_name "org.clojars.lbernardo", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1622570093831}
@@ -254,3 +234,23 @@
 {:jar_name "mprop", :group_name "io.helins", :version "0.0.1", :description "Multiplexing `test.check` properties for thorough generative testing", :created 1623047743036}
 {:jar_name "potok", :group_name "funcool", :version "2021.06.07-0", :description "Reactive Streams based state management toolkit.", :created 1623049654794}
 {:jar_name "conf", :group_name "conf", :version "0.13.0", :description "Simple configuration/environment library for Clojure.", :created 1623049715774}
+{:jar_name "metrics-core", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054244432}
+{:jar_name "ghostwheel-stub", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054253368}
+{:jar_name "common", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054260708}
+{:jar_name "common-test", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054270772}
+{:jar_name "local-node", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054279733}
+{:jar_name "auth", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054286124}
+{:jar_name "basic-auth", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054293715}
+{:jar_name "metrics-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054300618}
+{:jar_name "global-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054307800}
+{:jar_name "agm-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054314685}
+{:jar_name "activity-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054323759}
+{:jar_name "bus-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054333044}
+{:jar_name "context-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054340390}
+{:jar_name "datahike-client", :group_name "io.replikativ", :version "0.1.0-SNAPSHOT", :description "A library to interact with Datahike Server from your Clojure and Clojurescript applications.", :created 1623054452290}
+{:jar_name "eximia", :group_name "com.deepbeginnings", :version "0.1.3", :description "", :created 1623054896866}
+{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.7-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1623056302411}
+{:jar_name "holy-lambda", :group_name "io.github.FieryCod", :version "0.1.54", :description "Micro framework which turns your code into AWS Lambda functions", :created 1623056793238}
+{:jar_name "holy-lambda-babashka-shim", :group_name "io.github.FieryCod", :version "0.1.54", :description "Micro framework which turns your code into AWS Lambda functions suites for babashka based Lambdas", :created 1623056973567}
+{:jar_name "lein-template", :group_name "holy-lambda", :version "0.1.71", :description "Template for holy lambda micro framework", :created 1623057813462}
+{:jar_name "templ-lib.cljc", :group_name "io.helins", :version "1.0.1", :description "Template for CLJC libraries", :created 1623057900191}
