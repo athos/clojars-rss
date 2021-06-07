@@ -1,8 +1,3 @@
-{:jar_name "fastmath", :group_name "generateme", :version "2.1.6-SNAPSHOT", :description "Fast and primitive math library", :created 1622560012124}
-{:jar_name "sqlhoney", :group_name "com.camsaul", :version "0.1.0-alpha-SNAPSHOT", :description "", :created 1622565424668}
-{:jar_name "qtrouper", :group_name "io.github.qtrouper", :version "0.0.2-SNAPSHOT", :description nil, :created 1622568069426}
-{:jar_name "org.clojars.lbernardo", :group_name "org.clojars.lbernardo", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1622570093831}
-{:jar_name "picasso", :group_name "org.pinkgorilla", :version "3.1.38", :description "renderer lookup engine", :created 1622570850735}
 {:jar_name "odoyle-rules", :group_name "net.sekao", :version "0.10.0", :description "A rules engine for Clojure(Script)", :created 1622571182597}
 {:jar_name "org.clojars.lbernardo", :group_name "org.clojars.lbernardo", :version "1.0.0-SNAPSHOT", :description "Clojure progress bar", :created 1622571333881}
 {:jar_name "odoyle-rum", :group_name "net.sekao", :version "0.10.0", :description "Make Rum components with O'Doyle Rules", :created 1622571630895}
@@ -230,19 +225,6 @@
 {:jar_name "mprop", :group_name "io.helins", :version "0.0.1", :description "Multiplexing `test.check` properties for thorough generative testing", :created 1623047743036}
 {:jar_name "potok", :group_name "funcool", :version "2021.06.07-0", :description "Reactive Streams based state management toolkit.", :created 1623049654794}
 {:jar_name "conf", :group_name "conf", :version "0.13.0", :description "Simple configuration/environment library for Clojure.", :created 1623049715774}
-{:jar_name "metrics-core", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054244432}
-{:jar_name "ghostwheel-stub", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054253368}
-{:jar_name "common", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054260708}
-{:jar_name "common-test", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054270772}
-{:jar_name "local-node", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054279733}
-{:jar_name "auth", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054286124}
-{:jar_name "basic-auth", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054293715}
-{:jar_name "metrics-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054300618}
-{:jar_name "global-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054307800}
-{:jar_name "agm-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054314685}
-{:jar_name "activity-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054323759}
-{:jar_name "bus-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054333044}
-{:jar_name "context-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623054340390}
 {:jar_name "datahike-client", :group_name "io.replikativ", :version "0.1.0-SNAPSHOT", :description "A library to interact with Datahike Server from your Clojure and Clojurescript applications.", :created 1623054452290}
 {:jar_name "eximia", :group_name "com.deepbeginnings", :version "0.1.3", :description "", :created 1623054896866}
 {:jar_name "datahike", :group_name "io.replikativ", :version "0.3.7-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1623056302411}
@@ -254,3 +236,21 @@
 {:jar_name "genji", :group_name "org.clojars.shimada", :version "0.1.0-SNAPSHOT", :description "", :created 1623060527344}
 {:jar_name "kafka-clojure-client", :group_name "cn.leancloud", :version "0.1.4", :description "A kafka client written in clojure and used by LeanCloud", :created 1623064279630}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210607-111158.ee42ae0e", :description nil, :created 1623064353379}
+{:jar_name "metrics-core", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623065091609}
+{:jar_name "ghostwheel-stub", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623065103034}
+{:jar_name "common", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623065112902}
+{:jar_name "common-test", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623065125412}
+{:jar_name "local-node", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623065137131}
+{:jar_name "auth", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623065145669}
+{:jar_name "basic-auth", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623065155137}
+{:jar_name "metrics-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623065165264}
+{:jar_name "global-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623065173931}
+{:jar_name "agm-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623065184801}
+{:jar_name "activity-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623065193366}
+{:jar_name "bus-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623065202052}
+{:jar_name "context-domain", :group_name "com.tick42.gateway", :version "3.0.11-SNAPSHOT", :description "", :created 1623065210598}
+{:jar_name "dumdom", :group_name "cjohansen", :version "2021.06.07", :description "Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.", :created 1623066214337}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210607-123223.4dfb46b3", :description "", :created 1623069217030}
+{:jar_name "defenv", :group_name "coreagile", :version "2.0.1", :description "A library for managing environment variables in Clojure", :created 1623069498145}
+{:jar_name "kibit", :group_name "co.pisano", :version "0.1.10", :description "There's a function for that!", :created 1623070771168}
+{:jar_name "lein-kibit", :group_name "co.pisano", :version "0.1.10", :description "kibit lein plugin", :created 1623070829508}
