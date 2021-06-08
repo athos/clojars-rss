@@ -1,22 +1,3 @@
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210531-181732.95ef9cac", :description nil, :created 1622485085743}
-{:jar_name "mudguard", :group_name "johncowie", :version "0.0.9", :description "FIXME: write description", :created 1622486343643}
-{:jar_name "peanuts", :group_name "peanuts", :version "0.5.0", :description "Packing peanuts for decoupling Reagent Form-1 components from Re-frame subscriptions", :created 1622489722358}
-{:jar_name "omni", :group_name "io.bloomventures", :version "0.27.1", :description "", :created 1622490515272}
-{:jar_name "app-lib", :group_name "com.github.dgknght", :version "0.1.2", :description "Library of commonly used functions for web app development", :created 1622491073741}
-{:jar_name "flog", :group_name "com.github.jimpil", :version "0.1.6", :description "Structured-logging facilities geared towards Clojure maps (backed by Log4j2).", :created 1622493372501}
-{:jar_name "ken", :group_name "com.amperity", :version "0.3.0", :description "Observability library to serve as integration with a variety of event outputs.", :created 1622494935968}
-{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.2.42", :description "web (server / reagent) helper library.", :created 1622497825606}
-{:jar_name "card-ascii-art", :group_name "org.clojars.cesaralcancio", :version "0.2.0", :description "Card art illustration using ascii", :created 1622497864006}
-{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.2.43", :description "web (server / reagent) helper library.", :created 1622514444651}
-{:jar_name "ui-site", :group_name "org.pinkgorilla", :version "0.0.2", :description nil, :created 1622516392767}
-{:jar_name "ui-site", :group_name "org.pinkgorilla", :version "0.0.3", :description "", :created 1622520681751}
-{:jar_name "ken-honeycomb", :group_name "com.amperity", :version "0.1.0", :description "Observability library to integrate ken and honeycomb", :created 1622522438223}
-{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.76", :description nil, :created 1622523414086}
-{:jar_name "goldly-bundel", :group_name "org.pinkgorilla", :version "0.2.76", :description nil, :created 1622523823013}
-{:jar_name "dumdom", :group_name "cjohansen", :version "2021.06.01", :description "Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.", :created 1622525576920}
-{:jar_name "promesa", :group_name "funcool", :version "6.0.2", :description "Promise library for Clojure(Script)", :created 1622531354356}
-{:jar_name "sklearn-clj", :group_name "scicloj", :version "0.3.1", :description "Use sklearn estimators from Clojure", :created 1622533865066}
-{:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.36", :description "", :created 1622536695256}
 {:jar_name "babashka", :group_name "babashka", :version "0.4.4", :description "babashka", :created 1622541494086}
 {:jar_name "yle-session-token-validation", :group_name "yle-session-token-validation", :version "4.1.1", :description "Code to validate given Yle Tunnus token.", :created 1622541782534}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210601-102811.b86b1fc2", :description nil, :created 1622543330621}
@@ -254,3 +235,22 @@
 {:jar_name "describe", :group_name "sweet-tooth", :version "0.4.2", :description "Describe data structures", :created 1623126905276}
 {:jar_name "dumdom", :group_name "cjohansen", :version "2021.06.08", :description "Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.", :created 1623138067021}
 {:jar_name "hashp", :group_name "org.clojars.tggreene", :version "0.3.0", :description "A better \"prn\" for debugging", :created 1623141950389}
+{:jar_name "recurring-cup", :group_name "ivarref", :version "0.6.65", :description nil, :created 1623144690331}
+{:jar_name "crux-core", :group_name "juxt", :version "21.06-1.17.1-beta", :description "An open source document database with bitemporal graph queries", :created 1623148090961}
+{:jar_name "crux-rdf", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Crux RDF", :created 1623148100900}
+{:jar_name "crux-metrics", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Provides Metrics for Crux nodes", :created 1623148113010}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux RocksDB", :created 1623148122300}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Crux LMDB", :created 1623148131390}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux JDBC", :created 1623148140440}
+{:jar_name "crux-http-client", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux HTTP Client", :created 1623148151030}
+{:jar_name "crux-http-server", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Crux HTTP Server", :created 1623148163020}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux Kafka Embedded", :created 1623148174660}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux Kafka Connect", :created 1623148187180}
+{:jar_name "crux-kafka", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux Kafka", :created 1623148197700}
+{:jar_name "crux-sql", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "SQL for Crux using Apache Calcite", :created 1623148212100}
+{:jar_name "crux-lucene", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Crux Lucene integration", :created 1623148221050}
+{:jar_name "crux-test", :group_name "juxt", :version "21.06-1.17.1", :description "Crux Tests Project", :created 1623148235210}
+{:jar_name "crux-s3", :group_name "juxt", :version "21.06-1.17.1-beta", :description "", :created 1623148246140}
+{:jar_name "crux-google-cloud-storage", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Crux Google Cloud Storage Document Store", :created 1623149405123}
+{:jar_name "crux-azure-blobs", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Crux Azure Blobs Document Store", :created 1623149419593}
+{:jar_name "re-frame-10x", :group_name "day8.re-frame", :version "1.1.3", :description "Become 10x more productive when developing and debugging re-frame applications.", :created 1623150797884}

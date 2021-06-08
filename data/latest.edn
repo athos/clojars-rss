@@ -1,22 +1,3 @@
-{:jar_name "farseer-http", :group_name "com.github.igrishaev", :version "0.1.1", :description "HTTP Ring handler for an RPC hadnler", :created 1622639223979}
-{:jar_name "farseer-jetty", :group_name "com.github.igrishaev", :version "0.1.1", :description "Jetty server for HTTP RPC handler", :created 1622639237239}
-{:jar_name "farseer-stub", :group_name "com.github.igrishaev", :version "0.1.1", :description "Local HTTP stub for RPC server", :created 1622639250609}
-{:jar_name "farseer-client", :group_name "com.github.igrishaev", :version "0.1.1", :description "HTTP client for RPC server", :created 1622639264119}
-{:jar_name "farseer-doc", :group_name "com.github.igrishaev", :version "0.1.1", :description "Utilities to generate RPC documentation", :created 1622639277619}
-{:jar_name "farseer-all", :group_name "com.github.igrishaev", :version "0.1.1", :description "JSON-RPC client and server with tools", :created 1622639291789}
-{:jar_name "flog", :group_name "com.github.jimpil", :version "0.1.8", :description "Structured-logging facilities geared towards Clojure maps (backed by Log4j2).", :created 1622639294729}
-{:jar_name "fetch", :group_name "lambdaisland", :version "1.0.33", :description "ClojureScript wrapper around the JavaScript fetch API.", :created 1622642692254}
-{:jar_name "liquid", :group_name "mogenslund", :version "2.1.0", :description "This project is an attempt to create a text editor for editing\n               Clojure files and Markdown files. It operates primarily in a\n               terminal, but with dynamics and extensibilities inspired by\n               Emacs and Vim.\n               The best place to start is to watch the demo video.", :created 1622645251886}
-{:jar_name "duck-repled", :group_name "link.szabo.mauricio", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1622648667953}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.06.02-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1622649382123}
-{:jar_name "trim-sl4j-classpath", :group_name "threatgrid", :version "0.2.0", :description "", :created 1622650257523}
-{:jar_name "trapperkeeper", :group_name "threatgrid", :version "3.2.0", :description "A framework for configuring, composing, and running Clojure services.", :created 1622651321980}
-{:jar_name "notebook", :group_name "org.pinkgorilla", :version "0.5.9", :description nil, :created 1622656350178}
-{:jar_name "notebook-bundel", :group_name "org.pinkgorilla", :version "0.1.0", :description nil, :created 1622656753356}
-{:jar_name "antq", :group_name "com.github.liquidz", :version "0.15.0", :description "Point out your outdated dependencies", :created 1622667522090}
-{:jar_name "antq", :group_name "antq", :version "0.15.0", :description "Point out your outdated dependencies", :created 1622667592960}
-{:jar_name "notebook", :group_name "org.pinkgorilla", :version "0.5.11", :description nil, :created 1622669114459}
-{:jar_name "notebook-bundel", :group_name "org.pinkgorilla", :version "0.5.11", :description nil, :created 1622669547037}
 {:jar_name "tablecloth.time", :group_name "org.scicloj", :version "1.00-alpha-3", :description "A time series manipulation library built on top of tablecloth.", :created 1622676393680}
 {:jar_name "figwheel-core", :group_name "com.bhauman", :version "0.2.14-SNAPSHOT", :description "Figwheel core provides code reloading facilities for ClojureScript.", :created 1622678276611}
 {:jar_name "figwheel-repl", :group_name "com.bhauman", :version "0.2.14-SNAPSHOT", :description "Figwheel REPL provides a stable multiplexing REPL for ClojureScript", :created 1622678290201}
@@ -177,7 +158,6 @@
 {:jar_name "lein-template", :group_name "holy-lambda", :version "0.1.69", :description "Template for holy lambda micro framework", :created 1622999710329}
 {:jar_name "cybermonday", :group_name "com.kiranshila", :version "0.0.14", :description nil, :created 1623005214333}
 {:jar_name "lein-template", :group_name "luminus", :version "4.10", :description "a template for creating Luminus applications", :created 1623005223103}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.6-SNAPSHOT", :description "Small Clojure Interpreter", :created 1623006291156}
 {:jar_name "tupelo", :group_name "tupelo", :version "21.06.06", :description "Tupelo:  Clojure With A Spoonful of Honey", :created 1623007870596}
 {:jar_name "cybermonday", :group_name "com.kiranshila", :version "0.0.15", :description nil, :created 1623014410214}
 {:jar_name "crux-geo", :group_name "com.teknql", :version "0.1.0-SNAPSHOT", :description "Geospatial Indexing for Crux", :created 1623017153416}
@@ -224,7 +204,6 @@
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.2.47", :description "web (server / reagent) helper library.", :created 1623086247311}
 {:jar_name "reagent-utils", :group_name "reagent-utils", :version "0.3.4", :description "various utility functions for Reagent based projects", :created 1623088785725}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.14.4", :description "CLJS development tools", :created 1623090517065}
-{:jar_name "babashka", :group_name "babashka", :version "0.4.5-SNAPSHOT", :description "babashka", :created 1623090588444}
 {:jar_name "bigfraction", :group_name "cljsjs", :version "4.1.1-0", :description "BigFraction is an arbitrary precision version of Fraction,\n       a rational number library written in JavaScript.", :created 1623091005212}
 {:jar_name "fraction", :group_name "cljsjs", :version "4.1.1-0", :description "Fraction is a rational number library written in JavaScript.", :created 1623091051472}
 {:jar_name "genji", :group_name "org.clojars.shimada", :version "0.1.1-SNAPSHOT", :description "", :created 1623091357220}
@@ -254,3 +233,24 @@
 {:jar_name "dumdom", :group_name "cjohansen", :version "2021.06.08", :description "Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.", :created 1623138067021}
 {:jar_name "survival-ranks", :group_name "net.justminecraft.survivalranks", :version "1.2.0-SNAPSHOT", :description "A ranking plugin for minecraft survival", :created 1623139573482}
 {:jar_name "hashp", :group_name "org.clojars.tggreene", :version "0.3.0", :description "A better \"prn\" for debugging", :created 1623141950389}
+{:jar_name "recurring-cup", :group_name "ivarref", :version "0.6.65", :description nil, :created 1623144690331}
+{:jar_name "sci", :group_name "borkdude", :version "0.2.6-SNAPSHOT", :description "Small Clojure Interpreter", :created 1623145206138}
+{:jar_name "babashka", :group_name "babashka", :version "0.4.5-SNAPSHOT", :description "babashka", :created 1623145577986}
+{:jar_name "crux-core", :group_name "juxt", :version "21.06-1.17.1-beta", :description "An open source document database with bitemporal graph queries", :created 1623148090961}
+{:jar_name "crux-rdf", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Crux RDF", :created 1623148100900}
+{:jar_name "crux-metrics", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Provides Metrics for Crux nodes", :created 1623148113010}
+{:jar_name "crux-rocksdb", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux RocksDB", :created 1623148122300}
+{:jar_name "crux-lmdb", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Crux LMDB", :created 1623148131390}
+{:jar_name "crux-jdbc", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux JDBC", :created 1623148140440}
+{:jar_name "crux-http-client", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux HTTP Client", :created 1623148151030}
+{:jar_name "crux-http-server", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Crux HTTP Server", :created 1623148163020}
+{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux Kafka Embedded", :created 1623148174660}
+{:jar_name "crux-kafka-connect", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux Kafka Connect", :created 1623148187180}
+{:jar_name "crux-kafka", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux Kafka", :created 1623148197700}
+{:jar_name "crux-sql", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "SQL for Crux using Apache Calcite", :created 1623148212100}
+{:jar_name "crux-lucene", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Crux Lucene integration", :created 1623148221050}
+{:jar_name "crux-test", :group_name "juxt", :version "21.06-1.17.1", :description "Crux Tests Project", :created 1623148235210}
+{:jar_name "crux-s3", :group_name "juxt", :version "21.06-1.17.1-beta", :description "", :created 1623148246140}
+{:jar_name "crux-google-cloud-storage", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Crux Google Cloud Storage Document Store", :created 1623149405123}
+{:jar_name "crux-azure-blobs", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Crux Azure Blobs Document Store", :created 1623149419593}
+{:jar_name "re-frame-10x", :group_name "day8.re-frame", :version "1.1.3", :description "Become 10x more productive when developing and debugging re-frame applications.", :created 1623150797884}
