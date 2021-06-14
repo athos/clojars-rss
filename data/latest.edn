@@ -1,6 +1,3 @@
-{:jar_name "crux-http-client", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux HTTP Client", :created 1623148151030}
-{:jar_name "crux-http-server", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "Crux HTTP Server", :created 1623148163020}
-{:jar_name "crux-kafka-embedded", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux Kafka Embedded", :created 1623148174660}
 {:jar_name "crux-kafka-connect", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux Kafka Connect", :created 1623148187180}
 {:jar_name "crux-kafka", :group_name "juxt", :version "21.06-1.17.1-beta", :description "Crux Kafka", :created 1623148197700}
 {:jar_name "crux-sql", :group_name "juxt", :version "21.06-1.17.1-alpha", :description "SQL for Crux using Apache Calcite", :created 1623148212100}
@@ -211,7 +208,6 @@
 {:jar_name "kafka.connect.event-feed", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "A Kafka Connect connector to read a HAL based event feed resource.", :created 1623510723039}
 {:jar_name "card-ascii-art", :group_name "org.clojars.cesaralcancio", :version "0.4.0", :description "Card art illustration using ascii", :created 1623521275777}
 {:jar_name "liquid", :group_name "mogenslund", :version "2.1.1", :description "This project is an attempt to create a text editor for editing\n               Clojure files and Markdown files. It operates primarily in a\n               terminal, but with dynamics and extensibilities inspired by\n               Emacs and Vim.\n               The best place to start is to watch the demo video.", :created 1623523971791}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.06.02-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1623524993182}
 {:jar_name "nvd-clojure", :group_name "nvd-clojure", :version "1.5.0", :description "National Vulnerability Database [https://nvd.nist.gov/] dependency-checker", :created 1623525253419}
 {:jar_name "lein-nvd", :group_name "lein-nvd", :version "1.5.0", :description "National Vulnerability Database [https://nvd.nist.gov/] dependency-checker leiningen plugin.", :created 1623525330709}
 {:jar_name "infix", :group_name "rm-hull", :version "0.4.0", :description "A small Clojure library for expressing LISP expressions as infix rather than prefix notation", :created 1623525905943}
@@ -252,5 +248,9 @@
 {:jar_name "myco", :group_name "org.clojars.s312569", :version "0.4.7", :description "Component library based on Bulma and re-frame.", :created 1623651387716}
 {:jar_name "ui-vega", :group_name "org.pinkgorilla", :version "0.0.6", :description "Vega renderer and a simple data-driven plotting dsl.", :created 1623653798720}
 {:jar_name "myco", :group_name "org.clojars.s312569", :version "0.4.9", :description "Component library based on Bulma and re-frame.", :created 1623656153195}
-{:jar_name "c4k-keycloak", :group_name "org.domaindrivenarchitecture", :version "0.1.0-SNAPSHOT", :description "keycloak c4k-installation package", :created 1623657053805}
 {:jar_name "cbass", :group_name "viebel", :version "0.2.18", :description "adding simple to HBase", :created 1623660502117}
+{:jar_name "re-frame-tasks", :group_name "jtk-dvlp", :version "1.0.1", :description "A re-frame interceptor and helpers to register / unregister (background-)tasks", :created 1623664039298}
+{:jar_name "fs", :group_name "org.clojars.jiacai", :version "1.4.6", :description "File system utilities for clojure", :created 1623664455503}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.06.02-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1623665448772}
+{:jar_name "c4k-keycloak", :group_name "org.domaindrivenarchitecture", :version "0.1.0-SNAPSHOT", :description "keycloak c4k-installation package", :created 1623665574131}
+{:jar_name "lein-ring", :group_name "dpiliouras", :version "0.12.8-SNAPSHOT", :description "Leiningen Ring plugin", :created 1623665740229}
