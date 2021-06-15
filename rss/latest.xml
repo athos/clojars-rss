@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 15 Jun 2021 03:25:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 15 Jun 2021 04:26:01 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.camsaul/toucan2/versions/0.9.3-SNAPSHOT</guid>
+    <title>[com.camsaul/toucan2 &quot;0.9.3-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.camsaul/toucan2/versions/0.9.3-SNAPSHOT</link>
+    <description></description>
+    <pubDate>Tue, 15 Jun 2021 04:10:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.camsaul/toucan2-jdbc/versions/0.9.3-SNAPSHOT</guid>
+    <title>[com.camsaul/toucan2-jdbc &quot;0.9.3-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.camsaul/toucan2-jdbc/versions/0.9.3-SNAPSHOT</link>
+    <description></description>
+    <pubDate>Tue, 15 Jun 2021 04:10:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.camsaul/toucan2-honeysql/versions/0.9.3-SNAPSHOT</guid>
+    <title>[com.camsaul/toucan2-honeysql &quot;0.9.3-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.camsaul/toucan2-honeysql/versions/0.9.3-SNAPSHOT</link>
+    <description></description>
+    <pubDate>Tue, 15 Jun 2021 04:10:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.camsaul/toucan2-core/versions/0.9.3-SNAPSHOT</guid>
+    <title>[com.camsaul/toucan2-core &quot;0.9.3-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.camsaul/toucan2-core/versions/0.9.3-SNAPSHOT</link>
+    <description></description>
+    <pubDate>Tue, 15 Jun 2021 04:09:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/day8/lein-git-inject/versions/0.0.15</guid>
+    <title>[day8/lein-git-inject &quot;0.0.15&quot;]</title>
+    <link>https://clojars.org/day8/lein-git-inject/versions/0.0.15</link>
+    <description>Injects project.clj with some execution context.</description>
+    <pubDate>Tue, 15 Jun 2021 03:44:08 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/bach/versions/3.0.0-SNAPSHOT</guid>
     <title>[bach &quot;3.0.0-SNAPSHOT&quot;]</title>
@@ -453,13 +488,6 @@
     <link>https://clojars.org/org.pinkgorilla/webly/versions/0.3.8</link>
     <description>web (server / reagent) helper library.</description>
     <pubDate>Sun, 13 Jun 2021 03:22:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.camsaul/toucan2/versions/0.9.3-SNAPSHOT</guid>
-    <title>[com.camsaul/toucan2 &quot;0.9.3-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.camsaul/toucan2/versions/0.9.3-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Sun, 13 Jun 2021 02:03:27 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/djblue/portal/versions/0.12.0</guid>
@@ -1774,34 +1802,6 @@
     <link>https://clojars.org/org.typedclojure/typed.clj.spec/versions/1.0.17-SNAPSHOT</link>
     <description>Type-like specs.</description>
     <pubDate>Wed, 9 Jun 2021 04:10:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.clj.runtime/versions/1.0.17-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.clj.runtime &quot;1.0.17-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.clj.runtime/versions/1.0.17-SNAPSHOT</link>
-    <description>An optional type system for Clojure — zero-dependency artifact for annotations only.</description>
-    <pubDate>Wed, 9 Jun 2021 04:10:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.cljs.analyzer/versions/1.0.17-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.cljs.analyzer &quot;1.0.17-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.cljs.analyzer/versions/1.0.17-SNAPSHOT</link>
-    <description>A variant of tools.analyzer.js.</description>
-    <pubDate>Wed, 9 Jun 2021 04:10:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.clj.analyzer/versions/1.0.17-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.clj.analyzer &quot;1.0.17-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.clj.analyzer/versions/1.0.17-SNAPSHOT</link>
-    <description>A variant of tools.analyzer.jvm.</description>
-    <pubDate>Wed, 9 Jun 2021 04:10:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.cljc.analyzer/versions/1.0.17-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.cljc.analyzer &quot;1.0.17-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.cljc.analyzer/versions/1.0.17-SNAPSHOT</link>
-    <description>A variant of tools.analyzer.</description>
-    <pubDate>Wed, 9 Jun 2021 04:10:19 +0000</pubDate>
   </item>
   </channel>
 </rss>
