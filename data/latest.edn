@@ -1,6 +1,3 @@
-{:jar_name "genji", :group_name "org.clojars.shimada", :version "0.1.2-SNAPSHOT", :description "", :created 1623262819027}
-{:jar_name "picasso", :group_name "org.pinkgorilla", :version "3.1.44", :description "renderer lookup engine", :created 1623264354508}
-{:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.86", :description "Simply Core Libs", :created 1623264626546}
 {:jar_name "sentry-clj", :group_name "net.clojars.danpli", :version "5.0.150", :description "A very thin wrapper around the official Java library for Sentry.", :created 1623265852779}
 {:jar_name "intoclj", :group_name "io.github.latant", :version "0.1.16", :description "A tool that generates clojure wrappers from java classes", :created 1623265860229}
 {:jar_name "methodical", :group_name "methodical", :version "0.11.3", :description "", :created 1623266869022}
@@ -247,10 +244,13 @@
 {:jar_name "kryptos", :group_name "org.danielsz", :version "0.1.5", :description "", :created 1623801925671}
 {:jar_name "tupelo", :group_name "tupelo", :version "21.06.15", :description "Tupelo:  Clojure With A Spoonful of Honey", :created 1623810177414}
 {:jar_name "duck-repled", :group_name "link.szabo.mauricio", :version "0.1.1-SNAPSHOT", :description "FIXME: write description", :created 1623815429577}
-{:jar_name "toucan2-core", :group_name "com.camsaul", :version "0.9.4-SNAPSHOT", :description nil, :created 1623815950671}
-{:jar_name "toucan2-honeysql", :group_name "com.camsaul", :version "0.9.4-SNAPSHOT", :description nil, :created 1623815960091}
-{:jar_name "toucan2-jdbc", :group_name "com.camsaul", :version "0.9.4-SNAPSHOT", :description nil, :created 1623815969081}
-{:jar_name "toucan2", :group_name "com.camsaul", :version "0.9.4-SNAPSHOT", :description nil, :created 1623815978561}
-{:jar_name "toucan2-toucan1", :group_name "com.camsaul", :version "0.9.4-SNAPSHOT", :description nil, :created 1623815987651}
-{:jar_name "toucan2-schema", :group_name "com.camsaul", :version "0.9.4-SNAPSHOT", :description nil, :created 1623815996731}
-{:jar_name "tla-edn", :group_name "pfeodrippe", :version "0.6.0-SNAPSHOT", :description "", :created 1623817081039}
+{:jar_name "varity", :group_name "varity", :version "0.7.1-SNAPSHOT", :description "Variant translation library for Clojure", :created 1623818021638}
+{:jar_name "toucan2-core", :group_name "com.camsaul", :version "0.9.4-SNAPSHOT", :description nil, :created 1623818611972}
+{:jar_name "toucan2-honeysql", :group_name "com.camsaul", :version "0.9.4-SNAPSHOT", :description nil, :created 1623818622342}
+{:jar_name "toucan2-jdbc", :group_name "com.camsaul", :version "0.9.4-SNAPSHOT", :description nil, :created 1623818632982}
+{:jar_name "toucan2", :group_name "com.camsaul", :version "0.9.4-SNAPSHOT", :description nil, :created 1623818643362}
+{:jar_name "toucan2-toucan1", :group_name "com.camsaul", :version "0.9.4-SNAPSHOT", :description nil, :created 1623818653782}
+{:jar_name "toucan2-schema", :group_name "com.camsaul", :version "0.9.4-SNAPSHOT", :description nil, :created 1623818663672}
+{:jar_name "tla-edn", :group_name "pfeodrippe", :version "0.6.0-SNAPSHOT", :description "", :created 1623818770300}
+{:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.5.0-RC1", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1623820101426}
+{:jar_name "fulcro-rad-semantic-ui", :group_name "com.fulcrologic", :version "1.1.0", :description "A UI plugin for Fulcro RAD that renders to web/electron using Semantic UI CSS", :created 1623820756838}
