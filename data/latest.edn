@@ -1,4 +1,3 @@
-{:jar_name "crux-core", :group_name "juxt", :version "dev-SNAPSHOT", :description "An open source document database with bitemporal graph queries", :created 1623329443511}
 {:jar_name "crux-rdf", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RDF", :created 1623329453611}
 {:jar_name "crux-metrics", :group_name "juxt", :version "dev-SNAPSHOT", :description "Provides Metrics for Crux nodes", :created 1623329462541}
 {:jar_name "crux-rocksdb", :group_name "juxt", :version "dev-SNAPSHOT", :description "Crux RocksDB", :created 1623329472281}
@@ -216,7 +215,6 @@
 {:jar_name "fulcro-rad-semantic-ui", :group_name "com.fulcrologic", :version "1.1.0", :description "A UI plugin for Fulcro RAD that renders to web/electron using Semantic UI CSS", :created 1623820756838}
 {:jar_name "sqlosure", :group_name "de.active-group", :version "0.5.2-SNAPSHOT", :description "Compositional relational queries.", :created 1623830258710}
 {:jar_name "dumdom", :group_name "cjohansen", :version "2021.06.16", :description "Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.", :created 1623830750595}
-{:jar_name "plug-utils", :group_name "net.clojars.mokr", :version "0.1.0-SNAPSHOT", :description "Small util functions for clj and/or cljs", :created 1623833216706}
 {:jar_name "tabulator", :group_name "cljsjs", :version "4.9.3-0", :description "An easy to use interactive table generation JavaScript library", :created 1623835865246}
 {:jar_name "chartjs", :group_name "cljsjs", :version "3.3.2-0", :description "Chart.js - Simple yet flexible JavaScript charting for designers & developers", :created 1623836951223}
 {:jar_name "common", :group_name "com.tick42.gateway", :version "3.0.12-SNAPSHOT", :description "", :created 1623837047292}
@@ -253,4 +251,6 @@
 {:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.0.0-rc3", :description "SQL as Clojure data structures.", :created 1623909791438}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.06.02-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1623919372008}
 {:jar_name "kafka.testing", :group_name "io.logicblocks", :version "0.0.2-RC2", :description "A Clojure library to help with tests involving Kafka.", :created 1623926548435}
-{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.8.1-louiseklodt_fix_consumer_docs_for_poll-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1623928102887}
+{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.8.1-louiseklodt_fix_consumer_docs_for_poll-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1623930137474}
+{:jar_name "plug-utils", :group_name "net.clojars.mokr", :version "0.1.0-SNAPSHOT", :description "Small util functions for clj and/or cljs", :created 1623931371870}
+{:jar_name "docjure", :group_name "dk.ative", :version "1.16.0", :description "Easily read and write Office documents from Clojure.", :created 1623931426580}
