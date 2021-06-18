@@ -4,7 +4,45 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 18 Jun 2021 13:29:33 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Jun 2021 14:18:12 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/techascent/tech.ml/versions/6.001</guid>
+    <title>[techascent/tech.ml &quot;6.001&quot;]</title>
+    <link>https://clojars.org/techascent/tech.ml/versions/6.001</link>
+    <description>Basic machine learning toolkit.  `tech.v3.ml` is the root
+namespace and provides train/predict pathways based on datasets and
+an options map.  Please see the xgboost article for a quick runthough
+of how to use this library.</description>
+    <pubDate>Fri, 18 Jun 2021 14:15:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.yetanalytics/hugsql/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.yetanalytics/hugsql &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.yetanalytics/hugsql/versions/0.6.0-SNAPSHOT</link>
+    <description>A Clojure library for embracing SQL</description>
+    <pubDate>Fri, 18 Jun 2021 14:12:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.domaindrivenarchitecture/c4k-keycloak/versions/0.2.2-SNAPSHOT</guid>
+    <title>[org.domaindrivenarchitecture/c4k-keycloak &quot;0.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.domaindrivenarchitecture/c4k-keycloak/versions/0.2.2-SNAPSHOT</link>
+    <description>keycloak c4k-installation package</description>
+    <pubDate>Fri, 18 Jun 2021 14:11:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.yetanalytics/hugsql-core/versions/0.6.0-SNAPSHOT</guid>
+    <title>[com.yetanalytics/hugsql-core &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.yetanalytics/hugsql-core/versions/0.6.0-SNAPSHOT</link>
+    <description>HugSQL core functionality without adapter dependencies</description>
+    <pubDate>Fri, 18 Jun 2021 14:10:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.domaindrivenarchitecture/c4k-common/versions/0.1.0-SNAPSHOT</guid>
+    <title>[org.domaindrivenarchitecture/c4k-common &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.domaindrivenarchitecture/c4k-common/versions/0.1.0-SNAPSHOT</link>
+    <description>Contains predicates and tools for c4k</description>
+    <pubDate>Fri, 18 Jun 2021 14:02:11 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/dda/k8s-mastodon-bot/versions/0.1.5-SNAPSHOT</guid>
     <title>[dda/k8s-mastodon-bot &quot;0.1.5-SNAPSHOT&quot;]</title>
@@ -46,13 +84,6 @@
     <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20210618-102146.5f498584</link>
     <description></description>
     <pubDate>Fri, 18 Jun 2021 10:22:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.domaindrivenarchitecture/c4k-keycloak/versions/0.2.2-SNAPSHOT</guid>
-    <title>[org.domaindrivenarchitecture/c4k-keycloak &quot;0.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.domaindrivenarchitecture/c4k-keycloak/versions/0.2.2-SNAPSHOT</link>
-    <description>keycloak c4k-installation package</description>
-    <pubDate>Fri, 18 Jun 2021 10:19:57 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/org.clojars.artisworks/dependency/versions/1.0.0</guid>
@@ -1774,34 +1805,6 @@
     <link>https://clojars.org/net.clojars.deadshot465/owoify-clj/versions/0.1.0</link>
     <description>This Clojure port of mohan-cao&#39;s owoify-js is released under MIT license, which is also the same license of owoify-js. This simple library will turn any string into nonsensical babyspeak similar to what LeafySweet&#39;s infamous Chrome extension did.</description>
     <pubDate>Thu, 10 Jun 2021 20:59:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tolitius/yang/versions/0.1.28</guid>
-    <title>[tolitius/yang &quot;0.1.28&quot;]</title>
-    <link>https://clojars.org/tolitius/yang/versions/0.1.28</link>
-    <description>the yang of Clojure&#39;s ying</description>
-    <pubDate>Thu, 10 Jun 2021 19:38:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.jelastic/jelastic/versions/7.2.0-7-SNAPSHOT</guid>
-    <title>[io.github.jelastic/jelastic &quot;7.2.0-7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/io.github.jelastic/jelastic/versions/7.2.0-7-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Thu, 10 Jun 2021 19:05:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.7theta/tempus/versions/0.3.2</guid>
-    <title>[com.7theta/tempus &quot;0.3.2&quot;]</title>
-    <link>https://clojars.org/com.7theta/tempus/versions/0.3.2</link>
-    <description>Clojure(script) time library</description>
-    <pubDate>Thu, 10 Jun 2021 18:38:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/notebook-bundel/versions/0.5.32</guid>
-    <title>[org.pinkgorilla/notebook-bundel &quot;0.5.32&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/notebook-bundel/versions/0.5.32</link>
-    <description></description>
-    <pubDate>Thu, 10 Jun 2021 17:49:41 +0000</pubDate>
   </item>
   </channel>
 </rss>
