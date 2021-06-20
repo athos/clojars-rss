@@ -1,6 +1,3 @@
-{:jar_name "sentry-clj", :group_name "net.clojars.danpli", :version "5.0.159", :description "A very thin wrapper around the official Java library for Sentry.", :created 1623433629825}
-{:jar_name "multitool", :group_name "org.parkerici", :version "0.0.15", :description "PICI utility library", :created 1623442552398}
-{:jar_name "salesforce", :group_name "com.owainlewis", :version "1.0.3-SNAPSHOT", :description "A Clojure library for accessing the Salesforce API", :created 1623442965948}
 {:jar_name "protojure", :group_name "protojure", :version "1.6.1", :description "Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications", :created 1623444651398}
 {:jar_name "lein-monolith", :group_name "lein-monolith", :version "1.7.0", :description "Leiningen plugin for managing subrojects within a monorepo.", :created 1623445135113}
 {:jar_name "dumdom", :group_name "cjohansen", :version "2021.06.11", :description "Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.", :created 1623448211892}
@@ -22,7 +19,6 @@
 {:jar_name "lambdacd", :group_name "lambdacd", :version "0.14.7", :description "A library to create a continous delivery pipeline in code.", :created 1623477718527}
 {:jar_name "lein-template", :group_name "lambdacd", :version "0.3.19", :description "leiningen template for lambdacd", :created 1623478037554}
 {:jar_name "stepwise", :group_name "ai.motiva", :version "0.6.0-beta1", :description "", :created 1623495741042}
-{:jar_name "yeah", :group_name "org.clojars.sokrato", :version "0.1.0-SNAPSHOT", :description "common utility library and app", :created 1623505424929}
 {:jar_name "kafka.testing", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "A Clojure library to help with tests involving Kafka.", :created 1623509289193}
 {:jar_name "kafka.connect.event-feed", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "A Kafka Connect connector to read a HAL based event feed resource.", :created 1623510723039}
 {:jar_name "card-ascii-art", :group_name "org.clojars.cesaralcancio", :version "0.4.0", :description "Card art illustration using ascii", :created 1623521275777}
@@ -254,3 +250,7 @@
 {:jar_name "recife", :group_name "pfeodrippe", :version "0.3.0", :description "", :created 1624162503476}
 {:jar_name "edd-core-web", :group_name "com.alpha-prosoft", :version "1.36", :description nil, :created 1624164855313}
 {:jar_name "lein-template", :group_name "re-frame", :version "2.2.5", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1624165167950}
+{:jar_name "edd-core-web", :group_name "com.alpha-prosoft", :version "1.43", :description nil, :created 1624166526187}
+{:jar_name "cbass", :group_name "viebel", :version "0.2.22", :description "adding simple to HBase", :created 1624168515128}
+{:jar_name "malli-instrument", :group_name "org.clojars.viebel", :version "0.0.1", :description "Malli instrumentation", :created 1624168884814}
+{:jar_name "yeah", :group_name "org.clojars.sokrato", :version "0.1.0-SNAPSHOT", :description "common utility library and app", :created 1624169435059}
