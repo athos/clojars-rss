@@ -1,14 +1,3 @@
-{:jar_name "lein-template", :group_name "luminus", :version "4.13", :description "a template for creating Luminus applications", :created 1625234045845}
-{:jar_name "carmine-streams", :group_name "carmine-streams", :version "0.1.3", :description "Carmine helpers for redis streams", :created 1625235081067}
-{:jar_name "util.log", :group_name "edu.bard", :version "0.1.5", :description "Logging baseline for Bard Clojure projects", :created 1625236510946}
-{:jar_name "heroicons-clojure", :group_name "to.fluent", :version "1.0.1-1", :description "heroicons for Fulcro and Reagent", :created 1625236800064}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210702-162421.e894c6f4", :description nil, :created 1625243096856}
-{:jar_name "calip", :group_name "tolitius", :version "0.1.7", :description "measuring and debugging functions on demand without a need to alter the code", :created 1625244410747}
-{:jar_name "libmooncat", :group_name "com.ponderware", :version "0.2.3", :description "Clojure(script) library for interacting with the MoonCatCommunity ecosystem", :created 1625245188781}
-{:jar_name "gorilla-ui", :group_name "org.pinkgorilla", :version "0.3.45", :description "Reagent components for data visualisation.", :created 1625247015758}
-{:jar_name "ui-highcharts", :group_name "org.pinkgorilla", :version "0.0.7", :description nil, :created 1625247267696}
-{:jar_name "ui-input", :group_name "org.pinkgorilla", :version "0.0.8", :description nil, :created 1625248783485}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210702-184317.105aa5ef", :description nil, :created 1625251436606}
 {:jar_name "libmooncat", :group_name "com.ponderware", :version "0.2.4", :description "Clojure(script) library for interacting with the MoonCatCommunity ecosystem", :created 1625256854110}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.2.109", :description "", :created 1625257712799}
 {:jar_name "goldly-bundel", :group_name "org.pinkgorilla", :version "0.2.109", :description "", :created 1625258036656}
@@ -254,3 +243,14 @@
 {:jar_name "retrogeek", :group_name "org.clojars.mirocosic", :version "0.1.0", :description "FIXME: write description", :created 1625810738305}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.71", :description nil, :created 1625816902543}
 {:jar_name "errata", :group_name "cc.journeyman", :version "0.1.0", :description "A library designed to filter out from Clojure backtraces those \nframes likely to be of interest to the developer", :created 1625823390838}
+{:jar_name "mulog", :group_name "com.brunobonacci", :version "0.8.0-SNAPSHOT", :description "μ/log is a micro-logging library that logs events and data, not words!", :created 1625829212396}
+{:jar_name "mulog-json", :group_name "com.brunobonacci", :version "0.8.0-SNAPSHOT", :description "μ/log json handling", :created 1625829226656}
+{:jar_name "mulog-elasticsearch", :group_name "com.brunobonacci", :version "0.8.0-SNAPSHOT", :description "A publisher for μ/log to Elasticsearch.", :created 1625829241076}
+{:jar_name "mulog-jvm-metrics", :group_name "com.brunobonacci", :version "0.8.0-SNAPSHOT", :description "A JVM metrics sampler for μ/log.", :created 1625829253726}
+{:jar_name "mulog-filesystem-metrics", :group_name "com.brunobonacci", :version "0.8.0-SNAPSHOT", :description "A filesystem metrics sampler for μ/log.", :created 1625829266026}
+{:jar_name "mulog-mbean-sampler", :group_name "com.brunobonacci", :version "0.8.0-SNAPSHOT", :description "A MBean sampler for μ/log.", :created 1625829278516}
+{:jar_name "mulog-adv-console", :group_name "com.brunobonacci", :version "0.8.0-SNAPSHOT", :description "A publisher for μ/log to Console and Terminal.", :created 1625829291046}
+{:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.8.0-SNAPSHOT", :description "A publisher for μ/log to Kafka.", :created 1625829303276}
+{:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.8.0-SNAPSHOT", :description "A publisher for μ/log to Kinesis.", :created 1625829316455}
+{:jar_name "mulog-cloudwatch", :group_name "com.brunobonacci", :version "0.8.0-SNAPSHOT", :description "A publisher for μ/log to Cloudwatch.", :created 1625829329045}
+{:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.8.0-SNAPSHOT", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1625829341635}
