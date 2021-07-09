@@ -4,7 +4,105 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 9 Jul 2021 11:15:55 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 9 Jul 2021 12:30:24 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.8.0</guid>
+    <title>[com.brunobonacci/mulog-prometheus &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.8.0</link>
+    <description>A publisher for μ/log to Prometheus.</description>
+    <pubDate>Fri, 9 Jul 2021 12:26:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.8.0</guid>
+    <title>[com.brunobonacci/mulog-zipkin &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.8.0</link>
+    <description>A publisher for μ/trace to OpenZipkin.</description>
+    <pubDate>Fri, 9 Jul 2021 12:26:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.8.0</guid>
+    <title>[com.brunobonacci/mulog-slack &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.8.0</link>
+    <description>A publisher for μ/log to a Slack incoming webhook.</description>
+    <pubDate>Fri, 9 Jul 2021 12:26:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.8.0</guid>
+    <title>[com.brunobonacci/mulog-cloudwatch &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.8.0</link>
+    <description>A publisher for μ/log to Cloudwatch.</description>
+    <pubDate>Fri, 9 Jul 2021 12:26:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.8.0</guid>
+    <title>[com.brunobonacci/mulog-kinesis &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.8.0</link>
+    <description>A publisher for μ/log to Kinesis.</description>
+    <pubDate>Fri, 9 Jul 2021 12:25:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.8.0</guid>
+    <title>[com.brunobonacci/mulog-kafka &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.8.0</link>
+    <description>A publisher for μ/log to Kafka.</description>
+    <pubDate>Fri, 9 Jul 2021 12:25:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-adv-console/versions/0.8.0</guid>
+    <title>[com.brunobonacci/mulog-adv-console &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-adv-console/versions/0.8.0</link>
+    <description>A publisher for μ/log to Console and Terminal.</description>
+    <pubDate>Fri, 9 Jul 2021 12:25:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-mbean-sampler/versions/0.8.0</guid>
+    <title>[com.brunobonacci/mulog-mbean-sampler &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-mbean-sampler/versions/0.8.0</link>
+    <description>A MBean sampler for μ/log.</description>
+    <pubDate>Fri, 9 Jul 2021 12:25:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.8.0</guid>
+    <title>[com.brunobonacci/mulog-filesystem-metrics &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.8.0</link>
+    <description>A filesystem metrics sampler for μ/log.</description>
+    <pubDate>Fri, 9 Jul 2021 12:24:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.8.0</guid>
+    <title>[com.brunobonacci/mulog-jvm-metrics &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.8.0</link>
+    <description>A JVM metrics sampler for μ/log.</description>
+    <pubDate>Fri, 9 Jul 2021 12:24:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.8.0</guid>
+    <title>[com.brunobonacci/mulog-elasticsearch &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.8.0</link>
+    <description>A publisher for μ/log to Elasticsearch.</description>
+    <pubDate>Fri, 9 Jul 2021 12:24:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-json/versions/0.8.0</guid>
+    <title>[com.brunobonacci/mulog-json &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-json/versions/0.8.0</link>
+    <description>μ/log json handling</description>
+    <pubDate>Fri, 9 Jul 2021 12:24:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog/versions/0.8.0</guid>
+    <title>[com.brunobonacci/mulog &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog/versions/0.8.0</link>
+    <description>μ/log is a micro-logging library that logs events and data, not words!</description>
+    <pubDate>Fri, 9 Jul 2021 12:23:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/za.co.simply/simply.core/versions/1.1.92</guid>
+    <title>[za.co.simply/simply.core &quot;1.1.92&quot;]</title>
+    <link>https://clojars.org/za.co.simply/simply.core/versions/1.1.92</link>
+    <description>Simply Core Libs</description>
+    <pubDate>Fri, 9 Jul 2021 12:18:44 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/cc.journeyman/errata/versions/0.1.0</guid>
     <title>[cc.journeyman/errata &quot;0.1.0&quot;]</title>
@@ -1702,104 +1800,6 @@ om.next graph syntax.</description>
     <link>https://clojars.org/dda/mastodon-bot/versions/1.13.4</link>
     <description>Bot to publish twitter, tumblr or rss posts to an mastodon account.</description>
     <pubDate>Thu, 1 Jul 2021 20:17:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.tbt-post/zlib-tiny/versions/0.2.5</guid>
-    <title>[net.tbt-post/zlib-tiny &quot;0.2.5&quot;]</title>
-    <link>https://clojars.org/net.tbt-post/zlib-tiny/versions/0.2.5</link>
-    <description>Tiny Clojure ZLib helper</description>
-    <pubDate>Thu, 1 Jul 2021 19:14:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/thheller/shadow-cljs/versions/2.14.6</guid>
-    <title>[thheller/shadow-cljs &quot;2.14.6&quot;]</title>
-    <link>https://clojars.org/thheller/shadow-cljs/versions/2.14.6</link>
-    <description>CLJS development tools</description>
-    <pubDate>Thu, 1 Jul 2021 17:41:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.nomistech/jackdaw/versions/0.8.0-with-stream-table-inner-join</guid>
-    <title>[com.nomistech/jackdaw &quot;0.8.0-with-stream-table-inner-join&quot;]</title>
-    <link>https://clojars.org/com.nomistech/jackdaw/versions/0.8.0-with-stream-table-inner-join</link>
-    <description>A Clojure library for the Apache Kafka distributed streaming platform.</description>
-    <pubDate>Thu, 1 Jul 2021 17:01:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/luminus/lein-template/versions/4.12</guid>
-    <title>[luminus/lein-template &quot;4.12&quot;]</title>
-    <link>https://clojars.org/luminus/lein-template/versions/4.12</link>
-    <description>a template for creating Luminus applications</description>
-    <pubDate>Thu, 1 Jul 2021 16:53:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/jonase/eastwood/versions/0.7.1</guid>
-    <title>[jonase/eastwood &quot;0.7.1&quot;]</title>
-    <link>https://clojars.org/jonase/eastwood/versions/0.7.1</link>
-    <description>A Clojure lint tool</description>
-    <pubDate>Thu, 1 Jul 2021 15:52:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20210701-154720.09c723d4</guid>
-    <title>[org.akvo.flow/akvo-flow &quot;20210701-154720.09c723d4&quot;]</title>
-    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20210701-154720.09c723d4</link>
-    <description></description>
-    <pubDate>Thu, 1 Jul 2021 15:47:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint/versions/0.2.44</guid>
-    <title>[exoscale/blueprint &quot;0.2.44&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint/versions/0.2.44</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 1 Jul 2021 13:59:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-reporter/versions/0.2.44</guid>
-    <title>[exoscale/blueprint-reporter &quot;0.2.44&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-reporter/versions/0.2.44</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 1 Jul 2021 13:59:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-server/versions/0.2.44</guid>
-    <title>[exoscale/blueprint-server &quot;0.2.44&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-server/versions/0.2.44</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 1 Jul 2021 13:59:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-client/versions/0.2.44</guid>
-    <title>[exoscale/blueprint-client &quot;0.2.44&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-client/versions/0.2.44</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 1 Jul 2021 13:58:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-handler/versions/0.2.44</guid>
-    <title>[exoscale/blueprint-handler &quot;0.2.44&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-handler/versions/0.2.44</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 1 Jul 2021 13:58:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-router/versions/0.2.44</guid>
-    <title>[exoscale/blueprint-router &quot;0.2.44&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-router/versions/0.2.44</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 1 Jul 2021 13:58:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-openapi/versions/0.2.44</guid>
-    <title>[exoscale/blueprint-openapi &quot;0.2.44&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-openapi/versions/0.2.44</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 1 Jul 2021 13:58:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-core/versions/0.2.44</guid>
-    <title>[exoscale/blueprint-core &quot;0.2.44&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-core/versions/0.2.44</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 1 Jul 2021 13:58:07 +0000</pubDate>
   </item>
   </channel>
 </rss>
