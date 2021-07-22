@@ -1,13 +1,3 @@
-{:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.5.1", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1626069386471}
-{:jar_name "edd-core-web", :group_name "com.alpha-prosoft", :version "1.49", :description nil, :created 1626069686659}
-{:jar_name "holy-lambda-default-retriever", :group_name "io.github.FieryCod", :version "0.0.7-SNAPSHOT", :description "Default retriever for payloads", :created 1626072605030}
-{:jar_name "holy-lambda", :group_name "io.github.FieryCod", :version "0.2.3-SNAPSHOT", :description "Micro framework which turns your code into AWS Lambda functions", :created 1626072629940}
-{:jar_name "holy-lambda-async-retriever", :group_name "io.github.FieryCod", :version "0.0.7-SNAPSHOT", :description "Support for async handlers which returns channel as a response.", :created 1626072657360}
-{:jar_name "clj-jq", :group_name "lt.jocas", :version "1.0.4", :description "jq processor for JSON data", :created 1626072745039}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.15.1", :description "CLJS development tools", :created 1626074846056}
-{:jar_name "ui-vega", :group_name "org.pinkgorilla", :version "0.0.16", :description "Vega renderer and a simple data-driven plotting dsl.", :created 1626078107864}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210712-084321.831ea753", :description nil, :created 1626079438216}
-{:jar_name "duckula", :group_name "nomnom", :version "0.7.2", :description "RPC server (and soon, client), built on top of JSON+Avro+HTTP", :created 1626086328081}
 {:jar_name "objection", :group_name "riverford", :version "0.1.3", :description "Manages global resources.", :created 1626088847305}
 {:jar_name "ring-discord-auth", :group_name "com.github.johnnyjayjay", :version "1.0.0", :description "Fast and secure functions and ring middleware to verify ED-25519-signed Discord interactions", :created 1626091368929}
 {:jar_name "clojure-lsp", :group_name "com.github.clojure-lsp", :version "2021.07.12-12.30.59", :description nil, :created 1626094257330}
@@ -84,7 +74,6 @@
 {:jar_name "pathom-viz-connector", :group_name "com.wsscode", :version "2021.07.15-1", :description "Connector tools to use the Pathom Viz Application.", :created 1626323740554}
 {:jar_name "clj-yaml", :group_name "clj-commons", :version "0.7.107", :description "YAML encoding and decoding for Clojure using SnakeYAML", :created 1626340514700}
 {:jar_name "org-parser", :group_name "org-parser", :version "0.1.26", :description "A parser for the Org mode markup language for Emacs", :created 1626342938914}
-{:jar_name "genji", :group_name "org.clojars.shimada", :version "0.4.0-SNAPSHOT", :description "", :created 1626347700423}
 {:jar_name "pip-license-checker", :group_name "org.clojars.vrs", :version "0.15.0-SNAPSHOT", :description "Check Python PyPI package license", :created 1626351881806}
 {:jar_name "pip-license-checker", :group_name "org.clojars.vrs", :version "0.16.0", :description "Check Python PyPI package license", :created 1626354453550}
 {:jar_name "dnddice", :group_name "org.fversnel", :version "4.0.0-SNAPSHOT", :description "Clojure library that parses Dungeons & Dragons dice rolls (e.g. '1d20' etc.) and\nrolls them.", :created 1626354818287}
@@ -254,3 +243,14 @@
 {:jar_name "manifold", :group_name "com.github.arohner", :version "0.1.9-alpha5", :description "A compatibility layer for event-driven abstractions", :created 1626943589886}
 {:jar_name "ketu", :group_name "com.appsflyer", :version "0.6.1-SNAPSHOT", :description "Clojure Apache Kafka client with core.async api", :created 1626943629775}
 {:jar_name "malli", :group_name "metosin", :version "0.6.0-SNAPSHOT", :description nil, :created 1626944281850}
+{:jar_name "genji", :group_name "org.clojars.shimada", :version "0.4.0-SNAPSHOT", :description "", :created 1626945827598}
+{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.45", :description "Data definitions for APIs", :created 1626946076346}
+{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.45", :description "Data definitions for APIs", :created 1626946088286}
+{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.45", :description "Data definitions for APIs", :created 1626946100096}
+{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.45", :description "Data definitions for APIs", :created 1626946111936}
+{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.45", :description "Data definitions for APIs", :created 1626946123896}
+{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.45", :description "Data definitions for APIs", :created 1626946135656}
+{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.45", :description "Data definitions for APIs", :created 1626946147346}
+{:jar_name "blueprint", :group_name "exoscale", :version "0.2.45", :description "Data definitions for APIs", :created 1626946159466}
+{:jar_name "fsdb", :group_name "fsdb", :version "1.1.1", :description "A reasonably convenient database on top of the file system.", :created 1626948254809}
+{:jar_name "fn", :group_name "cc.qbits", :version "1.0.0-alpha1", :description "", :created 1626948705196}
