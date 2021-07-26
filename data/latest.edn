@@ -1,4 +1,3 @@
-{:jar_name "lacinia", :group_name "com.walmartlabs", :version "0.39-alpha-6", :description "A GraphQL server implementation in Clojure", :created 1626390890905}
 {:jar_name "picasso", :group_name "org.pinkgorilla", :version "3.1.53", :description nil, :created 1626402837099}
 {:jar_name "syncretism", :group_name "org.clojars.tyruiop", :version "0.1.1", :description "Common library for all syncretism projects", :created 1626405523882}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.3.48", :description nil, :created 1626405934899}
@@ -145,7 +144,6 @@
 {:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.3.20", :description "Templating engine for office documents.", :created 1626933043457}
 {:jar_name "vertx-service-discovery-backend-ranger", :group_name "io.raven.vertx", :version "4.0.3-5", :description nil, :created 1626935545438}
 {:jar_name "manifold", :group_name "com.github.arohner", :version "0.1.9-alpha5", :description "A compatibility layer for event-driven abstractions", :created 1626943589886}
-{:jar_name "ketu", :group_name "com.appsflyer", :version "0.6.1-SNAPSHOT", :description "Clojure Apache Kafka client with core.async api", :created 1626943629775}
 {:jar_name "malli", :group_name "metosin", :version "0.6.0-SNAPSHOT", :description nil, :created 1626944281850}
 {:jar_name "genji", :group_name "org.clojars.shimada", :version "0.4.0-SNAPSHOT", :description "", :created 1626945827598}
 {:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.45", :description "Data definitions for APIs", :created 1626946076346}
@@ -243,14 +241,16 @@
 {:jar_name "core", :group_name "yetibot", :version "20210726.134250.89f88f5", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1627307008501}
 {:jar_name "yetibot", :group_name "yetibot", :version "20210726.134719.ff1c88b", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1627307309799}
 {:jar_name "singer-clojure", :group_name "singer-clojure", :version "1.1.5", :description "Clojure library for shared code between clojure taps", :created 1627315428599}
-{:jar_name "kurosawa", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "Parent for all that is Kurosawa", :created 1627317462342}
-{:jar_name "kurosawa.aws", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "AWS Utilities.", :created 1627317483889}
-{:jar_name "kurosawa.nrepl", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "The Kurosawa nREPL library.", :created 1627317494626}
-{:jar_name "kurosawa.log", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "A Kurosawa library for logging.", :created 1627317504152}
-{:jar_name "kurosawa.core", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "The root Kurosawa library.", :created 1627317515313}
-{:jar_name "kurosawa.web", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "The Kurosawa web library.", :created 1627317524909}
 {:jar_name "lacinia", :group_name "com.walmartlabs", :version "0.39-alpha-7", :description "A GraphQL server implementation in Clojure", :created 1627321781698}
 {:jar_name "servo", :group_name "com.7theta", :version "2.1.1", :description "A rehinkdb client library designed to integrate with signum", :created 1627323317628}
 {:jar_name "slash", :group_name "com.github.johnnyjayjay", :version "0.1.1-SNAPSHOT", :description "A library for handling and routing Discord interactions", :created 1627327025294}
 {:jar_name "propeller", :group_name "net.clojars.lspector", :version "0.2.1", :description "Yet another Push-based genetic programming system in Clojure.", :created 1627328765093}
 {:jar_name "svg-clj", :group_name "io.github.adam-james-v", :version "0.0.3-SNAPSHOT", :description nil, :created 1627332742287}
+{:jar_name "ketu", :group_name "com.appsflyer", :version "0.6.1-SNAPSHOT", :description "Clojure Apache Kafka client with core.async api", :created 1627335142691}
+{:jar_name "kurosawa.nrepl", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "The Kurosawa nREPL library.", :created 1627335678588}
+{:jar_name "kurosawa.log", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "A Kurosawa library for logging.", :created 1627335698958}
+{:jar_name "kurosawa.web", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "The Kurosawa web library.", :created 1627335712468}
+{:jar_name "kurosawa.aws", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "AWS Utilities.", :created 1627335725438}
+{:jar_name "kurosawa.core", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "The root Kurosawa library.", :created 1627335737198}
+{:jar_name "kurosawa", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "A catch-all project that brings in all Kurosawa libs.", :created 1627335753267}
+{:jar_name "clj-parent", :group_name "puppetlabs", :version "4.6.27", :description "", :created 1627337752474}
