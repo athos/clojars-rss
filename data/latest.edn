@@ -1,4 +1,3 @@
-{:jar_name "reacl-c", :group_name "de.active-group", :version "0.10.6", :description "Compositional and declarative user interface library for Clojure and Clojurescript.", :created 1626440779445}
 {:jar_name "portable-text-clj", :group_name "cjohansen", :version "2021.07.17", :description "Render sanity.io Portable Text to HTML.", :created 1626444088774}
 {:jar_name "duck-repled", :group_name "link.szabo.mauricio", :version "0.1.2-SNAPSHOT", :description "FIXME: write description", :created 1626462596302}
 {:jar_name "missionary", :group_name "missionary", :version "b.20", :description "A functional effect and streaming system for clojure and clojurescript.", :created 1626467102815}
@@ -225,12 +224,6 @@
 {:jar_name "propeller", :group_name "net.clojars.lspector", :version "0.2.1", :description "Yet another Push-based genetic programming system in Clojure.", :created 1627328765093}
 {:jar_name "svg-clj", :group_name "io.github.adam-james-v", :version "0.0.3-SNAPSHOT", :description nil, :created 1627332742287}
 {:jar_name "ketu", :group_name "com.appsflyer", :version "0.6.1-SNAPSHOT", :description "Clojure Apache Kafka client with core.async api", :created 1627335142691}
-{:jar_name "kurosawa.nrepl", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "The Kurosawa nREPL library.", :created 1627335678588}
-{:jar_name "kurosawa.log", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "A Kurosawa library for logging.", :created 1627335698958}
-{:jar_name "kurosawa.web", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "The Kurosawa web library.", :created 1627335712468}
-{:jar_name "kurosawa.aws", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "AWS Utilities.", :created 1627335725438}
-{:jar_name "kurosawa.core", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "The root Kurosawa library.", :created 1627335737198}
-{:jar_name "kurosawa", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "A catch-all project that brings in all Kurosawa libs.", :created 1627335753267}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "4.6.27", :description "", :created 1627337752474}
 {:jar_name "snoop", :group_name "com.crypticbutter", :version "21-207-alpha2", :description "Function instrumentation using malli schemas.", :created 1627339169665}
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.5.2", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1627353206093}
@@ -254,3 +247,10 @@
 {:jar_name "pathom3", :group_name "com.wsscode", :version "2021.07.27-alpha", :description "Logic programming though semantic attributes.", :created 1627396596946}
 {:jar_name "envopts", :group_name "nl.jomco", :version "0.0.2", :description "Configuration sets from the environment", :created 1627398742283}
 {:jar_name "kafka.connect.event-feed", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "A Kafka Connect connector to read a HAL based event feed resource.", :created 1627399238830}
+{:jar_name "kurosawa.aws", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "AWS Utilities.", :created 1627414988454}
+{:jar_name "kurosawa.nrepl", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "The Kurosawa nREPL library.", :created 1627414994704}
+{:jar_name "kurosawa.log", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "A Kurosawa library for logging.", :created 1627415000864}
+{:jar_name "kurosawa.core", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "The root Kurosawa library.", :created 1627415007734}
+{:jar_name "kurosawa.web", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "The Kurosawa web library.", :created 1627415014194}
+{:jar_name "kurosawa", :group_name "org.purefn", :version "2.1.13-SNAPSHOT", :description "A catch-all project that brings in all Kurosawa libs.", :created 1627415021384}
+{:jar_name "core", :group_name "yetibot", :version "20210727.201437.afc4704", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1627416908719}
