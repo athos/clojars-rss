@@ -1,7 +1,3 @@
-{:jar_name "common", :group_name "com.tick42.gateway", :version "3.0.13-SNAPSHOT", :description "", :created 1626697280242}
-{:jar_name "auth", :group_name "com.tick42.gateway", :version "3.0.13-SNAPSHOT", :description "", :created 1626697290492}
-{:jar_name "local-node", :group_name "com.tick42.gateway", :version "3.0.13-SNAPSHOT", :description "", :created 1626697302922}
-{:jar_name "basic-auth", :group_name "com.tick42.gateway", :version "3.0.13-SNAPSHOT", :description "", :created 1626697312522}
 {:jar_name "common-test", :group_name "com.tick42.gateway", :version "3.0.13-SNAPSHOT", :description "", :created 1626697324632}
 {:jar_name "global-domain", :group_name "com.tick42.gateway", :version "3.0.13-SNAPSHOT", :description "", :created 1626697333501}
 {:jar_name "activity-domain", :group_name "com.tick42.gateway", :version "3.0.13-SNAPSHOT", :description "", :created 1626697343461}
@@ -254,3 +250,7 @@
 {:jar_name "reagent-material-ui-js", :group_name "arttuka", :version "5.0.0-beta.2-0", :description "Packaged Javascript files for reagent-material-ui", :created 1627638605950}
 {:jar_name "reagent-material-ui", :group_name "arttuka", :version "5.0.0-beta.2-0", :description "Reagent wrapper library for Material UI v5 alpha", :created 1627638616999}
 {:jar_name "lein-ring", :group_name "dpiliouras", :version "0.12.18", :description "Leiningen Ring plugin", :created 1627647985948}
+{:jar_name "lein-ring", :group_name "dpiliouras", :version "0.12.21", :description "Leiningen Ring plugin", :created 1627650146161}
+{:jar_name "via", :group_name "com.7theta", :version "8.3.0", :description "A re-frame library for WebSocket based messaging", :created 1627650479509}
+{:jar_name "via-schema", :group_name "com.7theta", :version "0.4.0", :description "Schema validation for via events and subs.", :created 1627650579539}
+{:jar_name "via-auth", :group_name "com.7theta", :version "0.5.0", :description "Common authentication strategies for via", :created 1627650606279}
