@@ -1,5 +1,3 @@
-{:jar_name "replex", :group_name "com.github.milankinen", :version "0.0.1", :description "Clojure REPL extensions", :created 1626808196938}
-{:jar_name "propeller", :group_name "org.clojars.dfloresgarcia", :version "0.1.1-SNAPSHOT", :description "FIXME: write description", :created 1626809829657}
 {:jar_name "eastwood", :group_name "jonase", :version "0.9.4", :description "A Clojure lint tool", :created 1626816552337}
 {:jar_name "snoop", :group_name "com.crypticbutter", :version "21-201-alpha", :description "Function instrumentation using malli schemas.", :created 1626819552628}
 {:jar_name "clojure-spinners", :group_name "com.github.popoppo", :version "0.1.1", :description "Various spinners for Clojure", :created 1626830071383}
@@ -202,7 +200,6 @@
 {:jar_name "via-schema", :group_name "com.7theta", :version "0.4.0", :description "Schema validation for via events and subs.", :created 1627650579539}
 {:jar_name "via-auth", :group_name "com.7theta", :version "0.5.0", :description "Common authentication strategies for via", :created 1627650606279}
 {:jar_name "clj-async-profiler", :group_name "com.clojure-goes-fast", :version "0.5.1", :description "Clojure wrapper around Java's async-profiler", :created 1627652687552}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.07.29-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1627653443820}
 {:jar_name "avclj", :group_name "com.cnuernber", :version "1.000", :description nil, :created 1627656406410}
 {:jar_name "ring-okta", :group_name "bostonaholic", :version "1.0.4", :description "Ring middleware for Okta Single Sign-on", :created 1627656620100}
 {:jar_name "base45", :group_name "org.vuxu", :version "0.1.0", :description nil, :created 1627658132085}
@@ -225,7 +222,6 @@
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.81", :description nil, :created 1627718723745}
 {:jar_name "dmote-keycap", :group_name "dmote-keycap", :version "0.5.1", :description "Printable keycap models for mechanical keyboards", :created 1627721541954}
 {:jar_name "timbre-json-appender", :group_name "viesti", :version "0.2.2", :description "A structured log appender for Timbre using jsonista", :created 1627724370143}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.7-SNAPSHOT", :description "Small Clojure Interpreter", :created 1627735329479}
 {:jar_name "babashka", :group_name "babashka", :version "0.5.1-SNAPSHOT", :description "babashka", :created 1627736139526}
 {:jar_name "spacetraders-clj", :group_name "de.npexception", :version "0.1.0-SNAPSHOT", :description "A thin wrapper around the API of https://spacetraders.io/", :created 1627737586620}
 {:jar_name "remus", :group_name "remus", :version "0.2.2", :description "Attentive RSS/Atom feed parser", :created 1627738335248}
@@ -254,3 +250,7 @@
 {:jar_name "holy-lambda", :group_name "io.github.FieryCod", :version "0.3.0-SNAPSHOT", :description "Micro framework which turns your code into AWS Lambda functions", :created 1627820386141}
 {:jar_name "spacetraders-clj", :group_name "de.npexception", :version "1.1.0", :description "A thin wrapper around the API of https://spacetraders.io/", :created 1627823066731}
 {:jar_name "codox", :group_name "com.cnuernber", :version "1.000", :description "Generate documentation from Clojure source files - forked from\nweavejester's codox and upgraded to use flexmark-java instead of pegdown.", :created 1627826582003}
+{:jar_name "lein-plantuml", :group_name "org.clojars.kumarshantanu", :version "0.1.23-SNAPSHOT", :description "A Leiningen plugin for generating UML diagrams using PluntUML.", :created 1627829536391}
+{:jar_name "sci", :group_name "borkdude", :version "0.2.7-SNAPSHOT", :description "Small Clojure Interpreter", :created 1627829723099}
+{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.7-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1627829746529}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.07.29-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1627830861886}
