@@ -1,6 +1,3 @@
-{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.45", :description "Data definitions for APIs", :created 1626946147346}
-{:jar_name "blueprint", :group_name "exoscale", :version "0.2.45", :description "Data definitions for APIs", :created 1626946159466}
-{:jar_name "fsdb", :group_name "fsdb", :version "1.1.1", :description "A reasonably convenient database on top of the file system.", :created 1626948254809}
 {:jar_name "fn", :group_name "cc.qbits", :version "1.0.0-alpha1", :description "", :created 1626948705196}
 {:jar_name "fn", :group_name "cc.qbits", :version "1.0.0-alpha3", :description "", :created 1626949557349}
 {:jar_name "clj-gatling", :group_name "clj-gatling", :version "0.16.0", :description "Clojure library for load testing", :created 1626950149024}
@@ -217,7 +214,6 @@
 {:jar_name "spacetraders-clj", :group_name "de.npexception", :version "1.2.1", :description "A thin wrapper around the API of https://spacetraders.io/", :created 1627842396506}
 {:jar_name "nrepl-cljs-sci", :group_name "org.clojars.viesti", :version "0.0.11", :description "nRepl server for SCI", :created 1627844167077}
 {:jar_name "sci", :group_name "borkdude", :version "0.2.7-SNAPSHOT", :description "Small Clojure Interpreter", :created 1627848542982}
-{:jar_name "babashka", :group_name "babashka", :version "0.5.1-SNAPSHOT", :description "babashka", :created 1627849262050}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.07.29-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1627849407730}
 {:jar_name "pip-license-checker", :group_name "org.clojars.vrs", :version "0.18.0", :description "Check Python PyPI package license", :created 1627855066364}
 {:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "An optional type system for Clojure", :created 1627862724900}
@@ -254,3 +250,7 @@
 {:jar_name "clj-poly", :group_name "polylith", :version "0.2.0-alpha10", :description "Poly is Polylith's command line interface for Clojure.", :created 1627911345416}
 {:jar_name "core", :group_name "macchiato", :version "0.2.22", :description "ClojureScript Ring style HTTP server abstraction for Node.js.", :created 1627916545028}
 {:jar_name "lein-template", :group_name "macchiato", :version "0.2.65", :description "A Leiningen template for creating Node.js based ClojureScript apps.", :created 1627916626238}
+{:jar_name "deps.clj", :group_name "borkdude", :version "0.0.17-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1627917906593}
+{:jar_name "babashka", :group_name "babashka", :version "0.5.1-SNAPSHOT", :description "babashka", :created 1627918315579}
+{:jar_name "propeller", :group_name "net.clojars.lspector", :version "0.2.3", :description "Yet another Push-based genetic programming system in Clojure.", :created 1627919088130}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210802-154518.13bc66a4", :description nil, :created 1627919156750}
