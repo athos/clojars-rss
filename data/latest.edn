@@ -1,7 +1,3 @@
-{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1627862776855}
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1627862783740}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1627862790977}
-{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1627862797630}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.17-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1627862804218}
 {:jar_name "ocpp-spec", :group_name "org.clojars.s312569", :version "0.1.9", :description "FIXME: write description", :created 1627864432629}
 {:jar_name "propeller", :group_name "net.clojars.lspector", :version "0.2.2", :description "Yet another Push-based genetic programming system in Clojure.", :created 1627866513300}
@@ -254,3 +250,7 @@
 {:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.3.22-SNAPSHOT", :description "Templating engine for office documents.", :created 1628625215852}
 {:jar_name "lein-template", :group_name "org.clojars.wang", :version "0.1.0-SNAPSHOT", :description "simple clojure app template", :created 1628626491044}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210810-210857.8975e8d5", :description nil, :created 1628629782886}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210810-230327.6b0a0cc5", :description nil, :created 1628636652736}
+{:jar_name "figwheel-repl", :group_name "com.bhauman", :version "0.2.14", :description "Figwheel REPL provides a stable multiplexing REPL for ClojureScript", :created 1628638024512}
+{:jar_name "figwheel-main", :group_name "com.bhauman", :version "0.2.14", :description "Figwheel Main - Clojurescript tooling.", :created 1628638038962}
+{:jar_name "figwheel-core", :group_name "com.bhauman", :version "0.2.14", :description "Figwheel core provides code reloading facilities for ClojureScript.", :created 1628638084732}
