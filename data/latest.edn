@@ -1,7 +1,3 @@
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.7-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1627893720625}
-{:jar_name "logging-timbre", :group_name "com.signal-ai", :version "0.2.4-SNAPSHOT", :description "Consistent timbre configuration, with JSON structured logging support", :created 1627894256259}
-{:jar_name "clj-api", :group_name "polylith", :version "0.2.0-alpha10", :description "Used to access Polylith as a library.", :created 1627911031300}
-{:jar_name "clj-poly", :group_name "polylith", :version "0.2.0-alpha10", :description "Poly is Polylith's command line interface for Clojure.", :created 1627911345416}
 {:jar_name "core", :group_name "macchiato", :version "0.2.22", :description "ClojureScript Ring style HTTP server abstraction for Node.js.", :created 1627916545028}
 {:jar_name "lein-template", :group_name "macchiato", :version "0.2.65", :description "A Leiningen template for creating Node.js based ClojureScript apps.", :created 1627916626238}
 {:jar_name "deps.clj", :group_name "borkdude", :version "0.0.17-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1627917906593}
@@ -254,3 +250,7 @@
 {:jar_name "babashka", :group_name "babashka", :version "0.5.2-SNAPSHOT", :description "babashka", :created 1628672579469}
 {:jar_name "specialist-server", :group_name "org.clojars.johannesloetzsch", :version "0.6.1", :description "Spec-driven Clojure GraphQL server", :created 1628680389884}
 {:jar_name "milia", :group_name "onaio", :version "0.4.3", :description "The ona.io Clojure Web API Client.", :created 1628691262791}
+{:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc25", :description nil, :created 1628691774620}
+{:jar_name "envoy", :group_name "tolitius", :version "0.1.25", :description "a gentle touch of clojure to hashicorp's consul", :created 1628694609792}
+{:jar_name "holy-lambda", :group_name "io.github.FieryCod", :version "0.3.0-SNAPSHOT", :description "Micro framework which turns your code into AWS Lambda functions", :created 1628694965111}
+{:jar_name "cbass", :group_name "cbass", :version "0.2.13", :description "adding simple to HBase", :created 1628694993531}
