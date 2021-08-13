@@ -1,5 +1,3 @@
-{:jar_name "lein-uber", :group_name "team.sultanov", :version "0.0.1-SNAPSHOT", :description "Leiningen plugin that makes an uberjar only when source files are modified after the last build", :created 1627989228197}
-{:jar_name "lein-uber", :group_name "team.sultanov", :version "0.0.1", :description "Leiningen plugin that makes an uberjar only when source files are modified after the last build", :created 1627989606693}
 {:jar_name "clojure-lsp", :group_name "com.github.clojure-lsp", :version "2021.08.03-13.33.03", :description nil, :created 1627998683991}
 {:jar_name "js-interop", :group_name "applied-science", :version "0.3.0", :description nil, :created 1628000063055}
 {:jar_name "nrebl.middleware", :group_name "com.github.rynkowsg", :version "0.4.0", :description "An nREPL middleware for capturing and browsing data in REBL.", :created 1628001535989}
@@ -194,7 +192,6 @@
 {:jar_name "stepwise", :group_name "ai.motiva", :version "0.7.0-SNAPSHOT", :description "Clojure AWS Step Functions library", :created 1628653471369}
 {:jar_name "proton", :group_name "proton", :version "0.2.1-SNAPSHOT", :description "Utilities for Clojure/Script", :created 1628660756726}
 {:jar_name "luminary", :group_name "xyz.thoren", :version "0.4.2", :description "Calculate dates based on the Bible and the 1st Book of Enoch.", :created 1628665392331}
-{:jar_name "babashka", :group_name "babashka", :version "0.5.2-SNAPSHOT", :description "babashka", :created 1628672579469}
 {:jar_name "specialist-server", :group_name "org.clojars.johannesloetzsch", :version "0.6.1", :description "Spec-driven Clojure GraphQL server", :created 1628680389884}
 {:jar_name "milia", :group_name "onaio", :version "0.4.3", :description "The ona.io Clojure Web API Client.", :created 1628691262791}
 {:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc25", :description nil, :created 1628691774620}
@@ -253,4 +250,7 @@
 {:jar_name "tick", :group_name "tick", :version "0.5.0-RC1", :description nil, :created 1628841553943}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.08.07-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1628843853162}
 {:jar_name "pg-types", :group_name "pg-types", :version "3.0.0", :description "Postgresql Types with Clojure JDBC", :created 1628845067421}
-{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.8.1-drop_clj_time-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1628846102258}
+{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.8.1-drop_clj_time-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1628847374064}
+{:jar_name "babashka", :group_name "babashka", :version "0.5.2-SNAPSHOT", :description "babashka", :created 1628847396964}
+{:jar_name "lein-ring", :group_name "dpiliouras", :version "0.12.22", :description "Leiningen Ring plugin", :created 1628848286941}
+{:jar_name "clova", :group_name "clova", :version "0.46.0", :description "A simple validation library for Clojure and ClojureScript.", :created 1628850090765}
