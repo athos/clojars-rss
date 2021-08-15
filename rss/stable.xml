@@ -4,7 +4,77 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 15 Aug 2021 11:15:15 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Aug 2021 12:30:01 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/ring-oauth2/versions/0.2.0</guid>
+    <title>[ring-oauth2 &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/ring-oauth2/versions/0.2.0</link>
+    <description>OAuth 2.0 client middleware for Ring</description>
+    <pubDate>Sun, 15 Aug 2021 11:55:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/kafka.testing/versions/0.0.3-RC2</guid>
+    <title>[io.logicblocks/kafka.testing &quot;0.0.3-RC2&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/kafka.testing/versions/0.0.3-RC2</link>
+    <description>A Clojure library to help with tests involving Kafka.</description>
+    <pubDate>Sun, 15 Aug 2021 11:51:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/exegesis/versions/0.4.3-RC2</guid>
+    <title>[io.logicblocks/exegesis &quot;0.4.3-RC2&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/exegesis/versions/0.4.3-RC2</link>
+    <description>Simplify reflection of annotations on Java types.</description>
+    <pubDate>Sun, 15 Aug 2021 11:46:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/configurati/versions/0.5.5-RC2</guid>
+    <title>[io.logicblocks/configurati &quot;0.5.5-RC2&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/configurati/versions/0.5.5-RC2</link>
+    <description>Define and resolve application configuration.</description>
+    <pubDate>Sun, 15 Aug 2021 11:43:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/component.jdbc-data-source.postgres/versions/0.1.2-RC2</guid>
+    <title>[io.logicblocks/component.jdbc-data-source.postgres &quot;0.1.2-RC2&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/component.jdbc-data-source.postgres/versions/0.1.2-RC2</link>
+    <description>A component providing a pooled postgres JDBC data source.</description>
+    <pubDate>Sun, 15 Aug 2021 11:36:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/component.flyway-migrator/versions/0.1.2-RC2</guid>
+    <title>[io.logicblocks/component.flyway-migrator &quot;0.1.2-RC2&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/component.flyway-migrator/versions/0.1.2-RC2</link>
+    <description>A component to run flyway migrations on system start.</description>
+    <pubDate>Sun, 15 Aug 2021 11:29:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.test/versions/0.1.15-RC3</guid>
+    <title>[io.logicblocks/cartus.test &quot;0.1.15-RC3&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.test/versions/0.1.15-RC3</link>
+    <description>A test backend for cartus.</description>
+    <pubDate>Sun, 15 Aug 2021 11:22:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.null/versions/0.1.15-RC3</guid>
+    <title>[io.logicblocks/cartus.null &quot;0.1.15-RC3&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.null/versions/0.1.15-RC3</link>
+    <description>A null backend for cartus.</description>
+    <pubDate>Sun, 15 Aug 2021 11:22:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.cambium/versions/0.1.15-RC3</guid>
+    <title>[io.logicblocks/cartus.cambium &quot;0.1.15-RC3&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.cambium/versions/0.1.15-RC3</link>
+    <description>A cambium backend for cartus.</description>
+    <pubDate>Sun, 15 Aug 2021 11:22:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.core/versions/0.1.15-RC3</guid>
+    <title>[io.logicblocks/cartus.core &quot;0.1.15-RC3&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.core/versions/0.1.15-RC3</link>
+    <description>A structured logging abstraction with multiple backends.</description>
+    <pubDate>Sun, 15 Aug 2021 11:22:08 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.logicblocks/antsy/versions/0.0.16-RC2</guid>
     <title>[io.logicblocks/antsy &quot;0.0.16-RC2&quot;]</title>
@@ -1728,76 +1798,6 @@ application development.</description>
     <link>https://clojars.org/metosin/reitit-spec/versions/0.5.14</link>
     <description>Reitit: clojure.spec coercion</description>
     <pubDate>Tue, 3 Aug 2021 10:43:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-dev/versions/0.5.14</guid>
-    <title>[metosin/reitit-dev &quot;0.5.14&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-dev/versions/0.5.14</link>
-    <description>Snappy data-driven router for Clojure(Script)</description>
-    <pubDate>Tue, 3 Aug 2021 10:42:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-core/versions/0.5.14</guid>
-    <title>[metosin/reitit-core &quot;0.5.14&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-core/versions/0.5.14</link>
-    <description>Snappy data-driven router for Clojure(Script)</description>
-    <pubDate>Tue, 3 Aug 2021 10:42:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/scicloj/tablecloth/versions/6.006</guid>
-    <title>[scicloj/tablecloth &quot;6.006&quot;]</title>
-    <link>https://clojars.org/scicloj/tablecloth/versions/6.006</link>
-    <description>Dataset manipulation library built on the top of tech.ml.dataset.</description>
-    <pubDate>Tue, 3 Aug 2021 09:33:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/congomongo/versions/2.2.2</guid>
-    <title>[congomongo &quot;2.2.2&quot;]</title>
-    <link>https://clojars.org/congomongo/versions/2.2.2</link>
-    <description>Clojure-friendly API for MongoDB</description>
-    <pubDate>Tue, 3 Aug 2021 09:32:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/babashka/versions/0.5.1</guid>
-    <title>[babashka &quot;0.5.1&quot;]</title>
-    <link>https://clojars.org/babashka/versions/0.5.1</link>
-    <description>babashka</description>
-    <pubDate>Tue, 3 Aug 2021 07:48:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tendant/common-service/versions/0.1.9</guid>
-    <title>[tendant/common-service &quot;0.1.9&quot;]</title>
-    <link>https://clojars.org/tendant/common-service/versions/0.1.9</link>
-    <description>FIXME: write description</description>
-    <pubDate>Tue, 3 Aug 2021 07:00:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.seancorfield/clj-new/versions/1.1.331</guid>
-    <title>[com.github.seancorfield/clj-new &quot;1.1.331&quot;]</title>
-    <link>https://clojars.org/com.github.seancorfield/clj-new/versions/1.1.331</link>
-    <description>Generate new projects based on clj, Boot, or Leiningen Templates!</description>
-    <pubDate>Tue, 3 Aug 2021 06:57:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.s312569/clj-cloud-pubsub/versions/0.1.1</guid>
-    <title>[org.clojars.s312569/clj-cloud-pubsub &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.s312569/clj-cloud-pubsub/versions/0.1.1</link>
-    <description>Functionailty for Googles Pub/Sub service.</description>
-    <pubDate>Tue, 3 Aug 2021 04:38:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.s312569/clj-ocpp/versions/0.1.1</guid>
-    <title>[org.clojars.s312569/clj-ocpp &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.s312569/clj-ocpp/versions/0.1.1</link>
-    <description>FIXME: write description</description>
-    <pubDate>Tue, 3 Aug 2021 04:20:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.s312569/clj-ocpp/versions/0.1.0</guid>
-    <title>[org.clojars.s312569/clj-ocpp &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.s312569/clj-ocpp/versions/0.1.0</link>
-    <description>FIXME: write description</description>
-    <pubDate>Tue, 3 Aug 2021 01:50:29 +0000</pubDate>
   </item>
   </channel>
 </rss>
