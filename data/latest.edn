@@ -1,7 +1,3 @@
-{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.15", :description "Snappy data-driven router for Clojure(Script)", :created 1628178457983}
-{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.15", :description "Reitit: clojure.spec coercion", :created 1628178472113}
-{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.15", :description "Reitit: Malli coercion", :created 1628178485903}
-{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.15", :description "Reitit: Plumatic Schema coercion", :created 1628178501263}
 {:jar_name "reitit-ring", :group_name "metosin", :version "0.5.15", :description "Reitit: Ring routing", :created 1628178515633}
 {:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.15", :description "Reitit, common middleware bundled", :created 1628178532713}
 {:jar_name "reitit-http", :group_name "metosin", :version "0.5.15", :description "Reitit: HTTP routing with interceptors", :created 1628178547133}
@@ -190,7 +186,6 @@
 {:jar_name "datomic-cloud-backup", :group_name "com.fulcrologic", :version "0.0.2", :description "A library for cloning Datomic Cloud databases.", :created 1628915218409}
 {:jar_name "lein-javadoc", :group_name "org.msync", :version "0.4.0-SNAPSHOT", :description "Run javadoc for the java source in your lein project.", :created 1628923959055}
 {:jar_name "datasplash", :group_name "datasplash", :version "0.7.3", :description "Clojure API for a more dynamic Google Cloud Dataflow and (hopefully) Apache BEAM", :created 1628934267381}
-{:jar_name "sci", :group_name "borkdude", :version "0.2.7-SNAPSHOT", :description "Small Clojure Interpreter", :created 1628939192736}
 {:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.3.22", :description "Templating engine for office documents.", :created 1628939264355}
 {:jar_name "missionary", :group_name "missionary", :version "b.21", :description "A functional effect and streaming system for clojure and clojurescript.", :created 1628940123503}
 {:jar_name "notespace", :group_name "scicloj", :version "3-beta8-SNAPSHOT", :description "Notebook experience in your Clojure namespace.", :created 1628941486778}
@@ -254,3 +249,8 @@
 {:jar_name "posh", :group_name "denistakeda", :version "0.5.9", :description "Luxuriously easy and powerful Reagent / Datascript front-end framework", :created 1629118182982}
 {:jar_name "check", :group_name "check", :version "0.2.1-SNAPSHOT", :description "Test helpers", :created 1629120023966}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210816-142313.e1065b40", :description nil, :created 1629123837162}
+{:jar_name "datasplash", :group_name "za.co.simply", :version "0.8.5", :description "Clojure API for a more dynamic Google Cloud Dataflow and (hopefully) Apache BEAM", :created 1629124963628}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20210816-144924.db820986", :description nil, :created 1629125407047}
+{:jar_name "clojure-lsp", :group_name "com.github.clojure-lsp", :version "2021.08.16-14.32.12", :description nil, :created 1629125534496}
+{:jar_name "sci", :group_name "borkdude", :version "0.2.7-SNAPSHOT", :description "Small Clojure Interpreter", :created 1629126343493}
+{:jar_name "notespace", :group_name "scicloj", :version "3-beta9", :description "Notebook experience in your Clojure namespace.", :created 1629126975071}
