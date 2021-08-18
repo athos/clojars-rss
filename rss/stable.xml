@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 18 Aug 2021 20:20:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Aug 2021 21:17:42 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.oscaro/clj-gcloud-storage/versions/0.159-1.0</guid>
+    <title>[com.oscaro/clj-gcloud-storage &quot;0.159-1.0&quot;]</title>
+    <link>https://clojars.org/com.oscaro/clj-gcloud-storage/versions/0.159-1.0</link>
+    <description>Clojure wrapper for google-cloud-storage Java client</description>
+    <pubDate>Wed, 18 Aug 2021 21:17:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.phronemophobic/membrane/versions/0.9.27.4-beta</guid>
+    <title>[com.phronemophobic/membrane &quot;0.9.27.4-beta&quot;]</title>
+    <link>https://clojars.org/com.phronemophobic/membrane/versions/0.9.27.4-beta</link>
+    <description>A platform agnostic library for creating user interfaces</description>
+    <pubDate>Wed, 18 Aug 2021 21:16:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/kongra/prelude/versions/0.1.21</guid>
+    <title>[kongra/prelude &quot;0.1.21&quot;]</title>
+    <link>https://clojars.org/kongra/prelude/versions/0.1.21</link>
+    <description>Predule codebase for Clojure</description>
+    <pubDate>Wed, 18 Aug 2021 21:06:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/kongra/ch/versions/0.1.29</guid>
+    <title>[kongra/ch &quot;0.1.29&quot;]</title>
+    <link>https://clojars.org/kongra/ch/versions/0.1.29</link>
+    <description>Low-cost dynamic type and constraints checks</description>
+    <pubDate>Wed, 18 Aug 2021 21:04:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.oscaro/clj-gcloud-common/versions/0.159-1.0</guid>
+    <title>[com.oscaro/clj-gcloud-common &quot;0.159-1.0&quot;]</title>
+    <link>https://clojars.org/com.oscaro/clj-gcloud-common/versions/0.159-1.0</link>
+    <description>Common library for all google cloud clojure wrappers</description>
+    <pubDate>Wed, 18 Aug 2021 20:54:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.erdos/stencil-core/versions/0.3.23</guid>
+    <title>[io.github.erdos/stencil-core &quot;0.3.23&quot;]</title>
+    <link>https://clojars.org/io.github.erdos/stencil-core/versions/0.3.23</link>
+    <description>Templating engine for office documents.</description>
+    <pubDate>Wed, 18 Aug 2021 20:23:35 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/edu.bard/util.log/versions/0.1.8</guid>
     <title>[edu.bard/util.log &quot;0.1.8&quot;]</title>
@@ -1755,48 +1797,6 @@ application development.</description>
     <link>https://clojars.org/metosin/reitit-http/versions/0.5.15</link>
     <description>Reitit: HTTP routing with interceptors</description>
     <pubDate>Thu, 5 Aug 2021 15:49:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-middleware/versions/0.5.15</guid>
-    <title>[metosin/reitit-middleware &quot;0.5.15&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-middleware/versions/0.5.15</link>
-    <description>Reitit, common middleware bundled</description>
-    <pubDate>Thu, 5 Aug 2021 15:48:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-ring/versions/0.5.15</guid>
-    <title>[metosin/reitit-ring &quot;0.5.15&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-ring/versions/0.5.15</link>
-    <description>Reitit: Ring routing</description>
-    <pubDate>Thu, 5 Aug 2021 15:48:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-schema/versions/0.5.15</guid>
-    <title>[metosin/reitit-schema &quot;0.5.15&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-schema/versions/0.5.15</link>
-    <description>Reitit: Plumatic Schema coercion</description>
-    <pubDate>Thu, 5 Aug 2021 15:48:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-malli/versions/0.5.15</guid>
-    <title>[metosin/reitit-malli &quot;0.5.15&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-malli/versions/0.5.15</link>
-    <description>Reitit: Malli coercion</description>
-    <pubDate>Thu, 5 Aug 2021 15:48:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-spec/versions/0.5.15</guid>
-    <title>[metosin/reitit-spec &quot;0.5.15&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-spec/versions/0.5.15</link>
-    <description>Reitit: clojure.spec coercion</description>
-    <pubDate>Thu, 5 Aug 2021 15:47:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-dev/versions/0.5.15</guid>
-    <title>[metosin/reitit-dev &quot;0.5.15&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-dev/versions/0.5.15</link>
-    <description>Snappy data-driven router for Clojure(Script)</description>
-    <pubDate>Thu, 5 Aug 2021 15:47:37 +0000</pubDate>
   </item>
   </channel>
 </rss>
