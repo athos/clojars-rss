@@ -1,20 +1,3 @@
-{:jar_name "ladybird", :group_name "coders-at-work", :version "0.6.5-SNAPSHOT", :description "FIXME: write description", :created 1628487026368}
-{:jar_name "cljs-styles", :group_name "cljs-styles", :version "0.3.9", :description "Vendor prefixes for React inline styles with ClojureScript", :created 1628494000345}
-{:jar_name "dom-types", :group_name "com.lambdaisland", :version "0.0.19", :description "Print handlers and datafy/nav for built-in browser types", :created 1628499388438}
-{:jar_name "debux-stubs", :group_name "philoskim", :version "0.8.0", :description "Debux library for production", :created 1628501497261}
-{:jar_name "debux", :group_name "philoskim", :version "0.8.0", :description "A trace-based debugging library for Clojure and ClojureScript", :created 1628501712080}
-{:jar_name "utils.spec.predicates", :group_name "com.nedap.staffing-solutions", :version "1.2.0-alpha1", :description "Selected, generic predicates that you might find handy when specing things.", :created 1628519538703}
-{:jar_name "midje", :group_name "midje", :version "1.10.4", :description "A TDD library for Clojure that supports top-down ('mockish') TDD, encourages readable tests, provides a smooth migration path from clojure.test, balances abstraction and concreteness, and strives for graciousness.", :created 1628519545003}
-{:jar_name "roam-alpha-api", :group_name "org.clojars.aidam", :version "1.0.2", :description "Wraps the roamAlphaAPI JS Object in Roam Research", :created 1628520377200}
-{:jar_name "matcher-combinators", :group_name "nubank", :version "3.3.1", :description "Library for creating matcher combinator to compare nested data structures", :created 1628521388477}
-{:jar_name "db", :group_name "com.fluree", :version "1.0.0-rc24", :description nil, :created 1628521671637}
-{:jar_name "luminary", :group_name "xyz.thoren", :version "0.4.0", :description "Calculate dates based on the Bible and the 1st Book of Enoch.", :created 1628524776577}
-{:jar_name "tmdjs", :group_name "com.cnuernber", :version "1.000-beta-6", :description nil, :created 1628531468926}
-{:jar_name "luminary", :group_name "xyz.thoren", :version "0.4.1", :description "Calculate dates based on the Bible and the 1st Book of Enoch.", :created 1628546318409}
-{:jar_name "muplayer", :group_name "org.orangeplayer", :version "2.4.1", :description nil, :created 1628560489455}
-{:jar_name "debux", :group_name "philoskim", :version "0.8.1", :description "A trace-based debugging library for Clojure and ClojureScript", :created 1628575918824}
-{:jar_name "debux-stubs", :group_name "philoskim", :version "0.8.1", :description "Debux library for production", :created 1628576164533}
-{:jar_name "milia", :group_name "onaio", :version "0.4.3-SNAPSHOT", :description "The ona.io Clojure Web API Client.", :created 1628581844364}
 {:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.3.21-SNAPSHOT", :description "Templating engine for office documents.", :created 1628583275310}
 {:jar_name "logging-timbre", :group_name "com.signal-ai", :version "0.2.6-SNAPSHOT", :description "Consistent timbre configuration, with JSON structured logging support", :created 1628583386749}
 {:jar_name "ziggurat", :group_name "tech.gojek", :version "4.0.0", :description "A stream processing framework to build stateless applications on kafka", :created 1628584285887}
@@ -252,5 +235,22 @@
 {:jar_name "ring-undertow-adapter", :group_name "luminus", :version "1.2.3", :description "Ring Undertow adapter", :created 1629362363392}
 {:jar_name "luminus-undertow", :group_name "luminus-undertow", :version "0.1.12", :description "Undertow adapter for Luminus", :created 1629362465413}
 {:jar_name "clj-github-actions-example", :group_name "com.github.opqdonut", :version "0.1.1", :description "An example of testing & deploying a Clojure library using Github Actions. See Github repo.", :created 1629363740568}
-{:jar_name "plug-field", :group_name "net.clojars.mokr", :version "0.1.0-SNAPSHOT", :description "A CLJS lib providing record based presentation of keys/key-values in a Reagent/re-frame based app.", :created 1629364884044}
 {:jar_name "tools-io-gs", :group_name "com.oscaro", :version "0.1.7-SNAPSHOT", :description "google storage support for tools-io", :created 1629366658899}
+{:jar_name "plug-field", :group_name "net.clojars.mokr", :version "0.1.0-SNAPSHOT", :description "A CLJS lib providing record based presentation of keys/key-values in a Reagent/re-frame based app.", :created 1629372732019}
+{:jar_name "shadow-cljs", :group_name "thheller", :version "2.15.5", :description "CLJS development tools", :created 1629372973488}
+{:jar_name "mulog", :group_name "com.brunobonacci", :version "0.8.1", :description "μ/log is a micro-logging library that logs events and data, not words!", :created 1629374275583}
+{:jar_name "mulog-json", :group_name "com.brunobonacci", :version "0.8.1", :description "μ/log json handling", :created 1629374289493}
+{:jar_name "mulog-jvm-metrics", :group_name "com.brunobonacci", :version "0.8.1", :description "A JVM metrics sampler for μ/log.", :created 1629374303653}
+{:jar_name "mulog-filesystem-metrics", :group_name "com.brunobonacci", :version "0.8.1", :description "A filesystem metrics sampler for μ/log.", :created 1629374320043}
+{:jar_name "mulog-mbean-sampler", :group_name "com.brunobonacci", :version "0.8.1", :description "A MBean sampler for μ/log.", :created 1629374333813}
+{:jar_name "mulog-adv-console", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/log to Console and Terminal.", :created 1629374348273}
+{:jar_name "mulog-cloudwatch", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/log to Cloudwatch.", :created 1629374363023}
+{:jar_name "mulog-elasticsearch", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/log to Elasticsearch.", :created 1629374378403}
+{:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/log to Kafka.", :created 1629374392913}
+{:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/log to Kinesis.", :created 1629374408973}
+{:jar_name "mulog-prometheus", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/log to Prometheus.", :created 1629374425943}
+{:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1629374441063}
+{:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/trace to OpenZipkin.", :created 1629374456193}
+{:jar_name "datasplash", :group_name "za.co.simply", :version "0.8.6", :description "Clojure API for a more dynamic Google Cloud Dataflow and (hopefully) Apache BEAM", :created 1629375740889}
+{:jar_name "markdown-clj", :group_name "markdown-clj", :version "1.10.6", :description "Markdown parser", :created 1629376306497}
+{:jar_name "plug-fetch", :group_name "net.clojars.mokr", :version "0.1.0-SNAPSHOT", :description "Simplify fetching of data from backend to frontend in a cljs app (experimental)", :created 1629376404957}
