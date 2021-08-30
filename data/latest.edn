@@ -1,6 +1,3 @@
-{:jar_name "mulog-cloudwatch", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/log to Cloudwatch.", :created 1629374363023}
-{:jar_name "mulog-elasticsearch", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/log to Elasticsearch.", :created 1629374378403}
-{:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/log to Kafka.", :created 1629374392913}
 {:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/log to Kinesis.", :created 1629374408973}
 {:jar_name "mulog-prometheus", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/log to Prometheus.", :created 1629374425943}
 {:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.8.1", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1629374441063}
@@ -254,3 +251,6 @@
 {:jar_name "test-refresh", :group_name "com.jakemccrary", :version "0.25.0-SNAPSHOT", :description "Automatically reload code and run clojure.test tests when files change", :created 1630282392009}
 {:jar_name "fkcss", :group_name "io.fkcss", :version "0.1.2", :description "Web styling in Clojure.", :created 1630284805135}
 {:jar_name "manifold", :group_name "manifold", :version "0.1.9-alpha6", :description "A compatibility layer for event-driven abstractions", :created 1630294454564}
+{:jar_name "memory-whole", :group_name "net.clojars.escherize", :version "0.1.0", :description "Tracing to remember function args and return values", :created 1630301605691}
+{:jar_name "roam-alpha-api", :group_name "org.clojars.aidam", :version "1.0.3", :description "Wraps the roamAlphaAPI JS Object in Roam Research", :created 1630302408358}
+{:jar_name "roam-plugin-tools", :group_name "org.clojars.aidam", :version "0.0.3", :description "Wraps the roamAlphaAPI JS Object in Roam Research", :created 1630302472187}
