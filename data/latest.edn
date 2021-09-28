@@ -1,5 +1,3 @@
-{:jar_name "martian", :group_name "com.github.oliyh", :version "0.1.19-SNAPSHOT", :description "Client routing for Swagger APIs", :created 1631894302103}
-{:jar_name "martian-clj-http", :group_name "com.github.oliyh", :version "0.1.19-SNAPSHOT", :description "clj-http implementation for martian", :created 1631894316643}
 {:jar_name "martian-hato", :group_name "com.github.oliyh", :version "0.1.19-SNAPSHOT", :description "hato implementation for martian", :created 1631894329453}
 {:jar_name "martian-cljs-http", :group_name "com.github.oliyh", :version "0.1.19-SNAPSHOT", :description "cljs-http implementation for martian", :created 1631894342253}
 {:jar_name "martian-re-frame", :group_name "com.github.oliyh", :version "0.1.19-SNAPSHOT", :description "re-frame bindings for martian", :created 1631894356313}
@@ -222,7 +220,6 @@
 {:jar_name "tornado", :group_name "org.clojars.jansuran03", :version "0.2.1", :description "A Clojure library similar to garden with focus on simplicity and comfort of the programmer. Still very\n                new, but I improve it as my time allows me to.", :created 1632651423038}
 {:jar_name "lein-tornado", :group_name "org.clojars.jansuran03", :version "0.1.6", :description "A Clojure plugin for automatic compilation of Tornado stylesheets.", :created 1632653811923}
 {:jar_name "tonos-client", :group_name "tonos-client", :version "1.22.0", :description "Clojure bindings to TON OS SDK's Core Client Library", :created 1632654186060}
-{:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.15-SNAPSHOT", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1632676638446}
 {:jar_name "notespace", :group_name "scicloj", :version "4-pre-alpha-3-SNAPSHOT", :description "Notebook experience in your Clojure namespace.", :created 1632678436567}
 {:jar_name "schema-voyager", :group_name "com.github.mainej", :version "1.0.197", :description "Simple, immutable form management for Clojure(Script)", :created 1632713583128}
 {:jar_name "utilza", :group_name "utilza", :version "0.1.116", :description "ken's random utilities", :created 1632716608846}
@@ -253,4 +250,7 @@
 {:jar_name "babashka", :group_name "babashka", :version "0.6.2-SNAPSHOT", :description "babashka", :created 1632776603031}
 {:jar_name "fully-satisfies", :group_name "io.github.frenchy64", :version "1.5.2-SNAPSHOT", :description "A variant of clojure.core/satisfies? that checks all methods are implemented.", :created 1632780403595}
 {:jar_name "meyvn-installer", :group_name "org.danielsz", :version "1.3.3", :description nil, :created 1632780512135}
-{:jar_name "fully-satisfies", :group_name "io.github.frenchy64", :version "1.5.3-SNAPSHOT", :description "A variant of clojure.core/satisfies? that checks all methods are implemented.", :created 1632780660274}
+{:jar_name "http-kit", :group_name "org.clojars.bento", :version "2.5.3-SNAPSHOT", :description "High-performance event-driven HTTP client/server for Clojure", :created 1632784257339}
+{:jar_name "fully-satisfies", :group_name "io.github.frenchy64", :version "1.5.3-SNAPSHOT", :description "A variant of clojure.core/satisfies? that checks all methods are implemented.", :created 1632785667063}
+{:jar_name "app-lib", :group_name "com.github.dgknght", :version "0.1.22", :description "Library of commonly used functions for web app development", :created 1632786599619}
+{:jar_name "gorilla-notes", :group_name "scicloj", :version "0.5.15-SNAPSHOT", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1632786799338}
