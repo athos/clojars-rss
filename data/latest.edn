@@ -1,5 +1,3 @@
-{:jar_name "nvd-clojure", :group_name "nvd-clojure", :version "1.6.0", :description "National Vulnerability Database [https://nvd.nist.gov/] dependency-checker", :created 1632716792885}
-{:jar_name "lein-nvd", :group_name "lein-nvd", :version "1.6.0", :description "National Vulnerability Database [https://nvd.nist.gov/] dependency-checker leiningen plugin.", :created 1632716815675}
 {:jar_name "ziggurat", :group_name "tech.gojek", :version "4.3.1", :description "A stream processing framework to build stateless applications on kafka", :created 1632722680592}
 {:jar_name "dropwizard-primer", :group_name "io.raven.dropwizard", :version "2.0.17", :description nil, :created 1632722734731}
 {:jar_name "yoltq", :group_name "com.github.ivarref", :version "0.2.37", :description "", :created 1632730984130}
@@ -254,3 +252,5 @@
 {:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.2.731", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1633386930126}
 {:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.1.999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1633389202604}
 {:jar_name "trivial-kafka-async", :group_name "org.clojars.lsevero", :version "0.1.1", :description "Trivial kafka client with core.async support", :created 1633405306231}
+{:jar_name "datalevin", :group_name "datalevin", :version "0.5.25", :description "A simple, fast and versatile Datalog database", :created 1633409467627}
+{:jar_name "datalevin-native", :group_name "org.clojars.huahaiy", :version "0.5.25", :description "Datalevin GraalVM native image and command line tool", :created 1633409502567}
