@@ -1,23 +1,3 @@
-{:jar_name "edd-core-web", :group_name "com.alpha-prosoft", :version "1.81", :description nil, :created 1633011322679}
-{:jar_name "secret-keeper", :group_name "team.sultanov", :version "0.3.58", :description nil, :created 1633015025632}
-{:jar_name "tools.jvm", :group_name "com.widdindustries", :version "0.1.5", :description nil, :created 1633018037303}
-{:jar_name "nrepl", :group_name "nrepl", :version "0.9.0-beta3", :description "nREPL is a Clojure *n*etwork REPL.", :created 1633018075793}
-{:jar_name "clojure-lsp", :group_name "com.github.clojure-lsp", :version "2021.09.30-15.28.01", :description "", :created 1633018486980}
-{:jar_name "lein-clojure-lsp", :group_name "com.github.clojure-lsp", :version "1.0.7", :description "Lein plugin to run clojure-lsp features via API.", :created 1633018544279}
-{:jar_name "sorted-multiset", :group_name "com.computesoftware", :version "0.1.6", :description "", :created 1633018557626}
-{:jar_name "tech.ml.dataset.sql", :group_name "techascent", :version "6.000", :description "", :created 1633018805512}
-{:jar_name "byte-streams", :group_name "org.clj-commons", :version "0.2.5", :description "A simple way to handle the menagerie of Java byte representations.", :created 1633021374263}
-{:jar_name "byte-streams", :group_name "org.clj-commons", :version "0.2.8", :description "A simple way to handle the menagerie of Java byte representations.", :created 1633022190038}
-{:jar_name "orchard", :group_name "cider", :version "0.7.2", :description "A fertile ground for Clojure tooling", :created 1633023412191}
-{:jar_name "re-frame-request", :group_name "oconn", :version "0.1.6", :description nil, :created 1633028823270}
-{:jar_name "cider-nrepl", :group_name "cider", :version "0.27.0", :description "A collection of nREPL middleware designed to enhance Clojure editors.", :created 1633031124327}
-{:jar_name "fully-satisfies", :group_name "io.github.frenchy64", :version "1.7.0", :description "A variant of clojure.core/satisfies? that checks all methods are implemented.", :created 1633031544254}
-{:jar_name "doxa", :group_name "com.github.ribelo", :version "0.0.1", :description nil, :created 1633032081391}
-{:jar_name "coffi", :group_name "org.suskalo", :version "0.1.184", :description "A Foreign Function Interface in Clojure for JDK 17.", :created 1633033797084}
-{:jar_name "rx-clojure", :group_name "org.clojars.vikasg7", :version "0.1.1-SNAPSHOT", :description "RxJava bindings for clojure", :created 1633034686297}
-{:jar_name "secret-keeper", :group_name "team.sultanov", :version "0.3.61", :description nil, :created 1633037546461}
-{:jar_name "weave", :group_name "dev.glossa", :version "0.1.120", :description "Clojure data format and tools for weaving documents", :created 1633038117818}
-{:jar_name "weave-markdown", :group_name "dev.glossa", :version "0.1.12", :description "Simple Markdown format for Weave meant for human consumption", :created 1633039309621}
 {:jar_name "coffi", :group_name "org.suskalo", :version "0.1.192", :description "A Foreign Function Interface in Clojure for JDK 17.", :created 1633050140885}
 {:jar_name "suitable", :group_name "org.rksm", :version "0.4.1-alpha2", :description "", :created 1633052689508}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.5.22", :description "A simple, fast and versatile Datalog database", :created 1633066940632}
@@ -254,3 +234,23 @@
 {:jar_name "lein-template", :group_name "nedap-lib", :version "2.8.1", :description "A Leiningen template for Clojure projects.", :created 1633725214628}
 {:jar_name "clojuby", :group_name "link.szabo.mauricio", :version "0.0.1-SNAPSHOT", :description "Calling Ruby from Clojure, with Clojure structures", :created 1633726123245}
 {:jar_name "common-swagger-api", :group_name "org.cyverse", :version "3.2.0", :description "Common library for Swagger documented RESTful APIs", :created 1633726217064}
+{:jar_name "discord-bot", :group_name "io.rdgd", :version "0.1.9", :description nil, :created 1633731409710}
+{:jar_name "common-swagger-api", :group_name "org.cyverse", :version "3.2.1-SNAPSHOT", :description "Common library for Swagger documented RESTful APIs", :created 1633732478615}
+{:jar_name "clj-irods", :group_name "org.cyverse", :version "0.3.1-SNAPSHOT", :description "A Clojure library for interacting with the IRODS data system. Wraps clj-jargon and clj-icat-direct for a nicer interface", :created 1633732709964}
+{:jar_name "async-tasks-client", :group_name "org.cyverse", :version "0.0.4-SNAPSHOT", :description "Client for the async-tasks service", :created 1633733081372}
+{:jar_name "clj-jargon", :group_name "org.cyverse", :version "3.0.1-SNAPSHOT", :description "Clojure API on top of iRODS's jargon-core.", :created 1633733163162}
+{:jar_name "common-cfg", :group_name "org.cyverse", :version "2.8.3-SNAPSHOT", :description "DE services code for managing configurations.", :created 1633733240282}
+{:jar_name "debug-utils", :group_name "org.cyverse", :version "2.9.0-SNAPSHOT", :description "Common Debugging Utilities for Clojure Projects", :created 1633733241642}
+{:jar_name "clj-icat-direct", :group_name "org.cyverse", :version "2.9.4-SNAPSHOT", :description "A Clojure library for accessing the iRODS ICAT database directly.", :created 1633733242082}
+{:jar_name "metadata-client", :group_name "org.cyverse", :version "3.1.2-SNAPSHOT", :description "Client for the metadata service", :created 1633733274561}
+{:jar_name "clojure-commons", :group_name "org.cyverse", :version "3.0.7-SNAPSHOT", :description "Common Utilities for Clojure Projects", :created 1633733276251}
+{:jar_name "service-logging", :group_name "org.cyverse", :version "2.8.4-SNAPSHOT", :description "Common Logging Utilities for Clojure Projects", :created 1633733278891}
+{:jar_name "mescal", :group_name "org.cyverse", :version "3.1.11-SNAPSHOT", :description "A Clojure client library for the Agave API.", :created 1633733309691}
+{:jar_name "tree-urls-client", :group_name "org.cyverse", :version "2.8.2-SNAPSHOT", :description "Client for the tree-urls service", :created 1633733345731}
+{:jar_name "common-cli", :group_name "org.cyverse", :version "2.8.2-SNAPSHOT", :description "Common CLI functions for the DE backend services and tools", :created 1633734169007}
+{:jar_name "cyverse-groups-client", :group_name "org.cyverse", :version "0.1.9-SNAPSHOT", :description "A Clojure client library for the CyVerse groups service.", :created 1633734190407}
+{:jar_name "heuristomancer", :group_name "org.cyverse", :version "2.8.7-SNAPSHOT", :description "Clojure library for attempting to guess file types.", :created 1633734248207}
+{:jar_name "kameleon", :group_name "org.cyverse", :version "3.0.7-SNAPSHOT", :description "Library for interacting with backend relational databases.", :created 1633734248927}
+{:jar_name "oai-ore", :group_name "org.cyverse", :version "1.0.4-SNAPSHOT", :description "Library for generating OAI-ORE files.", :created 1633734272756}
+{:jar_name "otel", :group_name "org.cyverse", :version "0.2.5-SNAPSHOT", :description "A Clojure library wrapping the opentelemetry client for Java", :created 1633734279346}
+{:jar_name "permissions-client", :group_name "org.cyverse", :version "2.8.3-SNAPSHOT", :description "A Clojure client library for the CyVerse permissions service.", :created 1633734313656}
