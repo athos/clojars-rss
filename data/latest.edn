@@ -1,16 +1,3 @@
-{:jar_name "common", :group_name "com.tick42.gateway", :version "3.0.14-SNAPSHOT", :description "", :created 1632915353493}
-{:jar_name "local-node", :group_name "com.tick42.gateway", :version "3.0.14-SNAPSHOT", :description "", :created 1632915363283}
-{:jar_name "common-test", :group_name "com.tick42.gateway", :version "3.0.14-SNAPSHOT", :description "", :created 1632915372513}
-{:jar_name "ghostwheel-stub", :group_name "com.tick42.gateway", :version "3.0.14-SNAPSHOT", :description "", :created 1632915381483}
-{:jar_name "auth", :group_name "com.tick42.gateway", :version "3.0.14-SNAPSHOT", :description "", :created 1632915387963}
-{:jar_name "basic-auth", :group_name "com.tick42.gateway", :version "3.0.14-SNAPSHOT", :description "", :created 1632915394793}
-{:jar_name "global-domain", :group_name "com.tick42.gateway", :version "3.0.14-SNAPSHOT", :description "", :created 1632915401363}
-{:jar_name "bus-domain", :group_name "com.tick42.gateway", :version "3.0.14-SNAPSHOT", :description "", :created 1632915408373}
-{:jar_name "context-domain", :group_name "com.tick42.gateway", :version "3.0.14-SNAPSHOT", :description "", :created 1632915414872}
-{:jar_name "agm-domain", :group_name "com.tick42.gateway", :version "3.0.14-SNAPSHOT", :description "", :created 1632915421642}
-{:jar_name "activity-domain", :group_name "com.tick42.gateway", :version "3.0.14-SNAPSHOT", :description "", :created 1632915428042}
-{:jar_name "metrics-domain", :group_name "com.tick42.gateway", :version "3.0.14-SNAPSHOT", :description "", :created 1632915434932}
-{:jar_name "weave", :group_name "dev.glossa", :version "0.1.114", :description "Clojure data format and tools for weaving documents", :created 1632916999353}
 {:jar_name "weave-markdown", :group_name "dev.glossa", :version "0.1.3", :description "Simple Markdown format for Weave meant for human consumption", :created 1632917793537}
 {:jar_name "lein-protodeps", :group_name "com.appsflyer", :version "1.0.2", :description "Leiningen plugin for consuming and compiling protobuf schemas", :created 1632920964920}
 {:jar_name "pronto", :group_name "com.appsflyer", :version "2.0.9", :description "clojure support for protocol buffers", :created 1632925483517}
@@ -254,3 +241,16 @@
 {:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.19", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1633660028664}
 {:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.19", :description "Type-like specs.", :created 1633660035464}
 {:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.19", :description "Type annotations and macros for the base Clojure distribution.", :created 1633660042184}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure", :created 1633660609671}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1633660616581}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1633660622751}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1633660629421}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1633660635551}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type-like specs.", :created 1633660641721}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1633660647981}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1633660654091}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1633660660301}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1633660666581}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1633660672881}
+{:jar_name "typed.clj.malli", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Malli integration", :created 1633660678971}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1633660685411}
