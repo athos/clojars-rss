@@ -1,9 +1,3 @@
-{:jar_name "metadata-client", :group_name "org.cyverse", :version "3.1.2-SNAPSHOT", :description "Client for the metadata service", :created 1633733274561}
-{:jar_name "clojure-commons", :group_name "org.cyverse", :version "3.0.7-SNAPSHOT", :description "Common Utilities for Clojure Projects", :created 1633733276251}
-{:jar_name "service-logging", :group_name "org.cyverse", :version "2.8.4-SNAPSHOT", :description "Common Logging Utilities for Clojure Projects", :created 1633733278891}
-{:jar_name "mescal", :group_name "org.cyverse", :version "3.1.11-SNAPSHOT", :description "A Clojure client library for the Agave API.", :created 1633733309691}
-{:jar_name "tree-urls-client", :group_name "org.cyverse", :version "2.8.2-SNAPSHOT", :description "Client for the tree-urls service", :created 1633733345731}
-{:jar_name "common-cli", :group_name "org.cyverse", :version "2.8.2-SNAPSHOT", :description "Common CLI functions for the DE backend services and tools", :created 1633734169007}
 {:jar_name "cyverse-groups-client", :group_name "org.cyverse", :version "0.1.9-SNAPSHOT", :description "A Clojure client library for the CyVerse groups service.", :created 1633734190407}
 {:jar_name "heuristomancer", :group_name "org.cyverse", :version "2.8.7-SNAPSHOT", :description "Clojure library for attempting to guess file types.", :created 1633734248207}
 {:jar_name "kameleon", :group_name "org.cyverse", :version "3.0.7-SNAPSHOT", :description "Library for interacting with backend relational databases.", :created 1633734248927}
@@ -237,7 +231,6 @@
 {:jar_name "salutem.check-fns.http-endpoint", :group_name "io.logicblocks", :version "0.1.7-RC3", :description "An HTTP endpoint check function for salutem.", :created 1634422213482}
 {:jar_name "pathom-viz-connector", :group_name "com.wsscode", :version "2021.10.16", :description "Connector tools to use the Pathom Viz Application.", :created 1634426541765}
 {:jar_name "asami", :group_name "org.clojars.quoll", :version "2.2.1", :description "An in memory graph store for Clojure and ClojureScript", :created 1634428781880}
-{:jar_name "fully-satisfies", :group_name "io.github.frenchy64", :version "1.7.1-SNAPSHOT", :description "A variant of clojure.core/satisfies? that checks all methods are implemented.", :created 1634439138356}
 {:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.1.999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1634449671780}
 {:jar_name "cljs-audio", :group_name "com.awayfrompeople", :version "2.1.0", :description nil, :created 1634456375246}
 {:jar_name "witchcraft", :group_name "com.lambdaisland", :version "0.5.98", :description "Clojure API for Minecraft/Glowstone/Bukkit", :created 1634483054751}
@@ -254,3 +247,10 @@
 {:jar_name "junk", :group_name "org.clojars.clartaq", :version "0.1.0-SNAPSHOT", :description "A junk file generated during deploy experimentation.", :created 1634501719445}
 {:jar_name "babashka", :group_name "babashka", :version "0.6.3-SNAPSHOT", :description "babashka", :created 1634505864758}
 {:jar_name "joplin.xtdb", :group_name "org.pariyatti", :version "0.0.4-SNAPSHOT", :description "XTDB support for Joplin", :created 1634509568247}
+{:jar_name "joplin.xtdb", :group_name "org.pariyatti", :version "0.0.4", :description "XTDB support for Joplin", :created 1634513655752}
+{:jar_name "fully-satisfies", :group_name "io.github.frenchy64", :version "1.7.1-SNAPSHOT", :description "A variant of clojure.core/satisfies? that checks all methods are implemented.", :created 1634513964689}
+{:jar_name "parent", :group_name "io.jesi", :version "4.18.0", :description "Clojure and NPM parent package definitions", :created 1634516023135}
+{:jar_name "salutem.core", :group_name "io.logicblocks", :version "0.1.7-RC5", :description "A health check library for sync / async health checks.", :created 1634516066835}
+{:jar_name "salutem.check-fns.data-source", :group_name "io.logicblocks", :version "0.1.7-RC5", :description "A data source check function for salutem.", :created 1634516076085}
+{:jar_name "salutem.check-fns", :group_name "io.logicblocks", :version "0.1.7-RC5", :description "A set of standard check functions for salutem.", :created 1634516084865}
+{:jar_name "salutem.check-fns.http-endpoint", :group_name "io.logicblocks", :version "0.1.7-RC5", :description "An HTTP endpoint check function for salutem.", :created 1634516093905}
