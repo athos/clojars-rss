@@ -1,7 +1,3 @@
-{:jar_name "salutem.core", :group_name "io.logicblocks", :version "0.1.7-RC5", :description "A health check library for sync / async health checks.", :created 1634516066835}
-{:jar_name "salutem.check-fns.data-source", :group_name "io.logicblocks", :version "0.1.7-RC5", :description "A data source check function for salutem.", :created 1634516076085}
-{:jar_name "salutem.check-fns", :group_name "io.logicblocks", :version "0.1.7-RC5", :description "A set of standard check functions for salutem.", :created 1634516084865}
-{:jar_name "salutem.check-fns.http-endpoint", :group_name "io.logicblocks", :version "0.1.7-RC5", :description "An HTTP endpoint check function for salutem.", :created 1634516093905}
 {:jar_name "clj-ocpp", :group_name "org.clojars.s312569", :version "0.1.3", :description "FIXME: write description", :created 1634522508143}
 {:jar_name "clj-component-graph", :group_name "org.clojars.clumsyjedi", :version "0.1.2", :description "renders directed graphs from a stuartsierra style component system", :created 1634525572470}
 {:jar_name "datomic-cloud-backup", :group_name "com.fulcrologic", :version "0.0.19", :description "A library for cloning Datomic Cloud databases.", :created 1634530958746}
@@ -213,7 +209,6 @@
 {:jar_name "domain", :group_name "com.timezynk", :version "1.3.1", :description "Database modeling library for Clojure and MongoDB", :created 1635163824337}
 {:jar_name "notespace", :group_name "scicloj", :version "4-alpha-6", :description "Notebook experience in your Clojure namespace.", :created 1635165233421}
 {:jar_name "mongo-driver-3", :group_name "mongo-driver-3", :version "0.6.1-SNAPSHOT", :description "A Clojure wrapper for the Java MongoDB driver 3.11/4.0+.", :created 1635167507957}
-{:jar_name "chisel", :group_name "org.clojars.janherich", :version "0.1.0-SNAPSHOT", :description "3D printing parametric modeller and slicer", :created 1635170044779}
 {:jar_name "reporter", :group_name "exoscale", :version "0.1.57", :description "error and event reporting component", :created 1635170941109}
 {:jar_name "reveal", :group_name "vlaaad", :version "1.3.226", :description nil, :created 1635171178876}
 {:jar_name "reveal-pro", :group_name "dev.vlaaad", :version "1.3.264", :description nil, :created 1635171278985}
@@ -254,3 +249,8 @@
 {:jar_name "tools-licenses", :group_name "com.github.pmonks", :version "1.0.13", :description "A Clojure tools.build task library related to dependency licenses.", :created 1635230437470}
 {:jar_name "tools-convenience", :group_name "com.github.pmonks", :version "1.0.28", :description "Convenience fns for tools.build scripts", :created 1635235014461}
 {:jar_name "plug-sso", :group_name "net.clojars.mokr", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1635235540105}
+{:jar_name "pbr", :group_name "com.github.pmonks", :version "2.0.95", :description "Peter's Build Resources for Clojure tools.build projects.", :created 1635236639966}
+{:jar_name "tools-convenience", :group_name "com.github.pmonks", :version "1.0.31", :description "Convenience fns for tools.build scripts", :created 1635237200453}
+{:jar_name "chisel", :group_name "org.clojars.janherich", :version "0.1.0-SNAPSHOT", :description "3D printing parametric modeller and slicer", :created 1635237993499}
+{:jar_name "tools-pom", :group_name "com.github.pmonks", :version "1.0.20", :description "A Clojure tools.build task library related to the generation of comprehensive pom.xml files.", :created 1635238065438}
+{:jar_name "tools-licenses", :group_name "com.github.pmonks", :version "1.0.20", :description "A Clojure tools.build task library related to dependency licenses.", :created 1635238069818}
