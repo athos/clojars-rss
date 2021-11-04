@@ -1,13 +1,3 @@
-{:jar_name "methodical", :group_name "methodical", :version "0.12.3-SNAPSHOT", :description "", :created 1635453789904}
-{:jar_name "lein-template", :group_name "re-frame-7theta", :version "3.3.0", :description "Leiningen template for re-frame apps based on 7theta libraries", :created 1635456424205}
-{:jar_name "ragtime.core", :group_name "dev.weavejester", :version "0.9.0", :description "A database-independent migration library", :created 1635459011077}
-{:jar_name "ragtime.jdbc", :group_name "dev.weavejester", :version "0.9.0", :description "Ragtime migrations for JDBC", :created 1635459033656}
-{:jar_name "ragtime.next-jdbc", :group_name "dev.weavejester", :version "0.9.0", :description "Ragtime migrations for next.jdbc", :created 1635459064826}
-{:jar_name "ragtime", :group_name "dev.weavejester", :version "0.9.0", :description "A database-independent migration library", :created 1635459093896}
-{:jar_name "shape-shifter", :group_name "org.clojars.clj-holmes", :version "0.1.4", :description "Transforms a string pattern into clojure spec.", :created 1635469143615}
-{:jar_name "bee-record", :group_name "bee-record", :version "0.2.0-SNAPSHOT", :description "FIXME: write description", :created 1635470345652}
-{:jar_name "shape-shifter", :group_name "org.clojars.clj-holmes", :version "0.1.5", :description "Transforms a string pattern into clojure spec.", :created 1635476467938}
-{:jar_name "shape-shifter", :group_name "org.clojars.clj-holmes", :version "0.1.6", :description "Transforms a string pattern into clojure spec.", :created 1635480908184}
 {:jar_name "treemap-clj", :group_name "com.phronemophobic", :version "0.2.4", :description "FIXME: write description", :created 1635483978745}
 {:jar_name "charbel", :group_name "com.github.m1kal", :version "0.1.8", :description "Write synthesizable FPGA code with Clojure syntax. The code is translated to SystemVerilog.", :created 1635491330004}
 {:jar_name "mania", :group_name "com.exoscale", :version "1.0.0-alpha3", :description "Our generic service/program entrypoints", :created 1635491858188}
@@ -19,7 +9,6 @@
 {:jar_name "specs", :group_name "exoscale", :version "1.0.0-alpha10", :description "Exoscale shared specs", :created 1635505365238}
 {:jar_name "deps.clj", :group_name "borkdude", :version "0.0.21-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1635509082308}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20211029-120533.6e261a68", :description nil, :created 1635509173447}
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.7-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1635509271015}
 {:jar_name "tablecloth", :group_name "scicloj", :version "6.025", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1635509836301}
 {:jar_name "deps.clj", :group_name "borkdude", :version "0.0.21", :description "deps.clj: a Clojure port of the clojure bash script", :created 1635510003948}
 {:jar_name "dumdom", :group_name "cjohansen", :version "2021.10.29", :description "Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.", :created 1635510784218}
@@ -254,3 +243,14 @@
 {:jar_name "timbre", :group_name "me.flowthing", :version "5.1.3-SNAPSHOT", :description "Pure Clojure/Script logging library", :created 1636032720891}
 {:jar_name "eui-cljs", :group_name "co.elastic", :version "41.0.0", :description nil, :created 1636033451103}
 {:jar_name "krell", :group_name "io.vouch", :version "0.5.3", :description nil, :created 1636033876108}
+{:jar_name "clojure-data-grinder-core", :group_name "org.clojars.sn0wf1eld", :version "0.1.4", :description "FIXME: write description", :created 1636035324882}
+{:jar_name "specs", :group_name "exoscale", :version "1.0.0-alpha11", :description "Exoscale shared specs", :created 1636036307221}
+{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.50", :description "Data definitions for APIs", :created 1636037078522}
+{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.50", :description "Data definitions for APIs", :created 1636037091162}
+{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.50", :description "Data definitions for APIs", :created 1636037105172}
+{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.50", :description "Data definitions for APIs", :created 1636037118342}
+{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.50", :description "Data definitions for APIs", :created 1636037131332}
+{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.50", :description "Data definitions for APIs", :created 1636037144002}
+{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.50", :description "Data definitions for APIs", :created 1636037156391}
+{:jar_name "blueprint", :group_name "exoscale", :version "0.2.50", :description "Data definitions for APIs", :created 1636037170191}
+{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.7-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1636037250570}
