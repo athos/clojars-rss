@@ -1,4 +1,3 @@
-{:jar_name "deps.clj", :group_name "borkdude", :version "0.0.22", :description "deps.clj: a Clojure port of the clojure bash script", :created 1635587632603}
 {:jar_name "ui-site", :group_name "org.pinkgorilla", :version "0.0.13", :description nil, :created 1635601242892}
 {:jar_name "lein-interpolate", :group_name "io.logicblocks", :version "0.1.1-RC2", :description "A leiningen plugin for interpolating into the project map.", :created 1635603477598}
 {:jar_name "salutem.core", :group_name "io.logicblocks", :version "0.1.7-RC12", :description "A health check library for sync / async health checks.", :created 1635604646485}
@@ -33,8 +32,6 @@
 {:jar_name "salutem.check-fns.http-endpoint", :group_name "io.logicblocks", :version "0.1.7", :description "An HTTP endpoint check function for salutem.", :created 1635626615323}
 {:jar_name "salutem.check-fns", :group_name "io.logicblocks", :version "0.1.7", :description "A set of standard check functions for salutem.", :created 1635626623273}
 {:jar_name "salutem", :group_name "io.logicblocks", :version "0.1.7", :description "Aggregate project for all salutem modules.", :created 1635626631203}
-{:jar_name "c4k-common-cljs", :group_name "org.domaindrivenarchitecture", :version "0.4.4-SNAPSHOT", :description "Contains predicates and tools for c4k", :created 1635666841140}
-{:jar_name "c4k-common-clj", :group_name "org.domaindrivenarchitecture", :version "0.4.4-SNAPSHOT", :description "Contains predicates and tools for c4k", :created 1635666844380}
 {:jar_name "holy-lambda", :group_name "io.github.FieryCod", :version "0.6.1", :description "Micro framework which turns your code into AWS Lambda functions", :created 1635679695379}
 {:jar_name "lein-template", :group_name "holy-lambda", :version "0.6.1", :description "Template for holy lambda micro framework", :created 1635679750488}
 {:jar_name "binf", :group_name "io.helins", :version "1.1.0", :description "Handling any binary format", :created 1635680491770}
@@ -254,3 +251,6 @@
 {:jar_name "clj-ns-browser", :group_name "org.clojars.bel", :version "1.3.4", :description "Smalltalk-like namespace/class/var/function browser for Clojure. (I added javax.xml.bind/jaxb-api to make it work with Java 11)", :created 1636091704747}
 {:jar_name "babashka", :group_name "babashka", :version "0.6.5-SNAPSHOT", :description "babashka", :created 1636105989066}
 {:jar_name "varity", :group_name "varity", :version "0.8.0-SNAPSHOT", :description "Variant translation library for Clojure", :created 1636108341869}
+{:jar_name "holy-lambda", :group_name "io.github.FieryCod", :version "0.6.3-SNAPSHOT", :description "Micro framework which turns your code into AWS Lambda functions", :created 1636117935452}
+{:jar_name "c4k-common-cljs", :group_name "org.domaindrivenarchitecture", :version "0.4.4-SNAPSHOT", :description "Contains predicates and tools for c4k", :created 1636118037091}
+{:jar_name "c4k-common-clj", :group_name "org.domaindrivenarchitecture", :version "0.4.4-SNAPSHOT", :description "Contains predicates and tools for c4k", :created 1636118037851}
