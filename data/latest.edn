@@ -1,5 +1,3 @@
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.124", :description nil, :created 1635807688157}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.125", :description nil, :created 1635808745586}
 {:jar_name "lacinia", :group_name "com.walmartlabs", :version "1.1-alpha-3", :description "A GraphQL server implementation in Clojure", :created 1635810390127}
 {:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.1.999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1635811118309}
 {:jar_name "cyverse-cas-server-support-ldap-rfc2307", :group_name "org.cyverse", :version "5.3.15", :description "CAS support for RFC 2307 LDAP directories", :created 1635811648823}
@@ -77,7 +75,6 @@
 {:jar_name "elle", :group_name "elle", :version "0.1.3", :description "Black-box transactional consistency checker, based on cycle detection", :created 1635961529031}
 {:jar_name "knossos", :group_name "knossos", :version "0.3.8", :description "Linearizability checker", :created 1635961778338}
 {:jar_name "shape-shifter", :group_name "org.clojars.clj-holmes", :version "0.2.6", :description "Transforms a string pattern into clojure spec.", :created 1635962764347}
-{:jar_name "libmisc", :group_name "net.antifessional", :version "0.1.1-SNAPSHOT", :description "A collection of functions, shortcuts, aliases, etc.\n                Work in progress, not intended for public consumption", :created 1635963308221}
 {:jar_name "dom-top", :group_name "dom-top", :version "1.0.6", :description "Unorthodox control flow for Clojurists with masochistic sensibilities", :created 1635966175069}
 {:jar_name "jepsen", :group_name "jepsen", :version "0.2.5", :description "Distributed systems testing framework.", :created 1635967795391}
 {:jar_name "clj-holmes", :group_name "org.clojars.clj-holmes", :version "0.2.11", :description "Clojure SAST.", :created 1635968393994}
@@ -254,3 +251,6 @@
 {:jar_name "scad-tarmi", :group_name "scad-tarmi", :version "0.8.1", :description "Commonplace abstractions for scad-clj", :created 1636402522399}
 {:jar_name "lein-template", :group_name "figwheel-main", :version "0.2.14", :description "A Leinigen template for figwheel", :created 1636405096062}
 {:jar_name "pbr", :group_name "com.github.pmonks", :version "2.0.109", :description "Peter's Build Resources for Clojure tools.build projects.", :created 1636405657576}
+{:jar_name "libmisc", :group_name "net.antifessional", :version "0.1.1-SNAPSHOT", :description "A collection of functions, shortcuts, aliases, etc.\n                Work in progress, not intended for public consumption", :created 1636408692029}
+{:jar_name "multigrep", :group_name "clj-commons", :version "1.0.128", :description "A little Clojure library that provides regex-based file grepping and/or text substitution.", :created 1636408897297}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.10.20-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1636409188424}
