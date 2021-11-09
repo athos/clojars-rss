@@ -4,7 +4,70 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 9 Nov 2021 16:15:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 9 Nov 2021 17:17:26 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.purefn/kurosawa/versions/2.1.16</guid>
+    <title>[org.purefn/kurosawa &quot;2.1.16&quot;]</title>
+    <link>https://clojars.org/org.purefn/kurosawa/versions/2.1.16</link>
+    <description>A catch-all project that brings in all Kurosawa libs.</description>
+    <pubDate>Tue, 9 Nov 2021 17:17:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.purefn/kurosawa.core/versions/2.1.16</guid>
+    <title>[org.purefn/kurosawa.core &quot;2.1.16&quot;]</title>
+    <link>https://clojars.org/org.purefn/kurosawa.core/versions/2.1.16</link>
+    <description>The root Kurosawa library.</description>
+    <pubDate>Tue, 9 Nov 2021 17:16:37 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.purefn/kurosawa.web/versions/2.1.16</guid>
+    <title>[org.purefn/kurosawa.web &quot;2.1.16&quot;]</title>
+    <link>https://clojars.org/org.purefn/kurosawa.web/versions/2.1.16</link>
+    <description>The Kurosawa web library.</description>
+    <pubDate>Tue, 9 Nov 2021 17:16:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.purefn/kurosawa.log/versions/2.1.16</guid>
+    <title>[org.purefn/kurosawa.log &quot;2.1.16&quot;]</title>
+    <link>https://clojars.org/org.purefn/kurosawa.log/versions/2.1.16</link>
+    <description>A Kurosawa library for logging.</description>
+    <pubDate>Tue, 9 Nov 2021 17:15:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.purefn/kurosawa.aws/versions/2.1.16</guid>
+    <title>[org.purefn/kurosawa.aws &quot;2.1.16&quot;]</title>
+    <link>https://clojars.org/org.purefn/kurosawa.aws/versions/2.1.16</link>
+    <description>AWS Utilities.</description>
+    <pubDate>Tue, 9 Nov 2021 17:15:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.purefn/kurosawa.nrepl/versions/2.1.16</guid>
+    <title>[org.purefn/kurosawa.nrepl &quot;2.1.16&quot;]</title>
+    <link>https://clojars.org/org.purefn/kurosawa.nrepl/versions/2.1.16</link>
+    <description>The Kurosawa nREPL library.</description>
+    <pubDate>Tue, 9 Nov 2021 17:15:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.bhauman/figwheel-main/versions/0.2.15-SNAPSHOT</guid>
+    <title>[com.bhauman/figwheel-main &quot;0.2.15-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.bhauman/figwheel-main/versions/0.2.15-SNAPSHOT</link>
+    <description>Figwheel Main - Clojurescript tooling.</description>
+    <pubDate>Tue, 9 Nov 2021 17:07:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.bhauman/figwheel-repl/versions/0.2.15-SNAPSHOT</guid>
+    <title>[com.bhauman/figwheel-repl &quot;0.2.15-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.bhauman/figwheel-repl/versions/0.2.15-SNAPSHOT</link>
+    <description>Figwheel REPL provides a stable multiplexing REPL for ClojureScript</description>
+    <pubDate>Tue, 9 Nov 2021 17:07:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.bhauman/figwheel-core/versions/0.2.15-SNAPSHOT</guid>
+    <title>[com.bhauman/figwheel-core &quot;0.2.15-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.bhauman/figwheel-core/versions/0.2.15-SNAPSHOT</link>
+    <description>Figwheel core provides code reloading facilities for ClojureScript.</description>
+    <pubDate>Tue, 9 Nov 2021 17:07:24 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/oconn/re-frame-notifier/versions/0.1.1</guid>
     <title>[oconn/re-frame-notifier &quot;0.1.1&quot;]</title>
@@ -1734,69 +1797,6 @@
     <link>https://clojars.org/net.clojars.mokr/plug-utils/versions/0.1.0-SNAPSHOT</link>
     <description>Small util functions for clj and/or cljs</description>
     <pubDate>Tue, 2 Nov 2021 11:26:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.replikativ/konserve/versions/0.6.0-SNAPSHOT</guid>
-    <title>[io.replikativ/konserve &quot;0.6.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/io.replikativ/konserve/versions/0.6.0-SNAPSHOT</link>
-    <description>Durable cross-platform key-value store protocol with core.async.</description>
-    <pubDate>Tue, 2 Nov 2021 08:23:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.phronemophobic/membrane/versions/0.9.31.1-beta</guid>
-    <title>[com.phronemophobic/membrane &quot;0.9.31.1-beta&quot;]</title>
-    <link>https://clojars.org/com.phronemophobic/membrane/versions/0.9.31.1-beta</link>
-    <description>A platform agnostic library for creating user interfaces</description>
-    <pubDate>Tue, 2 Nov 2021 04:37:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/goldly-docs/versions/0.3.54</guid>
-    <title>[org.pinkgorilla/goldly-docs &quot;0.3.54&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/goldly-docs/versions/0.3.54</link>
-    <description></description>
-    <pubDate>Tue, 2 Nov 2021 04:29:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/goldly/versions/0.3.54</guid>
-    <title>[org.pinkgorilla/goldly &quot;0.3.54&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/goldly/versions/0.3.54</link>
-    <description></description>
-    <pubDate>Tue, 2 Nov 2021 04:23:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/goldly-docs/versions/0.3.53</guid>
-    <title>[org.pinkgorilla/goldly-docs &quot;0.3.53&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/goldly-docs/versions/0.3.53</link>
-    <description></description>
-    <pubDate>Tue, 2 Nov 2021 04:00:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/goldly/versions/0.3.53</guid>
-    <title>[org.pinkgorilla/goldly &quot;0.3.53&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/goldly/versions/0.3.53</link>
-    <description></description>
-    <pubDate>Tue, 2 Nov 2021 03:53:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/reval/versions/0.0.6</guid>
-    <title>[org.pinkgorilla/reval &quot;0.0.6&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/reval/versions/0.0.6</link>
-    <description></description>
-    <pubDate>Tue, 2 Nov 2021 03:47:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/reval/versions/0.0.5</guid>
-    <title>[org.pinkgorilla/reval &quot;0.0.5&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/reval/versions/0.0.5</link>
-    <description></description>
-    <pubDate>Tue, 2 Nov 2021 02:43:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.atomist/api-cljs/versions/0.5.130</guid>
-    <title>[com.atomist/api-cljs &quot;0.5.130&quot;]</title>
-    <link>https://clojars.org/com.atomist/api-cljs/versions/0.5.130</link>
-    <description></description>
-    <pubDate>Tue, 2 Nov 2021 02:07:37 +0000</pubDate>
   </item>
   </channel>
 </rss>
