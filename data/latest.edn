@@ -1,9 +1,3 @@
-{:jar_name "scicloj.ml", :group_name "scicloj", :version "0.1.1", :description nil, :created 1635887812415}
-{:jar_name "pbr", :group_name "com.github.pmonks", :version "2.0.104", :description "Peter's Build Resources for Clojure tools.build projects.", :created 1635888407849}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.133", :description nil, :created 1635890852522}
-{:jar_name "clj-component-graph", :group_name "org.clojars.clumsyjedi", :version "0.1.3", :description "renders directed graphs from a stuartsierra style component system", :created 1635891260647}
-{:jar_name "ui-highlightjs", :group_name "org.pinkgorilla", :version "0.0.4", :description nil, :created 1635891311407}
-{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.3.58", :description nil, :created 1635891466415}
 {:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.3.58", :description nil, :created 1635891776151}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.135", :description nil, :created 1635892666081}
 {:jar_name "reval", :group_name "org.pinkgorilla", :version "0.0.10", :description nil, :created 1635894769597}
@@ -81,7 +75,6 @@
 {:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.50", :description "Data definitions for APIs", :created 1636037144002}
 {:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.50", :description "Data definitions for APIs", :created 1636037156391}
 {:jar_name "blueprint", :group_name "exoscale", :version "0.2.50", :description "Data definitions for APIs", :created 1636037170191}
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.7-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1636037250570}
 {:jar_name "sklearn-clj", :group_name "scicloj", :version "0.3.5", :description "Use sklearn estimators from Clojure", :created 1636039283078}
 {:jar_name "clerk", :group_name "io.github.nextjournal", :version "0.2.214", :description nil, :created 1636039789672}
 {:jar_name "document-search-commons", :group_name "lupapiste", :version "1.0.1", :description "Common document search related code shared between lupadoku and onkalo applications", :created 1636041268955}
@@ -253,4 +246,11 @@
 {:jar_name "ktest", :group_name "djs", :version "2.8.1-alpha1", :description nil, :created 1636536819651}
 {:jar_name "seql", :group_name "exoscale", :version "0.2.1", :description "Simplfied EDN Query Language for SQL", :created 1636540230948}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.16.1", :description "CLJS development tools", :created 1636540663484}
-{:jar_name "otplike", :group_name "otplike", :version "0.7.0-SNAPSHOT", :description "Erlang/OTP like processes and behaviours on top of core.async", :created 1636549136544}
+{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.7-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1636550284973}
+{:jar_name "otplike", :group_name "otplike", :version "0.7.0-SNAPSHOT", :description "Erlang/OTP like processes and behaviours on top of core.async", :created 1636550989816}
+{:jar_name "kurosawa.nrepl", :group_name "org.purefn", :version "2.1.18", :description "The Kurosawa nREPL library.", :created 1636551094415}
+{:jar_name "kurosawa.aws", :group_name "org.purefn", :version "2.1.18", :description "AWS Utilities.", :created 1636551110475}
+{:jar_name "kurosawa.log", :group_name "org.purefn", :version "2.1.18", :description "A Kurosawa library for logging.", :created 1636551126335}
+{:jar_name "kurosawa.web", :group_name "org.purefn", :version "2.1.18", :description "The Kurosawa web library.", :created 1636551148835}
+{:jar_name "kurosawa.core", :group_name "org.purefn", :version "2.1.18", :description "The root Kurosawa library.", :created 1636551166915}
+{:jar_name "kurosawa", :group_name "org.purefn", :version "2.1.18", :description "A catch-all project that brings in all Kurosawa libs.", :created 1636551203004}
