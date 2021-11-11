@@ -181,9 +181,6 @@
 {:jar_name "uniformity", :group_name "io.github.skinkade", :version "0.3.1", :description "A Clojure(Script) library for easy-to-use cryptography", :created 1636466385631}
 {:jar_name "clerk", :group_name "io.github.nextjournal", :version "0.3.220", :description nil, :created 1636467780967}
 {:jar_name "re-frame-notifier", :group_name "oconn", :version "0.1.1", :description nil, :created 1636471763430}
-{:jar_name "figwheel-core", :group_name "com.bhauman", :version "0.2.15-SNAPSHOT", :description "Figwheel core provides code reloading facilities for ClojureScript.", :created 1636477644194}
-{:jar_name "figwheel-repl", :group_name "com.bhauman", :version "0.2.15-SNAPSHOT", :description "Figwheel REPL provides a stable multiplexing REPL for ClojureScript", :created 1636477656614}
-{:jar_name "figwheel-main", :group_name "com.bhauman", :version "0.2.15-SNAPSHOT", :description "Figwheel Main - Clojurescript tooling.", :created 1636477670894}
 {:jar_name "kurosawa.nrepl", :group_name "org.purefn", :version "2.1.16", :description "The Kurosawa nREPL library.", :created 1636478127660}
 {:jar_name "kurosawa.aws", :group_name "org.purefn", :version "2.1.16", :description "AWS Utilities.", :created 1636478143280}
 {:jar_name "kurosawa.log", :group_name "org.purefn", :version "2.1.16", :description "A Kurosawa library for logging.", :created 1636478158800}
@@ -253,4 +250,7 @@
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1636585157219}
 {:jar_name "typed.clj.malli", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Malli integration", :created 1636585165269}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1636585173719}
-{:jar_name "duck-repled", :group_name "link.szabo.mauricio", :version "0.1.2-SNAPSHOT", :description "FIXME: write description", :created 1636585282318}
+{:jar_name "figwheel-core", :group_name "com.bhauman", :version "0.2.15-SNAPSHOT", :description "Figwheel core provides code reloading facilities for ClojureScript.", :created 1636586933402}
+{:jar_name "figwheel-repl", :group_name "com.bhauman", :version "0.2.15-SNAPSHOT", :description "Figwheel REPL provides a stable multiplexing REPL for ClojureScript", :created 1636586945322}
+{:jar_name "figwheel-main", :group_name "com.bhauman", :version "0.2.15-SNAPSHOT", :description "Figwheel Main - Clojurescript tooling.", :created 1636586959172}
+{:jar_name "duck-repled", :group_name "link.szabo.mauricio", :version "0.1.2-SNAPSHOT", :description "FIXME: write description", :created 1636587725845}
