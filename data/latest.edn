@@ -83,7 +83,6 @@
 {:jar_name "kurosawa.web", :group_name "org.purefn", :version "2.1.18", :description "The Kurosawa web library.", :created 1636551148835}
 {:jar_name "kurosawa.core", :group_name "org.purefn", :version "2.1.18", :description "The root Kurosawa library.", :created 1636551166915}
 {:jar_name "kurosawa", :group_name "org.purefn", :version "2.1.18", :description "A catch-all project that brings in all Kurosawa libs.", :created 1636551203004}
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.7-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1636555898850}
 {:jar_name "ktest", :group_name "djs", :version "2.8.1-alpha2", :description nil, :created 1636559221319}
 {:jar_name "document-search-commons", :group_name "lupapiste", :version "1.0.2", :description "Common document search related code shared between lupadoku and onkalo applications", :created 1636562578087}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.16.2", :description "CLJS development tools", :created 1636563600808}
@@ -218,7 +217,6 @@
 {:jar_name "hellocloj", :group_name "org.clojars.bjtj", :version "0.1.0-SNAPSHOT", :description "hello clojar", :created 1636903181519}
 {:jar_name "spring-boost", :group_name "org.msync", :version "0.2.0-SNAPSHOT", :description "Just add dependency, sprinkle some config, and run Clojure in your Springboot application.", :created 1636904547425}
 {:jar_name "strigui", :group_name "strigui", :version "0.0.1-alpha20", :description "A small GUI library.", :created 1636907977810}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.10.20-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1636909340269}
 {:jar_name "pdf_reader", :group_name "org.clojars.pmohankumar", :version "1.0.0-SNAPSHOT", :description nil, :created 1636909570907}
 {:jar_name "instrument-defprotocol", :group_name "io.github.frenchy64", :version "1.0.0-SNAPSHOT", :description "Tools to instrument defprotocol.", :created 1636916684917}
 {:jar_name "resource-locator", :group_name "com.github.artronics", :version "0.1.0-SNAPSHOT", :description "A library to find and load resources from file system or web", :created 1636917412260}
@@ -254,3 +252,5 @@
 {:jar_name "metrix-lawg", :group_name "org.clojars.nfcharles", :version "0.2.0", :description "Metrics logger supporting different impl - stdout, cloudwatch, sns", :created 1637025561720}
 {:jar_name "aws-xray-sdk-clj", :group_name "com.github.hden", :version "0.1.0-SNAPSHOT", :description "A light wrapper for aws-xray-sdk-java", :created 1637043518505}
 {:jar_name "clojask", :group_name "com.github.clojure-finance", :version "0.1.0-SNAPSHOT", :description "Data analysis and manipulation library with parallel computing for larger-than-memory datasets", :created 1637055568088}
+{:jar_name "datahike", :group_name "io.replikativ", :version "0.3.7-SNAPSHOT", :description "A durable datalog implementation adaptable for distribution.", :created 1637059897946}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.10.20-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1637060406321}
