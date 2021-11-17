@@ -146,7 +146,6 @@
 {:jar_name "jackdaw", :group_name "fundingcircle", :version "0.8.1-ms_extras-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1636752187605}
 {:jar_name "stepwise", :group_name "ai.motiva", :version "0.7.1-SNAPSHOT", :description "Clojure AWS Step Functions library", :created 1636763069663}
 {:jar_name "modular", :group_name "org.pinkgorilla", :version "0.0.4", :description nil, :created 1636765005414}
-{:jar_name "grete", :group_name "tolitius", :version "0.1.8003-SNAPSHOT", :description "is gregor's sister that adds a threadpool and a scheduler", :created 1636765091353}
 {:jar_name "reval", :group_name "org.pinkgorilla", :version "0.0.26", :description nil, :created 1636765431950}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.3.54", :description nil, :created 1636767958396}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.3.55", :description nil, :created 1636768184704}
@@ -249,8 +248,9 @@
 {:jar_name "dynamo-embedded-clj", :group_name "org.clojars.bigsy", :version "0.1.1", :description "Embedded dynamodb for clojure", :created 1637104117190}
 {:jar_name "gorilla-notes", :group_name "scicloj", :version "0.6.1", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1637110860135}
 {:jar_name "notespace", :group_name "scicloj", :version "4-alpha-13", :description "Notebook experience in your Clojure namespace.", :created 1637110935664}
-{:jar_name "cmql-core", :group_name "org.cmql", :version "0.1.0-SNAPSHOT", :description "Query MongoDB with up to 3x less code (cmql-core, used from both cmql-j,cmql-js)", :created 1637113173063}
 {:jar_name "discord-bot", :group_name "io.rdgd", :version "0.1.14", :description nil, :created 1637114074484}
 {:jar_name "aws-xray-sdk-clj", :group_name "com.github.popoppo", :version "0.1.0-SNAPSHOT", :description "A light wrapper for aws-xray-sdk-java", :created 1637115427651}
 {:jar_name "spring-boost", :group_name "org.msync", :version "0.2.0-SNAPSHOT", :description "Just add dependency, sprinkle some config, and run Clojure in your Springboot application.", :created 1637116309953}
 {:jar_name "cmql-j", :group_name "org.cmql", :version "0.1.0-SNAPSHOT", :description "Query MongoDB with up to 3x less code (clj/java-driver)", :created 1637117339963}
+{:jar_name "cmql-core", :group_name "org.cmql", :version "0.1.0-SNAPSHOT", :description "Query MongoDB with up to 3x less code (cmql-core, used from both cmql-j,cmql-js)", :created 1637119703420}
+{:jar_name "grete", :group_name "tolitius", :version "0.1.8003-SNAPSHOT", :description "is gregor's sister that adds a threadpool and a scheduler", :created 1637121371734}
