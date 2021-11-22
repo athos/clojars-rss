@@ -1,19 +1,3 @@
-{:jar_name "kurosawa.aws", :group_name "org.purefn", :version "2.1.19", :description "AWS Utilities.", :created 1636566538710}
-{:jar_name "kurosawa.log", :group_name "org.purefn", :version "2.1.19", :description "A Kurosawa library for logging.", :created 1636566554870}
-{:jar_name "kurosawa.web", :group_name "org.purefn", :version "2.1.19", :description "The Kurosawa web library.", :created 1636566577750}
-{:jar_name "kurosawa.core", :group_name "org.purefn", :version "2.1.19", :description "The root Kurosawa library.", :created 1636566595980}
-{:jar_name "kurosawa", :group_name "org.purefn", :version "2.1.19", :description "A catch-all project that brings in all Kurosawa libs.", :created 1636566632910}
-{:jar_name "dtype-next", :group_name "cnuernber", :version "8.041", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1636566634920}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "6.031", :description "Clojure high performance data processing system", :created 1636566876907}
-{:jar_name "tonos-client", :group_name "tonos-client", :version "1.25.0", :description "Clojure bindings to TON OS SDK's Core Client Library", :created 1636567836568}
-{:jar_name "asami", :group_name "org.clojars.quoll", :version "2.2.3", :description "An in memory graph store for Clojure and ClojureScript", :created 1636568758420}
-{:jar_name "clerk", :group_name "io.github.nextjournal", :version "0.3.233", :description nil, :created 1636569401324}
-{:jar_name "re-frame-notifier", :group_name "oconn", :version "0.1.2", :description nil, :created 1636572885202}
-{:jar_name "uberdeps", :group_name "uberdeps", :version "1.1.1", :description "Uberjar builder for deps.edn", :created 1636576360822}
-{:jar_name "coldbrew", :group_name "org.clojars.fmnoise", :version "0.2.2", :description "Easy to use Clojure wrappers for Caffeine Caching library", :created 1636578750838}
-{:jar_name "aerial.hanasu", :group_name "aerial.hanasu", :version "0.2.7", :description "Light weight simple websocket communications", :created 1636590627121}
-{:jar_name "namejen", :group_name "eigenhombre", :version "0.1.22", :description "A Markov-chain-based name generator for games, fiction, &c.", :created 1636601037181}
-{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.51", :description "Data definitions for APIs", :created 1636617346899}
 {:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.51", :description "Data definitions for APIs", :created 1636617359129}
 {:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.51", :description "Data definitions for APIs", :created 1636617371759}
 {:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.51", :description "Data definitions for APIs", :created 1636617383419}
@@ -254,3 +238,19 @@
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.4.527", :description nil, :created 1637537900016}
 {:jar_name "stub", :group_name "com.github.clj-easy", :version "0.1.1", :description "Library to generate stubs for other Clojure libraries.", :created 1637540362087}
 {:jar_name "gcp-ser-clj", :group_name "gcp-ser-clj", :version "0.8.0", :description "A Clojure library trying to make reporting errors to Google Cloud's Error Reporting system (Stackdriver) simpler.", :created 1637561117961}
+{:jar_name "metabill", :group_name "jp.xcoo", :version "0.1.0", :description "Read build meta info", :created 1637563119738}
+{:jar_name "lein-metabill", :group_name "jp.xcoo", :version "0.1.0", :description "Read build meta info", :created 1637563190927}
+{:jar_name "phantom", :group_name "com.flipkart", :version "3.6.0", :description nil, :created 1637563312946}
+{:jar_name "task", :group_name "com.flipkart.phantom", :version "3.6.0", :description "Task Framework", :created 1637563478814}
+{:jar_name "task-thrift", :group_name "com.flipkart.phantom", :version "3.6.0", :description "Thrift Task Framework", :created 1637563514493}
+{:jar_name "task-http", :group_name "com.flipkart.phantom", :version "3.6.0", :description "HTTP Task Framework", :created 1637563592642}
+{:jar_name "runtime", :group_name "com.flipkart.phantom", :version "3.6.0", :description "Phantom Runtime", :created 1637563631262}
+{:jar_name "runtime-oio-uds", :group_name "com.flipkart.phantom", :version "3.6.0", :description "OIO UDS Server Implementation for Phantom", :created 1637563681911}
+{:jar_name "netty-uds", :group_name "com.flipkart.phantom", :version "3.6.0", :description "UDS Library using Netty", :created 1637563757020}
+{:jar_name "dashboard", :group_name "com.flipkart.phantom", :version "3.6.0", :description "Aggregated dashboard", :created 1637563790870}
+{:jar_name "channel-handler-http", :group_name "com.flipkart.phantom", :version "3.6.0", :description "HTTP Channel Handlers", :created 1637563834250}
+{:jar_name "channel-handler-thrift", :group_name "com.flipkart.phantom", :version "3.6.0", :description "Thrift Channel Handlers", :created 1637563862119}
+{:jar_name "sample-http-proxy", :group_name "com.flipkart.phantom", :version "3.6.0", :description "Sample HTTP Proxy", :created 1637563899379}
+{:jar_name "sample-thrift-proxy", :group_name "com.flipkart.phantom", :version "3.6.0", :description "Sample Thrift Proxy", :created 1637563937358}
+{:jar_name "sample-task-proxy", :group_name "com.flipkart.phantom", :version "3.6.0", :description "Sample Task Proxy", :created 1637563965878}
+{:jar_name "runtime-netty-uds", :group_name "com.flipkart.phantom", :version "3.6.0", :description "Netty UDS Server Implementation for Phantom", :created 1637563999798}
