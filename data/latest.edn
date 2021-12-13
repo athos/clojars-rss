@@ -1,27 +1,3 @@
-{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "FIXME", :created 1636858862770}
-{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1636858869060}
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1636858875510}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1636858881920}
-{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1636858888380}
-{:jar_name "typed.clj.malli", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Malli integration", :created 1636858894840}
-{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1636858901080}
-{:jar_name "utilza", :group_name "utilza", :version "0.1.121", :description "ken's random utilities", :created 1636875317790}
-{:jar_name "typesense-clj", :group_name "io.github.runeanielsen", :version "0.1.79", :description nil, :created 1636887129566}
-{:jar_name "hellocloj", :group_name "org.clojars.bjtj", :version "0.1.0-SNAPSHOT", :description "hello clojar", :created 1636903181519}
-{:jar_name "strigui", :group_name "strigui", :version "0.0.1-alpha20", :description "A small GUI library.", :created 1636907977810}
-{:jar_name "pdf_reader", :group_name "org.clojars.pmohankumar", :version "1.0.0-SNAPSHOT", :description nil, :created 1636909570907}
-{:jar_name "instrument-defprotocol", :group_name "io.github.frenchy64", :version "1.0.0-SNAPSHOT", :description "Tools to instrument defprotocol.", :created 1636916684917}
-{:jar_name "resource-locator", :group_name "com.github.artronics", :version "0.1.0-SNAPSHOT", :description "A library to find and load resources from file system or web", :created 1636917412260}
-{:jar_name "fulcro-rad-semantic-ui", :group_name "com.fulcrologic", :version "1.2.1", :description "A UI plugin for Fulcro RAD that renders to web/electron using Semantic UI CSS", :created 1636918277982}
-{:jar_name "dynamo-embedded-clj", :group_name "org.clojars.bigsy", :version "0.1.0", :description "Embedded dynamodb for clojure", :created 1636918522979}
-{:jar_name "aerial.hanami", :group_name "aerial.hanami", :version "0.15.1", :description "Clojure(Script) client/server vega/vega-lite based dynamic interactive plots and charts", :created 1636919595669}
-{:jar_name "bowerick", :group_name "bowerick", :version "2.9.1", :description "Easing Simple JMS Tasks with Clojure (and Java)", :created 1636923299183}
-{:jar_name "chessica", :group_name "org.clojars.kingnuscodus", :version "0.1.0-SNAPSHOT", :description "Utilities for assisting with chess games, position data.", :created 1636944573867}
-{:jar_name "luna", :group_name "org.clojars.abhinav", :version "0.1.1", :description "A Domain Specific Language (DSL) that translates to regex.", :created 1636947554288}
-{:jar_name "rolling-stones", :group_name "rolling-stones", :version "1.0.2", :description "rolling-stones is a Clojure interface to the Sat4j satisfaction solver", :created 1636952130114}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20211115-062320.88436c0a", :description nil, :created 1636957438383}
-{:jar_name "seql", :group_name "exoscale", :version "0.2.2", :description "Simplfied EDN Query Language for SQL", :created 1636958799840}
-{:jar_name "varity", :group_name "varity", :version "0.8.0", :description "Variant translation library for Clojure", :created 1636959418774}
 {:jar_name "timbre-json-appender", :group_name "viesti", :version "0.2.5", :description "A structured log appender for Timbre using jsonista", :created 1636959499623}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20211115-085242.88436c0a", :description nil, :created 1636966396417}
 {:jar_name "mulify", :group_name "org.clojars.myst3m", :version "0.0.4", :description nil, :created 1636975050683}
@@ -254,3 +230,27 @@
 {:jar_name "modular", :group_name "org.pinkgorilla", :version "0.0.15", :description nil, :created 1637630755356}
 {:jar_name "membrane", :group_name "com.phronemophobic", :version "0.9.31.6-beta", :description "A platform agnostic library for creating user interfaces", :created 1637631438358}
 {:jar_name "omni-trace", :group_name "org.clojars.cyrik", :version "master-SNAPSHOT", :description "Omnipotent/omniscient tracing core for debugging clojure(script)", :created 1637631814543}
+{:jar_name "selmer", :group_name "selmer", :version "1.12.45", :description "Django style templates for Clojure", :created 1637772622813}
+{:jar_name "uri", :group_name "lambdaisland", :version "1.12.89", :description "A pure Clojure/ClojureScript URI library.", :created 1638178884152}
+{:jar_name "plumbing", :group_name "prismatic", :version "0.6.0", :description "Prismatic's Clojure utility belt.", :created 1638386458684}
+{:jar_name "dom-top", :group_name "dom-top", :version "1.0.7-SNAPSHOT", :description "Unorthodox control flow for Clojurists with masochistic sensibilities", :created 1638452102570}
+{:jar_name "datascript", :group_name "datascript", :version "1.3.2", :description "An implementation of Datomic in-memory database and Datalog query engine in ClojureScript", :created 1638553379346}
+{:jar_name "edamame", :group_name "borkdude", :version "0.0.18", :description "EDN parser with location metadata and pluggable dispatch table.", :created 1638699777517}
+{:jar_name "manifold", :group_name "manifold", :version "0.2.3", :description "A compatibility layer for event-driven abstractions", :created 1638813774675}
+{:jar_name "better-cond", :group_name "better-cond", :version "2.1.1", :description "A better cond", :created 1638865643388}
+{:jar_name "cider-nrepl", :group_name "cider", :version "0.27.3", :description "A collection of nREPL middleware designed to enhance Clojure editors.", :created 1638878644933}
+{:jar_name "jsonista", :group_name "metosin", :version "0.3.5", :description "Clojure library for fast JSON encoding and decoding.", :created 1638896922120}
+{:jar_name "peridot", :group_name "peridot", :version "0.5.4", :description "Interact with ring apps", :created 1638918557825}
+{:jar_name "eastwood", :group_name "jonase", :version "1.0.0", :description "A Clojure lint tool", :created 1638949293746}
+{:jar_name "tongue", :group_name "tongue", :version "0.4.3", :description "DIY i18n library for Clojure/Script", :created 1639077715142}
+{:jar_name "shadow-cljs", :group_name "thheller", :version "2.16.8", :description "CLJS development tools", :created 1639085623523}
+{:jar_name "faraday", :group_name "com.taoensso", :version "1.11.4", :description "Clojure DynamoDB client", :created 1639169094171}
+{:jar_name "clj-parent", :group_name "puppetlabs", :version "4.9.0", :description "", :created 1639169776893}
+{:jar_name "puget", :group_name "mvxcvi", :version "1.3.2", :description "Colorizing canonical Clojure printer for EDN values.", :created 1639283147585}
+{:jar_name "malli", :group_name "metosin", :version "0.7.2", :description "", :created 1639295866868}
+{:jar_name "nrepl", :group_name "nrepl", :version "0.9.0", :description "nREPL is a Clojure *n*etwork REPL.", :created 1639303116571}
+{:jar_name "sentry-clj", :group_name "io.sentry", :version "5.4.161", :description "A very thin wrapper around the official Java library for Sentry.", :created 1639343505856}
+{:jar_name "config", :group_name "yogthos", :version "1.1.9", :description "library for managing configuration using environment variables/EDN configuration files", :created 1639359404200}
+{:jar_name "conman", :group_name "conman", :version "0.9.3", :description "a database connection management library", :created 1639359510715}
+{:jar_name "langohr", :group_name "com.novemberain", :version "5.3.0", :description "An idiomatic Clojure client for RabbitMQ that embraces the AMQP 0.9.1 model. Built on top of the RabbitMQ Java client", :created 1639374120076}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.12.02-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1639400992210}
