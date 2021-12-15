@@ -1,6 +1,3 @@
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.16.5", :description "CLJS development tools", :created 1637306010335}
-{:jar_name "pip-license-checker", :group_name "org.clojars.vrs", :version "0.31.0", :description "License compliance tool to identify dependencies license names and types: permissive, copyleft, proprietory, etc.", :created 1637306914167}
-{:jar_name "cheshire", :group_name "com.github.youkale", :version "5.10.2-SNAPSHOT", :description "JSON and JSON SMILE encoding, fast.", :created 1637314229956}
 {:jar_name "useful", :group_name "com.timezynk", :version "1.13.3-SNAPSHOT", :description "Useful functions", :created 1637317976489}
 {:jar_name "matcha.alpha", :group_name "grafter", :version "0.1.13", :description "A SPARQL-like query engine and DSL for querying in\n  memory RDF models.", :created 1637319042649}
 {:jar_name "jackdaw", :group_name "fundingcircle", :version "0.9.1", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1637322318047}
@@ -246,7 +243,6 @@
 {:jar_name "vocabulary", :group_name "ont-app", :version "0.1.5-SNAPSHOT", :description "Utilities to map between namespaced keywords and URIs, and support language-tagged strings.", :created 1639575032973}
 {:jar_name "clj-sse-client", :group_name "io.github.sorted-falnyd", :version "0.0.10", :description "No dependency, specification compliant SSE client in Clojure", :created 1639577549547}
 {:jar_name "clojure.log4j2", :group_name "com.widdindustries", :version "0.1.7", :description nil, :created 1639579541804}
-{:jar_name "tools-io-gs", :group_name "com.oscaro", :version "0.1.8-SNAPSHOT", :description "google storage support for tools-io", :created 1639581778419}
 {:jar_name "igraph", :group_name "ont-app", :version "0.1.8-SNAPSHOT", :description "Defines a IGraph protocol for maintaining a querying different graph implementations", :created 1639582377756}
 {:jar_name "cumulus-message-adapter", :group_name "gov.nasa.earthdata", :version "1.3.4", :description nil, :created 1639582553115}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.12.02-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1639582769563}
@@ -254,3 +250,7 @@
 {:jar_name "framework", :group_name "com.flexiana", :version "0.3.3", :description "Framework", :created 1639583189101}
 {:jar_name "ch-tools", :group_name "org.clojars.i-s", :version "0.1.0-SNAPSHOT", :description "Clickhouse database tools", :created 1639583223271}
 {:jar_name "igraph-vocabulary", :group_name "ont-app", :version "0.1.3-SNAPSHOT", :description "Utilities for using ont-app/vocabulary in ont-app/igraph", :created 1639584560702}
+{:jar_name "tools-io-gs", :group_name "com.oscaro", :version "0.1.8-SNAPSHOT", :description "google storage support for tools-io", :created 1639584833840}
+{:jar_name "graph-log", :group_name "ont-app", :version "0.1.5-SNAPSHOT", :description "An graph-based logging system for debugging", :created 1639585606798}
+{:jar_name "sparql-endpoint", :group_name "ont-app", :version "0.1.4-SNAPSHOT", :description "Utilities for interfacing with a sparql endpoint in clojure", :created 1639586738719}
+{:jar_name "lein-tools-deps", :group_name "org.clojars.john-shaffer", :version "0.4.6-SNAPSHOT", :description "Leiningen plugin to load :dependencies from deps.edn instead.", :created 1639588393259}
