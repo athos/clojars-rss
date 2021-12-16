@@ -1,5 +1,3 @@
-{:jar_name "sample-thrift-proxy", :group_name "com.flipkart.phantom", :version "3.6.0", :description "Sample Thrift Proxy", :created 1637563937358}
-{:jar_name "sample-task-proxy", :group_name "com.flipkart.phantom", :version "3.6.0", :description "Sample Task Proxy", :created 1637563965878}
 {:jar_name "runtime-netty-uds", :group_name "com.flipkart.phantom", :version "3.6.0", :description "Netty UDS Server Implementation for Phantom", :created 1637563999798}
 {:jar_name "bowerick", :group_name "bowerick", :version "2.9.2", :description "Easing Simple JMS Tasks with Clojure (and Java)", :created 1637565710378}
 {:jar_name "valuehash", :group_name "io.github.nextjournal", :version "0.1.10", :description nil, :created 1637566892734}
@@ -254,3 +252,5 @@
 {:jar_name "google-api-clj", :group_name "viebel", :version "0.1.20", :description "Google API Clojure driver", :created 1639657443166}
 {:jar_name "rdf", :group_name "ont-app", :version "0.1.4", :description "Backstop for shared logic among RDF-based IGraph implementations", :created 1639659465603}
 {:jar_name "igraph-jena", :group_name "ont-app", :version "0.1.3", :description "Library to port the Apache Jena APIs to the ont-app/iGraph protocol", :created 1639660145131}
+{:jar_name "sparql-client", :group_name "ont-app", :version "0.1.1", :description "Provides an IGraph-compliant view onto an arbitrary SPARQL endpoint in clojure, informed by ont-app/vocabulary.", :created 1639661823134}
+{:jar_name "shape-shifter", :group_name "org.clojars.clj-holmes", :version "0.3.7", :description "Transforms a string pattern into clojure spec.", :created 1639663547608}
