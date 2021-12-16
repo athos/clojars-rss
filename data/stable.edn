@@ -1,27 +1,3 @@
-{:jar_name "kusonga", :group_name "fiv0", :version "0.1.2", :description nil, :created 1637271853832}
-{:jar_name "postal", :group_name "com.draines", :version "2.0.5", :description "Clojure support for Internet email", :created 1637275357589}
-{:jar_name "nvd-clojure", :group_name "nvd-clojure", :version "1.9.0", :description "National Vulnerability Database [https://nvd.nist.gov/] dependency-checker", :created 1637278321981}
-{:jar_name "lein-nvd", :group_name "lein-nvd", :version "1.9.0", :description "National Vulnerability Database [https://nvd.nist.gov/] dependency-checker leiningen plugin.", :created 1637278334191}
-{:jar_name "sail", :group_name "sail", :version "0.6.3", :description nil, :created 1637286479273}
-{:jar_name "sail", :group_name "sail", :version "0.6.6", :description nil, :created 1637287883990}
-{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.3.65", :description nil, :created 1637288693922}
-{:jar_name "sail", :group_name "sail", :version "0.6.7", :description nil, :created 1637289076569}
-{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.3.66", :description nil, :created 1637291916431}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.16.5", :description "CLJS development tools", :created 1637306010335}
-{:jar_name "pip-license-checker", :group_name "org.clojars.vrs", :version "0.31.0", :description "License compliance tool to identify dependencies license names and types: permissive, copyleft, proprietory, etc.", :created 1637306914167}
-{:jar_name "matcha.alpha", :group_name "grafter", :version "0.1.13", :description "A SPARQL-like query engine and DSL for querying in\n  memory RDF models.", :created 1637319042649}
-{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.9.1", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1637322318047}
-{:jar_name "gorilla-notes", :group_name "scicloj", :version "0.6.2", :description "a client-server websocket platform for sending gorilla-ui visualizations to the browser from the REPL", :created 1637322592674}
-{:jar_name "re-statecharts", :group_name "com.github.ingesolvoll", :version "0.0.4", :description nil, :created 1637322771503}
-{:jar_name "jonotin", :group_name "jonotin", :version "0.3.0", :description "Google Pub/Sub Java SDK wrapper", :created 1637324306999}
-{:jar_name "useful", :group_name "com.timezynk", :version "1.13.3", :description "Useful functions", :created 1637326108020}
-{:jar_name "notespace", :group_name "scicloj", :version "4-alpha-14", :description "Notebook experience in your Clojure namespace.", :created 1637326261559}
-{:jar_name "modular", :group_name "org.pinkgorilla", :version "0.0.11", :description nil, :created 1637326497256}
-{:jar_name "sail", :group_name "sail", :version "0.6.8", :description nil, :created 1637327096961}
-{:jar_name "lein-template", :group_name "luminus", :version "4.23", :description "a template for creating Luminus applications", :created 1637329279509}
-{:jar_name "lein-template", :group_name "reagent", :version "0.10.52", :description "A Leiningen template for a ClojureScript setup with Figwheel, Austin, and Reagent.", :created 1637329282569}
-{:jar_name "sail", :group_name "com.hypalynx", :version "0.6.12", :description nil, :created 1637329683525}
-{:jar_name "sail", :group_name "com.hypalynx", :version "0.6.13", :description nil, :created 1637332774706}
 {:jar_name "re-statecharts", :group_name "com.github.ingesolvoll", :version "0.1.1", :description "", :created 1637338618814}
 {:jar_name "esignatures.docusign", :group_name "coop.magnet", :version "0.1.2", :description "A library for interacting with the DocuSign eSignature API", :created 1637339545153}
 {:jar_name "clojure-data-grinder-core", :group_name "org.clojars.sn0wf1eld", :version "0.1.6", :description "FIXME: write description", :created 1637341375743}
@@ -254,3 +230,27 @@
 {:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.2.761", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1639629641280}
 {:jar_name "portal", :group_name "djblue", :version "0.18.2", :description "A clojure tool to navigate through your data.", :created 1639630992355}
 {:jar_name "lice-comb", :group_name "com.github.pmonks", :version "1.0.22", :description "A Clojure library for software license detection.", :created 1639637451339}
+{:jar_name "channel-handler-http", :group_name "com.flipkart.phantom", :version "3.8.0", :description "HTTP Channel Handlers", :created 1639639700820}
+{:jar_name "channel-handler-thrift", :group_name "com.flipkart.phantom", :version "3.8.0", :description "Thrift Channel Handlers", :created 1639639749630}
+{:jar_name "dashboard", :group_name "com.flipkart.phantom", :version "3.8.0", :description "Aggregated dashboard", :created 1639639891550}
+{:jar_name "netty-uds", :group_name "com.flipkart.phantom", :version "3.8.0", :description "UDS Library using Netty", :created 1639639945639}
+{:jar_name "runtime", :group_name "com.flipkart.phantom", :version "3.8.0", :description "Phantom Runtime", :created 1639639982479}
+{:jar_name "runtime-netty-uds", :group_name "com.flipkart.phantom", :version "3.8.0", :description "Netty UDS Server Implementation for Phantom", :created 1639640016969}
+{:jar_name "runtime-oio-uds", :group_name "com.flipkart.phantom", :version "3.8.0", :description "OIO UDS Server Implementation for Phantom", :created 1639640176018}
+{:jar_name "sample-http-proxy", :group_name "com.flipkart.phantom", :version "3.8.0", :description "Sample HTTP Proxy", :created 1639640209228}
+{:jar_name "sample-task-proxy", :group_name "com.flipkart.phantom", :version "3.8.0", :description "Sample Task Proxy", :created 1639640242458}
+{:jar_name "sample-thrift-proxy", :group_name "com.flipkart.phantom", :version "3.8.0", :description "Sample Thrift Proxy", :created 1639640276378}
+{:jar_name "task", :group_name "com.flipkart.phantom", :version "3.8.0", :description "Task Framework", :created 1639640315038}
+{:jar_name "task-http", :group_name "com.flipkart.phantom", :version "3.8.0", :description "HTTP Task Framework", :created 1639640346968}
+{:jar_name "task-thrift", :group_name "com.flipkart.phantom", :version "3.8.0", :description "Thrift Task Framework", :created 1639640377898}
+{:jar_name "common", :group_name "com.flipkart.poseidon", :version "5.13.0", :description "Poseidon Commons", :created 1639640793486}
+{:jar_name "http-handler", :group_name "com.flipkart.poseidon", :version "5.13.0", :description "Poseidon HTTP Handler", :created 1639640816556}
+{:jar_name "service-clients-core", :group_name "com.flipkart.poseidon", :version "5.13.0", :description "Poseidon Service Clients Core", :created 1639640839716}
+{:jar_name "core", :group_name "com.flipkart.poseidon", :version "5.13.0", :description "Poseidon Core", :created 1639640861326}
+{:jar_name "log4j-access", :group_name "com.flipkart.poseidon", :version "5.13.0", :description "Poseidon access log implementation for Jetty using Log4J", :created 1639640883686}
+{:jar_name "container", :group_name "com.flipkart.poseidon", :version "5.13.0", :description "Poseidon Container", :created 1639640903656}
+{:jar_name "api", :group_name "com.flipkart.poseidon", :version "5.13.0", :description "Poseidon API", :created 1639640925985}
+{:jar_name "service-clients-gen", :group_name "com.flipkart.poseidon", :version "5.13.0", :description "Poseidon Service Clients Generation", :created 1639640947015}
+{:jar_name "service-clients-archetype", :group_name "com.flipkart.poseidon", :version "5.13.0", :description "Mvn archetype used to create a new service client", :created 1639640966085}
+{:jar_name "cadfael", :group_name "com.flipkart.poseidon", :version "5.13.0", :description nil, :created 1639640985025}
+{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20211216-075258.06af755d", :description nil, :created 1639641215384}
