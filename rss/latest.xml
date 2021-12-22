@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 22 Dec 2021 13:16:20 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Dec 2021 14:06:22 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.omkamra/cowbells/versions/0.1.0</guid>
+    <title>[com.github.omkamra/cowbells &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.github.omkamra/cowbells/versions/0.1.0</link>
+    <description>A Clojure library for musical experiments and live coding</description>
+    <pubDate>Wed, 22 Dec 2021 13:57:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.omkamra/sequencer-fluidsynth/versions/0.2.1</guid>
+    <title>[com.github.omkamra/sequencer-fluidsynth &quot;0.2.1&quot;]</title>
+    <link>https://clojars.org/com.github.omkamra/sequencer-fluidsynth/versions/0.2.1</link>
+    <description>An omkamra.sequencer target for the FluidSynth SoundFont synthesizer</description>
+    <pubDate>Wed, 22 Dec 2021 13:49:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.omkamra/sequencer-midi/versions/0.2.0</guid>
+    <title>[com.github.omkamra/sequencer-midi &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/com.github.omkamra/sequencer-midi/versions/0.2.0</link>
+    <description>An omkamra.sequencer target for MIDI applications</description>
+    <pubDate>Wed, 22 Dec 2021 13:45:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.timezynk/domain-types/versions/1.0.2</guid>
+    <title>[com.timezynk/domain-types &quot;1.0.2&quot;]</title>
+    <link>https://clojars.org/com.timezynk/domain-types/versions/1.0.2</link>
+    <description>FIXME: write description</description>
+    <pubDate>Wed, 22 Dec 2021 13:42:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.timezynk/domain/versions/1.4.2</guid>
+    <title>[com.timezynk/domain &quot;1.4.2&quot;]</title>
+    <link>https://clojars.org/com.timezynk/domain/versions/1.4.2</link>
+    <description>Database modeling library for Clojure and MongoDB</description>
+    <pubDate>Wed, 22 Dec 2021 13:41:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.omkamra/fluidsynth/versions/0.2.0</guid>
+    <title>[com.github.omkamra/fluidsynth &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/com.github.omkamra/fluidsynth/versions/0.2.0</link>
+    <description>A Clojure wrapper around the FluidSynth library</description>
+    <pubDate>Wed, 22 Dec 2021 13:36:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.omkamra/sequencer/versions/0.2.0</guid>
+    <title>[com.github.omkamra/sequencer &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/com.github.omkamra/sequencer/versions/0.2.0</link>
+    <description>A Clojure library for sequencing events on a timeline</description>
+    <pubDate>Wed, 22 Dec 2021 13:29:10 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.timezynk/useful/versions/1.13.4</guid>
     <title>[com.timezynk/useful &quot;1.13.4&quot;]</title>
@@ -1750,55 +1799,6 @@
     <link>https://clojars.org/com.github.seancorfield/next.jdbc/versions/1.2.761</link>
     <description>The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.</description>
     <pubDate>Thu, 16 Dec 2021 04:40:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.seancorfield/clj-new/versions/1.2.380</guid>
-    <title>[com.github.seancorfield/clj-new &quot;1.2.380&quot;]</title>
-    <link>https://clojars.org/com.github.seancorfield/clj-new/versions/1.2.380</link>
-    <description>Generate new projects based on clj, Boot, or Leiningen Templates!</description>
-    <pubDate>Thu, 16 Dec 2021 03:18:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ont-app/sparql-endpoint/versions/0.1.4</guid>
-    <title>[ont-app/sparql-endpoint &quot;0.1.4&quot;]</title>
-    <link>https://clojars.org/ont-app/sparql-endpoint/versions/0.1.4</link>
-    <description>Utilities for interfacing with a sparql endpoint in clojure</description>
-    <pubDate>Thu, 16 Dec 2021 01:57:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ont-app/vocabulary/versions/0.1.5</guid>
-    <title>[ont-app/vocabulary &quot;0.1.5&quot;]</title>
-    <link>https://clojars.org/ont-app/vocabulary/versions/0.1.5</link>
-    <description>Utilities to map between namespaced keywords and URIs, and support language-tagged strings.</description>
-    <pubDate>Thu, 16 Dec 2021 01:54:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ont-app/graph-log/versions/0.1.5</guid>
-    <title>[ont-app/graph-log &quot;0.1.5&quot;]</title>
-    <link>https://clojars.org/ont-app/graph-log/versions/0.1.5</link>
-    <description>An graph-based logging system for debugging</description>
-    <pubDate>Thu, 16 Dec 2021 01:36:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ont-app/igraph-vocabulary/versions/0.1.3</guid>
-    <title>[ont-app/igraph-vocabulary &quot;0.1.3&quot;]</title>
-    <link>https://clojars.org/ont-app/igraph-vocabulary/versions/0.1.3</link>
-    <description>Utilities for using ont-app/vocabulary in ont-app/igraph</description>
-    <pubDate>Thu, 16 Dec 2021 01:23:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ont-app/igraph/versions/0.1.8</guid>
-    <title>[ont-app/igraph &quot;0.1.8&quot;]</title>
-    <link>https://clojars.org/ont-app/igraph/versions/0.1.8</link>
-    <description>Defines a IGraph protocol for maintaining a querying different graph implementations</description>
-    <pubDate>Thu, 16 Dec 2021 01:05:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/sweet-tooth/frontend/versions/0.14.1</guid>
-    <title>[sweet-tooth/frontend &quot;0.14.1&quot;]</title>
-    <link>https://clojars.org/sweet-tooth/frontend/versions/0.14.1</link>
-    <description>Some opinions on top of re-frame</description>
-    <pubDate>Thu, 16 Dec 2021 00:53:45 +0000</pubDate>
   </item>
   </channel>
 </rss>

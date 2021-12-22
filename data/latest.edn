@@ -1,10 +1,3 @@
-{:jar_name "frontend", :group_name "sweet-tooth", :version "0.14.1", :description "Some opinions on top of re-frame", :created 1639616025593}
-{:jar_name "igraph", :group_name "ont-app", :version "0.1.8", :description "Defines a IGraph protocol for maintaining a querying different graph implementations", :created 1639616732260}
-{:jar_name "igraph-vocabulary", :group_name "ont-app", :version "0.1.3", :description "Utilities for using ont-app/vocabulary in ont-app/igraph", :created 1639617789646}
-{:jar_name "graph-log", :group_name "ont-app", :version "0.1.5", :description "An graph-based logging system for debugging", :created 1639618587953}
-{:jar_name "vocabulary", :group_name "ont-app", :version "0.1.5", :description "Utilities to map between namespaced keywords and URIs, and support language-tagged strings.", :created 1639619646269}
-{:jar_name "sparql-endpoint", :group_name "ont-app", :version "0.1.4", :description "Utilities for interfacing with a sparql endpoint in clojure", :created 1639619869358}
-{:jar_name "clj-new", :group_name "com.github.seancorfield", :version "1.2.380", :description "Generate new projects based on clj, Boot, or Leiningen Templates!", :created 1639624687489}
 {:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.2.761", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1639629641280}
 {:jar_name "portal", :group_name "djblue", :version "0.18.2", :description "A clojure tool to navigate through your data.", :created 1639630992355}
 {:jar_name "lice-comb", :group_name "com.github.pmonks", :version "1.0.22", :description "A Clojure library for software license detection.", :created 1639637451339}
@@ -254,3 +247,10 @@
 {:jar_name "ring-middleware-format", :group_name "com.timezynk", :version "0.2.16", :description "Ring middleware for parsing parameters and emitting responses in various formats. See https://github.com/ngrunwald/ring-middleware-format", :created 1640175601842}
 {:jar_name "tzsms", :group_name "com.timezynk", :version "1.0.6", :description "TimeZynk SMS API", :created 1640177447393}
 {:jar_name "useful", :group_name "com.timezynk", :version "1.13.4", :description "Useful functions", :created 1640178904857}
+{:jar_name "sequencer", :group_name "com.github.omkamra", :version "0.2.0", :description "A Clojure library for sequencing events on a timeline", :created 1640179750273}
+{:jar_name "fluidsynth", :group_name "com.github.omkamra", :version "0.2.0", :description "A Clojure wrapper around the FluidSynth library", :created 1640180203181}
+{:jar_name "domain", :group_name "com.timezynk", :version "1.4.2", :description "Database modeling library for Clojure and MongoDB", :created 1640180488560}
+{:jar_name "domain-types", :group_name "com.timezynk", :version "1.0.2", :description "FIXME: write description", :created 1640180529870}
+{:jar_name "sequencer-midi", :group_name "com.github.omkamra", :version "0.2.0", :description "An omkamra.sequencer target for MIDI applications", :created 1640180759939}
+{:jar_name "sequencer-fluidsynth", :group_name "com.github.omkamra", :version "0.2.1", :description "An omkamra.sequencer target for the FluidSynth SoundFont synthesizer", :created 1640180952878}
+{:jar_name "cowbells", :group_name "com.github.omkamra", :version "0.1.0", :description "A Clojure library for musical experiments and live coding", :created 1640181444336}
