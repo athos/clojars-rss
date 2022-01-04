@@ -1,13 +1,3 @@
-{:jar_name "useful", :group_name "com.timezynk", :version "1.13.4", :description "Useful functions", :created 1640178904857}
-{:jar_name "sequencer", :group_name "com.github.omkamra", :version "0.2.0", :description "A Clojure library for sequencing events on a timeline", :created 1640179750273}
-{:jar_name "fluidsynth", :group_name "com.github.omkamra", :version "0.2.0", :description "A Clojure wrapper around the FluidSynth library", :created 1640180203181}
-{:jar_name "domain", :group_name "com.timezynk", :version "1.4.2", :description "Database modeling library for Clojure and MongoDB", :created 1640180488560}
-{:jar_name "domain-types", :group_name "com.timezynk", :version "1.0.2", :description "FIXME: write description", :created 1640180529870}
-{:jar_name "sequencer-midi", :group_name "com.github.omkamra", :version "0.2.0", :description "An omkamra.sequencer target for MIDI applications", :created 1640180759939}
-{:jar_name "sequencer-fluidsynth", :group_name "com.github.omkamra", :version "0.2.1", :description "An omkamra.sequencer target for the FluidSynth SoundFont synthesizer", :created 1640180952878}
-{:jar_name "cowbells", :group_name "com.github.omkamra", :version "0.1.0", :description "A Clojure library for musical experiments and live coding", :created 1640181444336}
-{:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.17.0-SNAPSHOT", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1640184721993}
-{:jar_name "cumulus-message-adapter", :group_name "gov.nasa.earthdata", :version "1.3.7", :description nil, :created 1640196166016}
 {:jar_name "holy-lambda-default-retriever", :group_name "io.github.FieryCod", :version "0.7.0", :description "Default retriever for payloads", :created 1640196881013}
 {:jar_name "holy-lambda-async-retriever", :group_name "io.github.FieryCod", :version "0.7.0", :description "Support for async handlers which returns channel as a response.", :created 1640196991092}
 {:jar_name "typesense-clj", :group_name "io.github.runeanielsen", :version "0.1.84", :description "", :created 1640204660933}
@@ -253,4 +243,14 @@
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2021.12.20-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1641247233924}
 {:jar_name "wiring", :group_name "org.clojars.chriskind", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1641253640421}
 {:jar_name "protojure", :group_name "protojure", :version "1.7.3", :description "Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications", :created 1641262204140}
-{:jar_name "plug-sso", :group_name "net.clojars.mokr", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1641286878197}
+{:jar_name "plug-sso", :group_name "net.clojars.mokr", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1641289857793}
+{:jar_name "flux", :group_name "com.flipkart", :version "1.2.5-SNAPSHOT", :description nil, :created 1641290027821}
+{:jar_name "model", :group_name "com.flipkart.flux", :version "1.2.5-SNAPSHOT", :description nil, :created 1641290054331}
+{:jar_name "api", :group_name "com.flipkart.flux", :version "1.2.5-SNAPSHOT", :description nil, :created 1641290079631}
+{:jar_name "common", :group_name "com.flipkart.flux", :version "1.2.5-SNAPSHOT", :description nil, :created 1641290111741}
+{:jar_name "persistence-mysql", :group_name "com.flipkart.flux", :version "1.2.5-SNAPSHOT", :description nil, :created 1641290148350}
+{:jar_name "scheduler", :group_name "com.flipkart.flux", :version "1.2.5-SNAPSHOT", :description nil, :created 1641290216720}
+{:jar_name "client", :group_name "com.flipkart.flux", :version "1.2.5-SNAPSHOT", :description nil, :created 1641290250649}
+{:jar_name "task", :group_name "com.flipkart.flux", :version "1.2.5-SNAPSHOT", :description nil, :created 1641290281789}
+{:jar_name "runtime", :group_name "com.flipkart.flux", :version "1.2.5-SNAPSHOT", :description nil, :created 1641290474888}
+{:jar_name "examples", :group_name "com.flipkart.flux", :version "1.2.5-SNAPSHOT", :description nil, :created 1641290513407}
