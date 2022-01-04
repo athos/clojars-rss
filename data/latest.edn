@@ -1,20 +1,3 @@
-{:jar_name "elle", :group_name "elle", :version "0.1.4-SNAPSHOT", :description "Black-box transactional consistency checker, based on cycle detection", :created 1640229412408}
-{:jar_name "jepsen", :group_name "jepsen", :version "0.2.6-SNAPSHOT", :description "Distributed systems testing framework.", :created 1640230243625}
-{:jar_name "fancoil", :group_name "com.github.itarck", :version "0.0.5-SNAPSHOT", :description "A clojurescript framework, which uses multi-methods to define and implement system unit, uses integrant to inject configuration and stateful dependencies to unit at system startup.", :created 1640232507565}
-{:jar_name "clj-log4j2", :group_name "clj-log4j2", :version "0.4.0", :description "Easily add log4j2 into your clojure project", :created 1640240431752}
-{:jar_name "lein-protodeps", :group_name "com.appsflyer", :version "1.0.3", :description "Leiningen plugin for consuming and compiling protobuf schemas", :created 1640248931697}
-{:jar_name "primitive-math", :group_name "com.github.piotr-yuxuan", :version "0.1.7", :description "predictable, primitive math", :created 1640250338271}
-{:jar_name "more.async", :group_name "bsless", :version "0.0.8", :description "More core.async abstractions", :created 1640250362211}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.161", :description nil, :created 1640256856054}
-{:jar_name "omni-trace", :group_name "org.clojars.cyrik", :version "master-SNAPSHOT", :description "Omnipotent/omniscient tracing core for debugging clojure(script)", :created 1640260089111}
-{:jar_name "omni-trace", :group_name "org.clojars.cyrik", :version "v0.3", :description "Omnipotent/omniscient tracing core for debugging clojure(script)", :created 1640263010213}
-{:jar_name "tinklj", :group_name "tinklj", :version "0.1.5", :description "A Clojure API for Google Tink Crypto Library. Offering a range of cryptographic techniques that are simple and easy to use.", :created 1640267010652}
-{:jar_name "nvd-clojure", :group_name "nvd-clojure", :version "2.0.0", :description "National Vulnerability Database [https://nvd.nist.gov/] dependency-checker", :created 1640267444390}
-{:jar_name "lein-nvd", :group_name "lein-nvd", :version "2.0.0", :description "National Vulnerability Database [https://nvd.nist.gov/] dependency-checker leiningen plugin.", :created 1640267455760}
-{:jar_name "edd-web-primitives", :group_name "com.alpha-prosoft", :version "1.0.56", :description nil, :created 1640271450524}
-{:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.17.0", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1640271846752}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.2.840", :description "SQL as Clojure data structures.", :created 1640295764214}
-{:jar_name "better-cond", :group_name "better-cond", :version "2.1.3", :description "A better cond", :created 1640297473037}
 {:jar_name "protojure", :group_name "protojure", :version "1.6.6", :description "Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications", :created 1640299467399}
 {:jar_name "specialist-server", :group_name "org.clojars.johannesloetzsch", :version "0.7.0", :description "Spec-driven Clojure GraphQL server", :created 1640299548718}
 {:jar_name "tools-convenience", :group_name "com.github.pmonks", :version "1.0.59", :description "Convenience fns for tools.build scripts", :created 1640303188383}
@@ -26,7 +9,6 @@
 {:jar_name "pbr", :group_name "com.github.pmonks", :version "2.0.133", :description "Peter's Build Resources for Clojure tools.build projects.", :created 1640307671691}
 {:jar_name "protojure", :group_name "protojure", :version "1.7.0", :description "Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications", :created 1640315036992}
 {:jar_name "handy", :group_name "org.timmc", :version "1.7.2", :description "Common utilities to fill in the gaps", :created 1640324765624}
-{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.2.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1640325690036}
 {:jar_name "missionary", :group_name "missionary", :version "b.25", :description "A functional effect and streaming system for clojure and clojurescript.", :created 1640334702965}
 {:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.103", :description "Simply Core Libs", :created 1640338451183}
 {:jar_name "ch-tools", :group_name "org.clojars.i-s", :version "0.1.0-SNAPSHOT", :description "Clickhouse database tools", :created 1640339991911}
@@ -254,3 +236,21 @@
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.4.579", :description nil, :created 1641325379590}
 {:jar_name "pbr", :group_name "com.github.pmonks", :version "2.0.137", :description "Peter's Build Resources for Clojure tools.build projects.", :created 1641326261213}
 {:jar_name "datascript", :group_name "datascript", :version "1.3.5", :description "An implementation of Datomic in-memory database and Datalog query engine in ClojureScript", :created 1641329123429}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure", :created 1641330586227}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1641330596237}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1641330603267}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1641330611567}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1641330617757}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type-like specs.", :created 1641330624907}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1641330631047}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "FIXME", :created 1641330637297}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1641330643697}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1641330650377}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1641330656687}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1641330663687}
+{:jar_name "typed.clj.malli", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Malli integration", :created 1641330670597}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1641330677077}
+{:jar_name "uberdeps", :group_name "uberdeps", :version "1.1.2", :description "Uberjar builder for deps.edn", :created 1641331485480}
+{:jar_name "testdoc", :group_name "com.github.liquidz", :version "1.5.0", :description "Yet another doctest implementation in Clojure", :created 1641331813327}
+{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.2.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1641333585123}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.2.999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1641333793581}
