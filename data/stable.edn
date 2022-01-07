@@ -1,7 +1,3 @@
-{:jar_name "lice-comb", :group_name "com.github.pmonks", :version "1.0.56", :description "A Clojure library for software license detection.", :created 1640304471478}
-{:jar_name "asf-cat", :group_name "com.github.pmonks", :version "1.0.30", :description "A micro library that provides a Clojure implementation of the Apache Software Foundation's 3rd Party License Policy (https://www.apache.org/legal/resolved.html).", :created 1640304485078}
-{:jar_name "tools-licenses", :group_name "com.github.pmonks", :version "1.0.72", :description "A Clojure tools.build task library related to dependency licenses.", :created 1640305686403}
-{:jar_name "tools-pom", :group_name "com.github.pmonks", :version "1.0.54", :description "A Clojure tools.build task library related to the generation of comprehensive pom.xml files.", :created 1640306778119}
 {:jar_name "pbr", :group_name "com.github.pmonks", :version "2.0.133", :description "Peter's Build Resources for Clojure tools.build projects.", :created 1640307671691}
 {:jar_name "protojure", :group_name "protojure", :version "1.7.0", :description "Support library for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications", :created 1640315036992}
 {:jar_name "handy", :group_name "org.timmc", :version "1.7.2", :description "Common utilities to fill in the gaps", :created 1640324765624}
@@ -254,3 +250,7 @@
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "6.046", :description "Clojure high performance data processing system", :created 1641508619706}
 {:jar_name "tech.ml.dataset.sql", :group_name "techascent", :version "6.046-00", :description nil, :created 1641508865594}
 {:jar_name "lein-ezbake", :group_name "puppetlabs", :version "2.3.0", :description "A system for building packages for trapperkeeper-based applications", :created 1641512907001}
+{:jar_name "io", :group_name "io.github.protojure", :version "2.0.1", :description "IO library to support io.github.protojure/core", :created 1641523082955}
+{:jar_name "core", :group_name "io.github.protojure", :version "2.0.1", :description "Core protobuf and GRPC utilities for protojure", :created 1641523123305}
+{:jar_name "grpc-client", :group_name "io.github.protojure", :version "2.0.1", :description "GRPC client library for protoc-gen-clojure", :created 1641523179075}
+{:jar_name "grpc-server", :group_name "io.github.protojure", :version "2.0.1", :description "GRPC server library for protoc-gen-clojure", :created 1641523200554}
