@@ -1,14 +1,3 @@
-{:jar_name "pbr", :group_name "com.github.pmonks", :version "2.0.137", :description "Peter's Build Resources for Clojure tools.build projects.", :created 1641326261213}
-{:jar_name "datascript", :group_name "datascript", :version "1.3.5", :description "An implementation of Datomic in-memory database and Datalog query engine in ClojureScript", :created 1641329123429}
-{:jar_name "uberdeps", :group_name "uberdeps", :version "1.1.2", :description "Uberjar builder for deps.edn", :created 1641331485480}
-{:jar_name "testdoc", :group_name "com.github.liquidz", :version "1.5.0", :description "Yet another doctest implementation in Clojure", :created 1641331813327}
-{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.2.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1641333585123}
-{:jar_name "matrix", :group_name "tiltontec", :version "4.1.7-SNAPSHOT", :description "Matrix dataflow library for CLJ/CLJS", :created 1641336228841}
-{:jar_name "discljord-utils", :group_name "com.github.pmonks", :version "1.0.54", :description "Common utilities on top of the discljord library.", :created 1641337850368}
-{:jar_name "lacinia", :group_name "com.walmartlabs", :version "1.1-rc-1", :description nil, :created 1641339004228}
-{:jar_name "lacinia-pedestal", :group_name "com.walmartlabs", :version "1.1-rc-1", :description nil, :created 1641339410655}
-{:jar_name "clj-parent", :group_name "puppetlabs", :version "4.9.1", :description "", :created 1641341732566}
-{:jar_name "lein-meta-bom", :group_name "org.kipz", :version "0.1.0", :description "Generate a thin jar file representing a bill of materials (BOM) for use by scanners like grype, trivy etc", :created 1641341917154}
 {:jar_name "databricks-sdk", :group_name "org.clojars.marinacavalari", :version "0.1.2", :description "SDK to use databricks functions easier in Clojure", :created 1641343034964}
 {:jar_name "pyramid", :group_name "town.lilac", :version "3.2.0", :description "A library for storing and querying graph data in a Clojure map", :created 1641346373227}
 {:jar_name "nvd-clojure", :group_name "nvd-clojure", :version "2.1.0", :description "National Vulnerability Database [https://nvd.nist.gov/] dependency-checker", :created 1641351757213}
@@ -254,3 +243,14 @@
 {:jar_name "aleph", :group_name "com.7theta", :version "0.4.7-alpha9-2", :description "a framework for asynchronous communication", :created 1642000003879}
 {:jar_name "via", :group_name "com.7theta", :version "9.3.0", :description "A re-frame library for WebSocket based messaging", :created 1642001601617}
 {:jar_name "lein-template", :group_name "io.github.kit-clj", :version "0.1.3", :description nil, :created 1642003860360}
+{:jar_name "pedestal.log", :group_name "io.pedestal", :version "0.5.10", :description "Pedestal logging and metrics facilities", :created 1642005284685}
+{:jar_name "pedestal.jetty", :group_name "io.pedestal", :version "0.5.10", :description "Embedded Jetty adapter for Pedestal HTTP Service", :created 1642005297334}
+{:jar_name "pedestal.immutant", :group_name "io.pedestal", :version "0.5.10", :description "Embedded Immutant adapter for Pedestal HTTP Service", :created 1642005309239}
+{:jar_name "pedestal.tomcat", :group_name "io.pedestal", :version "0.5.10", :description "Embedded Tomcat adapter for Pedestal HTTP Service", :created 1642005320348}
+{:jar_name "pedestal.interceptor", :group_name "io.pedestal", :version "0.5.10", :description "Pedestal interceptor chain and execution utilities", :created 1642005331465}
+{:jar_name "pedestal.aws", :group_name "io.pedestal", :version "0.5.10", :description "AWS utilities for running Pedestal services on AWS", :created 1642005345269}
+{:jar_name "pedestal.route", :group_name "io.pedestal", :version "0.5.10", :description "Pedestal route definition and router construction", :created 1642005356810}
+{:jar_name "pedestal.service", :group_name "io.pedestal", :version "0.5.10", :description "Pedestal Service", :created 1642005371185}
+{:jar_name "pedestal.service-tools", :group_name "io.pedestal", :version "0.5.10", :description "Pedestal tools for service development", :created 1642005383407}
+{:jar_name "lein-template", :group_name "pedestal-service", :version "0.5.10", :description "A Pedestal Service template.", :created 1642005394140}
+{:jar_name "obiwan", :group_name "com.tolitius", :version "0.1.4801", :description nil, :created 1642007276195}
