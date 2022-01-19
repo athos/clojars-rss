@@ -1,5 +1,3 @@
-{:jar_name "pedestal.jetty", :group_name "io.pedestal", :version "0.5.10", :description "Embedded Jetty adapter for Pedestal HTTP Service", :created 1642005297334}
-{:jar_name "pedestal.immutant", :group_name "io.pedestal", :version "0.5.10", :description "Embedded Immutant adapter for Pedestal HTTP Service", :created 1642005309239}
 {:jar_name "pedestal.tomcat", :group_name "io.pedestal", :version "0.5.10", :description "Embedded Tomcat adapter for Pedestal HTTP Service", :created 1642005320348}
 {:jar_name "pedestal.interceptor", :group_name "io.pedestal", :version "0.5.10", :description "Pedestal interceptor chain and execution utilities", :created 1642005331465}
 {:jar_name "pedestal.aws", :group_name "io.pedestal", :version "0.5.10", :description "AWS utilities for running Pedestal services on AWS", :created 1642005345269}
@@ -254,3 +252,5 @@
 {:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.53", :description "Data definitions for APIs", :created 1642581312265}
 {:jar_name "blueprint", :group_name "exoscale", :version "0.2.53", :description "Data definitions for APIs", :created 1642581325391}
 {:jar_name "plug-sso", :group_name "net.clojars.mokr", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1642592985317}
+{:jar_name "plug-utils", :group_name "net.clojars.mokr", :version "0.1.0-SNAPSHOT", :description "Small util functions for clj and/or cljs", :created 1642594448511}
+{:jar_name "rpm-version-clj", :group_name "org.kipz", :version "0.0.2", :description "Parse and compare rpm package versions in clojure", :created 1642594777432}
