@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 19 Jan 2022 14:07:06 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Jan 2022 15:11:30 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/formatting-stack/versions/4.5.0</guid>
+    <title>[formatting-stack &quot;4.5.0&quot;]</title>
+    <link>https://clojars.org/formatting-stack/versions/4.5.0</link>
+    <description>An efficient, smart, graceful composition of formatters, linters and such.</description>
+    <pubDate>Wed, 19 Jan 2022 15:08:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.pinkgorilla/webly/versions/0.4.588</guid>
+    <title>[org.pinkgorilla/webly &quot;0.4.588&quot;]</title>
+    <link>https://clojars.org/org.pinkgorilla/webly/versions/0.4.588</link>
+    <description></description>
+    <pubDate>Wed, 19 Jan 2022 15:02:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.7theta/via-schema/versions/0.5.2</guid>
+    <title>[com.7theta/via-schema &quot;0.5.2&quot;]</title>
+    <link>https://clojars.org/com.7theta/via-schema/versions/0.5.2</link>
+    <description>Schema validation for via events and subs.</description>
+    <pubDate>Wed, 19 Jan 2022 14:51:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.7theta/aave/versions/0.1.0</guid>
+    <title>[com.7theta/aave &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.7theta/aave/versions/0.1.0</link>
+    <description></description>
+    <pubDate>Wed, 19 Jan 2022 14:51:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/jepsen/versions/0.2.6-SNAPSHOT</guid>
+    <title>[jepsen &quot;0.2.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/jepsen/versions/0.2.6-SNAPSHOT</link>
+    <description>Distributed systems testing framework.</description>
+    <pubDate>Wed, 19 Jan 2022 14:39:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dom-top/versions/1.0.7-SNAPSHOT</guid>
+    <title>[dom-top &quot;1.0.7-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/dom-top/versions/1.0.7-SNAPSHOT</link>
+    <description>Unorthodox control flow for Clojurists with masochistic sensibilities</description>
+    <pubDate>Wed, 19 Jan 2022 14:38:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/elle/versions/0.1.4-SNAPSHOT</guid>
+    <title>[elle &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/elle/versions/0.1.4-SNAPSHOT</link>
+    <description>Black-box transactional consistency checker, based on cycle detection</description>
+    <pubDate>Wed, 19 Jan 2022 14:38:25 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.7theta/via/versions/9.5.0</guid>
     <title>[com.7theta/via &quot;9.5.0&quot;]</title>
@@ -1748,55 +1797,6 @@
     <link>https://clojars.org/com.7theta/via/versions/9.3.1</link>
     <description>A re-frame library for WebSocket based messaging</description>
     <pubDate>Wed, 12 Jan 2022 18:56:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.tolitius/obiwan/versions/0.1.4801</guid>
-    <title>[com.tolitius/obiwan &quot;0.1.4801&quot;]</title>
-    <link>https://clojars.org/com.tolitius/obiwan/versions/0.1.4801</link>
-    <description></description>
-    <pubDate>Wed, 12 Jan 2022 17:07:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/pedestal-service/lein-template/versions/0.5.10</guid>
-    <title>[pedestal-service/lein-template &quot;0.5.10&quot;]</title>
-    <link>https://clojars.org/pedestal-service/lein-template/versions/0.5.10</link>
-    <description>A Pedestal Service template.</description>
-    <pubDate>Wed, 12 Jan 2022 16:36:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.service-tools/versions/0.5.10</guid>
-    <title>[io.pedestal/pedestal.service-tools &quot;0.5.10&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.service-tools/versions/0.5.10</link>
-    <description>Pedestal tools for service development</description>
-    <pubDate>Wed, 12 Jan 2022 16:36:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.service/versions/0.5.10</guid>
-    <title>[io.pedestal/pedestal.service &quot;0.5.10&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.service/versions/0.5.10</link>
-    <description>Pedestal Service</description>
-    <pubDate>Wed, 12 Jan 2022 16:36:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.route/versions/0.5.10</guid>
-    <title>[io.pedestal/pedestal.route &quot;0.5.10&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.route/versions/0.5.10</link>
-    <description>Pedestal route definition and router construction</description>
-    <pubDate>Wed, 12 Jan 2022 16:35:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.aws/versions/0.5.10</guid>
-    <title>[io.pedestal/pedestal.aws &quot;0.5.10&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.aws/versions/0.5.10</link>
-    <description>AWS utilities for running Pedestal services on AWS</description>
-    <pubDate>Wed, 12 Jan 2022 16:35:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.interceptor/versions/0.5.10</guid>
-    <title>[io.pedestal/pedestal.interceptor &quot;0.5.10&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.interceptor/versions/0.5.10</link>
-    <description>Pedestal interceptor chain and execution utilities</description>
-    <pubDate>Wed, 12 Jan 2022 16:35:31 +0000</pubDate>
   </item>
   </channel>
 </rss>
