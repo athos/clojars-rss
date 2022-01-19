@@ -1,5 +1,3 @@
-{:jar_name "kurosawa.web", :group_name "org.purefn", :version "2.1.25", :description "The Kurosawa web library.", :created 1641924344347}
-{:jar_name "kurosawa.core", :group_name "org.purefn", :version "2.1.25", :description "The root Kurosawa library.", :created 1641924354617}
 {:jar_name "kurosawa", :group_name "org.purefn", :version "2.1.25", :description "A catch-all project that brings in all Kurosawa libs.", :created 1641924368467}
 {:jar_name "etaoin-graal", :group_name "borkdude", :version "0.4.6-ae21d07", :description "Pure Clojure Webdriver protocol implementation.", :created 1641936412268}
 {:jar_name "lein-template.simple-web-app", :group_name "net.gered", :version "0.4.0", :description "Simple Clojure / ClojureScript web app project template.", :created 1641956627428}
@@ -254,3 +252,5 @@
 {:jar_name "lein-template.simple-web-site", :group_name "net.gered", :version "0.1.1", :description "Simple Clojure web site project template.", :created 1642550274238}
 {:jar_name "lein-template.simple-web-service", :group_name "net.gered", :version "0.2.2", :description "Simple Clojure web service project template.", :created 1642550355028}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.4.585", :description nil, :created 1642554474763}
+{:jar_name "expectations", :group_name "com.github.seancorfield", :version "2.0.999-SNAPSHOT", :description "A clojure.test-compatible version of the classic Expectations testing library.", :created 1642560958258}
+{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.2.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1642561178356}
