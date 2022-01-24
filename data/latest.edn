@@ -1,5 +1,3 @@
-{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1642371885194}
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1642371892694}
 {:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1642371900194}
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1642371907564}
 {:jar_name "typed.clj.malli", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Malli integration", :created 1642371914594}
@@ -254,3 +252,5 @@
 {:jar_name "system-lacinia", :group_name "net.clojars.luchiniatwork", :version "0.0.4", :description nil, :created 1642974049834}
 {:jar_name "eastwood", :group_name "jonase", :version "1.2.1", :description "A Clojure lint tool", :created 1642983268125}
 {:jar_name "re-frame-10x", :group_name "day8.re-frame", :version "1.2.2", :description "Become 10x more productive when developing and debugging re-frame applications.", :created 1642989076674}
+{:jar_name "lein-template", :group_name "re-frame", :version "2.4.3", :description "Leiningen template for a Reagent web app that implements the re-frame pattern.", :created 1642989976336}
+{:jar_name "coffi", :group_name "org.suskalo", :version "0.4.341", :description "A Foreign Function Interface in Clojure for JDK 17.", :created 1642990671020}
