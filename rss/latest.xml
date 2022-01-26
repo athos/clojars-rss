@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 26 Jan 2022 02:29:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Jan 2022 03:06:26 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.seancorfield/expectations/versions/2.0.999-SNAPSHOT</guid>
+    <title>[com.github.seancorfield/expectations &quot;2.0.999-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.seancorfield/expectations/versions/2.0.999-SNAPSHOT</link>
+    <description>A clojure.test-compatible version of the classic Expectations testing library.</description>
+    <pubDate>Wed, 26 Jan 2022 03:04:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/grpc-server/versions/2.0.6</guid>
+    <title>[io.github.protojure/grpc-server &quot;2.0.6&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/grpc-server/versions/2.0.6</link>
+    <description>GRPC server library for protoc-gen-clojure</description>
+    <pubDate>Wed, 26 Jan 2022 02:43:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/grpc-client/versions/2.0.6</guid>
+    <title>[io.github.protojure/grpc-client &quot;2.0.6&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/grpc-client/versions/2.0.6</link>
+    <description>GRPC client library for protoc-gen-clojure</description>
+    <pubDate>Wed, 26 Jan 2022 02:43:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/core/versions/2.0.6</guid>
+    <title>[io.github.protojure/core &quot;2.0.6&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/core/versions/2.0.6</link>
+    <description>Core protobuf and GRPC utilities for protojure</description>
+    <pubDate>Wed, 26 Jan 2022 02:42:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/io/versions/2.0.6</guid>
+    <title>[io.github.protojure/io &quot;2.0.6&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/io/versions/2.0.6</link>
+    <description>IO library to support io.github.protojure/core</description>
+    <pubDate>Wed, 26 Jan 2022 02:42:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/lib-suite/versions/0.0.1</guid>
+    <title>[io.github.protojure/lib-suite &quot;0.0.1&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/lib-suite/versions/0.0.1</link>
+    <description>Support libraries for protoc-gen-clojure, providing native Clojure support for Google Protocol Buffers and GRPC applications</description>
+    <pubDate>Wed, 26 Jan 2022 02:41:42 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/yetibot/versions/20220126.014847.e153f81</guid>
     <title>[yetibot &quot;20220126.014847.e153f81&quot;]</title>
@@ -1757,48 +1799,6 @@ weavejester&#39;s codox and upgraded to use flexmark-java instead of pegdown.</d
     <link>https://clojars.org/org.kipz/rpm-version-clj/versions/0.0.2</link>
     <description>Parse and compare rpm package versions in clojure</description>
     <pubDate>Wed, 19 Jan 2022 12:19:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.mokr/plug-utils/versions/0.1.0-SNAPSHOT</guid>
-    <title>[net.clojars.mokr/plug-utils &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/net.clojars.mokr/plug-utils/versions/0.1.0-SNAPSHOT</link>
-    <description>Small util functions for clj and/or cljs</description>
-    <pubDate>Wed, 19 Jan 2022 12:14:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint/versions/0.2.53</guid>
-    <title>[exoscale/blueprint &quot;0.2.53&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint/versions/0.2.53</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Wed, 19 Jan 2022 08:35:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-reporter/versions/0.2.53</guid>
-    <title>[exoscale/blueprint-reporter &quot;0.2.53&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-reporter/versions/0.2.53</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Wed, 19 Jan 2022 08:35:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-server/versions/0.2.53</guid>
-    <title>[exoscale/blueprint-server &quot;0.2.53&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-server/versions/0.2.53</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Wed, 19 Jan 2022 08:34:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-client/versions/0.2.53</guid>
-    <title>[exoscale/blueprint-client &quot;0.2.53&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-client/versions/0.2.53</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Wed, 19 Jan 2022 08:34:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-handler/versions/0.2.53</guid>
-    <title>[exoscale/blueprint-handler &quot;0.2.53&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-handler/versions/0.2.53</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Wed, 19 Jan 2022 08:34:34 +0000</pubDate>
   </item>
   </channel>
 </rss>
