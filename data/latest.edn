@@ -1,17 +1,3 @@
-{:jar_name "enrich-classpath", :group_name "mx.cider", :version "1.8.0", :description "Makes available .jars with Java sources and javadocs for a given project.", :created 1643354892414}
-{:jar_name "tools.deps.enrich-classpath", :group_name "mx.cider", :version "1.8.0", :description "mx.cider/enrich-classpath with dependencies specific to tools.deps usage.", :created 1643354901914}
-{:jar_name "core.async-helpers", :group_name "jtk-dvlp", :version "3.0.1", :description "Helper pack for core.async", :created 1643361995892}
-{:jar_name "ulid", :group_name "org.clojars.daaku", :version "0.1.0", :description "Generate and parse ULIDs.", :created 1643370727917}
-{:jar_name "sqjson", :group_name "org.clojars.daaku", :version "0.4.0", :description "Treat SQLite as a JSON DB.", :created 1643371209653}
-{:jar_name "reveal", :group_name "vlaaad", :version "1.3.265", :description nil, :created 1643378002314}
-{:jar_name "reveal-pro", :group_name "dev.vlaaad", :version "1.3.330", :description nil, :created 1643378260232}
-{:jar_name "re-graph", :group_name "re-graph", :version "0.1.17-SNAPSHOT", :description "GraphQL client for re-frame applications", :created 1643386114963}
-{:jar_name "re-graph.clj-http-gniazdo", :group_name "re-graph.clj-http-gniazdo", :version "0.1.17-SNAPSHOT", :description "", :created 1643386128213}
-{:jar_name "re-graph.hato", :group_name "re-graph.hato", :version "0.1.17-SNAPSHOT", :description "", :created 1643386140223}
-{:jar_name "kit-generator", :group_name "io.github.kit-clj", :version "0.1.3", :description nil, :created 1643390128918}
-{:jar_name "lein-template", :group_name "io.github.kit-clj", :version "0.1.8", :description nil, :created 1643391073000}
-{:jar_name "cljc-misc", :group_name "com.wsscode", :version "2022.01.28", :description "Collection of general utils for Clojure and Clojurescript.", :created 1643393112492}
-{:jar_name "yetibot", :group_name "yetibot", :version "20220128.185659.6aacb7a", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1643396232905}
 {:jar_name "sqjson", :group_name "org.clojars.daaku", :version "0.5.0", :description "Treat SQLite as a JSON DB.", :created 1643397667323}
 {:jar_name "vault-clj", :group_name "amperity", :version "1.1.0", :description "Clojure client for the Vault secret management system.", :created 1643406820153}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "4.9.2", :description "", :created 1643407278579}
@@ -254,3 +240,17 @@
 {:jar_name "relic", :group_name "com.wotbrew", :version "0.1.5", :description "Functional relational programming for Clojure/Script", :created 1644317041911}
 {:jar_name "babashka", :group_name "babashka", :version "0.7.5-SNAPSHOT", :description "babashka", :created 1644317179910}
 {:jar_name "pronto", :group_name "com.appsflyer", :version "2.0.11", :description "clojure support for protocol buffers", :created 1644317259640}
+{:jar_name "metrics-core", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644319958236}
+{:jar_name "common", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644319968836}
+{:jar_name "common-test", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644319981536}
+{:jar_name "ghostwheel-stub", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644319993446}
+{:jar_name "local-node", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320005696}
+{:jar_name "auth", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320014216}
+{:jar_name "basic-auth", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320023386}
+{:jar_name "global-domain", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320031926}
+{:jar_name "context-domain", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320041336}
+{:jar_name "agm-domain", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320050715}
+{:jar_name "activity-domain", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320059605}
+{:jar_name "bus-domain", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320068045}
+{:jar_name "metrics-domain", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320077315}
+{:jar_name "enviable", :group_name "johncowie", :version "0.1.9", :description "A user-friendly and composable way of configuring clojure apps", :created 1644320800529}
