@@ -1,20 +1,3 @@
-{:jar_name "lein-template", :group_name "holy-lambda", :version "0.6.8", :description "Template for holy lambda micro framework", :created 1644086677917}
-{:jar_name "common-clj", :group_name "net.clojars.macielti", :version "9.13.9", :description "Just common Clojure code that I use across projects", :created 1644087169893}
-{:jar_name "podwajacz", :group_name "net.clojars.bsielski", :version "0.2.0-SNAPSHOT", :description "description", :created 1644087623559}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "6.055", :description "Clojure high performance data processing system", :created 1644087783808}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "6.056", :description "Clojure high performance data processing system", :created 1644089933709}
-{:jar_name "konserve-fire", :group_name "alekcz", :version "0.4.0", :description "A Firebase backend for konserve.", :created 1644094955606}
-{:jar_name "datahike-firebase", :group_name "alekcz", :version "0.2.0", :description "Datahike with Firebase as data storage", :created 1644096444784}
-{:jar_name "firestream", :group_name "alekcz", :version "2.0.4", :description "firestream: kafkaesque streams built on firebase", :created 1644097109208}
-{:jar_name "mxweb", :group_name "tiltontec", :version "0.2.0-SNAPSHOT", :description "A Web un-Framework for the Matrix (dataflow library)", :created 1644100863416}
-{:jar_name "runner", :group_name "io.github.ajchemist", :version "2022.37.27688", :description nil, :created 1644133295929}
-{:jar_name "runner", :group_name "io.github.ajchemist", :version "2022.37.30248", :description nil, :created 1644135861887}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.17.0", :description "CLJS development tools", :created 1644135864917}
-{:jar_name "mxxhr", :group_name "tiltontec", :version "0.1.5-SNAPSHOT", :description "XMLHttpRequest for the Matrix (dataflow library)", :created 1644153026680}
-{:jar_name "ods-weekly", :group_name "com.eldrix", :version "0.1.6", :description nil, :created 1644164680864}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "6.057", :description "Clojure high performance data processing system", :created 1644169812007}
-{:jar_name "ods-weekly", :group_name "com.eldrix", :version "0.1.10", :description nil, :created 1644177456032}
-{:jar_name "datahike-firebase", :group_name "alekcz", :version "0.2.1", :description "Datahike with Firebase as data storage", :created 1644180479626}
 {:jar_name "cascade", :group_name "town.lilac", :version "1.2.0", :description nil, :created 1644192925400}
 {:jar_name "salutem.core", :group_name "io.logicblocks", :version "0.1.8-RC4", :description "A health check library for sync / async health checks.", :created 1644198791560}
 {:jar_name "salutem.check-fns.data-source", :group_name "io.logicblocks", :version "0.1.8-RC4", :description "A data source check function for salutem.", :created 1644198799880}
@@ -254,3 +237,20 @@
 {:jar_name "sendandi", :group_name "io.replikativ", :version "0.2.14", :description nil, :created 1644849045213}
 {:jar_name "utils", :group_name "emptyone", :version "1.0.9", :description "Clojure useful utils", :created 1644850233018}
 {:jar_name "babashka", :group_name "babashka", :version "0.7.5-SNAPSHOT", :description "babashka", :created 1644851020164}
+{:jar_name "utils", :group_name "emptyone", :version "1.0.10", :description "Clojure useful utils", :created 1644852838116}
+{:jar_name "malli", :group_name "metosin", :version "0.8.2", :description nil, :created 1644853537762}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Snappy data-driven router for Clojure(Script)", :created 1644853991230}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Snappy data-driven router for Clojure(Script)", :created 1644854011320}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit: clojure.spec coercion", :created 1644854030460}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit: Malli coercion", :created 1644854051830}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit: Plumatic Schema coercion", :created 1644854071050}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit: Ring routing", :created 1644854090759}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit, common middleware bundled", :created 1644854110829}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit: HTTP routing with interceptors", :created 1644854129679}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit, common interceptors bundled", :created 1644854149099}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit: Swagger-support", :created 1644854167579}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit: Swagger-ui support", :created 1644854186579}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit: Clojurescript frontend routing core", :created 1644854205939}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit: Sieppari Interceptors", :created 1644854223849}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit + Pedestal Integration", :created 1644854244559}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Snappy data-driven router for Clojure(Script)", :created 1644854274328}
