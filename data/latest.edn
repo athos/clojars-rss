@@ -1,26 +1,3 @@
-{:jar_name "tupelo", :group_name "tupelo", :version "22.02.03c", :description "Tupelo:  Clojure With A Spoonful of Honey", :created 1644258888741}
-{:jar_name "corbihttp", :group_name "fr.mcorbin", :version "0.27.0", :description "Shared namespaces for my http projects", :created 1644268526129}
-{:jar_name "refactor-nrepl", :group_name "refactor-nrepl", :version "3.3.0", :description "nREPL middleware to support editor-agnostic refactoring", :created 1644277707701}
-{:jar_name "user.ring", :group_name "io.github.ajchemist", :version "2022.39.7172", :description nil, :created 1644285581053}
-{:jar_name "runner", :group_name "io.github.ajchemist", :version "2022.39.7967", :description nil, :created 1644286376546}
-{:jar_name "runner", :group_name "io.github.ajchemist", :version "2022.39.12606", :description nil, :created 1644291014936}
-{:jar_name "snitch", :group_name "org.clojars.abhinav", :version "0.0.2", :description "Tools to gain insight into the data inside functions.", :created 1644291892978}
-{:jar_name "multipaper-api", :group_name "com.github.puregero", :version "1.18.1-R0.1-SNAPSHOT", :description nil, :created 1644294964096}
-{:jar_name "multilib", :group_name "com.github.puregero", :version "1.1.0", :description "Plugin Library for interfacing with MultiPaper Specific API's with graceful fallback that maintains Spigot Compatibility, such as External Player Detection.", :created 1644295483607}
-{:jar_name "lein-template", :group_name "io.github.kit-clj", :version "0.1.11", :description nil, :created 1644297945936}
-{:jar_name "refactor-nrepl", :group_name "refactor-nrepl", :version "3.3.1", :description "nREPL middleware to support editor-agnostic refactoring", :created 1644307120647}
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.4.1481", :description "A durable datalog implementation adaptable for distribution.", :created 1644312513061}
-{:jar_name "re-graph", :group_name "re-graph", :version "0.1.17", :description "GraphQL client for re-frame applications", :created 1644316061510}
-{:jar_name "re-graph.clj-http-gniazdo", :group_name "re-graph.clj-http-gniazdo", :version "0.1.17", :description "", :created 1644316076570}
-{:jar_name "re-graph.hato", :group_name "re-graph.hato", :version "0.1.17", :description "", :created 1644316090860}
-{:jar_name "relic", :group_name "com.wotbrew", :version "0.1.5", :description "Functional relational programming for Clojure/Script", :created 1644317041911}
-{:jar_name "pronto", :group_name "com.appsflyer", :version "2.0.11", :description "clojure support for protocol buffers", :created 1644317259640}
-{:jar_name "metrics-core", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644319958236}
-{:jar_name "common", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644319968836}
-{:jar_name "common-test", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644319981536}
-{:jar_name "ghostwheel-stub", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644319993446}
-{:jar_name "local-node", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320005696}
-{:jar_name "auth", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320014216}
 {:jar_name "basic-auth", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320023386}
 {:jar_name "global-domain", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320031926}
 {:jar_name "context-domain", :group_name "com.tick42.gateway", :version "3.0.15-SNAPSHOT", :description "", :created 1644320041336}
@@ -254,3 +231,26 @@
 {:jar_name "tools.repository", :group_name "org.soulspace.clj", :version "0.3.3", :description "The tools.repository component provides tools to handle (maven) repositories and artifacts.", :created 1644927065947}
 {:jar_name "tools.repository", :group_name "org.soulspace.clj", :version "0.3.4", :description "The tools.repository component provides tools to handle (maven) repositories and artifacts.", :created 1644928072459}
 {:jar_name "riveted", :group_name "riveted", :version "0.2.0", :description "A Clojure library for the fast processing of XML with VTD-XML.", :created 1644931017137}
+{:jar_name "pact", :group_name "com.github.igrishaev", :version "0.1.0", :description "Chaining values with ease", :created 1644935590364}
+{:jar_name "hermes", :group_name "com.eldrix", :version "0.8.360", :description nil, :created 1644936612239}
+{:jar_name "gregor", :group_name "luhhujbb", :version "1.2.0", :description "Lightweight Clojure bindings for Kafka", :created 1644936926507}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.16", :description "Snappy data-driven router for Clojure(Script)", :created 1644937084856}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.16", :description "Snappy data-driven router for Clojure(Script)", :created 1644937104216}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.16", :description "Reitit: clojure.spec coercion", :created 1644937122866}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.16", :description "Reitit: Malli coercion", :created 1644937140566}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.16", :description "Reitit: Plumatic Schema coercion", :created 1644937158396}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.16", :description "Reitit: Ring routing", :created 1644937176906}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.16", :description "Reitit, common middleware bundled", :created 1644937196546}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.16", :description "Reitit: HTTP routing with interceptors", :created 1644937216406}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.16", :description "Reitit, common interceptors bundled", :created 1644937237085}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.16", :description "Reitit: Swagger-support", :created 1644937254855}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.16", :description "Reitit: Swagger-ui support", :created 1644937272975}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.16", :description "Reitit: Clojurescript frontend routing core", :created 1644937291585}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.16", :description "Reitit: Sieppari Interceptors", :created 1644937308025}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.16", :description "Reitit + Pedestal Integration", :created 1644937329595}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.16", :description "Snappy data-driven router for Clojure(Script)", :created 1644937361085}
+{:jar_name "dev.clojurephant.clojure-base.gradle.plugin", :group_name "dev.clojurephant.clojure-base", :version "0.7.0-alpha.1", :description nil, :created 1644937413365}
+{:jar_name "clojurephant-plugin", :group_name "dev.clojurephant", :version "0.7.0-alpha.1", :description nil, :created 1644937431214}
+{:jar_name "clj-template", :group_name "clojurephant-clj-app", :version "0.7.0-alpha.1", :description nil, :created 1644937445764}
+{:jar_name "clj-template", :group_name "clojurephant-clj-lib", :version "0.7.0-alpha.1", :description nil, :created 1644937454224}
+{:jar_name "clj-template", :group_name "clojurephant-cljs-app", :version "0.7.0-alpha.1", :description nil, :created 1644937462734}

@@ -1,26 +1,3 @@
-{:jar_name "fulcro-native", :group_name "com.fulcrologic", :version "0.0.10", :description "A small library of helpers for writing React Native with Fulcro", :created 1643848634832}
-{:jar_name "fsm", :group_name "com.github.brianium", :version "1.0.6", :description nil, :created 1643848708197}
-{:jar_name "fulcro-rad", :group_name "com.fulcrologic", :version "1.1.5", :description "A library for rapid application development in Fulcro", :created 1643849060366}
-{:jar_name "fulcro-rad-datomic", :group_name "com.fulcrologic", :version "1.1.0-RC2", :description "A Datomic database driver for Fulcro RAD.", :created 1643849204905}
-{:jar_name "name-grabber", :group_name "net.clojars.wenxijuji", :version "0.1.0", :description "Takes a string input and returns just the names, first or last.", :created 1643851159729}
-{:jar_name "name-grabber", :group_name "org.clojars.cmwxyz", :version "0.1.0", :description "Takes a string input and returns just the names, first or last.", :created 1643852455498}
-{:jar_name "clogram", :group_name "dev.meinside", :version "0.10.0", :description "A Telegram Bot Library for Clojure", :created 1643853424919}
-{:jar_name "sqjson", :group_name "org.clojars.daaku", :version "0.7.0", :description "Treat SQLite as a JSON DB.", :created 1643869725332}
-{:jar_name "membrane", :group_name "com.phronemophobic", :version "0.9.31.8-beta", :description "A platform agnostic library for creating user interfaces", :created 1643869899940}
-{:jar_name "durable-queue", :group_name "helpshift", :version "0.1.7", :description "a in-process task-queue that is backed by disk.", :created 1643881237854}
-{:jar_name "common-clj", :group_name "net.clojars.macielti", :version "6.12.7", :description "Just common Clojure code that I use across projects", :created 1643885200560}
-{:jar_name "promesa", :group_name "funcool", :version "6.1.431", :description "Promise library for Clojure(Script)", :created 1643886549598}
-{:jar_name "utils", :group_name "emptyone", :version "1.0.8", :description "Clojure useful utils", :created 1643886624048}
-{:jar_name "dumdom", :group_name "cjohansen", :version "2022.02.03", :description "Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.", :created 1643893445540}
-{:jar_name "fress", :group_name "fress", :version "0.3.3", :description "Fressian for clojure(script) and WASM", :created 1643902733420}
-{:jar_name "framework", :group_name "com.flexiana", :version "0.4.0-rc1", :description "Framework", :created 1643902956139}
-{:jar_name "commons", :group_name "lupapiste", :version "0.12.2", :description "Common domain code and resources for lupapiste applications", :created 1643907501940}
-{:jar_name "full.metrics", :group_name "fullcontact", :version "0.13.0", :description "Clojure application metrics and monitoring sugar", :created 1643909780470}
-{:jar_name "matrix-viz", :group_name "org.clojars.lambdatronic", :version "2022.02.03", :description nil, :created 1643911059409}
-{:jar_name "tupelo", :group_name "tupelo", :version "22.02.03a", :description "Tupelo:  Clojure With A Spoonful of Honey", :created 1643911726844}
-{:jar_name "lein-template.discord-http-bot", :group_name "com.github.johnnyjayjay", :version "0.1.0", :description "A template for HTTP-based Discord bots written in Clojure", :created 1643920011675}
-{:jar_name "datascript", :group_name "datascript", :version "1.3.9", :description "An implementation of Datomic in-memory database and Datalog query engine in ClojureScript", :created 1643920451936}
-{:jar_name "tupelo", :group_name "tupelo", :version "22.02.03b", :description "Tupelo:  Clojure With A Spoonful of Honey", :created 1643924178617}
 {:jar_name "libpython-clj", :group_name "clj-python", :version "2.017", :description nil, :created 1643928079953}
 {:jar_name "tservice-core", :group_name "com.github.yjcyxky", :version "0.2.0", :description "A plugin system for managing several types of plugins, such as deploying http/async/dag task.", :created 1643943825744}
 {:jar_name "hystrix-configurator", :group_name "com.hystrix", :version "0.0.9", :description nil, :created 1643976399398}
@@ -254,3 +231,26 @@
 {:jar_name "tools.repository", :group_name "org.soulspace.clj", :version "0.3.3", :description "The tools.repository component provides tools to handle (maven) repositories and artifacts.", :created 1644927065947}
 {:jar_name "tools.repository", :group_name "org.soulspace.clj", :version "0.3.4", :description "The tools.repository component provides tools to handle (maven) repositories and artifacts.", :created 1644928072459}
 {:jar_name "riveted", :group_name "riveted", :version "0.2.0", :description "A Clojure library for the fast processing of XML with VTD-XML.", :created 1644931017137}
+{:jar_name "pact", :group_name "com.github.igrishaev", :version "0.1.0", :description "Chaining values with ease", :created 1644935590364}
+{:jar_name "hermes", :group_name "com.eldrix", :version "0.8.360", :description nil, :created 1644936612239}
+{:jar_name "gregor", :group_name "luhhujbb", :version "1.2.0", :description "Lightweight Clojure bindings for Kafka", :created 1644936926507}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.16", :description "Snappy data-driven router for Clojure(Script)", :created 1644937084856}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.16", :description "Snappy data-driven router for Clojure(Script)", :created 1644937104216}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.16", :description "Reitit: clojure.spec coercion", :created 1644937122866}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.16", :description "Reitit: Malli coercion", :created 1644937140566}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.16", :description "Reitit: Plumatic Schema coercion", :created 1644937158396}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.16", :description "Reitit: Ring routing", :created 1644937176906}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.16", :description "Reitit, common middleware bundled", :created 1644937196546}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.16", :description "Reitit: HTTP routing with interceptors", :created 1644937216406}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.16", :description "Reitit, common interceptors bundled", :created 1644937237085}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.16", :description "Reitit: Swagger-support", :created 1644937254855}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.16", :description "Reitit: Swagger-ui support", :created 1644937272975}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.16", :description "Reitit: Clojurescript frontend routing core", :created 1644937291585}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.16", :description "Reitit: Sieppari Interceptors", :created 1644937308025}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.16", :description "Reitit + Pedestal Integration", :created 1644937329595}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.16", :description "Snappy data-driven router for Clojure(Script)", :created 1644937361085}
+{:jar_name "dev.clojurephant.clojure-base.gradle.plugin", :group_name "dev.clojurephant.clojure-base", :version "0.7.0-alpha.1", :description nil, :created 1644937413365}
+{:jar_name "clojurephant-plugin", :group_name "dev.clojurephant", :version "0.7.0-alpha.1", :description nil, :created 1644937431214}
+{:jar_name "clj-template", :group_name "clojurephant-clj-app", :version "0.7.0-alpha.1", :description nil, :created 1644937445764}
+{:jar_name "clj-template", :group_name "clojurephant-clj-lib", :version "0.7.0-alpha.1", :description nil, :created 1644937454224}
+{:jar_name "clj-template", :group_name "clojurephant-cljs-app", :version "0.7.0-alpha.1", :description nil, :created 1644937462734}
