@@ -1,4 +1,3 @@
-{:jar_name "bus-domain", :group_name "com.tick42.gateway", :version "3.0.15", :description "", :created 1644405116742}
 {:jar_name "activity-domain", :group_name "com.tick42.gateway", :version "3.0.15", :description "", :created 1644405125552}
 {:jar_name "maja", :group_name "com.lambdaschmiede", :version "0.1.2", :description "A library to integrate honeycomb.io with Clojure applications", :created 1644407934669}
 {:jar_name "reacl-c", :group_name "de.active-group", :version "0.10.7", :description "Compositional and declarative user interface library for Clojure and Clojurescript.", :created 1644416107000}
@@ -162,7 +161,6 @@
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1644889629933}
 {:jar_name "clash", :group_name "clash", :version "1.5.3", :description "A clojure library that applies customizable structures to text files\n   and quick analysis via filter groups, maps, etc. This is useful for quickly searchin\n   or indexing large text files before spending proportionally more effort on Hadoop or\n   Spark.", :created 1644890022175}
 {:jar_name "cljwebauthn", :group_name "me.grison", :version "0.1.3", :description nil, :created 1644918141473}
-{:jar_name "sci", :group_name "org.babashka", :version "0.3.1-SNAPSHOT", :description "Small Clojure Interpreter", :created 1644918471201}
 {:jar_name "tools.repository", :group_name "org.soulspace.clj", :version "0.3.2", :description "The tools.repository component provides tools to handle (maven) repositories and artifacts.", :created 1644922290732}
 {:jar_name "time-literals", :group_name "time-literals", :version "RENAMED", :description "Clojure(Script) tagged literals for jsr-310 entities", :created 1644923524385}
 {:jar_name "time-literals", :group_name "com.widdindustries", :version "0.1.6", :description nil, :created 1644923586625}
@@ -213,7 +211,6 @@
 {:jar_name "tools.deps.enrich-classpath", :group_name "mx.cider", :version "1.9.0", :description "mx.cider/enrich-classpath with dependencies specific to tools.deps usage.", :created 1644996631146}
 {:jar_name "datahike", :group_name "io.replikativ", :version "0.4.1483", :description "A durable datalog implementation adaptable for distribution.", :created 1645000744649}
 {:jar_name "opencpu-clj", :group_name "opencpu-clj", :version "0.3.1", :description "OpenCPU-clj is a Clojure library for using the OpenCPU API", :created 1645006699798}
-{:jar_name "babashka", :group_name "babashka", :version "0.7.6-SNAPSHOT", :description "babashka", :created 1645007306006}
 {:jar_name "clj-paginate", :group_name "com.github.ivarref", :version "0.2.51", :description nil, :created 1645008125801}
 {:jar_name "funnel-client", :group_name "com.widdindustries", :version "0.0.18-1", :description "Clojure and ClojureScript client libraries for Funnel", :created 1645009644701}
 {:jar_name "commons", :group_name "lupapiste", :version "0.12.5", :description "Common domain code and resources for lupapiste applications", :created 1645010373367}
@@ -254,3 +251,6 @@
 {:jar_name "broker", :group_name "com.fbeyer", :version "0.2.12", :description "Simple asynchronous in-process event broker for Clojure.", :created 1645088327945}
 {:jar_name "broker", :group_name "com.fbeyer", :version "0.2.13", :description "Simple asynchronous in-process event broker for Clojure.", :created 1645089173069}
 {:jar_name "babashka.nrepl", :group_name "babashka", :version "0.0.6-SNAPSHOT", :description "babashka nREPL module", :created 1645091429111}
+{:jar_name "commons", :group_name "lupapiste", :version "0.12.7", :description "Common domain code and resources for lupapiste applications", :created 1645094397287}
+{:jar_name "sci", :group_name "org.babashka", :version "0.3.1-SNAPSHOT", :description "Small Clojure Interpreter", :created 1645095178011}
+{:jar_name "babashka", :group_name "babashka", :version "0.7.6-SNAPSHOT", :description "babashka", :created 1645095648657}
