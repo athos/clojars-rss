@@ -1,6 +1,3 @@
-{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit, common middleware bundled", :created 1644854110829}
-{:jar_name "reitit-http", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit: HTTP routing with interceptors", :created 1644854129679}
-{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit, common interceptors bundled", :created 1644854149099}
 {:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit: Swagger-support", :created 1644854167579}
 {:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit: Swagger-ui support", :created 1644854186579}
 {:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.16-SNAPSHOT", :description "Reitit: Clojurescript frontend routing core", :created 1644854205939}
@@ -254,3 +251,6 @@
 {:jar_name "antq", :group_name "com.github.liquidz", :version "1.5.1", :description "Point out your outdated dependencies", :created 1645566217273}
 {:jar_name "antq", :group_name "antq", :version "1.5.1", :description "Point out your outdated dependencies", :created 1645566228733}
 {:jar_name "fress", :group_name "fress", :version "0.4.0", :description "Fressian for clojure(script) and WASM", :created 1645566812530}
+{:jar_name "blah", :group_name "com.github.brianium", :version "1.0.5", :description nil, :created 1645568775220}
+{:jar_name "broker", :group_name "com.fbeyer", :version "0.2.25", :description "Simple asynchronous in-process event broker for Clojure.", :created 1645569268567}
+{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.4.591", :description nil, :created 1645570644180}
