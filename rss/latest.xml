@@ -4,7 +4,112 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 27 Feb 2022 12:01:25 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Feb 2022 13:03:36 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.fbeyer/broker/versions/0.3.35</guid>
+    <title>[com.fbeyer/broker &quot;0.3.35&quot;]</title>
+    <link>https://clojars.org/com.fbeyer/broker/versions/0.3.35</link>
+    <description>Simple asynchronous in-process event broker for Clojure.</description>
+    <pubDate>Sun, 27 Feb 2022 13:02:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-zipkin &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry Zipkin exporter</description>
+    <pubDate>Sun, 27 Feb 2022 12:21:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp-http-trace/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-otlp-http-trace &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp-http-trace/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry Protocol HTTP trace exporter</description>
+    <pubDate>Sun, 27 Feb 2022 12:21:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp-grpc-trace/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-otlp-grpc-trace &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp-grpc-trace/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry Protocol gRPC trace exporter</description>
+    <pubDate>Sun, 27 Feb 2022 12:21:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging-otlp &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry logging OTLP exporter</description>
+    <pubDate>Sun, 27 Feb 2022 12:21:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry logging exporter</description>
+    <pubDate>Sun, 27 Feb 2022 12:21:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-thrift/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-jaeger-thrift &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-thrift/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry Jaeger Thrift exporter</description>
+    <pubDate>Sun, 27 Feb 2022 12:21:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-grpc/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-jaeger-grpc &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-grpc/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry Jaeger gRPC exporter</description>
+    <pubDate>Sun, 27 Feb 2022 12:21:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-extension-trace-propagators &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry extension trace propagators</description>
+    <pubDate>Sun, 27 Feb 2022 12:21:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-aws/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-extension-aws &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-aws/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry API extensions for AWS</description>
+    <pubDate>Sun, 27 Feb 2022 12:21:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-resources/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-resources &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-resources/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry SDK resource providers</description>
+    <pubDate>Sun, 27 Feb 2022 12:20:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry Jaeger remote sampler</description>
+    <pubDate>Sun, 27 Feb 2022 12:20:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-aws/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-aws &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-aws/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry SDK AWS instrumentation support</description>
+    <pubDate>Sun, 27 Feb 2022 12:20:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry SDK</description>
+    <pubDate>Sun, 27 Feb 2022 12:20:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-api &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.1.0-SNAPSHOT</link>
+    <description>Clojure wrapper of OpenTelemetry API</description>
+    <pubDate>Sun, 27 Feb 2022 12:20:31 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/babashka/versions/0.7.7-SNAPSHOT</guid>
     <title>[babashka &quot;0.7.7-SNAPSHOT&quot;]</title>
@@ -39,104 +144,6 @@
     <link>https://clojars.org/techascent/tech.ml.dataset/versions/6.069</link>
     <description>Clojure high performance data processing system</description>
     <pubDate>Sat, 26 Feb 2022 20:39:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-exporter-zipkin &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry Zipkin exporter</description>
-    <pubDate>Sat, 26 Feb 2022 20:12:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp-http-trace/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-exporter-otlp-http-trace &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp-http-trace/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry Protocol HTTP trace exporter</description>
-    <pubDate>Sat, 26 Feb 2022 20:12:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp-grpc-trace/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-exporter-otlp-grpc-trace &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp-grpc-trace/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry Protocol gRPC trace exporter</description>
-    <pubDate>Sat, 26 Feb 2022 20:12:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-exporter-logging-otlp &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry logging OTLP exporter</description>
-    <pubDate>Sat, 26 Feb 2022 20:12:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-exporter-logging &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry logging exporter</description>
-    <pubDate>Sat, 26 Feb 2022 20:11:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-thrift/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-exporter-jaeger-thrift &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-thrift/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry Jaeger Thrift exporter</description>
-    <pubDate>Sat, 26 Feb 2022 20:11:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-grpc/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-exporter-jaeger-grpc &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-grpc/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry Jaeger gRPC exporter</description>
-    <pubDate>Sat, 26 Feb 2022 20:11:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-extension-trace-propagators &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry extension trace propagators</description>
-    <pubDate>Sat, 26 Feb 2022 20:11:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-aws/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-extension-aws &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-aws/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry API extensions for AWS</description>
-    <pubDate>Sat, 26 Feb 2022 20:11:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-resources/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-resources &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-resources/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry SDK resource providers</description>
-    <pubDate>Sat, 26 Feb 2022 20:11:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry Jaeger remote sampler</description>
-    <pubDate>Sat, 26 Feb 2022 20:11:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-aws/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-aws &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-aws/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry SDK AWS instrumentation support</description>
-    <pubDate>Sat, 26 Feb 2022 20:11:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry SDK</description>
-    <pubDate>Sat, 26 Feb 2022 20:11:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-api &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.1.0-SNAPSHOT</link>
-    <description>Clojure wrapper of OpenTelemetry API</description>
-    <pubDate>Sat, 26 Feb 2022 20:10:56 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.stuartsierra/component/versions/1.1.0</guid>
@@ -1789,13 +1796,6 @@
     <link>https://clojars.org/com.eldrix/nhspd/versions/1.1.34</link>
     <description></description>
     <pubDate>Fri, 18 Feb 2022 08:47:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.rorokimdim/pp-grid/versions/0.1.4</guid>
-    <title>[org.clojars.rorokimdim/pp-grid &quot;0.1.4&quot;]</title>
-    <link>https://clojars.org/org.clojars.rorokimdim/pp-grid/versions/0.1.4</link>
-    <description>A clojure library for constructing formatted text.</description>
-    <pubDate>Fri, 18 Feb 2022 05:10:03 +0000</pubDate>
   </item>
   </channel>
 </rss>
