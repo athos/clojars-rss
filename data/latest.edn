@@ -1,7 +1,3 @@
-{:jar_name "pbr", :group_name "com.github.pmonks", :version "2.0.186", :description "Peter's Build Resources for Clojure tools.build projects.", :created 1645504543037}
-{:jar_name "discljord-utils", :group_name "com.github.pmonks", :version "1.0.67", :description "Common utilities on top of the discljord library.", :created 1645506078002}
-{:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v1.4.0", :description "A client library for Vald.", :created 1645506980657}
-{:jar_name "pp-grid", :group_name "org.clojars.rorokimdim", :version "0.1.11", :description "A clojure library for constructing formatted text.", :created 1645507329895}
 {:jar_name "promesa", :group_name "funcool", :version "7.0.443", :description "Promise library for Clojure(Script)", :created 1645518444247}
 {:jar_name "clods", :group_name "com.eldrix", :version "1.1.178", :description nil, :created 1645520595722}
 {:jar_name "useful", :group_name "com.timezynk", :version "1.15.0", :description "Useful functions", :created 1645523485376}
@@ -254,3 +250,7 @@
 {:jar_name "fastmath", :group_name "generateme", :version "2.1.7-SNAPSHOT", :description "Fast and primitive math library", :created 1646236668356}
 {:jar_name "clojure2d", :group_name "clojure2d", :version "1.4.4-SNAPSHOT", :description "Creative coding / glitch library backed by Java2D", :created 1646236696796}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.02.10-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1646239250853}
+{:jar_name "io", :group_name "io.github.protojure", :version "2.0.9", :description "IO library to support io.github.protojure/core", :created 1646243855319}
+{:jar_name "core", :group_name "io.github.protojure", :version "2.0.9", :description "Core protobuf and GRPC utilities for protojure", :created 1646243882499}
+{:jar_name "grpc-client", :group_name "io.github.protojure", :version "2.0.9", :description "GRPC client library for protoc-gen-clojure", :created 1646243907269}
+{:jar_name "grpc-server", :group_name "io.github.protojure", :version "2.0.9", :description "GRPC server library for protoc-gen-clojure", :created 1646243930459}
