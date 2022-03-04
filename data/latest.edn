@@ -1,5 +1,3 @@
-{:jar_name "clojure-lsp-standalone", :group_name "com.github.clojure-lsp", :version "2022.02.23-12.12.12", :description nil, :created 1645624371249}
-{:jar_name "lein-clojure-lsp", :group_name "com.github.clojure-lsp", :version "1.2.3", :description "Lein plugin to run clojure-lsp features via API.", :created 1645624443939}
 {:jar_name "uberdeps", :group_name "uberdeps", :version "1.1.3", :description "Uberjar builder for deps.edn", :created 1645628398172}
 {:jar_name "oidc-client-ts", :group_name "io.github.cljsjs", :version "2.0.1-0", :description "OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications", :created 1645628811280}
 {:jar_name "lein-template", :group_name "io.github.kit-clj", :version "0.1.12", :description nil, :created 1645629287076}
@@ -93,21 +91,7 @@
 {:jar_name "bwtools.cli", :group_name "haus.clispios", :version "0.3.11", :description "Command line arguments library.", :created 1645834942906}
 {:jar_name "dialog", :group_name "com.amperity", :version "0.3.1", :description "Logging library for integration with Ken and various outputs.", :created 1645835510286}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.186", :description nil, :created 1645838121844}
-{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure", :created 1645841311044}
-{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1645841317934}
-{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1645841324134}
-{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1645841330364}
-{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1645841336924}
-{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type-like specs.", :created 1645841344194}
-{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1645841350264}
-{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "FIXME", :created 1645841356444}
-{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1645841362574}
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1645841369154}
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1645841375314}
 {:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1645841381634}
-{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1645841388114}
-{:jar_name "typed.clj.malli", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Malli integration", :created 1645841394384}
-{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1645841400494}
 {:jar_name "common-clj", :group_name "net.clojars.macielti", :version "9.14.12", :description "Just common Clojure code that I use across projects", :created 1645854016944}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.5.31", :description "A simple, fast and versatile Datalog database", :created 1645854448332}
 {:jar_name "datalevin-native", :group_name "org.clojars.huahaiy", :version "0.5.31", :description "Datalevin GraalVM native image and command line tool", :created 1645854482872}
@@ -254,3 +238,19 @@
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.4.592", :description nil, :created 1646350675172}
 {:jar_name "ui-repl", :group_name "org.pinkgorilla", :version "0.0.39", :description nil, :created 1646350968400}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.494", :description nil, :created 1646352024714}
+{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.494", :description nil, :created 1646352347315}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure", :created 1646353910730}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1646353918986}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1646353926411}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1646353934151}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1646353941614}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type-like specs.", :created 1646353949401}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1646353956974}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "FIXME", :created 1646353964473}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1646353972031}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1646353979787}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1646353987287}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1646354002268}
+{:jar_name "typed.clj.malli", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Malli integration", :created 1646354009803}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.20-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1646354017190}
+{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.4.593", :description nil, :created 1646356811005}
