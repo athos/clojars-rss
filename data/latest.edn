@@ -1,4 +1,3 @@
-{:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "com.github.steffan-westcott", :version "0.1.0-SNAPSHOT", :description "Clojure wrapper of OpenTelemetry Jaeger gRPC exporter", :created 1645964478891}
 {:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "com.github.steffan-westcott", :version "0.1.0-SNAPSHOT", :description "Clojure wrapper of OpenTelemetry Jaeger Thrift exporter", :created 1645964485580}
 {:jar_name "clj-otel-exporter-logging", :group_name "com.github.steffan-westcott", :version "0.1.0-SNAPSHOT", :description "Clojure wrapper of OpenTelemetry logging exporter", :created 1645964491867}
 {:jar_name "clj-otel-exporter-logging-otlp", :group_name "com.github.steffan-westcott", :version "0.1.0-SNAPSHOT", :description "Clojure wrapper of OpenTelemetry logging OTLP exporter", :created 1645964498403}
@@ -240,7 +239,6 @@
 {:jar_name "check", :group_name "check", :version "0.2.1", :description "Test helpers", :created 1646677955188}
 {:jar_name "structor", :group_name "com.7theta", :version "0.5.0", :description "shadow-cljs and tailwind builds", :created 1646679733429}
 {:jar_name "riemann-redis-output", :group_name "io.github.nukemberg", :version "0.0.3", :description "A Riemann plugin to output events to Redis", :created 1646680100197}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.03.05-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1646680260576}
 {:jar_name "doxa", :group_name "com.github.ribelo", :version "0.1.132", :description nil, :created 1646681849118}
 {:jar_name "re-oidc", :group_name "com.yetanalytics", :version "0.0.4", :description nil, :created 1646683491207}
 {:jar_name "doxa", :group_name "com.github.ribelo", :version "0.1.133", :description nil, :created 1646684572079}
@@ -254,3 +252,5 @@
 {:jar_name "ui-repl", :group_name "org.pinkgorilla", :version "0.0.42", :description nil, :created 1646688234314}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.498", :description nil, :created 1646688492653}
 {:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.498", :description nil, :created 1646688795311}
+{:jar_name "system", :group_name "club.donutpower", :version "0.0.112", :description nil, :created 1646692064893}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.03.05-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1646692842959}
