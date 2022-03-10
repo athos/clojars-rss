@@ -1,5 +1,3 @@
-{:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.1.0", :description "Clojure wrapper of OpenTelemetry API", :created 1645977895634}
-{:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.1.0", :description "Clojure wrapper of OpenTelemetry SDK", :created 1645977900427}
 {:jar_name "clj-otel-sdk-extension-aws", :group_name "com.github.steffan-westcott", :version "0.1.0", :description "Clojure wrapper of OpenTelemetry SDK AWS instrumentation support", :created 1645977905272}
 {:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.1.0", :description "Clojure wrapper of OpenTelemetry Jaeger remote sampler", :created 1645977910072}
 {:jar_name "clj-otel-sdk-extension-resources", :group_name "com.github.steffan-westcott", :version "0.1.0", :description "Clojure wrapper of OpenTelemetry SDK resource providers", :created 1645977914656}
@@ -254,3 +252,5 @@
 {:jar_name "deps-bin", :group_name "com.github.ericdallo", :version "0.1.2", :description nil, :created 1646924706272}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.196", :description nil, :created 1646925146888}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "6.075", :description "Clojure high performance data processing system", :created 1646926391808}
+{:jar_name "datalevin", :group_name "datalevin", :version "0.6.0", :description "A simple, fast and versatile Datalog database", :created 1646932637445}
+{:jar_name "datalevin-native", :group_name "org.clojars.huahaiy", :version "0.6.0", :description "Datalevin GraalVM native image and command line tool", :created 1646932673235}
