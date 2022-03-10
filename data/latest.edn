@@ -1,4 +1,3 @@
-{:jar_name "grpc-client", :group_name "io.github.protojure", :version "v2.0.8", :description "GRPC client library for protoc-gen-clojure", :created 1646227257440}
 {:jar_name "grpc-server", :group_name "io.github.protojure", :version "v2.0.8", :description "GRPC server library for protoc-gen-clojure", :created 1646227282830}
 {:jar_name "fetch", :group_name "com.widdindustries", :version "1.1.2", :description "ClojureScript wrapper around the JavaScript fetch API.", :created 1646228522813}
 {:jar_name "devtools", :group_name "binaryage", :version "1.0.5", :description "A collection of Chrome DevTools enhancements for ClojureScript developers.", :created 1646233328945}
@@ -239,18 +238,19 @@
 {:jar_name "commons", :group_name "lupapiste", :version "0.12.13", :description "Common domain code and resources for lupapiste applications", :created 1646907523543}
 {:jar_name "sparkling", :group_name "gorillalabs", :version "3.2.1", :description "A Clojure Library for Apache Spark", :created 1646908243496}
 {:jar_name "lemon-lime", :group_name "com.github.brianium", :version "1.0.0", :description nil, :created 1646912955905}
-{:jar_name "reitit-core", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Snappy data-driven router for Clojure(Script)", :created 1646919914954}
-{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Snappy data-driven router for Clojure(Script)", :created 1646919934434}
-{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: clojure.spec coercion", :created 1646919951733}
-{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Malli coercion", :created 1646919969183}
-{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Plumatic Schema coercion", :created 1646919986003}
-{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Ring routing", :created 1646920002793}
-{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit, common middleware bundled", :created 1646920020573}
-{:jar_name "reitit-http", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: HTTP routing with interceptors", :created 1646920037763}
-{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit, common interceptors bundled", :created 1646920055022}
-{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Swagger-support", :created 1646920072642}
-{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Swagger-ui support", :created 1646920089622}
-{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Clojurescript frontend routing core", :created 1646920107412}
-{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Sieppari Interceptors", :created 1646920123312}
-{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit + Pedestal Integration", :created 1646920143172}
-{:jar_name "reitit", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Snappy data-driven router for Clojure(Script)", :created 1646920165781}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Snappy data-driven router for Clojure(Script)", :created 1646921438690}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Snappy data-driven router for Clojure(Script)", :created 1646921458430}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: clojure.spec coercion", :created 1646921476500}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Malli coercion", :created 1646921494480}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Plumatic Schema coercion", :created 1646921512290}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Ring routing", :created 1646921529660}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit, common middleware bundled", :created 1646921549219}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: HTTP routing with interceptors", :created 1646921566639}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit, common interceptors bundled", :created 1646921584069}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Swagger-support", :created 1646921601649}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Swagger-ui support", :created 1646921619199}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Clojurescript frontend routing core", :created 1646921636509}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit: Sieppari Interceptors", :created 1646921653279}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Reitit + Pedestal Integration", :created 1646921673328}
+{:jar_name "reitit", :group_name "metosin", :version "0.5.17-SNAPSHOT", :description "Snappy data-driven router for Clojure(Script)", :created 1646921700648}
+{:jar_name "deps-bin", :group_name "com.github.ericdallo", :version "0.1.2", :description nil, :created 1646924706272}
