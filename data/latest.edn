@@ -1,5 +1,3 @@
-{:jar_name "refactor-nrepl", :group_name "refactor-nrepl", :version "3.4.0", :description "nREPL middleware to support editor-agnostic refactoring", :created 1646452029223}
-{:jar_name "config", :group_name "yogthos", :version "1.2.0", :description "library for managing configuration using environment variables/EDN configuration files", :created 1646454337994}
 {:jar_name "clj-chart", :group_name "io.github.kimim", :version "0.1.3", :description "A clojure lib wraps XChart", :created 1646464083114}
 {:jar_name "aleph", :group_name "aleph", :version "0.4.7-rc1", :description "A framework for asynchronous communication", :created 1646478370931}
 {:jar_name "broker", :group_name "com.fbeyer", :version "0.3.39", :description "Simple asynchronous in-process event broker for Clojure.", :created 1646481677343}
@@ -238,7 +236,6 @@
 {:jar_name "riemann-clojure-client", :group_name "riemann-clojure-client", :version "0.5.4", :description "Clojure client for the Riemann monitoring system", :created 1647164569120}
 {:jar_name "spandex", :group_name "org.clojars.ntestoc", :version "0.7.11-SNAPSHOT", :description "Clojure Wrapper of the new/official ElasticSearch REST client", :created 1647169136992}
 {:jar_name "spandex", :group_name "org.clojars.ntestoc", :version "0.7.12-SNAPSHOT", :description "Clojure Wrapper of the new/official ElasticSearch REST client", :created 1647170206023}
-{:jar_name "babashka", :group_name "babashka", :version "0.7.8-SNAPSHOT", :description "babashka", :created 1647177858389}
 {:jar_name "intercom-clj", :group_name "intercom-clj", :version "0.2.4", :description "A Clojure native library to use the Intercom REST API", :created 1647181461240}
 {:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.1.1", :description "Clojure wrapper of OpenTelemetry API", :created 1647182774469}
 {:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.1.1", :description "Clojure wrapper of OpenTelemetry SDK", :created 1647182780129}
@@ -254,3 +251,6 @@
 {:jar_name "clj-otel-exporter-otlp-grpc-trace", :group_name "com.github.steffan-westcott", :version "0.1.1", :description "Clojure wrapper of OpenTelemetry Protocol gRPC trace exporter", :created 1647182831869}
 {:jar_name "clj-otel-exporter-otlp-http-trace", :group_name "com.github.steffan-westcott", :version "0.1.1", :description "Clojure wrapper of OpenTelemetry Protocol HTTP trace exporter", :created 1647182837009}
 {:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.1.1", :description "Clojure wrapper of OpenTelemetry Zipkin exporter", :created 1647182842279}
+{:jar_name "chatda", :group_name "me.lomin", :version "0.2.0", :description nil, :created 1647184929662}
+{:jar_name "babashka", :group_name "babashka", :version "0.7.8-SNAPSHOT", :description "babashka", :created 1647185204910}
+{:jar_name "sinho", :group_name "me.lomin", :version "1.0.1", :description nil, :created 1647186824557}

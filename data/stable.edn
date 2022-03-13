@@ -1,5 +1,3 @@
-{:jar_name "grpc-client", :group_name "io.github.protojure", :version "2.0.9", :description "GRPC client library for protoc-gen-clojure", :created 1646243907269}
-{:jar_name "grpc-server", :group_name "io.github.protojure", :version "2.0.9", :description "GRPC server library for protoc-gen-clojure", :created 1646243930459}
 {:jar_name "analytics", :group_name "puppetlabs", :version "1.1.0", :description "Analytics service for Puppet", :created 1646250232028}
 {:jar_name "analytics-client", :group_name "puppetlabs", :version "1.1.1", :description "A library for submitting metrics to the trapperkeeper analytics service.", :created 1646251064914}
 {:jar_name "dujour-version-check", :group_name "puppetlabs", :version "0.3.1", :description "Dujour Version Check library", :created 1646251387812}
@@ -254,3 +252,5 @@
 {:jar_name "clj-otel-exporter-otlp-grpc-trace", :group_name "com.github.steffan-westcott", :version "0.1.1", :description "Clojure wrapper of OpenTelemetry Protocol gRPC trace exporter", :created 1647182831869}
 {:jar_name "clj-otel-exporter-otlp-http-trace", :group_name "com.github.steffan-westcott", :version "0.1.1", :description "Clojure wrapper of OpenTelemetry Protocol HTTP trace exporter", :created 1647182837009}
 {:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.1.1", :description "Clojure wrapper of OpenTelemetry Zipkin exporter", :created 1647182842279}
+{:jar_name "chatda", :group_name "me.lomin", :version "0.2.0", :description nil, :created 1647184929662}
+{:jar_name "sinho", :group_name "me.lomin", :version "1.0.1", :description nil, :created 1647186824557}
