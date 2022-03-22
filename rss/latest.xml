@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 22 Mar 2022 13:11:24 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 22 Mar 2022 14:06:19 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/diehard/versions/0.11.2</guid>
+    <title>[diehard &quot;0.11.2&quot;]</title>
+    <link>https://clojars.org/diehard/versions/0.11.2</link>
+    <description>Safety utilities for Clojure</description>
+    <pubDate>Tue, 22 Mar 2022 14:03:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.taoensso/timbre/versions/5.2.0-SNAPSHOT</guid>
+    <title>[com.taoensso/timbre &quot;5.2.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.taoensso/timbre/versions/5.2.0-SNAPSHOT</link>
+    <description>Pure Clojure/Script logging library</description>
+    <pubDate>Tue, 22 Mar 2022 13:56:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.replikativ/datahike/versions/0.4.1485</guid>
+    <title>[io.replikativ/datahike &quot;0.4.1485&quot;]</title>
+    <link>https://clojars.org/io.replikativ/datahike/versions/0.4.1485</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Tue, 22 Mar 2022 13:18:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/babashka/versions/0.7.9-SNAPSHOT</guid>
+    <title>[babashka &quot;0.7.9-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/babashka/versions/0.7.9-SNAPSHOT</link>
+    <description>babashka</description>
+    <pubDate>Tue, 22 Mar 2022 13:12:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.orkes/conductor-clojure/versions/orkes-0.1.0</guid>
+    <title>[io.orkes/conductor-clojure &quot;orkes-0.1.0&quot;]</title>
+    <link>https://clojars.org/io.orkes/conductor-clojure/versions/orkes-0.1.0</link>
+    <description>A conductor SDK for clojure</description>
+    <pubDate>Tue, 22 Mar 2022 13:11:29 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/xiana/lein-template/versions/0.3.4.3</guid>
     <title>[xiana/lein-template &quot;0.3.4.3&quot;]</title>
@@ -305,13 +340,6 @@
     <link>https://clojars.org/org.clojars.dranidis/re-frame-firebase-nine/versions/0.1.11-SNAPSHOT</link>
     <description>A re-frame library for connecting to firebase 9</description>
     <pubDate>Sat, 19 Mar 2022 21:55:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/babashka/versions/0.7.9-SNAPSHOT</guid>
-    <title>[babashka &quot;0.7.9-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/babashka/versions/0.7.9-SNAPSHOT</link>
-    <description>babashka</description>
-    <pubDate>Sat, 19 Mar 2022 21:43:03 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.github.runeanielsen/typesense-clj/versions/0.1.100</guid>
@@ -1768,34 +1796,6 @@
     <link>https://clojars.org/babashka/versions/0.7.8-SNAPSHOT</link>
     <description>babashka</description>
     <pubDate>Sun, 13 Mar 2022 15:26:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/me.lomin/chatda/versions/0.2.0</guid>
-    <title>[me.lomin/chatda &quot;0.2.0&quot;]</title>
-    <link>https://clojars.org/me.lomin/chatda/versions/0.2.0</link>
-    <description></description>
-    <pubDate>Sun, 13 Mar 2022 15:22:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.1.1</guid>
-    <title>[com.github.steffan-westcott/clj-otel-exporter-zipkin &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.1.1</link>
-    <description>Clojure wrapper of OpenTelemetry Zipkin exporter</description>
-    <pubDate>Sun, 13 Mar 2022 14:47:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp-http-trace/versions/0.1.1</guid>
-    <title>[com.github.steffan-westcott/clj-otel-exporter-otlp-http-trace &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp-http-trace/versions/0.1.1</link>
-    <description>Clojure wrapper of OpenTelemetry Protocol HTTP trace exporter</description>
-    <pubDate>Sun, 13 Mar 2022 14:47:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp-grpc-trace/versions/0.1.1</guid>
-    <title>[com.github.steffan-westcott/clj-otel-exporter-otlp-grpc-trace &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp-grpc-trace/versions/0.1.1</link>
-    <description>Clojure wrapper of OpenTelemetry Protocol gRPC trace exporter</description>
-    <pubDate>Sun, 13 Mar 2022 14:47:11 +0000</pubDate>
   </item>
   </channel>
 </rss>
