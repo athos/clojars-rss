@@ -4,7 +4,98 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 27 Mar 2022 10:01:25 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Mar 2022 11:01:16 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-zipkin &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.8.2</link>
+    <description>A publisher for μ/trace to OpenZipkin.</description>
+    <pubDate>Sun, 27 Mar 2022 10:46:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-slack &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.8.2</link>
+    <description>A publisher for μ/log to a Slack incoming webhook.</description>
+    <pubDate>Sun, 27 Mar 2022 10:45:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-prometheus &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.8.2</link>
+    <description>A publisher for μ/log to Prometheus.</description>
+    <pubDate>Sun, 27 Mar 2022 10:45:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-kinesis &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.8.2</link>
+    <description>A publisher for μ/log to Kinesis.</description>
+    <pubDate>Sun, 27 Mar 2022 10:45:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-kafka &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.8.2</link>
+    <description>A publisher for μ/log to Kafka.</description>
+    <pubDate>Sun, 27 Mar 2022 10:45:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-elasticsearch &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.8.2</link>
+    <description>A publisher for μ/log to Elasticsearch.</description>
+    <pubDate>Sun, 27 Mar 2022 10:45:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-cloudwatch &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.8.2</link>
+    <description>A publisher for μ/log to Cloudwatch.</description>
+    <pubDate>Sun, 27 Mar 2022 10:44:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-adv-console/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-adv-console &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-adv-console/versions/0.8.2</link>
+    <description>A publisher for μ/log to Console and Terminal.</description>
+    <pubDate>Sun, 27 Mar 2022 10:44:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-mbean-sampler/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-mbean-sampler &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-mbean-sampler/versions/0.8.2</link>
+    <description>A MBean sampler for μ/log.</description>
+    <pubDate>Sun, 27 Mar 2022 10:44:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-filesystem-metrics &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.8.2</link>
+    <description>A filesystem metrics sampler for μ/log.</description>
+    <pubDate>Sun, 27 Mar 2022 10:44:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-jvm-metrics &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.8.2</link>
+    <description>A JVM metrics sampler for μ/log.</description>
+    <pubDate>Sun, 27 Mar 2022 10:43:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-json/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-json &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-json/versions/0.8.2</link>
+    <description>μ/log json handling</description>
+    <pubDate>Sun, 27 Mar 2022 10:43:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog/versions/0.8.2</link>
+    <description>μ/log is a micro-logging library that logs events and data, not words!</description>
+    <pubDate>Sun, 27 Mar 2022 10:43:31 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.eldrix/hermes/versions/0.9.455</guid>
     <title>[com.eldrix/hermes &quot;0.9.455&quot;]</title>
@@ -1707,97 +1798,6 @@
     <link>https://clojars.org/datascript/versions/1.3.12</link>
     <description>An implementation of Datomic in-memory database and Datalog query engine in ClojureScript</description>
     <pubDate>Tue, 15 Mar 2022 17:34:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.7theta/utilis/versions/1.16.0</guid>
-    <title>[com.7theta/utilis &quot;1.16.0&quot;]</title>
-    <link>https://clojars.org/com.7theta/utilis/versions/1.16.0</link>
-    <description>Library of common utilities used in 7theta projects</description>
-    <pubDate>Tue, 15 Mar 2022 17:30:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.7theta/structor/versions/0.5.2</guid>
-    <title>[com.7theta/structor &quot;0.5.2&quot;]</title>
-    <link>https://clojars.org/com.7theta/structor/versions/0.5.2</link>
-    <description>shadow-cljs and tailwind builds</description>
-    <pubDate>Tue, 15 Mar 2022 17:06:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/keycloak-clojure/versions/1.25.3</guid>
-    <title>[keycloak-clojure &quot;1.25.3&quot;]</title>
-    <link>https://clojars.org/keycloak-clojure/versions/1.25.3</link>
-    <description>A clojure wrapper of Keycloak</description>
-    <pubDate>Tue, 15 Mar 2022 15:02:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-web-widgets/versions/1.126</guid>
-    <title>[com.alpha-prosoft/edd-web-widgets &quot;1.126&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-web-widgets/versions/1.126</link>
-    <description></description>
-    <pubDate>Tue, 15 Mar 2022 14:18:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-web-frame/versions/1.126</guid>
-    <title>[com.alpha-prosoft/edd-web-frame &quot;1.126&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-web-frame/versions/1.126</link>
-    <description></description>
-    <pubDate>Tue, 15 Mar 2022 14:18:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-core-web/versions/1.126</guid>
-    <title>[com.alpha-prosoft/edd-core-web &quot;1.126&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-core-web/versions/1.126</link>
-    <description></description>
-    <pubDate>Tue, 15 Mar 2022 14:17:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.velisco/strgen/versions/0.2.4</guid>
-    <title>[com.velisco/strgen &quot;0.2.4&quot;]</title>
-    <link>https://clojars.org/com.velisco/strgen/versions/0.2.4</link>
-    <description>String generator from regular expressions, for use with Clojure test.check and spec</description>
-    <pubDate>Tue, 15 Mar 2022 13:51:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.kelveden/ring-jwt/versions/2.3.0</guid>
-    <title>[net.clojars.kelveden/ring-jwt &quot;2.3.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.kelveden/ring-jwt/versions/2.3.0</link>
-    <description>JWT middleware for Ring</description>
-    <pubDate>Tue, 15 Mar 2022 13:26:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.pfeodrippe/dinamico/versions/0.0.1</guid>
-    <title>[io.github.pfeodrippe/dinamico &quot;0.0.1&quot;]</title>
-    <link>https://clojars.org/io.github.pfeodrippe/dinamico/versions/0.0.1</link>
-    <description></description>
-    <pubDate>Tue, 15 Mar 2022 13:10:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/za.co.simply/simply.core/versions/1.1.107</guid>
-    <title>[za.co.simply/simply.core &quot;1.1.107&quot;]</title>
-    <link>https://clojars.org/za.co.simply/simply.core/versions/1.1.107</link>
-    <description>Simply Core Libs</description>
-    <pubDate>Tue, 15 Mar 2022 11:37:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/taipei.404/html-to-hiccup/versions/0.1.1</guid>
-    <title>[taipei.404/html-to-hiccup &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/taipei.404/html-to-hiccup/versions/0.1.1</link>
-    <description></description>
-    <pubDate>Tue, 15 Mar 2022 11:06:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/de.otto/tesla-microservice/versions/0.17.2</guid>
-    <title>[de.otto/tesla-microservice &quot;0.17.2&quot;]</title>
-    <link>https://clojars.org/de.otto/tesla-microservice/versions/0.17.2</link>
-    <description>basic microservice.</description>
-    <pubDate>Tue, 15 Mar 2022 10:38:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/taipei.404/html-to-hiccup/versions/0.1.0</guid>
-    <title>[taipei.404/html-to-hiccup &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/taipei.404/html-to-hiccup/versions/0.1.0</link>
-    <description></description>
-    <pubDate>Tue, 15 Mar 2022 08:14:53 +0000</pubDate>
   </item>
   </channel>
 </rss>

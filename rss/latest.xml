@@ -4,7 +4,105 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 27 Mar 2022 10:01:25 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Mar 2022 11:01:16 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-zipkin &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-zipkin/versions/0.8.2</link>
+    <description>A publisher for μ/trace to OpenZipkin.</description>
+    <pubDate>Sun, 27 Mar 2022 10:46:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-slack &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.8.2</link>
+    <description>A publisher for μ/log to a Slack incoming webhook.</description>
+    <pubDate>Sun, 27 Mar 2022 10:45:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-prometheus &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.8.2</link>
+    <description>A publisher for μ/log to Prometheus.</description>
+    <pubDate>Sun, 27 Mar 2022 10:45:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-kinesis &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.8.2</link>
+    <description>A publisher for μ/log to Kinesis.</description>
+    <pubDate>Sun, 27 Mar 2022 10:45:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-kafka &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.8.2</link>
+    <description>A publisher for μ/log to Kafka.</description>
+    <pubDate>Sun, 27 Mar 2022 10:45:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-elasticsearch &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.8.2</link>
+    <description>A publisher for μ/log to Elasticsearch.</description>
+    <pubDate>Sun, 27 Mar 2022 10:45:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-cloudwatch &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.8.2</link>
+    <description>A publisher for μ/log to Cloudwatch.</description>
+    <pubDate>Sun, 27 Mar 2022 10:44:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-adv-console/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-adv-console &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-adv-console/versions/0.8.2</link>
+    <description>A publisher for μ/log to Console and Terminal.</description>
+    <pubDate>Sun, 27 Mar 2022 10:44:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-mbean-sampler/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-mbean-sampler &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-mbean-sampler/versions/0.8.2</link>
+    <description>A MBean sampler for μ/log.</description>
+    <pubDate>Sun, 27 Mar 2022 10:44:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-filesystem-metrics &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-filesystem-metrics/versions/0.8.2</link>
+    <description>A filesystem metrics sampler for μ/log.</description>
+    <pubDate>Sun, 27 Mar 2022 10:44:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-jvm-metrics &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-jvm-metrics/versions/0.8.2</link>
+    <description>A JVM metrics sampler for μ/log.</description>
+    <pubDate>Sun, 27 Mar 2022 10:43:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog-json/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog-json &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog-json/versions/0.8.2</link>
+    <description>μ/log json handling</description>
+    <pubDate>Sun, 27 Mar 2022 10:43:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.brunobonacci/mulog/versions/0.8.2</guid>
+    <title>[com.brunobonacci/mulog &quot;0.8.2&quot;]</title>
+    <link>https://clojars.org/com.brunobonacci/mulog/versions/0.8.2</link>
+    <description>μ/log is a micro-logging library that logs events and data, not words!</description>
+    <pubDate>Sun, 27 Mar 2022 10:43:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/babashka/versions/0.7.9-SNAPSHOT</guid>
+    <title>[babashka &quot;0.7.9-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/babashka/versions/0.7.9-SNAPSHOT</link>
+    <description>babashka</description>
+    <pubDate>Sun, 27 Mar 2022 10:32:19 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.eldrix/hermes/versions/0.9.455</guid>
     <title>[com.eldrix/hermes &quot;0.9.455&quot;]</title>
@@ -165,13 +263,6 @@
     <link>https://clojars.org/org.clojure.clr/tools.reader/versions/1.3.6</link>
     <description>Port of clojure.org/tool.reader to ClojureCLR</description>
     <pubDate>Sat, 26 Mar 2022 22:07:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/babashka/versions/0.7.9-SNAPSHOT</guid>
-    <title>[babashka &quot;0.7.9-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/babashka/versions/0.7.9-SNAPSHOT</link>
-    <description>babashka</description>
-    <pubDate>Sat, 26 Mar 2022 21:56:46 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/clj-kondo/versions/2022.03.10-SNAPSHOT</guid>
@@ -1707,97 +1798,6 @@
     <link>https://clojars.org/exoscale/blueprint/versions/0.2.54</link>
     <description>Data definitions for APIs</description>
     <pubDate>Thu, 17 Mar 2022 15:51:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-reporter/versions/0.2.54</guid>
-    <title>[exoscale/blueprint-reporter &quot;0.2.54&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-reporter/versions/0.2.54</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 17 Mar 2022 15:51:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-server/versions/0.2.54</guid>
-    <title>[exoscale/blueprint-server &quot;0.2.54&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-server/versions/0.2.54</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 17 Mar 2022 15:51:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-client/versions/0.2.54</guid>
-    <title>[exoscale/blueprint-client &quot;0.2.54&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-client/versions/0.2.54</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 17 Mar 2022 15:51:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-handler/versions/0.2.54</guid>
-    <title>[exoscale/blueprint-handler &quot;0.2.54&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-handler/versions/0.2.54</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 17 Mar 2022 15:51:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-router/versions/0.2.54</guid>
-    <title>[exoscale/blueprint-router &quot;0.2.54&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-router/versions/0.2.54</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 17 Mar 2022 15:50:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-openapi/versions/0.2.54</guid>
-    <title>[exoscale/blueprint-openapi &quot;0.2.54&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-openapi/versions/0.2.54</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 17 Mar 2022 15:50:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-core/versions/0.2.54</guid>
-    <title>[exoscale/blueprint-core &quot;0.2.54&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-core/versions/0.2.54</link>
-    <description>Data definitions for APIs</description>
-    <pubDate>Thu, 17 Mar 2022 15:50:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/club.donutpower/system/versions/0.0.118</guid>
-    <title>[club.donutpower/system &quot;0.0.118&quot;]</title>
-    <link>https://clojars.org/club.donutpower/system/versions/0.0.118</link>
-    <description></description>
-    <pubDate>Thu, 17 Mar 2022 15:29:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/clojure2d/versions/1.4.4-SNAPSHOT</guid>
-    <title>[clojure2d &quot;1.4.4-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/clojure2d/versions/1.4.4-SNAPSHOT</link>
-    <description>Creative coding / glitch library backed by Java2D</description>
-    <pubDate>Thu, 17 Mar 2022 15:22:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/pogonos/versions/0.2.0-SNAPSHOT</guid>
-    <title>[pogonos &quot;0.2.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/pogonos/versions/0.2.0-SNAPSHOT</link>
-    <description>Another Clojure(Script) implementation of the Mustache templating language</description>
-    <pubDate>Thu, 17 Mar 2022 14:18:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/lambdaisland/kaocha/versions/1.64.1010</guid>
-    <title>[lambdaisland/kaocha &quot;1.64.1010&quot;]</title>
-    <link>https://clojars.org/lambdaisland/kaocha/versions/1.64.1010</link>
-    <description>Full featured next generation test runner for Clojure.</description>
-    <pubDate>Thu, 17 Mar 2022 13:21:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.exoscale/mania/versions/1.0.0</guid>
-    <title>[com.exoscale/mania &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/com.exoscale/mania/versions/1.0.0</link>
-    <description>Our generic service/program entrypoints</description>
-    <pubDate>Thu, 17 Mar 2022 12:52:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.scicloj/wadogo/versions/1.0.0-SNAPSHOT</guid>
-    <title>[org.scicloj/wadogo &quot;1.0.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.scicloj/wadogo/versions/1.0.0-SNAPSHOT</link>
-    <description>Scales for Clojure</description>
-    <pubDate>Thu, 17 Mar 2022 12:46:39 +0000</pubDate>
   </item>
   </channel>
 </rss>
