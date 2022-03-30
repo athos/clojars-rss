@@ -1,7 +1,3 @@
-{:jar_name "tilakone.core", :group_name "org.clojars.ertucetin", :version "0.0.5", :description "Minimal finite state machine library", :created 1648077346106}
-{:jar_name "system", :group_name "org.danielsz", :version "0.4.8-SNAPSHOT", :description nil, :created 1648084875409}
-{:jar_name "dinamico", :group_name "io.github.pfeodrippe", :version "0.0.20", :description nil, :created 1648089984181}
-{:jar_name "dinamico", :group_name "io.github.pfeodrippe", :version "0.0.22", :description nil, :created 1648094443855}
 {:jar_name "membrane", :group_name "com.phronemophobic", :version "0.9.31.9-beta-SNAPSHOT", :description "A platform agnostic library for creating user interfaces", :created 1648098895028}
 {:jar_name "chimera", :group_name "onaio", :version "0.1.1", :description "Collection of useful Clojure(Script) functions.", :created 1648104764397}
 {:jar_name "nvd-clojure", :group_name "nvd-clojure", :version "2.3.0", :description "National Vulnerability Database dependency checker", :created 1648110409642}
@@ -198,8 +194,6 @@
 {:jar_name "clay", :group_name "org.scicloj", :version "1-alpha1-SNAPSHOT", :description "FIXME: my new library.", :created 1648571453509}
 {:jar_name "reveal", :group_name "vlaaad", :version "1.3.273", :description nil, :created 1648587734996}
 {:jar_name "reveal-pro", :group_name "dev.vlaaad", :version "1.3.344", :description nil, :created 1648587812026}
-{:jar_name "grape-repl", :group_name "org.clojars.jenshweber", :version "0.7.1-SNAPSHOT", :description "A REPL for GrapeVine based on Gorilla in the notebook style.", :created 1648605582723}
-{:jar_name "lein-grape", :group_name "org.clojars.jenshweber", :version "0.7.0-SNAPSHOT", :description "A Leiningen plugin for the Gorilla REPL.", :created 1648605609953}
 {:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.25-SNAPSHOT", :description "An optional type system for Clojure", :created 1648606477770}
 {:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.25-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1648606485690}
 {:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.25-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1648606492730}
@@ -245,7 +239,6 @@
 {:jar_name "edd-web-frame", :group_name "com.alpha-prosoft", :version "1.134", :description nil, :created 1648647588420}
 {:jar_name "edd-web-widgets", :group_name "com.alpha-prosoft", :version "1.134", :description nil, :created 1648647597500}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.200", :description nil, :created 1648650072870}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.03.10-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1648652585301}
 {:jar_name "markdown", :group_name "io.github.nextjournal", :version "0.3.69", :description nil, :created 1648652873350}
 {:jar_name "exch.clj", :group_name "org.clojars.i-s", :version "0.1.0-SNAPSHOT", :description "Exhange access library", :created 1648655485859}
 {:jar_name "clj-api", :group_name "polylith", :version "0.2.14-alpha", :description "Used to access Polylith as a library.", :created 1648656292926}
@@ -254,3 +247,10 @@
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "4.9.8", :description "", :created 1648665490303}
 {:jar_name "distantia", :group_name "com.7theta", :version "0.4.0", :description "diff and patch implementations for clojure data structures", :created 1648666399101}
 {:jar_name "utils", :group_name "io.randomseed", :version "1.0.6", :description "Random Utilities", :created 1648666848180}
+{:jar_name "via", :group_name "com.7theta", :version "10.2.1", :description "A library for WebSocket based messaging", :created 1648667439208}
+{:jar_name "grape-repl", :group_name "org.clojars.jenshweber", :version "0.7.1-SNAPSHOT", :description "A REPL for GrapeVine based on Gorilla in the notebook style.", :created 1648667536998}
+{:jar_name "lein-grape", :group_name "org.clojars.jenshweber", :version "0.7.0-SNAPSHOT", :description "A Leiningen plugin for the Gorilla REPL.", :created 1648667645657}
+{:jar_name "via-auth", :group_name "com.7theta", :version "0.7.0", :description "Common authentication strategies for via", :created 1648667700937}
+{:jar_name "lein-template.web", :group_name "com.7theta", :version "1.2.0", :description "Leiningen template for web apps based on 7theta libraries", :created 1648667862977}
+{:jar_name "utils", :group_name "io.randomseed", :version "1.0.7", :description "Random Utilities", :created 1648669165713}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.03.10-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1648669439963}
