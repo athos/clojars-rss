@@ -1,7 +1,3 @@
-{:jar_name "typed.clj.malli", :group_name "org.typedclojure", :version "1.0.22-SNAPSHOT", :description "Malli integration", :created 1648165454760}
-{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.22-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1648165461900}
-{:jar_name "dependency", :group_name "com.github.crinklywrappr", :version "1.0.3", :description nil, :created 1648179908795}
-{:jar_name "dependency", :group_name "com.github.crinklywrappr", :version "1.0.9", :description "stuart sierra's dependency library", :created 1648187996763}
 {:jar_name "auspex", :group_name "cc.qbits", :version "1.0.0-alpha9", :description "Mini wrapper over java-11 CompletableFuture with a manifold deferred after-taste", :created 1648189604060}
 {:jar_name "html-to-hiccup", :group_name "taipei.404", :version "0.1.6", :description nil, :created 1648190689545}
 {:jar_name "hikari-cp", :group_name "hikari-cp", :version "2.14.0", :description "A Clojure wrapper to HikariCP JDBC connection pool", :created 1648196977937}
@@ -56,7 +52,6 @@
 {:jar_name "tools.reader", :group_name "org.clojure.clr", :version "1.3.6", :description "Port of clojure.org/tool.reader to ClojureCLR", :created 1648332440571}
 {:jar_name "tools.namespace", :group_name "org.clojure.clr", :version "1.2.0", :description "Port of clojure.org/tools.namespace to ClojureCLR", :created 1648334053214}
 {:jar_name "intransit", :group_name "org.passen", :version "0.3.57", :description nil, :created 1648337652090}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.2.999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1648339302603}
 {:jar_name "talk2", :group_name "com.deercreeklabs", :version "0.1.5", :description nil, :created 1648345370789}
 {:jar_name "mindra", :group_name "org.clojars.rorokimdim", :version "0.0.2", :description "A clojure client library for mindra.", :created 1648350395449}
 {:jar_name "test.check", :group_name "org.clojure.clr", :version "1.1.1", :description "Port of github.com/clojure/test.check to ClojureCLR", :created 1648350533188}
@@ -254,3 +249,8 @@
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.26-SNAPSHOT", :description "Malli integration", :created 1648769509290}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.26-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1648769515400}
 {:jar_name "utils", :group_name "io.randomseed", :version "1.1.0", :description "Random Utilities", :created 1648770792395}
+{:jar_name "datalevin", :group_name "datalevin", :version "0.6.4", :description "A simple, fast and versatile Datalog database", :created 1648771759740}
+{:jar_name "datalevin-native", :group_name "org.clojars.huahaiy", :version "0.6.4", :description "Datalevin GraalVM native image and command line tool", :created 1648771796464}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.2.999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1648773548164}
+{:jar_name "resilience4clj-circuitbreaker", :group_name "tessellator", :version "0.5.0", :description "A small Clojure wrapper around the resilience4j CircuitBreaker module", :created 1648774926029}
+{:jar_name "resilience4clj-retry", :group_name "tessellator", :version "0.4.0", :description "A small Clojure wrapper around the resilience4j Retry module", :created 1648776247574}
