@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 2 Apr 2022 13:05:07 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 2 Apr 2022 14:01:23 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/reagent-frontend/lein-template/versions/0.1.71</guid>
+    <title>[reagent-frontend/lein-template &quot;0.1.71&quot;]</title>
+    <link>https://clojars.org/reagent-frontend/lein-template/versions/0.1.71</link>
+    <description>A Leiningen template for a ClojureScript setup with Reagent.</description>
+    <pubDate>Sat, 2 Apr 2022 13:28:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.layerware/hugsql/versions/0.5.3</guid>
+    <title>[com.layerware/hugsql &quot;0.5.3&quot;]</title>
+    <link>https://clojars.org/com.layerware/hugsql/versions/0.5.3</link>
+    <description>A Clojure library for embracing SQL</description>
+    <pubDate>Sat, 2 Apr 2022 13:23:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.layerware/hugsql-adapter-clojure-jdbc/versions/0.5.3</guid>
+    <title>[com.layerware/hugsql-adapter-clojure-jdbc &quot;0.5.3&quot;]</title>
+    <link>https://clojars.org/com.layerware/hugsql-adapter-clojure-jdbc/versions/0.5.3</link>
+    <description>clojure.jdbc hugsql adapter</description>
+    <pubDate>Sat, 2 Apr 2022 13:22:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.layerware/hugsql-adapter-next-jdbc/versions/0.5.3</guid>
+    <title>[com.layerware/hugsql-adapter-next-jdbc &quot;0.5.3&quot;]</title>
+    <link>https://clojars.org/com.layerware/hugsql-adapter-next-jdbc/versions/0.5.3</link>
+    <description>next.jdbc hugsql adapter</description>
+    <pubDate>Sat, 2 Apr 2022 13:22:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.layerware/hugsql-adapter-clojure-java-jdbc/versions/0.5.3</guid>
+    <title>[com.layerware/hugsql-adapter-clojure-java-jdbc &quot;0.5.3&quot;]</title>
+    <link>https://clojars.org/com.layerware/hugsql-adapter-clojure-java-jdbc/versions/0.5.3</link>
+    <description>clojure.java.jdbc hugsql adapter</description>
+    <pubDate>Sat, 2 Apr 2022 13:21:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.layerware/hugsql-core/versions/0.5.3</guid>
+    <title>[com.layerware/hugsql-core &quot;0.5.3&quot;]</title>
+    <link>https://clojars.org/com.layerware/hugsql-core/versions/0.5.3</link>
+    <description>HugSQL core functionality without adapter dependencies</description>
+    <pubDate>Sat, 2 Apr 2022 13:21:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.layerware/hugsql-adapter/versions/0.5.3</guid>
+    <title>[com.layerware/hugsql-adapter &quot;0.5.3&quot;]</title>
+    <link>https://clojars.org/com.layerware/hugsql-adapter/versions/0.5.3</link>
+    <description>hugsql adapter support/protocol</description>
+    <pubDate>Sat, 2 Apr 2022 13:20:36 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.clojars.huahaiy/datalevin-native/versions/0.6.6</guid>
     <title>[org.clojars.huahaiy/datalevin-native &quot;0.6.6&quot;]</title>
@@ -1747,55 +1796,6 @@
     <link>https://clojars.org/org.typedclojure/typed.lib.core.async/versions/1.0.23-SNAPSHOT</link>
     <description>Type annotations and macros for core.async.</description>
     <pubDate>Sat, 26 Mar 2022 21:26:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.malli/versions/1.0.23-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.malli &quot;1.0.23-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.malli/versions/1.0.23-SNAPSHOT</link>
-    <description>Malli integration</description>
-    <pubDate>Sat, 26 Mar 2022 21:26:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.clj.annotator/versions/1.0.23-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.clj.annotator &quot;1.0.23-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.clj.annotator/versions/1.0.23-SNAPSHOT</link>
-    <description>Runtime type inference algorithm for core.typed and clojure.spec.</description>
-    <pubDate>Sat, 26 Mar 2022 21:26:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.cljs.checker/versions/1.0.23-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.cljs.checker &quot;1.0.23-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.cljs.checker/versions/1.0.23-SNAPSHOT</link>
-    <description>An optional type system for ClojureScript — full system for annotating and type-checking.</description>
-    <pubDate>Sat, 26 Mar 2022 21:26:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.lib.spec.alpha/versions/1.0.23-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.lib.spec.alpha &quot;1.0.23-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.lib.spec.alpha/versions/1.0.23-SNAPSHOT</link>
-    <description>FIXME</description>
-    <pubDate>Sat, 26 Mar 2022 21:25:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.lib.clojure/versions/1.0.23-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.lib.clojure &quot;1.0.23-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.lib.clojure/versions/1.0.23-SNAPSHOT</link>
-    <description>Type annotations and macros for the base Clojure distribution.</description>
-    <pubDate>Sat, 26 Mar 2022 21:25:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.clj.spec/versions/1.0.23-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.clj.spec &quot;1.0.23-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.clj.spec/versions/1.0.23-SNAPSHOT</link>
-    <description>Type-like specs.</description>
-    <pubDate>Sat, 26 Mar 2022 21:25:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.clj.runtime/versions/1.0.23-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.clj.runtime &quot;1.0.23-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.clj.runtime/versions/1.0.23-SNAPSHOT</link>
-    <description>An optional type system for Clojure — zero-dependency artifact for annotations only.</description>
-    <pubDate>Sat, 26 Mar 2022 21:25:19 +0000</pubDate>
   </item>
   </channel>
 </rss>
