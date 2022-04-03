@@ -1,4 +1,3 @@
-{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.23", :description "A variant of tools.analyzer.", :created 1648355956874}
 {:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.23", :description "A variant of tools.analyzer.jvm.", :created 1648355964661}
 {:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.23", :description "A variant of tools.analyzer.js.", :created 1648355972357}
 {:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.23", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1648355980338}
@@ -233,7 +232,6 @@
 {:jar_name "cli-matic", :group_name "cli-matic", :version "0.5.1", :description "Compact [sub]command line parsing library, for Clojure", :created 1648918821765}
 {:jar_name "clj-mu", :group_name "com.twelvenines", :version "0.0.24", :description "Clojure friendly library for using https://muserver.io", :created 1648923389667}
 {:jar_name "clj-bugsnag", :group_name "org.clojars.drewverlee", :version "1.1.0", :description "Fully fledged Bugsnag client. Supports ex-data and ring middleware.", :created 1648923855435}
-{:jar_name "babashka", :group_name "babashka", :version "0.7.9-SNAPSHOT", :description "babashka", :created 1648936397446}
 {:jar_name "nvd-clojure", :group_name "nvd-clojure", :version "2.5.0", :description "National Vulnerability Database dependency checker", :created 1648943045490}
 {:jar_name "silvur", :group_name "io.gitlab.myst3m", :version "2.1.5", :description nil, :created 1648951907745}
 {:jar_name "silvur", :group_name "io.gitlab.myst3m", :version "2.2.0", :description nil, :created 1648954110886}
@@ -254,3 +252,5 @@
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.26-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1648957119384}
 {:jar_name "html-to-hiccup", :group_name "taipei.404", :version "0.1.8", :description nil, :created 1648958353599}
 {:jar_name "cli-matic", :group_name "cli-matic", :version "0.5.3", :description "Compact [sub]command line parsing library, for Clojure", :created 1648971194058}
+{:jar_name "babashka", :group_name "babashka", :version "0.7.9-SNAPSHOT", :description "babashka", :created 1648986426907}
+{:jar_name "hermes", :group_name "com.eldrix", :version "0.9.486", :description nil, :created 1648986717465}
