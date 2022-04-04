@@ -1,6 +1,3 @@
-{:jar_name "mulog", :group_name "com.brunobonacci", :version "0.8.2", :description "μ/log is a micro-logging library that logs events and data, not words!", :created 1648377811818}
-{:jar_name "mulog-json", :group_name "com.brunobonacci", :version "0.8.2", :description "μ/log json handling", :created 1648377824548}
-{:jar_name "mulog-jvm-metrics", :group_name "com.brunobonacci", :version "0.8.2", :description "A JVM metrics sampler for μ/log.", :created 1648377837368}
 {:jar_name "mulog-filesystem-metrics", :group_name "com.brunobonacci", :version "0.8.2", :description "A filesystem metrics sampler for μ/log.", :created 1648377850338}
 {:jar_name "mulog-mbean-sampler", :group_name "com.brunobonacci", :version "0.8.2", :description "A MBean sampler for μ/log.", :created 1648377863138}
 {:jar_name "mulog-adv-console", :group_name "com.brunobonacci", :version "0.8.2", :description "A publisher for μ/log to Console and Terminal.", :created 1648377876018}
@@ -254,3 +251,6 @@
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.26-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1649038191053}
 {:jar_name "slipway-core", :group_name "com.github.wavejumper", :version "0.1.3", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649041442670}
 {:jar_name "slipway-core", :group_name "com.github.wavejumper", :version "0.1.4", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649043905620}
+{:jar_name "slipway-core", :group_name "com.github.wavejumper", :version "0.1.5", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649047192071}
+{:jar_name "slipway-jetty9", :group_name "com.github.wavejumper", :version "0.1.1", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649047259546}
+{:jar_name "slipway-jetty10", :group_name "com.github.wavejumper", :version "0.1.1", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649047295356}
