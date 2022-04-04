@@ -1,5 +1,3 @@
-{:jar_name "mulog-kafka", :group_name "com.brunobonacci", :version "0.8.2", :description "A publisher for μ/log to Kafka.", :created 1648377914898}
-{:jar_name "mulog-kinesis", :group_name "com.brunobonacci", :version "0.8.2", :description "A publisher for μ/log to Kinesis.", :created 1648377928148}
 {:jar_name "mulog-prometheus", :group_name "com.brunobonacci", :version "0.8.2", :description "A publisher for μ/log to Prometheus.", :created 1648377940858}
 {:jar_name "mulog-slack", :group_name "com.brunobonacci", :version "0.8.2", :description "A publisher for μ/log to a Slack incoming webhook.", :created 1648377953638}
 {:jar_name "mulog-zipkin", :group_name "com.brunobonacci", :version "0.8.2", :description "A publisher for μ/trace to OpenZipkin.", :created 1648377966717}
@@ -254,3 +252,5 @@
 {:jar_name "slipway-jetty10", :group_name "com.github.wavejumper", :version "0.1.2", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649050823792}
 {:jar_name "slipway-jetty9", :group_name "com.github.wavejumper", :version "0.1.2", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649050927192}
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.18.0", :description "CLJS development tools", :created 1649052572825}
+{:jar_name "logger", :group_name "ch.codesmith", :version "0.6.71", :description "Thin macro layer on top of SLF4J", :created 1649055928511}
+{:jar_name "datahike", :group_name "io.replikativ", :version "0.4.1489", :description "A durable datalog implementation adaptable for distribution.", :created 1649057364846}
