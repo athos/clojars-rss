@@ -1,4 +1,3 @@
-{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.25-SNAPSHOT", :description "An optional type system for Clojure", :created 1648606477770}
 {:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.25-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1648606485690}
 {:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.25-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1648606492730}
 {:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.25-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1648606500070}
@@ -77,7 +76,6 @@
 {:jar_name "utils", :group_name "io.randomseed", :version "1.1.0", :description "Random Utilities", :created 1648770792395}
 {:jar_name "datalevin", :group_name "datalevin", :version "0.6.4", :description "A simple, fast and versatile Datalog database", :created 1648771759740}
 {:jar_name "datalevin-native", :group_name "org.clojars.huahaiy", :version "0.6.4", :description "Datalevin GraalVM native image and command line tool", :created 1648771796464}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.2.999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1648773548164}
 {:jar_name "resilience4clj-circuitbreaker", :group_name "tessellator", :version "0.5.0", :description "A small Clojure wrapper around the resilience4j CircuitBreaker module", :created 1648774926029}
 {:jar_name "resilience4clj-retry", :group_name "tessellator", :version "0.4.0", :description "A small Clojure wrapper around the resilience4j Retry module", :created 1648776247574}
 {:jar_name "poseidon", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "A platform to build API applications that have to aggregate data from distributed services in an efficient way", :created 1648782688638}
@@ -253,4 +251,6 @@
 {:jar_name "reitit-pedestal", :group_name "metosin", :version "0.5.18", :description "Reitit + Pedestal Integration", :created 1649184157666}
 {:jar_name "reitit", :group_name "metosin", :version "0.5.18", :description "Snappy data-driven router for Clojure(Script)", :created 1649184189346}
 {:jar_name "http-cron", :group_name "co.collbox", :version "0.2.0", :description "POST to HTTP endpoints at regular intervals", :created 1649184293666}
-{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.2.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1649191888507}
+{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.2.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1649194491697}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.2.999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1649194632436}
+{:jar_name "expectations", :group_name "com.github.seancorfield", :version "2.0.999-SNAPSHOT", :description "A clojure.test-compatible version of the classic Expectations testing library.", :created 1649195877212}
