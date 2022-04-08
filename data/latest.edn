@@ -1,7 +1,3 @@
-{:jar_name "utils", :group_name "io.randomseed", :version "1.1.3", :description "Random Utilities", :created 1648858707931}
-{:jar_name "hugsql-adapter", :group_name "com.layerware", :version "0.5.2", :description "hugsql adapter support/protocol", :created 1648866767345}
-{:jar_name "hugsql-core", :group_name "com.layerware", :version "0.5.2", :description "HugSQL core functionality without adapter dependencies", :created 1648866808045}
-{:jar_name "hugsql-adapter-clojure-java-jdbc", :group_name "com.layerware", :version "0.5.2", :description "clojure.java.jdbc hugsql adapter", :created 1648866838475}
 {:jar_name "hugsql-adapter-next-jdbc", :group_name "com.layerware", :version "0.5.2", :description "next.jdbc hugsql adapter", :created 1648866876535}
 {:jar_name "hugsql-adapter-clojure-jdbc", :group_name "com.layerware", :version "0.5.2", :description "clojure.jdbc hugsql adapter", :created 1648866910085}
 {:jar_name "hugsql", :group_name "com.layerware", :version "0.5.2", :description "A Clojure library for embracing SQL", :created 1648867451023}
@@ -254,3 +250,7 @@
 {:jar_name "active-openid", :group_name "de.active-group", :version "0.1.22", :description nil, :created 1649403300897}
 {:jar_name "datahike", :group_name "io.replikativ", :version "0.4.1490", :description "A durable datalog implementation adaptable for distribution.", :created 1649409386163}
 {:jar_name "silvur", :group_name "io.gitlab.myst3m", :version "2.2.3", :description nil, :created 1649411625994}
+{:jar_name "silvur", :group_name "io.gitlab.myst3m", :version "2.2.4", :description nil, :created 1649412506361}
+{:jar_name "datasplash", :group_name "za.co.simply", :version "0.8.16", :description "Clojure API for a more dynamic Google Cloud Dataflow and (hopefully) Apache BEAM", :created 1649412811649}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.03.10-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1649414253244}
+{:jar_name "lisb", :group_name "org.clojars.pkoerner", :version "0.0.5-SNAPSHOT", :description "lisb: A Clojure library that wraps ProB's constraint solver. Use it to write/transform B machines with less pain or interact with the constraint solver.", :created 1649414308424}
