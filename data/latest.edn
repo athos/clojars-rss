@@ -1,19 +1,3 @@
-{:jar_name "datalevin-native", :group_name "org.clojars.huahaiy", :version "0.6.6", :description "Datalevin GraalVM native image and command line tool", :created 1648902523005}
-{:jar_name "hugsql-adapter", :group_name "com.layerware", :version "0.5.3", :description "hugsql adapter support/protocol", :created 1648905636848}
-{:jar_name "hugsql-core", :group_name "com.layerware", :version "0.5.3", :description "HugSQL core functionality without adapter dependencies", :created 1648905668838}
-{:jar_name "hugsql-adapter-clojure-java-jdbc", :group_name "com.layerware", :version "0.5.3", :description "clojure.java.jdbc hugsql adapter", :created 1648905701468}
-{:jar_name "hugsql-adapter-next-jdbc", :group_name "com.layerware", :version "0.5.3", :description "next.jdbc hugsql adapter", :created 1648905733058}
-{:jar_name "hugsql-adapter-clojure-jdbc", :group_name "com.layerware", :version "0.5.3", :description "clojure.jdbc hugsql adapter", :created 1648905770358}
-{:jar_name "hugsql", :group_name "com.layerware", :version "0.5.3", :description "A Clojure library for embracing SQL", :created 1648905799008}
-{:jar_name "lein-template", :group_name "reagent-frontend", :version "0.1.71", :description "A Leiningen template for a ClojureScript setup with Reagent.", :created 1648906099677}
-{:jar_name "spec.alpha", :group_name "org.clojure.clr", :version "0.3.218", :description "Port of clojure.org/spec.alpha to ClojureCLR", :created 1648910206780}
-{:jar_name "core.specs.alpha", :group_name "org.clojure.clr", :version "0.2.62", :description "Port of clojure.org/core.specs.alpha to ClojureCLR", :created 1648911199586}
-{:jar_name "c4k-nextcloud", :group_name "org.domaindrivenarchitecture", :version "3.4.1", :description "nextcloud c4k-installation package", :created 1648913788625}
-{:jar_name "cli-matic", :group_name "cli-matic", :version "0.5.1", :description "Compact [sub]command line parsing library, for Clojure", :created 1648918821765}
-{:jar_name "clj-mu", :group_name "com.twelvenines", :version "0.0.24", :description "Clojure friendly library for using https://muserver.io", :created 1648923389667}
-{:jar_name "clj-bugsnag", :group_name "org.clojars.drewverlee", :version "1.1.0", :description "Fully fledged Bugsnag client. Supports ex-data and ring middleware.", :created 1648923855435}
-{:jar_name "nvd-clojure", :group_name "nvd-clojure", :version "2.5.0", :description "National Vulnerability Database dependency checker", :created 1648943045490}
-{:jar_name "silvur", :group_name "io.gitlab.myst3m", :version "2.1.5", :description nil, :created 1648951907745}
 {:jar_name "silvur", :group_name "io.gitlab.myst3m", :version "2.2.0", :description nil, :created 1648954110886}
 {:jar_name "html-to-hiccup", :group_name "taipei.404", :version "0.1.8", :description nil, :created 1648958353599}
 {:jar_name "cli-matic", :group_name "cli-matic", :version "0.5.3", :description "Compact [sub]command line parsing library, for Clojure", :created 1648971194058}
@@ -254,3 +238,19 @@
 {:jar_name "edd-core-import", :group_name "com.alpha-prosoft", :version "1.323", :description nil, :created 1649421488541}
 {:jar_name "edd-core-schema", :group_name "com.alpha-prosoft", :version "1.323", :description nil, :created 1649421497768}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.04.09-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1649421698634}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "An optional type system for Clojure", :created 1649424113655}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1649424122035}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1649424129715}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1649424137645}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1649424145545}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "Type-like specs.", :created 1649424153015}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1649424160605}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "FIXME", :created 1649424167835}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1649424175135}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1649424182695}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1649424190135}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1649424198155}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1649424205335}
+{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "Malli integration", :created 1649424213215}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1649424220314}
+{:jar_name "rumext", :group_name "funcool", :version "2022.04.08-135", :description "Simple and Decomplected UI library based on React.", :created 1649425212541}
