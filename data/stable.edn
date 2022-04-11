@@ -1,8 +1,3 @@
-{:jar_name "framework", :group_name "com.flexiana", :version "0.4.0-rc4", :description "Framework", :created 1648827070942}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "6.079", :description "Clojure high performance data processing system", :created 1648829547032}
-{:jar_name "iced-nrepl", :group_name "com.github.liquidz", :version "1.2.9", :description "nREPL middleware for vim-iced", :created 1648847823981}
-{:jar_name "crux-xodus", :group_name "org.clojars.cwh", :version "2.0.0", :description nil, :created 1648847969920}
-{:jar_name "utils", :group_name "io.randomseed", :version "1.1.3", :description "Random Utilities", :created 1648858707931}
 {:jar_name "hugsql-adapter", :group_name "com.layerware", :version "0.5.2", :description "hugsql adapter support/protocol", :created 1648866767345}
 {:jar_name "hugsql-core", :group_name "com.layerware", :version "0.5.2", :description "HugSQL core functionality without adapter dependencies", :created 1648866808045}
 {:jar_name "hugsql-adapter-clojure-java-jdbc", :group_name "com.layerware", :version "0.5.2", :description "clojure.java.jdbc hugsql adapter", :created 1648866838475}
@@ -254,3 +249,8 @@
 {:jar_name "service-clients-gen", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Poseidon Service Clients Generation", :created 1649660540895}
 {:jar_name "dumdom", :group_name "cjohansen", :version "2022.04.12", :description "Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.", :created 1649664077509}
 {:jar_name "sentry-clj", :group_name "io.sentry", :version "5.7.177", :description "A very thin wrapper around the official Java library for Sentry.", :created 1649668293290}
+{:jar_name "io", :group_name "io.github.protojure", :version "2.1.1", :description "IO library to support io.github.protojure/core", :created 1649678938385}
+{:jar_name "core", :group_name "io.github.protojure", :version "2.1.1", :description "Core protobuf and GRPC utilities for protojure", :created 1649678960965}
+{:jar_name "grpc-client", :group_name "io.github.protojure", :version "2.1.1", :description "GRPC client library for protoc-gen-clojure", :created 1649678986220}
+{:jar_name "grpc-server", :group_name "io.github.protojure", :version "2.1.1", :description "GRPC server library for protoc-gen-clojure", :created 1649679019942}
+{:jar_name "cljplot", :group_name "org.clojars.bost", :version "0.0.3", :description "JVM chart library", :created 1649679490099}
