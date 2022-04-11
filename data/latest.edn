@@ -1,13 +1,3 @@
-{:jar_name "hugsql", :group_name "com.yetanalytics", :version "0.6.1-YetAnalytics", :description "A Clojure library for embracing SQL", :created 1649106391021}
-{:jar_name "clojure2d", :group_name "clojure2d", :version "1.4.5-SNAPSHOT", :description "Creative coding / glitch library backed by Java2D", :created 1649107546156}
-{:jar_name "kindly", :group_name "org.scicloj", :version "2-alpha2", :description "A small library for defining how different kinds of things should be viewed", :created 1649110745374}
-{:jar_name "backpack", :group_name "io.jesi", :version "7.4.0", :description "Clojure(Script) cross-project utilities", :created 1649111227492}
-{:jar_name "fulcro-rad-datomic", :group_name "com.fulcrologic", :version "1.1.0", :description "A Datomic database driver for Fulcro RAD.", :created 1649111505711}
-{:jar_name "parent", :group_name "io.jesi", :version "4.20.0", :description "Clojure and NPM parent package definitions", :created 1649111915900}
-{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.2.780", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1649116923896}
-{:jar_name "slipway-core", :group_name "com.github.wavejumper", :version "0.1.7", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649118338461}
-{:jar_name "slipway-jetty9", :group_name "com.github.wavejumper", :version "0.1.3", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649118380480}
-{:jar_name "slipway-jetty10", :group_name "com.github.wavejumper", :version "0.1.3", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649118423720}
 {:jar_name "notify-api", :group_name "com.github.yjcyxky", :version "0.1.0", :description "Notify someone with something by email, dingtalk etc.", :created 1649121011381}
 {:jar_name "primitive-math", :group_name "org.clj-commons", :version "1.0.0", :description "Predictable, primitive math", :created 1649133993001}
 {:jar_name "slipway-core", :group_name "com.github.wavejumper", :version "0.1.8", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649136099103}
@@ -254,3 +244,13 @@
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1649650385472}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "Malli integration", :created 1649650393152}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.27-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1649650400868}
+{:jar_name "sample", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Poseidon sample application to aggregate APIs from a HTTP upstream", :created 1649659538059}
+{:jar_name "api", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Poseidon API", :created 1649659653139}
+{:jar_name "cadfael", :group_name "com.flipkart.poseidon", :version "5.14.0", :description nil, :created 1649659686649}
+{:jar_name "cadfael-maven-plugin", :group_name "com.flipkart.poseidon", :version "5.14.0", :description nil, :created 1649659717188}
+{:jar_name "common", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Poseidon Commons", :created 1649660126207}
+{:jar_name "container", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Poseidon Container", :created 1649660181316}
+{:jar_name "core", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Poseidon Core", :created 1649660267706}
+{:jar_name "http-handler", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Poseidon HTTP Handler", :created 1649660321596}
+{:jar_name "log4j-access", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Poseidon access log implementation for Jetty using Log4J", :created 1649660351076}
+{:jar_name "service-clients-archetype", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Mvn archetype used to create a new service client", :created 1649660455355}
