@@ -1,19 +1,3 @@
-{:jar_name "babashka", :group_name "babashka", :version "0.8.0", :description "babashka", :created 1649083110662}
-{:jar_name "active-openid", :group_name "de.active-group", :version "0.1.12", :description nil, :created 1649084098238}
-{:jar_name "liberator-hal-events-resource", :group_name "ai.mypulse", :version "0.1.1-RC3", :description "A HAL events resource for liberator.", :created 1649087392265}
-{:jar_name "tmdjs", :group_name "com.cnuernber", :version "1.011", :description nil, :created 1649097708584}
-{:jar_name "hugsql-core", :group_name "com.yetanalytics", :version "0.6.1-YetAnalytics", :description "HugSQL core functionality without adapter dependencies", :created 1649106332241}
-{:jar_name "hugsql", :group_name "com.yetanalytics", :version "0.6.1-YetAnalytics", :description "A Clojure library for embracing SQL", :created 1649106391021}
-{:jar_name "kindly", :group_name "org.scicloj", :version "2-alpha2", :description "A small library for defining how different kinds of things should be viewed", :created 1649110745374}
-{:jar_name "backpack", :group_name "io.jesi", :version "7.4.0", :description "Clojure(Script) cross-project utilities", :created 1649111227492}
-{:jar_name "fulcro-rad-datomic", :group_name "com.fulcrologic", :version "1.1.0", :description "A Datomic database driver for Fulcro RAD.", :created 1649111505711}
-{:jar_name "parent", :group_name "io.jesi", :version "4.20.0", :description "Clojure and NPM parent package definitions", :created 1649111915900}
-{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.2.780", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1649116923896}
-{:jar_name "slipway-core", :group_name "com.github.wavejumper", :version "0.1.7", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649118338461}
-{:jar_name "slipway-jetty9", :group_name "com.github.wavejumper", :version "0.1.3", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649118380480}
-{:jar_name "slipway-jetty10", :group_name "com.github.wavejumper", :version "0.1.3", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649118423720}
-{:jar_name "notify-api", :group_name "com.github.yjcyxky", :version "0.1.0", :description "Notify someone with something by email, dingtalk etc.", :created 1649121011381}
-{:jar_name "primitive-math", :group_name "org.clj-commons", :version "1.0.0", :description "Predictable, primitive math", :created 1649133993001}
 {:jar_name "slipway-core", :group_name "com.github.wavejumper", :version "0.1.8", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649136099103}
 {:jar_name "slipway-jetty9", :group_name "com.github.wavejumper", :version "0.1.4", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649136151783}
 {:jar_name "slipway-jetty10", :group_name "com.github.wavejumper", :version "0.1.4", :description "A Jetty ring adapter for enterprise Clojure development.", :created 1649136179332}
@@ -254,3 +238,19 @@
 {:jar_name "sci.impl.types", :group_name "org.babashka", :version "0.0.2", :description nil, :created 1649863479212}
 {:jar_name "babashka.impl.reify", :group_name "org.babashka", :version "0.0.5", :description nil, :created 1649864165751}
 {:jar_name "kushi", :group_name "org.clojars.paintparty", :version "1.0.0-alpha6", :description "ClojureScript CSS Solution", :created 1649865585418}
+{:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry API", :created 1649870223307}
+{:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry SDK", :created 1649870228247}
+{:jar_name "clj-otel-sdk-extension-aws", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry SDK AWS instrumentation support", :created 1649870232917}
+{:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry Jaeger remote sampler", :created 1649870237437}
+{:jar_name "clj-otel-sdk-extension-resources", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry SDK resource providers", :created 1649870241977}
+{:jar_name "clj-otel-extension-aws", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry API extensions for AWS", :created 1649870246447}
+{:jar_name "clj-otel-extension-trace-propagators", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry extension trace propagators", :created 1649870251027}
+{:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry Jaeger gRPC exporter", :created 1649870255747}
+{:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry Jaeger Thrift exporter", :created 1649870260447}
+{:jar_name "clj-otel-exporter-logging", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry logging exporter", :created 1649870264857}
+{:jar_name "clj-otel-exporter-logging-otlp", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry logging OTLP exporter", :created 1649870269347}
+{:jar_name "clj-otel-exporter-otlp-grpc-trace", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry Protocol gRPC trace exporter", :created 1649870273937}
+{:jar_name "clj-otel-exporter-otlp-http-trace", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry Protocol HTTP trace exporter", :created 1649870278507}
+{:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.1.2", :description "Clojure wrapper of OpenTelemetry Zipkin exporter", :created 1649870283007}
+{:jar_name "wire", :group_name "com.cleancoders.c3kit", :version "1.0.20", :description "Clean Coders Clojure (C3) Kit - Wire: Rich-client webapp tools.", :created 1649870940065}
+{:jar_name "datasplash", :group_name "za.co.simply", :version "0.8.18", :description "Clojure API for a more dynamic Google Cloud Dataflow and (hopefully) Apache BEAM", :created 1649872810940}
