@@ -1,6 +1,3 @@
-{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.26", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1649385748024}
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.26", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1649385754314}
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.26", :description "Runtime dependencies for ClojureScript type system.", :created 1649385760424}
 {:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.26", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1649385766694}
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.26", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1649385773044}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.26", :description "Malli integration", :created 1649385779064}
@@ -107,7 +104,6 @@
 {:jar_name "clj-mu", :group_name "com.twelvenines", :version "0.0.25", :description "Clojure friendly library for using https://muserver.io", :created 1649684397967}
 {:jar_name "kushi", :group_name "org.clojars.paintparty", :version "1.0.0-alpha4", :description "ClojureScript CSS Solution", :created 1649692711094}
 {:jar_name "blob-storage", :group_name "com.intception", :version "0.3.1", :description "Blob Storage Library", :created 1649693209429}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.04.09-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1649704401614}
 {:jar_name "ch", :group_name "kongra", :version "0.1.30", :description "Low-cost dynamic type and constraints checks", :created 1649707023655}
 {:jar_name "formal", :group_name "com.7theta", :version "0.6.0", :description "", :created 1649707103785}
 {:jar_name "hermes", :group_name "com.eldrix", :version "0.10.533", :description nil, :created 1649707873828}
@@ -251,6 +247,10 @@
 {:jar_name "data-platform-telemetry", :group_name "com.signal-ai", :version "0.4.3", :description "Data Platform Telemetry", :created 1649928207024}
 {:jar_name "keycloak-clojure", :group_name "keycloak-clojure", :version "1.26.0", :description "A clojure wrapper of Keycloak", :created 1649930669896}
 {:jar_name "babashka.impl.reify", :group_name "org.babashka", :version "0.0.7", :description nil, :created 1649931694642}
-{:jar_name "data-platform-telemetry", :group_name "com.signal-ai", :version "0.5.0-SNAPSHOT", :description "Data Platform Telemetry", :created 1649931830082}
 {:jar_name "utils", :group_name "io.randomseed", :version "1.1.5", :description "Random Utilities", :created 1649933086237}
 {:jar_name "mulify", :group_name "io.gitlab.myst3m", :version "0.1.2", :description nil, :created 1649936927690}
+{:jar_name "data-platform-telemetry", :group_name "com.signal-ai", :version "0.5.0-SNAPSHOT", :description "Data Platform Telemetry", :created 1649938784846}
+{:jar_name "aero-extras", :group_name "com.github.tggreene", :version "0.3.0", :description nil, :created 1649938847610}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.04.09-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1649939531978}
+{:jar_name "encore", :group_name "com.taoensso", :version "3.22.0-beta1", :description "Core utils library for Clojure/Script", :created 1649940187016}
+{:jar_name "babashka.impl.reify", :group_name "org.babashka", :version "0.0.9", :description nil, :created 1649940220026}
