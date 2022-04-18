@@ -1,6 +1,3 @@
-{:jar_name "common", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Poseidon Commons", :created 1649660126207}
-{:jar_name "container", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Poseidon Container", :created 1649660181316}
-{:jar_name "core", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Poseidon Core", :created 1649660267706}
 {:jar_name "http-handler", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Poseidon HTTP Handler", :created 1649660321596}
 {:jar_name "log4j-access", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Poseidon access log implementation for Jetty using Log4J", :created 1649660351076}
 {:jar_name "service-clients-archetype", :group_name "com.flipkart.poseidon", :version "5.14.0", :description "Mvn archetype used to create a new service client", :created 1649660455355}
@@ -254,3 +251,6 @@
 {:jar_name "db", :group_name "com.fluree", :version "1.0.0", :description nil, :created 1650308779487}
 {:jar_name "talk2", :group_name "com.deercreeklabs", :version "0.2.2", :description nil, :created 1650309840862}
 {:jar_name "walter-ci", :group_name "com.github.piotr-yuxuan", :version "0.2.39", :description "A Clojure CICD atop community tools and GitHub Actions, with conventions and no configuration", :created 1650311736804}
+{:jar_name "closeable-map", :group_name "piotr-yuxuan", :version "0.35.1", :description "Application state management made simple: a Clojure map that implements java.io.Closeable.", :created 1650312156227}
+{:jar_name "db", :group_name "com.fluree", :version "1.0.1", :description nil, :created 1650313674360}
+{:jar_name "rumext", :group_name "funcool", :version "2022.04.18-142", :description "Simple and Decomplected UI library based on React.", :created 1650315386087}
