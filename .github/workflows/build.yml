@@ -10,13 +10,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Setup Java
-        uses: actions/setup-java@v1
+        uses: actions/setup-java@v3
         with:
-          java-version: '11'
+          distribution: 'temurin'
+          java-version: '17'
       - name: Cache .m2
-        uses: actions/cache@v1
+        uses: actions/cache@v3
         with:
           path: ~/.m2
           key: ${{ runner.os }}-m2-${{ hashFiles('project.clj') }}
@@ -27,7 +28,7 @@ jobs:
           lein do clean, uberjar
           mv target/*-standalone.jar clojars-rss.jar
       - name: Upload jar
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: clojars-rss.jar
           path: ./clojars-rss.jar
@@ -36,19 +37,19 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Setup GraalVM
         uses: rinx/setup-graalvm-ce@v0.0.5
         with:
           graalvm-version: "21.0.0"
           java-version: "java11"
           native-image: "true"
-      - uses: actions/download-artifact@v2
+      - uses: actions/download-artifact@v3
         with:
           name: clojars-rss.jar
       - name: Build
         run: lein native -jar clojars-rss.jar
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
           name: clojars-rss
           path: ./clojars-rss
@@ -58,11 +59,11 @@ jobs:
     if: contains(github.ref, 'refs/tags/')
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/download-artifact@v2
+      - uses: actions/checkout@v3
+      - uses: actions/download-artifact@v3
         with:
           name: clojars-rss
-      - uses: actions/download-artifact@v2
+      - uses: actions/download-artifact@v3
         with:
           name: clojars-rss.jar
       - name: Create release
