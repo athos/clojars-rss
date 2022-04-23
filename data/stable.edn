@@ -1,7 +1,3 @@
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.27", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1649804452765}
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.27", :description "Runtime dependencies for ClojureScript type system.", :created 1649804459035}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.27", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1649804465195}
-{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.27", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1649804471205}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.27", :description "Malli integration", :created 1649804477505}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.27", :description "Type annotations and macros for core.async.", :created 1649804483655}
 {:jar_name "duct-template", :group_name "hydrogen", :version "0.5.13", :description "Hydrogen duct template", :created 1649806935478}
@@ -254,3 +250,7 @@
 {:jar_name "utils", :group_name "io.randomseed", :version "1.2.2", :description "Random Utilities", :created 1650659851510}
 {:jar_name "rewrite-indented", :group_name "com.github.liquidz", :version "0.1.1", :description "Library to read and write space-indented texts", :created 1650661656929}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20220422-221352.e7feb5ca", :description nil, :created 1650665670629}
+{:jar_name "lsp4clj-protocols", :group_name "com.github.clojure-lsp", :version "0.2.0", :description nil, :created 1650669607820}
+{:jar_name "lsp4clj-server", :group_name "com.github.clojure-lsp", :version "0.2.0", :description nil, :created 1650669629000}
+{:jar_name "cljdoc-exerciser", :group_name "org.cljdoc", :version "1.0.79", :description nil, :created 1650669680580}
+{:jar_name "mast", :group_name "com.hypalynx", :version "0.1.0", :description nil, :created 1650669932458}
