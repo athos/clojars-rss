@@ -1,18 +1,3 @@
-{:jar_name "hermes", :group_name "com.eldrix", :version "0.11.584-alpha", :description nil, :created 1651154955633}
-{:jar_name "boot-asset-fingerprint", :group_name "elit", :version "4.0.0", :description "Boot task to fingerprint asset references in html files.", :created 1651157756787}
-{:jar_name "reacl-c", :group_name "de.active-group", :version "0.10.13", :description "Compositional and declarative user interface library for Clojure and Clojurescript.", :created 1651159276653}
-{:jar_name "lein-template", :group_name "io.github.kit-clj", :version "0.1.17", :description nil, :created 1651159503911}
-{:jar_name "cmr-jar-plugin", :group_name "gov.nasa.earthdata", :version "0.1.2", :description "A library for creating JAR-based plugins", :created 1651160290674}
-{:jar_name "boot-asset-fingerprint", :group_name "elit", :version "5.0.0", :description "Boot task to fingerprint asset references in html files.", :created 1651162552424}
-{:jar_name "http-kit", :group_name "org.clojars.bento", :version "2.6.0-alpha1-SNAPSHOT", :description "High-performance event-driven HTTP client/server for Clojure", :created 1651163365100}
-{:jar_name "scicloj.ml.xgboost", :group_name "scicloj", :version "5.1.1", :description "xgboost models for scicloj.ml", :created 1651168282433}
-{:jar_name "clj-utils", :group_name "org.clojars.golanv", :version "0.1.0", :description "FIXME: write description", :created 1651171499935}
-{:jar_name "cmr-http-kit", :group_name "gov.nasa.earthdata", :version "0.2.0", :description "Utilities, wrappers, middleware, and components for http-kit interop", :created 1651177974527}
-{:jar_name "cmr-authz", :group_name "gov.nasa.earthdata", :version "0.1.3", :description "An authorization utility library for CMR services", :created 1651178251599}
-{:jar_name "cmr-exchange-query", :group_name "gov.nasa.earthdata", :version "0.3.3-SNAPSHOT", :description "Cross-project query and parameter parsing and transformations", :created 1651178512330}
-{:jar_name "bucket", :group_name "com.cleancoders.c3kit", :version "1.0.17", :description "Clean Coders Clojure (C3) Kit - Bucket: Database API for datomic and in-memory.", :created 1651178535530}
-{:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.8-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1651178928917}
-{:jar_name "cmr-ous-plugin", :group_name "gov.nasa.earthdata", :version "0.3.8-SNAPSHOT", :description "A CMR services plugin that performs URL translations for subsetted GIS data", :created 1651179283343}
 {:jar_name "cmr-sizing-plugin", :group_name "gov.nasa.earthdata", :version "0.3.5-SNAPSHOT", :description "A size estimation service for subsetted GIS data", :created 1651179489281}
 {:jar_name "cmr-service-bridge", :group_name "gov.nasa.earthdata", :version "1.6.13-SNAPSHOT", :description "A CMR connector service that provides an inter-service API", :created 1651179997457}
 {:jar_name "cmr-api-versioning", :group_name "gov.nasa.earthdata", :version "0.1.1-SNAPSHOT", :description "A CMR utility library allowing services to provide versioned REST APIs", :created 1651180601121}
@@ -254,3 +239,18 @@
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.4.602", :description nil, :created 1651703780737}
 {:jar_name "pinkie", :group_name "org.pinkgorilla", :version "0.3.12", :description "Pinkie reagent component registry.", :created 1651706492436}
 {:jar_name "pinkie", :group_name "org.pinkgorilla", :version "0.3.13", :description "Pinkie reagent component registry.", :created 1651710804767}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "An optional type system for Clojure", :created 1651720403150}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1651720410080}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1651720416450}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1651720422820}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1651720429060}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Type-like specs.", :created 1651720435330}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1651720441720}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "FIXME", :created 1651720448160}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1651720454600}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1651720460970}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1651720467250}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1651720473560}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1651720479910}
+{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Malli integration", :created 1651720486360}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1651720492660}
