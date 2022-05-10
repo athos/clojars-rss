@@ -23,5 +23,28 @@ jobs:
         git config --local user.name 'GitHub Action'
         git config --local user.email 'github-action@users.noreply.github.com'
         git add data rss
-        git diff --staged --quiet || git commit -m 'Update feed'
+        git commit -m 'Update feed'
         git push origin gh-pages
+    - name: Generate summary
+      run: |
+        (
+          echo '# Feed generation summary'
+          echo
+          echo "Updated at $(git show -s --format=%ci)"
+          echo
+          echo '## Feed updates'
+          echo
+          echo '| Feed | # of updates |'
+          echo '| ---- | -----------: |'
+          for target in stable latest; do
+            n=$(git show --stat | grep data/$target.edn | awk '{ print $3/2 }')
+            n=${n:-0}
+            echo "| :white_check_mark: $target | $n |"
+          done
+          echo
+          echo '## Feed links'
+          echo
+          echo '- [stable](https://athos.github.io/clojars-rss/rss/stable.xml)'
+          echo '- [latest](https://athos.github.io/clojars-rss/rss/latest.xml)'
+        ) > $GITHUB_STEP_SUMMARY
+
