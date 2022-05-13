@@ -1,5 +1,3 @@
-{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.30", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1651638359488}
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.30", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1651638366627}
 {:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.30", :description "Runtime dependencies for ClojureScript type system.", :created 1651638373635}
 {:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.30", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1651638380493}
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.30", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1651638387385}
@@ -254,3 +252,5 @@
 {:jar_name "helix", :group_name "lilactown", :version "0.1.6", :description "ClojureScript optimized for modern React development.", :created 1652393364998}
 {:jar_name "salmon", :group_name "rs.shaffe", :version "0.6.0-SNAPSHOT", :description "A library for building AWS architectures in the REPL, and then deploying them in CI/CD environments.", :created 1652395326800}
 {:jar_name "salmon", :group_name "rs.shaffe", :version "0.7.0-SNAPSHOT", :description "A library for building AWS architectures in the REPL, and then deploying them in CI/CD environments.", :created 1652402389592}
+{:jar_name "clj-diff", :group_name "lambdaisland", :version "1.2.62", :description "Diff and patch for Clojure sequences", :created 1652422185323}
+{:jar_name "deep-diff2", :group_name "lambdaisland", :version "2.1.121", :description "Recursively compare Clojure or ClojureScript data structures, and produce a colorized diff of the result.", :created 1652422356991}
