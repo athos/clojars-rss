@@ -1,6 +1,3 @@
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1651810289231}
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1651810295703}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1651810302329}
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1651810308935}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Malli integration", :created 1651810315892}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1651810322869}
@@ -237,7 +234,6 @@
 {:jar_name "ui-repl", :group_name "org.pinkgorilla", :version "0.0.44", :description nil, :created 1652597435522}
 {:jar_name "reval", :group_name "org.pinkgorilla", :version "0.5.87", :description nil, :created 1652598204674}
 {:jar_name "wikla", :group_name "wikla", :version "0.9.3", :description "Behavior Tree in Clojure(Script).", :created 1652611990672}
-{:jar_name "babashka", :group_name "babashka", :version "0.8.3-SNAPSHOT", :description "babashka", :created 1652617851945}
 {:jar_name "fitter", :group_name "com.github.strojure", :version "0.2.38", :description "Dependency injection for Clojure", :created 1652619520785}
 {:jar_name "integrant-async", :group_name "com.github.strojure", :version "1.0.0", :description "Utility library for the `integrant` to init/halt system keys in parallel.", :created 1652627621274}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.519", :description nil, :created 1652629119939}
@@ -254,3 +250,7 @@
 {:jar_name "ui-gorilla", :group_name "org.pinkgorilla", :version "0.4.8", :description nil, :created 1652639713499}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.520", :description nil, :created 1652640091845}
 {:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.520", :description nil, :created 1652640371013}
+{:jar_name "clj-tabtree", :group_name "org.clojars.prozion", :version "0.1.3", :description "Clojure library to parse tabtree format", :created 1652643682931}
+{:jar_name "utils", :group_name "io.randomseed", :version "1.2.4", :description "Random Utilities", :created 1652644172856}
+{:jar_name "reval", :group_name "org.pinkgorilla", :version "0.5.89", :description nil, :created 1652644253616}
+{:jar_name "babashka", :group_name "babashka", :version "0.8.3-SNAPSHOT", :description "babashka", :created 1652644312975}
