@@ -1,7 +1,3 @@
-{:jar_name "clj-otel-sdk-extension-aws", :group_name "com.github.steffan-westcott", :version "0.1.3-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1652440072894}
-{:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.1.3-SNAPSHOT", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1652440080044}
-{:jar_name "clj-otel-sdk-extension-resources", :group_name "com.github.steffan-westcott", :version "0.1.3-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1652440087154}
-{:jar_name "clj-otel-extension-aws", :group_name "com.github.steffan-westcott", :version "0.1.3-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry extensions for AWS", :created 1652440094224}
 {:jar_name "clj-otel-extension-trace-propagators", :group_name "com.github.steffan-westcott", :version "0.1.3-SNAPSHOT", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1652440101254}
 {:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "com.github.steffan-westcott", :version "0.1.3-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter", :created 1652440108574}
 {:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "com.github.steffan-westcott", :version "0.1.3-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter", :created 1652440116394}
@@ -74,7 +70,6 @@
 {:jar_name "clj-tabtree", :group_name "org.clojars.prozion", :version "0.1.3", :description "Clojure library to parse tabtree format", :created 1652643682931}
 {:jar_name "utils", :group_name "io.randomseed", :version "1.2.4", :description "Random Utilities", :created 1652644172856}
 {:jar_name "reval", :group_name "org.pinkgorilla", :version "0.5.89", :description nil, :created 1652644253616}
-{:jar_name "tools-io", :group_name "com.oscaro", :version "0.3.26-SNAPSHOT", :description "Oscaro's generic I/O tools collection", :created 1652646237401}
 {:jar_name "ui-input", :group_name "org.pinkgorilla", :version "0.0.21", :description nil, :created 1652648187019}
 {:jar_name "ui-codemirror", :group_name "org.pinkgorilla", :version "0.0.31", :description nil, :created 1652663374345}
 {:jar_name "reval", :group_name "org.pinkgorilla", :version "0.5.90", :description nil, :created 1652663668283}
@@ -250,7 +245,12 @@
 {:jar_name "taiwan-id", :group_name "net.clojars.caesarhu", :version "0.2.3", :description "Clojure/script Taiwan identity card number verification program library, including new and old version of residence permit number verification.", :created 1653031262685}
 {:jar_name "honey-popsql", :group_name "org.clojars.abhinav", :version "0.0.1", :description "Freezing honey sql queries in one sweet popcicle", :created 1653032333174}
 {:jar_name "iced-nrepl", :group_name "com.github.liquidz", :version "1.2.11", :description "nREPL middleware for vim-iced", :created 1653035603251}
-{:jar_name "babashka", :group_name "babashka", :version "0.8.3-SNAPSHOT", :description "babashka", :created 1653040270136}
 {:jar_name "re-frisk", :group_name "re-frisk", :version "1.6.0", :description "Take full control of re-frame app", :created 1653041284346}
 {:jar_name "re-frisk-remote", :group_name "re-frisk-remote", :version "1.6.0", :description "Take full control of re-frame app", :created 1653041317596}
 {:jar_name "district-ui-component-form", :group_name "district0x", :version "0.2.14", :description "district UI forms library", :created 1653044582004}
+{:jar_name "tools-io", :group_name "com.oscaro", :version "0.3.26-SNAPSHOT", :description "Oscaro's generic I/O tools collection", :created 1653049588445}
+{:jar_name "babashka", :group_name "babashka", :version "0.8.3-SNAPSHOT", :description "babashka", :created 1653050716115}
+{:jar_name "marginalia", :group_name "org.clojars.lambder", :version "0.9.2-SNAPSHOT", :description "lightweight literate programming for clojure -- inspired by [docco](http://jashkenas.github.com/docco/)", :created 1653051047532}
+{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.9.4-enrich_serializer_exception_info-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1653051087092}
+{:jar_name "lein-marginalia", :group_name "org.clojars.lambder", :version "0.9.2-SNAPSHOT", :description "Leiningen plugin for Marginalia.", :created 1653051297230}
+{:jar_name "fastmath", :group_name "generateme", :version "2.1.9-SNAPSHOT", :description "Fast and primitive math library", :created 1653051909274}
