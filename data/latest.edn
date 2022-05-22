@@ -1,17 +1,3 @@
-{:jar_name "clj-gatling", :group_name "clj-gatling", :version "0.17.4", :description "Clojure library for load testing", :created 1652697721452}
-{:jar_name "tenet", :group_name "io.lazy-cat", :version "1.0.64", :description nil, :created 1652700187686}
-{:jar_name "phrag", :group_name "com.github.ykskb", :version "0.1.0-SNAPSHOT", :description "GraphQL from a DB connection", :created 1652700263665}
-{:jar_name "datasplash", :group_name "za.co.simply", :version "0.8.26", :description "Clojure API for a more dynamic Google Cloud Dataflow and (hopefully) Apache BEAM", :created 1652701038007}
-{:jar_name "konserve", :group_name "io.replikativ", :version "0.7.271", :description "Durable cross-platform key-value store protocol with core.async.", :created 1652701459162}
-{:jar_name "dropwizard-jwt", :group_name "io.raven.dropwizard.auth", :version "2.1.0-1", :description nil, :created 1652701564841}
-{:jar_name "encryption", :group_name "dev.gethop", :version "0.2.2", :description "Encryption/decryption library", :created 1652706326860}
-{:jar_name "charred", :group_name "com.cnuernber", :version "1.007", :description nil, :created 1652708459817}
-{:jar_name "datasplash", :group_name "za.co.simply", :version "0.8.27", :description "Clojure API for a more dynamic Google Cloud Dataflow and (hopefully) Apache BEAM", :created 1652708776414}
-{:jar_name "quantus", :group_name "com.7theta", :version "0.3.0", :description "Library of handling quantities with units", :created 1652709862473}
-{:jar_name "phrag", :group_name "com.github.ykskb", :version "0.1.1-SNAPSHOT", :description "GraphQL from a DB connection", :created 1652709960402}
-{:jar_name "postmortem", :group_name "postmortem", :version "0.5.1-SNAPSHOT", :description "A tiny data-oriented debugging tool for Clojure(Script), empowered by transducers", :created 1652709971101}
-{:jar_name "datasim", :group_name "com.yetanalytics", :version "0.1.4", :description nil, :created 1652710303578}
-{:jar_name "tenet", :group_name "io.lazy-cat", :version "1.0.67", :description nil, :created 1652712109479}
 {:jar_name "reval", :group_name "org.pinkgorilla", :version "0.5.93", :description nil, :created 1652712663923}
 {:jar_name "missionary", :group_name "missionary", :version "b.27-SNAPSHOT", :description "A functional effect and streaming system for clojure and clojurescript.", :created 1652713202777}
 {:jar_name "stork", :group_name "dev.gethop", :version "0.1.6", :description "Idempotent and atomic datom transacting for Datomic. Heavily inspired on rkneufeld/conformity.", :created 1652713553624}
@@ -254,3 +240,17 @@
 {:jar_name "spock", :group_name "link.szabo.mauricio", :version "0.1.1-SNAPSHOT", :description "Wrapper for TuProlog and SWI-Prolog in Clojure", :created 1653195690356}
 {:jar_name "tools-io", :group_name "com.oscaro", :version "0.3.27-SNAPSHOT", :description "Oscaro's generic I/O tools collection", :created 1653209844250}
 {:jar_name "babashka", :group_name "babashka", :version "0.8.3-SNAPSHOT", :description "babashka", :created 1653215746133}
+{:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1653221360950}
+{:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :created 1653221368427}
+{:jar_name "clj-otel-sdk-extension-aws", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1653221375619}
+{:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1653221382427}
+{:jar_name "clj-otel-sdk-extension-resources", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1653221389145}
+{:jar_name "clj-otel-extension-aws", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "Provides access using Clojure to OpenTelemetry extensions for AWS", :created 1653221395699}
+{:jar_name "clj-otel-extension-trace-propagators", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1653221403520}
+{:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter", :created 1653221410760}
+{:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter", :created 1653221417670}
+{:jar_name "clj-otel-exporter-logging", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :created 1653221424025}
+{:jar_name "clj-otel-exporter-logging-otlp", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1653221430598}
+{:jar_name "clj-otel-exporter-otlp-grpc-trace", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP gRPC trace exporter", :created 1653221437395}
+{:jar_name "clj-otel-exporter-otlp-http-trace", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP HTTP trace exporter", :created 1653221443879}
+{:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.1.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1653221450603}
