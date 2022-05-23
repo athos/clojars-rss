@@ -1,8 +1,3 @@
-{:jar_name "salmon", :group_name "rs.shaffe", :version "0.8.0-SNAPSHOT", :description "A library for building AWS architectures in the REPL, and then deploying them in CI/CD environments.", :created 1652774358885}
-{:jar_name "dataframe", :group_name "clj-djl", :version "0.1.9", :description nil, :created 1652777779627}
-{:jar_name "clj-chart", :group_name "io.github.kimim", :version "0.1.9", :description nil, :created 1652778078244}
-{:jar_name "witchcraft", :group_name "com.lambdaisland", :version "0.29.292", :description "Clojure API for Minecraft/Glowstone/Bukkit", :created 1652779247321}
-{:jar_name "scheduling.twarc", :group_name "dev.gethop", :version "0.6.1", :description "Duct library that provides Integrant keys for using Twarc scheduling library with persistent JobStore", :created 1652783275605}
 {:jar_name "dropwizard-primer", :group_name "io.raven.dropwizard", :version "2.0.16-2", :description nil, :created 1652789792594}
 {:jar_name "pathom3", :group_name "com.wsscode", :version "2022.05.17-alpha", :description "Logic programming via semantic attributes.", :created 1652791721271}
 {:jar_name "hermes", :group_name "com.eldrix", :version "0.12.645", :description nil, :created 1652792476912}
@@ -101,7 +96,6 @@
 {:jar_name "lein-marginalia", :group_name "org.clojars.lambder", :version "0.9.2-SNAPSHOT", :description "Leiningen plugin for Marginalia.", :created 1653051297230}
 {:jar_name "fastmath", :group_name "generateme", :version "2.1.9-SNAPSHOT", :description "Fast and primitive math library", :created 1653051909274}
 {:jar_name "tonos-client", :group_name "tonos-client", :version "1.34.0", :description "Clojure bindings to TON OS SDK's Core Client Library", :created 1653057522510}
-{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.9.4-enrich_serializer_exception_info-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1653060341313}
 {:jar_name "tupelo", :group_name "tupelo", :version "22.05.20", :description "Tupelo:  Clojure With A Spoonful of Honey", :created 1653060673580}
 {:jar_name "lingo", :group_name "com.exoscale", :version "1.0.0-alpha19", :description "exoscale spec explain utils", :created 1653060806079}
 {:jar_name "object-storage.ftp", :group_name "dev.gethop", :version "0.1.7", :description "A library that provides an Integrant key for managing objects in a FTP server", :created 1653065209899}
@@ -214,7 +208,6 @@
 {:jar_name "datahike-firebase", :group_name "alekcz", :version "0.5.1504-SNAPSHOT", :description "Datahike with Firebase as data storage", :created 1653233772938}
 {:jar_name "utilis", :group_name "com.7theta", :version "2.3.0", :description "Library of common utilities used in 7theta projects", :created 1653237158485}
 {:jar_name "phrag", :group_name "com.github.ykskb", :version "0.2.0", :description "GraphQL from a DB connection", :created 1653240994694}
-{:jar_name "babashka", :group_name "babashka", :version "0.8.3-SNAPSHOT", :description "babashka", :created 1653248975931}
 {:jar_name "tools-io-sftp", :group_name "com.oscaro", :version "0.1.3", :description "SFTP Implementation for tools-io", :created 1653254267826}
 {:jar_name "antq", :group_name "antq", :version "1.6.774", :description "Point out your outdated dependencies", :created 1653254725561}
 {:jar_name "antq", :group_name "com.github.liquidz", :version "1.6.774", :description "Point out your outdated dependencies", :created 1653254731771}
@@ -254,3 +247,10 @@
 {:jar_name "ui-highcharts", :group_name "org.pinkgorilla", :version "0.0.16", :description nil, :created 1653286535184}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.549", :description nil, :created 1653287665821}
 {:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.549", :description nil, :created 1653288036027}
+{:jar_name "babashka", :group_name "babashka", :version "0.8.3-SNAPSHOT", :description "babashka", :created 1653290125893}
+{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.9.4-enrich_serializer_exception_info-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1653290534948}
+{:jar_name "active-clojure", :group_name "de.active-group", :version "0.41.0", :description "Active Clojure: Various Clojure utilities in use at Active Group", :created 1653290981073}
+{:jar_name "reval", :group_name "org.pinkgorilla", :version "0.5.111", :description nil, :created 1653291492627}
+{:jar_name "tools-io-sftp", :group_name "com.oscaro", :version "0.1.4-SNAPSHOT", :description "SFTP Implementation for tools-io", :created 1653292146620}
+{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.550", :description nil, :created 1653292425356}
+{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.550", :description nil, :created 1653292716823}
