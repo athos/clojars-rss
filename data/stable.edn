@@ -1,5 +1,3 @@
-{:jar_name "commons", :group_name "lupapiste", :version "1.0.7", :description "Common domain code and resources for lupapiste applications", :created 1652795140753}
-{:jar_name "secret-storage.aws-ssm-ps", :group_name "dev.gethop", :version "0.5.1", :description "Store secret values in AWS Systems Manager Parameter Store", :created 1652798195140}
 {:jar_name "kushi", :group_name "org.clojars.paintparty", :version "1.0.0-alpha8", :description "ClojureScript CSS Solution", :created 1652804176024}
 {:jar_name "sluj", :group_name "com.github.rawleyfowler", :version "1.0.0", :description "Sluj, the small Slug creation tool.", :created 1652807475980}
 {:jar_name "sluj", :group_name "com.github.rawleyfowler", :version "1.0.1", :description "Sluj, the small but mighty slug creation tool.", :created 1652818250057}
@@ -254,3 +252,5 @@
 {:jar_name "dashboard-manager.grafana", :group_name "dev.gethop", :version "0.2.7", :description "A Duct library for managing dashboards and associated users and organizations in Grafana", :created 1653406466456}
 {:jar_name "routes", :group_name "club.donutpower", :version "0.0.2", :description nil, :created 1653411599541}
 {:jar_name "phrag", :group_name "com.github.ykskb", :version "0.3.1", :description "GraphQL from a DB connection", :created 1653411820489}
+{:jar_name "duct.database.datomic", :group_name "hden", :version "0.3.0", :description "Integrant methods for connecting to a Datomic Cloud database", :created 1653413946716}
+{:jar_name "duct.module.datomic", :group_name "hden", :version "0.5.6", :description "A Duct module that adds Integrant keys for a Datomic database connection and Ragtime migrations to a configuration.", :created 1653414302983}
