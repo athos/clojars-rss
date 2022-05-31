@@ -1,5 +1,3 @@
-{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1653278455636}
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1653278462396}
 {:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1653278469136}
 {:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1653278475686}
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1653278482436}
@@ -202,7 +200,6 @@
 {:jar_name "nhspd", :group_name "com.eldrix", :version "1.1.39", :description nil, :created 1653812946779}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.05.30-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1653813911618}
 {:jar_name "clods", :group_name "com.eldrix", :version "1.1.190", :description nil, :created 1653814317404}
-{:jar_name "diehard", :group_name "diehard", :version "0.11.4-SNAPSHOT", :description "Safety utilities for Clojure", :created 1653814774849}
 {:jar_name "deprivare", :group_name "com.eldrix", :version "1.0.53", :description nil, :created 1653815567871}
 {:jar_name "tabtree", :group_name "org.clojars.prozion", :version "0.3.5", :description "Clojure library to parse tabtree format", :created 1653821870465}
 {:jar_name "strigui", :group_name "strigui", :version "0.0.1-alpha27", :description "A small GUI library.", :created 1653829280199}
@@ -254,3 +251,6 @@
 {:jar_name "sente", :group_name "com.taoensso", :version "1.17.0-alpha1", :description "Realtime web comms for Clojure/Script", :created 1653999829495}
 {:jar_name "paragon", :group_name "cc.artifice", :version "3.3.2", :description "An implementation and expansion of Neil Tennant's belief contraction system documented in Changes of Mind (2012, Oxford Univ. Press).", :created 1654001448023}
 {:jar_name "app-lib", :group_name "com.github.dgknght", :version "0.1.40", :description "Library of commonly used functions for web app development", :created 1654002506223}
+{:jar_name "mongo", :group_name "com.timezynk", :version "0.5.0", :description "Clojure wrapper for com.mongodb.client Java API.", :created 1654003527554}
+{:jar_name "diehard", :group_name "diehard", :version "0.11.4-SNAPSHOT", :description "Safety utilities for Clojure", :created 1654003838901}
+{:jar_name "lein-template.diplomat-http-service", :group_name "org.clojars.majorcluster", :version "0.2.0", :description "Diplomat architecture-pedestal styled template for leiningen generation", :created 1654004582124}
