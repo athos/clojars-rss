@@ -1,20 +1,3 @@
-{:jar_name "mongo", :group_name "com.timezynk", :version "0.5.4", :description "Clojure wrapper for com.mongodb.client Java API.", :created 1654102143652}
-{:jar_name "verter", :group_name "tolitius", :version "0.1.13-SNAPSHOT", :description "curator of the institute of time", :created 1654114607652}
-{:jar_name "clj-excel", :group_name "grafter", :version "0.1.0", :description "Excel bindings for Clojure, based on Apache POI.", :created 1654114983111}
-{:jar_name "jackdaw", :group_name "dfbernal", :version "0.9.6-master-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1654115566219}
-{:jar_name "via", :group_name "com.7theta", :version "11.2.1", :description "A library for WebSocket based messaging", :created 1654115786298}
-{:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.4.3-SNAPSHOT", :description "Templating engine for office documents.", :created 1654116992220}
-{:jar_name "antq", :group_name "antq", :version "1.7.798", :description nil, :created 1654117415537}
-{:jar_name "antq", :group_name "com.github.liquidz", :version "1.7.798", :description nil, :created 1654117420477}
-{:jar_name "polyprofile", :group_name "com.yetanalytics", :version "0.1.1", :description nil, :created 1654117594595}
-{:jar_name "grafter.tabular", :group_name "grafter", :version "0.11.4", :description "Tools for the hard graft of data processing", :created 1654118145230}
-{:jar_name "clj-ml", :group_name "org.clojars.punit-naik", :version "1.0.5", :description "Collection of ML and it's corresponsing utilities in Clojure", :created 1654118484817}
-{:jar_name "dialog", :group_name "com.amperity", :version "1.0.1", :description "Logging library for integration with Ken and various outputs.", :created 1654118497917}
-{:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.4.3", :description "Templating engine for office documents.", :created 1654119378449}
-{:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.4.4-SNAPSHOT", :description "Templating engine for office documents.", :created 1654121266802}
-{:jar_name "grafter.tabular", :group_name "grafter", :version "0.11.5", :description "Tools for the hard graft of data processing", :created 1654122466332}
-{:jar_name "lein-monolith", :group_name "lein-monolith", :version "1.7.1", :description "Leiningen plugin for managing subrojects within a monorepo.", :created 1654122731899}
-{:jar_name "clj-depend", :group_name "com.fabiodomingues", :version "0.6.0", :description "A Clojure namespace dependency analyzer", :created 1654124015707}
 {:jar_name "lein-clj-depend", :group_name "com.fabiodomingues", :version "0.3.0", :description "Lein plugin to run clj-depend", :created 1654124341174}
 {:jar_name "praxis", :group_name "com.github.ribelo", :version "0.0.5", :description nil, :created 1654127061980}
 {:jar_name "verter", :group_name "tolitius", :version "0.1.13", :description "curator of the institute of time", :created 1654133844297}
@@ -254,3 +237,20 @@
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1654905590862}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Malli integration", :created 1654905597772}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.31-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1654905607891}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.31", :description "An optional type system for Clojure", :created 1654905875267}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.31", :description "A variant of tools.analyzer.", :created 1654905880443}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.31", :description "A variant of tools.analyzer.jvm.", :created 1654905886651}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.31", :description "A variant of tools.analyzer.js.", :created 1654905892749}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.31", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1654905898867}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.31", :description "Type-like specs.", :created 1654905905669}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.31", :description "Type annotations and macros for the base Clojure distribution.", :created 1654905912139}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.0.31", :description "FIXME", :created 1654905918502}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.31", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1654905924723}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.31", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1654905931640}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.31", :description "Runtime dependencies for ClojureScript type system.", :created 1654905938174}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.31", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1654905944522}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.31", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1654905951060}
+{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.31", :description "Malli integration", :created 1654905957498}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.31", :description "Type annotations and macros for core.async.", :created 1654905964536}
+{:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.5.22", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1654907611540}
+{:jar_name "fulcro-rad", :group_name "com.fulcrologic", :version "1.2.2", :description "A library for rapid application development in Fulcro", :created 1654907755974}
