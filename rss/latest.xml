@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 16 Jun 2022 13:13:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jun 2022 14:01:35 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/dev.weavejester/ragtime/versions/0.9.2</guid>
+    <title>[dev.weavejester/ragtime &quot;0.9.2&quot;]</title>
+    <link>https://clojars.org/dev.weavejester/ragtime/versions/0.9.2</link>
+    <description>A database-independent migration library</description>
+    <pubDate>Thu, 16 Jun 2022 13:57:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.weavejester/ragtime.next-jdbc/versions/0.9.2</guid>
+    <title>[dev.weavejester/ragtime.next-jdbc &quot;0.9.2&quot;]</title>
+    <link>https://clojars.org/dev.weavejester/ragtime.next-jdbc/versions/0.9.2</link>
+    <description>Ragtime migrations for next.jdbc</description>
+    <pubDate>Thu, 16 Jun 2022 13:57:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.weavejester/ragtime.jdbc/versions/0.9.2</guid>
+    <title>[dev.weavejester/ragtime.jdbc &quot;0.9.2&quot;]</title>
+    <link>https://clojars.org/dev.weavejester/ragtime.jdbc/versions/0.9.2</link>
+    <description>Ragtime migrations for JDBC</description>
+    <pubDate>Thu, 16 Jun 2022 13:56:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.weavejester/ragtime.core/versions/0.9.2</guid>
+    <title>[dev.weavejester/ragtime.core &quot;0.9.2&quot;]</title>
+    <link>https://clojars.org/dev.weavejester/ragtime.core/versions/0.9.2</link>
+    <description>A database-independent migration library</description>
+    <pubDate>Thu, 16 Jun 2022 13:56:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fi.polycode/buildtools-git-revisions/versions/0.1.0</guid>
+    <title>[fi.polycode/buildtools-git-revisions &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/fi.polycode/buildtools-git-revisions/versions/0.1.0</link>
+    <description>Automatically control tools.build based project version based on Git and system metadata.</description>
+    <pubDate>Thu, 16 Jun 2022 13:53:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fi.polycode/lein-git-revisions/versions/1.1.0</guid>
+    <title>[fi.polycode/lein-git-revisions &quot;1.1.0&quot;]</title>
+    <link>https://clojars.org/fi.polycode/lein-git-revisions/versions/1.1.0</link>
+    <description>Automatically control Leiningen project version based on Git and system metadata.</description>
+    <pubDate>Thu, 16 Jun 2022 13:52:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/fi.polycode/git-revisions/versions/1.2.0</guid>
+    <title>[fi.polycode/git-revisions &quot;1.2.0&quot;]</title>
+    <link>https://clojars.org/fi.polycode/git-revisions/versions/1.2.0</link>
+    <description>Generate software revision strings based on Git and system context data.</description>
+    <pubDate>Thu, 16 Jun 2022 13:49:49 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/fi.polycode/buildtools-git-revisions/versions/0.0.1-SNAPSHOT</guid>
     <title>[fi.polycode/buildtools-git-revisions &quot;0.0.1-SNAPSHOT&quot;]</title>
@@ -1751,55 +1800,6 @@
     <link>https://clojars.org/org.clojars.liverm0r/dartclojure/versions/0.1.9-SNAPSHOT</link>
     <description>Opinionated Dart-&gt;Clojure translater</description>
     <pubDate>Thu, 9 Jun 2022 14:05:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.clojure-lsp/lsp4clj-server/versions/0.4.1</guid>
-    <title>[com.github.clojure-lsp/lsp4clj-server &quot;0.4.1&quot;]</title>
-    <link>https://clojars.org/com.github.clojure-lsp/lsp4clj-server/versions/0.4.1</link>
-    <description></description>
-    <pubDate>Thu, 9 Jun 2022 13:57:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.clojure-lsp/lsp4clj-protocols/versions/0.4.1</guid>
-    <title>[com.github.clojure-lsp/lsp4clj-protocols &quot;0.4.1&quot;]</title>
-    <link>https://clojars.org/com.github.clojure-lsp/lsp4clj-protocols/versions/0.4.1</link>
-    <description></description>
-    <pubDate>Thu, 9 Jun 2022 13:57:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.nilenso/goose/versions/0.1</guid>
-    <title>[com.nilenso/goose &quot;0.1&quot;]</title>
-    <link>https://clojars.org/com.nilenso/goose/versions/0.1</link>
-    <description></description>
-    <pubDate>Thu, 9 Jun 2022 13:26:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.mokr/plug-utils/versions/0.1.0-SNAPSHOT</guid>
-    <title>[net.clojars.mokr/plug-utils &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/net.clojars.mokr/plug-utils/versions/0.1.0-SNAPSHOT</link>
-    <description>Small util functions for clj and/or cljs</description>
-    <pubDate>Thu, 9 Jun 2022 12:20:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fi.polycode/lein-git-revisions/versions/1.0.1-SNAPSHOT</guid>
-    <title>[fi.polycode/lein-git-revisions &quot;1.0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/fi.polycode/lein-git-revisions/versions/1.0.1-SNAPSHOT</link>
-    <description>Automatically control Leiningen project version based on Git and system metadata.</description>
-    <pubDate>Thu, 9 Jun 2022 12:05:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.mokr/plug-ui/versions/0.1.0-SNAPSHOT</guid>
-    <title>[net.clojars.mokr/plug-ui &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/net.clojars.mokr/plug-ui/versions/0.1.0-SNAPSHOT</link>
-    <description>Reusable UI components for CLJS + Reagent + re-frame projects</description>
-    <pubDate>Thu, 9 Jun 2022 12:02:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.jpmonettas/flow-storm-dbg/versions/2.2.64</guid>
-    <title>[com.github.jpmonettas/flow-storm-dbg &quot;2.2.64&quot;]</title>
-    <link>https://clojars.org/com.github.jpmonettas/flow-storm-dbg/versions/2.2.64</link>
-    <description></description>
-    <pubDate>Thu, 9 Jun 2022 11:40:56 +0000</pubDate>
   </item>
   </channel>
 </rss>
