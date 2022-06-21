@@ -1,8 +1,3 @@
-{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.0.31", :description "FIXME", :created 1654905918502}
-{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.31", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1654905924723}
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.31", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1654905931640}
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.31", :description "Runtime dependencies for ClojureScript type system.", :created 1654905938174}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.31", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1654905944522}
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.31", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1654905951060}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.31", :description "Malli integration", :created 1654905957498}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.31", :description "Type annotations and macros for core.async.", :created 1654905964536}
@@ -254,3 +249,8 @@
 {:jar_name "lasagna-pull", :group_name "sg.flybot", :version "0.3.126", :description nil, :created 1655776189339}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.06.01-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1655796399207}
 {:jar_name "cavia", :group_name "cavia", :version "0.6.2-SNAPSHOT", :description "Test resource manager for Clojure project", :created 1655803420258}
+{:jar_name "clogram", :group_name "dev.meinside", :version "0.12.0", :description "A Telegram Bot Library for Clojure", :created 1655806398663}
+{:jar_name "clerk", :group_name "io.github.nextjournal", :version "0.8.486", :description nil, :created 1655807556473}
+{:jar_name "fickle", :group_name "me.mourjo", :version "0.1.0", :description "Dynamically redefine Clojure functions", :created 1655808118458}
+{:jar_name "proof-spec-gen", :group_name "nl.jomco", :version "0.1.0", :description "Automatic testing of clojure.spec data generators", :created 1655808885942}
+{:jar_name "proof-specs", :group_name "nl.jomco", :version "0.1.1", :description "Automatic testing of clojure.spec data generators", :created 1655808945282}
