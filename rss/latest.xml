@@ -4,7 +4,98 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 5 Jul 2022 14:02:28 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 5 Jul 2022 15:01:41 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.1.4-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-zipkin &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.1.4-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter</description>
+    <pubDate>Tue, 5 Jul 2022 14:49:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp/versions/0.1.4-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-otlp &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp/versions/0.1.4-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters</description>
+    <pubDate>Tue, 5 Jul 2022 14:49:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.1.4-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging-otlp &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.1.4-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only</description>
+    <pubDate>Tue, 5 Jul 2022 14:49:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.1.4-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.1.4-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only</description>
+    <pubDate>Tue, 5 Jul 2022 14:49:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-thrift/versions/0.1.4-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-jaeger-thrift &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-thrift/versions/0.1.4-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter</description>
+    <pubDate>Tue, 5 Jul 2022 14:49:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-grpc/versions/0.1.4-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-jaeger-grpc &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-grpc/versions/0.1.4-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter</description>
+    <pubDate>Tue, 5 Jul 2022 14:49:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.1.4-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-extension-trace-propagators &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.1.4-SNAPSHOT</link>
+    <description>Provides access using Clojure to additional OpenTelemetry trace propagators</description>
+    <pubDate>Tue, 5 Jul 2022 14:48:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-aws/versions/0.1.4-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-extension-aws &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-aws/versions/0.1.4-SNAPSHOT</link>
+    <description>Provides access using Clojure to OpenTelemetry extensions for AWS</description>
+    <pubDate>Tue, 5 Jul 2022 14:48:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-resources/versions/0.1.4-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-resources &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-resources/versions/0.1.4-SNAPSHOT</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process</description>
+    <pubDate>Tue, 5 Jul 2022 14:48:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.1.4-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.1.4-SNAPSHOT</link>
+    <description>Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type</description>
+    <pubDate>Tue, 5 Jul 2022 14:48:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-aws/versions/0.1.4-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-aws &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-aws/versions/0.1.4-SNAPSHOT</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform</description>
+    <pubDate>Tue, 5 Jul 2022 14:48:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.1.4-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.1.4-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK</description>
+    <pubDate>Tue, 5 Jul 2022 14:48:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.1.4-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-api &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.1.4-SNAPSHOT</link>
+    <description>An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry</description>
+    <pubDate>Tue, 5 Jul 2022 14:48:18 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/refactor-nrepl/versions/3.5.3</guid>
     <title>[refactor-nrepl &quot;3.5.3&quot;]</title>
@@ -1706,97 +1797,6 @@ application development.</description>
     <link>https://clojars.org/metosin/malli/versions/0.8.5</link>
     <description></description>
     <pubDate>Thu, 23 Jun 2022 10:00:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.atomist/api-cljs/versions/0.5.204</guid>
-    <title>[com.atomist/api-cljs &quot;0.5.204&quot;]</title>
-    <link>https://clojars.org/com.atomist/api-cljs/versions/0.5.204</link>
-    <description></description>
-    <pubDate>Thu, 23 Jun 2022 09:52:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.appsflyer/lein-protodeps/versions/1.0.4</guid>
-    <title>[com.appsflyer/lein-protodeps &quot;1.0.4&quot;]</title>
-    <link>https://clojars.org/com.appsflyer/lein-protodeps/versions/1.0.4</link>
-    <description>Leiningen plugin for consuming and compiling protobuf schemas</description>
-    <pubDate>Thu, 23 Jun 2022 09:18:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.raven.dropwizard/dropwizard-primer/versions/2.0.31</guid>
-    <title>[io.raven.dropwizard/dropwizard-primer &quot;2.0.31&quot;]</title>
-    <link>https://clojars.org/io.raven.dropwizard/dropwizard-primer/versions/2.0.31</link>
-    <description></description>
-    <pubDate>Thu, 23 Jun 2022 05:34:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.pmonks/clj-wcwidth/versions/1.0.38</guid>
-    <title>[com.github.pmonks/clj-wcwidth &quot;1.0.38&quot;]</title>
-    <link>https://clojars.org/com.github.pmonks/clj-wcwidth/versions/1.0.38</link>
-    <description>Pure Clojure implementations of wcwidth/wcswidth.</description>
-    <pubDate>Thu, 23 Jun 2022 01:46:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/day8.re-frame/re-frame-10x/versions/1.4.1</guid>
-    <title>[day8.re-frame/re-frame-10x &quot;1.4.1&quot;]</title>
-    <link>https://clojars.org/day8.re-frame/re-frame-10x/versions/1.4.1</link>
-    <description>Become 10x more productive when developing and debugging re-frame applications.</description>
-    <pubDate>Wed, 22 Jun 2022 23:55:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.clojure-lsp/clojure-lsp-standalone/versions/2022.06.22-14.09.50-hotfix1</guid>
-    <title>[com.github.clojure-lsp/clojure-lsp-standalone &quot;2022.06.22-14.09.50-hotfix1&quot;]</title>
-    <link>https://clojars.org/com.github.clojure-lsp/clojure-lsp-standalone/versions/2022.06.22-14.09.50-hotfix1</link>
-    <description></description>
-    <pubDate>Wed, 22 Jun 2022 21:51:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.fabiodomingues/lein-clj-depend/versions/0.3.1</guid>
-    <title>[com.fabiodomingues/lein-clj-depend &quot;0.3.1&quot;]</title>
-    <link>https://clojars.org/com.fabiodomingues/lein-clj-depend/versions/0.3.1</link>
-    <description>Lein plugin to run clj-depend</description>
-    <pubDate>Wed, 22 Jun 2022 21:34:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.fabiodomingues/clj-depend/versions/0.6.1</guid>
-    <title>[com.fabiodomingues/clj-depend &quot;0.6.1&quot;]</title>
-    <link>https://clojars.org/com.fabiodomingues/clj-depend/versions/0.6.1</link>
-    <description>A Clojure namespace dependency analyzer</description>
-    <pubDate>Wed, 22 Jun 2022 21:32:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.pitch/uix.dom/versions/0.2.0</guid>
-    <title>[com.pitch/uix.dom &quot;0.2.0&quot;]</title>
-    <link>https://clojars.org/com.pitch/uix.dom/versions/0.2.0</link>
-    <description></description>
-    <pubDate>Wed, 22 Jun 2022 20:39:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.pitch/uix.core/versions/0.2.0</guid>
-    <title>[com.pitch/uix.core &quot;0.2.0&quot;]</title>
-    <link>https://clojars.org/com.pitch/uix.core/versions/0.2.0</link>
-    <description></description>
-    <pubDate>Wed, 22 Jun 2022 20:39:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.fulcrologic/fulcro-rad-semantic-ui/versions/1.2.11-SNAPSHOT</guid>
-    <title>[com.fulcrologic/fulcro-rad-semantic-ui &quot;1.2.11-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.fulcrologic/fulcro-rad-semantic-ui/versions/1.2.11-SNAPSHOT</link>
-    <description>A UI plugin for Fulcro RAD that renders to web/electron using Semantic UI CSS</description>
-    <pubDate>Wed, 22 Jun 2022 20:20:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ch.codesmith/logger/versions/0.6.89</guid>
-    <title>[ch.codesmith/logger &quot;0.6.89&quot;]</title>
-    <link>https://clojars.org/ch.codesmith/logger/versions/0.6.89</link>
-    <description>Thin macro layer on top of SLF4J</description>
-    <pubDate>Wed, 22 Jun 2022 19:01:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.clojure-lsp/lein-clojure-lsp/versions/1.3.9</guid>
-    <title>[com.github.clojure-lsp/lein-clojure-lsp &quot;1.3.9&quot;]</title>
-    <link>https://clojars.org/com.github.clojure-lsp/lein-clojure-lsp/versions/1.3.9</link>
-    <description>Lein plugin to run clojure-lsp features via API.</description>
-    <pubDate>Wed, 22 Jun 2022 18:14:47 +0000</pubDate>
   </item>
   </channel>
 </rss>
