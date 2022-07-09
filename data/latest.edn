@@ -1,5 +1,3 @@
-{:jar_name "app-lib", :group_name "com.github.dgknght", :version "0.2.1", :description "Library of commonly used functions for web app development", :created 1656337134934}
-{:jar_name "deps.clj", :group_name "borkdude", :version "0.1.1101-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1656343454794}
 {:jar_name "mongo", :group_name "com.timezynk", :version "0.5.19", :description "Clojure wrapper for com.mongodb.client Java API.", :created 1656344958203}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20220627-171621.1fd8554c", :description nil, :created 1656350234663}
 {:jar_name "trapperkeeper-webserver-jetty9", :group_name "puppetlabs", :version "4.3.0", :description "A jetty9-based webserver implementation for use with the puppetlabs/trapperkeeper service framework.", :created 1656352067930}
@@ -254,3 +252,5 @@
 {:jar_name "keycloak-clojure", :group_name "keycloak-clojure", :version "1.28.4", :description "A clojure wrapper of Keycloak", :created 1657365106060}
 {:jar_name "dartclojure", :group_name "org.clojars.liverm0r", :version "0.2.10-SNAPSHOT", :description "Opinionated Dart->Clojure translater", :created 1657366490351}
 {:jar_name "lein-google-cloud-artifact-registry", :group_name "org.clojars.afrey", :version "1.0.0-rc.1", :description "A leiningen plugin that enables fetching dependencies from Google\n  Cloud Artifact Registry maven repositories.", :created 1657375543463}
+{:jar_name "clj-mdc", :group_name "de.danjou", :version "0.2.6", :description "Utils for dealing with MDC", :created 1657384288699}
+{:jar_name "clj-xml", :group_name "com.wallbrew", :version "1.7.1", :description "The missing link between clj and xml", :created 1657385945797}
