@@ -1,5 +1,3 @@
-{:jar_name "clj-otel-extension-trace-propagators", :group_name "com.github.steffan-westcott", :version "0.1.4", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1657045628017}
-{:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "com.github.steffan-westcott", :version "0.1.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter", :created 1657045632527}
 {:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "com.github.steffan-westcott", :version "0.1.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter", :created 1657045637257}
 {:jar_name "clj-otel-exporter-logging", :group_name "com.github.steffan-westcott", :version "0.1.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :created 1657045641807}
 {:jar_name "clj-otel-exporter-logging-otlp", :group_name "com.github.steffan-westcott", :version "0.1.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1657045646387}
@@ -254,3 +252,5 @@
 {:jar_name "tap", :group_name "io.github.rads", :version "0.2.0-alpha1", :description nil, :created 1657987940663}
 {:jar_name "hasht", :group_name "io.github.rads", :version "0.2.1", :description "A better \"prn\" for debugging", :created 1657988028534}
 {:jar_name "clj-yahoo-finance", :group_name "net.clojars.kaiuri", :version "1.0.14", :description "Clojure library for fetching yahoo-finance historical data.", :created 1657989263535}
+{:jar_name "spring-boost", :group_name "org.msync", :version "0.2.0-SNAPSHOT", :description "Just add dependency, sprinkle some config, and run Clojure in your Springboot application.", :created 1657995562547}
+{:jar_name "malli-ts", :group_name "org.clojars.flowyourmoney", :version "0.1.2", :description "A library for generating TS type definitions from malli schemas", :created 1657997307715}
