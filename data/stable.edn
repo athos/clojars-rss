@@ -1,5 +1,3 @@
-{:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.1.4", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1657045599907}
-{:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.1.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :created 1657045604887}
 {:jar_name "clj-otel-sdk-extension-aws", :group_name "com.github.steffan-westcott", :version "0.1.4", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1657045609477}
 {:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.1.4", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1657045614137}
 {:jar_name "clj-otel-sdk-extension-resources", :group_name "com.github.steffan-westcott", :version "0.1.4", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1657045618687}
@@ -254,3 +252,5 @@
 {:jar_name "clj-template", :group_name "clojurephant-clj-app", :version "0.7.0-alpha.2", :description nil, :created 1658104598039}
 {:jar_name "clj-template", :group_name "clojurephant-clj-lib", :version "0.7.0-alpha.2", :description nil, :created 1658104606398}
 {:jar_name "clj-template", :group_name "clojurephant-cljs-app", :version "0.7.0-alpha.2", :description nil, :created 1658104614467}
+{:jar_name "fk-turbo-common", :group_name "com.flipkart.turborelayer", :version "1.0.0", :description nil, :created 1658121328844}
+{:jar_name "turbo-client", :group_name "com.flipkart.turborelayer", :version "2.4.0", :description nil, :created 1658121982310}
