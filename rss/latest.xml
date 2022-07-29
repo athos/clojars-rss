@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 29 Jul 2022 10:01:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 Jul 2022 11:01:29 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.thheller/shadow-grove/versions/0.4.0</guid>
+    <title>[com.thheller/shadow-grove &quot;0.4.0&quot;]</title>
+    <link>https://clojars.org/com.thheller/shadow-grove/versions/0.4.0</link>
+    <description>A ClojureScript system to build browser based frontends</description>
+    <pubDate>Fri, 29 Jul 2022 10:50:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/babashka/versions/0.8.158-SNAPSHOT</guid>
+    <title>[babashka &quot;0.8.158-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/babashka/versions/0.8.158-SNAPSHOT</link>
+    <description>babashka</description>
+    <pubDate>Fri, 29 Jul 2022 10:33:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.babashka/cli/versions/0.3.34</guid>
+    <title>[org.babashka/cli &quot;0.3.34&quot;]</title>
+    <link>https://clojars.org/org.babashka/cli/versions/0.3.34</link>
+    <description>Turn Clojure functions into CLIs!</description>
+    <pubDate>Fri, 29 Jul 2022 10:15:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/congraph/versions/0.1.1</guid>
+    <title>[congraph &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/congraph/versions/0.1.1</link>
+    <description>a db connection management library that copies heavly from conman but allows for multiple type of connections</description>
+    <pubDate>Fri, 29 Jul 2022 10:11:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.rams-services/hugcypher/versions/0.1.0</guid>
+    <title>[net.clojars.rams-services/hugcypher &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.rams-services/hugcypher/versions/0.1.0</link>
+    <description>HugCypher offers a similar experience to the excellent HugSql library but for cypher. As a matter of fact this library copies some very important parts from HugSql. It extends the original hugneo4j by providing support for both neo4j and arcadedb</description>
+    <pubDate>Fri, 29 Jul 2022 10:09:37 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.erdos/stencil-core/versions/0.4.7-SNAPSHOT</guid>
     <title>[io.github.erdos/stencil-core &quot;0.4.7-SNAPSHOT&quot;]</title>
@@ -277,13 +312,6 @@
     <link>https://clojars.org/org.clojars.philipperolet/clj-qp/versions/0.4</link>
     <description>Lib to solve quadratic programs in clojure, wrapping FICO xpress solver</description>
     <pubDate>Wed, 27 Jul 2022 15:45:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/babashka/versions/0.8.158-SNAPSHOT</guid>
-    <title>[babashka &quot;0.8.158-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/babashka/versions/0.8.158-SNAPSHOT</link>
-    <description>babashka</description>
-    <pubDate>Wed, 27 Jul 2022 15:41:41 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/de.active-group/active-riemann/versions/0.9.0</guid>
@@ -1768,34 +1796,6 @@
     <link>https://clojars.org/org.clojars.flowyourmoney/malli-ts/versions/0.1.2</link>
     <description>A library for generating TS type definitions from malli schemas</description>
     <pubDate>Sat, 16 Jul 2022 18:48:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.msync/spring-boost/versions/0.2.0-SNAPSHOT</guid>
-    <title>[org.msync/spring-boost &quot;0.2.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.msync/spring-boost/versions/0.2.0-SNAPSHOT</link>
-    <description>Just add dependency, sprinkle some config, and run Clojure in your Springboot application.</description>
-    <pubDate>Sat, 16 Jul 2022 18:19:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.kaiuri/clj-yahoo-finance/versions/1.0.14</guid>
-    <title>[net.clojars.kaiuri/clj-yahoo-finance &quot;1.0.14&quot;]</title>
-    <link>https://clojars.org/net.clojars.kaiuri/clj-yahoo-finance/versions/1.0.14</link>
-    <description>Clojure library for fetching yahoo-finance historical data.</description>
-    <pubDate>Sat, 16 Jul 2022 16:34:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.rads/hasht/versions/0.2.1</guid>
-    <title>[io.github.rads/hasht &quot;0.2.1&quot;]</title>
-    <link>https://clojars.org/io.github.rads/hasht/versions/0.2.1</link>
-    <description>A better &quot;prn&quot; for debugging</description>
-    <pubDate>Sat, 16 Jul 2022 16:13:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.rads/tap/versions/0.2.0-alpha1</guid>
-    <title>[io.github.rads/tap &quot;0.2.0-alpha1&quot;]</title>
-    <link>https://clojars.org/io.github.rads/tap/versions/0.2.0-alpha1</link>
-    <description></description>
-    <pubDate>Sat, 16 Jul 2022 16:12:20 +0000</pubDate>
   </item>
   </channel>
 </rss>
