@@ -1,5 +1,3 @@
-{:jar_name "via", :group_name "com.7theta", :version "11.6.4", :description "A library for WebSocket based messaging", :created 1658849141230}
-{:jar_name "state-flow", :group_name "nubank", :version "5.14.2", :description "Integration testing with composable flows", :created 1658853295184}
 {:jar_name "portal", :group_name "djblue", :version "0.29.0", :description "A clojure tool to navigate through your data.", :created 1658854800870}
 {:jar_name "kaocha", :group_name "lambdaisland", :version "1.69.1069", :description "Full featured next generation test runner for Clojure.", :created 1658860905878}
 {:jar_name "clj-assorted-utils", :group_name "clj-assorted-utils", :version "1.19.0", :description "Unsorted bunch of helper and utility functions.", :created 1658863130802}
@@ -61,7 +59,6 @@
 {:jar_name "refactor-nrepl", :group_name "refactor-nrepl", :version "3.5.4", :description "nREPL middleware to support editor-agnostic refactoring", :created 1659074275704}
 {:jar_name "struct", :group_name "org.clojars.t_yano", :version "2.0-SNAPSHOT", :description "A structural validation library for Clojure(Script)", :created 1659083038393}
 {:jar_name "cli", :group_name "org.babashka", :version "0.3.33", :description "Turn Clojure functions into CLIs!", :created 1659087874441}
-{:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.4.7-SNAPSHOT", :description "Templating engine for office documents.", :created 1659088531796}
 {:jar_name "hugcypher", :group_name "net.clojars.rams-services", :version "0.1.0", :description "HugCypher offers a similar experience to the excellent HugSql library but for cypher. As a matter of fact this library copies some very important parts from HugSql. It extends the original hugneo4j by providing support for both neo4j and arcadedb", :created 1659089377650}
 {:jar_name "congraph", :group_name "congraph", :version "0.1.1", :description "a db connection management library that copies heavly from conman but allows for multiple type of connections", :created 1659089510229}
 {:jar_name "cli", :group_name "org.babashka", :version "0.3.34", :description "Turn Clojure functions into CLIs!", :created 1659089731338}
@@ -211,7 +208,6 @@
 {:jar_name "reveal", :group_name "vlaaad", :version "1.3.274", :description nil, :created 1659701040561}
 {:jar_name "reveal-pro", :group_name "dev.vlaaad", :version "1.3.347", :description nil, :created 1659702626457}
 {:jar_name "clj-gcloud-common", :group_name "com.oscaro", :version "0.176-1.0", :description "Common library for all google cloud clojure wrappers", :created 1659703328768}
-{:jar_name "babashka", :group_name "babashka", :version "0.9.162-SNAPSHOT", :description "babashka", :created 1659703863744}
 {:jar_name "clj-gcloud-storage", :group_name "com.oscaro", :version "0.176-1.0", :description "Clojure wrapper for google-cloud-storage Java client", :created 1659705418284}
 {:jar_name "tools-io", :group_name "com.oscaro", :version "0.3.28-SNAPSHOT", :description "Oscaro's generic I/O tools collection", :created 1659709038891}
 {:jar_name "lucene-text-analysis", :group_name "lt.jocas", :version "1.0.15", :description "(Micro)Library to analyze text with Lucene analyzers.", :created 1659709600748}
@@ -254,3 +250,7 @@
 {:jar_name "odoyle-rum", :group_name "net.sekao", :version "0.12.0", :description "Make Rum components with O'Doyle Rules", :created 1659778443491}
 {:jar_name "paravim", :group_name "paravim", :version "0.18.7", :description "A parasitic editor for Clojure", :created 1659778789589}
 {:jar_name "clojask-io", :group_name "com.github.clojure-finance", :version "1.0.3", :description "A Clojure library designed to extend the file support for Clojask. This library can also be used alone to read in and output dataset files.", :created 1659781343012}
+{:jar_name "deps.clj", :group_name "borkdude", :version "0.1.1101-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1659788776219}
+{:jar_name "babashka", :group_name "babashka", :version "0.9.162-SNAPSHOT", :description "babashka", :created 1659788967031}
+{:jar_name "cljs-text-editor", :group_name "net.eighttrigrams", :version "0.0.12", :description nil, :created 1659789936218}
+{:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.4.7-SNAPSHOT", :description "Templating engine for office documents.", :created 1659790225646}
