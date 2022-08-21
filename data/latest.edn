@@ -1,7 +1,3 @@
-{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.0.32-SNAPSHOT", :description "FIXME", :created 1659810257639}
-{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.32-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1659810265279}
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.32-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1659810273409}
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.32-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1659810281249}
 {:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.32-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1659810289469}
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.32-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1659810297109}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.32-SNAPSHOT", :description "Malli integration", :created 1659810305019}
@@ -254,3 +250,7 @@
 {:jar_name "blockchain-misc-clj", :group_name "ai.z7", :version "0.0.2", :description "The Clojure-helpers to make blockchain development less painful", :created 1661012665848}
 {:jar_name "hiccup-server-components", :group_name "net.clojars.t_d_c", :version "0.12.0", :description nil, :created 1661012873584}
 {:jar_name "tech.ml.dataset.sql", :group_name "techascent", :version "6.047-SNAPSHOT", :description nil, :created 1661031831920}
+{:jar_name "async-utils", :group_name "deercreeklabs", :version "0.1.25", :description "Utilities for async programming and testing in Clojure and Clojurescript", :created 1661053066655}
+{:jar_name "stockroom", :group_name "deercreeklabs", :version "0.3.7", :description "Clojure/Clojurescript cache, using the Clock algorithm.", :created 1661053559172}
+{:jar_name "talk2", :group_name "com.deercreeklabs", :version "0.2.8", :description nil, :created 1661053941870}
+{:jar_name "andrewslai", :group_name "org.clojars.alai57", :version "0.0.62", :description "The backend for alai57's blogging app", :created 1661055103955}
