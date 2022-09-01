@@ -1,9 +1,3 @@
-{:jar_name "toucan2", :group_name "io.github.camsaul", :version "0.9.365", :description nil, :created 1661231495812}
-{:jar_name "k8s-api", :group_name "nubank", :version "0.2.0-SNAPSHOT", :description "A library to talk with kubernetes api", :created 1661236703445}
-{:jar_name "datasplash", :group_name "datasplash", :version "0.7.11", :description "Clojure API for a more dynamic Google Cloud Dataflow and (hopefully) Apache BEAM", :created 1661241655090}
-{:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.226", :description nil, :created 1661253673054}
-{:jar_name "protomic", :group_name "com.github.hden", :version "0.2.1-SNAPSHOT", :description "Async client API for Datomic with Promesa.", :created 1661258488688}
-{:jar_name "commons", :group_name "lupapiste", :version "3.0.0", :description "Common domain code and resources for lupapiste applications", :created 1661259683412}
 {:jar_name "clojask", :group_name "com.github.clojure-finance", :version "1.2.4-prerelease", :description "Data analysis and manipulation library with parallel computing for larger-than-memory datasets", :created 1661262114189}
 {:jar_name "datasplash", :group_name "za.co.simply", :version "0.8.35", :description "Clojure API for a more dynamic Google Cloud Dataflow and (hopefully) Apache BEAM", :created 1661265059424}
 {:jar_name "bluegenes", :group_name "org.intermine", :version "1.4.4", :description "Bluegenes is a Clojure-powered user interface for InterMine, the biological data warehouse", :created 1661265965709}
@@ -187,7 +181,6 @@
 {:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.1.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1661809676381}
 {:jar_name "cli-tools", :group_name "io.github.hlship", :version "0.5", :description nil, :created 1661813978043}
 {:jar_name "utils", :group_name "io.randomseed", :version "1.2.15", :description "Random Utilities", :created 1661817421799}
-{:jar_name "tapestry", :group_name "teknql", :version "0.3.0-SNAPSHOT", :description "Loom for Clojure", :created 1661817802047}
 {:jar_name "fakeflix-schema", :group_name "org.clojars.pedroso", :version "1.0.1", :description "Fakeflix Schema library", :created 1661818701448}
 {:jar_name "fakeflix-datomic", :group_name "org.clojars.pedroso", :version "1.0.1", :description "Fakeflix Datomic library", :created 1661818908823}
 {:jar_name "lsp4clj", :group_name "com.github.clojure-lsp", :version "1.2.0", :description nil, :created 1661820859604}
@@ -254,3 +247,10 @@
 {:jar_name "active-logger", :group_name "de.active-group", :version "0.8.0-SNAPSHOT", :description "Active Logger: Utilities and DSL for logging on top of Timbre.", :created 1662039295060}
 {:jar_name "fastmath", :group_name "generateme", :version "2.1.9-SNAPSHOT", :description "Fast and primitive math library", :created 1662039458139}
 {:jar_name "servo", :group_name "com.7theta", :version "3.5.0", :description "A rehinkdb client library designed to integrate with signum", :created 1662044077119}
+{:jar_name "re-graph", :group_name "re-graph", :version "0.2.1-SNAPSHOT", :description "GraphQL client for re-frame applications", :created 1662048807521}
+{:jar_name "re-graph.clj-http-gniazdo", :group_name "re-graph.clj-http-gniazdo", :version "0.2.1-SNAPSHOT", :description "", :created 1662048826003}
+{:jar_name "re-graph.hato", :group_name "re-graph.hato", :version "0.2.1-SNAPSHOT", :description "", :created 1662048842864}
+{:jar_name "tapestry", :group_name "teknql", :version "0.3.0-SNAPSHOT", :description "Loom for Clojure", :created 1662051640899}
+{:jar_name "clojure-lsp", :group_name "com.github.clojure-lsp", :version "2022.09.01-15.27.31", :description nil, :created 1662051859697}
+{:jar_name "clojure-lsp-standalone", :group_name "com.github.clojure-lsp", :version "2022.09.01-15.27.31", :description nil, :created 1662051873727}
+{:jar_name "lein-clojure-lsp", :group_name "com.github.clojure-lsp", :version "1.3.12", :description "Lein plugin to run clojure-lsp features via API.", :created 1662051930876}
