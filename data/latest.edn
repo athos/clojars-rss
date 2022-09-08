@@ -1,4 +1,3 @@
-{:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.1.5-SNAPSHOT", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1661809575422}
 {:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.1.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :created 1661809585022}
 {:jar_name "clj-otel-sdk-extension-aws", :group_name "com.github.steffan-westcott", :version "0.1.5-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1661809593232}
 {:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.1.5-SNAPSHOT", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1661809601302}
@@ -225,7 +224,6 @@
 {:jar_name "datahike-csv-loader", :group_name "io.replikativ", :version "0.1.47", :description "CSV data loader for Datahike.", :created 1662602396410}
 {:jar_name "clj-statecharts", :group_name "clj-statecharts", :version "0.1.6", :description "StateChart for Clojure(script)", :created 1662609407092}
 {:jar_name "methodical", :group_name "methodical", :version "0.13.2-SNAPSHOT", :description "", :created 1662614030737}
-{:jar_name "methodical", :group_name "methodical", :version "0.14.0-SNAPSHOT", :description "", :created 1662615430383}
 {:jar_name "multitool", :group_name "org.parkerici", :version "0.0.24", :description "PICI utility library", :created 1662616032887}
 {:jar_name "toucan2", :group_name "io.github.camsaul", :version "1.0.0-beta2-SNAPSHOT", :description nil, :created 1662617681491}
 {:jar_name "toucan2-toucan1", :group_name "io.github.camsaul", :version "1.0.0-beta2-SNAPSHOT", :description nil, :created 1662617694240}
@@ -254,3 +252,5 @@
 {:jar_name "rcf", :group_name "com.avisi-apps.gaps", :version "0.0.54-SNAPSHOT", :description nil, :created 1662644000484}
 {:jar_name "oxbow", :group_name "oliyh", :version "0.1.4", :description "A Server Sent Events (SSE) client for cljs based on js/fetch", :created 1662644094316}
 {:jar_name "reitit-express", :group_name "com.avisi-apps.gaps", :version "0.0.54-SNAPSHOT", :description nil, :created 1662644137964}
+{:jar_name "methodical", :group_name "methodical", :version "0.14.0-SNAPSHOT", :description nil, :created 1662664589483}
+{:jar_name "lib", :group_name "open-company", :version "0.20.3-alpha1", :description "OpenCompany Common Library", :created 1662666365929}
