@@ -3,7 +3,6 @@
 {:jar_name "utils", :group_name "io.randomseed", :version "1.2.16", :description "Random Utilities", :created 1662033869504}
 {:jar_name "datoteka", :group_name "funcool", :version "3.0.66", :description nil, :created 1662035165844}
 {:jar_name "active-logger", :group_name "de.active-group", :version "0.8.0-SNAPSHOT", :description "Active Logger: Utilities and DSL for logging on top of Timbre.", :created 1662039295060}
-{:jar_name "fastmath", :group_name "generateme", :version "2.1.9-SNAPSHOT", :description "Fast and primitive math library", :created 1662039458139}
 {:jar_name "servo", :group_name "com.7theta", :version "3.5.0", :description "A rehinkdb client library designed to integrate with signum", :created 1662044077119}
 {:jar_name "re-graph", :group_name "re-graph", :version "0.2.1-SNAPSHOT", :description "GraphQL client for re-frame applications", :created 1662048807521}
 {:jar_name "re-graph.clj-http-gniazdo", :group_name "re-graph.clj-http-gniazdo", :version "0.2.1-SNAPSHOT", :description "", :created 1662048826003}
@@ -76,7 +75,6 @@
 {:jar_name "konserve-jdbc", :group_name "alekcz", :version "0.1.1-SNAPSHOT", :description "A generic JDBC backend for konserve.", :created 1662298035339}
 {:jar_name "skyscraper", :group_name "skyscraper", :version "0.3.3", :description "Structural scraping for the rest of us.", :created 1662308659105}
 {:jar_name "retroact", :group_name "com.insilicalabs", :version "0.1.0", :description "An experiment in creating a React like library in Clojure for Clojure, Java, and Swing.", :created 1662308790936}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.3.999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1662312825185}
 {:jar_name "api-cljs", :group_name "com.atomist", :version "0.5.235", :description nil, :created 1662314295162}
 {:jar_name "temporal-sdk", :group_name "io.github.manetu", :version "0.1.0", :description "A Temporal SDK for Clojure", :created 1662320876530}
 {:jar_name "sentry-clj", :group_name "io.sentry", :version "6.4.183", :description "A very thin wrapper around the official Java library for Sentry.", :created 1662322338432}
@@ -254,3 +252,5 @@
 {:jar_name "lein-template", :group_name "io.github.kit-clj", :version "0.1.26", :description nil, :created 1662929070420}
 {:jar_name "kit-nrepl", :group_name "io.github.kit-clj", :version "1.0.1", :description nil, :created 1662929116010}
 {:jar_name "ham-fisted", :group_name "com.cnuernber", :version "1.000-beta-6", :description nil, :created 1662931410810}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.3.999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1662934354577}
+{:jar_name "fastmath", :group_name "generateme", :version "2.1.9-SNAPSHOT", :description "Fast and primitive math library", :created 1662937101985}
