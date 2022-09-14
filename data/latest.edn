@@ -1,4 +1,3 @@
-{:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "com.github.steffan-westcott", :version "0.1.5", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter", :created 1662234285546}
 {:jar_name "clj-otel-exporter-logging", :group_name "com.github.steffan-westcott", :version "0.1.5", :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :created 1662234292865}
 {:jar_name "clj-otel-exporter-logging-otlp", :group_name "com.github.steffan-westcott", :version "0.1.5", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1662234299865}
 {:jar_name "clj-otel-exporter-otlp", :group_name "com.github.steffan-westcott", :version "0.1.5", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :created 1662234307675}
@@ -143,7 +142,6 @@
 {:jar_name "db", :group_name "com.fluree", :version "2.0.0-alpha6", :description nil, :created 1662749982704}
 {:jar_name "reveal", :group_name "vlaaad", :version "1.3.276", :description nil, :created 1662751847396}
 {:jar_name "reveal-pro", :group_name "dev.vlaaad", :version "1.3.351", :description nil, :created 1662751993975}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.09.09-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1662752423373}
 {:jar_name "methodical", :group_name "methodical", :version "0.15.0-SNAPSHOT", :description nil, :created 1662767539778}
 {:jar_name "temporal-sdk", :group_name "io.github.manetu", :version "0.5.0", :description "A Temporal SDK for Clojure", :created 1662774732207}
 {:jar_name "spread", :group_name "us.chouser", :version "0.0.1", :description nil, :created 1662781130649}
@@ -254,3 +252,5 @@
 {:jar_name "datahike-csv-loader", :group_name "io.replikativ", :version "0.1.53", :description "CSV data loader for Datahike.", :created 1663175352772}
 {:jar_name "fulcro-rad-datomic", :group_name "com.fulcrologic", :version "1.3.2", :description "A Datomic database driver for Fulcro RAD.", :created 1663175901059}
 {:jar_name "clj-template.klib", :group_name "dev.kwill", :version "1.0.1", :description nil, :created 1663178337917}
+{:jar_name "clj-template.klib", :group_name "dev.kwill", :version "1.0.4", :description nil, :created 1663179815679}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.09.09-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1663180973344}
