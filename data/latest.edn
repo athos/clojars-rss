@@ -1,10 +1,3 @@
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.32", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1663385584822}
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.32", :description "Runtime dependencies for ClojureScript type system.", :created 1663385591582}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.32", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1663385598352}
-{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.32", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1663385604422}
-{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.32", :description "Malli integration", :created 1663385610692}
-{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.32", :description "Type annotations and macros for core.async.", :created 1663385616842}
-{:jar_name "jet", :group_name "twosigma", :version "0.7.10-20220917_061811-g0d23827", :description "Jetty9 ring server adapter with WebSocket support", :created 1663396084947}
 {:jar_name "closeable-map", :group_name "piotr-yuxuan", :version "0.36.0", :description "Application state management made simple: a Clojure map that implements java.io.Closeable.", :created 1663404629030}
 {:jar_name "nuzzle", :group_name "codes.stel", :version "0.6.392", :description nil, :created 1663405912533}
 {:jar_name "closeable-map", :group_name "piotr-yuxuan", :version "0.36.1", :description "Application state management made simple: a Clojure map that implements java.io.Closeable.", :created 1663407295776}
@@ -254,3 +247,10 @@
 {:jar_name "docjure", :group_name "dk.ative", :version "1.19.0-SNAPSHOT", :description "Easily read and write Office documents from Clojure.", :created 1664277911552}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20220927-114504.70f82fd8", :description nil, :created 1664279143831}
 {:jar_name "tailwind-hiccup-tooling", :group_name "io.github.andrzejsliwa", :version "0.1.4", :description nil, :created 1664279489706}
+{:jar_name "missionary", :group_name "missionary", :version "b.27-SNAPSHOT", :description "A functional effect and streaming system for clojure and clojurescript.", :created 1664280743101}
+{:jar_name "tailwind-hiccup-tooling", :group_name "io.github.andrzejsliwa", :version "0.1.5", :description "library provides ability of writing multiline\n  tailwind classes", :created 1664281310436}
+{:jar_name "charred", :group_name "com.cnuernber", :version "1.014", :description nil, :created 1664282782141}
+{:jar_name "struct", :group_name "org.clojars.t_yano", :version "2.0-SNAPSHOT", :description "A structural validation library for Clojure(Script)", :created 1664282791871}
+{:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.0.204", :description nil, :created 1664283151984}
+{:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.0.204", :description nil, :created 1664283189614}
+{:jar_name "muotti", :group_name "fi.polycode", :version "0.2.0", :description "Muotti is a graph based value transformer library which aims to solve value transformation by utilizing\n                a digraph of known transformations to produce a transformer chain which is then used to perform the\n                actual transformation.", :created 1664284338205}
