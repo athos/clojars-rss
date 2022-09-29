@@ -1,19 +1,3 @@
-{:jar_name "nuzzle", :group_name "codes.stel", :version "0.6.452", :description nil, :created 1663629122964}
-{:jar_name "discljord-utils", :group_name "com.github.pmonks", :version "1.0.91", :description "Common utilities on top of the discljord library.", :created 1663635806523}
-{:jar_name "nuzzle", :group_name "codes.stel", :version "0.6.466", :description nil, :created 1663636881058}
-{:jar_name "ring-jetty9-adapter-http3", :group_name "info.sunng", :version "0.1.1", :description "Ring adapter for jetty 9 and above, meta package for http3", :created 1663642942269}
-{:jar_name "datalevin", :group_name "datalevin", :version "0.6.19", :description "A simple, fast and versatile Datalog database", :created 1663647849475}
-{:jar_name "datalevin-native", :group_name "org.clojars.huahaiy", :version "0.6.19", :description "Datalevin GraalVM native image and command line tool", :created 1663647886195}
-{:jar_name "mate", :group_name "taipei.404", :version "0.0.4", :description "Useful functions, some of which I wish were in the Clojure standard library.", :created 1663649500547}
-{:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.17.8", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1663654620611}
-{:jar_name "utils.spec.predicates", :group_name "com.nedap.staffing-solutions", :version "1.2.2-alpha1", :description "Selected, generic predicates that you might find handy when specing things.", :created 1663655550336}
-{:jar_name "pyramid", :group_name "town.lilac", :version "3.4.0", :description "A library for storing and querying graph data in a Clojure map", :created 1663657047388}
-{:jar_name "process", :group_name "babashka", :version "0.1.8", :description "Clojure wrapper for java.lang.ProcessBuilder", :created 1663667807698}
-{:jar_name "ornament", :group_name "com.lambdaisland", :version "0.5.65", :description "Clojure Styled Components", :created 1663668009297}
-{:jar_name "hookd", :group_name "com.github.ivarref", :version "0.1.22", :description "Consume return values of arbitrary Java methods in Clojure", :created 1663668928872}
-{:jar_name "launchpad", :group_name "com.lambdaisland", :version "0.3.26-alpha", :description "Clojure dev process launcher", :created 1663670529963}
-{:jar_name "morse", :group_name "org.clojars.bost", :version "0.0.0-169-0x4426", :description "Telegram Bot API", :created 1663675978615}
-{:jar_name "inspecter", :group_name "com.teachbanzai", :version "0.3.19", :description nil, :created 1663676616935}
 {:jar_name "edn-config", :group_name "com.dkdhub", :version "1.0.1", :description "A small library for explicit, intentful configuration.", :created 1663680612305}
 {:jar_name "common", :group_name "com.tick42.gateway", :version "3.0.18-SNAPSHOT", :description "", :created 1663685768430}
 {:jar_name "common-test", :group_name "com.tick42.gateway", :version "3.0.18-SNAPSHOT", :description "", :created 1663685781050}
@@ -254,3 +238,19 @@
 {:jar_name "konserve-jdbc", :group_name "alekcz", :version "0.2.0-SNAPSHOT", :description "A generic JDBC backend for konserve.", :created 1664447647798}
 {:jar_name "datahike-jdbc", :group_name "org.alekcz", :version "0.5.1510-SNAPSHOT", :description "Datahike with JDBC data storage backend", :created 1664447856955}
 {:jar_name "commons", :group_name "lupapiste", :version "3.1.6", :description "Common domain code and resources for lupapiste applications", :created 1664457380967}
+{:jar_name "clj-parent", :group_name "puppetlabs", :version "5.2.6", :description "", :created 1664461243115}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure", :created 1664463459040}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1664463471760}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1664463479570}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1664463490879}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1664463497849}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type-like specs.", :created 1664463506259}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1664463513669}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "FIXME", :created 1664463520769}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1664463528539}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1664463537629}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1664463545458}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1664463552418}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1664463561168}
+{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Malli integration", :created 1664463570088}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1664463578118}
