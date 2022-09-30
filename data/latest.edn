@@ -213,7 +213,6 @@
 {:jar_name "babashka", :group_name "babashka", :version "0.10.164-SNAPSHOT", :description "babashka", :created 1664439283481}
 {:jar_name "gx.cljc", :group_name "com.lambdaisland", :version "0.1.248-alpha", :description "", :created 1664442900857}
 {:jar_name "webbing", :group_name "com.lambdaisland", :version "0.3.17-alpha", :description "", :created 1664444506170}
-{:jar_name "datahike-jdbc", :group_name "org.alekcz", :version "0.5.1510-SNAPSHOT", :description "Datahike with JDBC data storage backend", :created 1664447856955}
 {:jar_name "commons", :group_name "lupapiste", :version "3.1.6", :description "Common domain code and resources for lupapiste applications", :created 1664457380967}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "5.2.6", :description "", :created 1664461243115}
 {:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure", :created 1664463459040}
@@ -244,7 +243,6 @@
 {:jar_name "edd-core", :group_name "com.alpha-prosoft", :version "1.488", :description nil, :created 1664481426044}
 {:jar_name "edd-core-schema", :group_name "com.alpha-prosoft", :version "1.488", :description nil, :created 1664481435223}
 {:jar_name "muckabout", :group_name "com.github.lread", :version "1.4.2", :description "I muck about for the commons", :created 1664483900677}
-{:jar_name "konserve-jdbc", :group_name "alekcz", :version "0.2.0-SNAPSHOT", :description "A generic JDBC backend for konserve.", :created 1664484588683}
 {:jar_name "nuzzle", :group_name "codes.stel", :version "0.6.493", :description nil, :created 1664486361905}
 {:jar_name "clj-http-lite", :group_name "org.clj-commons", :version "1.0.13", :description "A lite version of clj-http that uses the jre's HttpURLConnection", :created 1664487798042}
 {:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.8-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1664488521771}
@@ -254,3 +252,5 @@
 {:jar_name "cmr-exchange-query", :group_name "gov.nasa.earthdata", :version "0.3.3-SNAPSHOT", :description "Cross-project query and parameter parsing and transformations", :created 1664497437167}
 {:jar_name "ssl-utils", :group_name "puppetlabs", :version "3.5.0", :description "SSL certificate management on the JVM.", :created 1664499771698}
 {:jar_name "cinch", :group_name "io.zalky", :version "0.1.0-SNAPSHOT", :description "Utility functions that make things a cinch", :created 1664501404302}
+{:jar_name "konserve-jdbc", :group_name "alekcz", :version "0.2.0-SNAPSHOT", :description "A generic JDBC backend for konserve.", :created 1664502358036}
+{:jar_name "datahike-jdbc", :group_name "org.alekcz", :version "0.5.1510-SNAPSHOT", :description "Datahike with JDBC data storage backend", :created 1664502975346}
