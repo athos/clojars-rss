@@ -1,5 +1,3 @@
-{:jar_name "activity-domain", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1663686410027}
-{:jar_name "metrics-core", :group_name "com.tick42.gateway", :version "3.0.18", :description "", :created 1663686416017}
 {:jar_name "agm-domain", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1663686417357}
 {:jar_name "metrics-domain", :group_name "com.tick42.gateway", :version "3.0.18", :description "", :created 1663686425647}
 {:jar_name "bus-domain", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1663686425847}
@@ -61,7 +59,6 @@
 {:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.0.188", :description nil, :created 1663867596420}
 {:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.0.188", :description nil, :created 1663867633809}
 {:jar_name "cli", :group_name "org.babashka", :version "0.4.37", :description "Turn Clojure functions into CLIs!", :created 1663873019439}
-{:jar_name "re-frame-tasks", :group_name "jtk-dvlp", :version "2.0.0-SNAPSHOT", :description "A re-frame interceptor and helpers to register / unregister (background-)tasks", :created 1663881078453}
 {:jar_name "twilio-voice-sdk", :group_name "io.github.cljsjs", :version "2.1.1-0", :description "Twilio Voice SDK", :created 1663882955262}
 {:jar_name "muckabout", :group_name "com.github.lread", :version "1.1.25", :description "Muckabout", :created 1663892086199}
 {:jar_name "infrastate", :group_name "org.clojars.w-se", :version "0.0.6", :description "Leightweight Infrastructure State Management Library", :created 1663893932527}
@@ -254,3 +251,6 @@
 {:jar_name "cinch", :group_name "io.zalky", :version "0.1.0-SNAPSHOT", :description "Utility functions that make things a cinch", :created 1664501404302}
 {:jar_name "konserve-jdbc", :group_name "alekcz", :version "0.2.0-SNAPSHOT", :description "A generic JDBC backend for konserve.", :created 1664502358036}
 {:jar_name "datahike-jdbc", :group_name "org.alekcz", :version "0.5.1510-SNAPSHOT", :description "Datahike with JDBC data storage backend", :created 1664502975346}
+{:jar_name "re-frame-tasks", :group_name "jtk-dvlp", :version "2.0.0-SNAPSHOT", :description "A re-frame interceptor and helpers to register / unregister (background-)tasks", :created 1664527682326}
+{:jar_name "mania", :group_name "com.exoscale", :version "1.0.4", :description "Our generic service/program entrypoints", :created 1664528108189}
+{:jar_name "framework", :group_name "com.flexiana", :version "0.5.0-rc3", :description nil, :created 1664528171478}
