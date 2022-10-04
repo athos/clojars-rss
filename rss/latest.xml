@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 4 Oct 2022 01:29:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 4 Oct 2022 02:46:03 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/house.jux/test.spread/versions/2022.10.03</guid>
+    <title>[house.jux/test.spread &quot;2022.10.03&quot;]</title>
+    <link>https://clojars.org/house.jux/test.spread/versions/2022.10.03</link>
+    <description>Support for highly expressive, two-dimensional tests represented as spreadsheets.</description>
+    <pubDate>Tue, 4 Oct 2022 02:42:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/http.pprint/versions/2022.10.03</guid>
+    <title>[house.jux/http.pprint &quot;2022.10.03&quot;]</title>
+    <link>https://clojars.org/house.jux/http.pprint/versions/2022.10.03</link>
+    <description>Wrapper that prints summaries of incoming requests</description>
+    <pubDate>Tue, 4 Oct 2022 02:32:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/http.exceptions/versions/2022.10.03</guid>
+    <title>[house.jux/http.exceptions &quot;2022.10.03&quot;]</title>
+    <link>https://clojars.org/house.jux/http.exceptions/versions/2022.10.03</link>
+    <description>Wrapper that handles API thrown exceptions with a 400 status code</description>
+    <pubDate>Tue, 4 Oct 2022 02:31:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/http.api/versions/2022.10.03</guid>
+    <title>[house.jux/http.api &quot;2022.10.03&quot;]</title>
+    <link>https://clojars.org/house.jux/http.api/versions/2022.10.03</link>
+    <description>Wrapper that handles API calls and redirects it to corresponding functions</description>
+    <pubDate>Tue, 4 Oct 2022 02:31:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.hellonico/jquants-api-jvm/versions/0.2.11</guid>
+    <title>[net.clojars.hellonico/jquants-api-jvm &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/net.clojars.hellonico/jquants-api-jvm/versions/0.2.11</link>
+    <description>JQuantsAPI Wrapper for the JVM</description>
+    <pubDate>Tue, 4 Oct 2022 02:18:02 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.zalky/color/versions/1.5.0</guid>
     <title>[io.zalky/color &quot;1.5.0&quot;]</title>
@@ -1771,42 +1806,6 @@ application development.</description>
     <link>https://clojars.org/io.github.borkdude/snakeyaml/versions/1.33</link>
     <description>YAML 1.1 parser and emitter for Java</description>
     <pubDate>Sat, 24 Sep 2022 10:16:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.bsless/datalog-parser.malli/versions/0.0.6</guid>
-    <title>[io.github.bsless/datalog-parser.malli &quot;0.0.6&quot;]</title>
-    <link>https://clojars.org/io.github.bsless/datalog-parser.malli/versions/0.0.6</link>
-    <description>1-1 translation of datalog query spec based on the official Datomic
-      documentation implemented in metosin/malli.</description>
-    <pubDate>Sat, 24 Sep 2022 09:41:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.bsless/datalog-parser.spec/versions/0.0.4</guid>
-    <title>[io.github.bsless/datalog-parser.spec &quot;0.0.4&quot;]</title>
-    <link>https://clojars.org/io.github.bsless/datalog-parser.spec/versions/0.0.4</link>
-    <description>1-1 translation of datalog query spec based on the official Datomic documentation.</description>
-    <pubDate>Sat, 24 Sep 2022 09:41:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/babashka/versions/0.9.163-SNAPSHOT</guid>
-    <title>[babashka &quot;0.9.163-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/babashka/versions/0.9.163-SNAPSHOT</link>
-    <description>babashka</description>
-    <pubDate>Sat, 24 Sep 2022 09:08:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.bsless/datalog-parser.spec/versions/0.0.2-SNAPSHOT</guid>
-    <title>[io.github.bsless/datalog-parser.spec &quot;0.0.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/io.github.bsless/datalog-parser.spec/versions/0.0.2-SNAPSHOT</link>
-    <description>1-1 translation of datalog query spec based on the official Datomic documentation.</description>
-    <pubDate>Sat, 24 Sep 2022 07:57:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.macielti/common-clj/versions/18.22.19</guid>
-    <title>[net.clojars.macielti/common-clj &quot;18.22.19&quot;]</title>
-    <link>https://clojars.org/net.clojars.macielti/common-clj/versions/18.22.19</link>
-    <description>Just common Clojure code that I use across projects</description>
-    <pubDate>Sat, 24 Sep 2022 02:06:10 +0000</pubDate>
   </item>
   </channel>
 </rss>

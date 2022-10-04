@@ -1,8 +1,3 @@
-{:jar_name "common-clj", :group_name "net.clojars.macielti", :version "18.22.19", :description "Just common Clojure code that I use across projects", :created 1663985170481}
-{:jar_name "datalog-parser.spec", :group_name "io.github.bsless", :version "0.0.2-SNAPSHOT", :description "1-1 translation of datalog query spec based on the official Datomic documentation.", :created 1664006278191}
-{:jar_name "babashka", :group_name "babashka", :version "0.9.163-SNAPSHOT", :description "babashka", :created 1664010491673}
-{:jar_name "datalog-parser.spec", :group_name "io.github.bsless", :version "0.0.4", :description "1-1 translation of datalog query spec based on the official Datomic documentation.", :created 1664012471541}
-{:jar_name "datalog-parser.malli", :group_name "io.github.bsless", :version "0.0.6", :description "1-1 translation of datalog query spec based on the official Datomic\n      documentation implemented in metosin/malli.", :created 1664012513321}
 {:jar_name "snakeyaml", :group_name "io.github.borkdude", :version "1.33", :description "YAML 1.1 parser and emitter for Java", :created 1664014617397}
 {:jar_name "clj-yaml", :group_name "io.github.borkdude", :version "0.7-1.33-next", :description nil, :created 1664015116849}
 {:jar_name "babashka", :group_name "babashka", :version "0.10.163", :description "babashka", :created 1664020070719}
@@ -254,3 +249,8 @@
 {:jar_name "strf", :group_name "io.zalky", :version "0.2.3", :description "Extensible CLJ/CLJS string formatting", :created 1664846146078}
 {:jar_name "math", :group_name "io.zalky", :version "0.3.1", :description "CLJ/CLJS math functions, macros & utilities", :created 1664846213227}
 {:jar_name "color", :group_name "io.zalky", :version "1.5.0", :description "Cross-platform CLJ/CLJS library for color conversion & manipulation.", :created 1664846280817}
+{:jar_name "jquants-api-jvm", :group_name "net.clojars.hellonico", :version "0.2.11", :description "JQuantsAPI Wrapper for the JVM", :created 1664849882010}
+{:jar_name "http.api", :group_name "house.jux", :version "2022.10.03", :description "Wrapper that handles API calls and redirects it to corresponding functions", :created 1664850686446}
+{:jar_name "http.exceptions", :group_name "house.jux", :version "2022.10.03", :description "Wrapper that handles API thrown exceptions with a 400 status code", :created 1664850714276}
+{:jar_name "http.pprint", :group_name "house.jux", :version "2022.10.03", :description "Wrapper that prints summaries of incoming requests", :created 1664850745366}
+{:jar_name "test.spread", :group_name "house.jux", :version "2022.10.03", :description "Support for highly expressive, two-dimensional tests represented as spreadsheets.", :created 1664851360503}
