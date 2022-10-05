@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 5 Oct 2022 16:07:28 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 5 Oct 2022 17:18:08 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/lilactown/helix/versions/0.1.9</guid>
+    <title>[lilactown/helix &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/lilactown/helix/versions/0.1.9</link>
+    <description>ClojureScript optimized for modern React development.</description>
+    <pubDate>Wed, 5 Oct 2022 17:12:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.zalky/runway/versions/0.2.0-SNAPSHOT</guid>
+    <title>[io.zalky/runway &quot;0.2.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/io.zalky/runway/versions/0.2.0-SNAPSHOT</link>
+    <description>Coding on the fly, with a tool.deps + component based reloadable build library</description>
+    <pubDate>Wed, 5 Oct 2022 17:00:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.zalky/dart-sass-clj/versions/0.2.0-SNAPSHOT</guid>
+    <title>[io.zalky/dart-sass-clj &quot;0.2.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/io.zalky/dart-sass-clj/versions/0.2.0-SNAPSHOT</link>
+    <description>An embedded dart-sass compiler and watch task for Clojure</description>
+    <pubDate>Wed, 5 Oct 2022 16:59:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.tafenton/do-er/versions/1.0.1</guid>
+    <title>[org.clojars.tafenton/do-er &quot;1.0.1&quot;]</title>
+    <link>https://clojars.org/org.clojars.tafenton/do-er/versions/1.0.1</link>
+    <description>A scheduling library inspired by my favourite bits of chime and overtone.at-at</description>
+    <pubDate>Wed, 5 Oct 2022 16:58:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.zalky/cinch/versions/0.1.0-SNAPSHOT</guid>
+    <title>[io.zalky/cinch &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/io.zalky/cinch/versions/0.1.0-SNAPSHOT</link>
+    <description>Utility functions that make things a cinch</description>
+    <pubDate>Wed, 5 Oct 2022 16:58:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/vald-client-clj/versions/v1.6.1</guid>
+    <title>[vald-client-clj &quot;v1.6.1&quot;]</title>
+    <link>https://clojars.org/vald-client-clj/versions/v1.6.1</link>
+    <description>A client library for Vald.</description>
+    <pubDate>Wed, 5 Oct 2022 16:52:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.zalky/axle/versions/0.2.0-SNAPSHOT</guid>
+    <title>[io.zalky/axle &quot;0.2.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/io.zalky/axle/versions/0.2.0-SNAPSHOT</link>
+    <description>An efficient cross-platform DirectoryWatcher based service for Clojure</description>
+    <pubDate>Wed, 5 Oct 2022 16:37:50 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/clj-kondo/versions/2022.10.06-SNAPSHOT</guid>
     <title>[clj-kondo &quot;2022.10.06-SNAPSHOT&quot;]</title>
@@ -873,13 +922,6 @@ application development.</description>
     <link>https://clojars.org/com.cnuernber/ham-fisted/versions/1.000-beta-10</link>
     <description></description>
     <pubDate>Fri, 30 Sep 2022 21:42:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.zalky/cinch/versions/0.1.0-SNAPSHOT</guid>
-    <title>[io.zalky/cinch &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/io.zalky/cinch/versions/0.1.0-SNAPSHOT</link>
-    <description>Utility functions that make things a cinch</description>
-    <pubDate>Fri, 30 Sep 2022 20:34:43 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.github.andrzejsliwa/tailwind-hiccup-tooling/versions/0.2.999-SNAPSHOT</guid>
@@ -1768,48 +1810,6 @@ application development.</description>
     <link>https://clojars.org/io.github.frenchy64/fully-satisfies/versions/1.7.2-SNAPSHOT</link>
     <description>A variant of clojure.core/satisfies? that checks all methods are implemented.</description>
     <pubDate>Tue, 27 Sep 2022 03:28:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.mungolab/clj-geo/versions/0.1.0-SNAPSHOT</guid>
-    <title>[com.mungolab/clj-geo &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.mungolab/clj-geo/versions/0.1.0-SNAPSHOT</link>
-    <description>collections of fns to help working with geo data</description>
-    <pubDate>Tue, 27 Sep 2022 02:46:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.eltonlaw/stringy/versions/0.1.4</guid>
-    <title>[com.github.eltonlaw/stringy &quot;0.1.4&quot;]</title>
-    <link>https://clojars.org/com.github.eltonlaw/stringy/versions/0.1.4</link>
-    <description></description>
-    <pubDate>Tue, 27 Sep 2022 02:31:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.hellonico/jquants-api-jvm/versions/0.2.6</guid>
-    <title>[net.clojars.hellonico/jquants-api-jvm &quot;0.2.6&quot;]</title>
-    <link>https://clojars.org/net.clojars.hellonico/jquants-api-jvm/versions/0.2.6</link>
-    <description>JQuantsAPI Wrapper for the JVM</description>
-    <pubDate>Tue, 27 Sep 2022 02:01:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.replikativ/tablehike/versions/0.1.70</guid>
-    <title>[io.replikativ/tablehike &quot;0.1.70&quot;]</title>
-    <link>https://clojars.org/io.replikativ/tablehike/versions/0.1.70</link>
-    <description>CSV data loader for Datahike.</description>
-    <pubDate>Mon, 26 Sep 2022 22:12:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.replikativ/tablehike/versions/0.1.68</guid>
-    <title>[io.replikativ/tablehike &quot;0.1.68&quot;]</title>
-    <link>https://clojars.org/io.replikativ/tablehike/versions/0.1.68</link>
-    <description>CSV data loader for Datahike.</description>
-    <pubDate>Mon, 26 Sep 2022 21:49:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.hyperfiddle/rcf/versions/20220926-202227</guid>
-    <title>[com.hyperfiddle/rcf &quot;20220926-202227&quot;]</title>
-    <link>https://clojars.org/com.hyperfiddle/rcf/versions/20220926-202227</link>
-    <description>RCF – a REPL-first, async test macro for Clojure/Script</description>
-    <pubDate>Mon, 26 Sep 2022 20:22:46 +0000</pubDate>
   </item>
   </channel>
 </rss>
