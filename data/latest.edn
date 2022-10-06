@@ -1,7 +1,3 @@
-{:jar_name "missionary", :group_name "missionary", :version "b.27-SNAPSHOT", :description "A functional effect and streaming system for clojure and clojurescript.", :created 1664355983286}
-{:jar_name "active-logger", :group_name "de.active-group", :version "0.9.0-SNAPSHOT", :description "Active Logger: Utilities and DSL for logging on top of Timbre.", :created 1664359440708}
-{:jar_name "data-platform-telemetry", :group_name "com.signal-ai", :version "0.4.12-SNAPSHOT", :description "Data Platform Telemetry", :created 1664370001514}
-{:jar_name "subscriptions", :group_name "space.matterandvoid", :version "2022.09.28", :description "Subscriptions extracted from re-frame as a standalone library.", :created 1664378614304}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "5.2.4", :description "", :created 1664384668986}
 {:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.0.208", :description nil, :created 1664384696366}
 {:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.0.208", :description nil, :created 1664384744895}
@@ -242,7 +238,6 @@
 {:jar_name "clj-paginate", :group_name "com.github.ivarref", :version "0.3.54", :description nil, :created 1665045720156}
 {:jar_name "cli", :group_name "org.babashka", :version "0.4.38", :description "Turn Clojure functions into CLIs!", :created 1665053563886}
 {:jar_name "notifications.firebase", :group_name "dev.gethop", :version "0.1.10", :description "A duct library for managing notifications with Firebase Cloud Messaging", :created 1665057692205}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.10.06-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1665058595876}
 {:jar_name "puget-neri", :group_name "org.clojars.mathiashh", :version "1.3.2", :description "Colorizing canonical Clojure printer for EDN values with Neri theme.", :created 1665058663674}
 {:jar_name "babashka", :group_name "babashka", :version "0.10.164-SNAPSHOT", :description "babashka", :created 1665059121628}
 {:jar_name "promesa", :group_name "funcool", :version "9.0.470", :description "Promise library for Clojure(Script)", :created 1665059696819}
@@ -254,3 +249,8 @@
 {:jar_name "core", :group_name "io.github.protojure", :version "2.4.0", :description "Core protobuf and GRPC utilities for protojure", :created 1665076388077}
 {:jar_name "grpc-client", :group_name "io.github.protojure", :version "2.4.0", :description "GRPC client library for protoc-gen-clojure", :created 1665076470076}
 {:jar_name "grpc-server", :group_name "io.github.protojure", :version "2.4.0", :description "GRPC server library for protoc-gen-clojure", :created 1665076492976}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.10.06-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1665079665167}
+{:jar_name "puget-neri", :group_name "org.clojars.mathiashh", :version "1.3.3", :description "Colorizing canonical Clojure printer for EDN values with Neri theme.", :created 1665080336865}
+{:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.0.231", :description nil, :created 1665080466884}
+{:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.0.231", :description nil, :created 1665080502734}
+{:jar_name "whidbey-neri", :group_name "org.clojars.mathiashh", :version "2.2.1", :description "nREPL middleware to allow arbitrary value rendering.", :created 1665080857103}
