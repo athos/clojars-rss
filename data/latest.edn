@@ -1,6 +1,3 @@
-{:jar_name "hermes", :group_name "com.eldrix", :version "1.0.716", :description nil, :created 1664434563945}
-{:jar_name "useful", :group_name "com.timezynk", :version "1.18.0", :description "Useful functions", :created 1664438466480}
-{:jar_name "hermes", :group_name "com.eldrix", :version "1.0.717", :description nil, :created 1664439220136}
 {:jar_name "gx.cljc", :group_name "com.lambdaisland", :version "0.1.248-alpha", :description "", :created 1664442900857}
 {:jar_name "webbing", :group_name "com.lambdaisland", :version "0.3.17-alpha", :description "", :created 1664444506170}
 {:jar_name "commons", :group_name "lupapiste", :version "3.1.6", :description "Common domain code and resources for lupapiste applications", :created 1664457380967}
@@ -246,7 +243,6 @@
 {:jar_name "utilis", :group_name "com.7theta", :version "2.3.8", :description "Library of common utilities used in 7theta projects", :created 1665102578238}
 {:jar_name "remote-fs", :group_name "com.github.yjcyxky", :version "0.2.7", :description "File system utilities for object store in clojure.", :created 1665108332609}
 {:jar_name "conceptual", :group_name "org.clojars.jekyllislandtours", :version "0.1.46", :description nil, :created 1665108844676}
-{:jar_name "snitch", :group_name "org.clojars.abhinav", :version "0.1.12-SNAPSHOT", :description "A repl-based, editor-agnostic, clojure and clojurescript debugger.\n               In other words, inline-defs on steroids.", :created 1665113082859}
 {:jar_name "process", :group_name "babashka", :version "0.3.11", :description "Clojure library for shelling out / spawning subprocesses", :created 1665133491620}
 {:jar_name "github.clj.alpha", :group_name "io.github.ajchemist", :version "2022.280.33962", :description nil, :created 1665134769804}
 {:jar_name "datalevin-pathom", :group_name "org.clojars.roklenarcic", :version "0.2.8-alpha", :description "Pathom 3 Dynamic Resolver for Datalevin", :created 1665139031555}
@@ -254,3 +250,7 @@
 {:jar_name "babashka", :group_name "babashka", :version "0.10.164-SNAPSHOT", :description "babashka", :created 1665139764711}
 {:jar_name "launchpad", :group_name "com.lambdaisland", :version "0.8.46-alpha", :description "Clojure dev process launcher", :created 1665143297855}
 {:jar_name "ham-fisted", :group_name "com.cnuernber", :version "1.000-beta-14", :description nil, :created 1665146657920}
+{:jar_name "git-revisions", :group_name "fi.polycode", :version "1.2.2", :description "Generate software revision strings based on Git and system context data.", :created 1665149794485}
+{:jar_name "lein-git-revisions", :group_name "fi.polycode", :version "1.1.2", :description "Automatically control Leiningen project version based on Git and system metadata.", :created 1665150469451}
+{:jar_name "buildtools-git-revisions", :group_name "fi.polycode", :version "0.1.2", :description "Automatically control tools.build based project version based on Git and system metadata.", :created 1665150530981}
+{:jar_name "snitch", :group_name "org.clojars.abhinav", :version "0.1.12-SNAPSHOT", :description "A repl-based, editor-agnostic, clojure and clojurescript debugger.\n               In other words, inline-defs on steroids.", :created 1665151374467}
