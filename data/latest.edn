@@ -1,7 +1,3 @@
-{:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.8-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1664488521771}
-{:jar_name "cmr-service-bridge", :group_name "gov.nasa.earthdata", :version "1.6.13-SNAPSHOT", :description "A CMR connector service that provides an inter-service API", :created 1664488926894}
-{:jar_name "statikit", :group_name "org.clojars.zackattackz", :version "0.1.1", :description "A library and a lein plugin for applying functions with static data", :created 1664494443105}
-{:jar_name "nuzzle", :group_name "codes.stel", :version "0.6.502", :description nil, :created 1664495328991}
 {:jar_name "cmr-exchange-query", :group_name "gov.nasa.earthdata", :version "0.3.3-SNAPSHOT", :description "Cross-project query and parameter parsing and transformations", :created 1664497437167}
 {:jar_name "ssl-utils", :group_name "puppetlabs", :version "3.5.0", :description "SSL certificate management on the JVM.", :created 1664499771698}
 {:jar_name "mania", :group_name "com.exoscale", :version "1.0.4", :description "Our generic service/program entrypoints", :created 1664528108189}
@@ -254,3 +250,7 @@
 {:jar_name "clay", :group_name "org.scicloj", :version "2-alpha1", :description "FIXME: my new library.", :created 1665330634888}
 {:jar_name "viz.clj", :group_name "org.scicloj", :version "1-alpha5", :description "Data Visualization in Clojure", :created 1665332368744}
 {:jar_name "lein-dependency-check", :group_name "com.livingsocial", :version "1.4.0", :description "Clojure command line tool for detecting vulnerable project dependencies", :created 1665332501416}
+{:jar_name "promesa", :group_name "funcool", :version "9.0.471", :description "Promise library for Clojure(Script)", :created 1665346341593}
+{:jar_name "java-properties", :group_name "ai.z7", :version "1.1.1", :description "Java properties files micro parser for Clojure", :created 1665347127133}
+{:jar_name "subscriptions", :group_name "space.matterandvoid", :version "2022.10.09-2", :description "Subscriptions extracted from re-frame as a standalone library.", :created 1665348714774}
+{:jar_name "common-specs", :group_name "net.clojars.kelveden", :version "0.1.0", :description "Useful common specs.", :created 1665348808453}
