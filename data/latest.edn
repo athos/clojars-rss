@@ -1,6 +1,3 @@
-{:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.17.9", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1664589385331}
-{:jar_name "diehard", :group_name "diehard", :version "0.11.6", :description "Safety utilities for Clojure", :created 1664589442340}
-{:jar_name "gcp-ser-clj", :group_name "gcp-ser-clj", :version "0.8.1-SNAPSHOT", :description "A Clojure library trying to make reporting errors to Google Cloud's Error Reporting system (Stackdriver) simpler.", :created 1664604026872}
 {:jar_name "gcp-ser-clj", :group_name "gcp-ser-clj", :version "0.8.1", :description "A Clojure library trying to make reporting errors to Google Cloud's Error Reporting system (Stackdriver) simpler.", :created 1664605463629}
 {:jar_name "blurhash", :group_name "tvirolai", :version "0.0.8", :description "A Clojure implementation of the blurhash algorithm", :created 1664617503681}
 {:jar_name "shadow-css", :group_name "com.thheller", :version "0.4.1", :description "CSS-in-CLJ(S)", :created 1664618614092}
@@ -113,11 +110,8 @@
 {:jar_name "hikari-cp", :group_name "hikari-cp", :version "3.0.0", :description "A Clojure wrapper to HikariCP JDBC connection pool", :created 1664969395062}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.09.09-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1664981188765}
 {:jar_name "clj-github", :group_name "dev.nubank", :version "0.6.2", :description "A Clojure library for interacting with the github developer API", :created 1664982873218}
-{:jar_name "axle", :group_name "io.zalky", :version "0.2.0-SNAPSHOT", :description "An efficient cross-platform DirectoryWatcher based service for Clojure", :created 1664987870970}
 {:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v1.6.1", :description "A client library for Vald.", :created 1664988765957}
-{:jar_name "cinch", :group_name "io.zalky", :version "0.1.0-SNAPSHOT", :description "Utility functions that make things a cinch", :created 1664989116735}
 {:jar_name "do-er", :group_name "org.clojars.tafenton", :version "1.0.1", :description "A scheduling library inspired by my favourite bits of chime and overtone.at-at", :created 1664989132075}
-{:jar_name "dart-sass-clj", :group_name "io.zalky", :version "0.2.0-SNAPSHOT", :description "An embedded dart-sass compiler and watch task for Clojure", :created 1664989147645}
 {:jar_name "helix", :group_name "lilactown", :version "0.1.9", :description "ClojureScript optimized for modern React development.", :created 1664989978123}
 {:jar_name "neo4clj-core", :group_name "com.github.full-spectrum", :version "1.0.0", :description "Neo4j core library and client", :created 1664990354861}
 {:jar_name "neo4clj-test", :group_name "com.github.full-spectrum", :version "1.0.0", :description "Neo4j test library", :created 1664990462991}
@@ -242,15 +236,21 @@
 {:jar_name "pixi", :group_name "cljsjs", :version "6.5.5-0", :description "2D webGL renderer with canvas fallback", :created 1665413708572}
 {:jar_name "pixi-html-text", :group_name "io.github.cljsjs", :version "3.0.2-0", :description "An alternative to PIXI.Text that works with PixiJS v5 (both WebGL and Canvas)", :created 1665413727452}
 {:jar_name "pixi-legacy", :group_name "cljsjs", :version "6.5.5-0", :description "2D webGL renderer with canvas fallback (Legacy supports canvas renderer)", :created 1665413748122}
-{:jar_name "pedestal.log", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665417693785}
-{:jar_name "pedestal.interceptor", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665417706995}
-{:jar_name "pedestal.route", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665417719364}
-{:jar_name "pedestal.service", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665417732034}
-{:jar_name "pedestal.aws", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665417744404}
-{:jar_name "pedestal.immutant", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665417757434}
-{:jar_name "pedestal.jetty", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665417770124}
-{:jar_name "pedestal.service-tools", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665417782474}
-{:jar_name "pedestal.tomcat", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665417794894}
 {:jar_name "spring-boost-classic", :group_name "org.msync", :version "0.1.0-SNAPSHOT", :description "spring-boost, but for the classic mvc spring-boot", :created 1665423383443}
 {:jar_name "parsesso", :group_name "com.github.strojure", :version "1.0.191-beta", :description "Parser combinators library for Clojure(Script).", :created 1665424328585}
 {:jar_name "runway", :group_name "io.zalky", :version "0.2.0-SNAPSHOT", :description "Coding on the fly, with a tool.deps + component based reloadable build library", :created 1665424909380}
+{:jar_name "cinch", :group_name "io.zalky", :version "0.1.0-SNAPSHOT", :description "Utility functions that make things a cinch", :created 1665425604875}
+{:jar_name "axle", :group_name "io.zalky", :version "0.2.0-SNAPSHOT", :description "An efficient cross-platform DirectoryWatcher based service for Clojure", :created 1665425649044}
+{:jar_name "test.spread", :group_name "house.jux", :version "2022.10.12", :description "Support for highly expressive, two-dimensional tests represented as spreadsheets.", :created 1665425748784}
+{:jar_name "dart-sass-clj", :group_name "io.zalky", :version "0.2.0-SNAPSHOT", :description "An embedded dart-sass compiler and watch task for Clojure", :created 1665425887712}
+{:jar_name "lein-template", :group_name "pedestal-service", :version "0.5.11-SNAPSHOT", :description nil, :created 1665428315272}
+{:jar_name "pedestal.log", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665428328142}
+{:jar_name "pedestal.interceptor", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665428341342}
+{:jar_name "pedestal.route", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665428354112}
+{:jar_name "pedestal.service", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665428366502}
+{:jar_name "pedestal.aws", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665428379492}
+{:jar_name "pedestal.immutant", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665428392232}
+{:jar_name "pedestal.jetty", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665428405892}
+{:jar_name "pedestal.service-tools", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665428421672}
+{:jar_name "pedestal.tomcat", :group_name "io.pedestal", :version "0.5.11-SNAPSHOT", :description nil, :created 1665428436351}
+{:jar_name "deps.clj", :group_name "borkdude", :version "1.11.1.1166-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1665428805798}
