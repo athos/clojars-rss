@@ -1,12 +1,3 @@
-{:jar_name "clj-paginate", :group_name "com.github.ivarref", :version "0.3.54", :description nil, :created 1665045720156}
-{:jar_name "cli", :group_name "org.babashka", :version "0.4.38", :description "Turn Clojure functions into CLIs!", :created 1665053563886}
-{:jar_name "notifications.firebase", :group_name "dev.gethop", :version "0.1.10", :description "A duct library for managing notifications with Firebase Cloud Messaging", :created 1665057692205}
-{:jar_name "puget-neri", :group_name "org.clojars.mathiashh", :version "1.3.2", :description "Colorizing canonical Clojure printer for EDN values with Neri theme.", :created 1665058663674}
-{:jar_name "promesa", :group_name "funcool", :version "9.0.470", :description "Promise library for Clojure(Script)", :created 1665059696819}
-{:jar_name "tablecloth", :group_name "scicloj", :version "6.102", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1665068242866}
-{:jar_name "statikit", :group_name "org.clojars.zackattackz", :version "0.2.0", :description "A library and a lein plugin for applying functions with static data", :created 1665073583266}
-{:jar_name "io", :group_name "io.github.protojure", :version "2.4.0", :description "IO library to support io.github.protojure/core", :created 1665076368667}
-{:jar_name "core", :group_name "io.github.protojure", :version "2.4.0", :description "Core protobuf and GRPC utilities for protojure", :created 1665076388077}
 {:jar_name "grpc-client", :group_name "io.github.protojure", :version "2.4.0", :description "GRPC client library for protoc-gen-clojure", :created 1665076470076}
 {:jar_name "grpc-server", :group_name "io.github.protojure", :version "2.4.0", :description "GRPC server library for protoc-gen-clojure", :created 1665076492976}
 {:jar_name "puget-neri", :group_name "org.clojars.mathiashh", :version "1.3.3", :description "Colorizing canonical Clojure printer for EDN values with Neri theme.", :created 1665080336865}
@@ -191,7 +182,6 @@
 {:jar_name "babashka", :group_name "babashka", :version "0.10.164-SNAPSHOT", :description "babashka", :created 1665744231508}
 {:jar_name "clj-gatling", :group_name "clj-gatling", :version "0.17.6", :description "Clojure library for load testing", :created 1665745526175}
 {:jar_name "kindly", :group_name "org.scicloj", :version "3-alpha3", :description nil, :created 1665747458330}
-{:jar_name "docjure", :group_name "dk.ative", :version "1.19.0-SNAPSHOT", :description "Easily read and write Office documents from Clojure.", :created 1665749891191}
 {:jar_name "parsesso", :group_name "com.github.strojure", :version "1.0.234-RC4", :description "Parser combinators library for Clojure(Script).", :created 1665753396758}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.26.0", :description "Core utils library for Clojure/Script", :created 1665753677735}
 {:jar_name "nippy", :group_name "com.taoensso", :version "3.3.0-alpha1", :description "High-performance serialization library for Clojure", :created 1665757229781}
@@ -254,3 +244,13 @@
 {:jar_name "base", :group_name "org.clojars.xiao-ne-zha", :version "0.3.1", :description "基础工程，最常见工具", :created 1666007654633}
 {:jar_name "promesa", :group_name "funcool", :version "9.0.481", :description "Promise library for Clojure(Script)", :created 1666007707842}
 {:jar_name "framework", :group_name "org.clojars.xiao-ne-zha", :version "0.3.1", :description "FIXME: write description", :created 1666007798761}
+{:jar_name "clj-redis", :group_name "org.clojars.xiao-ne-zha", :version "0.3.1", :description "redis操作库", :created 1666008485784}
+{:jar_name "cache", :group_name "org.clojars.xiao-ne-zha", :version "0.3.1", :description "缓存工具", :created 1666008830699}
+{:jar_name "clj-sftp", :group_name "org.clojars.xiao-ne-zha", :version "0.3.1", :description "sftp工具类", :created 1666009041979}
+{:jar_name "promesa", :group_name "funcool", :version "9.0.485", :description "Promise library for Clojure(Script)", :created 1666010834311}
+{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.9.7-MCPG_231_Include_mulesoft-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1666010911480}
+{:jar_name "midje", :group_name "midje", :version "1.10.6", :description "A TDD library for Clojure that supports top-down ('mockish') TDD, encourages readable tests, provides a smooth migration path from clojure.test, balances abstraction and concreteness, and strives for graciousness.", :created 1666011214857}
+{:jar_name "docjure", :group_name "dk.ative", :version "1.19.0-SNAPSHOT", :description "Easily read and write Office documents from Clojure.", :created 1666011383296}
+{:jar_name "tempura", :group_name "com.taoensso", :version "1.4.0", :description "Pure Clojure/Script i18n translations library", :created 1666011723092}
+{:jar_name "web-steroid", :group_name "io.github.ajchemist", :version "2022.290.47397", :description nil, :created 1666012210708}
+{:jar_name "dropwizard-oor", :group_name "io.raven.dropwizard", :version "2.0.32-2", :description nil, :created 1666012600534}
