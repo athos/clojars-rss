@@ -4,7 +4,43 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 18 Oct 2022 09:07:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Oct 2022 10:03:20 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.taoensso/tempura/versions/1.5.0-alpha2</guid>
+    <title>[com.taoensso/tempura &quot;1.5.0-alpha2&quot;]</title>
+    <link>https://clojars.org/com.taoensso/tempura/versions/1.5.0-alpha2</link>
+    <description>Pure Clojure/Script i18n translations library</description>
+    <pubDate>Tue, 18 Oct 2022 09:53:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.xiao-ne-zha/honeyselect/versions/0.3.2-SNAPSHOT</guid>
+    <title>[org.clojars.xiao-ne-zha/honeyselect &quot;0.3.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.xiao-ne-zha/honeyselect/versions/0.3.2-SNAPSHOT</link>
+    <description>简化前后端接口,当前japi更丰富，后续完善rest接口</description>
+    <pubDate>Tue, 18 Oct 2022 09:49:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.xiao-ne-zha/hugwhere/versions/0.2.3-SNAPSHOT</guid>
+    <title>[org.clojars.xiao-ne-zha/hugwhere &quot;0.2.3-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.xiao-ne-zha/hugwhere/versions/0.2.3-SNAPSHOT</link>
+    <description>dynamic `where conditions` when you use hugsql to create your function that access database
+当你使用hugsql来编写数据库访问函数时，该库可以让你省去编写动态拼接where条件的繁琐</description>
+    <pubDate>Tue, 18 Oct 2022 09:44:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.xiao-ne-zha/toolkit/versions/0.3.2-SNAPSHOT</guid>
+    <title>[org.clojars.xiao-ne-zha/toolkit &quot;0.3.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.xiao-ne-zha/toolkit/versions/0.3.2-SNAPSHOT</link>
+    <description>工具包合集，包括base,clj-sftp,framework,clj-redis,clj-cache, impexp</description>
+    <pubDate>Tue, 18 Oct 2022 09:43:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.xiao-ne-zha/impexp/versions/0.3.2-SNAPSHOT</guid>
+    <title>[org.clojars.xiao-ne-zha/impexp &quot;0.3.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.xiao-ne-zha/impexp/versions/0.3.2-SNAPSHOT</link>
+    <description>导入导出工具</description>
+    <pubDate>Tue, 18 Oct 2022 09:38:10 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.github.neolee/hashp/versions/0.2.2</guid>
     <title>[com.github.neolee/hashp &quot;0.2.2&quot;]</title>
@@ -1762,41 +1798,6 @@
     <link>https://clojars.org/io.github.hlship/cli-tools/versions/0.6</link>
     <description></description>
     <pubDate>Fri, 7 Oct 2022 18:23:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.hyperfiddle/photon/versions/20221007-174958</guid>
-    <title>[com.hyperfiddle/photon &quot;20221007-174958&quot;]</title>
-    <link>https://clojars.org/com.hyperfiddle/photon/versions/20221007-174958</link>
-    <description></description>
-    <pubDate>Fri, 7 Oct 2022 17:50:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.cnuernber/ham-fisted/versions/1.000-beta-15</guid>
-    <title>[com.cnuernber/ham-fisted &quot;1.000-beta-15&quot;]</title>
-    <link>https://clojars.org/com.cnuernber/ham-fisted/versions/1.000-beta-15</link>
-    <description></description>
-    <pubDate>Fri, 7 Oct 2022 15:23:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.replikativ/datahike/versions/0.5.1516</guid>
-    <title>[io.replikativ/datahike &quot;0.5.1516&quot;]</title>
-    <link>https://clojars.org/io.replikativ/datahike/versions/0.5.1516</link>
-    <description>A durable datalog implementation adaptable for distribution.</description>
-    <pubDate>Fri, 7 Oct 2022 14:19:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fi.polycode/buildtools-git-revisions/versions/0.1.2</guid>
-    <title>[fi.polycode/buildtools-git-revisions &quot;0.1.2&quot;]</title>
-    <link>https://clojars.org/fi.polycode/buildtools-git-revisions/versions/0.1.2</link>
-    <description>Automatically control tools.build based project version based on Git and system metadata.</description>
-    <pubDate>Fri, 7 Oct 2022 13:48:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fi.polycode/lein-git-revisions/versions/1.1.2</guid>
-    <title>[fi.polycode/lein-git-revisions &quot;1.1.2&quot;]</title>
-    <link>https://clojars.org/fi.polycode/lein-git-revisions/versions/1.1.2</link>
-    <description>Automatically control Leiningen project version based on Git and system metadata.</description>
-    <pubDate>Fri, 7 Oct 2022 13:47:49 +0000</pubDate>
   </item>
   </channel>
 </rss>
