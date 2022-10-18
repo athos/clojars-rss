@@ -1,4 +1,3 @@
-{:jar_name "cli-tools", :group_name "io.github.hlship", :version "0.6", :description nil, :created 1665166988980}
 {:jar_name "specmonstah", :group_name "reifyhealth", :version "2.1.0", :description "Generate and process graphs of dependencies", :created 1665168580503}
 {:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.0.236", :description nil, :created 1665169638338}
 {:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.0.236", :description nil, :created 1665169674737}
@@ -147,7 +146,6 @@
 {:jar_name "shadow-cljs", :group_name "thheller", :version "2.20.5", :description "CLJS development tools", :created 1665739999609}
 {:jar_name "lein-dynadoc", :group_name "dynadoc", :version "1.7.5.1", :description "A conveninent Dynadoc launcher for Leiningen projects", :created 1665740335716}
 {:jar_name "rewriting-history", :group_name "no.nsd", :version "0.10.448", :description nil, :created 1665742877671}
-{:jar_name "babashka", :group_name "babashka", :version "0.10.164-SNAPSHOT", :description "babashka", :created 1665744231508}
 {:jar_name "clj-gatling", :group_name "clj-gatling", :version "0.17.6", :description "Clojure library for load testing", :created 1665745526175}
 {:jar_name "kindly", :group_name "org.scicloj", :version "3-alpha3", :description nil, :created 1665747458330}
 {:jar_name "parsesso", :group_name "com.github.strojure", :version "1.0.234-RC4", :description "Parser combinators library for Clojure(Script).", :created 1665753396758}
@@ -254,3 +252,5 @@
 {:jar_name "hugwhere", :group_name "org.clojars.xiao-ne-zha", :version "0.2.3-SNAPSHOT", :description "dynamic `where conditions` when you use hugsql to create your function that access database\n当你使用hugsql来编写数据库访问函数时，该库可以让你省去编写动态拼接where条件的繁琐", :created 1666086290762}
 {:jar_name "honeyselect", :group_name "org.clojars.xiao-ne-zha", :version "0.3.2-SNAPSHOT", :description "简化前后端接口,当前japi更丰富，后续完善rest接口", :created 1666086576678}
 {:jar_name "tempura", :group_name "com.taoensso", :version "1.5.0-alpha2", :description "Pure Clojure/Script i18n translations library", :created 1666086795295}
+{:jar_name "tempura", :group_name "com.taoensso", :version "1.5.0", :description "Pure Clojure/Script i18n translations library", :created 1666088202405}
+{:jar_name "babashka", :group_name "babashka", :version "0.10.164-SNAPSHOT", :description "babashka", :created 1666088973005}
