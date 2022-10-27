@@ -1,6 +1,3 @@
-{:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v1.6.2", :description "A client library for Vald.", :created 1666117218602}
-{:jar_name "lancaster", :group_name "deercreeklabs", :version "0.9.21", :description "Tools for working with Apache Avro", :created 1666117668546}
-{:jar_name "leveldb-clj", :group_name "ai.z7", :version "0.0.5", :description "The LevelDB driver in Clojure", :created 1666120299890}
 {:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.1.263", :description nil, :created 1666120365329}
 {:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.1.263", :description nil, :created 1666120468088}
 {:jar_name "talk2", :group_name "com.deercreeklabs", :version "0.2.13", :description nil, :created 1666121826570}
@@ -234,13 +231,11 @@
 {:jar_name "encore", :group_name "com.taoensso", :version "3.29.0", :description "Core utils library for Clojure/Script", :created 1666793085721}
 {:jar_name "datasplash", :group_name "datasplash", :version "0.7.13", :description "Clojure API for a more dynamic Google Cloud Dataflow and (hopefully) Apache BEAM", :created 1666797326418}
 {:jar_name "deps.clj", :group_name "borkdude", :version "1.11.1.1183-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1666799059315}
-{:jar_name "matrix", :group_name "tiltontec", :version "4.1.7-SNAPSHOT", :description "Matrix dataflow library for CLJ/CLJS", :created 1666800279756}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.30.0", :description "Core utils library for Clojure/Script", :created 1666801179867}
 {:jar_name "tufte", :group_name "com.taoensso", :version "2.4.4", :description "Simple profiling and performance monitoring for Clojure/Script", :created 1666801596067}
 {:jar_name "tempura", :group_name "com.taoensso", :version "1.5.2", :description "Pure Clojure/Script i18n translations library", :created 1666802571219}
 {:jar_name "reitit-ring-defaults", :group_name "com.fbeyer", :version "0.1.0", :description nil, :created 1666804316627}
 {:jar_name "cmr-service-bridge", :group_name "gov.nasa.earthdata", :version "1.6.14-SNAPSHOT", :description "A CMR connector service that provides an inter-service API", :created 1666805470632}
-{:jar_name "babashka", :group_name "babashka", :version "1.0.165-SNAPSHOT", :description "babashka", :created 1666807021901}
 {:jar_name "mranderson", :group_name "thomasa", :version "0.5.4-SNAPSHOT", :description "Dependency inlining and shadowing tool.", :created 1666812209054}
 {:jar_name "bips", :group_name "com.cicadabank", :version "0.0.2", :description nil, :created 1666814692052}
 {:jar_name "subscriptions", :group_name "space.matterandvoid", :version "2022.10.26", :description "Subscriptions extracted from re-frame as a standalone library.", :created 1666817903921}
@@ -254,3 +249,8 @@
 {:jar_name "mate", :group_name "taipei.404", :version "0.0.8", :description "Useful functions, some of which I wish were in the Clojure standard library.", :created 1666850236553}
 {:jar_name "pipeline-transit", :group_name "ai.motiva", :version "0.1.1", :description "Transit handlers for other Motiva pipeline libraries", :created 1666850702590}
 {:jar_name "mold-http", :group_name "kleene_ai", :version "0.0.5", :description "Mold http", :created 1666862487849}
+{:jar_name "ablauf", :group_name "exoscale", :version "0.2.0", :description "long-running workflow management", :created 1666869379851}
+{:jar_name "common-clj", :group_name "net.clojars.macielti", :version "18.24.21", :description "Just common Clojure code that I use across projects", :created 1666870679332}
+{:jar_name "matrix", :group_name "tiltontec", :version "4.1.7-SNAPSHOT", :description "Matrix dataflow library for CLJ/CLJS", :created 1666871083920}
+{:jar_name "babashka", :group_name "babashka", :version "1.0.165-SNAPSHOT", :description "babashka", :created 1666871575616}
+{:jar_name "clj-async-profiler", :group_name "com.clojure-goes-fast", :version "1.0.1", :description "Embedded high-precision Clojure profiler (based on async-profiler)", :created 1666871751435}
