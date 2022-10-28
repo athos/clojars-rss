@@ -1,7 +1,3 @@
-{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1666322669226}
-{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1666322677516}
-{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1666322686166}
-{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1666322694826}
 {:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type-like specs.", :created 1666322702926}
 {:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1666322711286}
 {:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "FIXME", :created 1666322719476}
@@ -244,13 +240,17 @@
 {:jar_name "edd-web-widgets", :group_name "com.alpha-prosoft", :version "1.159", :description nil, :created 1666972011615}
 {:jar_name "calip", :group_name "tolitius", :version "0.1.12", :description "measuring and debugging functions on demand without a need to alter the code", :created 1666972104015}
 {:jar_name "timbre", :group_name "com.taoensso", :version "6.0.0", :description "Pure Clojure/Script logging library", :created 1666974416800}
-{:jar_name "cmr-http-kit", :group_name "gov.nasa.earthdata", :version "0.3.1-SNAPSHOT", :description "Utilities, wrappers, middleware, and components for http-kit interop", :created 1666981068172}
 {:jar_name "cmr-authz", :group_name "gov.nasa.earthdata", :version "0.1.6-SNAPSHOT", :description "An authorization utility library for CMR services", :created 1666981166941}
-{:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.9-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1666981359180}
-{:jar_name "cmr-ous-plugin", :group_name "gov.nasa.earthdata", :version "0.3.9-SNAPSHOT", :description "A CMR services plugin that performs URL translations for subsetted GIS data", :created 1666981675958}
 {:jar_name "datapotato", :group_name "party.donut", :version "0.0.441", :description nil, :created 1666983376559}
 {:jar_name "datapotato-next-jdbc", :group_name "party.donut", :version "0.0.441", :description nil, :created 1666983387369}
 {:jar_name "datapotato-xtdb", :group_name "party.donut", :version "0.0.441", :description nil, :created 1666983398269}
 {:jar_name "sherlock", :group_name "com.github.jpmonettas", :version "0.1-alpha-1", :description nil, :created 1666983405289}
 {:jar_name "datapotato-datomic", :group_name "party.donut", :version "0.0.441", :description nil, :created 1666983409179}
 {:jar_name "datapotato-fluree", :group_name "party.donut", :version "0.0.441", :description nil, :created 1666983419739}
+{:jar_name "migratus", :group_name "migratus", :version "1.4.5", :description "MIGRATE ALL THE THINGS!", :created 1666985688556}
+{:jar_name "clojure-lanterna", :group_name "net.clojars.everyday-chemist", :version "0.9.8", :description "A Clojure wrapper around the Lanterna terminal output library.", :created 1666985736735}
+{:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.9-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1666986326012}
+{:jar_name "cmr-ous-plugin", :group_name "gov.nasa.earthdata", :version "0.3.9-SNAPSHOT", :description "A CMR services plugin that performs URL translations for subsetted GIS data", :created 1666986680230}
+{:jar_name "cmr-exchange-common", :group_name "gov.nasa.earthdata", :version "0.3.4-SNAPSHOT", :description "Cross-project functionality, utilities, and general-use components", :created 1666986882659}
+{:jar_name "cmr-http-kit", :group_name "gov.nasa.earthdata", :version "0.3.1-SNAPSHOT", :description "Utilities, wrappers, middleware, and components for http-kit interop", :created 1666987066078}
+{:jar_name "dbxray", :group_name "club.donutpower", :version "0.0.47", :description nil, :created 1666987281137}
