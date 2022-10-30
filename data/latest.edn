@@ -1,5 +1,3 @@
-{:jar_name "magellan", :group_name "sig-gis", :version "2022.10.21", :description nil, :created 1666396969562}
-{:jar_name "io", :group_name "io.github.protojure", :version "2.6.0", :description "IO library to support io.github.protojure/core", :created 1666405525479}
 {:jar_name "core", :group_name "io.github.protojure", :version "2.6.0", :description "Core protobuf and GRPC utilities for protojure", :created 1666405554269}
 {:jar_name "grpc-server", :group_name "io.github.protojure", :version "2.6.0", :description "GRPC server library for protoc-gen-clojure", :created 1666405576998}
 {:jar_name "grpc-client", :group_name "io.github.protojure", :version "2.6.0", :description "GRPC client library for protoc-gen-clojure", :created 1666405597428}
@@ -200,7 +198,6 @@
 {:jar_name "edd-web-widgets", :group_name "com.alpha-prosoft", :version "1.159", :description nil, :created 1666972011615}
 {:jar_name "calip", :group_name "tolitius", :version "0.1.12", :description "measuring and debugging functions on demand without a need to alter the code", :created 1666972104015}
 {:jar_name "timbre", :group_name "com.taoensso", :version "6.0.0", :description "Pure Clojure/Script logging library", :created 1666974416800}
-{:jar_name "cmr-authz", :group_name "gov.nasa.earthdata", :version "0.1.6-SNAPSHOT", :description "An authorization utility library for CMR services", :created 1666981166941}
 {:jar_name "datapotato", :group_name "party.donut", :version "0.0.441", :description nil, :created 1666983376559}
 {:jar_name "datapotato-next-jdbc", :group_name "party.donut", :version "0.0.441", :description nil, :created 1666983387369}
 {:jar_name "datapotato-xtdb", :group_name "party.donut", :version "0.0.441", :description nil, :created 1666983398269}
@@ -211,7 +208,6 @@
 {:jar_name "clojure-lanterna", :group_name "net.clojars.everyday-chemist", :version "0.9.8", :description "A Clojure wrapper around the Lanterna terminal output library.", :created 1666985736735}
 {:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.9-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1666986326012}
 {:jar_name "cmr-ous-plugin", :group_name "gov.nasa.earthdata", :version "0.3.9-SNAPSHOT", :description "A CMR services plugin that performs URL translations for subsetted GIS data", :created 1666986680230}
-{:jar_name "cmr-http-kit", :group_name "gov.nasa.earthdata", :version "0.3.1-SNAPSHOT", :description "Utilities, wrappers, middleware, and components for http-kit interop", :created 1666987066078}
 {:jar_name "dbxray", :group_name "club.donutpower", :version "0.0.47", :description nil, :created 1666987281137}
 {:jar_name "cmr-exchange-common", :group_name "gov.nasa.earthdata", :version "0.3.4-SNAPSHOT", :description "Cross-project functionality, utilities, and general-use components", :created 1666987317542}
 {:jar_name "clojure-lanterna", :group_name "net.clojars.everyday-chemist", :version "0.9.9", :description "A Clojure wrapper around the Lanterna terminal output library.", :created 1666987701184}
@@ -254,3 +250,7 @@
 {:jar_name "edd-core-web", :group_name "com.alpha-prosoft", :version "1.164", :description nil, :created 1667165864394}
 {:jar_name "edd-web-frame", :group_name "com.alpha-prosoft", :version "1.164", :description nil, :created 1667165873154}
 {:jar_name "edd-web-widgets", :group_name "com.alpha-prosoft", :version "1.164", :description nil, :created 1667165881904}
+{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha7", :description "FIXME: my new library.", :created 1667167297136}
+{:jar_name "cmr-authz", :group_name "gov.nasa.earthdata", :version "0.1.6-SNAPSHOT", :description "An authorization utility library for CMR services", :created 1667169257776}
+{:jar_name "goose", :group_name "com.nilenso", :version "0.3.0", :description nil, :created 1667169380935}
+{:jar_name "cmr-http-kit", :group_name "gov.nasa.earthdata", :version "0.3.1-SNAPSHOT", :description "Utilities, wrappers, middleware, and components for http-kit interop", :created 1667170865268}
