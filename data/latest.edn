@@ -206,10 +206,7 @@
 {:jar_name "datapotato-fluree", :group_name "party.donut", :version "0.0.441", :description nil, :created 1666983419739}
 {:jar_name "migratus", :group_name "migratus", :version "1.4.5", :description "MIGRATE ALL THE THINGS!", :created 1666985688556}
 {:jar_name "clojure-lanterna", :group_name "net.clojars.everyday-chemist", :version "0.9.8", :description "A Clojure wrapper around the Lanterna terminal output library.", :created 1666985736735}
-{:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.9-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1666986326012}
-{:jar_name "cmr-ous-plugin", :group_name "gov.nasa.earthdata", :version "0.3.9-SNAPSHOT", :description "A CMR services plugin that performs URL translations for subsetted GIS data", :created 1666986680230}
 {:jar_name "dbxray", :group_name "club.donutpower", :version "0.0.47", :description nil, :created 1666987281137}
-{:jar_name "cmr-exchange-common", :group_name "gov.nasa.earthdata", :version "0.3.4-SNAPSHOT", :description "Cross-project functionality, utilities, and general-use components", :created 1666987317542}
 {:jar_name "clojure-lanterna", :group_name "net.clojars.everyday-chemist", :version "0.9.9", :description "A Clojure wrapper around the Lanterna terminal output library.", :created 1666987701184}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.10.15-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1666989371752}
 {:jar_name "subscriptions", :group_name "space.matterandvoid", :version "2022.10.28", :description "Subscriptions extracted from re-frame as a standalone library.", :created 1666989572203}
@@ -254,3 +251,6 @@
 {:jar_name "cmr-authz", :group_name "gov.nasa.earthdata", :version "0.1.6-SNAPSHOT", :description "An authorization utility library for CMR services", :created 1667169257776}
 {:jar_name "goose", :group_name "com.nilenso", :version "0.3.0", :description nil, :created 1667169380935}
 {:jar_name "cmr-http-kit", :group_name "gov.nasa.earthdata", :version "0.3.1-SNAPSHOT", :description "Utilities, wrappers, middleware, and components for http-kit interop", :created 1667170865268}
+{:jar_name "cmr-ous-plugin", :group_name "gov.nasa.earthdata", :version "0.3.9-SNAPSHOT", :description "A CMR services plugin that performs URL translations for subsetted GIS data", :created 1667171057837}
+{:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.9-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1667171513785}
+{:jar_name "cmr-exchange-common", :group_name "gov.nasa.earthdata", :version "0.3.4-SNAPSHOT", :description "Cross-project functionality, utilities, and general-use components", :created 1667171638464}
