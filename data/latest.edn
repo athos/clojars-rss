@@ -1,5 +1,3 @@
-{:jar_name "prose", :group_name "io.github.pfeodrippe", :version "0.1.0", :description nil, :created 1666408340581}
-{:jar_name "andrewslai", :group_name "org.clojars.alai57", :version "0.0.69", :description "The backend for ALai57's blogging app", :created 1666412558484}
 {:jar_name "futjure", :group_name "io.github.futjure", :version "1.12.0-master-SNAPSHOT", :description "Clojure core environment and runtime library.", :created 1666415094800}
 {:jar_name "antq", :group_name "antq", :version "2.1.939", :description "Point out your outdated dependencies", :created 1666436881983}
 {:jar_name "antq", :group_name "com.github.liquidz", :version "2.1.939", :description "Point out your outdated dependencies", :created 1666436887643}
@@ -245,12 +243,14 @@
 {:jar_name "clay", :group_name "org.scicloj", :version "2-alpha7", :description "FIXME: my new library.", :created 1667167297136}
 {:jar_name "cmr-authz", :group_name "gov.nasa.earthdata", :version "0.1.6-SNAPSHOT", :description "An authorization utility library for CMR services", :created 1667169257776}
 {:jar_name "goose", :group_name "com.nilenso", :version "0.3.0", :description nil, :created 1667169380935}
-{:jar_name "cmr-http-kit", :group_name "gov.nasa.earthdata", :version "0.3.1-SNAPSHOT", :description "Utilities, wrappers, middleware, and components for http-kit interop", :created 1667170865268}
-{:jar_name "cmr-ous-plugin", :group_name "gov.nasa.earthdata", :version "0.3.9-SNAPSHOT", :description "A CMR services plugin that performs URL translations for subsetted GIS data", :created 1667171057837}
-{:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.9-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1667171513785}
-{:jar_name "cmr-exchange-common", :group_name "gov.nasa.earthdata", :version "0.3.4-SNAPSHOT", :description "Cross-project functionality, utilities, and general-use components", :created 1667171638464}
 {:jar_name "varity", :group_name "varity", :version "0.9.2-SNAPSHOT", :description "Variant translation library for Clojure", :created 1667184592478}
 {:jar_name "http.async.client", :group_name "http.async.client", :version "1.4.0", :description "Asynchronous HTTP Client for Clojure", :created 1667191270633}
 {:jar_name "promesa", :group_name "funcool", :version "9.0.493", :description "Promise library for Clojure(Script)", :created 1667205313985}
 {:jar_name "ring-middleware-format", :group_name "com.timezynk", :version "0.3.1", :description "Ring middleware for parsing parameters and emitting responses in various formats. See https://github.com/ngrunwald/ring-middleware-format", :created 1667213484944}
 {:jar_name "matrix", :group_name "tiltontec", :version "4.1.7-SNAPSHOT", :description "Matrix dataflow library for CLJ/CLJS", :created 1667217579144}
+{:jar_name "clj-jq", :group_name "lt.jocas", :version "1.2.1", :description "jq processor for JSON data", :created 1667217911424}
+{:jar_name "conceptual", :group_name "org.clojars.jekyllislandtours", :version "0.1.53", :description nil, :created 1667220187611}
+{:jar_name "cmr-exchange-common", :group_name "gov.nasa.earthdata", :version "0.3.4-SNAPSHOT", :description "Cross-project functionality, utilities, and general-use components", :created 1667221815624}
+{:jar_name "cmr-http-kit", :group_name "gov.nasa.earthdata", :version "0.3.1-SNAPSHOT", :description "Utilities, wrappers, middleware, and components for http-kit interop", :created 1667221853274}
+{:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.9-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1667221937233}
+{:jar_name "cmr-ous-plugin", :group_name "gov.nasa.earthdata", :version "0.3.9-SNAPSHOT", :description "A CMR services plugin that performs URL translations for subsetted GIS data", :created 1667221979933}
