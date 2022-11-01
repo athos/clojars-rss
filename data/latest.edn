@@ -246,7 +246,6 @@
 {:jar_name "hashp", :group_name "com.github.tggreene", :version "0.3.0", :description "A better \"prn\" for debugging", :created 1667244499539}
 {:jar_name "cmr-http-kit", :group_name "gov.nasa.earthdata", :version "0.3.1-SNAPSHOT", :description "Utilities, wrappers, middleware, and components for http-kit interop", :created 1667245151511}
 {:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.9-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1667245326669}
-{:jar_name "cmr-ous-plugin", :group_name "gov.nasa.earthdata", :version "0.3.9-SNAPSHOT", :description "A CMR services plugin that performs URL translations for subsetted GIS data", :created 1667247243831}
 {:jar_name "http-client", :group_name "puppetlabs", :version "2.1.1", :description "HTTP client wrapper", :created 1667248148097}
 {:jar_name "history", :group_name "io.jepsen", :version "0.1.0-SNAPSHOT", :description "A library for working with Jepsen's histories of concurrent systems.", :created 1667251399687}
 {:jar_name "promesa", :group_name "funcool", :version "9.0.494", :description "Promise library for Clojure(Script)", :created 1667252223457}
@@ -254,3 +253,4 @@
 {:jar_name "babashka", :group_name "babashka", :version "1.0.165-SNAPSHOT", :description "babashka", :created 1667252984138}
 {:jar_name "web-steroid", :group_name "io.github.ajchemist", :version "2022.305.3254", :description nil, :created 1667264060736}
 {:jar_name "clj-sqs-extended", :group_name "motiva", :version "0.6.0", :description "Clojure wrapper for https://github.com/awslabs/amazon-sqs-java-extended-client-lib", :created 1667265031304}
+{:jar_name "cmr-ous-plugin", :group_name "gov.nasa.earthdata", :version "0.3.9-SNAPSHOT", :description "A CMR services plugin that performs URL translations for subsetted GIS data", :created 1667266345558}
