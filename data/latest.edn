@@ -1,4 +1,3 @@
-{:jar_name "kindly", :group_name "org.scicloj", :version "3-alpha4", :description nil, :created 1666536986228}
 {:jar_name "clay", :group_name "org.scicloj", :version "2-alpha4", :description "FIXME: my new library.", :created 1666537100217}
 {:jar_name "bb-pod-racer", :group_name "org.endot", :version "0.1.4", :description nil, :created 1666542267812}
 {:jar_name "lein-sealog", :group_name "com.wallbrew", :version "1.0.1", :description "A Leiningen plugin for managing your changelog.", :created 1666542731722}
@@ -246,7 +245,6 @@
 {:jar_name "cmr-http-kit", :group_name "gov.nasa.earthdata", :version "0.3.1-SNAPSHOT", :description "Utilities, wrappers, middleware, and components for http-kit interop", :created 1667310988977}
 {:jar_name "user.repl", :group_name "io.github.ajchemist", :version "2022.305.50409", :description nil, :created 1667311216184}
 {:jar_name "cmr-exchange-common", :group_name "gov.nasa.earthdata", :version "0.3.4-SNAPSHOT", :description "Cross-project functionality, utilities, and general-use components", :created 1667311270513}
-{:jar_name "deps.clj", :group_name "borkdude", :version "1.11.1.1183-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1667317291368}
 {:jar_name "history", :group_name "io.jepsen", :version "0.1.0-SNAPSHOT", :description "A library for working with Jepsen's histories of concurrent systems.", :created 1667319601325}
 {:jar_name "inertia-cljs", :group_name "com.github.tggreene", :version "0.2.0", :description nil, :created 1667326782853}
 {:jar_name "cmr-ous-plugin", :group_name "gov.nasa.earthdata", :version "0.3.9-SNAPSHOT", :description "A CMR services plugin that performs URL translations for subsetted GIS data", :created 1667330033763}
@@ -254,3 +252,5 @@
 {:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.9-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1667331015731}
 {:jar_name "clj-cef", :group_name "com.phronemophobic", :version "0.9.6-SNAPSHOT", :description "Clojure bindings for Chromium Embedded Framework.", :created 1667332674491}
 {:jar_name "clj-cef", :group_name "com.phronemophobic", :version "0.9.6", :description "Clojure bindings for Chromium Embedded Framework.", :created 1667332944671}
+{:jar_name "deps.clj", :group_name "borkdude", :version "1.11.1.1183-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1667338090795}
+{:jar_name "congraph", :group_name "congraph", :version "0.1.4", :description "a db connection management library that copies heavly from conman but allows for multiple type of connections", :created 1667338210594}
