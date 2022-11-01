@@ -203,7 +203,6 @@
 {:jar_name "ham-fisted", :group_name "com.cnuernber", :version "1.000-beta-29", :description nil, :created 1667150919500}
 {:jar_name "clj-mqtt-broker", :group_name "com.dkdhub", :version "0.0.1", :description "A Clojure wrapper to the Moquette Broker library", :created 1667154074823}
 {:jar_name "andrewslai", :group_name "org.clojars.alai57", :version "0.0.79", :description "The backend for ALai57's blogging app", :created 1667157059028}
-{:jar_name "deps.clj", :group_name "borkdude", :version "1.11.1.1183-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1667164185672}
 {:jar_name "edd-core-web", :group_name "com.alpha-prosoft", :version "1.164", :description nil, :created 1667165864394}
 {:jar_name "edd-web-frame", :group_name "com.alpha-prosoft", :version "1.164", :description nil, :created 1667165873154}
 {:jar_name "edd-web-widgets", :group_name "com.alpha-prosoft", :version "1.164", :description nil, :created 1667165881904}
@@ -237,7 +236,6 @@
 {:jar_name "hashc", :group_name "com.github.tggreene", :version "0.1.0", :description nil, :created 1667242817679}
 {:jar_name "hashp", :group_name "com.github.tggreene", :version "0.3.0", :description "A better \"prn\" for debugging", :created 1667244499539}
 {:jar_name "http-client", :group_name "puppetlabs", :version "2.1.1", :description "HTTP client wrapper", :created 1667248148097}
-{:jar_name "history", :group_name "io.jepsen", :version "0.1.0-SNAPSHOT", :description "A library for working with Jepsen's histories of concurrent systems.", :created 1667251399687}
 {:jar_name "promesa", :group_name "funcool", :version "9.0.494", :description "Promise library for Clojure(Script)", :created 1667252223457}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "5.2.13", :description "", :created 1667252804690}
 {:jar_name "babashka", :group_name "babashka", :version "1.0.165-SNAPSHOT", :description "babashka", :created 1667252984138}
@@ -252,5 +250,7 @@
 {:jar_name "cmr-http-kit", :group_name "gov.nasa.earthdata", :version "0.3.1-SNAPSHOT", :description "Utilities, wrappers, middleware, and components for http-kit interop", :created 1667310988977}
 {:jar_name "user.repl", :group_name "io.github.ajchemist", :version "2022.305.50409", :description nil, :created 1667311216184}
 {:jar_name "cmr-exchange-common", :group_name "gov.nasa.earthdata", :version "0.3.4-SNAPSHOT", :description "Cross-project functionality, utilities, and general-use components", :created 1667311270513}
-{:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.9-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1667312516197}
 {:jar_name "cmr-ous-plugin", :group_name "gov.nasa.earthdata", :version "0.3.9-SNAPSHOT", :description "A CMR services plugin that performs URL translations for subsetted GIS data", :created 1667312887223}
+{:jar_name "history", :group_name "io.jepsen", :version "0.1.0-SNAPSHOT", :description "A library for working with Jepsen's histories of concurrent systems.", :created 1667316984012}
+{:jar_name "deps.clj", :group_name "borkdude", :version "1.11.1.1183-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1667317291368}
+{:jar_name "cmr-metadata-proxy", :group_name "gov.nasa.earthdata", :version "0.2.9-SNAPSHOT", :description "A library that provides convenience functions for accessing and locally caching CMR metadata (granules, collections, variables, services, etc.)", :created 1667317957320}
