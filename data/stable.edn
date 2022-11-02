@@ -1,6 +1,3 @@
-{:jar_name "lucene-query-parsing", :group_name "lt.jocas", :version "1.0.6", :description "(Micro)Library for a data-driven Lucene query parsing.", :created 1666382573307}
-{:jar_name "lucene-custom-analyzer", :group_name "lt.jocas", :version "1.0.24", :description "(Micro)Library to build Lucene analyzers in a data-driven fashion.", :created 1666382987415}
-{:jar_name "lucene-text-analysis", :group_name "lt.jocas", :version "1.0.20", :description "(Micro)Library to analyze text with Lucene analyzers.", :created 1666383377199}
 {:jar_name "ctmx", :group_name "ctmx", :version "1.4.6", :description "Backend helpers for htmx", :created 1666384216208}
 {:jar_name "magellan", :group_name "sig-gis", :version "2022.10.21", :description nil, :created 1666396969562}
 {:jar_name "io", :group_name "io.github.protojure", :version "2.6.0", :description "IO library to support io.github.protojure/core", :created 1666405525479}
@@ -254,3 +251,6 @@
 {:jar_name "c4k-gitea", :group_name "org.domaindrivenarchitecture", :version "1.0.0", :description "gitea c4k-installation package", :created 1667392072398}
 {:jar_name "jonotin", :group_name "jonotin", :version "0.3.3", :description "Google Pub/Sub Java SDK wrapper", :created 1667396920948}
 {:jar_name "datahike", :group_name "io.replikativ", :version "0.5.1517", :description "A durable datalog implementation adaptable for distribution.", :created 1667398084103}
+{:jar_name "hugcypher", :group_name "net.clojars.rams-services", :version "0.1.2", :description "HugCypher offers a similar experience to the excellent HugSql library but for cypher. As a matter of fact this library copies some very important parts from HugSql. It extends the original hugneo4j by providing support for both neo4j and arcadedb", :created 1667402394307}
+{:jar_name "congraph", :group_name "congraph", :version "0.1.5", :description "a db connection management library that copies heavly from conman but allows for multiple type of connections", :created 1667402433406}
+{:jar_name "lambdaconnect-sync", :group_name "io.spinney", :version "1.0.3", :description "Synchronisation library", :created 1667403314935}
