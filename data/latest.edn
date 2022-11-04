@@ -1,5 +1,3 @@
-{:jar_name "parent", :group_name "io.jesi", :version "4.23.0", :description "Clojure and NPM parent package definitions", :created 1666748017971}
-{:jar_name "cmr-http-kit", :group_name "gov.nasa.earthdata", :version "0.3.0", :description "Utilities, wrappers, middleware, and components for http-kit interop", :created 1666748032971}
 {:jar_name "dev-tooling", :group_name "io.github.pfeodrippe", :version "1.0.3", :description nil, :created 1666748547115}
 {:jar_name "cmr-authz", :group_name "gov.nasa.earthdata", :version "0.1.5", :description "An authorization utility library for CMR services", :created 1666749417255}
 {:jar_name "user.java.io", :group_name "io.github.ajchemist", :version "2022.299.9910", :description nil, :created 1666752319121}
@@ -219,7 +217,6 @@
 {:jar_name "cmr-exchange-common", :group_name "gov.nasa.earthdata", :version "0.3.4-SNAPSHOT", :description "Cross-project functionality, utilities, and general-use components", :created 1667480368118}
 {:jar_name "ring-trace-context", :group_name "nl.jomco", :version "0.0.3", :description "", :created 1667481702430}
 {:jar_name "ham-fisted", :group_name "com.cnuernber", :version "1.000-beta-30", :description nil, :created 1667482532508}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.11.03-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1667484306845}
 {:jar_name "ring-trace-context", :group_name "nl.jomco", :version "0.0.5", :description "", :created 1667487627811}
 {:jar_name "elle", :group_name "elle", :version "0.1.6-SNAPSHOT", :description "Black-box transactional consistency checker, based on cycle detection", :created 1667489818952}
 {:jar_name "re-com", :group_name "org.clojars.jackjliew", :version "2.13.2-119-fcebaee-SNAPSHOT", :description "Reusable UI components for Reagent", :created 1667490447874}
@@ -254,3 +251,6 @@
 {:jar_name "ham-fisted", :group_name "com.cnuernber", :version "1.000-beta-33", :description nil, :created 1667581195622}
 {:jar_name "benchmark", :group_name "com.cnuernber", :version "1.000-beta-2", :description nil, :created 1667582238270}
 {:jar_name "rate-limit", :group_name "io.staticweb", :version "1.1.0", :description "Ring middleware for applying rate-limits to handlers.", :created 1667584469675}
+{:jar_name "hermes", :group_name "com.eldrix", :version "1.0.766", :description nil, :created 1667585281236}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.11.03-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1667587621730}
+{:jar_name "hansel", :group_name "com.github.jpmonettas", :version "0.1-alpha-8", :description nil, :created 1667588216763}
