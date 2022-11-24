@@ -1,14 +1,3 @@
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1668306982757}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1668306988947}
-{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1668306995937}
-{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Malli integration", :created 1668307002877}
-{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1668307009037}
-{:jar_name "ring-swagger-ui", :group_name "metosin", :version "4.15.5", :description "Swagger UI for Ring apps", :created 1668344774308}
-{:jar_name "ham-fisted", :group_name "com.cnuernber", :version "1.000-beta-45", :description nil, :created 1668348983797}
-{:jar_name "cljs-bean", :group_name "cljs-bean", :version "1.9.0", :description "Clojure's bean function for ClojureScript", :created 1668349596204}
-{:jar_name "hugwhere", :group_name "org.clojars.xiao-ne-zha", :version "0.2.3-SNAPSHOT", :description "dynamic `where conditions` when you use hugsql to create your function that access database\n当你使用hugsql来编写数据库访问函数时，该库可以让你省去编写动态拼接where条件的繁琐", :created 1668351443825}
-{:jar_name "subscriptions", :group_name "space.matterandvoid", :version "2022.11.13", :description "Subscriptions extracted from re-frame as a standalone library.", :created 1668358971157}
-{:jar_name "cljs-web3-next", :group_name "io.github.district0x", :version "0.2.0-SNAPSHOT", :description nil, :created 1668383485975}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20221114-011912.a2a10638", :description nil, :created 1668388789579}
 {:jar_name "konserve", :group_name "io.replikativ", :version "0.7.284", :description "Durable cross-platform key-value store protocol with core.async.", :created 1668392370261}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20221114-024102.3a197d04", :description nil, :created 1668393712404}
@@ -254,3 +243,14 @@
 {:jar_name "cljdoc-exerciser", :group_name "org.cljdoc", :version "1.0.89", :description nil, :created 1669238204919}
 {:jar_name "cybermonday", :group_name "com.kiranshila", :version "0.4.191", :description nil, :created 1669244788998}
 {:jar_name "cybermonday", :group_name "com.kiranshila", :version "0.5.197", :description nil, :created 1669251001249}
+{:jar_name "base", :group_name "org.clojars.xiao-ne-zha", :version "0.3.2-SNAPSHOT", :description "基础工程，最常见工具", :created 1669274006527}
+{:jar_name "clj-sftp", :group_name "org.clojars.xiao-ne-zha", :version "0.3.2-SNAPSHOT", :description "sftp工具类", :created 1669274025227}
+{:jar_name "framework", :group_name "org.clojars.xiao-ne-zha", :version "0.3.2-SNAPSHOT", :description "FIXME: write description", :created 1669274041977}
+{:jar_name "clj-redis", :group_name "org.clojars.xiao-ne-zha", :version "0.3.2-SNAPSHOT", :description "redis操作库", :created 1669274062837}
+{:jar_name "cache", :group_name "org.clojars.xiao-ne-zha", :version "0.3.2-SNAPSHOT", :description "缓存工具", :created 1669274084616}
+{:jar_name "impexp", :group_name "org.clojars.xiao-ne-zha", :version "0.3.2-SNAPSHOT", :description "导入导出工具", :created 1669274102976}
+{:jar_name "oracle-adapter", :group_name "org.clojars.xiao-ne-zha", :version "0.1.0-SNAPSHOT", :description "FIXME: write description", :created 1669274133126}
+{:jar_name "scheduler", :group_name "org.clojars.xiao-ne-zha", :version "0.3.2-SNAPSHOT", :description "FIXME: write description", :created 1669274262355}
+{:jar_name "toolkit", :group_name "org.clojars.xiao-ne-zha", :version "0.3.2-SNAPSHOT", :description "工具包合集，包括base,clj-sftp,framework,clj-redis,clj-cache, impexp", :created 1669274286434}
+{:jar_name "postgresql-adapter", :group_name "org.clojars.xiao-ne-zha", :version "0.3.2-SNAPSHOT", :description "FIXME: write description", :created 1669274326454}
+{:jar_name "honeyselect", :group_name "org.clojars.xiao-ne-zha", :version "0.3.2-SNAPSHOT", :description "简化前后端接口,当前japi更丰富，后续完善rest接口", :created 1669274513662}
