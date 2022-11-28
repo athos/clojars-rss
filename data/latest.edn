@@ -1,10 +1,3 @@
-{:jar_name "markdown-clj", :group_name "markdown-clj", :version "1.11.4", :description "Markdown parser", :created 1668612537090}
-{:jar_name "commons", :group_name "io.bloomventures", :version "0.13.0", :description "", :created 1668612696929}
-{:jar_name "riemann-jvm-profiler", :group_name "riemann-jvm-profiler", :version "0.1.1", :description "Distributed JVM profiling for Riemann.", :created 1668616378524}
-{:jar_name "postmark", :group_name "org.banzai", :version "1.3.2", :description "Clojure bindings for http://postmarkapp.com/", :created 1668619311426}
-{:jar_name "commons", :group_name "io.bloomventures", :version "0.13.1", :description "", :created 1668620794209}
-{:jar_name "bb-operator", :group_name "net.clojars.formiclabs", :version "1.3.0", :description nil, :created 1668621400306}
-{:jar_name "fulcro-rad-semantic-ui", :group_name "com.fulcrologic", :version "1.2.17-SNAPSHOT", :description "A UI plugin for Fulcro RAD that renders to web/electron using Semantic UI CSS", :created 1668623829914}
 {:jar_name "datahike", :group_name "io.replikativ", :version "0.6.1523", :description "A durable datalog implementation adaptable for distribution.", :created 1668624334071}
 {:jar_name "fulcro-rad", :group_name "com.fulcrologic", :version "1.3.6-SNAPSHOT", :description "A library for rapid application development in Fulcro", :created 1668624404401}
 {:jar_name "servo", :group_name "com.7theta", :version "3.6.2", :description "A rehinkdb client library designed to integrate with signum", :created 1668627730214}
@@ -254,3 +247,10 @@
 {:jar_name "babashka", :group_name "babashka", :version "1.0.167-SNAPSHOT", :description "babashka", :created 1669638632671}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.11.03-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1669640389143}
 {:jar_name "midje", :group_name "midje", :version "1.10.9", :description "A TDD library for Clojure that supports top-down ('mockish') TDD, encourages readable tests, provides a smooth migration path from clojure.test, balances abstraction and concreteness, and strives for graciousness.", :created 1669642424244}
+{:jar_name "martian", :group_name "com.github.oliyh", :version "0.1.22", :description "Client routing for Swagger APIs", :created 1669651503709}
+{:jar_name "martian-clj-http-lite", :group_name "com.github.oliyh", :version "0.1.22", :description "clj-http-lite implementation for martian", :created 1669651521487}
+{:jar_name "martian-httpkit", :group_name "com.github.oliyh", :version "0.1.22", :description "httpkit implementation for martian", :created 1669651536350}
+{:jar_name "martian-cljs-http-promise", :group_name "com.github.oliyh", :version "0.1.22", :description "cljs-http-promise implementation for martian", :created 1669651567666}
+{:jar_name "martian-cljs-http", :group_name "com.github.oliyh", :version "0.1.22", :description "cljs-http implementation for martian", :created 1669651598688}
+{:jar_name "martian-vcr", :group_name "com.github.oliyh", :version "0.1.22", :description "Recording and playback for Martian", :created 1669651631703}
+{:jar_name "martian-test", :group_name "com.github.oliyh", :version "0.1.22", :description "Testing tools for martian", :created 1669651646985}
