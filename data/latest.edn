@@ -1,25 +1,3 @@
-{:jar_name "district-ui-smart-contracts", :group_name "is.mad", :version "22.12.5", :description nil, :created 1670204341204}
-{:jar_name "district-ui-web3-tx-id", :group_name "is.mad", :version "22.12.5", :description nil, :created 1670204349694}
-{:jar_name "district-server-smart-contracts", :group_name "is.mad", :version "22.12.5", :description nil, :created 1670204358424}
-{:jar_name "district-server-web3-watcher", :group_name "is.mad", :version "22.12.5", :description nil, :created 1670204366514}
-{:jar_name "district-server-db", :group_name "is.mad", :version "22.12.5", :description nil, :created 1670204374984}
-{:jar_name "district-server-web3-events", :group_name "is.mad", :version "22.12.5", :description nil, :created 1670204383264}
-{:jar_name "district-server-web3", :group_name "is.mad", :version "22.12.5", :description nil, :created 1670204391504}
-{:jar_name "cljs-web3-next", :group_name "is.mad", :version "22.12.5", :description nil, :created 1670204399934}
-{:jar_name "promesa", :group_name "funcool", :version "10.0.570", :description "A promise library and concurency toolkit for Clojure and ClojureScript.", :created 1670225156561}
-{:jar_name "user-manager.cognito", :group_name "dev.gethop", :version "0.1.1", :description "A library for interacting with the AWS Cognito User Pools API", :created 1670240540277}
-{:jar_name "timbre", :group_name "com.taoensso", :version "6.1.0-alpha1", :description "Pure Clojure/Script logging library", :created 1670242658997}
-{:jar_name "cider-nrepl", :group_name "cider", :version "0.29.0", :description "A collection of nREPL middleware designed to enhance Clojure editors.", :created 1670244552576}
-{:jar_name "timbre", :group_name "com.taoensso", :version "6.1.0-alpha2", :description "Pure Clojure/Script logging library", :created 1670246204195}
-{:jar_name "bybit", :group_name "io.github.bortexz", :version "0.0.2", :description "Bybit lightweight client", :created 1670246522455}
-{:jar_name "edd-core-web", :group_name "com.alpha-prosoft", :version "1.185", :description nil, :created 1670248747925}
-{:jar_name "edd-web-frame", :group_name "com.alpha-prosoft", :version "1.185", :description nil, :created 1670248756745}
-{:jar_name "edd-web-widgets", :group_name "com.alpha-prosoft", :version "1.185", :description nil, :created 1670248765495}
-{:jar_name "html-to-image", :group_name "io.github.cljsjs", :version "1.11.1-0", :description "Generates an image from a DOM node using HTML5 canvas and SVG", :created 1670249166645}
-{:jar_name "keycloak-js", :group_name "io.github.cljsjs", :version "20.0.1-0", :description "", :created 1670249235065}
-{:jar_name "timbre", :group_name "com.taoensso", :version "6.1.0-alpha3", :description "Pure Clojure/Script logging library", :created 1670249705874}
-{:jar_name "clojure-data-grinder-core", :group_name "org.clojars.sn0wf1eld", :version "1.0.2-alpha", :description "FIXME: write description", :created 1670251469494}
-{:jar_name "clojure-data-grinder-tx-manager", :group_name "org.clojars.sn0wf1eld", :version "0.1.1", :description "FIXME: write description", :created 1670251496234}
 {:jar_name "cloudflare-dnslink", :group_name "com.timetraveltoaster", :version "1.0.1", :description nil, :created 1670255121353}
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.5.30", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1670258381088}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.42.0", :description "Core utils library for Clojure/Script", :created 1670259639922}
@@ -203,7 +181,6 @@
 {:jar_name "blocks-jdbc-dev", :group_name "ch.codesmith", :version "0.7.77", :description nil, :created 1670702775774}
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.5.31-SNAPSHOT", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1670706476266}
 {:jar_name "fulcro-rad-semantic-ui", :group_name "com.fulcrologic", :version "1.2.21-SNAPSHOT", :description "A UI plugin for Fulcro RAD that renders to web/electron using Semantic UI CSS", :created 1670706897916}
-{:jar_name "fulcro-rad", :group_name "com.fulcrologic", :version "1.3.10-SNAPSHOT", :description "A library for rapid application development in Fulcro", :created 1670707201256}
 {:jar_name "district-server-bundle", :group_name "is.mad", :version "22.12.9-SNAPSHOT", :description nil, :created 1670758440158}
 {:jar_name "ib-re-actor-976-plus", :group_name "ib-re-actor-976-plus", :version "0.1.81-SNAPSHOT", :description "Clojure friendly wrapper for Interactive Brokers Java API", :created 1670758957348}
 {:jar_name "igraph", :group_name "ont-app", :version "0.2.0-SNAPSHOT", :description nil, :created 1670764965047}
@@ -254,3 +231,26 @@
 {:jar_name "district-ui-bundle", :group_name "is.mad", :version "22.12.12-SNAPSHOT", :description nil, :created 1670861153758}
 {:jar_name "sn0wst0rm-api", :group_name "org.clojars.sn0wf1eld", :version "1.0.0", :description "FIXME: write description", :created 1670862096881}
 {:jar_name "kushi", :group_name "design.kushi", :version "1.0.0-a.16-SNAPSHOT", :description "ClojureScript UI Framework", :created 1670866283434}
+{:jar_name "cljs-web3-next", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670868096564}
+{:jar_name "carmine", :group_name "com.taoensso", :version "3.3.0-alpha1", :description "Clojure Redis client & message queue", :created 1670869363114}
+{:jar_name "clj-java-decompiler", :group_name "com.clojure-goes-fast", :version "0.3.3-SNAPSHOT", :description "Integrated Clojure-to-Java decompiler", :created 1670869549704}
+{:jar_name "district-server-db", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869714944}
+{:jar_name "district-server-web3", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869727724}
+{:jar_name "district-server-web3-watcher", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869740704}
+{:jar_name "district-ui-web3", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869752944}
+{:jar_name "district-ui-web3-chain", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869765584}
+{:jar_name "district-ui-web3-accounts", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869777364}
+{:jar_name "district-ui-component-tx-button", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869789204}
+{:jar_name "district-ui-smart-contracts", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869802034}
+{:jar_name "district-ui-web3-sync-now", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869814824}
+{:jar_name "district-shared-bundle", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869826784}
+{:jar_name "district-ui-web3-tx", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869839644}
+{:jar_name "district-ui-web3-tx-log-core", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869851894}
+{:jar_name "district-ui-web3-tx-costs", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869864544}
+{:jar_name "district-ui-web3-tx-log", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869879524}
+{:jar_name "district-server-smart-contracts", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869904564}
+{:jar_name "district-server-web3-events", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869916424}
+{:jar_name "district-ui-web3-account-balances", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869943454}
+{:jar_name "district-ui-component-active-account-balance", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869959464}
+{:jar_name "district-ui-reagent-render", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1670869972364}
+{:jar_name "fulcro-rad", :group_name "com.fulcrologic", :version "1.3.10-SNAPSHOT", :description "A library for rapid application development in Fulcro", :created 1670871667023}
