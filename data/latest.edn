@@ -1,4 +1,3 @@
-{:jar_name "fulcro-rad-datomic", :group_name "com.fulcrologic", :version "1.3.6", :description "A Datomic database driver for Fulcro RAD.", :created 1670874566513}
 {:jar_name "deps.clj", :group_name "borkdude", :version "1.11.1.1201-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1670876649077}
 {:jar_name "cybermonday", :group_name "com.kiranshila", :version "0.5.199", :description nil, :created 1670877253928}
 {:jar_name "cybermonday", :group_name "com.kiranshila", :version "0.5.204", :description nil, :created 1670879019222}
@@ -201,7 +200,6 @@
 {:jar_name "reformation", :group_name "edu.byu.odh", :version "24", :description "Generate and manipulate form datastructures in pure Clojure, which can be read with Reagent.", :created 1671524524747}
 {:jar_name "multilib", :group_name "com.github.puregero", :version "1.1.9", :description "Plugin Library for interfacing with MultiPaper Specific API's with graceful fallback that maintains Spigot Compatibility, such as External Player Detection.", :created 1671526979103}
 {:jar_name "keys", :group_name "io.github.bsless", :version "0.0.7", :description "Select and rename keys as fast as possible with Clojure.", :created 1671528448064}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.12.11-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1671528865364}
 {:jar_name "undertow", :group_name "com.github.strojure", :version "1.0.15-beta1", :description "Clojure API to Undertow web server.", :created 1671530093244}
 {:jar_name "undertow", :group_name "com.github.strojure", :version "1.0.18-beta2", :description "Clojure API to Undertow web server.", :created 1671533095435}
 {:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.3.303", :description nil, :created 1671536888376}
@@ -254,3 +252,5 @@
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1671588337528}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Malli integration", :created 1671588344728}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1671588351838}
+{:jar_name "carmine", :group_name "com.taoensso", :version "3.3.0-alpha4", :description "Clojure Redis client & message queue", :created 1671618691415}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2022.12.11-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1671619384975}
