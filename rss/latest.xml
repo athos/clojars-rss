@@ -4,7 +4,46 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 3 Jan 2023 18:01:26 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 3 Jan 2023 19:01:27 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/babashka/versions/1.0.169-SNAPSHOT</guid>
+    <title>[babashka &quot;1.0.169-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/babashka/versions/1.0.169-SNAPSHOT</link>
+    <description>babashka</description>
+    <pubDate>Tue, 3 Jan 2023 19:00:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/spork/versions/0.2.1.5-SNAPSHOT</guid>
+    <title>[spork &quot;0.2.1.5-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/spork/versions/0.2.1.5-SNAPSHOT</link>
+    <description>A set of libraries derived from Spoon&#39;s Operations Research Kit.
+   Libraries are modular and will be supported as stand-alone dependencies.
+   This project is an uberjar that includes all of the modular bits in a single
+   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,
+   focusing on a functional API, a default towards purity and persistent data
+   structures, with alternative mutable/imperative counterparts.  The vast
+   majority of spork is written in Clojure, with an intentional nod toward
+   independence from external libraries, particularly Java libs.  Consequently,
+   spork should provide a lightweight, clojure-based platform for the topics
+   covered by the libraries.  I am currently working to eliminate legacy
+   java dependencies where possible.</description>
+    <pubDate>Tue, 3 Jan 2023 18:52:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/yetibot/versions/20230103.182324.c2a3cf7</guid>
+    <title>[yetibot &quot;20230103.182324.c2a3cf7&quot;]</title>
+    <link>https://clojars.org/yetibot/versions/20230103.182324.c2a3cf7</link>
+    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
+    <pubDate>Tue, 3 Jan 2023 18:25:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/yetibot/core/versions/20230103.180605.3a4c94d</guid>
+    <title>[yetibot/core &quot;20230103.180605.3a4c94d&quot;]</title>
+    <link>https://clojars.org/yetibot/core/versions/20230103.180605.3a4c94d</link>
+    <description>Core yetibot utilities, extracted for shared use among yetibot
+                and its various plugins</description>
+    <pubDate>Tue, 3 Jan 2023 18:07:03 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/techascent/tech.ml.dataset/versions/7.000-beta-13</guid>
     <title>[techascent/tech.ml.dataset &quot;7.000-beta-13&quot;]</title>
@@ -46,13 +85,6 @@
     <link>https://clojars.org/com.cnuernber/ham-fisted/versions/1.000-beta-74</link>
     <description></description>
     <pubDate>Tue, 3 Jan 2023 13:12:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/babashka/versions/1.0.169-SNAPSHOT</guid>
-    <title>[babashka &quot;1.0.169-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/babashka/versions/1.0.169-SNAPSHOT</link>
-    <description>babashka</description>
-    <pubDate>Tue, 3 Jan 2023 12:33:50 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.appsflyer/ketu/versions/0.6.1-SNAPSHOT</guid>
@@ -1780,27 +1812,6 @@
     <link>https://clojars.org/is.d0x/district-parsers/versions/22.12.19-SNAPSHOT</link>
     <description></description>
     <pubDate>Tue, 20 Dec 2022 13:26:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/luminus/lein-template/versions/4.48</guid>
-    <title>[luminus/lein-template &quot;4.48&quot;]</title>
-    <link>https://clojars.org/luminus/lein-template/versions/4.48</link>
-    <description>a template for creating Luminus applications</description>
-    <pubDate>Tue, 20 Dec 2022 12:48:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.babashka/sci/versions/0.6.37</guid>
-    <title>[org.babashka/sci &quot;0.6.37&quot;]</title>
-    <link>https://clojars.org/org.babashka/sci/versions/0.6.37</link>
-    <description>Small Clojure Interpreter</description>
-    <pubDate>Tue, 20 Dec 2022 12:19:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/bites/versions/0.3.3</guid>
-    <title>[bites &quot;0.3.3&quot;]</title>
-    <link>https://clojars.org/bites/versions/0.3.3</link>
-    <description>Utilities for converting stuff to/from bytes + NIO extensions to `clojure.java.io` + CBOR support.</description>
-    <pubDate>Tue, 20 Dec 2022 12:02:20 +0000</pubDate>
   </item>
   </channel>
 </rss>
