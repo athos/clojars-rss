@@ -1,5 +1,3 @@
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1671729492658}
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1671729499048}
 {:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1671729505458}
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1671729511698}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Malli integration", :created 1671729518128}
@@ -254,3 +252,5 @@
 {:jar_name "log", :group_name "com.avisi-apps.gaps", :version "0.0.61-SNAPSHOT", :description nil, :created 1673193488575}
 {:jar_name "rcf", :group_name "com.avisi-apps.gaps", :version "0.0.61-SNAPSHOT", :description nil, :created 1673193494625}
 {:jar_name "reitit-express", :group_name "com.avisi-apps.gaps", :version "0.0.61-SNAPSHOT", :description nil, :created 1673193500795}
+{:jar_name "specomatic", :group_name "org.clojars.primeteach", :version "0.0.1", :description nil, :created 1673199505511}
+{:jar_name "honeysql", :group_name "drtom", :version "2.0.0", :description "SQL as Clojure data structures", :created 1673200792753}
