@@ -1,26 +1,3 @@
-{:jar_name "datalevin-native", :group_name "org.clojars.huahaiy", :version "0.8.2", :description "Datalevin GraalVM native image and command line tool", :created 1674186497886}
-{:jar_name "toyokumo-commons", :group_name "toyokumo", :version "0.3.171", :description "Utility functions that are used in multiple Toyokumo products", :created 1674190604454}
-{:jar_name "skialib-macosx-aarch64", :group_name "com.phronemophobic.membrane", :version "0.9.31.9-beta-SNAPSHOT", :description nil, :created 1674200617336}
-{:jar_name "skialib-macosx-x86-64", :group_name "com.phronemophobic.membrane", :version "0.9.31.9-beta-SNAPSHOT", :description nil, :created 1674200625286}
-{:jar_name "skialib-linux-x86-64", :group_name "com.phronemophobic.membrane", :version "0.9.31.9-beta-SNAPSHOT", :description nil, :created 1674200683786}
-{:jar_name "muotti", :group_name "fi.polycode", :version "0.5.0-SNAPSHOT", :description "Muotti is a graph based value transformer library which aims to solve value transformation by utilizing\n                a digraph of known transformations to produce a transformer chain which is then used to perform the\n                actual transformation.", :created 1674208569154}
-{:jar_name "muotti", :group_name "fi.polycode", :version "1.0.0", :description "Muotti is a graph based value transformer library which aims to solve value transformation by utilizing\n                a digraph of known transformations to produce a transformer chain which is then used to perform the\n                actual transformation.", :created 1674210552068}
-{:jar_name "somekit", :group_name "org.clojars.some", :version "0.2.7", :description "Somé's Clojure(Script) creative coding toolkit", :created 1674211060744}
-{:jar_name "launchpad", :group_name "com.lambdaisland", :version "0.15.79-alpha", :description "Clojure dev process launcher", :created 1674211487741}
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.6.1531", :description "A durable datalog implementation adaptable for distribution.", :created 1674211751849}
-{:jar_name "kaocha", :group_name "lambdaisland", :version "1.74.1181", :description "Full featured next generation test runner for Clojure.", :created 1674214423118}
-{:jar_name "kaocha", :group_name "lambdaisland", :version "1.75.1190", :description "Full featured next generation test runner for Clojure.", :created 1674218969722}
-{:jar_name "pddl-parse-and-ground", :group_name "org.clojars.existenzquantor", :version "0.2.2", :description "A Parser and Grounder for PDDL files", :created 1674220432581}
-{:jar_name "ai_planner", :group_name "org.clojars.existenzquantor", :version "0.1.5", :description "An AI Planner supporting STRIPS with typing and negative preconditions", :created 1674220462621}
-{:jar_name "district-graphql-utils", :group_name "district0x", :version "1.0.11", :description "Set of functions helpful for working with GraphQL", :created 1674223597466}
-{:jar_name "cinch", :group_name "io.zalky", :version "0.1.0", :description "Utility functions that make things a cinch", :created 1674223875643}
-{:jar_name "axle", :group_name "io.zalky", :version "0.2.0", :description "An efficient cross-platform DirectoryWatcher based service for Clojure", :created 1674223994653}
-{:jar_name "dart-sass-clj", :group_name "io.zalky", :version "0.2.0", :description "An embedded dart-sass compiler and watch task for Clojure", :created 1674224061202}
-{:jar_name "runway", :group_name "io.zalky", :version "0.2.0", :description "Coding on the fly, with a tool.deps + component based reloadable build library", :created 1674224150651}
-{:jar_name "tesla-microservice", :group_name "de.otto", :version "0.17.4", :description "basic microservice.", :created 1674224456529}
-{:jar_name "gungnir", :group_name "kwrooijen", :version "0.0.2-SNAPSHOT", :description "A fully featured, data-driven database library for Clojure.", :created 1674225762879}
-{:jar_name "tesla-jetty", :group_name "de.otto", :version "0.2.11", :description "basic microservice.", :created 1674226655362}
-{:jar_name "promisespromises", :group_name "com.github.yapsterapp", :version "3.0.0-alpha2-SNAPSHOT", :description nil, :created 1674239519840}
 {:jar_name "quantus", :group_name "com.7theta", :version "0.12.0", :description "Library of handling quantities with units", :created 1674243354090}
 {:jar_name "re-frame-ipfs-fx", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1674243991995}
 {:jar_name "cljs-ipfs-http-client", :group_name "is.d0x", :version "0.0.1", :description nil, :created 1674244075654}
@@ -254,3 +231,26 @@
 {:jar_name "servo-rn", :group_name "com.7theta", :version "0.5.2", :description "An sqlite client library designed to integrate with signum", :created 1674747794557}
 {:jar_name "process", :group_name "babashka", :version "0.4.16", :description "Clojure library for shelling out / spawning subprocesses", :created 1674747938746}
 {:jar_name "babashka", :group_name "babashka", :version "1.1.173-SNAPSHOT", :description "babashka", :created 1674748629031}
+{:jar_name "district-server-db", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674750785189}
+{:jar_name "cljs-web3-next", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674750798542}
+{:jar_name "district-server-web3", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674750814161}
+{:jar_name "district-server-web3-watcher", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674750828996}
+{:jar_name "district-ui-web3", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674750854854}
+{:jar_name "district-ui-web3-chain", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674750871892}
+{:jar_name "district-ui-web3-accounts", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674750886944}
+{:jar_name "district-ui-component-tx-button", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674750903563}
+{:jar_name "district-ui-smart-contracts", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674750915822}
+{:jar_name "district-web3-utils", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674750928322}
+{:jar_name "district-ui-web3-sync-now", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674750944214}
+{:jar_name "cljs-ipfs-http-client", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674750994105}
+{:jar_name "district-ui-web3-tx", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674751023585}
+{:jar_name "district-ui-web3-tx-log-core", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674751040560}
+{:jar_name "district-ui-web3-tx-costs", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674751054485}
+{:jar_name "district-ui-web3-tx-log", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674751071275}
+{:jar_name "district-ui-web3-balances", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674751083729}
+{:jar_name "district-server-smart-contracts", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674751096484}
+{:jar_name "district-server-web3-events", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674751113185}
+{:jar_name "district-ui-web3-account-balances", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674751146526}
+{:jar_name "district-ui-component-active-account-balance", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674751163298}
+{:jar_name "district-ui-reagent-render", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674751178074}
+{:jar_name "district-ui-web3-tx-id", :group_name "is.d0x", :version "23.1.26", :description nil, :created 1674751191139}
