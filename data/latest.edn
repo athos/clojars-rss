@@ -1,12 +1,3 @@
-{:jar_name "dtlvnative-macos-amd64-shared", :group_name "org.clojars.huahaiy", :version "0.8.1", :description "Native dependency of JVM version of Datalevin database on MacOS Silicon", :created 1675044113314}
-{:jar_name "kalai-clojars-deploy-testing", :group_name "net.clojars.echeran", :version "0.1.1", :description nil, :created 1675045817697}
-{:jar_name "clj-htmltopdf", :group_name "clj-htmltopdf", :version "0.2.1", :description "Simple Clojure wrapper for Open HTML to PDF", :created 1675045865097}
-{:jar_name "dtlvnative-linux-amd64", :group_name "org.clojars.huahaiy", :version "0.8.2", :description "Native dependency of Datalevin database", :created 1675047563160}
-{:jar_name "dtlvnative-linux-amd64-shared", :group_name "org.clojars.huahaiy", :version "0.8.2", :description "Native dependency of JVM version of Datalevin database", :created 1675047571590}
-{:jar_name "dtlvnative-windows-amd64", :group_name "org.clojars.huahaiy", :version "0.8.2", :description "Native dependency of Datalevin database", :created 1675047574800}
-{:jar_name "dtlvnative-macos-aarch64-shared", :group_name "org.clojars.huahaiy", :version "0.8.2", :description "Native dependency of embedded library version of Datalevin on Apple Silicon", :created 1675047576570}
-{:jar_name "dtlvnative-macos-aarch64", :group_name "org.clojars.huahaiy", :version "0.8.2", :description "Native dependency of Datalevin database", :created 1675047584030}
-{:jar_name "dtlvnative-windows-amd64-shared", :group_name "org.clojars.huahaiy", :version "0.8.2", :description "Native dependency of JVM library version of Datalevin database", :created 1675047587030}
 {:jar_name "dtlvnative-macos-amd64", :group_name "org.clojars.huahaiy", :version "0.8.2", :description "Native dependency of Datalevin database", :created 1675047590040}
 {:jar_name "dtlvnative-macos-amd64-shared", :group_name "org.clojars.huahaiy", :version "0.8.2", :description "Native dependency of JVM version of Datalevin database on MacOS Silicon", :created 1675047600870}
 {:jar_name "kalai", :group_name "com.github.kalai-transpiler", :version "0.1.1", :description nil, :created 1675047628750}
@@ -212,7 +203,6 @@
 {:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "1.4-SNAPSHOT", :description nil, :created 1675759481260}
 {:jar_name "java.time.tz-asia-seoul", :group_name "io.github.ajchemist", :version "2023.38.32731", :description nil, :created 1675760737022}
 {:jar_name "active-logger", :group_name "de.active-group", :version "0.10.0-SNAPSHOT", :description "Active Logger: Utilities and DSL for logging on top of Timbre.", :created 1675761114906}
-{:jar_name "active-openid", :group_name "de.active-group", :version "0.2.0-SNAPSHOT", :description nil, :created 1675763319004}
 {:jar_name "mongo", :group_name "com.timezynk", :version "0.6.16", :description "Clojure wrapper for com.mongodb.client Java API.", :created 1675763611360}
 {:jar_name "useful", :group_name "com.timezynk", :version "1.20.7", :description "Useful functions", :created 1675766116783}
 {:jar_name "email-check", :group_name "net.curiousprogrammer", :version "0.1.0-SNAPSHOT", :description "FIXME: my new library.", :created 1675767431784}
@@ -232,7 +222,6 @@
 {:jar_name "clj-ldap", :group_name "puppetlabs", :version "0.4.0", :description "Clojure ldap client (Puppet Labs's fork).", :created 1675801215978}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "5.2.17", :description "", :created 1675802170673}
 {:jar_name "ssh-tools", :group_name "com.github.redhatqe", :version "2.1.1-SNAPSHOT", :description "A wrapper for sshj and some CLI tools", :created 1675804561340}
-{:jar_name "babashka", :group_name "babashka", :version "1.1.174-SNAPSHOT", :description "babashka", :created 1675805618555}
 {:jar_name "orzo", :group_name "luchiniatwork", :version "23.2.4", :description nil, :created 1675810648064}
 {:jar_name "orzo", :group_name "luchiniatwork", :version "23.2.5", :description nil, :created 1675810894040}
 {:jar_name "jruby-deps", :group_name "puppetlabs", :version "9.4.0.0-2", :description "JRuby dependencies", :created 1675811163557}
@@ -254,3 +243,14 @@
 {:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.64", :description nil, :created 1675850044387}
 {:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.64", :description nil, :created 1675850051597}
 {:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.64", :description nil, :created 1675850058537}
+{:jar_name "krystal-common", :group_name "com.flipkart.krystal", :version "1.4", :description nil, :created 1675850676068}
+{:jar_name "krystex", :group_name "com.flipkart.krystal", :version "1.4", :description nil, :created 1675850690518}
+{:jar_name "vajram", :group_name "com.flipkart.krystal", :version "1.4", :description nil, :created 1675850704978}
+{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "1.4", :description nil, :created 1675850719418}
+{:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "1.4", :description nil, :created 1675850734147}
+{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "1.4", :description nil, :created 1675850744397}
+{:jar_name "aleph", :group_name "aleph", :version "0.6.1", :description "A framework for asynchronous communication", :created 1675851046763}
+{:jar_name "matcher-combinators", :group_name "nubank", :version "3.8.2", :description "Library for creating matcher combinator to compare nested data structures", :created 1675851423397}
+{:jar_name "active-openid", :group_name "de.active-group", :version "0.2.0-SNAPSHOT", :description nil, :created 1675851729363}
+{:jar_name "fs", :group_name "babashka", :version "0.2.16", :description "Babashka file system utilities.", :created 1675851965969}
+{:jar_name "babashka", :group_name "babashka", :version "1.1.174-SNAPSHOT", :description "babashka", :created 1675852713928}
