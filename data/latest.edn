@@ -1,5 +1,3 @@
-{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.6.0", :description "Reitit: Swagger-ui support", :created 1676987703253}
-{:jar_name "reitit-frontend", :group_name "metosin", :version "0.6.0", :description "Reitit: Clojurescript frontend routing core", :created 1676987717092}
 {:jar_name "reitit-sieppari", :group_name "metosin", :version "0.6.0", :description "Reitit: Sieppari Interceptors", :created 1676987729822}
 {:jar_name "reitit-pedestal", :group_name "metosin", :version "0.6.0", :description "Reitit + Pedestal Integration", :created 1676987742952}
 {:jar_name "reitit", :group_name "metosin", :version "0.6.0", :description "Snappy data-driven router for Clojure(Script)", :created 1676987755792}
@@ -226,7 +224,6 @@
 {:jar_name "foo", :group_name "org.clojars.mortenschioler", :version "0.0.0-SNAPSHOT", :description nil, :created 1677776698617}
 {:jar_name "duckula", :group_name "nomnom", :version "0.8.0", :description "RPC server (and soon, client), built on top of JSON+Avro+HTTP", :created 1677777118402}
 {:jar_name "ctim", :group_name "threatgrid", :version "1.3.2", :description "Cisco Threat Intelligence Model", :created 1677777238511}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1677780150327}
 {:jar_name "jdbc-ring-session", :group_name "jdbc-ring-session", :version "1.5.1", :description "Ring JDBC Session Store", :created 1677791062298}
 {:jar_name "electric", :group_name "com.hyperfiddle", :version "v2-alpha-123-ga7fa624f", :description nil, :created 1677791735900}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20230302-213324.f9a2c468", :description nil, :created 1677792838318}
@@ -254,3 +251,6 @@
 {:jar_name "argoj", :group_name "io.trosa", :version "3.4.5-0.1.0-SNAPSHOT", :description "Data-Oriented, pure Clojure API wrapper for Argo Workflow", :created 1677862201421}
 {:jar_name "holi", :group_name "io.github.luciolucio", :version "0.16.0", :description nil, :created 1677862636296}
 {:jar_name "argoj", :group_name "io.trosa", :version "3.4.5-0.1.0", :description "Data-Oriented, pure Clojure API wrapper for Argo Workflow", :created 1677863156950}
+{:jar_name "tupelo", :group_name "tupelo", :version "23.03.03c-SHAPSHOT", :description nil, :created 1677867447139}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1677867657686}
+{:jar_name "vectio", :group_name "com.7theta", :version "0.6.2", :description "A stream-based transport layer.", :created 1677869752231}
