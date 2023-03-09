@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 9 Mar 2023 14:01:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 9 Mar 2023 15:01:37 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.strojure/memoize-one/versions/1.1.2-15</guid>
+    <title>[com.github.strojure/memoize-one &quot;1.1.2-15&quot;]</title>
+    <link>https://clojars.org/com.github.strojure/memoize-one/versions/1.1.2-15</link>
+    <description>Clojure library for memoization of the single value.</description>
+    <pubDate>Thu, 9 Mar 2023 14:46:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.strojure/ansi-escape/versions/1.0.2-08</guid>
+    <title>[com.github.strojure/ansi-escape &quot;1.0.2-08&quot;]</title>
+    <link>https://clojars.org/com.github.strojure/ansi-escape/versions/1.0.2-08</link>
+    <description>ANSI color escape sequences.</description>
+    <pubDate>Thu, 9 Mar 2023 14:40:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.strojure/slf4j-mdc/versions/1.0.2-10</guid>
+    <title>[com.github.strojure/slf4j-mdc &quot;1.0.2-10&quot;]</title>
+    <link>https://clojars.org/com.github.strojure/slf4j-mdc/versions/1.0.2-10</link>
+    <description>Clojure utility for SLF4J logging system&#39;s MDC (Mapped Diagnostic Context).</description>
+    <pubDate>Thu, 9 Mar 2023 14:32:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.strojure/ring-lib/versions/1.0.33</guid>
+    <title>[com.github.strojure/ring-lib &quot;1.0.33&quot;]</title>
+    <link>https://clojars.org/com.github.strojure/ring-lib/versions/1.0.33</link>
+    <description>Opinionated implementations for Clojure ring handler.</description>
+    <pubDate>Thu, 9 Mar 2023 14:21:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dk.cst/pedestal-sp/versions/0.1.2</guid>
+    <title>[dk.cst/pedestal-sp &quot;0.1.2&quot;]</title>
+    <link>https://clojars.org/dk.cst/pedestal-sp/versions/0.1.2</link>
+    <description></description>
+    <pubDate>Thu, 9 Mar 2023 14:12:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dk.cst/xml-hiccup/versions/0.1.2</guid>
+    <title>[dk.cst/xml-hiccup &quot;0.1.2&quot;]</title>
+    <link>https://clojars.org/dk.cst/xml-hiccup/versions/0.1.2</link>
+    <description></description>
+    <pubDate>Thu, 9 Mar 2023 14:07:03 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.github.strojure/ring-undertow/versions/1.0.96</guid>
     <title>[com.github.strojure/ring-undertow &quot;1.0.96&quot;]</title>
@@ -1754,48 +1796,6 @@
     <link>https://clojars.org/com.github.clojure-lsp/clojure-lsp/versions/2023.02.27-13.12.12</link>
     <description></description>
     <pubDate>Mon, 27 Feb 2023 15:40:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.clojure-lsp/clojure-lsp-server/versions/2023.02.27-13.12.12</guid>
-    <title>[com.github.clojure-lsp/clojure-lsp-server &quot;2023.02.27-13.12.12&quot;]</title>
-    <link>https://clojars.org/com.github.clojure-lsp/clojure-lsp-server/versions/2023.02.27-13.12.12</link>
-    <description></description>
-    <pubDate>Mon, 27 Feb 2023 15:40:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.taoensso/timbre/versions/6.1.0</guid>
-    <title>[com.taoensso/timbre &quot;6.1.0&quot;]</title>
-    <link>https://clojars.org/com.taoensso/timbre/versions/6.1.0</link>
-    <description>Pure Clojure/Script logging library</description>
-    <pubDate>Mon, 27 Feb 2023 15:27:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.strojure/undertow/versions/1.0.85-rc3</guid>
-    <title>[com.github.strojure/undertow &quot;1.0.85-rc3&quot;]</title>
-    <link>https://clojars.org/com.github.strojure/undertow/versions/1.0.85-rc3</link>
-    <description>Clojure API to Undertow web server.</description>
-    <pubDate>Mon, 27 Feb 2023 14:31:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ai.z7/java-properties/versions/1.2.1</guid>
-    <title>[ai.z7/java-properties &quot;1.2.1&quot;]</title>
-    <link>https://clojars.org/ai.z7/java-properties/versions/1.2.1</link>
-    <description>Java properties files micro parser for Clojure</description>
-    <pubDate>Mon, 27 Feb 2023 13:27:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.dkdhub/clj-mqtt-broker/versions/0.0.4</guid>
-    <title>[com.dkdhub/clj-mqtt-broker &quot;0.0.4&quot;]</title>
-    <link>https://clojars.org/com.dkdhub/clj-mqtt-broker/versions/0.0.4</link>
-    <description>A Clojure wrapper to the Moquette Broker library</description>
-    <pubDate>Mon, 27 Feb 2023 13:17:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.clojure-lsp/lein-clojure-lsp/versions/1.3.19</guid>
-    <title>[com.github.clojure-lsp/lein-clojure-lsp &quot;1.3.19&quot;]</title>
-    <link>https://clojars.org/com.github.clojure-lsp/lein-clojure-lsp/versions/1.3.19</link>
-    <description>Lein plugin to run clojure-lsp features via API.</description>
-    <pubDate>Mon, 27 Feb 2023 12:17:50 +0000</pubDate>
   </item>
   </channel>
 </rss>
