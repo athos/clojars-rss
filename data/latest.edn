@@ -120,7 +120,6 @@
 {:jar_name "useful", :group_name "com.timezynk", :version "1.19.2", :description "Useful functions", :created 1678740282410}
 {:jar_name "lein-vizdeps", :group_name "org.clj-commons", :version "1.0", :description "Visualize Leiningen project dependencies using Graphviz.", :created 1678740285630}
 {:jar_name "domain", :group_name "com.timezynk", :version "1.6.7.2", :description "Database modeling library for Clojure and MongoDB", :created 1678740494270}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1678742903377}
 {:jar_name "trapperkeeper", :group_name "puppetlabs", :version "3.3.0", :description "A framework for configuring, composing, and running Clojure services.", :created 1678752337376}
 {:jar_name "clj-data-adapter", :group_name "org.clojars.majorcluster", :version "0.8.1", :description "A Clojure data adapter library to convert your data between your layers", :created 1678757256701}
 {:jar_name "portal", :group_name "djblue", :version "0.37.0", :description "A clojure tool to navigate through your data.", :created 1678758757442}
@@ -213,7 +212,6 @@
 {:jar_name "toucan2", :group_name "io.github.camsaul", :version "1.0.521", :description nil, :created 1679013364882}
 {:jar_name "toucan2-toucan1", :group_name "io.github.camsaul", :version "1.0.521", :description nil, :created 1679013375327}
 {:jar_name "splint", :group_name "io.github.noahtheduke", :version "0.1.119", :description "Lint Clojure by shape.", :created 1679024555271}
-{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1679031523265}
 {:jar_name "ctim", :group_name "threatgrid", :version "1.3.5-SNAPSHOT", :description "Cisco Threat Intelligence Model", :created 1679045126948}
 {:jar_name "loco", :group_name "io.github.mortenschioler", :version "0.3.2", :description nil, :created 1679050685762}
 {:jar_name "clj-otel-api", :group_name "org.clojars.middleware-dev", :version "0.1.6-SNAPSHOT", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1679052655635}
@@ -254,3 +252,5 @@
 {:jar_name "quantus", :group_name "com.7theta", :version "1.0.0", :description "Library of handling quantities with units", :created 1679081699065}
 {:jar_name "verter", :group_name "tolitius", :version "0.1.17", :description "curator of the institute of time", :created 1679081866563}
 {:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.1006", :description "SQL as Clojure data structures.", :created 1679093809825}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1679094651843}
+{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1679095492721}
