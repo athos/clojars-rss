@@ -1,7 +1,3 @@
-{:jar_name "gluegen-rt-fat", :group_name "quil", :version "2.4.0", :description nil, :created 1678171522313}
-{:jar_name "jogl-fat", :group_name "quil", :version "2.4.0", :description nil, :created 1678171565503}
-{:jar_name "clerk", :group_name "io.github.nextjournal", :version "0.13.842", :description nil, :created 1678177745697}
-{:jar_name "sci", :group_name "org.babashka", :version "0.7.39", :description "Small Clojure Interpreter", :created 1678186646031}
 {:jar_name "clj-mustache", :group_name "org.clojars.majorcluster", :version "0.1.0", :description "{{ mustache }} for Clojure", :created 1678189066949}
 {:jar_name "nd-db", :group_name "com.luposlip", :version "0.9.0-alpha1", :description "Clojure library to use newline delimited files as fast read-only databases.", :created 1678191916861}
 {:jar_name "clj-mustache", :group_name "org.clojars.majorcluster", :version "0.1.1", :description "{{ mustache }} for Clojure", :created 1678193996275}
@@ -254,3 +250,7 @@
 {:jar_name "tufte", :group_name "com.taoensso", :version "2.5.0-alpha2", :description "Simple profiling and performance monitoring for Clojure/Script", :created 1679149383953}
 {:jar_name "babashka", :group_name "babashka", :version "1.3.176", :description "babashka", :created 1679150288041}
 {:jar_name "carmine", :group_name "com.taoensso", :version "3.3.0-alpha7", :description "Clojure Redis client & message queue", :created 1679150934091}
+{:jar_name "nginx-tomcat8", :group_name "nginx-clojure", :version "0.3.0", :description "Embed Tomcat into Nginx by Nignx-Clojure Module so that Nginx can  Support Java Standard Web Applications", :created 1679152883074}
+{:jar_name "nginx-clojure", :group_name "nginx-clojure", :version "0.6.0", :description "Nginx module for clojure or groovy or java programming", :created 1679153302328}
+{:jar_name "http-client", :group_name "org.babashka", :version "0.1.8", :description nil, :created 1679153811810}
+{:jar_name "nginx-clojure-embed", :group_name "nginx-clojure", :version "0.6.0", :description "Embeding Nginx-Clojure into a standard clojure/java/groovy app without additional Nginx process", :created 1679154376292}
