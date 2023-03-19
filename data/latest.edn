@@ -1,17 +1,3 @@
-{:jar_name "lambdaroyal-memory", :group_name "org.clojars.gixxi", :version "1.3Beta", :description "STM-based in-memory database storing persistent data structures", :created 1678400453053}
-{:jar_name "clj-graphviz", :group_name "com.phronemophobic", :version "0.1.0", :description nil, :created 1678402389592}
-{:jar_name "clj-graphviz", :group_name "com.phronemophobic", :version "0.3.0", :description nil, :created 1678406093029}
-{:jar_name "andrewslai", :group_name "org.clojars.alai57", :version "0.0.97", :description "The backend for ALai57's blogging app", :created 1678419112879}
-{:jar_name "cruler", :group_name "xcoo", :version "1.2.2-SNAPSHOT", :description nil, :created 1678420241048}
-{:jar_name "clogram", :group_name "dev.meinside", :version "0.17.0", :description "A Telegram Bot Library for Clojure", :created 1678424921334}
-{:jar_name "ring-swagger-ui", :group_name "metosin", :version "5.0.0-alpha.0", :description "Swagger UI for Ring apps", :created 1678451423976}
-{:jar_name "mxxhr", :group_name "com.tiltontec", :version "1.0.1-SNAPSHOT", :description "XMLHttpRequest for the Matrix (dataflow library)", :created 1678453665249}
-{:jar_name "ctim", :group_name "threatgrid", :version "1.3.4", :description "Cisco Threat Intelligence Model", :created 1678458998346}
-{:jar_name "tmdjs", :group_name "com.cnuernber", :version "2.000-beta-9", :description nil, :created 1678459041036}
-{:jar_name "ring-lib", :group_name "com.github.strojure", :version "1.1.0-39", :description "Opinionated implementations for Clojure ring handler.", :created 1678460901084}
-{:jar_name "cli", :group_name "org.babashka", :version "0.6.49", :description "Turn Clojure functions into CLIs!", :created 1678462023963}
-{:jar_name "foo", :group_name "org.clojars.mortenschioler", :version "0.0.1", :description nil, :created 1678463608602}
-{:jar_name "lein-gitlab-wagon", :group_name "io.github.ruffnext", :version "1.0.0", :description "Deploy and consume artifacts from a private GitLab repository, using username/password configuration for token-type/token headers.", :created 1678464065172}
 {:jar_name "lein-gitlab-wagon", :group_name "io.github.ruffnext", :version "1.0.0-SNAPSHOT", :description "Deploy and consume artifacts from a private GitLab repository, using username/password configuration for token-type/token headers.", :created 1678464495678}
 {:jar_name "useful", :group_name "com.timezynk", :version "1.19.1", :description "Useful functions", :created 1678474538022}
 {:jar_name "domain", :group_name "com.timezynk", :version "1.6.7.1", :description "Database modeling library for Clojure and MongoDB", :created 1678476281411}
@@ -254,3 +240,17 @@
 {:jar_name "nd-db", :group_name "com.luposlip", :version "0.9.0-alpha6", :description "Clojure library to use newline delimited files as fast read-only databases.", :created 1679186537313}
 {:jar_name "utilza", :group_name "utilza", :version "0.1.133", :description "ken's random utilities", :created 1679190882521}
 {:jar_name "datomic-helper", :group_name "org.clojars.majorcluster", :version "2.1.0", :description "A Clojure Library with tools to help using datomic", :created 1679191721789}
+{:jar_name "clj-otel-api", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1679205522220}
+{:jar_name "clj-otel-sdk", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :created 1679205530080}
+{:jar_name "clj-otel-contrib-aws-resources", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1679205537960}
+{:jar_name "clj-otel-contrib-aws-xray-propagator", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :created 1679205545939}
+{:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1679205553689}
+{:jar_name "clj-otel-extension-trace-propagators", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1679205561469}
+{:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter", :created 1679205569579}
+{:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter", :created 1679205577479}
+{:jar_name "clj-otel-exporter-logging", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :created 1679205585409}
+{:jar_name "clj-otel-exporter-logging-otlp", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1679205593169}
+{:jar_name "clj-otel-exporter-otlp", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :created 1679205600889}
+{:jar_name "clj-otel-exporter-zipkin", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1679205612009}
+{:jar_name "clj-otel-instrumentation-resources", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1679205620288}
+{:jar_name "clj-otel-instrumentation-runtime-metrics", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides Clojure wrappers of OpenTelemetry metrics instrumentation of the JVM runtime", :created 1679205629458}
