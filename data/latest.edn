@@ -1,17 +1,3 @@
-{:jar_name "web-mx", :group_name "com.tiltontec", :version "1.0.0-SNAPSHOT", :description "A Web un-Framework powered by Matrix(tm)", :created 1678489930026}
-{:jar_name "konserve", :group_name "io.replikativ", :version "0.7.305", :description "Durable cross-platform key-value store protocol with core.async.", :created 1678492011184}
-{:jar_name "datalevin", :group_name "datalevin", :version "0.8.6", :description "A simple, fast and versatile Datalog database", :created 1678512506153}
-{:jar_name "datalevin-native", :group_name "org.clojars.huahaiy", :version "0.8.6", :description "Datalevin GraalVM native image and command line tool", :created 1678512548203}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.22.1", :description "CLJS development tools", :created 1678530974265}
-{:jar_name "openai-clojure", :group_name "net.clojars.wkok", :version "0.4.0", :description "Clojure functions to drive the OpenAI API", :created 1678540842655}
-{:jar_name "newrelic-clj", :group_name "io.github.rutledgepaulv", :version "1.0.2", :description nil, :created 1678549543336}
-{:jar_name "stdlib", :group_name "com.fooheads", :version "0.1.15", :description nil, :created 1678550631826}
-{:jar_name "pip-license-checker", :group_name "org.pilosus", :version "0.45.0", :description "License compliance tool to identify dependencies license names and types: permissive, copyleft, proprietory, etc.", :created 1678553384702}
-{:jar_name "tmdjs", :group_name "com.cnuernber", :version "2.000-beta-10", :description nil, :created 1678553619132}
-{:jar_name "dev-tooling", :group_name "io.github.pfeodrippe", :version "1.0.54", :description nil, :created 1678574258792}
-{:jar_name "app-lib", :group_name "com.github.dgknght", :version "0.2.12", :description "Library of commonly used functions for web app development", :created 1678575012761}
-{:jar_name "dev-tooling", :group_name "io.github.pfeodrippe", :version "1.0.55", :description nil, :created 1678580347389}
-{:jar_name "jepsen", :group_name "jepsen", :version "0.3.2-SNAPSHOT", :description "Distributed systems testing framework.", :created 1678580367527}
 {:jar_name "dev-tooling", :group_name "io.github.pfeodrippe", :version "1.0.56", :description nil, :created 1678590517665}
 {:jar_name "utilza", :group_name "utilza", :version "0.1.131", :description "ken's random utilities", :created 1678605400470}
 {:jar_name "clj-graphviz", :group_name "com.phronemophobic", :version "0.4.0", :description nil, :created 1678608686209}
@@ -187,7 +173,6 @@
 {:jar_name "utilza", :group_name "utilza", :version "0.1.132", :description "ken's random utilities", :created 1679099053531}
 {:jar_name "spring-boost", :group_name "org.msync", :version "0.2.0-SNAPSHOT", :description "Just add dependency, sprinkle some config, and run Clojure in your Springboot application.", :created 1679122664405}
 {:jar_name "spring-boost-classic", :group_name "org.msync", :version "0.1.1", :description "spring-boost, but for the classic mvc spring-boot", :created 1679122776523}
-{:jar_name "web-mx", :group_name "com.tiltontec", :version "2.0.0-SNAPSHOT", :description "A Web un-Framework powered by Matrix(tm)", :created 1679129403809}
 {:jar_name "edamame", :group_name "borkdude", :version "1.3.20", :description "EDN parser with location metadata and pluggable dispatch table.", :created 1679133911065}
 {:jar_name "babashka", :group_name "babashka", :version "1.2.175-SNAPSHOT", :description "babashka", :created 1679135068718}
 {:jar_name "clj-otel-api", :group_name "org.clojars.middleware-dev", :version "0.1.10-SNAPSHOT", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1679137202218}
@@ -254,3 +239,18 @@
 {:jar_name "matrix", :group_name "com.tiltontec", :version "5.0.0-SNAPSHOT", :description "Matrix dataflow library for CLJ/CLJS", :created 1679229751151}
 {:jar_name "datomic-helper", :group_name "org.clojars.majorcluster", :version "2.1.1", :description "A Clojure Library with tools to help using datomic", :created 1679233389828}
 {:jar_name "malli", :group_name "metosin", :version "0.10.4", :description nil, :created 1679233914451}
+{:jar_name "clj-otel-api", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1679242440278}
+{:jar_name "clj-otel-sdk", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :created 1679242449924}
+{:jar_name "clj-otel-contrib-aws-resources", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1679242458128}
+{:jar_name "clj-otel-contrib-aws-xray-propagator", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :created 1679242466158}
+{:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1679242474442}
+{:jar_name "clj-otel-extension-trace-propagators", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1679242482827}
+{:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter", :created 1679242491723}
+{:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter", :created 1679242500738}
+{:jar_name "clj-otel-exporter-logging", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :created 1679242509579}
+{:jar_name "clj-otel-exporter-logging-otlp", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1679242517775}
+{:jar_name "clj-otel-exporter-otlp", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :created 1679242525865}
+{:jar_name "clj-otel-exporter-zipkin", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1679242534183}
+{:jar_name "clj-otel-instrumentation-resources", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1679242543194}
+{:jar_name "clj-otel-instrumentation-runtime-metrics", :group_name "org.clojars.middleware-dev", :version "0.1.11-SNAPSHOT", :description "Provides Clojure wrappers of OpenTelemetry metrics instrumentation of the JVM runtime", :created 1679242551545}
+{:jar_name "web-mx", :group_name "com.tiltontec", :version "2.0.0-SNAPSHOT", :description "A Web un-Framework powered by Matrix(tm)", :created 1679244957853}

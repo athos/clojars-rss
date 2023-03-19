@@ -4,7 +4,112 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 19 Mar 2023 16:01:19 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 19 Mar 2023 17:01:13 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.tiltontec/web-mx/versions/2.0.0-SNAPSHOT</guid>
+    <title>[com.tiltontec/web-mx &quot;2.0.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.tiltontec/web-mx/versions/2.0.0-SNAPSHOT</link>
+    <description>A Web un-Framework powered by Matrix(tm)</description>
+    <pubDate>Sun, 19 Mar 2023 16:55:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-instrumentation-runtime-metrics/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-instrumentation-runtime-metrics &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-instrumentation-runtime-metrics/versions/0.1.11-SNAPSHOT</link>
+    <description>Provides Clojure wrappers of OpenTelemetry metrics instrumentation of the JVM runtime</description>
+    <pubDate>Sun, 19 Mar 2023 16:15:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-instrumentation-resources/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-instrumentation-resources &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-instrumentation-resources/versions/0.1.11-SNAPSHOT</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process</description>
+    <pubDate>Sun, 19 Mar 2023 16:15:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-exporter-zipkin/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-exporter-zipkin &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-exporter-zipkin/versions/0.1.11-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter</description>
+    <pubDate>Sun, 19 Mar 2023 16:15:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-exporter-otlp/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-exporter-otlp &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-exporter-otlp/versions/0.1.11-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters</description>
+    <pubDate>Sun, 19 Mar 2023 16:15:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-exporter-logging-otlp/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-exporter-logging-otlp &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-exporter-logging-otlp/versions/0.1.11-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only</description>
+    <pubDate>Sun, 19 Mar 2023 16:15:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-exporter-logging/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-exporter-logging &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-exporter-logging/versions/0.1.11-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only</description>
+    <pubDate>Sun, 19 Mar 2023 16:15:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-exporter-jaeger-thrift/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-exporter-jaeger-thrift &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-exporter-jaeger-thrift/versions/0.1.11-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter</description>
+    <pubDate>Sun, 19 Mar 2023 16:15:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-exporter-jaeger-grpc/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-exporter-jaeger-grpc &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-exporter-jaeger-grpc/versions/0.1.11-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter</description>
+    <pubDate>Sun, 19 Mar 2023 16:14:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-extension-trace-propagators/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-extension-trace-propagators &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-extension-trace-propagators/versions/0.1.11-SNAPSHOT</link>
+    <description>Provides access using Clojure to additional OpenTelemetry trace propagators</description>
+    <pubDate>Sun, 19 Mar 2023 16:14:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-sdk-extension-jaeger-remote-sampler &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.1.11-SNAPSHOT</link>
+    <description>Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type</description>
+    <pubDate>Sun, 19 Mar 2023 16:14:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-contrib-aws-xray-propagator/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-contrib-aws-xray-propagator &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-contrib-aws-xray-propagator/versions/0.1.11-SNAPSHOT</link>
+    <description>Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol</description>
+    <pubDate>Sun, 19 Mar 2023 16:14:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-contrib-aws-resources/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-contrib-aws-resources &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-contrib-aws-resources/versions/0.1.11-SNAPSHOT</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform</description>
+    <pubDate>Sun, 19 Mar 2023 16:14:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-sdk/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-sdk &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-sdk/versions/0.1.11-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK</description>
+    <pubDate>Sun, 19 Mar 2023 16:14:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-api/versions/0.1.11-SNAPSHOT</guid>
+    <title>[org.clojars.middleware-dev/clj-otel-api &quot;0.1.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-api/versions/0.1.11-SNAPSHOT</link>
+    <description>An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry</description>
+    <pubDate>Sun, 19 Mar 2023 16:14:00 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/metosin/malli/versions/0.10.4</guid>
     <title>[metosin/malli &quot;0.10.4&quot;]</title>
@@ -466,13 +571,6 @@
     <link>https://clojars.org/borkdude/edamame/versions/1.3.20</link>
     <description>EDN parser with location metadata and pluggable dispatch table.</description>
     <pubDate>Sat, 18 Mar 2023 10:05:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.tiltontec/web-mx/versions/2.0.0-SNAPSHOT</guid>
-    <title>[com.tiltontec/web-mx &quot;2.0.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.tiltontec/web-mx/versions/2.0.0-SNAPSHOT</link>
-    <description>A Web un-Framework powered by Matrix(tm)</description>
-    <pubDate>Sat, 18 Mar 2023 08:50:03 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/org.msync/spring-boost-classic/versions/0.1.1</guid>
@@ -1698,104 +1796,6 @@
     <link>https://clojars.org/io.github.pfeodrippe/dev-tooling/versions/1.0.56</link>
     <description></description>
     <pubDate>Sun, 12 Mar 2023 03:08:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/jepsen/versions/0.3.2-SNAPSHOT</guid>
-    <title>[jepsen &quot;0.3.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/jepsen/versions/0.3.2-SNAPSHOT</link>
-    <description>Distributed systems testing framework.</description>
-    <pubDate>Sun, 12 Mar 2023 00:19:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.pfeodrippe/dev-tooling/versions/1.0.55</guid>
-    <title>[io.github.pfeodrippe/dev-tooling &quot;1.0.55&quot;]</title>
-    <link>https://clojars.org/io.github.pfeodrippe/dev-tooling/versions/1.0.55</link>
-    <description></description>
-    <pubDate>Sun, 12 Mar 2023 00:19:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.dgknght/app-lib/versions/0.2.12</guid>
-    <title>[com.github.dgknght/app-lib &quot;0.2.12&quot;]</title>
-    <link>https://clojars.org/com.github.dgknght/app-lib/versions/0.2.12</link>
-    <description>Library of commonly used functions for web app development</description>
-    <pubDate>Sat, 11 Mar 2023 22:50:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.pfeodrippe/dev-tooling/versions/1.0.54</guid>
-    <title>[io.github.pfeodrippe/dev-tooling &quot;1.0.54&quot;]</title>
-    <link>https://clojars.org/io.github.pfeodrippe/dev-tooling/versions/1.0.54</link>
-    <description></description>
-    <pubDate>Sat, 11 Mar 2023 22:37:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.cnuernber/tmdjs/versions/2.000-beta-10</guid>
-    <title>[com.cnuernber/tmdjs &quot;2.000-beta-10&quot;]</title>
-    <link>https://clojars.org/com.cnuernber/tmdjs/versions/2.000-beta-10</link>
-    <description></description>
-    <pubDate>Sat, 11 Mar 2023 16:53:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pilosus/pip-license-checker/versions/0.45.0</guid>
-    <title>[org.pilosus/pip-license-checker &quot;0.45.0&quot;]</title>
-    <link>https://clojars.org/org.pilosus/pip-license-checker/versions/0.45.0</link>
-    <description>License compliance tool to identify dependencies license names and types: permissive, copyleft, proprietory, etc.</description>
-    <pubDate>Sat, 11 Mar 2023 16:49:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.fooheads/stdlib/versions/0.1.15</guid>
-    <title>[com.fooheads/stdlib &quot;0.1.15&quot;]</title>
-    <link>https://clojars.org/com.fooheads/stdlib/versions/0.1.15</link>
-    <description></description>
-    <pubDate>Sat, 11 Mar 2023 16:03:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.rutledgepaulv/newrelic-clj/versions/1.0.2</guid>
-    <title>[io.github.rutledgepaulv/newrelic-clj &quot;1.0.2&quot;]</title>
-    <link>https://clojars.org/io.github.rutledgepaulv/newrelic-clj/versions/1.0.2</link>
-    <description></description>
-    <pubDate>Sat, 11 Mar 2023 15:45:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.wkok/openai-clojure/versions/0.4.0</guid>
-    <title>[net.clojars.wkok/openai-clojure &quot;0.4.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.wkok/openai-clojure/versions/0.4.0</link>
-    <description>Clojure functions to drive the OpenAI API</description>
-    <pubDate>Sat, 11 Mar 2023 13:20:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/thheller/shadow-cljs/versions/2.22.1</guid>
-    <title>[thheller/shadow-cljs &quot;2.22.1&quot;]</title>
-    <link>https://clojars.org/thheller/shadow-cljs/versions/2.22.1</link>
-    <description>CLJS development tools</description>
-    <pubDate>Sat, 11 Mar 2023 10:36:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/datalevin-native/versions/0.8.6</guid>
-    <title>[org.clojars.huahaiy/datalevin-native &quot;0.8.6&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/datalevin-native/versions/0.8.6</link>
-    <description>Datalevin GraalVM native image and command line tool</description>
-    <pubDate>Sat, 11 Mar 2023 05:29:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/datalevin/versions/0.8.6</guid>
-    <title>[datalevin &quot;0.8.6&quot;]</title>
-    <link>https://clojars.org/datalevin/versions/0.8.6</link>
-    <description>A simple, fast and versatile Datalog database</description>
-    <pubDate>Sat, 11 Mar 2023 05:28:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.replikativ/konserve/versions/0.7.305</guid>
-    <title>[io.replikativ/konserve &quot;0.7.305&quot;]</title>
-    <link>https://clojars.org/io.replikativ/konserve/versions/0.7.305</link>
-    <description>Durable cross-platform key-value store protocol with core.async.</description>
-    <pubDate>Fri, 10 Mar 2023 23:46:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.tiltontec/web-mx/versions/1.0.0-SNAPSHOT</guid>
-    <title>[com.tiltontec/web-mx &quot;1.0.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.tiltontec/web-mx/versions/1.0.0-SNAPSHOT</link>
-    <description>A Web un-Framework powered by Matrix(tm)</description>
-    <pubDate>Fri, 10 Mar 2023 23:12:10 +0000</pubDate>
   </item>
   </channel>
 </rss>
