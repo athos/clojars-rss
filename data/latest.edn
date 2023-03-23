@@ -1,18 +1,3 @@
-{:jar_name "fluxus", :group_name "com.7theta", :version "0.5.0", :description "Clojure(script) library for streams and concurrency", :created 1678885819736}
-{:jar_name "servo", :group_name "com.7theta", :version "5.0.0", :description "A rehinkdb client library designed to integrate with signum", :created 1678885898045}
-{:jar_name "ring-lib", :group_name "com.github.strojure", :version "1.2.0-48-alpha2", :description "Opinionated implementations for Clojure ring handler.", :created 1678890680727}
-{:jar_name "useful", :group_name "com.timezynk", :version "1.19.3", :description "Useful functions", :created 1678891075681}
-{:jar_name "clojurescript.csv", :group_name "testdouble", :version "0.8.0", :description "A ClojureScript library for reading and writing comma (and other) separated values.", :created 1678891106040}
-{:jar_name "domain", :group_name "com.timezynk", :version "1.6.7.3", :description "Database modeling library for Clojure and MongoDB", :created 1678891219209}
-{:jar_name "fluxus", :group_name "com.7theta", :version "0.6.0", :description "Clojure(script) library for streams and concurrency", :created 1678892883025}
-{:jar_name "schema-tools", :group_name "metosin", :version "0.13.0", :description "Common utilities for Prismatic Schema", :created 1678894164477}
-{:jar_name "portal", :group_name "djblue", :version "0.37.1", :description "A clojure tool to navigate through your data.", :created 1678895240882}
-{:jar_name "datahike-s3", :group_name "io.replikativ", :version "0.1.5", :description "Datahike S3 Backend", :created 1678895633776}
-{:jar_name "datahike-redis", :group_name "io.replikativ", :version "0.1.1", :description "Datahike Redis Backend", :created 1678896033130}
-{:jar_name "charred", :group_name "com.cnuernber", :version "1.026", :description nil, :created 1678896405879}
-{:jar_name "datahike-s3", :group_name "io.replikativ", :version "0.1.6", :description "Datahike S3 Backend", :created 1678896765842}
-{:jar_name "datahike-redis", :group_name "io.replikativ", :version "0.1.3", :description "Datahike Redis Backend", :created 1678896804430}
-{:jar_name "konserve-redis", :group_name "io.replikativ", :version "0.1.4", :description "Konserve Redis Backend", :created 1678896856817}
 {:jar_name "konserve-s3", :group_name "io.replikativ", :version "0.1.8", :description "Konserve S3 Backend", :created 1678896892352}
 {:jar_name "web-security", :group_name "com.github.strojure", :version "1.0.0-28", :description "Decoupled web security implementations for Clojure.", :created 1678897073172}
 {:jar_name "ring-lib", :group_name "com.github.strojure", :version "1.2.0-52", :description "Opinionated implementations for Clojure ring handler.", :created 1678897694085}
@@ -254,3 +239,18 @@
 {:jar_name "tonos-client", :group_name "tonos-client", :version "1.42.0", :description "Clojure bindings to TON OS SDK's Core Client Library", :created 1679527791874}
 {:jar_name "matrix", :group_name "com.tiltontec", :version "5.0.0-SNAPSHOT", :description "Matrix dataflow library for CLJ/CLJS", :created 1679528705751}
 {:jar_name "web-mx", :group_name "com.tiltontec", :version "2.0.0-SNAPSHOT", :description "A Web un-Framework powered by Matrix(tm)", :created 1679528759960}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1679543951824}
+{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Malli integration", :created 1679543958724}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1679543965104}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure", :created 1679543996903}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1679544006983}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1679544015233}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1679544023893}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1679544032443}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type-like specs.", :created 1679544040673}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1679544047622}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "FIXME", :created 1679544054012}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1679544060702}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1679544067972}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1679544074492}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1679544081012}
