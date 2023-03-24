@@ -1,4 +1,3 @@
-{:jar_name "clj-otel-exporter-logging-otlp", :group_name "org.clojars.middleware-dev", :version "0.1.6-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1679052735744}
 {:jar_name "clj-otel-exporter-otlp", :group_name "org.clojars.middleware-dev", :version "0.1.6-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :created 1679052744584}
 {:jar_name "clj-otel-exporter-zipkin", :group_name "org.clojars.middleware-dev", :version "0.1.6-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1679052753234}
 {:jar_name "clj-otel-instrumentation-resources", :group_name "org.clojars.middleware-dev", :version "0.1.6-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1679052761934}
@@ -223,7 +222,6 @@
 {:jar_name "useful", :group_name "com.timezynk", :version "1.20.14", :description "Useful functions", :created 1679573137443}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.55.0", :description "Core utils library for Clojure/Script", :created 1679574539211}
 {:jar_name "carmine-streams", :group_name "carmine-streams", :version "0.2.0", :description "Carmine helpers for redis streams", :created 1679586087143}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha15-SNAPSHOT", :description "FIXME: my new library.", :created 1679590728767}
 {:jar_name "hermes", :group_name "com.eldrix", :version "1.1.1000", :description nil, :created 1679595423300}
 {:jar_name "mina", :group_name "com.s-exp", :version "0.1.16", :description nil, :created 1679595436900}
 {:jar_name "mxxhr", :group_name "com.tiltontec", :version "2.0.0-SNAPSHOT", :description "XMLHttpRequest for the Matrix (dataflow library)", :created 1679596269010}
@@ -254,3 +252,5 @@
 {:jar_name "dialog", :group_name "com.amperity", :version "2.0.115", :description "Simple just-enough logging library for Clojure", :created 1679679227270}
 {:jar_name "toucan2", :group_name "io.github.camsaul", :version "1.0.522", :description nil, :created 1679679740432}
 {:jar_name "toucan2-toucan1", :group_name "io.github.camsaul", :version "1.0.522", :description nil, :created 1679679753542}
+{:jar_name "datascript", :group_name "datascript", :version "1.4.2", :description "An implementation of Datomic in-memory database and Datalog query engine in ClojureScript", :created 1679694645155}
+{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha15-SNAPSHOT", :description "FIXME: my new library.", :created 1679694828493}
