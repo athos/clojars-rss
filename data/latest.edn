@@ -1,4 +1,3 @@
-{:jar_name "clj-otel-contrib-aws-resources", :group_name "org.clojars.middleware-dev", :version "0.1.10-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1679137219737}
 {:jar_name "clj-otel-contrib-aws-xray-propagator", :group_name "org.clojars.middleware-dev", :version "0.1.10-SNAPSHOT", :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :created 1679137227977}
 {:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "org.clojars.middleware-dev", :version "0.1.10-SNAPSHOT", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1679137236497}
 {:jar_name "clj-otel-extension-trace-propagators", :group_name "org.clojars.middleware-dev", :version "0.1.10-SNAPSHOT", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1679137243607}
@@ -215,7 +214,6 @@
 {:jar_name "toucan2", :group_name "io.github.camsaul", :version "1.0.522", :description nil, :created 1679679740432}
 {:jar_name "toucan2-toucan1", :group_name "io.github.camsaul", :version "1.0.522", :description nil, :created 1679679753542}
 {:jar_name "datascript", :group_name "datascript", :version "1.4.2", :description "An implementation of Datomic in-memory database and Datalog query engine in ClojureScript", :created 1679694645155}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha15-SNAPSHOT", :description "FIXME: my new library.", :created 1679694828493}
 {:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1679701157175}
 {:jar_name "lein-template.diplomat-http-w-datomic-service", :group_name "org.clojars.majorcluster", :version "0.2.2", :description "Diplomat architecture-pedestal styled template with datomic db for leiningen generation", :created 1679716773898}
 {:jar_name "konserve-jdbc", :group_name "alekcz", :version "0.2.0-SNAPSHOT", :description "A generic JDBC backend for konserve.", :created 1679734594331}
@@ -254,3 +252,5 @@
 {:jar_name "uri", :group_name "lambdaisland", :version "1.14.120", :description "A pure Clojure/ClojureScript URI library.", :created 1679946342781}
 {:jar_name "glogi", :group_name "com.lambdaisland", :version "1.3.169", :description "A thin wrapper around `goog.log` inspired by `pedestal.log`.", :created 1679949321009}
 {:jar_name "glogi", :group_name "lambdaisland", :version "1.3.169", :description nil, :created 1679949331434}
+{:jar_name "fetch", :group_name "lambdaisland", :version "1.3.74", :description "ClojureScript wrapper around the JavaScript fetch API.", :created 1679950930817}
+{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha15-SNAPSHOT", :description "FIXME: my new library.", :created 1679953628204}
