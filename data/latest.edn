@@ -1,5 +1,3 @@
-{:jar_name "clj-otel-contrib-aws-xray-propagator", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :created 1679205545939}
-{:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1679205553689}
 {:jar_name "clj-otel-extension-trace-propagators", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1679205561469}
 {:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter", :created 1679205569579}
 {:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "org.clojars.middleware-dev", :version "0.1.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter", :created 1679205577479}
@@ -254,3 +252,5 @@
 {:jar_name "gorilla-repl", :group_name "org.clojars.jenshweber", :version "0.7.0-SNAPSHOT", :description "A rich REPL for Clojure in the notebook style.", :created 1680069826243}
 {:jar_name "deps-deploy", :group_name "slipset", :version "0.2.1", :description nil, :created 1680072283400}
 {:jar_name "matrix", :group_name "com.tiltontec", :version "5.0.0-SNAPSHOT", :description "Matrix dataflow library for CLJ/CLJS", :created 1680075013137}
+{:jar_name "matrix", :group_name "com.tiltontec", :version "5.0.0", :description "Matrix dataflow library for CLJ/CLJS", :created 1680080926000}
+{:jar_name "web-mx", :group_name "com.tiltontec", :version "2.0.0", :description "A Web un-Framework powered by Matrix(tm)", :created 1680082568698}

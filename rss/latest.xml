@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 29 Mar 2023 09:01:32 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Mar 2023 10:01:23 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.tiltontec/web-mx/versions/2.0.0</guid>
+    <title>[com.tiltontec/web-mx &quot;2.0.0&quot;]</title>
+    <link>https://clojars.org/com.tiltontec/web-mx/versions/2.0.0</link>
+    <description>A Web un-Framework powered by Matrix(tm)</description>
+    <pubDate>Wed, 29 Mar 2023 09:36:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.tiltontec/matrix/versions/5.0.0</guid>
+    <title>[com.tiltontec/matrix &quot;5.0.0&quot;]</title>
+    <link>https://clojars.org/com.tiltontec/matrix/versions/5.0.0</link>
+    <description>Matrix dataflow library for CLJ/CLJS</description>
+    <pubDate>Wed, 29 Mar 2023 09:08:46 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.tiltontec/matrix/versions/5.0.0-SNAPSHOT</guid>
     <title>[com.tiltontec/matrix &quot;5.0.0-SNAPSHOT&quot;]</title>
@@ -1784,20 +1798,6 @@ application development.</description>
     <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-extension-trace-propagators/versions/0.1.5-SNAPSHOT</link>
     <description>Provides access using Clojure to additional OpenTelemetry trace propagators</description>
     <pubDate>Sun, 19 Mar 2023 05:59:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.1.5-SNAPSHOT</guid>
-    <title>[org.clojars.middleware-dev/clj-otel-sdk-extension-jaeger-remote-sampler &quot;0.1.5-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.1.5-SNAPSHOT</link>
-    <description>Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type</description>
-    <pubDate>Sun, 19 Mar 2023 05:59:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.middleware-dev/clj-otel-contrib-aws-xray-propagator/versions/0.1.5-SNAPSHOT</guid>
-    <title>[org.clojars.middleware-dev/clj-otel-contrib-aws-xray-propagator &quot;0.1.5-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.middleware-dev/clj-otel-contrib-aws-xray-propagator/versions/0.1.5-SNAPSHOT</link>
-    <description>Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol</description>
-    <pubDate>Sun, 19 Mar 2023 05:59:05 +0000</pubDate>
   </item>
   </channel>
 </rss>
