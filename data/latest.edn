@@ -1,10 +1,3 @@
-{:jar_name "temporal-sdk", :group_name "io.github.manetu", :version "0.12.2", :description "A Temporal SDK for Clojure", :created 1679520419314}
-{:jar_name "tonos-client", :group_name "tonos-client", :version "1.42.0", :description "Clojure bindings to TON OS SDK's Core Client Library", :created 1679527791874}
-{:jar_name "web-mx", :group_name "com.tiltontec", :version "2.0.0-SNAPSHOT", :description "A Web un-Framework powered by Matrix(tm)", :created 1679528759960}
-{:jar_name "parent", :group_name "io.jesi", :version "4.23.1", :description "Clojure and NPM parent package definitions", :created 1679546736496}
-{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure", :created 1679547804852}
-{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1679547811642}
-{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1679547818002}
 {:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1679547824422}
 {:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1679547830802}
 {:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type-like specs.", :created 1679547837091}
@@ -141,7 +134,6 @@
 {:jar_name "wally", :group_name "io.github.pfeodrippe", :version "0.0.2", :description nil, :created 1680098061150}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.56.0", :description "Core utils library for Clojure/Script", :created 1680100427738}
 {:jar_name "matrix", :group_name "com.tiltontec", :version "5.0.1-SNAPSHOT", :description "Matrix dataflow library for CLJ/CLJS", :created 1680102046256}
-{:jar_name "web-mx", :group_name "com.tiltontec", :version "2.0.1-SNAPSHOT", :description "A Web Un-Framework, powered by Matrix(tm)", :created 1680102414596}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.57.0", :description "Core utils library for Clojure/Script", :created 1680102831663}
 {:jar_name "charred", :group_name "com.cnuernber", :version "1.027", :description nil, :created 1680103085717}
 {:jar_name "tech.io", :group_name "techascent", :version "4.30", :description "IO abstractions to enable rapid research, prototyping, and cross cloud\napplication development.", :created 1680103209464}
@@ -254,3 +246,11 @@
 {:jar_name "argoj", :group_name "io.trosa", :version "3.4.5-0.3.3-SNAPSHOT", :description "Data-Oriented, pure Clojure API wrapper for Argo Workflow", :created 1680532973783}
 {:jar_name "portfolio", :group_name "no.cjohansen", :version "2023.04.03", :description "Visual REPL for UI component development", :created 1680533325383}
 {:jar_name "jepsen", :group_name "jepsen", :version "0.3.2-SNAPSHOT", :description "Distributed systems testing framework.", :created 1680533752333}
+{:jar_name "ring-core", :group_name "ring", :version "1.10.0", :description "Ring core libraries.", :created 1680534754442}
+{:jar_name "ring-devel", :group_name "ring", :version "1.10.0", :description "Ring development and debugging libraries.", :created 1680534838672}
+{:jar_name "ring-servlet", :group_name "ring", :version "1.10.0", :description "Ring servlet utilities.", :created 1680534897652}
+{:jar_name "portfolio", :group_name "no.cjohansen", :version "2023.04.03.1", :description "Visual REPL for UI component development", :created 1680534904822}
+{:jar_name "ring-jetty-adapter", :group_name "ring", :version "1.10.0", :description "Ring Jetty adapter.", :created 1680534974452}
+{:jar_name "ring", :group_name "ring", :version "1.10.0", :description "A Clojure web applications library.", :created 1680535021772}
+{:jar_name "argoj", :group_name "io.trosa", :version "3.4.5-0.3.4", :description "Data-Oriented, pure Clojure API wrapper for Argo Workflow", :created 1680535334982}
+{:jar_name "web-mx", :group_name "com.tiltontec", :version "2.0.1-SNAPSHOT", :description "A Web Un-Framework, powered by Matrix(tm)", :created 1680536446641}
