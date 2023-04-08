@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 8 Apr 2023 20:01:10 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 8 Apr 2023 21:01:16 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/duratom/versions/0.5.6</guid>
+    <title>[duratom &quot;0.5.6&quot;]</title>
+    <link>https://clojars.org/duratom/versions/0.5.6</link>
+    <description>A durable atom/agent type for Clojure.</description>
+    <pubDate>Sat, 8 Apr 2023 20:55:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/grpc-server/versions/2.6.1</guid>
+    <title>[io.github.protojure/grpc-server &quot;2.6.1&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/grpc-server/versions/2.6.1</link>
+    <description>GRPC server library for protoc-gen-clojure</description>
+    <pubDate>Sat, 8 Apr 2023 20:55:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/grpc-client/versions/2.6.1</guid>
+    <title>[io.github.protojure/grpc-client &quot;2.6.1&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/grpc-client/versions/2.6.1</link>
+    <description>GRPC client library for protoc-gen-clojure</description>
+    <pubDate>Sat, 8 Apr 2023 20:54:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/core/versions/2.6.1</guid>
+    <title>[io.github.protojure/core &quot;2.6.1&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/core/versions/2.6.1</link>
+    <description>Core protobuf and GRPC utilities for protojure</description>
+    <pubDate>Sat, 8 Apr 2023 20:54:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/io/versions/2.6.1</guid>
+    <title>[io.github.protojure/io &quot;2.6.1&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/io/versions/2.6.1</link>
+    <description>IO library to support io.github.protojure/core</description>
+    <pubDate>Sat, 8 Apr 2023 20:54:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/clj-kondo/versions/2023.03.18-SNAPSHOT</guid>
+    <title>[clj-kondo &quot;2023.03.18-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/clj-kondo/versions/2023.03.18-SNAPSHOT</link>
+    <description>A linter for Clojure that sparks joy.</description>
+    <pubDate>Sat, 8 Apr 2023 20:40:11 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.hyperfiddle/electric/versions/v2-alpha-263-g89da9d11</guid>
     <title>[com.hyperfiddle/electric &quot;v2-alpha-263-g89da9d11&quot;]</title>
@@ -158,13 +200,6 @@
     <link>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.1.6-SNAPSHOT</link>
     <description>An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry</description>
     <pubDate>Sat, 8 Apr 2023 11:47:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/clj-kondo/versions/2023.03.18-SNAPSHOT</guid>
-    <title>[clj-kondo &quot;2023.03.18-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/clj-kondo/versions/2023.03.18-SNAPSHOT</link>
-    <description>A linter for Clojure that sparks joy.</description>
-    <pubDate>Sat, 8 Apr 2023 11:00:42 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.github.ajchemist/clj-http/versions/2023.98.28971</guid>
@@ -1764,42 +1799,6 @@ Special thanks to Stuart Halloway for the original idea, implementation and perm
     <link>https://clojars.org/cnuernber/dtype-next/versions/10.000-beta-40</link>
     <description>A Clojure library designed to aid in the implementation of high performance algorithms and systems.</description>
     <pubDate>Wed, 29 Mar 2023 15:23:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/techascent/tech.io/versions/4.30</guid>
-    <title>[techascent/tech.io &quot;4.30&quot;]</title>
-    <link>https://clojars.org/techascent/tech.io/versions/4.30</link>
-    <description>IO abstractions to enable rapid research, prototyping, and cross cloud
-application development.</description>
-    <pubDate>Wed, 29 Mar 2023 15:20:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.cnuernber/charred/versions/1.027</guid>
-    <title>[com.cnuernber/charred &quot;1.027&quot;]</title>
-    <link>https://clojars.org/com.cnuernber/charred/versions/1.027</link>
-    <description></description>
-    <pubDate>Wed, 29 Mar 2023 15:18:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.taoensso/encore/versions/3.57.0</guid>
-    <title>[com.taoensso/encore &quot;3.57.0&quot;]</title>
-    <link>https://clojars.org/com.taoensso/encore/versions/3.57.0</link>
-    <description>Core utils library for Clojure/Script</description>
-    <pubDate>Wed, 29 Mar 2023 15:13:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.tiltontec/matrix/versions/5.0.1-SNAPSHOT</guid>
-    <title>[com.tiltontec/matrix &quot;5.0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.tiltontec/matrix/versions/5.0.1-SNAPSHOT</link>
-    <description>Matrix dataflow library for CLJ/CLJS</description>
-    <pubDate>Wed, 29 Mar 2023 15:00:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.taoensso/encore/versions/3.56.0</guid>
-    <title>[com.taoensso/encore &quot;3.56.0&quot;]</title>
-    <link>https://clojars.org/com.taoensso/encore/versions/3.56.0</link>
-    <description>Core utils library for Clojure/Script</description>
-    <pubDate>Wed, 29 Mar 2023 14:33:47 +0000</pubDate>
   </item>
   </channel>
 </rss>
