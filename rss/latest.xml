@@ -4,7 +4,105 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 8 Apr 2023 11:01:22 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 8 Apr 2023 12:01:32 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-runtime-metrics/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-instrumentation-runtime-metrics &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-runtime-metrics/versions/0.1.6-SNAPSHOT</link>
+    <description>Provides Clojure wrappers of OpenTelemetry metrics instrumentation of the JVM runtime</description>
+    <pubDate>Sat, 8 Apr 2023 11:49:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-resources/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-instrumentation-resources &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-resources/versions/0.1.6-SNAPSHOT</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process</description>
+    <pubDate>Sat, 8 Apr 2023 11:49:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-zipkin &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.1.6-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter</description>
+    <pubDate>Sat, 8 Apr 2023 11:48:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-otlp &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp/versions/0.1.6-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters</description>
+    <pubDate>Sat, 8 Apr 2023 11:48:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging-otlp &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.1.6-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only</description>
+    <pubDate>Sat, 8 Apr 2023 11:48:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.1.6-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only</description>
+    <pubDate>Sat, 8 Apr 2023 11:48:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-thrift/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-jaeger-thrift &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-thrift/versions/0.1.6-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter</description>
+    <pubDate>Sat, 8 Apr 2023 11:48:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-grpc/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-jaeger-grpc &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-jaeger-grpc/versions/0.1.6-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter</description>
+    <pubDate>Sat, 8 Apr 2023 11:48:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-extension-trace-propagators &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.1.6-SNAPSHOT</link>
+    <description>Provides access using Clojure to additional OpenTelemetry trace propagators</description>
+    <pubDate>Sat, 8 Apr 2023 11:48:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.1.6-SNAPSHOT</link>
+    <description>Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type</description>
+    <pubDate>Sat, 8 Apr 2023 11:47:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.1.6-SNAPSHOT</link>
+    <description>Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol</description>
+    <pubDate>Sat, 8 Apr 2023 11:47:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-resources &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.1.6-SNAPSHOT</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform</description>
+    <pubDate>Sat, 8 Apr 2023 11:47:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.1.6-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK</description>
+    <pubDate>Sat, 8 Apr 2023 11:47:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.1.6-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-api &quot;0.1.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.1.6-SNAPSHOT</link>
+    <description>An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry</description>
+    <pubDate>Sat, 8 Apr 2023 11:47:16 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/clj-kondo/versions/2023.03.18-SNAPSHOT</guid>
     <title>[clj-kondo &quot;2023.03.18-SNAPSHOT&quot;]</title>
@@ -1702,104 +1800,6 @@ application development.</description>
     <link>https://clojars.org/threatgrid/ctim/versions/1.3.7</link>
     <description>Cisco Threat Intelligence Model</description>
     <pubDate>Wed, 29 Mar 2023 05:39:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.pfeodrippe/walstrom/versions/0.0.1</guid>
-    <title>[io.github.pfeodrippe/walstrom &quot;0.0.1&quot;]</title>
-    <link>https://clojars.org/io.github.pfeodrippe/walstrom/versions/0.0.1</link>
-    <description></description>
-    <pubDate>Wed, 29 Mar 2023 02:44:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.aviso/pretty/versions/1.4</guid>
-    <title>[io.aviso/pretty &quot;1.4&quot;]</title>
-    <link>https://clojars.org/io.aviso/pretty/versions/1.4</link>
-    <description></description>
-    <pubDate>Tue, 28 Mar 2023 23:53:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.replikativ/datahike-s3/versions/0.1.8</guid>
-    <title>[io.replikativ/datahike-s3 &quot;0.1.8&quot;]</title>
-    <link>https://clojars.org/io.replikativ/datahike-s3/versions/0.1.8</link>
-    <description>Datahike S3 Backend</description>
-    <pubDate>Tue, 28 Mar 2023 22:52:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.replikativ/konserve-s3/versions/0.1.9</guid>
-    <title>[io.replikativ/konserve-s3 &quot;0.1.9&quot;]</title>
-    <link>https://clojars.org/io.replikativ/konserve-s3/versions/0.1.9</link>
-    <description>Konserve S3 Backend</description>
-    <pubDate>Tue, 28 Mar 2023 22:50:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.m1kal/charbel/versions/0.1.10</guid>
-    <title>[com.github.m1kal/charbel &quot;0.1.10&quot;]</title>
-    <link>https://clojars.org/com.github.m1kal/charbel/versions/0.1.10</link>
-    <description>Write synthesizable FPGA code with Clojure syntax. The code is translated to SystemVerilog.</description>
-    <pubDate>Tue, 28 Mar 2023 19:33:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20230328.192527.a193fd1</guid>
-    <title>[yetibot &quot;20230328.192527.a193fd1&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20230328.192527.a193fd1</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Tue, 28 Mar 2023 19:25:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.dgknght/app-lib/versions/0.3.1</guid>
-    <title>[com.github.dgknght/app-lib &quot;0.3.1&quot;]</title>
-    <link>https://clojars.org/com.github.dgknght/app-lib/versions/0.3.1</link>
-    <description>Library of commonly used functions for web app development</description>
-    <pubDate>Tue, 28 Mar 2023 18:30:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tonos-client/versions/1.42.1</guid>
-    <title>[tonos-client &quot;1.42.1&quot;]</title>
-    <link>https://clojars.org/tonos-client/versions/1.42.1</link>
-    <description>Clojure bindings to TON OS SDK&#39;s Core Client Library</description>
-    <pubDate>Tue, 28 Mar 2023 17:54:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.replikativ/konserve/versions/0.7.310</guid>
-    <title>[io.replikativ/konserve &quot;0.7.310&quot;]</title>
-    <link>https://clojars.org/io.replikativ/konserve/versions/0.7.310</link>
-    <description>Durable cross-platform key-value store protocol with core.async.</description>
-    <pubDate>Tue, 28 Mar 2023 16:30:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/threatgrid/ctim/versions/1.3.7-SNAPSHOT</guid>
-    <title>[threatgrid/ctim &quot;1.3.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/threatgrid/ctim/versions/1.3.7-SNAPSHOT</link>
-    <description>Cisco Threat Intelligence Model</description>
-    <pubDate>Tue, 28 Mar 2023 15:41:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.bigsy/aerogrant/versions/0.1.0</guid>
-    <title>[org.clojars.bigsy/aerogrant &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.bigsy/aerogrant/versions/0.1.0</link>
-    <description>mashup of aero and integrant with some nice addons</description>
-    <pubDate>Tue, 28 Mar 2023 15:19:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.strojure/ring-undertow/versions/1.1.1-105</guid>
-    <title>[com.github.strojure/ring-undertow &quot;1.1.1-105&quot;]</title>
-    <link>https://clojars.org/com.github.strojure/ring-undertow/versions/1.1.1-105</link>
-    <description>Clojure ring adapter to Undertow web server.</description>
-    <pubDate>Tue, 28 Mar 2023 14:05:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.strojure/ring-lib/versions/1.2.3-62</guid>
-    <title>[com.github.strojure/ring-lib &quot;1.2.3-62&quot;]</title>
-    <link>https://clojars.org/com.github.strojure/ring-lib/versions/1.2.3-62</link>
-    <description>Opinionated implementations for Clojure ring handler.</description>
-    <pubDate>Tue, 28 Mar 2023 13:42:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ring-partial-content/versions/2.1.0</guid>
-    <title>[ring-partial-content &quot;2.1.0&quot;]</title>
-    <link>https://clojars.org/ring-partial-content/versions/2.1.0</link>
-    <description>Partial Content middleware for ring.</description>
-    <pubDate>Tue, 28 Mar 2023 13:36:32 +0000</pubDate>
   </item>
   </channel>
 </rss>
