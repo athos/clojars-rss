@@ -1,19 +1,3 @@
-{:jar_name "db", :group_name "com.fluree", :version "2.0.0", :description nil, :created 1680191760628}
-{:jar_name "deep-diff2", :group_name "lambdaisland", :version "2.8.190", :description "Recursively compare Clojure or ClojureScript data structures, and produce a colorized diff of the result.", :created 1680192709881}
-{:jar_name "kaocha", :group_name "lambdaisland", :version "1.81.1290", :description "Full featured next generation test runner for Clojure.", :created 1680193588847}
-{:jar_name "kaocha-doctest", :group_name "com.lambdaisland", :version "0.1.15", :description "Doctest test type for Kaocha", :created 1680194728665}
-{:jar_name "pretty", :group_name "io.aviso", :version "1.4.1-SNAPSHOT", :description nil, :created 1680195207354}
-{:jar_name "missionary", :group_name "missionary", :version "b.30", :description "A functional effect and streaming system for clojure and clojurescript.", :created 1680200574129}
-{:jar_name "dtype-next", :group_name "cnuernber", :version "10.000-beta-42", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1680204991474}
-{:jar_name "uri", :group_name "lambdaisland", :version "1.15.125", :description "A pure Clojure/ClojureScript URI library.", :created 1680206397222}
-{:jar_name "navi", :group_name "org.clojars.lispyclouds", :version "0.0.4", :description "A tiny library converting OpenAPI route definitions to Reitit routes.", :created 1680206583702}
-{:jar_name "kaocha", :group_name "lambdaisland", :version "1.82.1306", :description "Full featured next generation test runner for Clojure.", :created 1680206967306}
-{:jar_name "aerial.hanami", :group_name "aerial.hanami", :version "0.18.0", :description "Clojure(Script) client/server vega/vega-lite based dynamic interactive plots and charts", :created 1680225415082}
-{:jar_name "aerial.bio.utils", :group_name "aerial.bio.utils", :version "2.1.0", :description "Various bioinformatic general utility tools", :created 1680225987351}
-{:jar_name "aerial.saite", :group_name "aerial.saite", :version "1.5.0", :description "Interactive document and visualization system - exploration, presentation, publication", :created 1680226163561}
-{:jar_name "portal", :group_name "djblue", :version "0.38.0", :description "A clojure tool to navigate through your data.", :created 1680232455084}
-{:jar_name "portal", :group_name "djblue", :version "0.38.1", :description "A clojure tool to navigate through your data.", :created 1680244320641}
-{:jar_name "clj-momo", :group_name "threatgrid", :version "0.4.0", :description "Library code produced by the Cisco ThreatGrid team for building swagger backed API services", :created 1680250838039}
 {:jar_name "clj-karaoke-lyrics", :group_name "com.github.baskeboler", :version "1.0.11", :description "Rip karaoke lyrics from karaoke midi files", :created 1680250925846}
 {:jar_name "clj-karaoke-lyrics", :group_name "com.github.baskeboler", :version "1.0.12", :description "Rip karaoke lyrics from karaoke midi files", :created 1680253323171}
 {:jar_name "utility-belt", :group_name "nomnom", :version "1.3.4", :description "Some of the tools you'll ever need to fight crime and write Clojure stuffs", :created 1680257276066}
@@ -254,3 +238,19 @@
 {:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1681075404370}
 {:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1681075464220}
 {:jar_name "expectations", :group_name "com.github.seancorfield", :version "2.0.999-SNAPSHOT", :description "A clojure.test-compatible version of the classic Expectations testing library.", :created 1681075466360}
+{:jar_name "kaleidoscope", :group_name "org.clojars.alai57", :version "0.1.14", :description "A blogging platform/CMS", :created 1681078100828}
+{:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1681078946348}
+{:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :created 1681078953178}
+{:jar_name "clj-otel-contrib-aws-resources", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1681078959388}
+{:jar_name "clj-otel-contrib-aws-xray-propagator", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :created 1681078965348}
+{:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1681078971438}
+{:jar_name "clj-otel-extension-trace-propagators", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1681078977538}
+{:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter", :created 1681078984208}
+{:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter", :created 1681078990448}
+{:jar_name "clj-otel-exporter-logging", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :created 1681078996618}
+{:jar_name "clj-otel-exporter-logging-otlp", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1681079002888}
+{:jar_name "clj-otel-exporter-otlp", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :created 1681079009058}
+{:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1681079015148}
+{:jar_name "clj-otel-instrumentation-resources", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1681079021148}
+{:jar_name "clj-otel-instrumentation-runtime-metrics", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides Clojure wrappers of OpenTelemetry metrics instrumentation of the JVM runtime", :created 1681079027068}
+{:jar_name "talk2", :group_name "com.deercreeklabs", :version "0.3.0", :description nil, :created 1681079588687}
