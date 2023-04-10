@@ -1,4 +1,3 @@
-{:jar_name "useful", :group_name "com.timezynk", :version "1.20.16", :description "Useful functions", :created 1680285798662}
 {:jar_name "prisma.plugins", :group_name "prisma.plugins", :version "0.1.19", :description "Prisma plugins interface library", :created 1680289365391}
 {:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.865", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1680291827731}
 {:jar_name "splint", :group_name "io.github.noahtheduke", :version "1.1.0", :description "Lint Clojure by shape.", :created 1680291908311}
@@ -211,7 +210,6 @@
 {:jar_name "clj-otel-instrumentation-runtime-metrics", :group_name "com.github.steffan-westcott", :version "0.1.6-SNAPSHOT", :description "Provides Clojure wrappers of OpenTelemetry metrics instrumentation of the JVM runtime", :created 1681058379579}
 {:jar_name "muplayer", :group_name "org.orangeplayer", :version "3.1", :description nil, :created 1681062812541}
 {:jar_name "chisel", :group_name "org.clojars.janherich", :version "0.1.0-SNAPSHOT", :description "3D printing parametric modeller and slicer", :created 1681071896696}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1681075404370}
 {:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1681075464220}
 {:jar_name "expectations", :group_name "com.github.seancorfield", :version "2.0.999-SNAPSHOT", :description "A clojure.test-compatible version of the classic Expectations testing library.", :created 1681075466360}
 {:jar_name "kaleidoscope", :group_name "org.clojars.alai57", :version "0.1.14", :description "A blogging platform/CMS", :created 1681078100828}
@@ -254,3 +252,5 @@
 {:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.4-beta-3", :description nil, :created 1681152178079}
 {:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.4-beta-3", :description nil, :created 1681152251049}
 {:jar_name "duratom", :group_name "duratom", :version "0.5.8", :description "A durable atom/agent type for Clojure.", :created 1681157622728}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1681161207320}
+{:jar_name "iso8583", :group_name "com.oakmac", :version "0.5.0", :description "Parse ISO 8583 messages into Clojure maps and vice versa (updated fork of alpian/clj-iso8583)", :created 1681163982510}
