@@ -1,18 +1,3 @@
-{:jar_name "clj-karaoke-lyrics", :group_name "com.github.baskeboler", :version "1.0.12", :description "Rip karaoke lyrics from karaoke midi files", :created 1680253323171}
-{:jar_name "utility-belt", :group_name "nomnom", :version "1.3.4", :description "Some of the tools you'll ever need to fight crime and write Clojure stuffs", :created 1680257276066}
-{:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20230331-101030.f5e96076", :description nil, :created 1680257465486}
-{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.9.10-kafka_3_4-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1680260460903}
-{:jar_name "macrocss", :group_name "com.health-samurai", :version "0.4.0", :description "Atomic CSS library for ClojureScript", :created 1680262276951}
-{:jar_name "krystal-common", :group_name "com.flipkart.krystal", :version "1.7", :description nil, :created 1680265396508}
-{:jar_name "krystex", :group_name "com.flipkart.krystal", :version "1.7", :description nil, :created 1680265410613}
-{:jar_name "vajram", :group_name "com.flipkart.krystal", :version "1.7", :description nil, :created 1680265424695}
-{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "1.7", :description nil, :created 1680265438152}
-{:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "1.7", :description nil, :created 1680265445259}
-{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "1.7", :description nil, :created 1680265459289}
-{:jar_name "ham-fisted", :group_name "com.cnuernber", :version "1.000-beta-92", :description nil, :created 1680265877392}
-{:jar_name "dtype-next", :group_name "cnuernber", :version "10.000-beta-43", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1680266171411}
-{:jar_name "argoj", :group_name "io.trosa", :version "3.4.5-0.3.1-SNAPSHOT", :description "Data-Oriented, pure Clojure API wrapper for Argo Workflow", :created 1680267753995}
-{:jar_name "crustimoney", :group_name "nl.functionalbytes", :version "2.0.0-beta-166-0x62b5", :description "A Clojure PEG parser, with packrat and cut", :created 1680269083494}
 {:jar_name "broch", :group_name "no.anteo", :version "0.1.66", :description nil, :created 1680273484529}
 {:jar_name "argoj", :group_name "io.trosa", :version "3.4.5-0.3.2-SNAPSHOT", :description "Data-Oriented, pure Clojure API wrapper for Argo Workflow", :created 1680274792468}
 {:jar_name "helix-spec-alpha", :group_name "town.lilac", :version "0.0.1", :description "clojure.spec.alpha support for React components defined with helix", :created 1680275285868}
@@ -254,3 +239,18 @@
 {:jar_name "clj-otel-instrumentation-runtime-metrics", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides Clojure wrappers of OpenTelemetry metrics instrumentation of the JVM runtime", :created 1681079027068}
 {:jar_name "talk2", :group_name "com.deercreeklabs", :version "0.3.0", :description nil, :created 1681079588687}
 {:jar_name "specs", :group_name "exoscale", :version "1.0.5", :description "Exoscale shared specs", :created 1681116656090}
+{:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1681125383921}
+{:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :created 1681125390481}
+{:jar_name "clj-otel-contrib-aws-resources", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1681125396991}
+{:jar_name "clj-otel-contrib-aws-xray-propagator", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :created 1681125403481}
+{:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1681125409861}
+{:jar_name "clj-otel-extension-trace-propagators", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1681125416121}
+{:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter", :created 1681125422941}
+{:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter", :created 1681125429281}
+{:jar_name "clj-otel-exporter-logging", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :created 1681125435681}
+{:jar_name "clj-otel-exporter-logging-otlp", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1681125441991}
+{:jar_name "clj-otel-exporter-otlp", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :created 1681125448091}
+{:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1681125454321}
+{:jar_name "clj-otel-instrumentation-resources", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1681125460771}
+{:jar_name "clj-otel-instrumentation-runtime-metrics", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides Clojure wrappers of OpenTelemetry metrics instrumentation of the JVM runtime", :created 1681125467171}
+{:jar_name "specs", :group_name "exoscale", :version "1.0.6", :description "Exoscale shared specs", :created 1681125660231}
