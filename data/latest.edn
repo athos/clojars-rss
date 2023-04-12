@@ -1,7 +1,3 @@
-{:jar_name "argoj", :group_name "io.trosa", :version "3.4.5-0.3.3-SNAPSHOT", :description "Data-Oriented, pure Clojure API wrapper for Argo Workflow", :created 1680532973783}
-{:jar_name "portfolio", :group_name "no.cjohansen", :version "2023.04.03", :description "Visual REPL for UI component development", :created 1680533325383}
-{:jar_name "ring-core", :group_name "ring", :version "1.10.0", :description "Ring core libraries.", :created 1680534754442}
-{:jar_name "ring-devel", :group_name "ring", :version "1.10.0", :description "Ring development and debugging libraries.", :created 1680534838672}
 {:jar_name "ring-servlet", :group_name "ring", :version "1.10.0", :description "Ring servlet utilities.", :created 1680534897652}
 {:jar_name "portfolio", :group_name "no.cjohansen", :version "2023.04.03.1", :description "Visual REPL for UI component development", :created 1680534904822}
 {:jar_name "ring-jetty-adapter", :group_name "ring", :version "1.10.0", :description "Ring Jetty adapter.", :created 1680534974452}
@@ -220,7 +216,6 @@
 {:jar_name "csv2rdf", :group_name "swirrl", :version "0.6.0", :description "A clojure API implementing the W3C CSVW csv2rdf processor", :created 1681206693763}
 {:jar_name "blah", :group_name "com.github.brianium", :version "1.1.0", :description nil, :created 1681211974207}
 {:jar_name "sparse-array", :group_name "sparse-array", :version "0.3.0", :description "A Clojure library designed to manipulate sparse *arrays* - multi-dimensional spaces accessed by indices, but containing arbitrary values rather than just numbers. For sparse spaces which contain numbers only, you're better to use a *sparse matrix* library, for example [clojure.core.matrix](https://mikera.github.io/core.matrix/).", :created 1681213608805}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.03.18-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1681218961480}
 {:jar_name "di", :group_name "org.clojars.darkleaf", :version "2.2.0", :description nil, :created 1681219723049}
 {:jar_name "broch", :group_name "no.anteo", :version "0.1.72", :description nil, :created 1681221603638}
 {:jar_name "jackdaw", :group_name "org.clojars.jeremyvdw", :version "0.9.11-fix_transport_mock-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1681221739798}
@@ -254,3 +249,8 @@
 {:jar_name "trud", :group_name "com.eldrix", :version "1.0.92", :description nil, :created 1681293604145}
 {:jar_name "trud", :group_name "com.eldrix", :version "1.0.94", :description nil, :created 1681294279865}
 {:jar_name "hermes", :group_name "com.eldrix", :version "1.2.1094", :description nil, :created 1681294670015}
+{:jar_name "deploytest", :group_name "org.clojars.tcrawley", :version "0.1.1", :description "FIXME: write description", :created 1681297734353}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.03.18-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1681297971243}
+{:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.4-beta-5", :description nil, :created 1681298839323}
+{:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.4-beta-5", :description nil, :created 1681298894743}
+{:jar_name "aerogrant", :group_name "org.clojars.bigsy", :version "0.1.2", :description "mashup of aero and integrant with some nice addons", :created 1681300300832}
