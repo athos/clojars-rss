@@ -1,4 +1,3 @@
-{:jar_name "district-server-db", :group_name "is.d0x", :version "23.4.7", :description nil, :created 1680861648316}
 {:jar_name "district-server-web3", :group_name "is.d0x", :version "23.4.7", :description nil, :created 1680861657616}
 {:jar_name "district-server-smart-contracts", :group_name "is.d0x", :version "23.4.7", :description nil, :created 1680861666936}
 {:jar_name "district-server-web3-events", :group_name "is.d0x", :version "23.4.7", :description nil, :created 1680861676046}
@@ -83,7 +82,6 @@
 {:jar_name "muplayer", :group_name "org.orangeplayer", :version "3.1", :description nil, :created 1681062812541}
 {:jar_name "chisel", :group_name "org.clojars.janherich", :version "0.1.0-SNAPSHOT", :description "3D printing parametric modeller and slicer", :created 1681071896696}
 {:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1681075464220}
-{:jar_name "expectations", :group_name "com.github.seancorfield", :version "2.0.999-SNAPSHOT", :description "A clojure.test-compatible version of the classic Expectations testing library.", :created 1681075466360}
 {:jar_name "kaleidoscope", :group_name "org.clojars.alai57", :version "0.1.14", :description "A blogging platform/CMS", :created 1681078100828}
 {:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1681078946348}
 {:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.2.0-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :created 1681078953178}
@@ -124,7 +122,6 @@
 {:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.4-beta-3", :description nil, :created 1681152178079}
 {:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.4-beta-3", :description nil, :created 1681152251049}
 {:jar_name "duratom", :group_name "duratom", :version "0.5.8", :description "A durable atom/agent type for Clojure.", :created 1681157622728}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1681161207320}
 {:jar_name "iso8583", :group_name "com.oakmac", :version "0.5.0", :description "Parse ISO 8583 messages into Clojure maps and vice versa (updated fork of alpian/clj-iso8583)", :created 1681163982510}
 {:jar_name "typesense-clj", :group_name "io.github.runeanielsen", :version "0.1.125", :description nil, :created 1681165388830}
 {:jar_name "dbxray", :group_name "ai.motiva", :version "0.1.1", :description nil, :created 1681165990971}
@@ -254,3 +251,6 @@
 {:jar_name "clj-karaoke-lyrics", :group_name "com.github.baskeboler", :version "1.0.13", :description "Rip karaoke lyrics from karaoke midi files", :created 1681446990616}
 {:jar_name "bgzf4j", :group_name "bgzf4j", :version "0.1.2", :description "A compression library for BGZF (Blocked GNU Zip Format)", :created 1681447725196}
 {:jar_name "cljam", :group_name "cljam", :version "0.8.5-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1681448379570}
+{:jar_name "embedkit", :group_name "com.lambdaisland", :version "0.0.56", :description "Use Metabase as a dashboard engine", :created 1681451362614}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1681451974649}
+{:jar_name "expectations", :group_name "com.github.seancorfield", :version "2.0.999-SNAPSHOT", :description "A clojure.test-compatible version of the classic Expectations testing library.", :created 1681452040488}
