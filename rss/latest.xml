@@ -4,7 +4,77 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 14 Apr 2023 03:01:19 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Apr 2023 04:01:24 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.clj.lang/versions/1.0.33-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.clj.lang &quot;1.0.33-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.clj.lang/versions/1.0.33-SNAPSHOT</link>
+    <description>Extensible languages in Clojure, a la Racket&#39;s #lang.</description>
+    <pubDate>Fri, 14 Apr 2023 04:01:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.lib.spec.alpha/versions/1.0.33-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.lib.spec.alpha &quot;1.0.33-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.lib.spec.alpha/versions/1.0.33-SNAPSHOT</link>
+    <description>FIXME</description>
+    <pubDate>Fri, 14 Apr 2023 04:01:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.lib.clojure/versions/1.0.33-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.lib.clojure &quot;1.0.33-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.lib.clojure/versions/1.0.33-SNAPSHOT</link>
+    <description>Type annotations and macros for the base Clojure distribution.</description>
+    <pubDate>Fri, 14 Apr 2023 04:01:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.clj.spec/versions/1.0.33-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.clj.spec &quot;1.0.33-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.clj.spec/versions/1.0.33-SNAPSHOT</link>
+    <description>Type-like specs.</description>
+    <pubDate>Fri, 14 Apr 2023 04:00:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.clj.runtime/versions/1.0.33-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.clj.runtime &quot;1.0.33-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.clj.runtime/versions/1.0.33-SNAPSHOT</link>
+    <description>An optional type system for Clojure — zero-dependency artifact for annotations only.</description>
+    <pubDate>Fri, 14 Apr 2023 04:00:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.cljs.analyzer/versions/1.0.33-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.cljs.analyzer &quot;1.0.33-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.cljs.analyzer/versions/1.0.33-SNAPSHOT</link>
+    <description>A variant of tools.analyzer.js.</description>
+    <pubDate>Fri, 14 Apr 2023 04:00:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.clj.analyzer/versions/1.0.33-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.clj.analyzer &quot;1.0.33-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.clj.analyzer/versions/1.0.33-SNAPSHOT</link>
+    <description>A variant of tools.analyzer.jvm.</description>
+    <pubDate>Fri, 14 Apr 2023 04:00:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.cljc.analyzer/versions/1.0.33-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.cljc.analyzer &quot;1.0.33-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.cljc.analyzer/versions/1.0.33-SNAPSHOT</link>
+    <description>A variant of tools.analyzer.</description>
+    <pubDate>Fri, 14 Apr 2023 04:00:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/pom.typed/versions/1.0.33-SNAPSHOT</guid>
+    <title>[org.typedclojure/pom.typed &quot;1.0.33-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/pom.typed/versions/1.0.33-SNAPSHOT</link>
+    <description>An optional type system for Clojure</description>
+    <pubDate>Fri, 14 Apr 2023 04:00:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/bgzf4j/versions/0.1.2-SNAPSHOT</guid>
+    <title>[bgzf4j &quot;0.1.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/bgzf4j/versions/0.1.2-SNAPSHOT</link>
+    <description>A compression library for BGZF (Blocked GNU Zip Format)</description>
+    <pubDate>Fri, 14 Apr 2023 03:25:53 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/tupelo/versions/23.03.14a</guid>
     <title>[tupelo &quot;23.03.14a&quot;]</title>
@@ -1726,76 +1796,6 @@
     <link>https://clojars.org/io.github.noahtheduke/splint/versions/1.2.0</link>
     <description>Lint Clojure by shape.</description>
     <pubDate>Fri, 7 Apr 2023 03:02:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.majorcluster/lein-template.diplomat-http-w-mysql-service/versions/0.4.1</guid>
-    <title>[org.clojars.majorcluster/lein-template.diplomat-http-w-mysql-service &quot;0.4.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.majorcluster/lein-template.diplomat-http-w-mysql-service/versions/0.4.1</link>
-    <description>Diplomat architecture-pedestal styled template with my sql db for leiningen generation</description>
-    <pubDate>Fri, 7 Apr 2023 02:45:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.majorcluster/lein-template.diplomat-http-service/versions/0.3.4</guid>
-    <title>[org.clojars.majorcluster/lein-template.diplomat-http-service &quot;0.3.4&quot;]</title>
-    <link>https://clojars.org/org.clojars.majorcluster/lein-template.diplomat-http-service/versions/0.3.4</link>
-    <description>Diplomat architecture-pedestal styled template for leiningen generation</description>
-    <pubDate>Fri, 7 Apr 2023 02:42:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.majorcluster/lein-template.diplomat-http-w-datomic-service/versions/0.2.3</guid>
-    <title>[org.clojars.majorcluster/lein-template.diplomat-http-w-datomic-service &quot;0.2.3&quot;]</title>
-    <link>https://clojars.org/org.clojars.majorcluster/lein-template.diplomat-http-w-datomic-service/versions/0.2.3</link>
-    <description>Diplomat architecture-pedestal styled template with datomic db for leiningen generation</description>
-    <pubDate>Fri, 7 Apr 2023 02:38:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.majorcluster/datomic-helper/versions/3.0.1</guid>
-    <title>[org.clojars.majorcluster/datomic-helper &quot;3.0.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.majorcluster/datomic-helper/versions/3.0.1</link>
-    <description>A Clojure Library with tools to help using datomic</description>
-    <pubDate>Fri, 7 Apr 2023 02:28:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.majorcluster/pedestal-api-helper/versions/0.9.1</guid>
-    <title>[org.clojars.majorcluster/pedestal-api-helper &quot;0.9.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.majorcluster/pedestal-api-helper/versions/0.9.1</link>
-    <description>Useful simple tools to be used for pedestal APIs</description>
-    <pubDate>Fri, 7 Apr 2023 02:21:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.tessellator/bell/versions/0.2.0</guid>
-    <title>[net.tessellator/bell &quot;0.2.0&quot;]</title>
-    <link>https://clojars.org/net.tessellator/bell/versions/0.2.0</link>
-    <description>A simple Clojure HTTP router</description>
-    <pubDate>Fri, 7 Apr 2023 01:57:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.majorcluster/clj-data-adapter/versions/0.8.6</guid>
-    <title>[org.clojars.majorcluster/clj-data-adapter &quot;0.8.6&quot;]</title>
-    <link>https://clojars.org/org.clojars.majorcluster/clj-data-adapter/versions/0.8.6</link>
-    <description>A Clojure data adapter library to convert your data between your layers</description>
-    <pubDate>Fri, 7 Apr 2023 01:55:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.eldrix/hermes/versions/1.2.1088</guid>
-    <title>[com.eldrix/hermes &quot;1.2.1088&quot;]</title>
-    <link>https://clojars.org/com.eldrix/hermes/versions/1.2.1088</link>
-    <description></description>
-    <pubDate>Fri, 7 Apr 2023 00:07:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/puppetlabs/lein-ezbake/versions/2.4.1</guid>
-    <title>[puppetlabs/lein-ezbake &quot;2.4.1&quot;]</title>
-    <link>https://clojars.org/puppetlabs/lein-ezbake/versions/2.4.1</link>
-    <description>A system for building packages for trapperkeeper-based applications</description>
-    <pubDate>Thu, 6 Apr 2023 22:41:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.zalky/cues/versions/0.2.1</guid>
-    <title>[io.zalky/cues &quot;0.2.1&quot;]</title>
-    <link>https://clojars.org/io.zalky/cues/versions/0.2.1</link>
-    <description>Queues on cue: persistent blocking queues, processors, and topologies via ChronicleQueue</description>
-    <pubDate>Thu, 6 Apr 2023 21:49:54 +0000</pubDate>
   </item>
   </channel>
 </rss>
