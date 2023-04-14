@@ -1,11 +1,3 @@
-{:jar_name "splint", :group_name "io.github.noahtheduke", :version "1.2.0", :description "Lint Clojure by shape.", :created 1680836576142}
-{:jar_name "clj-simple-keycloak", :group_name "org.clojars.majorcluster", :version "0.2.2", :description "A clojure library to simply resolve authentication and authorization on an externally maintained keycloak server", :created 1680837603571}
-{:jar_name "clj-mustache", :group_name "org.clojars.majorcluster", :version "0.1.5", :description "{{ mustache }} for Clojure", :created 1680841528612}
-{:jar_name "sente", :group_name "com.taoensso", :version "1.18.0-SNAPSHOT", :description "Realtime web comms for Clojure/Script", :created 1680852464895}
-{:jar_name "district-server-config", :group_name "district0x", :version "1.5.0-SNAPSHOT", :description nil, :created 1680857359830}
-{:jar_name "district-server-db", :group_name "is.d0x", :version "23.3.13", :description nil, :created 1680857801310}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.22.10", :description "CLJS development tools", :created 1680859028148}
-{:jar_name "district-server-config", :group_name "is.d0x", :version "23.4.7", :description nil, :created 1680861639276}
 {:jar_name "district-server-db", :group_name "is.d0x", :version "23.4.7", :description nil, :created 1680861648316}
 {:jar_name "district-server-web3", :group_name "is.d0x", :version "23.4.7", :description nil, :created 1680861657616}
 {:jar_name "district-server-smart-contracts", :group_name "is.d0x", :version "23.4.7", :description nil, :created 1680861666936}
@@ -182,7 +174,6 @@
 {:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.4-beta-5", :description nil, :created 1681298894743}
 {:jar_name "aerogrant", :group_name "org.clojars.bigsy", :version "0.1.2", :description "mashup of aero and integrant with some nice addons", :created 1681300300832}
 {:jar_name "deps.clj", :group_name "borkdude", :version "1.11.1.1273", :description "deps.clj: a Clojure port of the clojure bash script", :created 1681301328582}
-{:jar_name "cljam", :group_name "cljam", :version "0.8.5-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1681304166640}
 {:jar_name "clj-openai", :group_name "com.flexiana", :version "0.1.0", :description "ChatGPT client for Clojure", :created 1681305434579}
 {:jar_name "trud", :group_name "com.eldrix", :version "1.0.95", :description nil, :created 1681305605479}
 {:jar_name "hermes", :group_name "com.eldrix", :version "1.2.1098", :description nil, :created 1681307209809}
@@ -254,3 +245,12 @@
 {:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1681444863931}
 {:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "FIXME", :created 1681444870161}
 {:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1681444876690}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1681444887673}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1681444894062}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1681444900491}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1681444907621}
+{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Malli integration", :created 1681444914778}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1681444921571}
+{:jar_name "clj-karaoke-lyrics", :group_name "com.github.baskeboler", :version "1.0.13", :description "Rip karaoke lyrics from karaoke midi files", :created 1681446990616}
+{:jar_name "bgzf4j", :group_name "bgzf4j", :version "0.1.2", :description "A compression library for BGZF (Blocked GNU Zip Format)", :created 1681447725196}
+{:jar_name "cljam", :group_name "cljam", :version "0.8.5-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1681448379570}
