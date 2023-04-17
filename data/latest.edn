@@ -1,4 +1,3 @@
-{:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :created 1681125390481}
 {:jar_name "clj-otel-contrib-aws-resources", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1681125396991}
 {:jar_name "clj-otel-contrib-aws-xray-propagator", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :created 1681125403481}
 {:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.2.0", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1681125409861}
@@ -254,3 +253,4 @@
 {:jar_name "kaocha-cljs", :group_name "com.lambdaisland", :version "1.5.154", :description "ClojureScript support for Kaocha", :created 1681765660097}
 {:jar_name "kaocha-cljs", :group_name "lambdaisland", :version "1.5.154", :description nil, :created 1681765673477}
 {:jar_name "diehard-async", :group_name "org.clojars.vladislav", :version "0.1.12", :description nil, :created 1681767518359}
+{:jar_name "clj-spdx", :group_name "com.github.pmonks", :version "0.1.12", :description "Clojure wrapper around spdx/Spdx-Java-Library.", :created 1681771962495}
