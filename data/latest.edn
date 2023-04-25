@@ -1,8 +1,3 @@
-{:jar_name "clj-otel-exporter-otlp", :group_name "com.github.steffan-westcott", :version "0.2.1-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :created 1681667539775}
-{:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.2.1-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1681667546725}
-{:jar_name "clj-otel-instrumentation-resources", :group_name "com.github.steffan-westcott", :version "0.2.1-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1681667553645}
-{:jar_name "clj-otel-instrumentation-runtime-metrics", :group_name "com.github.steffan-westcott", :version "0.2.1-SNAPSHOT", :description "Provides Clojure wrappers of OpenTelemetry metrics instrumentation of the JVM runtime", :created 1681667560605}
-{:jar_name "clojure", :group_name "com.github.jpmonettas", :version "1.11.1-1", :description "Clojure core environment and runtime library.", :created 1681669268821}
 {:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1681670034284}
 {:jar_name "eastwood", :group_name "jonase", :version "1.4.0", :description "A Clojure lint tool", :created 1681671916078}
 {:jar_name "re-frame-firebase-nine", :group_name "org.clojars.dranidis", :version "0.1.13-SNAPSHOT", :description "A re-frame library for connecting to firebase 9", :created 1681674979611}
@@ -252,5 +247,10 @@
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "7.000-beta-36", :description "Clojure high performance data processing system", :created 1682428095576}
 {:jar_name "string-template", :group_name "com.github.akond", :version "0.0.7", :description "A Clojure wrapper around StringTemplate", :created 1682428965664}
 {:jar_name "project-persephone", :group_name "com.yetanalytics", :version "0.8.4", :description nil, :created 1682429628943}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha22-SNAPSHOT", :description "FIXME: my new library.", :created 1682429722132}
-{:jar_name "clj-k8s", :group_name "com.oscaro", :version "1.25.8.2-SNAPSHOT", :description "Clojure kubernetes client API stub", :created 1682431150359}
+{:jar_name "jackdaw", :group_name "org.clojars.jeremyvdw", :version "0.9.10-fix-transport-mock", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1682432412017}
+{:jar_name "cljest", :group_name "com.pitch", :version "1.0.0", :description nil, :created 1682432809466}
+{:jar_name "datomic-helper", :group_name "org.clojars.majorcluster", :version "3.2.0", :description "A Clojure Library with tools to help using datomic", :created 1682432992715}
+{:jar_name "clj-k8s", :group_name "com.oscaro", :version "1.25.8.2-SNAPSHOT", :description "Clojure kubernetes client API stub", :created 1682433407965}
+{:jar_name "temporal-sdk", :group_name "io.github.manetu", :version "0.12.3", :description "A Temporal SDK for Clojure", :created 1682434068943}
+{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.9.11-0_9_11_changelog-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1682434157473}
+{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha22-SNAPSHOT", :description "FIXME: my new library.", :created 1682434585202}
