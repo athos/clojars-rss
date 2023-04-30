@@ -1,4 +1,3 @@
-{:jar_name "clj-spdx", :group_name "com.github.pmonks", :version "0.1.27", :description "Clojure wrapper around spdx/Spdx-Java-Library.", :created 1681862867240}
 {:jar_name "core", :group_name "yetibot", :version "20230419.003244.922361b", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1681864399058}
 {:jar_name "parent", :group_name "yetibot", :version "20230419.003943.a089c31", :description "Parent properties for Yeibot plugins", :created 1681864794559}
 {:jar_name "github", :group_name "yetibot", :version "20230419.011651.bc1094a", :description "A yetibot plugin for https://github.com", :created 1681867016785}
@@ -254,3 +253,4 @@
 {:jar_name "tladeps-http-client-module", :group_name "io.github.pfeodrippe", :version "0.13.0", :description nil, :created 1682830463463}
 {:jar_name "tladeps-http-client-module", :group_name "io.github.pfeodrippe", :version "0.14.0", :description nil, :created 1682832092189}
 {:jar_name "sentry-clj", :group_name "io.sentry", :version "6.18.194", :description "A very thin wrapper around the official Java library for Sentry.", :created 1682840051543}
+{:jar_name "lein-template", :group_name "column", :version "0.27.0", :description "column sits on top of pedestal to support your projects", :created 1682847419878}
