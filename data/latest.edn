@@ -1,14 +1,3 @@
-{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha20", :description "FIXME: my new library.", :created 1682309256102}
-{:jar_name "datomic-datadog-reporter", :group_name "net.clojars.fr33m0nk", :version "1.1.8", :description "A library for datomic that sends metrics to datadog .", :created 1682309258817}
-{:jar_name "lein-template.base", :group_name "net.ofnir", :version "0.1.0", :description "Lein template for net.ofnir Clojure projects", :created 1682318236625}
-{:jar_name "turbo", :group_name "com.vadelabs", :version "2023.04.24-689", :description nil, :created 1682319635546}
-{:jar_name "utils", :group_name "com.vadelabs", :version "2023.04.24-689", :description nil, :created 1682319651525}
-{:jar_name "adapter", :group_name "com.vadelabs", :version "2023.04.24-691", :description nil, :created 1682320708435}
-{:jar_name "adapters", :group_name "com.vadelabs", :version "2023.04.24-692", :description nil, :created 1682321225001}
-{:jar_name "workflows", :group_name "com.vadelabs", :version "2023.04.24-692", :description nil, :created 1682321238250}
-{:jar_name "datasources", :group_name "com.vadelabs", :version "2023.04.24-692", :description nil, :created 1682321249530}
-{:jar_name "turbo", :group_name "com.vadelabs", :version "2023.04.24-692", :description nil, :created 1682321261899}
-{:jar_name "utils", :group_name "com.vadelabs", :version "2023.04.24-692", :description nil, :created 1682321277049}
 {:jar_name "string-template", :group_name "com.github.akond", :version "0.0.4", :description "A Clojure wrapper around StringTemplate", :created 1682321694977}
 {:jar_name "edd-core-web", :group_name "com.alpha-prosoft", :version "1.274", :description nil, :created 1682322377708}
 {:jar_name "edd-web-frame", :group_name "com.alpha-prosoft", :version "1.274", :description nil, :created 1682322387178}
@@ -254,3 +243,14 @@
 {:jar_name "ring-ratelimit", :group_name "ring-ratelimit", :version "0.2.3", :description "Rate limit middleware for Ring", :created 1683093410955}
 {:jar_name "clj-configurator", :group_name "clj-configurator", :version "0.1.6", :description "A powerful yet simple configuration library", :created 1683096395629}
 {:jar_name "clj-bonecp-url", :group_name "clj-bonecp-url", :version "0.1.2", :description "Create BoneCP JDBC connection pools from URLs", :created 1683099845101}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.7.0-alpha1", :description "Snappy data-driven router for Clojure(Script)", :created 1683104897500}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.7.0-alpha1", :description "Snappy data-driven router for Clojure(Script)", :created 1683104915150}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.7.0-alpha1", :description "Reitit: clojure.spec coercion", :created 1683104932600}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.7.0-alpha1", :description "Reitit: Malli coercion", :created 1683104949989}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.7.0-alpha1", :description "Reitit: Plumatic Schema coercion", :created 1683104966349}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.7.0-alpha1", :description "Reitit: Ring routing", :created 1683104982859}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.7.0-alpha1", :description "Reitit, common middleware bundled", :created 1683104999599}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.7.0-alpha1", :description "Reitit: HTTP routing with interceptors", :created 1683105016909}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.7.0-alpha1", :description "Reitit, common interceptors bundled", :created 1683105034129}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.7.0-alpha1", :description "Reitit: Swagger-support", :created 1683105050789}
+{:jar_name "commons", :group_name "lupapiste", :version "4.1.2", :description "Common domain code and resources for lupapiste applications", :created 1683106381226}
