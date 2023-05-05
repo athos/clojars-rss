@@ -1,25 +1,3 @@
-{:jar_name "clj-k8s", :group_name "com.oscaro", :version "1.21.14.3-SNAPSHOT", :description "Clojure kubernetes client API stub", :created 1682424110064}
-{:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v1.7.5", :description "A client library for Vald.", :created 1682424730300}
-{:jar_name "sail", :group_name "com.hypalynx", :version "0.8.11", :description nil, :created 1682425658949}
-{:jar_name "krystal-common", :group_name "com.flipkart.krystal", :version "2.0", :description nil, :created 1682426787539}
-{:jar_name "krystex", :group_name "com.flipkart.krystal", :version "2.0", :description nil, :created 1682426801359}
-{:jar_name "vajram", :group_name "com.flipkart.krystal", :version "2.0", :description nil, :created 1682426815309}
-{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "2.0", :description nil, :created 1682426829729}
-{:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "2.0", :description nil, :created 1682426840689}
-{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "2.0", :description nil, :created 1682426849649}
-{:jar_name "clj-hgvs", :group_name "clj-hgvs", :version "0.4.7", :description "Clojure(Script) library for handling HGVS", :created 1682427132128}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "7.000-beta-36", :description "Clojure high performance data processing system", :created 1682428095576}
-{:jar_name "string-template", :group_name "com.github.akond", :version "0.0.7", :description "A Clojure wrapper around StringTemplate", :created 1682428965664}
-{:jar_name "project-persephone", :group_name "com.yetanalytics", :version "0.8.4", :description nil, :created 1682429628943}
-{:jar_name "jackdaw", :group_name "org.clojars.jeremyvdw", :version "0.9.10-fix-transport-mock", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1682432412017}
-{:jar_name "cljest", :group_name "com.pitch", :version "1.0.0", :description nil, :created 1682432809466}
-{:jar_name "datomic-helper", :group_name "org.clojars.majorcluster", :version "3.2.0", :description "A Clojure Library with tools to help using datomic", :created 1682432992715}
-{:jar_name "clj-k8s", :group_name "com.oscaro", :version "1.25.8.2-SNAPSHOT", :description "Clojure kubernetes client API stub", :created 1682433407965}
-{:jar_name "temporal-sdk", :group_name "io.github.manetu", :version "0.12.3", :description "A Temporal SDK for Clojure", :created 1682434068943}
-{:jar_name "jackdaw", :group_name "fundingcircle", :version "0.9.11-0_9_11_changelog-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1682434157473}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha22-SNAPSHOT", :description "FIXME: my new library.", :created 1682434585202}
-{:jar_name "openai-api", :group_name "me.pmatiello", :version "0.1.0", :description nil, :created 1682435488910}
-{:jar_name "project-persephone", :group_name "com.yetanalytics", :version "0.9.0-SNAPSHOT", :description nil, :created 1682440624307}
 {:jar_name "promisespromises", :group_name "com.github.yapsterapp", :version "3.0.361-alpha1", :description nil, :created 1682443088853}
 {:jar_name "a-frame", :group_name "com.github.yapsterapp", :version "3.0.32-alpha1", :description nil, :created 1682443230963}
 {:jar_name "slip", :group_name "com.github.yapsterapp", :version "0.0.24", :description nil, :created 1682445595978}
@@ -254,3 +232,25 @@
 {:jar_name "reitit-pedestal", :group_name "metosin", :version "0.7.0-alpha2", :description "Reitit + Pedestal Integration", :created 1683274796800}
 {:jar_name "reitit", :group_name "metosin", :version "0.7.0-alpha2", :description "Snappy data-driven router for Clojure(Script)", :created 1683274898473}
 {:jar_name "memento-redis", :group_name "org.clojars.roklenarcic", :version "0.2.14", :description nil, :created 1683275498230}
+{:jar_name "brevo", :group_name "com.avisi-apps.gaps", :version "0.0.69-SNAPSHOT", :description nil, :created 1683280114172}
+{:jar_name "fulcro-google-remote", :group_name "com.avisi-apps.gaps", :version "0.0.69-SNAPSHOT", :description nil, :created 1683280121262}
+{:jar_name "log", :group_name "com.avisi-apps.gaps", :version "0.0.69-SNAPSHOT", :description nil, :created 1683280127602}
+{:jar_name "rcf", :group_name "com.avisi-apps.gaps", :version "0.0.69-SNAPSHOT", :description nil, :created 1683280133792}
+{:jar_name "reitit-express", :group_name "com.avisi-apps.gaps", :version "0.0.69-SNAPSHOT", :description nil, :created 1683280140112}
+{:jar_name "rollbar", :group_name "com.avisi-apps.gaps", :version "0.0.69-SNAPSHOT", :description nil, :created 1683280146622}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.7.0-alpha3", :description "Snappy data-driven router for Clojure(Script)", :created 1683280692301}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.7.0-alpha3", :description "Snappy data-driven router for Clojure(Script)", :created 1683280704431}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.7.0-alpha3", :description "Reitit: clojure.spec coercion", :created 1683280713801}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.7.0-alpha3", :description "Reitit: Malli coercion", :created 1683280722781}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.7.0-alpha3", :description "Reitit: Plumatic Schema coercion", :created 1683280732591}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.7.0-alpha3", :description "Reitit: Ring routing", :created 1683280742121}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.7.0-alpha3", :description "Reitit, common middleware bundled", :created 1683280754471}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.7.0-alpha3", :description "Reitit: HTTP routing with interceptors", :created 1683280765161}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.7.0-alpha3", :description "Reitit, common interceptors bundled", :created 1683280774491}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.7.0-alpha3", :description "Reitit: Swagger-support", :created 1683280783791}
+{:jar_name "reitit-openapi", :group_name "fi.metosin", :version "0.7.0-alpha3", :description "Reitit: OpenAPI-support", :created 1683280793681}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.7.0-alpha3", :description "Reitit: Swagger-ui support", :created 1683280804031}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.7.0-alpha3", :description "Reitit: Clojurescript frontend routing core", :created 1683280814671}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.7.0-alpha3", :description "Reitit: Sieppari Interceptors", :created 1683280825451}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.7.0-alpha3", :description "Reitit + Pedestal Integration", :created 1683280838641}
+{:jar_name "reitit", :group_name "metosin", :version "0.7.0-alpha3", :description "Snappy data-driven router for Clojure(Script)", :created 1683280862121}
