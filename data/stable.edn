@@ -1,5 +1,3 @@
-{:jar_name "utils", :group_name "com.vadelabs", :version "2023.04.27-696", :description nil, :created 1682595107013}
-{:jar_name "ring-undertow", :group_name "com.github.strojure", :version "1.2.0-109", :description "Clojure ring adapter to Undertow web server.", :created 1682600331003}
 {:jar_name "adapters", :group_name "com.vadelabs", :version "2023.04.27-698", :description nil, :created 1682600343372}
 {:jar_name "workflows", :group_name "com.vadelabs", :version "2023.04.27-698", :description nil, :created 1682600358262}
 {:jar_name "datasources", :group_name "com.vadelabs", :version "2023.04.27-698", :description nil, :created 1682600372312}
@@ -254,3 +252,5 @@
 {:jar_name "dropwizard-actors-ratelimit", :group_name "com.github.phaneesh", :version "2.0.28-4", :description nil, :created 1683561684383}
 {:jar_name "kaocha-cucumber", :group_name "com.lambdaisland", :version "0.11.100", :description "Cucumber support for Kaocha", :created 1683564085800}
 {:jar_name "kaocha-cucumber", :group_name "lambdaisland", :version "0.11.100", :description nil, :created 1683564097770}
+{:jar_name "iso8583", :group_name "com.oakmac", :version "0.6.0", :description "Parse ISO 8583 messages into Clojure maps and vice versa (updated fork of alpian/clj-iso8583)", :created 1683566018227}
+{:jar_name "ken-honeycomb", :group_name "com.amperity", :version "1.1.0", :description "Observability library to integrate ken and honeycomb", :created 1683568727944}
