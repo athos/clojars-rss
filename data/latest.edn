@@ -135,7 +135,6 @@
 {:jar_name "kaocha-cucumber", :group_name "lambdaisland", :version "0.11.100", :description nil, :created 1683564097770}
 {:jar_name "iso8583", :group_name "com.oakmac", :version "0.6.0", :description "Parse ISO 8583 messages into Clojure maps and vice versa (updated fork of alpian/clj-iso8583)", :created 1683566018227}
 {:jar_name "mxxhr", :group_name "com.tiltontec", :version "2.0.0-SNAPSHOT", :description "XMLHttpRequest for the Matrix (dataflow library)", :created 1683567431815}
-{:jar_name "matrix", :group_name "com.tiltontec", :version "5.0.1-SNAPSHOT", :description "Matrix dataflow library for CLJ/CLJS", :created 1683568374314}
 {:jar_name "ken-honeycomb", :group_name "com.amperity", :version "1.1.0", :description "Observability library to integrate ken and honeycomb", :created 1683568727944}
 {:jar_name "cljonda-core", :group_name "com.phronemophobic", :version "1.0-SNAPSHOT", :description nil, :created 1683569015723}
 {:jar_name "openai-clojure", :group_name "net.clojars.wkok", :version "0.6.0", :description "Clojure functions to drive the OpenAI API", :created 1683569170643}
@@ -217,7 +216,6 @@
 {:jar_name "xz-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "5.2.6-SNAPSHOT", :description nil, :created 1683583379505}
 {:jar_name "libxml2-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.10.4-SNAPSHOT", :description nil, :created 1683583389925}
 {:jar_name "zstd-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.5.2-SNAPSHOT", :description nil, :created 1683583399505}
-{:jar_name "web-mx", :group_name "com.tiltontec", :version "2.0.2-SNAPSHOT", :description "A Web Un-Framework, powered by Matrix(tm)", :created 1683587893737}
 {:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure", :created 1683589647474}
 {:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1683589657114}
 {:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1683589663774}
@@ -254,3 +252,5 @@
 {:jar_name "utils", :group_name "com.vadelabs", :version "2023.05.09-735", :description nil, :created 1683621803421}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.04.15-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1683623732597}
 {:jar_name "babashka", :group_name "babashka", :version "1.3.180-SNAPSHOT", :description "babashka", :created 1683627408510}
+{:jar_name "matrix", :group_name "com.tiltontec", :version "5.0.1-SNAPSHOT", :description "Matrix dataflow library for CLJ/CLJS", :created 1683631815421}
+{:jar_name "web-mx", :group_name "com.tiltontec", :version "2.0.2-SNAPSHOT", :description "A Web Un-Framework, powered by Matrix(tm)", :created 1683631846281}
