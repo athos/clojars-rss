@@ -1,9 +1,3 @@
-{:jar_name "process", :group_name "babashka", :version "0.5.17", :description "Clojure library for shelling out / spawning subprocesses", :created 1683217083832}
-{:jar_name "matrix-viz", :group_name "org.clojars.lambdatronic", :version "2023.05.04", :description nil, :created 1683232295289}
-{:jar_name "gllue-sdk", :group_name "org.clojars.top20", :version "1.2.11", :description "This project will provide a set of APIs to help developers with easy integration with Gllue systems.", :created 1683247525032}
-{:jar_name "gllue-sdk", :group_name "org.clojars.top20", :version "1.2.12", :description "This project will provide a set of APIs to help developers with easy integration with Gllue systems.", :created 1683255795194}
-{:jar_name "reitit-openapi", :group_name "fi.metosin", :version "0.7.0-alpha2", :description "Reitit: OpenAPI-support", :created 1683274736191}
-{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.7.0-alpha2", :description "Reitit: Swagger-ui support", :created 1683274754067}
 {:jar_name "reitit-frontend", :group_name "metosin", :version "0.7.0-alpha2", :description "Reitit: Clojurescript frontend routing core", :created 1683274767703}
 {:jar_name "reitit-sieppari", :group_name "metosin", :version "0.7.0-alpha2", :description "Reitit: Sieppari Interceptors", :created 1683274781449}
 {:jar_name "reitit-pedestal", :group_name "metosin", :version "0.7.0-alpha2", :description "Reitit + Pedestal Integration", :created 1683274796800}
@@ -135,33 +129,23 @@
 {:jar_name "openai-clojure", :group_name "net.clojars.wkok", :version "0.6.0", :description "Clojure functions to drive the OpenAI API", :created 1683569170643}
 {:jar_name "c-ares-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.19.0-SNAPSHOT", :description nil, :created 1683569196113}
 {:jar_name "ca-certificates-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2023.01.10-SNAPSHOT", :description nil, :created 1683569205963}
-{:jar_name "font-ttf-inconsolata-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.001-SNAPSHOT", :description nil, :created 1683569225763}
-{:jar_name "font-ttf-source-code-pro-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.030-SNAPSHOT", :description nil, :created 1683569235923}
 {:jar_name "giflib-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "5.2.1-SNAPSHOT", :description nil, :created 1683569266043}
 {:jar_name "jpeg-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "9e-SNAPSHOT", :description nil, :created 1683569275543}
-{:jar_name "libcxx-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "14.0.6-SNAPSHOT", :description nil, :created 1683569285873}
 {:jar_name "libdeflate-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.17-SNAPSHOT", :description nil, :created 1683569296033}
 {:jar_name "libev-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "4.33-SNAPSHOT", :description nil, :created 1683569305913}
-{:jar_name "libffi-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "3.4.2-SNAPSHOT", :description nil, :created 1683569315623}
 {:jar_name "libiconv-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.16-SNAPSHOT", :description nil, :created 1683569325583}
 {:jar_name "libtool-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.4.6-SNAPSHOT", :description nil, :created 1683569336603}
 {:jar_name "libwebp-base-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.2.4-SNAPSHOT", :description nil, :created 1683569346923}
-{:jar_name "llvm-openmp-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "14.0.6-SNAPSHOT", :description nil, :created 1683569357793}
-{:jar_name "ncurses-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "6.4-SNAPSHOT", :description nil, :created 1683569367663}
 {:jar_name "poppler-data-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "0.4.11-SNAPSHOT", :description nil, :created 1683569387383}
-{:jar_name "fonts-anaconda-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1-SNAPSHOT", :description nil, :created 1683569428123}
 {:jar_name "graphite2-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.3.14-SNAPSHOT", :description nil, :created 1683569437943}
 {:jar_name "icu-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "68.1-SNAPSHOT", :description nil, :created 1683569447753}
 {:jar_name "lerc-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "3.0-SNAPSHOT", :description nil, :created 1683569465993}
 {:jar_name "libedit-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "3.1.20221030-SNAPSHOT", :description nil, :created 1683569476093}
-{:jar_name "libpng-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.6.39-SNAPSHOT", :description nil, :created 1683569487313}
 {:jar_name "lz4-c-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.9.4-SNAPSHOT", :description nil, :created 1683569497873}
 {:jar_name "nspr-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "4.33-SNAPSHOT", :description nil, :created 1683569507733}
 {:jar_name "openssl-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.1.1t-SNAPSHOT", :description nil, :created 1683569517733}
 {:jar_name "pcre-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "8.45-SNAPSHOT", :description nil, :created 1683569529923}
 {:jar_name "readline-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "8.2-SNAPSHOT", :description nil, :created 1683569540213}
-{:jar_name "fonts-conda-ecosystem-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1-SNAPSHOT", :description nil, :created 1683569550113}
-{:jar_name "freetype-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.12.1-SNAPSHOT", :description nil, :created 1683569559543}
 {:jar_name "krb5-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.19.4-SNAPSHOT", :description nil, :created 1683569570333}
 {:jar_name "libnghttp2-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.46.0-SNAPSHOT", :description nil, :created 1683569580193}
 {:jar_name "libssh2-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.10.0-SNAPSHOT", :description nil, :created 1683569590703}
@@ -169,7 +153,6 @@
 {:jar_name "sqlite-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "3.41.2-SNAPSHOT", :description nil, :created 1683569611323}
 {:jar_name "zstd-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.5.5-SNAPSHOT", :description nil, :created 1683569622093}
 {:jar_name "fontconfig-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.14.1-SNAPSHOT", :description nil, :created 1683569632293}
-{:jar_name "gettext-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "0.21.0-SNAPSHOT", :description nil, :created 1683569642953}
 {:jar_name "libboost-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.73.0-SNAPSHOT", :description nil, :created 1683569653532}
 {:jar_name "boost-cpp-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.73.0-SNAPSHOT", :description nil, :created 1683569698782}
 {:jar_name "openjpeg-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.3.0-SNAPSHOT", :description nil, :created 1683569740042}
@@ -183,11 +166,8 @@
 {:jar_name "librsvg-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.54.4-SNAPSHOT", :description nil, :created 1683569839672}
 {:jar_name "graphviz-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.50.0-SNAPSHOT", :description nil, :created 1683569850428}
 {:jar_name "separator", :group_name "com.amperity", :version "0.2.0", :description "An efficient and defensive delimiter-separated-value parser.", :created 1683579124851}
-{:jar_name "bzip2-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.0.8-SNAPSHOT", :description nil, :created 1683580788799}
-{:jar_name "font-ttf-dejavu-sans-mono-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.37-SNAPSHOT", :description nil, :created 1683580800999}
 {:jar_name "font-ttf-inconsolata-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "3.000-SNAPSHOT", :description nil, :created 1683580811489}
 {:jar_name "font-ttf-source-code-pro-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.038-SNAPSHOT", :description nil, :created 1683580821419}
-{:jar_name "font-ttf-ubuntu-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "0.83-SNAPSHOT", :description nil, :created 1683580831379}
 {:jar_name "fribidi-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.0.10-SNAPSHOT", :description nil, :created 1683580841049}
 {:jar_name "lame-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "3.100-SNAPSHOT", :description nil, :created 1683580875679}
 {:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.2.1", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1683581862797}
@@ -204,12 +184,9 @@
 {:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.2.1", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1683581915547}
 {:jar_name "clj-otel-instrumentation-resources", :group_name "com.github.steffan-westcott", :version "0.2.1", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1683581920247}
 {:jar_name "clj-otel-instrumentation-runtime-metrics", :group_name "com.github.steffan-westcott", :version "0.2.1", :description "Provides Clojure wrappers of OpenTelemetry metrics instrumentation of the JVM runtime", :created 1683581924937}
-{:jar_name "icu-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "72.1-SNAPSHOT", :description nil, :created 1683583325475}
 {:jar_name "libcxx-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "16.0.3-SNAPSHOT", :description nil, :created 1683583348085}
-{:jar_name "libiconv-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.17-SNAPSHOT", :description nil, :created 1683583358335}
 {:jar_name "libzlib-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.2.13-SNAPSHOT", :description nil, :created 1683583369235}
 {:jar_name "xz-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "5.2.6-SNAPSHOT", :description nil, :created 1683583379505}
-{:jar_name "libxml2-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.10.4-SNAPSHOT", :description nil, :created 1683583389925}
 {:jar_name "zstd-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.5.2-SNAPSHOT", :description nil, :created 1683583399505}
 {:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for Clojure", :created 1683589647474}
 {:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1683589657114}
@@ -245,7 +222,6 @@
 {:jar_name "datasources", :group_name "com.vadelabs", :version "2023.05.09-735", :description nil, :created 1683621773921}
 {:jar_name "turbo", :group_name "com.vadelabs", :version "2023.05.09-735", :description nil, :created 1683621787721}
 {:jar_name "utils", :group_name "com.vadelabs", :version "2023.05.09-735", :description nil, :created 1683621803421}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.04.15-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1683623732597}
 {:jar_name "babashka", :group_name "babashka", :version "1.3.180-SNAPSHOT", :description "babashka", :created 1683627408510}
 {:jar_name "matrix", :group_name "com.tiltontec", :version "5.0.1-SNAPSHOT", :description "Matrix dataflow library for CLJ/CLJS", :created 1683631815421}
 {:jar_name "web-mx", :group_name "com.tiltontec", :version "2.0.2-SNAPSHOT", :description "A Web Un-Framework, powered by Matrix(tm)", :created 1683631846281}
@@ -254,3 +230,27 @@
 {:jar_name "vocabulary", :group_name "ont-app", :version "0.3.0", :description "Integration between Clojure keywords and URIs, plus support for RDF-style language-tagged literals.", :created 1683647222201}
 {:jar_name "spork", :group_name "spork", :version "0.2.1.7-SNAPSHOT", :description "A set of libraries derived from Spoon's Operations Research Kit.\n   Libraries are modular and will be supported as stand-alone dependencies.\n   This project is an uberjar that includes all of the modular bits in a single\n   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,\n   focusing on a functional API, a default towards purity and persistent data\n   structures, with alternative mutable/imperative counterparts.  The vast\n   majority of spork is written in Clojure, with an intentional nod toward\n   independence from external libraries, particularly Java libs.  Consequently,\n   spork should provide a lightweight, clojure-based platform for the topics\n   covered by the libraries.  I am currently working to eliminate legacy\n   java dependencies where possible.", :created 1683657264760}
 {:jar_name "drift", :group_name "io.github.jaybarra", :version "1.5.4-SNAPSHOT", :description "Drift is a rails like migration framework for Clojure.", :created 1683657419700}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.04.15-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1683660205044}
+{:jar_name "bzip2-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.0.8-SNAPSHOT", :description nil, :created 1683661742861}
+{:jar_name "font-ttf-dejavu-sans-mono-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.37-SNAPSHOT", :description nil, :created 1683661752171}
+{:jar_name "font-ttf-inconsolata-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.001-SNAPSHOT", :description nil, :created 1683661761631}
+{:jar_name "font-ttf-source-code-pro-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.030-SNAPSHOT", :description nil, :created 1683661771141}
+{:jar_name "font-ttf-ubuntu-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "0.83-SNAPSHOT", :description nil, :created 1683661780951}
+{:jar_name "icu-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "72.1-SNAPSHOT", :description nil, :created 1683661790051}
+{:jar_name "libcxx-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "14.0.6-SNAPSHOT", :description nil, :created 1683661807841}
+{:jar_name "libexpat-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.5.0-SNAPSHOT", :description nil, :created 1683661817191}
+{:jar_name "libffi-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "3.4.2-SNAPSHOT", :description nil, :created 1683661826311}
+{:jar_name "libiconv-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.17-SNAPSHOT", :description nil, :created 1683661835621}
+{:jar_name "libtasn1-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "4.19.0-SNAPSHOT", :description nil, :created 1683661846231}
+{:jar_name "libunistring-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "0.9.10-SNAPSHOT", :description nil, :created 1683661855991}
+{:jar_name "llvm-openmp-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "14.0.6-SNAPSHOT", :description nil, :created 1683661876911}
+{:jar_name "ncurses-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "6.4-SNAPSHOT", :description nil, :created 1683661886111}
+{:jar_name "xz-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "5.4.2-SNAPSHOT", :description nil, :created 1683661915871}
+{:jar_name "expat-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.5.0-SNAPSHOT", :description nil, :created 1683661935401}
+{:jar_name "fonts-anaconda-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1-SNAPSHOT", :description nil, :created 1683661945741}
+{:jar_name "libpng-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.6.39-SNAPSHOT", :description nil, :created 1683661983621}
+{:jar_name "libxml2-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.10.4-SNAPSHOT", :description nil, :created 1683662002891}
+{:jar_name "fonts-conda-ecosystem-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1-SNAPSHOT", :description nil, :created 1683662055850}
+{:jar_name "freetype-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.12.1-SNAPSHOT", :description nil, :created 1683662064780}
+{:jar_name "gettext-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "0.21.0-SNAPSHOT", :description nil, :created 1683662075140}
+{:jar_name "fontconfig-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.14.2-SNAPSHOT", :description nil, :created 1683662084410}
