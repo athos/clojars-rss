@@ -1,8 +1,3 @@
-{:jar_name "district-ui-web3-tx-id", :group_name "is.d0x", :version "23.5.3", :description nil, :created 1683560618305}
-{:jar_name "district-ui-bundle", :group_name "is.d0x", :version "23.5.3", :description nil, :created 1683560628195}
-{:jar_name "district-ui-component-active-account", :group_name "is.d0x", :version "23.5.3", :description nil, :created 1683560636695}
-{:jar_name "dropwizard-actors-ratelimit", :group_name "com.github.phaneesh", :version "2.0.28-4", :description nil, :created 1683561684383}
-{:jar_name "kaocha-cucumber", :group_name "com.lambdaisland", :version "0.11.100", :description "Cucumber support for Kaocha", :created 1683564085800}
 {:jar_name "kaocha-cucumber", :group_name "lambdaisland", :version "0.11.100", :description nil, :created 1683564097770}
 {:jar_name "iso8583", :group_name "com.oakmac", :version "0.6.0", :description "Parse ISO 8583 messages into Clojure maps and vice versa (updated fork of alpian/clj-iso8583)", :created 1683566018227}
 {:jar_name "mxxhr", :group_name "com.tiltontec", :version "2.0.0-SNAPSHOT", :description "XMLHttpRequest for the Matrix (dataflow library)", :created 1683567431815}
@@ -229,7 +224,6 @@
 {:jar_name "utils", :group_name "com.vadelabs", :version "2023.05.11-747", :description nil, :created 1683794487796}
 {:jar_name "fs", :group_name "babashka", :version "0.4.18", :description "Babashka file system utilities.", :created 1683798439927}
 {:jar_name "lambdaroyal-memory", :group_name "org.clojars.gixxi", :version "1.3.2", :description "STM-based in-memory database storing persistent data structures", :created 1683798561807}
-{:jar_name "babashka", :group_name "babashka", :version "1.3.180-SNAPSHOT", :description "babashka", :created 1683799291886}
 {:jar_name "origami", :group_name "origami", :version "4.7.0-6", :description "OpenCV4 Wrapper", :created 1683799477445}
 {:jar_name "vectio", :group_name "com.7theta", :version "0.9.1", :description "A stream-based transport layer.", :created 1683816328341}
 {:jar_name "string-template", :group_name "com.github.akond", :version "0.0.11", :description "A Clojure wrapper around StringTemplate", :created 1683817252249}
@@ -254,3 +248,9 @@
 {:jar_name "portfolio", :group_name "no.cjohansen", :version "2023.05.12", :description "Visual REPL for UI component development", :created 1683869848505}
 {:jar_name "deps.clj", :group_name "borkdude", :version "1.11.1.1273-3", :description "deps.clj: a Clojure port of the clojure bash script", :created 1683888042144}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.04.15-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1683896108117}
+{:jar_name "babashka", :group_name "babashka", :version "1.3.180-SNAPSHOT", :description "babashka", :created 1683901335126}
+{:jar_name "envoy", :group_name "tolitius", :version "0.1.28", :description "a gentle touch of clojure to hashicorp's consul", :created 1683902923714}
+{:jar_name "splint", :group_name "io.github.noahtheduke", :version "1.5.0", :description "Lint Clojure by shape.", :created 1683903118803}
+{:jar_name "macrometer.core", :group_name "com.oscaro", :version "1.11.0.1-SNAPSHOT", :description "", :created 1683903255863}
+{:jar_name "macrometer.jmx", :group_name "com.oscaro", :version "1.11.0.1-SNAPSHOT", :description "", :created 1683903262893}
+{:jar_name "macrometer.prometheus", :group_name "com.oscaro", :version "1.11.0.1-SNAPSHOT", :description "", :created 1683903278983}
