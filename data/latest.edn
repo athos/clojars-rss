@@ -1,4 +1,3 @@
-{:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.2.1", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1683581881897}
 {:jar_name "clj-otel-extension-trace-propagators", :group_name "com.github.steffan-westcott", :version "0.2.1", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1683581886657}
 {:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "com.github.steffan-westcott", :version "0.2.1", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter", :created 1683581891447}
 {:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "com.github.steffan-westcott", :version "0.2.1", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter", :created 1683581896477}
@@ -254,3 +253,4 @@
 {:jar_name "recife", :group_name "pfeodrippe", :version "0.17.0", :description "", :created 1684201927039}
 {:jar_name "alloy", :group_name "io.github.pfeodrippe", :version "0.2.0", :description "", :created 1684202892807}
 {:jar_name "recife", :group_name "pfeodrippe", :version "0.18.0", :description "", :created 1684203486806}
+{:jar_name "snitch", :group_name "org.clojars.abhinav", :version "0.1.14-SNAPSHOT", :description "Snitch injects inline defs in your functions and multimethods.\n                This enables a repl-based, editor-agnostic, clojure and clojurescript debugging workflow. \n                It is inline-defs on steroids.", :created 1684213206796}
