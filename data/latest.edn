@@ -1,5 +1,3 @@
-{:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.2.1", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1683581915547}
-{:jar_name "clj-otel-instrumentation-resources", :group_name "com.github.steffan-westcott", :version "0.2.1", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1683581920247}
 {:jar_name "clj-otel-instrumentation-runtime-metrics", :group_name "com.github.steffan-westcott", :version "0.2.1", :description "Provides Clojure wrappers of OpenTelemetry metrics instrumentation of the JVM runtime", :created 1683581924937}
 {:jar_name "xz-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "5.2.6-SNAPSHOT", :description nil, :created 1683583379505}
 {:jar_name "zstd-macosx-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.5.2-SNAPSHOT", :description nil, :created 1683583399505}
@@ -254,3 +252,5 @@
 {:jar_name "hansel", :group_name "com.github.jpmonettas", :version "0.1.58", :description nil, :created 1684258850363}
 {:jar_name "reactive-entity", :group_name "austinbirch", :version "1.0.0", :description nil, :created 1684262315026}
 {:jar_name "iso8583", :group_name "com.oakmac", :version "0.8.0", :description "Parse ISO 8583 messages into Clojure maps and vice versa (updated fork of alpian/clj-iso8583)", :created 1684267170316}
+{:jar_name "string-template", :group_name "com.github.akond", :version "0.0.13", :description "A Clojure wrapper around StringTemplate", :created 1684323699993}
+{:jar_name "unimatrix", :group_name "io.github.phaneesh", :version "1.4.6", :description nil, :created 1684324749661}
