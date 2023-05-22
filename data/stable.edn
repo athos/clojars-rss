@@ -1,5 +1,3 @@
-{:jar_name "dropwizard-actors-ratelimit", :group_name "com.github.phaneesh", :version "2.0.28-4", :description nil, :created 1683561684383}
-{:jar_name "kaocha-cucumber", :group_name "com.lambdaisland", :version "0.11.100", :description "Cucumber support for Kaocha", :created 1683564085800}
 {:jar_name "kaocha-cucumber", :group_name "lambdaisland", :version "0.11.100", :description nil, :created 1683564097770}
 {:jar_name "iso8583", :group_name "com.oakmac", :version "0.6.0", :description "Parse ISO 8583 messages into Clojure maps and vice versa (updated fork of alpian/clj-iso8583)", :created 1683566018227}
 {:jar_name "ken-honeycomb", :group_name "com.amperity", :version "1.1.0", :description "Observability library to integrate ken and honeycomb", :created 1683568727944}
@@ -254,3 +252,5 @@
 {:jar_name "district-server-bundle", :group_name "is.d0x", :version "23.5.22", :description nil, :created 1684761791273}
 {:jar_name "konserve-jdbc", :group_name "org.clojars.timokramer", :version "0.1.80", :description "A generic JDBC backend for konserve.", :created 1684762616163}
 {:jar_name "coldbrew", :group_name "org.clojars.fmnoise", :version "1.2.0", :description "Easy to use Clojure wrappers for Caffeine Caching library", :created 1684769093158}
+{:jar_name "coldbrew", :group_name "org.clojars.fmnoise", :version "1.2.1", :description "Easy to use Clojure wrappers for Caffeine Caching library", :created 1684771552735}
+{:jar_name "clj-bucket4j", :group_name "net.clojars.fr33m0nk", :version "0.1.3", :description "Clojure wrapper for Bucket4J rate-limiting library based on token-bucket algorithm.", :created 1684771648984}
