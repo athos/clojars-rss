@@ -1,4 +1,3 @@
-{:jar_name "portfolio", :group_name "no.cjohansen", :version "2023.05.12", :description "Visual REPL for UI component development", :created 1683869848505}
 {:jar_name "deps.clj", :group_name "borkdude", :version "1.11.1.1273-3", :description "deps.clj: a Clojure port of the clojure bash script", :created 1683888042144}
 {:jar_name "envoy", :group_name "tolitius", :version "0.1.28", :description "a gentle touch of clojure to hashicorp's consul", :created 1683902923714}
 {:jar_name "splint", :group_name "io.github.noahtheduke", :version "1.5.0", :description "Lint Clojure by shape.", :created 1683903118803}
@@ -114,7 +113,6 @@
 {:jar_name "c4k-common-clj", :group_name "org.domaindrivenarchitecture", :version "6.0.2", :description "Contains predicates and tools for c4k", :created 1684486780110}
 {:jar_name "tiny-queue", :group_name "io.spinney", :version "1.0.13", :description "A Clojure implementation of message queue that is based on datomic.", :created 1684488918155}
 {:jar_name "honeyeql", :group_name "org.graphqlize", :version "0.1.0-alpha49", :description "HoneyEQL enables you to query database using the EQL.", :created 1684489020783}
-{:jar_name "k8s-api", :group_name "nubank", :version "0.2.1-SNAPSHOT", :description "A library to talk with kubernetes api", :created 1684495201429}
 {:jar_name "clojure", :group_name "com.github.jpmonettas", :version "1.11.1-3", :description "Clojure core environment and runtime library.", :created 1684497436562}
 {:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.6.0", :description nil, :created 1684497473812}
 {:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.6.0", :description nil, :created 1684497518551}
@@ -254,3 +252,5 @@
 {:jar_name "babashka", :group_name "babashka", :version "1.3.180-SNAPSHOT", :description "babashka", :created 1684947967280}
 {:jar_name "fulcro-rad-semantic-ui", :group_name "com.fulcrologic", :version "1.3.5", :description "A UI plugin for Fulcro RAD that renders to web/electron using Semantic UI CSS", :created 1684961596467}
 {:jar_name "pretty", :group_name "io.aviso", :version "1.4.3", :description nil, :created 1684961944304}
+{:jar_name "k8s-api", :group_name "nubank", :version "0.2.1-SNAPSHOT", :description "A library to talk with kubernetes api", :created 1684962101852}
+{:jar_name "tiara", :group_name "org.clojars.quoll", :version "0.2.0", :description nil, :created 1684964975592}
