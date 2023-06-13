@@ -1,13 +1,3 @@
-{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "3.0", :description nil, :created 1685972571037}
-{:jar_name "virgil", :group_name "com.clojure-goes-fast", :version "0.2.0", :description "", :created 1685974381904}
-{:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.2.2-SNAPSHOT", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1685975809837}
-{:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.2.2-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :created 1685975817206}
-{:jar_name "clj-otel-contrib-aws-resources", :group_name "com.github.steffan-westcott", :version "0.2.2-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1685975825346}
-{:jar_name "clj-otel-contrib-aws-xray-propagator", :group_name "com.github.steffan-westcott", :version "0.2.2-SNAPSHOT", :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :created 1685975832846}
-{:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.2.2-SNAPSHOT", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1685975840296}
-{:jar_name "clj-otel-extension-trace-propagators", :group_name "com.github.steffan-westcott", :version "0.2.2-SNAPSHOT", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1685975847966}
-{:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "com.github.steffan-westcott", :version "0.2.2-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter", :created 1685975855526}
-{:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "com.github.steffan-westcott", :version "0.2.2-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter", :created 1685975863026}
 {:jar_name "clj-otel-exporter-logging", :group_name "com.github.steffan-westcott", :version "0.2.2-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :created 1685975870276}
 {:jar_name "clj-otel-exporter-logging-otlp", :group_name "com.github.steffan-westcott", :version "0.2.2-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1685975877556}
 {:jar_name "clj-otel-exporter-otlp", :group_name "com.github.steffan-westcott", :version "0.2.2-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :created 1685975885556}
@@ -254,3 +244,13 @@
 {:jar_name "deps.clj", :group_name "borkdude", :version "1.11.1.1348-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1686648627837}
 {:jar_name "babashka", :group_name "babashka", :version "1.3.181", :description "babashka", :created 1686649501465}
 {:jar_name "babashka", :group_name "babashka", :version "1.3.182-SNAPSHOT", :description "babashka", :created 1686653143378}
+{:jar_name "clerk", :group_name "io.github.nextjournal", :version "0.14.919", :description nil, :created 1686661706948}
+{:jar_name "clojure", :group_name "com.github.jpmonettas", :version "1.12.0-alpha3_2", :description "Clojure core environment and runtime library.", :created 1686661774957}
+{:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.6.4", :description nil, :created 1686662127652}
+{:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.6.4", :description nil, :created 1686662165402}
+{:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "3.2", :description nil, :created 1686663357647}
+{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "3.2", :description nil, :created 1686663360927}
+{:jar_name "krystal-common", :group_name "com.flipkart.krystal", :version "3.2", :description nil, :created 1686663361187}
+{:jar_name "krystex", :group_name "com.flipkart.krystal", :version "3.2", :description nil, :created 1686663361387}
+{:jar_name "vajram", :group_name "com.flipkart.krystal", :version "3.2", :description nil, :created 1686663361557}
+{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "3.2", :description nil, :created 1686663371347}
