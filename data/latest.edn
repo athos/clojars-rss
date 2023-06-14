@@ -1,20 +1,3 @@
-{:jar_name "clj-otel-instrumentation-resources", :group_name "com.github.steffan-westcott", :version "0.2.2", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1685998964469}
-{:jar_name "clj-otel-instrumentation-runtime-metrics", :group_name "com.github.steffan-westcott", :version "0.2.2", :description "Provides Clojure wrappers of OpenTelemetry metrics instrumentation of the JVM runtime", :created 1685998970939}
-{:jar_name "pubsub-client", :group_name "fi.lupapiste", :version "2.5.2", :description "Common GCP Pub/Sub utils for Lupapiste", :created 1686014667374}
-{:jar_name "ladybird", :group_name "coders-at-work", :version "0.6.8-SNAPSHOT", :description "FIXME: write description", :created 1686028332188}
-{:jar_name "ladybird", :group_name "coders-at-work", :version "0.6.9-SNAPSHOT", :description "FIXME: write description", :created 1686035180241}
-{:jar_name "district-graphql-utils", :group_name "district0x", :version "1.0.12-SNAPSHOT", :description "Set of functions helpful for working with GraphQL", :created 1686035663804}
-{:jar_name "clj-slack", :group_name "org.julienxx", :version "0.8.0", :description "Slack REST API wrapper", :created 1686040960896}
-{:jar_name "active-logger", :group_name "de.active-group", :version "0.12.2", :description "Active Logger: Utilities and DSL for logging on top of Timbre.", :created 1686045032874}
-{:jar_name "hansel", :group_name "com.github.jpmonettas", :version "0.1.63", :description nil, :created 1686047289075}
-{:jar_name "district-graphql-utils", :group_name "district0x", :version "1.0.12", :description "Set of functions helpful for working with GraphQL", :created 1686047296955}
-{:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.6.3", :description nil, :created 1686051399542}
-{:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.6.3", :description nil, :created 1686051439601}
-{:jar_name "active-logger", :group_name "de.active-group", :version "0.13-SNAPSHOT", :description "Active Logger: Utilities and DSL for logging on top of Timbre.", :created 1686052879193}
-{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.66", :description nil, :created 1686055780306}
-{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.66", :description nil, :created 1686055788066}
-{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.66", :description nil, :created 1686055794846}
-{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.66", :description nil, :created 1686055802266}
 {:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.66", :description nil, :created 1686055809676}
 {:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.66", :description nil, :created 1686055816876}
 {:jar_name "parsesso", :group_name "com.github.strojure", :version "1.2.2+295", :description "Parser combinators library for Clojure(Script).", :created 1686059710159}
@@ -254,3 +237,20 @@
 {:jar_name "smile", :group_name "org.clojars.haifengl", :version "3.0.2", :description "Smile - Statistical Machine Intelligence and Learning Engine", :created 1686744868270}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.06.02-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1686745136765}
 {:jar_name "lein-template", :group_name "xiana", :version "0.5.0.7", :description "A Leiningen template for flexiana/framework v0.5.0-rc4", :created 1686747368711}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.7.0-alpha5", :description "Snappy data-driven router for Clojure(Script)", :created 1686748067972}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.7.0-alpha5", :description "Snappy data-driven router for Clojure(Script)", :created 1686748078442}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: clojure.spec coercion", :created 1686748088392}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Malli coercion", :created 1686748098862}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Plumatic Schema coercion", :created 1686748107402}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Ring routing", :created 1686748115202}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit, common middleware bundled", :created 1686748126372}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: HTTP routing with interceptors", :created 1686748134752}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit, common interceptors bundled", :created 1686748144232}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Swagger-support", :created 1686748153801}
+{:jar_name "reitit-openapi", :group_name "fi.metosin", :version "0.7.0-alpha5", :description "Reitit: OpenAPI-support", :created 1686748162641}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Swagger-ui support", :created 1686748172901}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Clojurescript frontend routing core", :created 1686748182181}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Sieppari Interceptors", :created 1686748191461}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit + Pedestal Integration", :created 1686748203981}
+{:jar_name "reitit", :group_name "metosin", :version "0.7.0-alpha5", :description "Snappy data-driven router for Clojure(Script)", :created 1686748226401}
+{:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.118", :description "Simply Core Libs", :created 1686749988589}

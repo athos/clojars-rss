@@ -1,20 +1,3 @@
-{:jar_name "hermes", :group_name "com.eldrix", :version "1.2.1208", :description nil, :created 1685779119429}
-{:jar_name "stasis", :group_name "stasis", :version "2023.06.03", :description "A library of tools for creating static websites.", :created 1685785174408}
-{:jar_name "bulbo-clojjins", :group_name "org.clojars.patbrown", :version "0.1.0", :description nil, :created 1685804552623}
-{:jar_name "clj-exrange", :group_name "com.github.dazumaya", :version "0.1.0", :description "clj-exrange expands glob-like text patterns.", :created 1685806231865}
-{:jar_name "iggy-clojalea", :group_name "org.clojars.patbrown", :version "0.1.0", :description nil, :created 1685817887446}
-{:jar_name "cybermonday", :group_name "com.kiranshila", :version "0.5.205", :description nil, :created 1685821285531}
-{:jar_name "cellar", :group_name "io.github.yokalona", :version "0.1.5", :description "Cellar: smallest ORM possible", :created 1685825063443}
-{:jar_name "cybermonday", :group_name "com.kiranshila", :version "0.5.210", :description nil, :created 1685825751665}
-{:jar_name "aloop", :group_name "io.github.yokalona", :version "1.1.2", :description "Set of useful macros and functions", :created 1685826120232}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha24", :description "FIXME: my new library.", :created 1685829534877}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha25", :description "FIXME: my new library.", :created 1685832689334}
-{:jar_name "cybermonday", :group_name "com.kiranshila", :version "0.5.211", :description nil, :created 1685836127887}
-{:jar_name "cybermonday", :group_name "com.kiranshila", :version "0.6.213", :description nil, :created 1685844147903}
-{:jar_name "long-thread", :group_name "miikka", :version "0.3.1", :description "Long-running threads in your Clojure", :created 1685864720990}
-{:jar_name "sentry-clj", :group_name "io.sentry", :version "6.21.196", :description "A very thin wrapper around the official Java library for Sentry.", :created 1685871909031}
-{:jar_name "aloop", :group_name "io.github.yokalona", :version "1.1.3", :description "Set of useful macros and functions", :created 1685873643069}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha26", :description "FIXME: my new library.", :created 1685875856991}
 {:jar_name "cellar", :group_name "io.github.yokalona", :version "0.1.6", :description "Cellar: smallest ORM possible", :created 1685877122745}
 {:jar_name "deps-template", :group_name "io.github.kit-clj", :version "0.1.41", :description nil, :created 1685882097881}
 {:jar_name "lein-template", :group_name "io.github.kit-clj", :version "0.1.41", :description nil, :created 1685882113685}
@@ -254,3 +237,20 @@
 {:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.69", :description nil, :created 1686734264480}
 {:jar_name "smile", :group_name "org.clojars.haifengl", :version "3.0.2", :description "Smile - Statistical Machine Intelligence and Learning Engine", :created 1686744868270}
 {:jar_name "lein-template", :group_name "xiana", :version "0.5.0.7", :description "A Leiningen template for flexiana/framework v0.5.0-rc4", :created 1686747368711}
+{:jar_name "reitit-core", :group_name "metosin", :version "0.7.0-alpha5", :description "Snappy data-driven router for Clojure(Script)", :created 1686748067972}
+{:jar_name "reitit-dev", :group_name "metosin", :version "0.7.0-alpha5", :description "Snappy data-driven router for Clojure(Script)", :created 1686748078442}
+{:jar_name "reitit-spec", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: clojure.spec coercion", :created 1686748088392}
+{:jar_name "reitit-malli", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Malli coercion", :created 1686748098862}
+{:jar_name "reitit-schema", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Plumatic Schema coercion", :created 1686748107402}
+{:jar_name "reitit-ring", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Ring routing", :created 1686748115202}
+{:jar_name "reitit-middleware", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit, common middleware bundled", :created 1686748126372}
+{:jar_name "reitit-http", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: HTTP routing with interceptors", :created 1686748134752}
+{:jar_name "reitit-interceptors", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit, common interceptors bundled", :created 1686748144232}
+{:jar_name "reitit-swagger", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Swagger-support", :created 1686748153801}
+{:jar_name "reitit-openapi", :group_name "fi.metosin", :version "0.7.0-alpha5", :description "Reitit: OpenAPI-support", :created 1686748162641}
+{:jar_name "reitit-swagger-ui", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Swagger-ui support", :created 1686748172901}
+{:jar_name "reitit-frontend", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Clojurescript frontend routing core", :created 1686748182181}
+{:jar_name "reitit-sieppari", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit: Sieppari Interceptors", :created 1686748191461}
+{:jar_name "reitit-pedestal", :group_name "metosin", :version "0.7.0-alpha5", :description "Reitit + Pedestal Integration", :created 1686748203981}
+{:jar_name "reitit", :group_name "metosin", :version "0.7.0-alpha5", :description "Snappy data-driven router for Clojure(Script)", :created 1686748226401}
+{:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.118", :description "Simply Core Libs", :created 1686749988589}
