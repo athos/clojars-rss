@@ -1,5 +1,3 @@
-{:jar_name "components", :group_name "com.intception", :version "0.1.38", :description "Reusable services implementation following the components pattern", :created 1685985213968}
-{:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.2.2", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1685998887810}
 {:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.2.2", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :created 1685998893800}
 {:jar_name "clj-otel-contrib-aws-resources", :group_name "com.github.steffan-westcott", :version "0.2.2", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1685998899510}
 {:jar_name "clj-otel-contrib-aws-xray-propagator", :group_name "com.github.steffan-westcott", :version "0.2.2", :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :created 1685998905900}
@@ -254,3 +252,5 @@
 {:jar_name "gloss", :group_name "org.clj-commons", :version "0.3.6", :description "Speaks in bytes, so that you don't have to", :created 1686822947345}
 {:jar_name "mania", :group_name "com.exoscale", :version "1.0.8", :description "Our generic service/program entrypoints", :created 1686824779922}
 {:jar_name "vinyl", :group_name "com.exoscale", :version "0.1.22", :description nil, :created 1686830281644}
+{:jar_name "vald-client-clj", :group_name "vald-client-clj", :version "v1.7.6.Rev2", :description "A client library for Vald.", :created 1686834734180}
+{:jar_name "backend-sdk", :group_name "com.roamresearch", :version "0.0.4", :description nil, :created 1686836028125}
