@@ -1,8 +1,3 @@
-{:jar_name "openai-clojure", :group_name "net.clojars.wkok", :version "0.6.1", :description "Clojure functions to drive the OpenAI API", :created 1686157669822}
-{:jar_name "db", :group_name "com.fluree", :version "2.0.1", :description nil, :created 1686160940135}
-{:jar_name "zprint", :group_name "zprint", :version "1.2.7", :description "Pretty print Clojure source and s-expressions", :created 1686165660423}
-{:jar_name "retroact", :group_name "com.insilicalabs", :version "0.2.5", :description "Functional reactive programing for legacy applications. Supports Java Swing, uses Clojure as the main language, and considers the view as a function of state.", :created 1686166110638}
-{:jar_name "malli-cli", :group_name "com.github.piotr-yuxuan", :version "2.1.0", :description "Command-line interface from the comfort of a metosin/malli schema", :created 1686166241547}
 {:jar_name "lein-zprint", :group_name "lein-zprint", :version "1.2.7", :description "Run zprint to pretty print source files in your project.", :created 1686166539403}
 {:jar_name "malli-cli", :group_name "com.github.piotr-yuxuan", :version "2.1.2", :description "Configuration powertool with `metosin/malli`", :created 1686170482360}
 {:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.68", :description nil, :created 1686171671207}
@@ -254,3 +249,8 @@
 {:jar_name "salutem.check-fns.http-endpoint", :group_name "io.logicblocks", :version "0.1.8-RC6", :description "An HTTP endpoint check function for salutem.", :created 1687098937716}
 {:jar_name "salutem.check-fns", :group_name "io.logicblocks", :version "0.1.8-RC6", :description "A set of standard check functions for salutem.", :created 1687098948046}
 {:jar_name "salutem", :group_name "io.logicblocks", :version "0.1.8-RC6", :description "Aggregate project for all salutem modules.", :created 1687098957736}
+{:jar_name "salutem.core", :group_name "io.logicblocks", :version "0.1.8", :description "A health check library for sync / async health checks.", :created 1687103860202}
+{:jar_name "salutem.check-fns.data-source", :group_name "io.logicblocks", :version "0.1.8", :description "A data source check function for salutem.", :created 1687103867672}
+{:jar_name "salutem.check-fns.http-endpoint", :group_name "io.logicblocks", :version "0.1.8", :description "An HTTP endpoint check function for salutem.", :created 1687103875522}
+{:jar_name "salutem.check-fns", :group_name "io.logicblocks", :version "0.1.8", :description "A set of standard check functions for salutem.", :created 1687103883011}
+{:jar_name "salutem", :group_name "io.logicblocks", :version "0.1.8", :description "Aggregate project for all salutem modules.", :created 1687103890581}
