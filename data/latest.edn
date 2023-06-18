@@ -1,11 +1,3 @@
-{:jar_name "manifold3d", :group_name "org.clojars.cartesiantheatrics", :version "1.0.8", :description nil, :created 1686380133561}
-{:jar_name "clj-manifold3d", :group_name "org.clojars.cartesiantheatrics", :version "0.0.11", :description nil, :created 1686380437857}
-{:jar_name "lein-template", :group_name "xiana", :version "0.5.0.4", :description "A Leiningen template for flexiana/framework v0.5.0-rc4", :created 1686391171151}
-{:jar_name "lein-template", :group_name "xiana", :version "0.5.0.6", :description "A Leiningen template for flexiana/framework v0.5.0-rc4", :created 1686393053066}
-{:jar_name "real-name", :group_name "org.clojars.simon_brooke", :version "1.0.0", :description "Resolve real names from user names in a platform independent fashion.", :created 1686395525174}
-{:jar_name "real-name", :group_name "org.clojars.simon_brooke", :version "1.0.1", :description "Resolve real names from user names in a platform independent fashion.", :created 1686400164771}
-{:jar_name "tui", :group_name "me.pmatiello", :version "0.2.0", :description nil, :created 1686406363522}
-{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.18", :description "A structured logging abstraction with multiple backends.", :created 1686407776856}
 {:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.18", :description "A cambium backend for cartus.", :created 1686407784546}
 {:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.18", :description "A null backend for cartus.", :created 1686407792426}
 {:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.18", :description "A test backend for cartus.", :created 1686407800156}
@@ -254,3 +246,11 @@
 {:jar_name "clj-otel-exporter-prometheus", :group_name "com.github.steffan-westcott", :version "0.2.3-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter", :created 1687096815400}
 {:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.2.3-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1687096828850}
 {:jar_name "clj-otel-instrumentation-resources", :group_name "com.github.steffan-westcott", :version "0.2.3-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1687096844810}
+{:jar_name "clj-otel-instrumentation-runtime-telemetry-java8", :group_name "com.github.steffan-westcott", :version "0.2.3-SNAPSHOT", :description "Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 8+", :created 1687096861039}
+{:jar_name "clj-otel-instrumentation-runtime-telemetry-java17", :group_name "com.github.steffan-westcott", :version "0.2.3-SNAPSHOT", :description "Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 17+", :created 1687096878009}
+{:jar_name "ib-re-actor-976-plus", :group_name "ib-re-actor-976-plus", :version "0.1.83-SNAPSHOT", :description "Clojure friendly wrapper for Interactive Brokers Java API", :created 1687097959587}
+{:jar_name "salutem.core", :group_name "io.logicblocks", :version "0.1.8-RC6", :description "A health check library for sync / async health checks.", :created 1687098919846}
+{:jar_name "salutem.check-fns.data-source", :group_name "io.logicblocks", :version "0.1.8-RC6", :description "A data source check function for salutem.", :created 1687098929466}
+{:jar_name "salutem.check-fns.http-endpoint", :group_name "io.logicblocks", :version "0.1.8-RC6", :description "An HTTP endpoint check function for salutem.", :created 1687098937716}
+{:jar_name "salutem.check-fns", :group_name "io.logicblocks", :version "0.1.8-RC6", :description "A set of standard check functions for salutem.", :created 1687098948046}
+{:jar_name "salutem", :group_name "io.logicblocks", :version "0.1.8-RC6", :description "Aggregate project for all salutem modules.", :created 1687098957736}
