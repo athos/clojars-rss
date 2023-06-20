@@ -1,14 +1,3 @@
-{:jar_name "blocks-httpkit", :group_name "ch.codesmith", :version "0.9.96", :description nil, :created 1686513999047}
-{:jar_name "blocks-jdbc-dev", :group_name "ch.codesmith", :version "0.9.96", :description nil, :created 1686514006645}
-{:jar_name "component.jdbc-data-source.postgres", :group_name "io.logicblocks", :version "0.1.2", :description "A component providing a pooled postgres JDBC data source.", :created 1686514407116}
-{:jar_name "configurati", :group_name "io.logicblocks", :version "0.5.6-RC2", :description "Define and resolve application configuration.", :created 1686517977826}
-{:jar_name "structor", :group_name "com.7theta", :version "2.6.1", :description "Builds for 7theta projects", :created 1686522956700}
-{:jar_name "brewtility", :group_name "com.wallbrew", :version "2.0.0", :description "Utility functions for all of your brewing needs.", :created 1686536826166}
-{:jar_name "adapters", :group_name "com.vadelabs", :version "2023.06.12-807", :description nil, :created 1686538338018}
-{:jar_name "workflows", :group_name "com.vadelabs", :version "2023.06.12-807", :description nil, :created 1686538351368}
-{:jar_name "datasources", :group_name "com.vadelabs", :version "2023.06.12-807", :description nil, :created 1686538363698}
-{:jar_name "turbo", :group_name "com.vadelabs", :version "2023.06.12-807", :description nil, :created 1686538377768}
-{:jar_name "utils", :group_name "com.vadelabs", :version "2023.06.12-807", :description nil, :created 1686538392238}
 {:jar_name "brevo", :group_name "com.avisi-apps.gaps", :version "0.0.74", :description nil, :created 1686558355843}
 {:jar_name "rollbar", :group_name "com.avisi-apps.gaps", :version "0.0.74", :description nil, :created 1686558381214}
 {:jar_name "jason", :group_name "io.logicblocks", :version "1.0.0-RC7", :description "Factory functions around jsonista, mostly for key conversion.", :created 1686560255783}
@@ -185,7 +174,6 @@
 {:jar_name "antq", :group_name "com.github.liquidz", :version "2.5.1095", :description "Point out your outdated dependencies", :created 1687039412068}
 {:jar_name "ir-interface", :group_name "dev.goodpay", :version "0.0.2", :description nil, :created 1687047917465}
 {:jar_name "expectations", :group_name "com.github.seancorfield", :version "2.0.999-SNAPSHOT", :description "A clojure.test-compatible version of the classic Expectations testing library.", :created 1687048798212}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1687049512620}
 {:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1687050262432}
 {:jar_name "artlib-core", :group_name "com.dedovic", :version "0.0.6", :description "Utilities for making generative art", :created 1687093651137}
 {:jar_name "ir-interface", :group_name "dev.goodpay", :version "1.0.0", :description nil, :created 1687095624114}
@@ -254,3 +242,15 @@
 {:jar_name "clj-pnm", :group_name "org.theparanoidtimes", :version "0.2.0", :description "A Clojure(Script) library for reading and writing Netpbm format", :created 1687266926740}
 {:jar_name "pocketsmith-api", :group_name "com.github.crinklywrappr", :version "1.0.37", :description "Small library for interacting with Pocketsmith using their REST API.", :created 1687273261151}
 {:jar_name "cli", :group_name "org.babashka", :version "0.7.52", :description "Turn Clojure functions into CLIs!", :created 1687273868504}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1687288511504}
+{:jar_name "martian", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "Client routing for Swagger APIs", :created 1687289618542}
+{:jar_name "martian-babashka-http-client", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "babashka http-client implementation for martian", :created 1687289648972}
+{:jar_name "martian-clj-http-lite", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "clj-http-lite implementation for martian", :created 1687289671651}
+{:jar_name "martian-clj-http", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "clj-http implementation for martian", :created 1687289690411}
+{:jar_name "martian-vcr", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "Recording and playback for Martian", :created 1687289711231}
+{:jar_name "martian-hato", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "hato implementation for martian", :created 1687289731551}
+{:jar_name "martian-httpkit", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "httpkit implementation for martian", :created 1687289749100}
+{:jar_name "martian-test", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "Testing tools for martian", :created 1687289769530}
+{:jar_name "martian-cljs-http-promise", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "cljs-http-promise implementation for martian", :created 1687289789960}
+{:jar_name "martian-cljs-http", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "cljs-http implementation for martian", :created 1687289811220}
+{:jar_name "martian-re-frame", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "re-frame bindings for martian", :created 1687289834560}
