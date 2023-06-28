@@ -1,21 +1,3 @@
-{:jar_name "structor", :group_name "com.7theta", :version "2.6.2", :description "Builds for 7theta projects", :created 1687190990002}
-{:jar_name "fides", :group_name "com.7theta", :version "0.8.0", :description "A library for managing certificates and trust stores", :created 1687195272480}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha28", :description "FIXME: my new library.", :created 1687196614936}
-{:jar_name "artlib-core", :group_name "com.dedovic", :version "0.0.8", :description "Utilities for making generative art", :created 1687196983682}
-{:jar_name "structor", :group_name "com.7theta", :version "2.7.0", :description "Builds for 7theta projects", :created 1687203665308}
-{:jar_name "http.server", :group_name "house.jux", :version "2023.06.19.16.57", :description "Server with some request handling functionalities.", :created 1687204747686}
-{:jar_name "http.jetty-wrapper", :group_name "house.jux", :version "2023.06.19", :description "Wraps jetty server", :created 1687206110221}
-{:jar_name "core", :group_name "macchiato", :version "0.2.24", :description "ClojureScript Ring style HTTP server abstraction for Node.js.", :created 1687213186755}
-{:jar_name "ablauf", :group_name "exoscale", :version "0.3.4", :description "long-running workflow management", :created 1687246024810}
-{:jar_name "servo", :group_name "com.7theta", :version "5.0.4", :description "A rehinkdb client library designed to integrate with signum", :created 1687254064511}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.23.6", :description "CLJS development tools", :created 1687258161466}
-{:jar_name "vectio", :group_name "com.7theta", :version "1.1.0", :description "A stream-based transport layer.", :created 1687263973555}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.23.8", :description "CLJS development tools", :created 1687264601880}
-{:jar_name "clj-pnm", :group_name "org.theparanoidtimes", :version "0.2.0", :description "A Clojure(Script) library for reading and writing Netpbm format", :created 1687266926740}
-{:jar_name "pocketsmith-api", :group_name "com.github.crinklywrappr", :version "1.0.37", :description "Small library for interacting with Pocketsmith using their REST API.", :created 1687273261151}
-{:jar_name "cli", :group_name "org.babashka", :version "0.7.52", :description "Turn Clojure functions into CLIs!", :created 1687273868504}
-{:jar_name "martian", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "Client routing for Swagger APIs", :created 1687289618542}
-{:jar_name "martian-babashka-http-client", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "babashka http-client implementation for martian", :created 1687289648972}
 {:jar_name "martian-clj-http-lite", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "clj-http-lite implementation for martian", :created 1687289671651}
 {:jar_name "martian-clj-http", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "clj-http implementation for martian", :created 1687289690411}
 {:jar_name "martian-vcr", :group_name "com.github.oliyh", :version "0.1.24-SNAPSHOT", :description "Recording and playback for Martian", :created 1687289711231}
@@ -208,9 +190,7 @@
 {:jar_name "pathetic", :group_name "com.yetanalytics", :version "0.5.0-SNAPSHOT", :description nil, :created 1687895116714}
 {:jar_name "membrane", :group_name "com.phronemophobic", :version "0.13.1-beta", :description nil, :created 1687895789146}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "7.0.0", :description "", :created 1687897404101}
-{:jar_name "bzip2-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.0.8-SNAPSHOT", :description nil, :created 1687901815100}
 {:jar_name "c-ares-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.19.1-SNAPSHOT", :description nil, :created 1687901824580}
-{:jar_name "ca-certificates-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2023.5.7-SNAPSHOT", :description nil, :created 1687901833549}
 {:jar_name "font-ttf-dejavu-sans-mono-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.37-SNAPSHOT", :description nil, :created 1687901842329}
 {:jar_name "font-ttf-inconsolata-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "3.000-SNAPSHOT", :description nil, :created 1687901851159}
 {:jar_name "font-ttf-source-code-pro-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.038-SNAPSHOT", :description nil, :created 1687901859919}
@@ -221,13 +201,10 @@
 {:jar_name "libcxx-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "16.0.6-SNAPSHOT", :description nil, :created 1687901918869}
 {:jar_name "libdeflate-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.18-SNAPSHOT", :description nil, :created 1687901928188}
 {:jar_name "libev-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "4.33-SNAPSHOT", :description nil, :created 1687901937178}
-{:jar_name "libexpat-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.5.0-SNAPSHOT", :description nil, :created 1687901946178}
-{:jar_name "libffi-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "3.4.2-SNAPSHOT", :description nil, :created 1687901955048}
 {:jar_name "libiconv-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.17-SNAPSHOT", :description nil, :created 1687901964038}
 {:jar_name "libjpeg-turbo-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.1.5.1-SNAPSHOT", :description nil, :created 1687901976248}
 {:jar_name "libtool-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.4.7-SNAPSHOT", :description nil, :created 1687901985658}
 {:jar_name "libwebp-base-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.3.0-SNAPSHOT", :description nil, :created 1687901994278}
-{:jar_name "libzlib-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.2.13-SNAPSHOT", :description nil, :created 1687902003528}
 {:jar_name "poppler-data-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "0.4.12-SNAPSHOT", :description nil, :created 1687902030797}
 {:jar_name "fonts-conda-forge-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "1-SNAPSHOT", :description nil, :created 1687902066427}
 {:jar_name "gettext-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "0.21.1-SNAPSHOT", :description nil, :created 1687902075307}
@@ -254,3 +231,26 @@
 {:jar_name "glib-tools-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.76.3-SNAPSHOT", :description nil, :created 1687902332214}
 {:jar_name "gts-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "0.7.6-SNAPSHOT", :description nil, :created 1687902340814}
 {:jar_name "openjpeg-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.5.0-SNAPSHOT", :description nil, :created 1687902376923}
+{:jar_name "cairo-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.16.0-SNAPSHOT", :description nil, :created 1687902405823}
+{:jar_name "glib-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.76.3-SNAPSHOT", :description nil, :created 1687902415513}
+{:jar_name "libgd-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.3.3-SNAPSHOT", :description nil, :created 1687902424273}
+{:jar_name "harfbuzz-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "7.3.0-SNAPSHOT", :description nil, :created 1687902451463}
+{:jar_name "poppler-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "23.05.0-SNAPSHOT", :description nil, :created 1687902461553}
+{:jar_name "pango-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.50.14-SNAPSHOT", :description nil, :created 1687902471582}
+{:jar_name "librsvg-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.56.1-SNAPSHOT", :description nil, :created 1687902480772}
+{:jar_name "graphviz-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.50.0-SNAPSHOT", :description nil, :created 1687902491172}
+{:jar_name "bzip2-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.0.8-SNAPSHOT", :description nil, :created 1687905687567}
+{:jar_name "ca-certificates-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2023.5.7-SNAPSHOT", :description nil, :created 1687905696947}
+{:jar_name "libexpat-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2.5.0-SNAPSHOT", :description nil, :created 1687905706197}
+{:jar_name "libffi-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "3.4.2-SNAPSHOT", :description nil, :created 1687905715206}
+{:jar_name "libzlib-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "1.2.13-SNAPSHOT", :description nil, :created 1687905724586}
+{:jar_name "ncurses-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "6.4-SNAPSHOT", :description nil, :created 1687905733686}
+{:jar_name "tzdata-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "2023c-SNAPSHOT", :description nil, :created 1687905743036}
+{:jar_name "libsqlite-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "3.42.0-SNAPSHOT", :description nil, :created 1687905760826}
+{:jar_name "openssl-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "3.1.1-SNAPSHOT", :description nil, :created 1687905770836}
+{:jar_name "readline-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "8.2-SNAPSHOT", :description nil, :created 1687905781536}
+{:jar_name "python-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "3.11.4-SNAPSHOT", :description nil, :created 1687905802165}
+{:jar_name "setuptools-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "68.0.0-SNAPSHOT", :description nil, :created 1687905819735}
+{:jar_name "bytebuffer", :group_name "org.bytebuffer", :version "0.2.1", :description nil, :created 1687910167327}
+{:jar_name "aucom", :group_name "org.aucom", :version "1.1", :description nil, :created 1687910303865}
+{:jar_name "muplayer", :group_name "org.orangeplayer", :version "3.2.1", :description nil, :created 1687910631572}
