@@ -1,7 +1,3 @@
-{:jar_name "diceware", :group_name "org.clojars.slr71", :version "0.0.1-SNAPSHOT", :description "A small utility to generate Diceware passwords.", :created 1687460234208}
-{:jar_name "utilis", :group_name "com.7theta", :version "2.6.0", :description "Library of common utilities used in 7theta projects", :created 1687461316426}
-{:jar_name "fides", :group_name "com.7theta", :version "1.0.0", :description "A library for managing certificates and trust stores", :created 1687464539010}
-{:jar_name "vectio", :group_name "com.7theta", :version "1.3.0", :description "A stream-based transport layer.", :created 1687464614953}
 {:jar_name "clj-jgit", :group_name "clj-jgit", :version "1.1.0-SNAPSHOT", :description "Clojure wrapper for JGit", :created 1687465302758}
 {:jar_name "diceware", :group_name "org.clojars.slr71", :version "0.0.2-SNAPSHOT", :description "A small utility to generate Diceware passwords.", :created 1687465935522}
 {:jar_name "pretty", :group_name "org.clj-commons", :version "2.0-beta-1", :description nil, :created 1687474304710}
@@ -231,26 +227,30 @@
 {:jar_name "gp-clj-helpers", :group_name "org.clojars.prince", :version "0.1.17", :description nil, :created 1687989553611}
 {:jar_name "syringe", :group_name "waffletower", :version "0.6.0", :description "Clojure code suitable for dev profile injection", :created 1687991707818}
 {:jar_name "clong", :group_name "com.phronemophobic", :version "1.0", :description nil, :created 1687992129643}
-{:jar_name "cljonda-core", :group_name "com.phronemophobic", :version "1.0-SNAPSHOT", :description nil, :created 1687993420479}
-{:jar_name "_libgcc_mutex-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.1-SNAPSHOT", :description nil, :created 1687993936954}
-{:jar_name "font-ttf-dejavu-sans-mono-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.37-SNAPSHOT", :description nil, :created 1687993944354}
-{:jar_name "font-ttf-inconsolata-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "3.000-SNAPSHOT", :description nil, :created 1687993951504}
-{:jar_name "font-ttf-source-code-pro-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.038-SNAPSHOT", :description nil, :created 1687993958724}
-{:jar_name "font-ttf-ubuntu-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.83-SNAPSHOT", :description nil, :created 1687993966214}
-{:jar_name "libstdcxx-ng-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "13.1.0-SNAPSHOT", :description nil, :created 1687993973193}
-{:jar_name "fonts-conda-forge-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1-SNAPSHOT", :description nil, :created 1687993981093}
-{:jar_name "libgomp-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "13.1.0-SNAPSHOT", :description nil, :created 1687993987853}
-{:jar_name "_openmp_mutex-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "4.5-SNAPSHOT", :description nil, :created 1687993995523}
-{:jar_name "fonts-conda-ecosystem-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1-SNAPSHOT", :description nil, :created 1687994002773}
-{:jar_name "libgcc-ng-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "13.1.0-SNAPSHOT", :description nil, :created 1687994009913}
-{:jar_name "bzip2-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.0.8-SNAPSHOT", :description nil, :created 1687994017493}
-{:jar_name "gettext-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.21.1-SNAPSHOT", :description nil, :created 1687994032013}
-{:jar_name "icu-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "72.1-SNAPSHOT", :description nil, :created 1687994053763}
-{:jar_name "libexpat-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.5.0-SNAPSHOT", :description nil, :created 1687994076262}
-{:jar_name "libffi-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "3.4.2-SNAPSHOT", :description nil, :created 1687994083912}
-{:jar_name "libiconv-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.17-SNAPSHOT", :description nil, :created 1687994091412}
 {:jar_name "xorg-kbproto-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.0.7-SNAPSHOT", :description nil, :created 1687994150342}
 {:jar_name "xorg-libxau-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.0.11-SNAPSHOT", :description nil, :created 1687994165021}
 {:jar_name "xorg-libxdmcp-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.1.3-SNAPSHOT", :description nil, :created 1687994172021}
 {:jar_name "common-clj", :group_name "net.clojars.macielti", :version "19.27.34", :description "Just common Clojure code that I use across projects", :created 1687994433589}
 {:jar_name "via", :group_name "com.7theta", :version "12.7.0", :description "A library for WebSocket based messaging", :created 1687994437839}
+{:jar_name "analytics-client", :group_name "puppetlabs", :version "1.2.1", :description "A library for submitting metrics to the trapperkeeper analytics service.", :created 1687999776490}
+{:jar_name "analytics", :group_name "puppetlabs", :version "1.1.3", :description "Analytics service for Puppet", :created 1687999909939}
+{:jar_name "cljonda-core", :group_name "com.phronemophobic", :version "1.0-SNAPSHOT", :description nil, :created 1688000961567}
+{:jar_name "_libgcc_mutex-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.1-SNAPSHOT", :description nil, :created 1688001212493}
+{:jar_name "font-ttf-dejavu-sans-mono-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.37-SNAPSHOT", :description nil, :created 1688001218733}
+{:jar_name "font-ttf-inconsolata-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "3.000-SNAPSHOT", :description nil, :created 1688001225372}
+{:jar_name "font-ttf-source-code-pro-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.038-SNAPSHOT", :description nil, :created 1688001231782}
+{:jar_name "font-ttf-ubuntu-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.83-SNAPSHOT", :description nil, :created 1688001237842}
+{:jar_name "libstdcxx-ng-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "13.1.0-SNAPSHOT", :description nil, :created 1688001244292}
+{:jar_name "fonts-conda-forge-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1-SNAPSHOT", :description nil, :created 1688001251362}
+{:jar_name "libgomp-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "13.1.0-SNAPSHOT", :description nil, :created 1688001257702}
+{:jar_name "_openmp_mutex-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "4.5-SNAPSHOT", :description nil, :created 1688001264082}
+{:jar_name "fonts-conda-ecosystem-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1-SNAPSHOT", :description nil, :created 1688001270252}
+{:jar_name "libgcc-ng-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "13.1.0-SNAPSHOT", :description nil, :created 1688001277052}
+{:jar_name "bzip2-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.0.8-SNAPSHOT", :description nil, :created 1688001283332}
+{:jar_name "gettext-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.21.1-SNAPSHOT", :description nil, :created 1688001295812}
+{:jar_name "icu-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "72.1-SNAPSHOT", :description nil, :created 1688001317301}
+{:jar_name "libexpat-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.5.0-SNAPSHOT", :description nil, :created 1688001336991}
+{:jar_name "libffi-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "3.4.2-SNAPSHOT", :description nil, :created 1688001343351}
+{:jar_name "libiconv-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.17-SNAPSHOT", :description nil, :created 1688001349871}
+{:jar_name "libuuid-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.38.1-SNAPSHOT", :description nil, :created 1688001369411}
+{:jar_name "pthread-stubs-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.4-SNAPSHOT", :description nil, :created 1688001398011}
