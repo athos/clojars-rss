@@ -1,27 +1,3 @@
-{:jar_name "clj-otel-contrib-aws-xray-propagator", :group_name "com.github.steffan-westcott", :version "0.2.3", :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :created 1687122991774}
-{:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.2.3", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1687122999464}
-{:jar_name "clj-otel-extension-trace-propagators", :group_name "com.github.steffan-westcott", :version "0.2.3", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1687123007894}
-{:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "com.github.steffan-westcott", :version "0.2.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter", :created 1687123015244}
-{:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "com.github.steffan-westcott", :version "0.2.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter", :created 1687123024074}
-{:jar_name "clj-otel-exporter-logging", :group_name "com.github.steffan-westcott", :version "0.2.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :created 1687123031304}
-{:jar_name "clj-otel-exporter-logging-otlp", :group_name "com.github.steffan-westcott", :version "0.2.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1687123040523}
-{:jar_name "clj-otel-exporter-otlp", :group_name "com.github.steffan-westcott", :version "0.2.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :created 1687123047983}
-{:jar_name "clj-otel-exporter-prometheus", :group_name "com.github.steffan-westcott", :version "0.2.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter", :created 1687123054293}
-{:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.2.3", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1687123061933}
-{:jar_name "clj-otel-instrumentation-resources", :group_name "com.github.steffan-westcott", :version "0.2.3", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1687123071053}
-{:jar_name "clj-otel-instrumentation-runtime-telemetry-java8", :group_name "com.github.steffan-westcott", :version "0.2.3", :description "Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 8+", :created 1687123079533}
-{:jar_name "clj-otel-instrumentation-runtime-telemetry-java17", :group_name "com.github.steffan-westcott", :version "0.2.3", :description "Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 17+", :created 1687123088543}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.23.5", :description "CLJS development tools", :created 1687174793953}
-{:jar_name "electric", :group_name "com.hyperfiddle", :version "v2-alpha-349-ge9996713", :description nil, :created 1687184226494}
-{:jar_name "pocketsmith-api", :group_name "com.github.crinklywrappr", :version "1.0.35", :description "Small library for interacting with Pocketsmith using their REST API.", :created 1687187863993}
-{:jar_name "cljest", :group_name "com.pitch", :version "1.1.4", :description nil, :created 1687188100300}
-{:jar_name "structor", :group_name "com.7theta", :version "2.6.2", :description "Builds for 7theta projects", :created 1687190990002}
-{:jar_name "fides", :group_name "com.7theta", :version "0.8.0", :description "A library for managing certificates and trust stores", :created 1687195272480}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha28", :description "FIXME: my new library.", :created 1687196614936}
-{:jar_name "artlib-core", :group_name "com.dedovic", :version "0.0.8", :description "Utilities for making generative art", :created 1687196983682}
-{:jar_name "structor", :group_name "com.7theta", :version "2.7.0", :description "Builds for 7theta projects", :created 1687203665308}
-{:jar_name "http.server", :group_name "house.jux", :version "2023.06.19.16.57", :description "Server with some request handling functionalities.", :created 1687204747686}
-{:jar_name "http.jetty-wrapper", :group_name "house.jux", :version "2023.06.19", :description "Wraps jetty server", :created 1687206110221}
 {:jar_name "core", :group_name "macchiato", :version "0.2.24", :description "ClojureScript Ring style HTTP server abstraction for Node.js.", :created 1687213186755}
 {:jar_name "ablauf", :group_name "exoscale", :version "0.3.4", :description "long-running workflow management", :created 1687246024810}
 {:jar_name "servo", :group_name "com.7theta", :version "5.0.4", :description "A rehinkdb client library designed to integrate with signum", :created 1687254064511}
@@ -254,3 +230,27 @@
 {:jar_name "fontconfig-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.14.2-0.9.2", :description nil, :created 1688007192427}
 {:jar_name "graphite2-darwin-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.3.13-0.9.2", :description nil, :created 1688007204766}
 {:jar_name "libwebp-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.3.0-0.9.2", :description nil, :created 1688007209096}
+{:jar_name "utils", :group_name "com.vadelabs", :version "2023.06.29-20", :description "Generated by the com.vadelabs.libtempalte library project template. See https://github.com/vadelabs/libtemplate", :created 1688008494272}
+{:jar_name "cljonda-core", :group_name "com.phronemophobic", :version "0.9.4", :description nil, :created 1688010508800}
+{:jar_name "_libgcc_mutex-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.1-0.9.4", :description nil, :created 1688010744007}
+{:jar_name "libgomp-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "13.1.0-0.9.4", :description nil, :created 1688010777397}
+{:jar_name "_openmp_mutex-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "4.5-0.9.4", :description nil, :created 1688010782247}
+{:jar_name "bzip2-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.0.8-0.9.4", :description nil, :created 1688010796477}
+{:jar_name "gettext-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.21.1-0.9.4", :description nil, :created 1688010806077}
+{:jar_name "icu-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "72.1-0.9.4", :description nil, :created 1688010820257}
+{:jar_name "libexpat-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.5.0-0.9.4", :description nil, :created 1688010835226}
+{:jar_name "libffi-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "3.4.2-0.9.4", :description nil, :created 1688010839776}
+{:jar_name "libiconv-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.17-0.9.4", :description nil, :created 1688010844786}
+{:jar_name "libuuid-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.38.1-0.9.4", :description nil, :created 1688010859406}
+{:jar_name "libzlib-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.2.13-0.9.4", :description nil, :created 1688010868826}
+{:jar_name "pixman-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.40.0-0.9.4", :description nil, :created 1688010873426}
+{:jar_name "xz-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "5.2.6-0.9.4", :description nil, :created 1688010915906}
+{:jar_name "expat-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.5.0-0.9.4", :description nil, :created 1688010921065}
+{:jar_name "libpng-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.6.39-0.9.4", :description nil, :created 1688010925925}
+{:jar_name "libxcb-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.15-0.9.4", :description nil, :created 1688010930945}
+{:jar_name "libxml2-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.11.4-0.9.4", :description nil, :created 1688010936055}
+{:jar_name "freetype-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.12.1-0.9.4", :description nil, :created 1688010961195}
+{:jar_name "libtiff-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "4.5.1-0.9.4", :description nil, :created 1688010971635}
+{:jar_name "fontconfig-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.14.2-0.9.4", :description nil, :created 1688010986735}
+{:jar_name "libwebp-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.3.0-0.9.4", :description nil, :created 1688011001635}
+{:jar_name "pixman-darwin-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.40.0-0.9.4", :description nil, :created 1688011029834}
