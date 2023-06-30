@@ -1,7 +1,3 @@
-{:jar_name "cider-nrepl", :group_name "cider", :version "0.31.0", :description "A collection of nREPL middleware designed to enhance Clojure editors.", :created 1687513815270}
-{:jar_name "lambdaconnect-model", :group_name "io.spinney", :version "1.0.7", :description "Model parsing and scoping", :created 1687518816935}
-{:jar_name "lambdaconnect-model", :group_name "io.spinney", :version "1.0.8", :description "Model parsing and scoping", :created 1687522613787}
-{:jar_name "io", :group_name "io.github.protojure", :version "2.7.0", :description "IO library to support io.github.protojure/core", :created 1687528755366}
 {:jar_name "core", :group_name "io.github.protojure", :version "2.7.0", :description "Core protobuf and GRPC utilities for protojure", :created 1687528775735}
 {:jar_name "grpc-client", :group_name "io.github.protojure", :version "2.7.0", :description "GRPC client library for protoc-gen-clojure", :created 1687528797195}
 {:jar_name "grpc-server", :group_name "io.github.protojure", :version "2.7.0", :description "GRPC server library for protoc-gen-clojure", :created 1687528818865}
@@ -254,3 +250,7 @@
 {:jar_name "encore", :group_name "com.taoensso", :version "3.60.0", :description "Core utils library for Clojure/Script", :created 1688138606326}
 {:jar_name "timbre", :group_name "com.taoensso", :version "6.2.1", :description "Pure Clojure/Script logging library", :created 1688140352868}
 {:jar_name "repl", :group_name "integrant", :version "0.3.3", :description "Reloaded workflow functions for Integrant", :created 1688140370188}
+{:jar_name "http-kit", :group_name "http-kit", :version "2.7.0", :description "High-performance event-driven HTTP client/server for Clojure", :created 1688144588456}
+{:jar_name "sente", :group_name "com.taoensso", :version "1.18.0", :description "Realtime web comms for Clojure/Script", :created 1688145717094}
+{:jar_name "action-deploy-clojars", :group_name "com.yetanalytics", :version "LATEST", :description nil, :created 1688147510786}
+{:jar_name "schemer", :group_name "com.yetanalytics", :version "0.1.0", :description nil, :created 1688147963281}
