@@ -1,6 +1,3 @@
-{:jar_name "cljonda-core", :group_name "com.phronemophobic", :version "0.9.2", :description nil, :created 1688006709942}
-{:jar_name "_libgcc_mutex-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.1-0.9.2", :description nil, :created 1688006923360}
-{:jar_name "libgomp-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "13.1.0-0.9.2", :description nil, :created 1688006959769}
 {:jar_name "_openmp_mutex-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "4.5-0.9.2", :description nil, :created 1688006965029}
 {:jar_name "bzip2-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.0.8-0.9.2", :description nil, :created 1688006980479}
 {:jar_name "gettext-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.21.1-0.9.2", :description nil, :created 1688006990689}
@@ -239,13 +236,11 @@
 {:jar_name "manifold3d", :group_name "org.clojars.cartesiantheatrics", :version "1.0.56", :description nil, :created 1688430458397}
 {:jar_name "sente", :group_name "com.taoensso", :version "1.18.1", :description "Realtime web comms for Clojure/Script", :created 1688458166582}
 {:jar_name "heroicons-electric", :group_name "com.hyperfiddle", :version "62b4f58", :description nil, :created 1688460450906}
-{:jar_name "valis", :group_name "dev.ruivieira", :version "0.1.0-SNAPSHOT", :description "Valis is a Clojure library for my personal workflows.", :created 1688461411646}
 {:jar_name "useful", :group_name "com.timezynk", :version "2.2.0", :description "Useful functions", :created 1688469030795}
 {:jar_name "heroicons-electric", :group_name "com.hyperfiddle", :version "086c109", :description nil, :created 1688470943565}
 {:jar_name "heroicons-electric", :group_name "com.hyperfiddle", :version "b07bd5a", :description nil, :created 1688473302822}
 {:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.120", :description "Simply Core Libs", :created 1688475242749}
 {:jar_name "broch", :group_name "no.anteo", :version "0.1.79", :description nil, :created 1688477235178}
-{:jar_name "atmos-kernel", :group_name "org.clojars.atmos-system", :version "2.2-SNAPSHOT", :description "Core of Atmos System", :created 1688478143929}
 {:jar_name "mranderson", :group_name "thomasa", :version "0.5.4-SNAPSHOT", :description "Dependency inlining and shadowing tool.", :created 1688480815811}
 {:jar_name "yandex-music", :group_name "link.lmnd", :version "0.1.0", :description "Some Yandex Music API methods", :created 1688482467723}
 {:jar_name "yandex-music", :group_name "link.lmnd", :version "0.1.1", :description "Some Yandex Music API methods", :created 1688483164526}
@@ -254,3 +249,8 @@
 {:jar_name "lein-template.simple-app", :group_name "net.gered", :version "0.2.1", :description "Simple Clojure CLI app or tool project template.", :created 1688485653251}
 {:jar_name "lein-template.simple-web-site", :group_name "net.gered", :version "0.2.1", :description "Simple Clojure web site project template.", :created 1688485770090}
 {:jar_name "lein-template.simple-web-service", :group_name "net.gered", :version "0.3.1", :description "Simple Clojure web service project template.", :created 1688486005367}
+{:jar_name "valis", :group_name "dev.ruivieira", :version "0.1.0-SNAPSHOT", :description "Valis is a Clojure library for my personal workflows.", :created 1688488059860}
+{:jar_name "atmos-web-kernel-reitit", :group_name "org.clojars.atmos-system", :version "2.0-SNAPSHOT", :description "This library is the web core of atmos systems, it has commons functionality using *Reitit*.", :created 1688488355179}
+{:jar_name "atmos-logs", :group_name "org.clojars.atmos-system", :version "3.0-SNAPSHOT", :description "Logs micro service for atmos system", :created 1688488732330}
+{:jar_name "atmos-data-kernel", :group_name "org.clojars.atmos-system", :version "1.0-SNAPSHOT", :description "Data core functionality of Atmos System", :created 1688488934648}
+{:jar_name "atmos-kernel", :group_name "org.clojars.atmos-system", :version "2.2-SNAPSHOT", :description "Core of Atmos System", :created 1688488971887}
