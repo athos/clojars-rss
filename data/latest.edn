@@ -1,15 +1,3 @@
-{:jar_name "libffi-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "3.4.2-0.9.2", :description nil, :created 1688007027978}
-{:jar_name "libiconv-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.17-0.9.2", :description nil, :created 1688007032988}
-{:jar_name "libuuid-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.38.1-0.9.2", :description nil, :created 1688007048968}
-{:jar_name "libzlib-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.2.13-0.9.2", :description nil, :created 1688007059638}
-{:jar_name "pixman-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.40.0-0.9.2", :description nil, :created 1688007064678}
-{:jar_name "xz-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "5.2.6-0.9.2", :description nil, :created 1688007112957}
-{:jar_name "expat-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.5.0-0.9.2", :description nil, :created 1688007118097}
-{:jar_name "libpng-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.6.39-0.9.2", :description nil, :created 1688007123797}
-{:jar_name "libxcb-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.15-0.9.2", :description nil, :created 1688007129477}
-{:jar_name "libxml2-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.11.4-0.9.2", :description nil, :created 1688007134907}
-{:jar_name "freetype-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.12.1-0.9.2", :description nil, :created 1688007163367}
-{:jar_name "libtiff-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "4.5.1-0.9.2", :description nil, :created 1688007175217}
 {:jar_name "pixman-darwin-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.40.0-0.9.2", :description nil, :created 1688007177627}
 {:jar_name "fontconfig-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.14.2-0.9.2", :description nil, :created 1688007192427}
 {:jar_name "graphite2-darwin-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.3.13-0.9.2", :description nil, :created 1688007204766}
@@ -254,3 +242,15 @@
 {:jar_name "enrich-classpath", :group_name "mx.cider", :version "1.11.0", :description "Makes available .jars with Java sources and javadocs for a given project.", :created 1688503800577}
 {:jar_name "tools.deps.enrich-classpath", :group_name "mx.cider", :version "1.11.0", :description "mx.cider/enrich-classpath with dependencies specific to tools.deps usage.", :created 1688503809387}
 {:jar_name "liberator.resource.events", :group_name "io.logicblocks", :version "0.1.5-RC1", :description "Event related resources for liberator.", :created 1688506955966}
+{:jar_name "liberator.mixin.core", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "Functions for defining composable liberator mixins.", :created 1688514204153}
+{:jar_name "liberator.mixin.context", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A context management mixin for liberator.", :created 1688514212073}
+{:jar_name "liberator.mixin.logging", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A logging mixin for liberator.", :created 1688514219673}
+{:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A JSON mixin for liberator.", :created 1688514227893}
+{:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "An authorisation mixin for liberator.", :created 1688514235693}
+{:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A hypermedia mixin for liberator.", :created 1688514243573}
+{:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A HAL mixin for liberator.", :created 1688514251642}
+{:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A validation mixin for liberator.", :created 1688514259202}
+{:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "Extensions for liberator allowing for composable mixins.", :created 1688514269782}
+{:jar_name "enrich-classpath", :group_name "mx.cider", :version "1.11.1", :description "Makes available .jars with Java sources and javadocs for a given project.", :created 1688514306732}
+{:jar_name "tools.deps.enrich-classpath", :group_name "mx.cider", :version "1.11.1", :description "mx.cider/enrich-classpath with dependencies specific to tools.deps usage.", :created 1688514315222}
+{:jar_name "lein-enrich-classpath", :group_name "mx.cider", :version "1.11.1", :description "", :created 1688514322402}

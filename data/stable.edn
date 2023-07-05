@@ -1,15 +1,3 @@
-{:jar_name "qr-clj", :group_name "com.7theta", :version "0.4.1", :description "", :created 1687973065080}
-{:jar_name "spectator", :group_name "com.7theta", :version "0.4.1", :description "A libirary to enable observability in applications", :created 1687973367127}
-{:jar_name "vectio", :group_name "com.7theta", :version "1.5.3", :description "A stream-based transport layer.", :created 1687973509055}
-{:jar_name "distantia", :group_name "com.7theta", :version "0.4.2", :description "diff and patch implementations for clojure data structures", :created 1687976104707}
-{:jar_name "via", :group_name "com.7theta", :version "12.6.2", :description "A library for WebSocket based messaging", :created 1687976331684}
-{:jar_name "via-schema", :group_name "com.7theta", :version "0.9.5", :description "Schema validation for via events and subs.", :created 1687976517502}
-{:jar_name "signum", :group_name "com.7theta", :version "9.3.2", :description "A library for Signals and Signal Computation Graphs", :created 1687976820729}
-{:jar_name "gp-clj-helpers", :group_name "org.clojars.prince", :version "0.1.17", :description nil, :created 1687989553611}
-{:jar_name "syringe", :group_name "waffletower", :version "0.6.0", :description "Clojure code suitable for dev profile injection", :created 1687991707818}
-{:jar_name "clong", :group_name "com.phronemophobic", :version "1.0", :description nil, :created 1687992129643}
-{:jar_name "common-clj", :group_name "net.clojars.macielti", :version "19.27.34", :description "Just common Clojure code that I use across projects", :created 1687994433589}
-{:jar_name "via", :group_name "com.7theta", :version "12.7.0", :description "A library for WebSocket based messaging", :created 1687994437839}
 {:jar_name "analytics-client", :group_name "puppetlabs", :version "1.2.1", :description "A library for submitting metrics to the trapperkeeper analytics service.", :created 1687999776490}
 {:jar_name "analytics", :group_name "puppetlabs", :version "1.1.3", :description "Analytics service for Puppet", :created 1687999909939}
 {:jar_name "cljonda-core", :group_name "com.phronemophobic", :version "0.9.1", :description nil, :created 1688004389958}
@@ -254,3 +242,15 @@
 {:jar_name "enrich-classpath", :group_name "mx.cider", :version "1.11.0", :description "Makes available .jars with Java sources and javadocs for a given project.", :created 1688503800577}
 {:jar_name "tools.deps.enrich-classpath", :group_name "mx.cider", :version "1.11.0", :description "mx.cider/enrich-classpath with dependencies specific to tools.deps usage.", :created 1688503809387}
 {:jar_name "liberator.resource.events", :group_name "io.logicblocks", :version "0.1.5-RC1", :description "Event related resources for liberator.", :created 1688506955966}
+{:jar_name "liberator.mixin.core", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "Functions for defining composable liberator mixins.", :created 1688514204153}
+{:jar_name "liberator.mixin.context", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A context management mixin for liberator.", :created 1688514212073}
+{:jar_name "liberator.mixin.logging", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A logging mixin for liberator.", :created 1688514219673}
+{:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A JSON mixin for liberator.", :created 1688514227893}
+{:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "An authorisation mixin for liberator.", :created 1688514235693}
+{:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A hypermedia mixin for liberator.", :created 1688514243573}
+{:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A HAL mixin for liberator.", :created 1688514251642}
+{:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A validation mixin for liberator.", :created 1688514259202}
+{:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "Extensions for liberator allowing for composable mixins.", :created 1688514269782}
+{:jar_name "enrich-classpath", :group_name "mx.cider", :version "1.11.1", :description "Makes available .jars with Java sources and javadocs for a given project.", :created 1688514306732}
+{:jar_name "tools.deps.enrich-classpath", :group_name "mx.cider", :version "1.11.1", :description "mx.cider/enrich-classpath with dependencies specific to tools.deps usage.", :created 1688514315222}
+{:jar_name "lein-enrich-classpath", :group_name "mx.cider", :version "1.11.1", :description "", :created 1688514322402}
