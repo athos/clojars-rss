@@ -1,7 +1,3 @@
-{:jar_name "libuuid-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.38.1-0.9.4", :description nil, :created 1688010859406}
-{:jar_name "libzlib-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.2.13-0.9.4", :description nil, :created 1688010868826}
-{:jar_name "pixman-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "0.40.0-0.9.4", :description nil, :created 1688010873426}
-{:jar_name "xz-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "5.2.6-0.9.4", :description nil, :created 1688010915906}
 {:jar_name "expat-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "2.5.0-0.9.4", :description nil, :created 1688010921065}
 {:jar_name "libpng-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.6.39-0.9.4", :description nil, :created 1688010925925}
 {:jar_name "libxcb-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "1.15-0.9.4", :description nil, :created 1688010930945}
@@ -247,10 +243,14 @@
 {:jar_name "orbit", :group_name "link.szabo.mauricio", :version "0.1.0-SNAPSHOT", :description "REPL connections to nREPL and Shadow Remote API", :created 1688525318520}
 {:jar_name "broch", :group_name "no.anteo", :version "0.1.83", :description nil, :created 1688545300595}
 {:jar_name "manifold3d", :group_name "org.clojars.cartesiantheatrics", :version "1.0.57", :description nil, :created 1688545952582}
-{:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "3.9-SNAPSHOT", :description nil, :created 1688548312530}
-{:jar_name "krystal-common", :group_name "com.flipkart.krystal", :version "3.9-SNAPSHOT", :description nil, :created 1688548315600}
-{:jar_name "vajram", :group_name "com.flipkart.krystal", :version "3.9-SNAPSHOT", :description nil, :created 1688548315860}
-{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "3.9-SNAPSHOT", :description nil, :created 1688548315900}
-{:jar_name "krystex", :group_name "com.flipkart.krystal", :version "3.9-SNAPSHOT", :description nil, :created 1688548316220}
-{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "3.9-SNAPSHOT", :description nil, :created 1688548329800}
 {:jar_name "mongo", :group_name "com.timezynk", :version "0.7.0", :description "Clojure wrapper for com.mongodb.client Java API.", :created 1688550831723}
+{:jar_name "cider-nrepl", :group_name "cider", :version "0.32.0-alpha1", :description "A collection of nREPL middleware designed to enhance Clojure editors.", :created 1688555044807}
+{:jar_name "ductile", :group_name "threatgrid", :version "0.4.7-SNAPSHOT", :description "Yet another Clojure client for Elasticsearch REST API, that fits our needs", :created 1688556251274}
+{:jar_name "yummy", :group_name "exoscale", :version "0.2.12", :description "YAML configuration for Clojure application", :created 1688556338686}
+{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "3.9-SNAPSHOT", :description nil, :created 1688556946314}
+{:jar_name "krystal-common", :group_name "com.flipkart.krystal", :version "3.9-SNAPSHOT", :description nil, :created 1688556946504}
+{:jar_name "vajram", :group_name "com.flipkart.krystal", :version "3.9-SNAPSHOT", :description nil, :created 1688556946674}
+{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "3.9-SNAPSHOT", :description nil, :created 1688556947464}
+{:jar_name "krystex", :group_name "com.flipkart.krystal", :version "3.9-SNAPSHOT", :description nil, :created 1688556947504}
+{:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "3.9-SNAPSHOT", :description nil, :created 1688556964024}
+{:jar_name "clj-iso3166", :group_name "net.totakke", :version "0.4.0", :description "ISO 3166-1 country definitions for Clojure(Script)", :created 1688558291964}
