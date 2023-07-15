@@ -1,5 +1,3 @@
-{:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A JSON mixin for liberator.", :created 1688514227893}
-{:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "An authorisation mixin for liberator.", :created 1688514235693}
 {:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A hypermedia mixin for liberator.", :created 1688514243573}
 {:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A HAL mixin for liberator.", :created 1688514251642}
 {:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A validation mixin for liberator.", :created 1688514259202}
@@ -240,7 +238,6 @@
 {:jar_name "portfolio", :group_name "no.cjohansen", :version "2023.07.14", :description "Visual REPL for UI component development", :created 1689331147261}
 {:jar_name "hermes", :group_name "com.eldrix", :version "1.3.1232", :description nil, :created 1689338203561}
 {:jar_name "kubernetes-api", :group_name "nubank", :version "1.10.0", :description "Kubernetes Client API Library", :created 1689339336619}
-{:jar_name "playback", :group_name "com.github.gnl", :version "0.3.0-SNAPSHOT", :description "Print debugging on steroids – #>(tag and trace any Clojure(-Script)\n        form to tap> and Portal with instant last-input function replay on eval)", :created 1689339584846}
 {:jar_name "atmos-data-kernel", :group_name "org.clojars.atmos-system", :version "1.0-SNAPSHOT", :description "Data core functionality of Atmos System", :created 1689343258277}
 {:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1689345953591}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1689346032050}
@@ -254,3 +251,6 @@
 {:jar_name "humanize", :group_name "org.clj-commons", :version "1.0", :description nil, :created 1689366575468}
 {:jar_name "membrane.stretch.alpha", :group_name "com.phronemophobic", :version "0.1.0", :description nil, :created 1689368273428}
 {:jar_name "spreadsheet", :group_name "com.phronemophobic", :version "0.1.4", :description "FIXME: my new application.", :created 1689369701319}
+{:jar_name "debux", :group_name "com.github.gnl", :version "0.8.3-3", :description "A trace-based debugging library for Clojure and ClojureScript", :created 1689376135534}
+{:jar_name "utilza", :group_name "utilza", :version "0.1.135", :description "ken's random utilities", :created 1689378864168}
+{:jar_name "playback", :group_name "com.github.gnl", :version "0.3.0-SNAPSHOT", :description "Print debugging on steroids – #>(tag and trace any Clojure(-Script)\n        form to tap> and Portal with instant last-input function replay on eval)", :created 1689379017156}
