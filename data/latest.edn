@@ -1,4 +1,3 @@
-{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.73", :description nil, :created 1688626788432}
 {:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.73", :description nil, :created 1688626796182}
 {:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.73", :description nil, :created 1688626805892}
 {:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.73", :description nil, :created 1688626815472}
@@ -249,8 +248,9 @@
 {:jar_name "sente", :group_name "com.taoensso", :version "1.19.1", :description "Realtime web comms for Clojure/Script", :created 1689678289475}
 {:jar_name "trapperkeeper", :group_name "puppetlabs", :version "3.3.1", :description "A framework for configuring, composing, and running Clojure services.", :created 1689694380719}
 {:jar_name "playback", :group_name "com.github.gnl", :version "0.3.0-SNAPSHOT", :description "#>(tag'n'trace any Clojure(-Script) form to tap> and Portal with instant last-input function replay on eval and hassle-free insertion of traced data into the REPL)", :created 1689695971298}
-{:jar_name "atmos-genesys", :group_name "org.clojars.atmos-system", :version "0.1.0-SNAPSHOT", :description "The basis of all web projects using atmos tech", :created 1689714925249}
 {:jar_name "atmos-web-kernel-reitit", :group_name "org.clojars.atmos-system", :version "2.0-SNAPSHOT", :description "This library is the web core of atmos systems, it has commons functionality using *Reitit*.", :created 1689714957378}
 {:jar_name "debux", :group_name "com.github.gnl", :version "0.8.3-5", :description "A trace-based debugging library for Clojure and ClojureScript", :created 1689715537930}
 {:jar_name "playback", :group_name "com.github.gnl", :version "0.3.8", :description "#>(tag'n'trace any Clojure(-Script) form to tap> and Portal with automatic last-input function replay on eval, instant re-render, and hassle-free insertion of traced data into the REPL)", :created 1689716101983}
 {:jar_name "vocabulary", :group_name "ont-app", :version "0.4.2", :description "Integration between Clojure keywords and URIs, plus support for RDF-style language-tagged literals.", :created 1689716817644}
+{:jar_name "atmos-genesys", :group_name "org.clojars.atmos-system", :version "0.1.0-SNAPSHOT", :description "The basis of all web projects using atmos tech", :created 1689720259609}
+{:jar_name "rdf", :group_name "ont-app", :version "0.3.2", :description "Backstop for shared logic among RDF-based IGraph implementations", :created 1689721251226}
