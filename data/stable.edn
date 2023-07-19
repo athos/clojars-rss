@@ -1,10 +1,3 @@
-{:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A HAL mixin for liberator.", :created 1688514251642}
-{:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "A validation mixin for liberator.", :created 1688514259202}
-{:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC4", :description "Extensions for liberator allowing for composable mixins.", :created 1688514269782}
-{:jar_name "enrich-classpath", :group_name "mx.cider", :version "1.11.1", :description "Makes available .jars with Java sources and javadocs for a given project.", :created 1688514306732}
-{:jar_name "tools.deps.enrich-classpath", :group_name "mx.cider", :version "1.11.1", :description "mx.cider/enrich-classpath with dependencies specific to tools.deps usage.", :created 1688514315222}
-{:jar_name "lein-enrich-classpath", :group_name "mx.cider", :version "1.11.1", :description "", :created 1688514322402}
-{:jar_name "crockery", :group_name "com.joshuadavey", :version "0.3.0", :description "Print human-readable tables from maps", :created 1688517542742}
 {:jar_name "enrich-classpath", :group_name "mx.cider", :version "1.11.2", :description "Makes available .jars with Java sources and javadocs for a given project.", :created 1688517846066}
 {:jar_name "tools.deps.enrich-classpath", :group_name "mx.cider", :version "1.11.2", :description "mx.cider/enrich-classpath with dependencies specific to tools.deps usage.", :created 1688517855056}
 {:jar_name "lein-enrich-classpath", :group_name "mx.cider", :version "1.11.2", :description "", :created 1688517862126}
@@ -254,3 +247,10 @@
 {:jar_name "sparql-endpoint", :group_name "ont-app", :version "0.2.1", :description "Utilities for interfacing with a sparql endpoint in clojure", :created 1689724921377}
 {:jar_name "playback", :group_name "com.github.gnl", :version "0.3.9", :description "#>(tag'n'trace any Clojure(-Script) form to tap> and Portal with automatic last-input function replay on eval, instant re-render, and hassle-free insertion of traced data into the REPL)", :created 1689736400875}
 {:jar_name "session.re-frame.cognito", :group_name "dev.gethop", :version "0.1.1-alpha", :description "Re-frame library for session management using AWS Cognito", :created 1689748243024}
+{:jar_name "halboy", :group_name "halboy", :version "6.0.1", :description "a hypermedia parser and navigator", :created 1689757956100}
+{:jar_name "vectio", :group_name "com.7theta", :version "1.8.0", :description "A stream-based transport layer.", :created 1689758325784}
+{:jar_name "via", :group_name "com.7theta", :version "12.7.6", :description "A library for WebSocket based messaging", :created 1689758392833}
+{:jar_name "lein2deps", :group_name "io.github.borkdude", :version "0.1.1", :description nil, :created 1689758400563}
+{:jar_name "servo", :group_name "com.7theta", :version "5.1.0", :description "A rehinkdb client library designed to integrate with signum", :created 1689758575011}
+{:jar_name "fides", :group_name "com.7theta", :version "1.2.0", :description "A library for managing certificates and trust stores", :created 1689758709969}
+{:jar_name "sarcina", :group_name "com.7theta", :version "0.3.2", :description "", :created 1689758797078}
