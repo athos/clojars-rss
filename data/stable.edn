@@ -1,14 +1,3 @@
-{:jar_name "sparql-endpoint", :group_name "ont-app", :version "0.2.1", :description "Utilities for interfacing with a sparql endpoint in clojure", :created 1689724921377}
-{:jar_name "playback", :group_name "com.github.gnl", :version "0.3.9", :description "#>(tag'n'trace any Clojure(-Script) form to tap> and Portal with automatic last-input function replay on eval, instant re-render, and hassle-free insertion of traced data into the REPL)", :created 1689736400875}
-{:jar_name "session.re-frame.cognito", :group_name "dev.gethop", :version "0.1.1-alpha", :description "Re-frame library for session management using AWS Cognito", :created 1689748243024}
-{:jar_name "halboy", :group_name "halboy", :version "6.0.1", :description "a hypermedia parser and navigator", :created 1689757956100}
-{:jar_name "vectio", :group_name "com.7theta", :version "1.8.0", :description "A stream-based transport layer.", :created 1689758325784}
-{:jar_name "via", :group_name "com.7theta", :version "12.7.6", :description "A library for WebSocket based messaging", :created 1689758392833}
-{:jar_name "lein2deps", :group_name "io.github.borkdude", :version "0.1.1", :description nil, :created 1689758400563}
-{:jar_name "servo", :group_name "com.7theta", :version "5.1.0", :description "A rehinkdb client library designed to integrate with signum", :created 1689758575011}
-{:jar_name "fides", :group_name "com.7theta", :version "1.2.0", :description "A library for managing certificates and trust stores", :created 1689758709969}
-{:jar_name "sarcina", :group_name "com.7theta", :version "0.3.2", :description "", :created 1689758797078}
-{:jar_name "sparql-client", :group_name "ont-app", :version "0.2.2", :description "Provides an IGraph-compliant view onto an arbitrary SPARQL endpoint in clojure, informed by ont-app/vocabulary.", :created 1689767503385}
 {:jar_name "igraph-jena", :group_name "ont-app", :version "0.3.1", :description "Library to port the Apache Jena APIs to the ont-app/iGraph protocol", :created 1689769470147}
 {:jar_name "hansel", :group_name "com.github.jpmonettas", :version "0.1.74", :description nil, :created 1689772285748}
 {:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.6.10", :description nil, :created 1689773316984}
@@ -254,3 +243,14 @@
 {:jar_name "vectio", :group_name "com.7theta", :version "2.0.0", :description "A stream-based transport layer.", :created 1690980787669}
 {:jar_name "signum", :group_name "com.7theta", :version "10.0.1", :description "A library for Signals and Signal Computation Graphs", :created 1690980922855}
 {:jar_name "distantia", :group_name "com.7theta", :version "0.5.1", :description "diff and patch implementations for clojure data structures", :created 1690981207968}
+{:jar_name "via", :group_name "com.7theta", :version "12.8.2", :description "A library for WebSocket based messaging", :created 1690981645226}
+{:jar_name "servo", :group_name "com.7theta", :version "5.1.1", :description "A rehinkdb client library designed to integrate with signum", :created 1690982903043}
+{:jar_name "qr-clj", :group_name "com.7theta", :version "0.4.3", :description "", :created 1690983185716}
+{:jar_name "crusta", :group_name "com.7theta", :version "1.1.1", :description "A library for managing execution of external programs", :created 1690983255424}
+{:jar_name "graal-build-time", :group_name "com.github.clj-easy", :version "1.0.5", :description nil, :created 1690983340852}
+{:jar_name "fs-watch", :group_name "com.7theta", :version "0.1.2", :description "", :created 1690983376371}
+{:jar_name "sarcina", :group_name "com.7theta", :version "0.3.4", :description "", :created 1690983530187}
+{:jar_name "structor-task", :group_name "com.7theta", :version "0.1.0", :description "Builds for 7theta projects", :created 1690983848939}
+{:jar_name "tailwind", :group_name "com.7theta", :version "0.8.2", :description "Library working with Tailwind css", :created 1690984484682}
+{:jar_name "structor", :group_name "com.7theta", :version "2.8.0", :description "Builds for 7theta projects", :created 1690984535891}
+{:jar_name "zebra", :group_name "ai.mypulse", :version "0.2.7", :description "A clojure wrapper for Stripe", :created 1690984745695}
