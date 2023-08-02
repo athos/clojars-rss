@@ -1,9 +1,3 @@
-{:jar_name "playback", :group_name "com.github.gnl", :version "0.3.8", :description "#>(tag'n'trace any Clojure(-Script) form to tap> and Portal with automatic last-input function replay on eval, instant re-render, and hassle-free insertion of traced data into the REPL)", :created 1689716101983}
-{:jar_name "vocabulary", :group_name "ont-app", :version "0.4.2", :description "Integration between Clojure keywords and URIs, plus support for RDF-style language-tagged literals.", :created 1689716817644}
-{:jar_name "rdf", :group_name "ont-app", :version "0.3.2", :description "Backstop for shared logic among RDF-based IGraph implementations", :created 1689721251226}
-{:jar_name "tempus", :group_name "com.7theta", :version "2.1.2", :description "Clojure(script) time library", :created 1689721622711}
-{:jar_name "fluxus", :group_name "com.7theta", :version "0.9.0", :description "Clojure(script) library for streams and concurrency", :created 1689722189033}
-{:jar_name "signum", :group_name "com.7theta", :version "10.0.0", :description "A library for Signals and Signal Computation Graphs", :created 1689722419810}
 {:jar_name "sparql-endpoint", :group_name "ont-app", :version "0.2.1", :description "Utilities for interfacing with a sparql endpoint in clojure", :created 1689724921377}
 {:jar_name "playback", :group_name "com.github.gnl", :version "0.3.9", :description "#>(tag'n'trace any Clojure(-Script) form to tap> and Portal with automatic last-input function replay on eval, instant re-render, and hassle-free insertion of traced data into the REPL)", :created 1689736400875}
 {:jar_name "session.re-frame.cognito", :group_name "dev.gethop", :version "0.1.1-alpha", :description "Re-frame library for session management using AWS Cognito", :created 1689748243024}
@@ -254,3 +248,9 @@
 {:jar_name "tempus", :group_name "com.7theta", :version "2.1.4", :description "Clojure(script) time library", :created 1690976298737}
 {:jar_name "fluxus", :group_name "com.7theta", :version "0.9.3", :description "Clojure(script) library for streams and concurrency", :created 1690976368675}
 {:jar_name "spectator", :group_name "com.7theta", :version "0.6.0", :description "A library to enable observability in applications", :created 1690976602419}
+{:jar_name "zebra", :group_name "ai.mypulse", :version "0.2.6", :description "A clojure wrapper for Stripe", :created 1690979461972}
+{:jar_name "nippy", :group_name "com.taoensso", :version "3.3.0-RC1", :description "The fastest serialization library for Clojure", :created 1690979910685}
+{:jar_name "fides", :group_name "com.7theta", :version "1.2.1", :description "A library for managing certificates and trust stores", :created 1690980477087}
+{:jar_name "vectio", :group_name "com.7theta", :version "2.0.0", :description "A stream-based transport layer.", :created 1690980787669}
+{:jar_name "signum", :group_name "com.7theta", :version "10.0.1", :description "A library for Signals and Signal Computation Graphs", :created 1690980922855}
+{:jar_name "distantia", :group_name "com.7theta", :version "0.5.1", :description "diff and patch implementations for clojure data structures", :created 1690981207968}
