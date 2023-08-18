@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 18 Aug 2023 17:01:17 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Aug 2023 18:01:22 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/jepsen/versions/0.3.3</guid>
+    <title>[jepsen &quot;0.3.3&quot;]</title>
+    <link>https://clojars.org/jepsen/versions/0.3.3</link>
+    <description>Distributed systems testing framework.</description>
+    <pubDate>Fri, 18 Aug 2023 17:57:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.seancorfield/honeysql/versions/2.4.9999-SNAPSHOT</guid>
+    <title>[com.github.seancorfield/honeysql &quot;2.4.9999-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.seancorfield/honeysql/versions/2.4.9999-SNAPSHOT</link>
+    <description>SQL as Clojure data structures.</description>
+    <pubDate>Fri, 18 Aug 2023 17:34:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.phronemophobic/llama-clj/versions/0.5</guid>
+    <title>[com.phronemophobic/llama-clj &quot;0.5&quot;]</title>
+    <link>https://clojars.org/com.phronemophobic/llama-clj/versions/0.5</link>
+    <description></description>
+    <pubDate>Fri, 18 Aug 2023 17:33:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/elle/versions/0.1.7</guid>
+    <title>[elle &quot;0.1.7&quot;]</title>
+    <link>https://clojars.org/elle/versions/0.1.7</link>
+    <description>Black-box transactional consistency checker, based on cycle detection</description>
+    <pubDate>Fri, 18 Aug 2023 17:24:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.jepsen/history/versions/0.1.1</guid>
+    <title>[io.jepsen/history &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/io.jepsen/history/versions/0.1.1</link>
+    <description>A library for working with Jepsen&#39;s histories of concurrent systems.</description>
+    <pubDate>Fri, 18 Aug 2023 17:20:53 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.eldrix/nhs-number/versions/1.0.40</guid>
     <title>[com.eldrix/nhs-number &quot;1.0.40&quot;]</title>
@@ -1707,13 +1742,6 @@
     <pubDate>Sat, 12 Aug 2023 02:41:31 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/com.github.seancorfield/honeysql/versions/2.4.9999-SNAPSHOT</guid>
-    <title>[com.github.seancorfield/honeysql &quot;2.4.9999-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.seancorfield/honeysql/versions/2.4.9999-SNAPSHOT</link>
-    <description>SQL as Clojure data structures.</description>
-    <pubDate>Sat, 12 Aug 2023 02:09:42 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/com.github.liquidz/antq/versions/2.5.1109</guid>
     <title>[com.github.liquidz/antq &quot;2.5.1109&quot;]</title>
     <link>https://clojars.org/com.github.liquidz/antq/versions/2.5.1109</link>
@@ -1768,34 +1796,6 @@
     <link>https://clojars.org/org.pinkgorilla/goldly-docs/versions/0.4.590</link>
     <description></description>
     <pubDate>Fri, 11 Aug 2023 19:14:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/goldly/versions/0.4.590</guid>
-    <title>[org.pinkgorilla/goldly &quot;0.4.590&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/goldly/versions/0.4.590</link>
-    <description></description>
-    <pubDate>Fri, 11 Aug 2023 19:09:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.threatgrid/ring-swagger/versions/0.26.3-SNAPSHOT</guid>
-    <title>[io.github.threatgrid/ring-swagger &quot;0.26.3-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/io.github.threatgrid/ring-swagger/versions/0.26.3-SNAPSHOT</link>
-    <description>Swagger Spec for Ring Apps</description>
-    <pubDate>Fri, 11 Aug 2023 18:34:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.tonsky/datascript-storage-sql/versions/0.1.0</guid>
-    <title>[io.github.tonsky/datascript-storage-sql &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/io.github.tonsky/datascript-storage-sql/versions/0.1.0</link>
-    <description>SQL Storage implementation for DataScript</description>
-    <pubDate>Fri, 11 Aug 2023 18:17:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.seancorfield/next.jdbc/versions/1.3.999-SNAPSHOT</guid>
-    <title>[com.github.seancorfield/next.jdbc &quot;1.3.999-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.seancorfield/next.jdbc/versions/1.3.999-SNAPSHOT</link>
-    <description>The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.</description>
-    <pubDate>Fri, 11 Aug 2023 18:02:36 +0000</pubDate>
   </item>
   </channel>
 </rss>
