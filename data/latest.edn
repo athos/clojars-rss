@@ -1,15 +1,3 @@
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1692032804726}
-{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1692032811206}
-{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Malli integration", :created 1692032817536}
-{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.0.33-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1692032824196}
-{:jar_name "ui-repl", :group_name "org.pinkgorilla", :version "0.0.64", :description nil, :created 1692033447110}
-{:jar_name "devtools", :group_name "org.pinkgorilla", :version "0.0.5", :description nil, :created 1692033604606}
-{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.594", :description nil, :created 1692033966507}
-{:jar_name "ui-sparklines", :group_name "org.pinkgorilla", :version "0.0.4", :description nil, :created 1692036950823}
-{:jar_name "ui-video", :group_name "org.pinkgorilla", :version "0.0.4", :description nil, :created 1692037473180}
-{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.595", :description nil, :created 1692037719383}
-{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.595", :description nil, :created 1692038047935}
-{:jar_name "ken-honeycomb", :group_name "com.amperity", :version "1.2.0", :description "Observability library to integrate ken and honeycomb", :created 1692044479160}
 {:jar_name "note-to-test", :group_name "org.scicloj", :version "1-alpha3", :description nil, :created 1692048051963}
 {:jar_name "ui-tailwind", :group_name "org.pinkgorilla", :version "0.0.4", :description nil, :created 1692048759556}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.596", :description nil, :created 1692049731591}
@@ -199,7 +187,6 @@
 {:jar_name "active-clojure", :group_name "de.active-group", :version "0.42.1", :description "Active Clojure: Various Clojure utilities in use at Active Group", :created 1692545333764}
 {:jar_name "llama-clj", :group_name "com.phronemophobic", :version "0.6", :description nil, :created 1692556373361}
 {:jar_name "ui-repl", :group_name "org.pinkgorilla", :version "0.0.66", :description nil, :created 1692557359867}
-{:jar_name "babashka", :group_name "babashka", :version "1.3.183-SNAPSHOT", :description "babashka", :created 1692559843566}
 {:jar_name "ui-repl", :group_name "org.pinkgorilla", :version "0.0.67", :description nil, :created 1692560865880}
 {:jar_name "dtype-next", :group_name "cnuernber", :version "10.002", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1692563899061}
 {:jar_name "note-to-test", :group_name "org.scicloj", :version "1-alpha4", :description nil, :created 1692568883531}
@@ -254,3 +241,16 @@
 {:jar_name "react-testing-library-cljs", :group_name "org.clojars.olecve", :version "0.0.11", :description "ClojureScript wrapper for react-testing-library", :created 1692688244421}
 {:jar_name "promesa", :group_name "funcool", :version "11.0.678", :description "A promise library and concurency toolkit for Clojure and ClojureScript.", :created 1692694735437}
 {:jar_name "tbl", :group_name "com.fooheads", :version "0.1.0", :description nil, :created 1692699893816}
+{:jar_name "spectator", :group_name "com.7theta", :version "0.6.2", :description "A library to enable observability in applications", :created 1692702227546}
+{:jar_name "fides", :group_name "com.7theta", :version "1.2.3", :description "A library for managing certificates and trust stores", :created 1692702283675}
+{:jar_name "vectio", :group_name "com.7theta", :version "2.1.1", :description "A stream-based transport layer.", :created 1692702337253}
+{:jar_name "signum", :group_name "com.7theta", :version "10.0.3", :description "A library for Signals and Signal Computation Graphs", :created 1692702423721}
+{:jar_name "distantia", :group_name "com.7theta", :version "0.5.3", :description "diff and patch implementations for clojure data structures", :created 1692702467860}
+{:jar_name "via", :group_name "com.7theta", :version "12.9.3", :description "A library for WebSocket based messaging", :created 1692702530968}
+{:jar_name "servo", :group_name "com.7theta", :version "5.1.3", :description "A rehinkdb client library designed to integrate with signum", :created 1692702625286}
+{:jar_name "crusta", :group_name "com.7theta", :version "1.1.3", :description "A library for managing execution of external programs", :created 1692702678725}
+{:jar_name "qr-clj", :group_name "com.7theta", :version "0.4.5", :description "", :created 1692702723883}
+{:jar_name "sarcina", :group_name "com.7theta", :version "0.3.5", :description "", :created 1692702784572}
+{:jar_name "tailwind", :group_name "com.7theta", :version "0.9.1", :description "Library working with Tailwind css", :created 1692702836230}
+{:jar_name "ventus", :group_name "com.7theta", :version "2.1.1", :description "Functions and macros for helix support", :created 1692702880969}
+{:jar_name "babashka", :group_name "babashka", :version "1.3.183-SNAPSHOT", :description "babashka", :created 1692704905567}
