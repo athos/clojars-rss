@@ -127,7 +127,6 @@
 {:jar_name "history", :group_name "io.jepsen", :version "0.1.1", :description "A library for working with Jepsen's histories of concurrent systems.", :created 1692379253504}
 {:jar_name "elle", :group_name "elle", :version "0.1.7", :description "Black-box transactional consistency checker, based on cycle detection", :created 1692379458159}
 {:jar_name "llama-clj", :group_name "com.phronemophobic", :version "0.5", :description nil, :created 1692379997945}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1692380049744}
 {:jar_name "jepsen", :group_name "jepsen", :version "0.3.3", :description "Distributed systems testing framework.", :created 1692381470917}
 {:jar_name "pretty", :group_name "org.clj-commons", :version "2.1.1", :description nil, :created 1692382728375}
 {:jar_name "enrich-classpath", :group_name "mx.cider", :version "1.13.0", :description "Makes available .jars with Java sources and javadocs for a given project.", :created 1692382885811}
@@ -254,3 +253,4 @@
 {:jar_name "vectio", :group_name "com.7theta", :version "2.1.2", :description "A stream-based transport layer.", :created 1692810784158}
 {:jar_name "servo", :group_name "com.7theta", :version "5.1.4", :description "A rehinkdb client library designed to integrate with signum", :created 1692810949774}
 {:jar_name "kaocha-with-nomis-hacks", :group_name "com.nomistech", :version "0.6.0", :description "Full featured next generation test runner for Clojure.", :created 1692813682357}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1692820769166}
