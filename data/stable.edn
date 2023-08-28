@@ -1,14 +1,3 @@
-{:jar_name "kit-postgres", :group_name "io.github.kit-clj", :version "1.0.4", :description nil, :created 1692186472245}
-{:jar_name "kit-hato", :group_name "io.github.kit-clj", :version "1.0.2", :description nil, :created 1692186477334}
-{:jar_name "kit-core", :group_name "io.github.kit-clj", :version "1.0.5", :description nil, :created 1692187045160}
-{:jar_name "deps-template", :group_name "io.github.kit-clj", :version "0.1.43", :description nil, :created 1692187087799}
-{:jar_name "lein-template", :group_name "io.github.kit-clj", :version "0.1.43", :description nil, :created 1692187102808}
-{:jar_name "graphql-builder", :group_name "floatingpointio", :version "0.1.15", :description "A Clojure(Script) library designed to help with the consuming of GraphQL APIs.", :created 1692192599966}
-{:jar_name "utilis", :group_name "com.7theta", :version "3.0.0", :description "Library of common utilities used in 7theta projects", :created 1692202291388}
-{:jar_name "tempus", :group_name "com.7theta", :version "2.2.0", :description "Clojure(script) time library", :created 1692202375844}
-{:jar_name "tailwind", :group_name "com.7theta", :version "0.9.0", :description "Library working with Tailwind css", :created 1692202535353}
-{:jar_name "fluxus", :group_name "com.7theta", :version "1.0.0", :description "Clojure(script) library for streams and concurrency", :created 1692202763435}
-{:jar_name "spectator", :group_name "com.7theta", :version "0.6.1", :description "A library to enable observability in applications", :created 1692202932821}
 {:jar_name "fides", :group_name "com.7theta", :version "1.2.2", :description "A library for managing certificates and trust stores", :created 1692203069237}
 {:jar_name "vectio", :group_name "com.7theta", :version "2.1.0", :description "A stream-based transport layer.", :created 1692203164711}
 {:jar_name "signum", :group_name "com.7theta", :version "10.0.2", :description "A library for Signals and Signal Computation Graphs", :created 1692203286766}
@@ -254,3 +243,14 @@
 {:jar_name "tmducken", :group_name "com.techascent", :version "0.8.1-05", :description nil, :created 1693183554174}
 {:jar_name "orbit", :group_name "link.szabo.mauricio", :version "2023-08-28.00.48", :description "REPL connections to nREPL and Shadow Remote API", :created 1693183692820}
 {:jar_name "react-testing-library-cljs", :group_name "org.clojars.olecve", :version "0.0.14", :description "ClojureScript wrapper for react-testing-library", :created 1693208341664}
+{:jar_name "clj-file-traversal", :group_name "info.setmy", :version "0.1.0", :description "Clojure module to apply function on every file in file hierarchy.", :created 1693209708931}
+{:jar_name "contajners", :group_name "org.clojars.lispyclouds", :version "1.0.1", :description "An idiomatic, data-driven, REPL friendly clojure client for OCI container engines", :created 1693210228257}
+{:jar_name "pg-common", :group_name "com.github.igrishaev", :version "0.1.5", :description "Common PG modules", :created 1693212520382}
+{:jar_name "pg-types", :group_name "com.github.igrishaev", :version "0.1.5", :description "PG types encoding and decoding", :created 1693212533332}
+{:jar_name "pg-copy", :group_name "com.github.igrishaev", :version "0.1.5", :description "COPY within PG binary format", :created 1693212545772}
+{:jar_name "pg-copy-jdbc", :group_name "com.github.igrishaev", :version "0.1.5", :description "COPY powered with JDBC.next", :created 1693212557801}
+{:jar_name "pg-joda-time", :group_name "com.github.igrishaev", :version "0.1.5", :description "Expand encoding & decoding with Joda Time", :created 1693212570851}
+{:jar_name "pg-json", :group_name "com.github.igrishaev", :version "0.1.5", :description "Expand JSON(b) encoding & decoding with Cheshire", :created 1693212583101}
+{:jar_name "pg-client", :group_name "com.github.igrishaev", :version "0.1.5", :description "Postgres client in pure Clojure (no JDBC)", :created 1693212595770}
+{:jar_name "pg-pool", :group_name "com.github.igrishaev", :version "0.1.5", :description "A simple, handmade connection pool for PG", :created 1693212608900}
+{:jar_name "pg-integration", :group_name "com.github.igrishaev", :version "0.1.5", :description "Multi-version integration tests in Docker", :created 1693212621720}
