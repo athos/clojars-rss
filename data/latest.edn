@@ -1,5 +1,3 @@
-{:jar_name "pg-joda-time", :group_name "com.github.igrishaev", :version "0.1.6", :description "Expand encoding & decoding with Joda Time", :created 1693225690491}
-{:jar_name "pg-json", :group_name "com.github.igrishaev", :version "0.1.6", :description "Expand JSON(b) encoding & decoding with Cheshire", :created 1693225703933}
 {:jar_name "pg-client", :group_name "com.github.igrishaev", :version "0.1.6", :description "Postgres client in pure Clojure (no JDBC)", :created 1693225717082}
 {:jar_name "pg-pool", :group_name "com.github.igrishaev", :version "0.1.6", :description "A simple, handmade connection pool for PG", :created 1693225730048}
 {:jar_name "pg-integration", :group_name "com.github.igrishaev", :version "0.1.6", :description "Multi-version integration tests in Docker", :created 1693225742994}
@@ -206,7 +204,6 @@
 {:jar_name "clj-graphviz", :group_name "com.phronemophobic", :version "0.6.2", :description nil, :created 1694024955452}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.09.07", :description "A linter for Clojure that sparks joy.", :created 1694026814697}
 {:jar_name "lein-clj-kondo", :group_name "com.github.clj-kondo", :version "2023.09.07", :description "Lein plugin to run clj-kondo", :created 1694027446348}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.09.08-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1694027902094}
 {:jar_name "coda-client", :group_name "net.clojars.zenerzeppelin", :version "0.1.0-SNAPSHOT", :description "Library for interacting with Coda docs", :created 1694031953012}
 {:jar_name "rewrite-clj", :group_name "org.clojars.tristefigure", :version "0.6.1-SNAPSHOT", :description "Comment-/Whitespace-preserving rewriting of EDN documents.", :created 1694034645672}
 {:jar_name "kit-undertow", :group_name "io.github.kit-clj", :version "1.0.6", :description nil, :created 1694042167046}
@@ -254,3 +251,6 @@
 {:jar_name "encore", :group_name "com.taoensso", :version "3.67.0", :description "Core utils library for Clojure/Script", :created 1694165500584}
 {:jar_name "mock-clock-clj", :group_name "ai.mypulse", :version "0.0.1", :description "A Clojure wrapper for mock-clock Java library.", :created 1694167033727}
 {:jar_name "epsilon", :group_name "me.lafuente", :version "0.0.626", :description nil, :created 1694177244496}
+{:jar_name "common-datomic", :group_name "org.clojars.teleslabs", :version "1.1.1", :description "Common Datomic library", :created 1694181964112}
+{:jar_name "integrant", :group_name "integrant", :version "0.9.0-alpha2", :description "Micro-framework for data-driven architecture", :created 1694182910843}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.09.08-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1694185237102}
