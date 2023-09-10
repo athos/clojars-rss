@@ -1,7 +1,3 @@
-{:jar_name "pg-copy", :group_name "com.github.igrishaev", :version "0.1.6", :description "COPY within PG binary format", :created 1693225660557}
-{:jar_name "pg-copy-jdbc", :group_name "com.github.igrishaev", :version "0.1.6", :description "COPY powered with JDBC.next", :created 1693225675738}
-{:jar_name "pg-joda-time", :group_name "com.github.igrishaev", :version "0.1.6", :description "Expand encoding & decoding with Joda Time", :created 1693225690491}
-{:jar_name "pg-json", :group_name "com.github.igrishaev", :version "0.1.6", :description "Expand JSON(b) encoding & decoding with Cheshire", :created 1693225703933}
 {:jar_name "pg-client", :group_name "com.github.igrishaev", :version "0.1.6", :description "Postgres client in pure Clojure (no JDBC)", :created 1693225717082}
 {:jar_name "pg-pool", :group_name "com.github.igrishaev", :version "0.1.6", :description "A simple, handmade connection pool for PG", :created 1693225730048}
 {:jar_name "pg-integration", :group_name "com.github.igrishaev", :version "0.1.6", :description "Multi-version integration tests in Docker", :created 1693225742994}
@@ -254,3 +250,7 @@
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.616", :description nil, :created 1694304829059}
 {:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.616", :description nil, :created 1694305208879}
 {:jar_name "aerospike-clj", :group_name "com.appsflyer", :version "3.1.0", :description "An Aerospike Clojure client.", :created 1694336646091}
+{:jar_name "hansel", :group_name "com.github.jpmonettas", :version "0.1.78", :description nil, :created 1694350394191}
+{:jar_name "endpoint", :group_name "party.donut", :version "0.0.28", :description nil, :created 1694350568125}
+{:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.7.3", :description nil, :created 1694350624104}
+{:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.7.3", :description nil, :created 1694350662233}
