@@ -1,26 +1,3 @@
-{:jar_name "wire", :group_name "com.cleancoders.c3kit", :version "2.0.2", :description nil, :created 1693249915136}
-{:jar_name "datascript-storage-sql", :group_name "io.github.tonsky", :version "1.0.0", :description "SQL Storage implementation for DataScript", :created 1693250351015}
-{:jar_name "ui-highcharts", :group_name "org.pinkgorilla", :version "0.0.18", :description nil, :created 1693257186335}
-{:jar_name "ctmx", :group_name "ctmx", :version "1.4.11", :description "Backend helpers for htmx", :created 1693259452628}
-{:jar_name "ctmx", :group_name "ctmx", :version "1.4.12", :description "Backend helpers for htmx", :created 1693260814904}
-{:jar_name "bucket", :group_name "com.cleancoders.c3kit", :version "2.0.1", :description nil, :created 1693268701358}
-{:jar_name "duck-repled", :group_name "link.szabo.mauricio", :version "2023-08-29.01.47", :description "Query interactions with REPLs with Pathom", :created 1693273659396}
-{:jar_name "event-passport", :group_name "com.clojure-goes-fast", :version "0.1.0", :description "Thread-safe implementation of Passport telemetry pattern", :created 1693290296204}
-{:jar_name "re-dash", :group_name "net.clojars.htihospitality", :version "0.6.2", :description "A ClojureDart (re)framework for building user interfaces, leveraging Flutter", :created 1693301227752}
-{:jar_name "clj-rapid", :group_name "org.clojars.tools", :version "0.2.0", :description "A library for rapid API creation in Clojure", :created 1693308290802}
-{:jar_name "google-displayvideo-clj", :group_name "com.adgoji", :version "0.2.1", :description nil, :created 1693317028253}
-{:jar_name "proxy-plus", :group_name "com.rpl", :version "0.0.10", :description "A faster and more usable replacement for Clojure's proxy.", :created 1693321514067}
-{:jar_name "servo-rn", :group_name "com.7theta", :version "0.8.2", :description "An sqlite client library designed to integrate with signum", :created 1693324086661}
-{:jar_name "apron", :group_name "com.cleancoders.c3kit", :version "2.0.2", :description nil, :created 1693330388677}
-{:jar_name "bucket", :group_name "com.cleancoders.c3kit", :version "2.0.2", :description nil, :created 1693330548858}
-{:jar_name "speclj-junit-xml", :group_name "com.cleancoders", :version "1.0.1", :description nil, :created 1693335077906}
-{:jar_name "talk2", :group_name "com.deercreeklabs", :version "0.3.4", :description nil, :created 1693340731816}
-{:jar_name "tmducken", :group_name "com.techascent", :version "0.8.1-06", :description nil, :created 1693343963401}
-{:jar_name "obiwan", :group_name "com.tolitius", :version "0.2.3", :description nil, :created 1693349959318}
-{:jar_name "fetch", :group_name "lambdaisland", :version "1.4.80", :description "ClojureScript wrapper around the JavaScript fetch API.", :created 1693381247917}
-{:jar_name "reitit-jaatya", :group_name "com.lambdaisland", :version "0.1.33", :description "Freeze your reitit routes and create a static site out of it", :created 1693381360098}
-{:jar_name "tools.namespace", :group_name "lambdaisland", :version "0.3.256", :description "tools.namespace fork for use by Kaocha", :created 1693381764950}
-{:jar_name "kaocha", :group_name "lambdaisland", :version "1.86.1355", :description "Full featured next generation test runner for Clojure.", :created 1693382638416}
 {:jar_name "deja-fu", :group_name "com.lambdaisland", :version "1.5.62", :description "Lightweight ClojureScript local time/date library", :created 1693383417327}
 {:jar_name "migratus", :group_name "migratus", :version "1.5.3", :description "MIGRATE ALL THE THINGS!", :created 1693393772931}
 {:jar_name "ornament", :group_name "com.lambdaisland", :version "1.10.94", :description "Clojure Styled Components", :created 1693394874567}
@@ -254,3 +231,26 @@
 {:jar_name "useful", :group_name "com.timezynk", :version "2.3.0", :description "Useful functions", :created 1694422149634}
 {:jar_name "domain", :group_name "com.timezynk", :version "2.1.0", :description "Database modeling library for Clojure and MongoDB", :created 1694424436221}
 {:jar_name "domain-types", :group_name "com.timezynk", :version "1.0.5", :description "FIXME: write description", :created 1694424462990}
+{:jar_name "reitit-core", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Snappy data-driven router for Clojure(Script)", :created 1694433969856}
+{:jar_name "reitit-dev", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Snappy data-driven router for Clojure(Script)", :created 1694433991579}
+{:jar_name "reitit-spec", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Reitit: clojure.spec coercion", :created 1694434010040}
+{:jar_name "reitit-malli", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Reitit: Malli coercion", :created 1694434025048}
+{:jar_name "reitit-schema", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Reitit: Plumatic Schema coercion", :created 1694434039227}
+{:jar_name "reitit-ring", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Reitit: Ring routing", :created 1694434055587}
+{:jar_name "reitit-middleware", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Reitit, common middleware bundled", :created 1694434075323}
+{:jar_name "reitit-http", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Reitit: HTTP routing with interceptors", :created 1694434094238}
+{:jar_name "reitit-interceptors", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Reitit, common interceptors bundled", :created 1694434111617}
+{:jar_name "reitit-swagger", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Reitit: Swagger-support", :created 1694434127367}
+{:jar_name "reitit-openapi", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Reitit: OpenAPI-support", :created 1694434145016}
+{:jar_name "reitit-swagger-ui", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Reitit: Swagger-ui support", :created 1694434170382}
+{:jar_name "reitit-frontend", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Reitit: Clojurescript frontend routing core", :created 1694434186659}
+{:jar_name "reitit-sieppari", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Reitit: Sieppari Interceptors", :created 1694434203187}
+{:jar_name "reitit-pedestal", :group_name "fi.metosin", :version "0.7.0-alpha6", :description "Reitit + Pedestal Integration", :created 1694434228953}
+{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.77", :description nil, :created 1694436313357}
+{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.77", :description nil, :created 1694436321667}
+{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.77", :description nil, :created 1694436336666}
+{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.77", :description nil, :created 1694436345906}
+{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.77", :description nil, :created 1694436354986}
+{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.77", :description nil, :created 1694436367226}
+{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.77", :description nil, :created 1694436374415}
+{:jar_name "blueprint-microserver", :group_name "com.exoscale", :version "0.2.77", :description nil, :created 1694436386335}
