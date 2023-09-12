@@ -1,6 +1,3 @@
-{:jar_name "lein-enrich-classpath", :group_name "mx.cider", :version "1.15.4", :description "", :created 1693514041642}
-{:jar_name "odoyle-rules", :group_name "net.sekao", :version "1.3.0", :description "A rules engine for Clojure(Script)", :created 1693516407530}
-{:jar_name "odoyle-rum", :group_name "net.sekao", :version "1.3.0", :description "Make Rum components with O'Doyle Rules", :created 1693516449641}
 {:jar_name "corbihttp", :group_name "fr.mcorbin", :version "0.32.0", :description "Shared namespaces for my http projects", :created 1693517729448}
 {:jar_name "malli", :group_name "metosin", :version "0.12.0", :description nil, :created 1693520386823}
 {:jar_name "jackdaw", :group_name "com.tcgplayer", :version "0.9.4-fix_partitions_for-SNAPSHOT", :description "A Clojure library for the Apache Kafka distributed streaming platform.", :created 1693523968283}
@@ -254,3 +251,6 @@
 {:jar_name "spinner", :group_name "com.github.pmonks", :version "2.0.211", :description "Simple ANSI text progress indicators for command line Clojure apps.", :created 1694481495827}
 {:jar_name "lice-comb", :group_name "com.github.pmonks", :version "2.0.160-RC1", :description "A Clojure library for software license detection.", :created 1694484011539}
 {:jar_name "tick", :group_name "tick", :version "0.7.5", :description "Time as a value", :created 1694514025855}
+{:jar_name "enrich-classpath", :group_name "mx.cider", :version "1.17.0", :description "Makes available .jars with Java sources and javadocs for a given project.", :created 1694520005929}
+{:jar_name "tools.deps.enrich-classpath", :group_name "mx.cider", :version "1.17.0", :description "mx.cider/enrich-classpath with dependencies specific to tools.deps usage.", :created 1694520016258}
+{:jar_name "lein-enrich-classpath", :group_name "mx.cider", :version "1.17.0", :description "", :created 1694520024688}
