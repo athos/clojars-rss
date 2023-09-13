@@ -4,7 +4,23 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 13 Sep 2023 21:01:18 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 Sep 2023 22:01:10 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/tolitius/lasync/versions/0.1.25</guid>
+    <title>[tolitius/lasync &quot;0.1.25&quot;]</title>
+    <link>https://clojars.org/tolitius/lasync/versions/0.1.25</link>
+    <description>executor service that blocks on .submit after the task queue limit is reached</description>
+    <pubDate>Wed, 13 Sep 2023 21:18:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.skoranda/c-omanage-registry-core-api/versions/1.0.0</guid>
+    <title>[org.clojars.skoranda/c-omanage-registry-core-api &quot;1.0.0&quot;]</title>
+    <link>https://clojars.org/org.clojars.skoranda/c-omanage-registry-core-api/versions/1.0.0</link>
+    <description>A collection of higher level APIs for COmanage Registry that provide transaction-oriented operations.
+Note that the Core API must be configured/enabled and the available functionality depends on the
+service configuration details.</description>
+    <pubDate>Wed, 13 Sep 2023 21:10:25 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.clojars.daslu/portal/versions/0.46.0-experimental</guid>
     <title>[org.clojars.daslu/portal &quot;0.46.0-experimental&quot;]</title>
@@ -1782,20 +1798,6 @@
     <link>https://clojars.org/party.donut/graphputer/versions/0.0.18</link>
     <description></description>
     <pubDate>Sun, 3 Sep 2023 23:55:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.fabiodomingues/lein-clj-depend/versions/0.8.0</guid>
-    <title>[com.fabiodomingues/lein-clj-depend &quot;0.8.0&quot;]</title>
-    <link>https://clojars.org/com.fabiodomingues/lein-clj-depend/versions/0.8.0</link>
-    <description>Lein plugin to run clj-depend</description>
-    <pubDate>Sun, 3 Sep 2023 23:04:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.fabiodomingues/clj-depend/versions/0.8.0</guid>
-    <title>[com.fabiodomingues/clj-depend &quot;0.8.0&quot;]</title>
-    <link>https://clojars.org/com.fabiodomingues/clj-depend/versions/0.8.0</link>
-    <description>A Clojure namespace dependency analyzer</description>
-    <pubDate>Sun, 3 Sep 2023 23:03:55 +0000</pubDate>
   </item>
   </channel>
 </rss>
