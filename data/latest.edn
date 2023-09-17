@@ -1,8 +1,3 @@
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.09.07", :description "A linter for Clojure that sparks joy.", :created 1694026814697}
-{:jar_name "lein-clj-kondo", :group_name "com.github.clj-kondo", :version "2023.09.07", :description "Lein plugin to run clj-kondo", :created 1694027446348}
-{:jar_name "coda-client", :group_name "net.clojars.zenerzeppelin", :version "0.1.0-SNAPSHOT", :description "Library for interacting with Coda docs", :created 1694031953012}
-{:jar_name "rewrite-clj", :group_name "org.clojars.tristefigure", :version "0.6.1-SNAPSHOT", :description "Comment-/Whitespace-preserving rewriting of EDN documents.", :created 1694034645672}
-{:jar_name "kit-undertow", :group_name "io.github.kit-clj", :version "1.0.6", :description nil, :created 1694042167046}
 {:jar_name "ring-jetty9-adapter-http3", :group_name "info.sunng", :version "0.3.1", :description "Ring adapter for jetty 9 and above, meta package for http3", :created 1694052156835}
 {:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.22.2", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1694052568673}
 {:jar_name "dobby", :group_name "com.github.brianium", :version "2.0.2", :description nil, :created 1694053012419}
@@ -254,3 +249,8 @@
 {:jar_name "bb-excel", :group_name "com.github.kbosompem", :version "0.0.6", :description "A Simple Clojure/Babashka Library for Reading Data from Excel Files", :created 1694897677309}
 {:jar_name "hermes", :group_name "com.eldrix", :version "1.4.1281", :description nil, :created 1694901786402}
 {:jar_name "lein-template", :group_name "luminus", :version "4.51", :description "a template for creating Luminus applications", :created 1694904238636}
+{:jar_name "io", :group_name "io.github.protojure", :version "2.8.0", :description "IO library to support io.github.protojure/core", :created 1694905578294}
+{:jar_name "core", :group_name "io.github.protojure", :version "2.8.0", :description "Core protobuf and GRPC utilities for protojure", :created 1694905612343}
+{:jar_name "grpc-client", :group_name "io.github.protojure", :version "2.8.0", :description "GRPC client library for protoc-gen-clojure", :created 1694905639242}
+{:jar_name "grpc-server", :group_name "io.github.protojure", :version "2.8.0", :description "GRPC server library for protoc-gen-clojure", :created 1694905687220}
+{:jar_name "borsh-clj", :group_name "io.github.doglooksgood", :version "0.1.16", :description nil, :created 1694907982878}
