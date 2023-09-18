@@ -1,20 +1,3 @@
-{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.612", :description nil, :created 1693958323691}
-{:jar_name "ring-oauth2", :group_name "ring-oauth2", :version "0.2.2", :description "OAuth 2.0 client middleware for Ring", :created 1693966689121}
-{:jar_name "proxy-plus", :group_name "com.rpl", :version "0.0.11", :description "A faster and more usable replacement for Clojure's proxy.", :created 1693973326817}
-{:jar_name "hooked", :group_name "party.donut", :version "0.0.2", :description nil, :created 1693973331402}
-{:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.7.2", :description nil, :created 1694001301309}
-{:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.7.2", :description nil, :created 1694001339928}
-{:jar_name "launchpad", :group_name "com.lambdaisland", :version "0.17.93-alpha", :description "Clojure dev process launcher", :created 1694003182042}
-{:jar_name "sweet-array", :group_name "dev.athos", :version "0.2.0", :description "Array manipulation library for Clojure with \"sweet\" array type notation and more safety by static types", :created 1694008044216}
-{:jar_name "openapi-v3-validator", :group_name "nl.jomco", :version "0.1.82", :description nil, :created 1694011450344}
-{:jar_name "morf", :group_name "com.lambdaisland", :version "0.1.4", :description "deform / with-form macros for reagent", :created 1694014227292}
-{:jar_name "openapi-v3-validator", :group_name "nl.jomco", :version "0.1.84", :description nil, :created 1694014479424}
-{:jar_name "clj-graphviz", :group_name "com.phronemophobic", :version "0.6.2", :description nil, :created 1694024955452}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.09.07", :description "A linter for Clojure that sparks joy.", :created 1694026814697}
-{:jar_name "lein-clj-kondo", :group_name "com.github.clj-kondo", :version "2023.09.07", :description "Lein plugin to run clj-kondo", :created 1694027446348}
-{:jar_name "kit-undertow", :group_name "io.github.kit-clj", :version "1.0.6", :description nil, :created 1694042167046}
-{:jar_name "ring-jetty9-adapter-http3", :group_name "info.sunng", :version "0.3.1", :description "Ring adapter for jetty 9 and above, meta package for http3", :created 1694052156835}
-{:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.22.2", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1694052568673}
 {:jar_name "dobby", :group_name "com.github.brianium", :version "2.0.2", :description nil, :created 1694053012419}
 {:jar_name "openai-clojure", :group_name "net.clojars.wkok", :version "0.10.0", :description "Clojure functions to drive the OpenAI API", :created 1694081957144}
 {:jar_name "dobby", :group_name "com.github.brianium", :version "2.0.3", :description nil, :created 1694082833218}
@@ -254,3 +237,20 @@
 {:jar_name "fulcro-i18n", :group_name "com.fulcrologic", :version "1.1.0", :description "A library for adding i18n strings and formatting to Fulcro apps", :created 1694983102067}
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.6.10", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1694983393312}
 {:jar_name "zipf", :group_name "com.eldrix", :version "0.1.7", :description nil, :created 1694984792549}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.1.2", :description "An optional type system for Clojure", :created 1695014329428}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.1.2", :description "A variant of tools.analyzer.", :created 1695014335508}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.1.2", :description "A variant of tools.analyzer.jvm.", :created 1695014342688}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.1.2", :description "A variant of tools.analyzer.js.", :created 1695014349938}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.1.2", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1695014357187}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.1.2", :description "Type-like specs.", :created 1695014364357}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.1.2", :description "Type annotations and macros for the base Clojure distribution.", :created 1695014371537}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.1.2", :description "FIXME", :created 1695014378767}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.1.2", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1695014385856}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.1.2", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1695014393246}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.1.2", :description "Runtime dependencies for ClojureScript type system.", :created 1695014400676}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.1.2", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1695014407826}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.1.2", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1695014415016}
+{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.1.2", :description "Malli integration", :created 1695014422055}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.1.2", :description "Type annotations and macros for core.async.", :created 1695014429135}
+{:jar_name "mina", :group_name "com.s-exp", :version "0.1.19", :description nil, :created 1695014844472}
+{:jar_name "spandex", :group_name "cc.qbits", :version "0.8.1", :description nil, :created 1695014918340}
