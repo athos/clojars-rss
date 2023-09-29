@@ -1,9 +1,3 @@
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.1.2", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1695014393246}
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.1.2", :description "Runtime dependencies for ClojureScript type system.", :created 1695014400676}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.1.2", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1695014407826}
-{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.1.2", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1695014415016}
-{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.1.2", :description "Malli integration", :created 1695014422055}
-{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.1.2", :description "Type annotations and macros for core.async.", :created 1695014429135}
 {:jar_name "mina", :group_name "com.s-exp", :version "0.1.19", :description nil, :created 1695014844472}
 {:jar_name "spandex", :group_name "cc.qbits", :version "0.8.1", :description nil, :created 1695014918340}
 {:jar_name "discord-appender", :group_name "org.last-try", :version "0.1.0", :description nil, :created 1695017656482}
@@ -254,3 +248,9 @@
 {:jar_name "ncr.clj.bot-api", :group_name "io.github.suprematic", :version "0.2.8", :description nil, :created 1696009984232}
 {:jar_name "donatello", :group_name "org.clojars.quoll", :version "1.2.12", :description nil, :created 1696011240883}
 {:jar_name "michaelangelo", :group_name "org.clojars.quoll", :version "0.1.7", :description nil, :created 1696012415586}
+{:jar_name "ring-core", :group_name "ring", :version "1.11.0-alpha4", :description "Ring core libraries.", :created 1696016713131}
+{:jar_name "ring-devel", :group_name "ring", :version "1.11.0-alpha4", :description "Ring development and debugging libraries.", :created 1696016740751}
+{:jar_name "ring-servlet", :group_name "ring", :version "1.11.0-alpha4", :description "Ring servlet utilities.", :created 1696016770120}
+{:jar_name "ring-jakarta-servlet", :group_name "org.ring-clojure", :version "1.11.0-alpha4", :description "Ring Jakarta servlet utilities.", :created 1696016804160}
+{:jar_name "ring-jetty-adapter", :group_name "ring", :version "1.11.0-alpha4", :description "Ring Jetty adapter.", :created 1696016865749}
+{:jar_name "ring", :group_name "ring", :version "1.11.0-alpha4", :description "A Clojure web applications library.", :created 1696016918428}
