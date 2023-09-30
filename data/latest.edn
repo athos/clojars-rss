@@ -1,13 +1,3 @@
-{:jar_name "milia", :group_name "onaio", :version "0.9.3-rc2", :description "The ona.io Clojure Web API Client.", :created 1695199878125}
-{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.79", :description nil, :created 1695200159246}
-{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.79", :description nil, :created 1695200167686}
-{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.79", :description nil, :created 1695200175186}
-{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.79", :description nil, :created 1695200183175}
-{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.79", :description nil, :created 1695200190835}
-{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.79", :description nil, :created 1695200198705}
-{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.79", :description nil, :created 1695200206135}
-{:jar_name "blueprint-microserver", :group_name "com.exoscale", :version "0.2.79", :description nil, :created 1695200213664}
-{:jar_name "effective", :group_name "com.eureton", :version "0.1.0", :description "RSpec-style expect-to-change assertions for Clojure.", :created 1695201496123}
 {:jar_name "clj-async-profiler", :group_name "com.clojure-goes-fast", :version "1.0.6-SNAPSHOT", :description "Embedded high-precision Clojure profiler (based on async-profiler)", :created 1695204797197}
 {:jar_name "orchard", :group_name "cider", :version "0.15.0", :description "A fertile ground for Clojure tooling", :created 1695212354439}
 {:jar_name "clj-icalendar", :group_name "net.clojars.kah0ona", :version "0.3.2", :description "wrapper over ical4j to generate ics, forked from clj-icalendar/clj-icalendar", :created 1695213341501}
@@ -254,3 +244,13 @@
 {:jar_name "expectations", :group_name "com.github.seancorfield", :version "2.0.999-SNAPSHOT", :description "A clojure.test-compatible version of the classic Expectations testing library.", :created 1696045410013}
 {:jar_name "expectations", :group_name "com.github.seancorfield", :version "2.1.999-SNAPSHOT", :description "A clojure.test-compatible version of the classic Expectations testing library.", :created 1696052947826}
 {:jar_name "ring-jetty9-adapter", :group_name "org.clojars.jasonj", :version "0.30.1-SNAPSHOT", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1696062406280}
+{:jar_name "pg-common", :group_name "com.github.igrishaev", :version "0.1.8", :description "Common PG modules", :created 1696089721376}
+{:jar_name "pg-types", :group_name "com.github.igrishaev", :version "0.1.8", :description "PG types encoding and decoding", :created 1696089735837}
+{:jar_name "pg-copy", :group_name "com.github.igrishaev", :version "0.1.8", :description "COPY within PG binary format", :created 1696089749313}
+{:jar_name "pg-copy-jdbc", :group_name "com.github.igrishaev", :version "0.1.8", :description "COPY powered with JDBC.next", :created 1696089764955}
+{:jar_name "pg-joda-time", :group_name "com.github.igrishaev", :version "0.1.8", :description "Expand encoding & decoding with Joda Time", :created 1696089779233}
+{:jar_name "pg-json", :group_name "com.github.igrishaev", :version "0.1.8", :description "Expand JSON(b) encoding & decoding with Cheshire", :created 1696089793020}
+{:jar_name "pg-client", :group_name "com.github.igrishaev", :version "0.1.8", :description "Postgres client in pure Clojure (no JDBC)", :created 1696089806654}
+{:jar_name "pg-pool", :group_name "com.github.igrishaev", :version "0.1.8", :description "A simple, handmade connection pool for PG", :created 1696089822931}
+{:jar_name "pg-ssl", :group_name "com.github.igrishaev", :version "0.1.8", :description "SSL-related utils", :created 1696089835951}
+{:jar_name "pg-integration", :group_name "com.github.igrishaev", :version "0.1.8", :description "Multi-version integration tests in Docker", :created 1696089850887}

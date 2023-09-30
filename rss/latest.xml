@@ -4,7 +4,77 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 30 Sep 2023 16:01:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 30 Sep 2023 17:01:11 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-integration/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-integration &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-integration/versions/0.1.8</link>
+    <description>Multi-version integration tests in Docker</description>
+    <pubDate>Sat, 30 Sep 2023 16:04:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-ssl/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-ssl &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-ssl/versions/0.1.8</link>
+    <description>SSL-related utils</description>
+    <pubDate>Sat, 30 Sep 2023 16:03:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-pool/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-pool &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-pool/versions/0.1.8</link>
+    <description>A simple, handmade connection pool for PG</description>
+    <pubDate>Sat, 30 Sep 2023 16:03:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-client/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-client &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-client/versions/0.1.8</link>
+    <description>Postgres client in pure Clojure (no JDBC)</description>
+    <pubDate>Sat, 30 Sep 2023 16:03:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-json/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-json &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-json/versions/0.1.8</link>
+    <description>Expand JSON(b) encoding &amp; decoding with Cheshire</description>
+    <pubDate>Sat, 30 Sep 2023 16:03:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-joda-time/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-joda-time &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-joda-time/versions/0.1.8</link>
+    <description>Expand encoding &amp; decoding with Joda Time</description>
+    <pubDate>Sat, 30 Sep 2023 16:02:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-copy-jdbc/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-copy-jdbc &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-copy-jdbc/versions/0.1.8</link>
+    <description>COPY powered with JDBC.next</description>
+    <pubDate>Sat, 30 Sep 2023 16:02:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-copy/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-copy &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-copy/versions/0.1.8</link>
+    <description>COPY within PG binary format</description>
+    <pubDate>Sat, 30 Sep 2023 16:02:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-types/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-types &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-types/versions/0.1.8</link>
+    <description>PG types encoding and decoding</description>
+    <pubDate>Sat, 30 Sep 2023 16:02:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-common/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-common &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-common/versions/0.1.8</link>
+    <description>Common PG modules</description>
+    <pubDate>Sat, 30 Sep 2023 16:02:01 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.clojars.jasonj/ring-jetty9-adapter/versions/0.30.1-SNAPSHOT</guid>
     <title>[org.clojars.jasonj/ring-jetty9-adapter &quot;0.30.1-SNAPSHOT&quot;]</title>
@@ -1727,76 +1797,6 @@ application development.</description>
     <link>https://clojars.org/com.clojure-goes-fast/clj-async-profiler/versions/1.0.6-SNAPSHOT</link>
     <description>Embedded high-precision Clojure profiler (based on async-profiler)</description>
     <pubDate>Wed, 20 Sep 2023 10:13:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.eureton/effective/versions/0.1.0</guid>
-    <title>[com.eureton/effective &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/com.eureton/effective/versions/0.1.0</link>
-    <description>RSpec-style expect-to-change assertions for Clojure.</description>
-    <pubDate>Wed, 20 Sep 2023 09:18:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.exoscale/blueprint-microserver/versions/0.2.79</guid>
-    <title>[com.exoscale/blueprint-microserver &quot;0.2.79&quot;]</title>
-    <link>https://clojars.org/com.exoscale/blueprint-microserver/versions/0.2.79</link>
-    <description></description>
-    <pubDate>Wed, 20 Sep 2023 08:56:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-router/versions/0.2.79</guid>
-    <title>[exoscale/blueprint-router &quot;0.2.79&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-router/versions/0.2.79</link>
-    <description></description>
-    <pubDate>Wed, 20 Sep 2023 08:56:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-reporter/versions/0.2.79</guid>
-    <title>[exoscale/blueprint-reporter &quot;0.2.79&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-reporter/versions/0.2.79</link>
-    <description></description>
-    <pubDate>Wed, 20 Sep 2023 08:56:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-server/versions/0.2.79</guid>
-    <title>[exoscale/blueprint-server &quot;0.2.79&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-server/versions/0.2.79</link>
-    <description></description>
-    <pubDate>Wed, 20 Sep 2023 08:56:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-client/versions/0.2.79</guid>
-    <title>[exoscale/blueprint-client &quot;0.2.79&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-client/versions/0.2.79</link>
-    <description></description>
-    <pubDate>Wed, 20 Sep 2023 08:56:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-handler/versions/0.2.79</guid>
-    <title>[exoscale/blueprint-handler &quot;0.2.79&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-handler/versions/0.2.79</link>
-    <description></description>
-    <pubDate>Wed, 20 Sep 2023 08:56:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-openapi/versions/0.2.79</guid>
-    <title>[exoscale/blueprint-openapi &quot;0.2.79&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-openapi/versions/0.2.79</link>
-    <description></description>
-    <pubDate>Wed, 20 Sep 2023 08:56:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/exoscale/blueprint-core/versions/0.2.79</guid>
-    <title>[exoscale/blueprint-core &quot;0.2.79&quot;]</title>
-    <link>https://clojars.org/exoscale/blueprint-core/versions/0.2.79</link>
-    <description></description>
-    <pubDate>Wed, 20 Sep 2023 08:55:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/onaio/milia/versions/0.9.3-rc2</guid>
-    <title>[onaio/milia &quot;0.9.3-rc2&quot;]</title>
-    <link>https://clojars.org/onaio/milia/versions/0.9.3-rc2</link>
-    <description>The ona.io Clojure Web API Client.</description>
-    <pubDate>Wed, 20 Sep 2023 08:51:18 +0000</pubDate>
   </item>
   </channel>
 </rss>

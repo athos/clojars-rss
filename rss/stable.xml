@@ -4,7 +4,77 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 30 Sep 2023 16:01:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 30 Sep 2023 17:01:11 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-integration/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-integration &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-integration/versions/0.1.8</link>
+    <description>Multi-version integration tests in Docker</description>
+    <pubDate>Sat, 30 Sep 2023 16:04:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-ssl/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-ssl &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-ssl/versions/0.1.8</link>
+    <description>SSL-related utils</description>
+    <pubDate>Sat, 30 Sep 2023 16:03:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-pool/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-pool &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-pool/versions/0.1.8</link>
+    <description>A simple, handmade connection pool for PG</description>
+    <pubDate>Sat, 30 Sep 2023 16:03:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-client/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-client &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-client/versions/0.1.8</link>
+    <description>Postgres client in pure Clojure (no JDBC)</description>
+    <pubDate>Sat, 30 Sep 2023 16:03:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-json/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-json &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-json/versions/0.1.8</link>
+    <description>Expand JSON(b) encoding &amp; decoding with Cheshire</description>
+    <pubDate>Sat, 30 Sep 2023 16:03:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-joda-time/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-joda-time &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-joda-time/versions/0.1.8</link>
+    <description>Expand encoding &amp; decoding with Joda Time</description>
+    <pubDate>Sat, 30 Sep 2023 16:02:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-copy-jdbc/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-copy-jdbc &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-copy-jdbc/versions/0.1.8</link>
+    <description>COPY powered with JDBC.next</description>
+    <pubDate>Sat, 30 Sep 2023 16:02:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-copy/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-copy &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-copy/versions/0.1.8</link>
+    <description>COPY within PG binary format</description>
+    <pubDate>Sat, 30 Sep 2023 16:02:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-types/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-types &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-types/versions/0.1.8</link>
+    <description>PG types encoding and decoding</description>
+    <pubDate>Sat, 30 Sep 2023 16:02:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-common/versions/0.1.8</guid>
+    <title>[com.github.igrishaev/pg-common &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-common/versions/0.1.8</link>
+    <description>Common PG modules</description>
+    <pubDate>Sat, 30 Sep 2023 16:02:01 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/systems.bread/bread-core/versions/0.6.1160</guid>
     <title>[systems.bread/bread-core &quot;0.6.1160&quot;]</title>
@@ -1727,76 +1797,6 @@ application development.</description>
     <link>https://clojars.org/org.pinkgorilla/devtools/versions/0.0.17</link>
     <description></description>
     <pubDate>Mon, 18 Sep 2023 19:22:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/reval/versions/0.5.139</guid>
-    <title>[org.pinkgorilla/reval &quot;0.5.139&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/reval/versions/0.5.139</link>
-    <description></description>
-    <pubDate>Mon, 18 Sep 2023 19:20:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.danielsz/system/versions/0.5.1</guid>
-    <title>[org.danielsz/system &quot;0.5.1&quot;]</title>
-    <link>https://clojars.org/org.danielsz/system/versions/0.5.1</link>
-    <description></description>
-    <pubDate>Mon, 18 Sep 2023 19:19:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/devtools/versions/0.0.16</guid>
-    <title>[org.pinkgorilla/devtools &quot;0.0.16&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/devtools/versions/0.0.16</link>
-    <description></description>
-    <pubDate>Mon, 18 Sep 2023 18:55:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/ui-bidi/versions/0.0.24</guid>
-    <title>[org.pinkgorilla/ui-bidi &quot;0.0.24&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/ui-bidi/versions/0.0.24</link>
-    <description></description>
-    <pubDate>Mon, 18 Sep 2023 18:24:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/lupapiste/commons/versions/5.2.1</guid>
-    <title>[lupapiste/commons &quot;5.2.1&quot;]</title>
-    <link>https://clojars.org/lupapiste/commons/versions/5.2.1</link>
-    <description>Common domain code and resources for lupapiste applications</description>
-    <pubDate>Mon, 18 Sep 2023 17:40:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/puppetlabs/clj-parent/versions/7.2.0</guid>
-    <title>[puppetlabs/clj-parent &quot;7.2.0&quot;]</title>
-    <link>https://clojars.org/puppetlabs/clj-parent/versions/7.2.0</link>
-    <description></description>
-    <pubDate>Mon, 18 Sep 2023 17:39:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/ui-bidi/versions/0.0.21</guid>
-    <title>[org.pinkgorilla/ui-bidi &quot;0.0.21&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/ui-bidi/versions/0.0.21</link>
-    <description></description>
-    <pubDate>Mon, 18 Sep 2023 16:14:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/lupapiste/document-search-commons/versions/2.0.0</guid>
-    <title>[lupapiste/document-search-commons &quot;2.0.0&quot;]</title>
-    <link>https://clojars.org/lupapiste/document-search-commons/versions/2.0.0</link>
-    <description>Common document search related code shared between lupadoku and onkalo applications</description>
-    <pubDate>Mon, 18 Sep 2023 16:14:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/ui-bidi/versions/0.0.19</guid>
-    <title>[org.pinkgorilla/ui-bidi &quot;0.0.19&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/ui-bidi/versions/0.0.19</link>
-    <description></description>
-    <pubDate>Mon, 18 Sep 2023 15:25:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/devtools/versions/0.0.15</guid>
-    <title>[org.pinkgorilla/devtools &quot;0.0.15&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/devtools/versions/0.0.15</link>
-    <description></description>
-    <pubDate>Mon, 18 Sep 2023 15:01:02 +0000</pubDate>
   </item>
   </channel>
 </rss>
