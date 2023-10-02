@@ -1,6 +1,3 @@
-{:jar_name "pbr", :group_name "com.github.pmonks", :version "2.0.347", :description "Peter's Build Resources for Clojure tools.build projects.", :created 1695537350845}
-{:jar_name "openai-clojure", :group_name "net.clojars.wkok", :version "0.11.0", :description "Clojure functions to drive the OpenAI API", :created 1695552798198}
-{:jar_name "kairos", :group_name "org.pilosus", :version "0.2.9999-SNAPSHOT", :description "Crontab parsing library for Clojure", :created 1695556978196}
 {:jar_name "codes.quico.stimulus.core", :group_name "codes.quico", :version "0.1.5", :description nil, :created 1695569822375}
 {:jar_name "malli", :group_name "metosin", :version "0.13.0", :description nil, :created 1695570489014}
 {:jar_name "charred", :group_name "com.cnuernber", :version "1.033", :description nil, :created 1695571444558}
@@ -119,7 +116,6 @@
 {:jar_name "fastmath", :group_name "generateme", :version "2.2.2-SNAPSHOT", :description "Fast and primitive math library", :created 1695989987833}
 {:jar_name "datasplash", :group_name "datasplash", :version "0.7.18", :description "Clojure API for a more dynamic Google Cloud Dataflow and (hopefully) Apache BEAM", :created 1695990863724}
 {:jar_name "haystack", :group_name "mx.cider", :version "0.3.0", :description "Let's make the most of Clojure's infamous stacktraces!", :created 1695991061482}
-{:jar_name "oci-fn", :group_name "com.monkeyprojects", :version "0.1.0-SNAPSHOT", :description nil, :created 1695998683824}
 {:jar_name "ncr.clj.bot-api", :group_name "io.github.suprematic", :version "0.2.7", :description nil, :created 1695999006669}
 {:jar_name "stimulus", :group_name "com.github.qmoya", :version "0.2.0", :description nil, :created 1696002434637}
 {:jar_name "cursor", :group_name "io.github.drbuchkov", :version "0.0.3", :description "A portable library for Clojure that provides cursors, which are atom-like objects created out of a portion of an existing atom.", :created 1696005919174}
@@ -254,3 +250,7 @@
 {:jar_name "garden", :group_name "com.zapflow", :version "1.3.12", :description "Generate CSS from Clojure(Script) data structures.", :created 1696238300198}
 {:jar_name "riemann-slim", :group_name "com.leafclick", :version "0.3.9", :description "A network event stream processor. Intended for analytics, metrics, and alerting; and to glue various monitoring systems together.", :created 1696238960266}
 {:jar_name "unixsocket-http", :group_name "unixsocket-http", :version "1.0.13", :description "A library to allow HTTP calls over a UNIX socket, e.g. for\n                communicating with Docker.", :created 1696245922071}
+{:jar_name "clojurescript", :group_name "com.github.jpmonettas", :version "1.11.60-2", :description "ClojureScript compiler and core runtime library.", :created 1696249236470}
+{:jar_name "flow-storm-inst", :group_name "com.github.jpmonettas", :version "3.7.5", :description nil, :created 1696249368130}
+{:jar_name "flow-storm-dbg", :group_name "com.github.jpmonettas", :version "3.7.5", :description nil, :created 1696249417994}
+{:jar_name "oci-fn", :group_name "com.monkeyprojects", :version "0.1.0-SNAPSHOT", :description nil, :created 1696250576208}
