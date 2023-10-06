@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 6 Oct 2023 10:01:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 6 Oct 2023 11:01:21 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/clojure2d/versions/1.4.6-SNAPSHOT</guid>
+    <title>[clojure2d &quot;1.4.6-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/clojure2d/versions/1.4.6-SNAPSHOT</link>
+    <description>Creative coding / glitch library backed by Java2D</description>
+    <pubDate>Fri, 6 Oct 2023 10:46:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/generateme/fastmath/versions/2.2.2-SNAPSHOT</guid>
+    <title>[generateme/fastmath &quot;2.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/generateme/fastmath/versions/2.2.2-SNAPSHOT</link>
+    <description>Fast and primitive math library</description>
+    <pubDate>Fri, 6 Oct 2023 10:45:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/lupapiste/commons/versions/5.2.6</guid>
+    <title>[lupapiste/commons &quot;5.2.6&quot;]</title>
+    <link>https://clojars.org/lupapiste/commons/versions/5.2.6</link>
+    <description>Common domain code and resources for lupapiste applications</description>
+    <pubDate>Fri, 6 Oct 2023 10:40:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20231006-101825.35aa7ea2</guid>
+    <title>[org.akvo.flow/akvo-flow &quot;20231006-101825.35aa7ea2&quot;]</title>
+    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20231006-101825.35aa7ea2</link>
+    <description></description>
+    <pubDate>Fri, 6 Oct 2023 10:20:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.domaindrivenarchitecture/c4k-jitsi/versions/1.5.1</guid>
+    <title>[org.domaindrivenarchitecture/c4k-jitsi &quot;1.5.1&quot;]</title>
+    <link>https://clojars.org/org.domaindrivenarchitecture/c4k-jitsi/versions/1.5.1</link>
+    <description>jitsi c4k-installation package</description>
+    <pubDate>Fri, 6 Oct 2023 10:16:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.domaindrivenarchitecture/c4k-common-clj/versions/6.0.3</guid>
+    <title>[org.domaindrivenarchitecture/c4k-common-clj &quot;6.0.3&quot;]</title>
+    <link>https://clojars.org/org.domaindrivenarchitecture/c4k-common-clj/versions/6.0.3</link>
+    <description>Contains predicates and tools for c4k</description>
+    <pubDate>Fri, 6 Oct 2023 10:07:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.domaindrivenarchitecture/c4k-common-cljs/versions/6.0.3</guid>
+    <title>[org.domaindrivenarchitecture/c4k-common-cljs &quot;6.0.3&quot;]</title>
+    <link>https://clojars.org/org.domaindrivenarchitecture/c4k-common-cljs/versions/6.0.3</link>
+    <description>Contains predicates and tools for c4k</description>
+    <pubDate>Fri, 6 Oct 2023 10:07:17 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.monkeyci/app/versions/0.1.0-SNAPSHOT</guid>
     <title>[com.monkeyci/app &quot;0.1.0-SNAPSHOT&quot;]</title>
@@ -1749,55 +1798,6 @@
     <link>https://clojars.org/com.github.igrishaev/pg-copy-jdbc/versions/0.1.8</link>
     <description>COPY powered with JDBC.next</description>
     <pubDate>Sat, 30 Sep 2023 16:02:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.igrishaev/pg-copy/versions/0.1.8</guid>
-    <title>[com.github.igrishaev/pg-copy &quot;0.1.8&quot;]</title>
-    <link>https://clojars.org/com.github.igrishaev/pg-copy/versions/0.1.8</link>
-    <description>COPY within PG binary format</description>
-    <pubDate>Sat, 30 Sep 2023 16:02:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.igrishaev/pg-types/versions/0.1.8</guid>
-    <title>[com.github.igrishaev/pg-types &quot;0.1.8&quot;]</title>
-    <link>https://clojars.org/com.github.igrishaev/pg-types/versions/0.1.8</link>
-    <description>PG types encoding and decoding</description>
-    <pubDate>Sat, 30 Sep 2023 16:02:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.igrishaev/pg-common/versions/0.1.8</guid>
-    <title>[com.github.igrishaev/pg-common &quot;0.1.8&quot;]</title>
-    <link>https://clojars.org/com.github.igrishaev/pg-common/versions/0.1.8</link>
-    <description>Common PG modules</description>
-    <pubDate>Sat, 30 Sep 2023 16:02:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.jasonj/ring-jetty9-adapter/versions/0.30.1-SNAPSHOT</guid>
-    <title>[org.clojars.jasonj/ring-jetty9-adapter &quot;0.30.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.jasonj/ring-jetty9-adapter/versions/0.30.1-SNAPSHOT</link>
-    <description>Ring adapter for jetty9, which supports websocket and spdy</description>
-    <pubDate>Sat, 30 Sep 2023 08:26:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.seancorfield/expectations/versions/2.1.999-SNAPSHOT</guid>
-    <title>[com.github.seancorfield/expectations &quot;2.1.999-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.seancorfield/expectations/versions/2.1.999-SNAPSHOT</link>
-    <description>A clojure.test-compatible version of the classic Expectations testing library.</description>
-    <pubDate>Sat, 30 Sep 2023 05:49:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.seancorfield/expectations/versions/2.0.999-SNAPSHOT</guid>
-    <title>[com.github.seancorfield/expectations &quot;2.0.999-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.seancorfield/expectations/versions/2.0.999-SNAPSHOT</link>
-    <description>A clojure.test-compatible version of the classic Expectations testing library.</description>
-    <pubDate>Sat, 30 Sep 2023 03:43:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/systems.bread/bread-core/versions/0.6.1160</guid>
-    <title>[systems.bread/bread-core &quot;0.6.1160&quot;]</title>
-    <link>https://clojars.org/systems.bread/bread-core/versions/0.6.1160</link>
-    <description>A new kind of content management system</description>
-    <pubDate>Sat, 30 Sep 2023 03:26:59 +0000</pubDate>
   </item>
   </channel>
 </rss>
