@@ -1,4 +1,3 @@
-{:jar_name "clj-otel-sdk-extension-autoconfigure", :group_name "com.github.steffan-westcott", :version "0.2.4.1", :description "Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties", :created 1696172555624}
 {:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.2.4.1", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1696172562404}
 {:jar_name "clj-otel-extension-trace-propagators", :group_name "com.github.steffan-westcott", :version "0.2.4.1", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1696172568915}
 {:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "com.github.steffan-westcott", :version "0.2.4.1", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter", :created 1696172575515}
@@ -254,3 +253,4 @@
 {:jar_name "oauth2", :group_name "org.pinkgorilla", :version "0.0.8", :description "websocket library", :created 1696788800797}
 {:jar_name "dobby", :group_name "com.github.brianium", :version "3.0.1", :description nil, :created 1696789381293}
 {:jar_name "babashka", :group_name "babashka", :version "1.3.186-SNAPSHOT", :description "babashka", :created 1696793448296}
+{:jar_name "tiara", :group_name "org.clojars.quoll", :version "0.3.3", :description nil, :created 1696795840365}
