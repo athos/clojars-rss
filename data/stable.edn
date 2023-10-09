@@ -1,8 +1,3 @@
-{:jar_name "clj-otel-exporter-logging-otlp", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1696159654804}
-{:jar_name "clj-otel-exporter-otlp", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :created 1696159659644}
-{:jar_name "clj-otel-exporter-prometheus", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter", :created 1696159664374}
-{:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1696159668964}
-{:jar_name "clj-otel-instrumentation-resources", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1696159673694}
 {:jar_name "clj-otel-instrumentation-runtime-telemetry-java8", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 8+", :created 1696159678424}
 {:jar_name "clj-otel-instrumentation-runtime-telemetry-java17", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 17+", :created 1696159683204}
 {:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.2.4.1", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1696172528504}
@@ -254,3 +249,8 @@
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.623", :description nil, :created 1696883878753}
 {:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.623", :description nil, :created 1696884167929}
 {:jar_name "rudolf", :group_name "org.clojars.quoll", :version "0.1.8", :description nil, :created 1696885099649}
+{:jar_name "donatello", :group_name "org.clojars.quoll", :version "1.3.3", :description nil, :created 1696887904669}
+{:jar_name "raphael", :group_name "org.clojars.quoll", :version "0.3.4", :description nil, :created 1696888009860}
+{:jar_name "llama-clj", :group_name "com.phronemophobic", :version "0.8", :description nil, :created 1696888193302}
+{:jar_name "llama-clj-combined", :group_name "com.phronemophobic", :version "0.8", :description nil, :created 1696888204872}
+{:jar_name "oauth2", :group_name "org.pinkgorilla", :version "0.0.16", :description "websocket library", :created 1696888799298}
