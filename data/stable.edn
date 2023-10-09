@@ -1,8 +1,3 @@
-{:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1696159630674}
-{:jar_name "clj-otel-extension-trace-propagators", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1696159635404}
-{:jar_name "clj-otel-exporter-jaeger-grpc", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger gRPC exporter", :created 1696159640124}
-{:jar_name "clj-otel-exporter-jaeger-thrift", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry Jaeger Thrift exporter", :created 1696159645094}
-{:jar_name "clj-otel-exporter-logging", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :created 1696159649804}
 {:jar_name "clj-otel-exporter-logging-otlp", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1696159654804}
 {:jar_name "clj-otel-exporter-otlp", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :created 1696159659644}
 {:jar_name "clj-otel-exporter-prometheus", :group_name "com.github.steffan-westcott", :version "0.2.4", :description "Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter", :created 1696159664374}
@@ -254,3 +249,8 @@
 {:jar_name "rest", :group_name "org.pinkgorilla", :version "0.0.6", :description nil, :created 1696880716082}
 {:jar_name "oauth2", :group_name "org.pinkgorilla", :version "0.0.15", :description "websocket library", :created 1696880743612}
 {:jar_name "webly", :group_name "org.pinkgorilla", :version "0.4.638", :description nil, :created 1696880756993}
+{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.4.639", :description nil, :created 1696882304638}
+{:jar_name "fulcro-rad-datomic", :group_name "com.fulcrologic", :version "1.5.0", :description "A Datomic database driver for Fulcro RAD.", :created 1696883245175}
+{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.623", :description nil, :created 1696883878753}
+{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.623", :description nil, :created 1696884167929}
+{:jar_name "rudolf", :group_name "org.clojars.quoll", :version "0.1.8", :description nil, :created 1696885099649}
