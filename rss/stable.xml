@@ -4,7 +4,63 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 10 Oct 2023 08:01:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Oct 2023 09:01:29 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/lambdaisland/uri/versions/1.16.134</guid>
+    <title>[lambdaisland/uri &quot;1.16.134&quot;]</title>
+    <link>https://clojars.org/lambdaisland/uri/versions/1.16.134</link>
+    <description>A pure Clojure/ClojureScript URI library.</description>
+    <pubDate>Tue, 10 Oct 2023 08:38:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-integration/versions/0.1.9</guid>
+    <title>[com.github.igrishaev/pg-integration &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-integration/versions/0.1.9</link>
+    <description>Multi-version integration tests in Docker</description>
+    <pubDate>Tue, 10 Oct 2023 08:18:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-ssl/versions/0.1.9</guid>
+    <title>[com.github.igrishaev/pg-ssl &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-ssl/versions/0.1.9</link>
+    <description>SSL-related utils</description>
+    <pubDate>Tue, 10 Oct 2023 08:02:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-pool/versions/0.1.9</guid>
+    <title>[com.github.igrishaev/pg-pool &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-pool/versions/0.1.9</link>
+    <description>A simple, handmade connection pool for PG</description>
+    <pubDate>Tue, 10 Oct 2023 08:02:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-client/versions/0.1.9</guid>
+    <title>[com.github.igrishaev/pg-client &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-client/versions/0.1.9</link>
+    <description>Postgres client in pure Clojure (no JDBC)</description>
+    <pubDate>Tue, 10 Oct 2023 08:02:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-json/versions/0.1.9</guid>
+    <title>[com.github.igrishaev/pg-json &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-json/versions/0.1.9</link>
+    <description>Expand JSON(b) encoding &amp; decoding with Cheshire</description>
+    <pubDate>Tue, 10 Oct 2023 08:01:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-joda-time/versions/0.1.9</guid>
+    <title>[com.github.igrishaev/pg-joda-time &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-joda-time/versions/0.1.9</link>
+    <description>Expand encoding &amp; decoding with Joda Time</description>
+    <pubDate>Tue, 10 Oct 2023 08:01:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-copy-jdbc/versions/0.1.9</guid>
+    <title>[com.github.igrishaev/pg-copy-jdbc &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-copy-jdbc/versions/0.1.9</link>
+    <description>COPY powered with JDBC.next</description>
+    <pubDate>Tue, 10 Oct 2023 08:01:34 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.github.igrishaev/pg-copy/versions/0.1.9</guid>
     <title>[com.github.igrishaev/pg-copy &quot;0.1.9&quot;]</title>
@@ -1741,63 +1797,6 @@
     <link>https://clojars.org/lein-sass/versions/0.6.0</link>
     <description>SASS autobuilder plugin</description>
     <pubDate>Mon, 2 Oct 2023 16:30:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/lupapiste/commons/versions/5.2.5</guid>
-    <title>[lupapiste/commons &quot;5.2.5&quot;]</title>
-    <link>https://clojars.org/lupapiste/commons/versions/5.2.5</link>
-    <description>Common domain code and resources for lupapiste applications</description>
-    <pubDate>Mon, 2 Oct 2023 15:28:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.lispyclouds/contajners/versions/1.0.2</guid>
-    <title>[org.clojars.lispyclouds/contajners &quot;1.0.2&quot;]</title>
-    <link>https://clojars.org/org.clojars.lispyclouds/contajners/versions/1.0.2</link>
-    <description>An idiomatic, data-driven, REPL friendly clojure client for OCI container engines</description>
-    <pubDate>Mon, 2 Oct 2023 15:06:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.luposlip/nd-db/versions/0.9.0-beta6</guid>
-    <title>[com.luposlip/nd-db &quot;0.9.0-beta6&quot;]</title>
-    <link>https://clojars.org/com.luposlip/nd-db/versions/0.9.0-beta6</link>
-    <description>Clojure library to use newline delimited files as fast read-only databases.</description>
-    <pubDate>Mon, 2 Oct 2023 13:59:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/threatgrid/ductile/versions/0.4.8</guid>
-    <title>[threatgrid/ductile &quot;0.4.8&quot;]</title>
-    <link>https://clojars.org/threatgrid/ductile/versions/0.4.8</link>
-    <description>Yet another Clojure client for Elasticsearch REST API, that fits our needs</description>
-    <pubDate>Mon, 2 Oct 2023 13:08:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.jpmonettas/flow-storm-dbg/versions/3.7.5</guid>
-    <title>[com.github.jpmonettas/flow-storm-dbg &quot;3.7.5&quot;]</title>
-    <link>https://clojars.org/com.github.jpmonettas/flow-storm-dbg/versions/3.7.5</link>
-    <description></description>
-    <pubDate>Mon, 2 Oct 2023 12:23:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.jpmonettas/flow-storm-inst/versions/3.7.5</guid>
-    <title>[com.github.jpmonettas/flow-storm-inst &quot;3.7.5&quot;]</title>
-    <link>https://clojars.org/com.github.jpmonettas/flow-storm-inst/versions/3.7.5</link>
-    <description></description>
-    <pubDate>Mon, 2 Oct 2023 12:22:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.jpmonettas/clojurescript/versions/1.11.60-2</guid>
-    <title>[com.github.jpmonettas/clojurescript &quot;1.11.60-2&quot;]</title>
-    <link>https://clojars.org/com.github.jpmonettas/clojurescript/versions/1.11.60-2</link>
-    <description>ClojureScript compiler and core runtime library.</description>
-    <pubDate>Mon, 2 Oct 2023 12:20:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/unixsocket-http/versions/1.0.13</guid>
-    <title>[unixsocket-http &quot;1.0.13&quot;]</title>
-    <link>https://clojars.org/unixsocket-http/versions/1.0.13</link>
-    <description>A library to allow HTTP calls over a UNIX socket, e.g. for
-                communicating with Docker.</description>
-    <pubDate>Mon, 2 Oct 2023 11:25:22 +0000</pubDate>
   </item>
   </channel>
 </rss>
