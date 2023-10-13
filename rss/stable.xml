@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 13 Oct 2023 02:09:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Oct 2023 03:01:21 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/ring/versions/1.11.0-alpha5</guid>
+    <title>[ring &quot;1.11.0-alpha5&quot;]</title>
+    <link>https://clojars.org/ring/versions/1.11.0-alpha5</link>
+    <description>A Clojure web applications library.</description>
+    <pubDate>Fri, 13 Oct 2023 02:16:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-jetty-adapter/versions/1.11.0-alpha5</guid>
+    <title>[ring/ring-jetty-adapter &quot;1.11.0-alpha5&quot;]</title>
+    <link>https://clojars.org/ring/ring-jetty-adapter/versions/1.11.0-alpha5</link>
+    <description>Ring Jetty adapter.</description>
+    <pubDate>Fri, 13 Oct 2023 02:16:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.ring-clojure/ring-jakarta-servlet/versions/1.11.0-alpha5</guid>
+    <title>[org.ring-clojure/ring-jakarta-servlet &quot;1.11.0-alpha5&quot;]</title>
+    <link>https://clojars.org/org.ring-clojure/ring-jakarta-servlet/versions/1.11.0-alpha5</link>
+    <description>Ring Jakarta servlet utilities.</description>
+    <pubDate>Fri, 13 Oct 2023 02:15:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-servlet/versions/1.11.0-alpha5</guid>
+    <title>[ring/ring-servlet &quot;1.11.0-alpha5&quot;]</title>
+    <link>https://clojars.org/ring/ring-servlet/versions/1.11.0-alpha5</link>
+    <description>Ring servlet utilities.</description>
+    <pubDate>Fri, 13 Oct 2023 02:15:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-devel/versions/1.11.0-alpha5</guid>
+    <title>[ring/ring-devel &quot;1.11.0-alpha5&quot;]</title>
+    <link>https://clojars.org/ring/ring-devel/versions/1.11.0-alpha5</link>
+    <description>Ring development and debugging libraries.</description>
+    <pubDate>Fri, 13 Oct 2023 02:14:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-core/versions/1.11.0-alpha5</guid>
+    <title>[ring/ring-core &quot;1.11.0-alpha5&quot;]</title>
+    <link>https://clojars.org/ring/ring-core/versions/1.11.0-alpha5</link>
+    <description>Ring core libraries.</description>
+    <pubDate>Fri, 13 Oct 2023 02:14:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.ring-clojure/ring-websocket-protocols/versions/1.11.0-alpha5</guid>
+    <title>[org.ring-clojure/ring-websocket-protocols &quot;1.11.0-alpha5&quot;]</title>
+    <link>https://clojars.org/org.ring-clojure/ring-websocket-protocols/versions/1.11.0-alpha5</link>
+    <description>Ring protocols for websockets.</description>
+    <pubDate>Fri, 13 Oct 2023 02:12:23 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/puppetlabs/lein-ezbake/versions/2.5.4</guid>
     <title>[puppetlabs/lein-ezbake &quot;2.5.4&quot;]</title>
@@ -1748,55 +1797,6 @@
     <link>https://clojars.org/is.d0x/district-ui-bundle/versions/23.10.2</link>
     <description></description>
     <pubDate>Wed, 4 Oct 2023 14:01:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/is.d0x/district-ui-web3-chain/versions/23.10.2</guid>
-    <title>[is.d0x/district-ui-web3-chain &quot;23.10.2&quot;]</title>
-    <link>https://clojars.org/is.d0x/district-ui-web3-chain/versions/23.10.2</link>
-    <description></description>
-    <pubDate>Wed, 4 Oct 2023 14:00:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.adgoji/google-displayvideo-clj/versions/0.7.0</guid>
-    <title>[com.adgoji/google-displayvideo-clj &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/com.adgoji/google-displayvideo-clj/versions/0.7.0</link>
-    <description></description>
-    <pubDate>Wed, 4 Oct 2023 07:47:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.adgoji/google-doubleclick-bid-manager-clj/versions/0.7.0</guid>
-    <title>[com.adgoji/google-doubleclick-bid-manager-clj &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/com.adgoji/google-doubleclick-bid-manager-clj/versions/0.7.0</link>
-    <description></description>
-    <pubDate>Wed, 4 Oct 2023 07:47:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/gcp-ser-clj/versions/0.8.2</guid>
-    <title>[gcp-ser-clj &quot;0.8.2&quot;]</title>
-    <link>https://clojars.org/gcp-ser-clj/versions/0.8.2</link>
-    <description>A Clojure library trying to make reporting errors to Google Cloud&#39;s Error Reporting system (Stackdriver) simpler.</description>
-    <pubDate>Wed, 4 Oct 2023 06:54:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/social.kitsune/vuk/versions/0.2.2</guid>
-    <title>[social.kitsune/vuk &quot;0.2.2&quot;]</title>
-    <link>https://clojars.org/social.kitsune/vuk/versions/0.2.2</link>
-    <description>A Clojure library to handle WebFinger interactions for you.</description>
-    <pubDate>Wed, 4 Oct 2023 06:39:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.timezynk/useful/versions/2.3.1</guid>
-    <title>[com.timezynk/useful &quot;2.3.1&quot;]</title>
-    <link>https://clojars.org/com.timezynk/useful/versions/2.3.1</link>
-    <description>Useful functions</description>
-    <pubDate>Wed, 4 Oct 2023 06:09:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/systems.bread/bread-core/versions/0.6.1193</guid>
-    <title>[systems.bread/bread-core &quot;0.6.1193&quot;]</title>
-    <link>https://clojars.org/systems.bread/bread-core/versions/0.6.1193</link>
-    <description>A new kind of content management system</description>
-    <pubDate>Wed, 4 Oct 2023 06:03:22 +0000</pubDate>
   </item>
   </channel>
 </rss>
