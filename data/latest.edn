@@ -222,14 +222,6 @@
 {:jar_name "tablecloth", :group_name "scicloj", :version "7.014", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1697470786527}
 {:jar_name "reagent-table", :group_name "org.pinkgorilla", :version "0.0.7", :description nil, :created 1697472773981}
 {:jar_name "nhs-number", :group_name "com.eldrix", :version "1.0.54", :description "A Clojure/Script library providing validation, formatting and generation of UK NHS Numbers", :created 1697473219574}
-{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for Clojure", :created 1697474607419}
-{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1697474615569}
-{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1697474623279}
-{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1697474630879}
-{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1697474639149}
-{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Type-like specs.", :created 1697474647289}
-{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1697474654879}
-{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "FIXME", :created 1697474662559}
 {:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1697474670079}
 {:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1697474678429}
 {:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1697474685929}
@@ -242,7 +234,6 @@
 {:jar_name "ui-site", :group_name "org.pinkgorilla", :version "0.0.29", :description nil, :created 1697478516862}
 {:jar_name "reagent-table", :group_name "org.pinkgorilla", :version "0.0.8", :description nil, :created 1697479065178}
 {:jar_name "clj-async-profiler", :group_name "com.clojure-goes-fast", :version "1.1.0", :description "Embedded high-precision Clojure profiler (based on async-profiler)", :created 1697480758217}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1697499570931}
 {:jar_name "reagent-table", :group_name "org.pinkgorilla", :version "0.0.9", :description nil, :created 1697501753883}
 {:jar_name "ring-websocket-protocols", :group_name "org.ring-clojure", :version "1.11.0-beta1", :description "Ring protocols for websockets.", :created 1697506135033}
 {:jar_name "ring-core", :group_name "ring", :version "1.11.0-beta1", :description "Ring core libraries.", :created 1697506175324}
@@ -254,3 +245,12 @@
 {:jar_name "fulcro-rad-datomic", :group_name "com.fulcrologic", :version "1.5.2", :description "A Datomic database driver for Fulcro RAD.", :created 1697507158595}
 {:jar_name "ring-jetty9-adapter-http3", :group_name "info.sunng", :version "0.4.1", :description "Ring adapter for jetty 9 and above, meta package for http3", :created 1697508384818}
 {:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.30.1", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1697508451389}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1697516805085}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for Clojure", :created 1697518795823}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1697518803183}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1697518814293}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1697518826914}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1697518838444}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Type-like specs.", :created 1697518846964}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1697518855404}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "FIXME", :created 1697518864084}
