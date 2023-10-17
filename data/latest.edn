@@ -225,7 +225,6 @@
 {:jar_name "fulcro-rad-datomic", :group_name "com.fulcrologic", :version "1.5.2", :description "A Datomic database driver for Fulcro RAD.", :created 1697507158595}
 {:jar_name "ring-jetty9-adapter-http3", :group_name "info.sunng", :version "0.4.1", :description "Ring adapter for jetty 9 and above, meta package for http3", :created 1697508384818}
 {:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.30.1", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1697508451389}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1697516805085}
 {:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for Clojure", :created 1697519071836}
 {:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1697519080176}
 {:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1697519087736}
@@ -254,3 +253,4 @@
 {:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1697556358910}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1697556450811}
 {:jar_name "ring-websocket-async", :group_name "org.ring-clojure", :version "0.1.0-beta1", :description "Library for using core.async with Ring's websocket API", :created 1697558415102}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.4.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1697569369920}
