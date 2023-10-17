@@ -1,5 +1,3 @@
-{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.1.4-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1696884980847}
-{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.1.4-SNAPSHOT", :description "Type-like specs.", :created 1696884988418}
 {:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.1.4-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1696884995928}
 {:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.1.4-SNAPSHOT", :description "FIXME", :created 1696885003548}
 {:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.1.4-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1696885011128}
@@ -252,5 +250,7 @@
 {:jar_name "flagsmith-clj", :group_name "ai.mypulse", :version "0.0.11", :description "A Clojure wrapper around the Flagsmith Java SDK", :created 1697537290894}
 {:jar_name "datascript", :group_name "datascript", :version "1.5.4", :description "An implementation of Datomic in-memory database and Datalog query engine in ClojureScript", :created 1697549249023}
 {:jar_name "ds-test-tools", :group_name "com.oscaro", :version "0.2.1", :description "Tools to test Datasplash pipelines", :created 1697550186953}
-{:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1697553717991}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1697553780962}
+{:jar_name "typeset.logback", :group_name "com.kroo", :version "0.3", :description "Simple JSON layout component for Logback Classic, with Clojure and SLF4J 2+ key value attribute support.", :created 1697555342589}
+{:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1697556358910}
+{:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1697556450811}
+{:jar_name "ring-websocket-async", :group_name "org.ring-clojure", :version "0.1.0-beta1", :description "Library for using core.async with Ring's websocket API", :created 1697558415102}
