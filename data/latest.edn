@@ -239,18 +239,18 @@
 {:jar_name "debux-stubs", :group_name "philoskim", :version "0.9.0", :description "Debux library for production", :created 1697683625671}
 {:jar_name "history", :group_name "io.jepsen", :version "0.1.2", :description "A library for working with Jepsen's histories of concurrent systems.", :created 1697683851613}
 {:jar_name "elle", :group_name "elle", :version "0.1.8", :description "Black-box transactional consistency checker, based on cycle detection", :created 1697684067766}
-{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for Clojure", :created 1697690823118}
-{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1697690831208}
-{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1697690838848}
-{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1697690846518}
-{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1697690854298}
-{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Type-like specs.", :created 1697690862158}
-{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1697690869888}
-{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "FIXME", :created 1697690877538}
-{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1697690885138}
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1697690893098}
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1697690900819}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1697690908459}
-{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1697690916189}
-{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Malli integration", :created 1697690924039}
-{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1697690931769}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for Clojure", :created 1697692225273}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1697692234933}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1697692244163}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1697692253283}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1697692262483}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Type-like specs.", :created 1697692271753}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1697692280943}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "FIXME", :created 1697692290083}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1697692299193}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1697692308754}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1697692318004}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1697692326904}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1697692336034}
+{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Malli integration", :created 1697692345184}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1697692354254}
