@@ -1,8 +1,3 @@
-{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.627", :description nil, :created 1696902274700}
-{:jar_name "commons", :group_name "lupapiste", :version "5.2.7", :description "Common domain code and resources for lupapiste applications", :created 1696921629192}
-{:jar_name "pg-common", :group_name "com.github.igrishaev", :version "0.1.9", :description "Common PG modules", :created 1696924848075}
-{:jar_name "pg-types", :group_name "com.github.igrishaev", :version "0.1.9", :description "PG types encoding and decoding", :created 1696924862865}
-{:jar_name "pg-copy", :group_name "com.github.igrishaev", :version "0.1.9", :description "COPY within PG binary format", :created 1696924874925}
 {:jar_name "pg-copy-jdbc", :group_name "com.github.igrishaev", :version "0.1.9", :description "COPY powered with JDBC.next", :created 1696924894437}
 {:jar_name "pg-joda-time", :group_name "com.github.igrishaev", :version "0.1.9", :description "Expand encoding & decoding with Joda Time", :created 1696924907423}
 {:jar_name "pg-json", :group_name "com.github.igrishaev", :version "0.1.9", :description "Expand JSON(b) encoding & decoding with Cheshire", :created 1696924919689}
@@ -254,3 +249,8 @@
 {:jar_name "rbac-client", :group_name "puppetlabs", :version "1.1.5", :description "Tools for interacting with PE RBAC", :created 1697664821357}
 {:jar_name "common-datomic", :group_name "org.clojars.teleslabs", :version "1.3.1", :description "Common Datomic library", :created 1697667807770}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "7.2.6", :description "", :created 1697670000554}
+{:jar_name "knossos", :group_name "knossos", :version "0.3.10", :description "Linearizability checker", :created 1697682802622}
+{:jar_name "debux", :group_name "philoskim", :version "0.9.0", :description "A trace-based debugging library for Clojure and ClojureScript", :created 1697683594061}
+{:jar_name "debux-stubs", :group_name "philoskim", :version "0.9.0", :description "Debux library for production", :created 1697683625671}
+{:jar_name "history", :group_name "io.jepsen", :version "0.1.2", :description "A library for working with Jepsen's histories of concurrent systems.", :created 1697683851613}
+{:jar_name "elle", :group_name "elle", :version "0.1.8", :description "Black-box transactional consistency checker, based on cycle detection", :created 1697684067766}
