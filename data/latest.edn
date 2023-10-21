@@ -1,4 +1,3 @@
-{:jar_name "clj-async-profiler", :group_name "com.clojure-goes-fast", :version "1.0.6-SNAPSHOT", :description "Embedded high-precision Clojure profiler (based on async-profiler)", :created 1697044875047}
 {:jar_name "fides", :group_name "com.7theta", :version "1.4.0", :description "A library for managing certificates and trust stores", :created 1697045375153}
 {:jar_name "jruby-deps", :group_name "puppetlabs", :version "9.4.3.0-1", :description "JRuby dependencies", :created 1697045732097}
 {:jar_name "build-simple", :group_name "com.github.gnl", :version "0.1.0-SNAPSHOT", :description "Use clojure/tools.build with less DIY", :created 1697049654151}
@@ -204,7 +203,6 @@
 {:jar_name "build.simple", :group_name "com.github.gnl", :version "0.7.4-SNAPSHOT", :description "tools.build's missing piece – install, sign and deploy libraries easily and securely like with Leiningen", :created 1697734528097}
 {:jar_name "build.simple", :group_name "com.github.gnl", :version "0.7.4", :description "tools.build's missing piece – install, sign and deploy libraries easily and securely like with Leiningen", :created 1697735406287}
 {:jar_name "konserve-jdbc", :group_name "io.replikativ", :version "0.2.81", :description "A generic JDBC backend for konserve.", :created 1697737407590}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha39-SNAPSHOT", :description "FIXME: my new library.", :created 1697740897200}
 {:jar_name "toml-clj", :group_name "io.github.tonsky", :version "0.1.0", :description "Fast TOML parser", :created 1697746669488}
 {:jar_name "wikla", :group_name "wikla", :version "1.0.1", :description "Behavior Tree in Clojure(Script).", :created 1697748796893}
 {:jar_name "wikla", :group_name "wikla", :version "1.0.2", :description "Behavior Tree in Clojure(Script).", :created 1697749686551}
@@ -254,3 +252,5 @@
 {:jar_name "ring-websocket-transit", :group_name "org.ring-clojure", :version "0.1.0-beta1", :description "Library for using the Transit data format with Ring websockets", :created 1697854493341}
 {:jar_name "structor", :group_name "com.7theta", :version "2.9.0", :description "Builds for 7theta projects", :created 1697874689522}
 {:jar_name "kindly", :group_name "org.scicloj", :version "4-alpha7", :description nil, :created 1697889607863}
+{:jar_name "ring-websocket-async", :group_name "org.ring-clojure", :version "0.1.0-beta2", :description "Library for using core.async with Ring's websocket API", :created 1697900679534}
+{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha39-SNAPSHOT", :description "FIXME: my new library.", :created 1697903857440}
