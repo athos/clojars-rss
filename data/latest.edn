@@ -1,4 +1,3 @@
-{:jar_name "ds-test-tools", :group_name "com.oscaro", :version "0.2.1", :description "Tools to test Datasplash pipelines", :created 1697550186953}
 {:jar_name "typeset.logback", :group_name "com.kroo", :version "0.3", :description "Simple JSON layout component for Logback Classic, with Clojure and SLF4J 2+ key value attribute support.", :created 1697555342589}
 {:jar_name "ring-websocket-async", :group_name "org.ring-clojure", :version "0.1.0-beta1", :description "Library for using core.async with Ring's websocket API", :created 1697558415102}
 {:jar_name "slingr-services", :group_name "io.github.slingr-stack", :version "1.0-SNAPSHOT", :description "Framework to generate services to use on Slingr platform", :created 1697579861083}
@@ -241,10 +240,7 @@
 {:jar_name "flow-storm-inst", :group_name "com.github.flow-storm", :version "3.8.3", :description nil, :created 1698237173049}
 {:jar_name "fluxus", :group_name "com.7theta", :version "1.0.3", :description "Clojure(script) library for streams and concurrency", :created 1698239532373}
 {:jar_name "vectio", :group_name "com.7theta", :version "2.6.4", :description "A stream-based transport layer.", :created 1698239616643}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.10.21-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1698240211139}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "7.018", :description "Clojure high performance data processing system", :created 1698242227057}
-{:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1698248325912}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1698248427663}
 {:jar_name "aerial.bio.utils", :group_name "aerial.bio.utils", :version "2.2.0", :description "Various bioinformatic general utility tools", :created 1698252908745}
 {:jar_name "kubernetes-api", :group_name "nubank", :version "1.12.0", :description "Kubernetes Client API Library", :created 1698255196248}
 {:jar_name "kindly-advice", :group_name "org.scicloj", :version "1-alpha4", :description nil, :created 1698265147258}
@@ -254,3 +250,7 @@
 {:jar_name "clojure-elastic-apm", :group_name "clojure-elastic-apm", :version "0.10.0", :description "Clojure wrapper for Elastic APM Java Agent", :created 1698304852393}
 {:jar_name "jansi-clj", :group_name "jansi-clj", :version "1.0.2", :description "Clojure Wrapper around Jansi.", :created 1698305814482}
 {:jar_name "hirundo", :group_name "com.s-exp", :version "0.1.25", :description nil, :created 1698305917933}
+{:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1698312708387}
+{:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1698312781958}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.10.21-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1698313743717}
+{:jar_name "fontawesome-clj", :group_name "no.cjohansen", :version "2023.10.26", :description "FontAwesome icons as hiccup for Clojure and ClojureScript", :created 1698314382532}
