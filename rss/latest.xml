@@ -4,27 +4,48 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 26 Oct 2023 14:01:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Oct 2023 15:01:25 +0000</lastBuildDate>
   <item>
-    <guid>https://clojars.org/com.github.gnl/playback/versions/0.5.2-SNAPSHOT</guid>
-    <title>[com.github.gnl/playback &quot;0.5.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.gnl/playback/versions/0.5.2-SNAPSHOT</link>
-    <description>Easier-than-print dataflow tracing to tap&gt; and Portal with automatic last-input function replay on eval, instant re-render and effortless extraction of traced data</description>
-    <pubDate>Thu, 26 Oct 2023 13:11:23 +0000</pubDate>
+    <guid>https://clojars.org/org.clojars.atmos-system/atmos-web-kernel-reitit/versions/2.0-SNAPSHOT</guid>
+    <title>[org.clojars.atmos-system/atmos-web-kernel-reitit &quot;2.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.atmos-system/atmos-web-kernel-reitit/versions/2.0-SNAPSHOT</link>
+    <description>This library is the web core of atmos systems, it has commons functionality using *Reitit*.</description>
+    <pubDate>Thu, 26 Oct 2023 14:36:10 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.monkeyci/app/versions/0.1.0-SNAPSHOT</guid>
     <title>[com.monkeyci/app &quot;0.1.0-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/com.monkeyci/app/versions/0.1.0-SNAPSHOT</link>
     <description></description>
-    <pubDate>Thu, 26 Oct 2023 12:58:50 +0000</pubDate>
+    <pubDate>Thu, 26 Oct 2023 14:17:47 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.monkeyci/script/versions/0.1.0-SNAPSHOT</guid>
     <title>[com.monkeyci/script &quot;0.1.0-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/com.monkeyci/script/versions/0.1.0-SNAPSHOT</link>
     <description></description>
-    <pubDate>Thu, 26 Oct 2023 12:57:36 +0000</pubDate>
+    <pubDate>Thu, 26 Oct 2023 14:16:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.atmos-system/atmos-data-kernel/versions/1.0</guid>
+    <title>[org.clojars.atmos-system/atmos-data-kernel &quot;1.0&quot;]</title>
+    <link>https://clojars.org/org.clojars.atmos-system/atmos-data-kernel/versions/1.0</link>
+    <description>Data core functionality of Atmos System</description>
+    <pubDate>Thu, 26 Oct 2023 14:10:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.atmos-system/atmos-kernel/versions/2.2</guid>
+    <title>[org.clojars.atmos-system/atmos-kernel &quot;2.2&quot;]</title>
+    <link>https://clojars.org/org.clojars.atmos-system/atmos-kernel/versions/2.2</link>
+    <description>Core of Atmos System</description>
+    <pubDate>Thu, 26 Oct 2023 14:01:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.gnl/playback/versions/0.5.2-SNAPSHOT</guid>
+    <title>[com.github.gnl/playback &quot;0.5.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.gnl/playback/versions/0.5.2-SNAPSHOT</link>
+    <description>Easier-than-print dataflow tracing to tap&gt; and Portal with automatic last-input function replay on eval, instant re-render and effortless extraction of traced data</description>
+    <pubDate>Thu, 26 Oct 2023 13:11:23 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.flexiana/framework/versions/0.5.0-rc4</guid>
@@ -1775,27 +1796,6 @@
     <link>https://clojars.org/io.github.protojure/core/versions/2.8.1</link>
     <description>Core protobuf and GRPC utilities for protojure</description>
     <pubDate>Wed, 18 Oct 2023 00:58:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.protojure/io/versions/2.8.1</guid>
-    <title>[io.github.protojure/io &quot;2.8.1&quot;]</title>
-    <link>https://clojars.org/io.github.protojure/io/versions/2.8.1</link>
-    <description>IO library to support io.github.protojure/core</description>
-    <pubDate>Wed, 18 Oct 2023 00:58:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/reagent-table/versions/0.0.11</guid>
-    <title>[org.pinkgorilla/reagent-table &quot;0.0.11&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/reagent-table/versions/0.0.11</link>
-    <description></description>
-    <pubDate>Tue, 17 Oct 2023 21:58:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.slingr-stack/slingr-services/versions/1.0-SNAPSHOT</guid>
-    <title>[io.github.slingr-stack/slingr-services &quot;1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/io.github.slingr-stack/slingr-services/versions/1.0-SNAPSHOT</link>
-    <description>Framework to generate services to use on Slingr platform</description>
-    <pubDate>Tue, 17 Oct 2023 21:57:41 +0000</pubDate>
   </item>
   </channel>
 </rss>
