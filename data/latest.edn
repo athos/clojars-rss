@@ -1,7 +1,3 @@
-{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.631", :description nil, :created 1697659277076}
-{:jar_name "fulcro-rad", :group_name "com.fulcrologic", :version "1.6.0-RC5", :description "A library for rapid application development in Fulcro", :created 1697661676442}
-{:jar_name "rbac-client", :group_name "puppetlabs", :version "1.1.5", :description "Tools for interacting with PE RBAC", :created 1697664821357}
-{:jar_name "common-datomic", :group_name "org.clojars.teleslabs", :version "1.3.1", :description "Common Datomic library", :created 1697667807770}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "7.2.6", :description "", :created 1697670000554}
 {:jar_name "knossos", :group_name "knossos", :version "0.3.10", :description "Linearizability checker", :created 1697682802622}
 {:jar_name "debux", :group_name "philoskim", :version "0.9.0", :description "A trace-based debugging library for Clojure and ClojureScript", :created 1697683594061}
@@ -94,7 +90,6 @@
 {:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.636", :description nil, :created 1698001930353}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20231022-212213.d78d6177", :description nil, :created 1698009774808}
 {:jar_name "playback", :group_name "com.github.gnl", :version "0.5.1-SNAPSHOT", :description "Easier-than-print dataflow tracing to tap> and Portal with automatic last-input function replay on eval, instant re-render and effortless extraction of traced data", :created 1698010433593}
-{:jar_name "build.simple", :group_name "com.github.gnl", :version "0.7.5-SNAPSHOT", :description "tools.build's missing piece – install, sign and deploy libraries easily and securely like with Leiningen", :created 1698010627315}
 {:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.637", :description nil, :created 1698021975197}
 {:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.637", :description nil, :created 1698022274569}
 {:jar_name "cljam", :group_name "cljam", :version "0.8.5-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1698023053085}
@@ -250,7 +245,12 @@
 {:jar_name "object-storage.azure-blob-storage", :group_name "dev.gethop", :version "0.1.0", :description "A Duct library for managing objects in Azure Blob Storage", :created 1698397105567}
 {:jar_name "oci-os", :group_name "com.monkeyprojects", :version "0.1.0-SNAPSHOT", :description nil, :created 1698399209158}
 {:jar_name "oxbow", :group_name "oliyh", :version "0.1.6", :description "A Server Sent Events (SSE) client for cljs based on js/fetch", :created 1698404499541}
-{:jar_name "c4k-common-cljs", :group_name "org.domaindrivenarchitecture", :version "6.0.4-SNAPSHOT", :description "Contains predicates and tools for c4k", :created 1698404842684}
 {:jar_name "overarch", :group_name "org.soulspace.clj", :version "0.7.0", :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :created 1698406141387}
 {:jar_name "apron", :group_name "com.cleancoders.c3kit", :version "2.0.5", :description nil, :created 1698411971735}
 {:jar_name "babashka", :group_name "babashka", :version "1.3.186-SNAPSHOT", :description "babashka", :created 1698412468390}
+{:jar_name "c4k-common-clj", :group_name "org.domaindrivenarchitecture", :version "6.0.4-SNAPSHOT", :description "Contains predicates and tools for c4k", :created 1698417876544}
+{:jar_name "c4k-common-cljs", :group_name "org.domaindrivenarchitecture", :version "6.0.4-SNAPSHOT", :description "Contains predicates and tools for c4k", :created 1698417891174}
+{:jar_name "ham-fisted", :group_name "com.cnuernber", :version "2.007", :description nil, :created 1698417968604}
+{:jar_name "dtype-next", :group_name "cnuernber", :version "10.106", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1698418184187}
+{:jar_name "tech.ml.dataset", :group_name "techascent", :version "7.019", :description "Clojure high performance data processing system", :created 1698418354048}
+{:jar_name "build.simple", :group_name "com.github.gnl", :version "0.7.5-SNAPSHOT", :description "tools.build's missing piece – install, sign and deploy libraries easily and securely like with Leiningen", :created 1698418618771}
