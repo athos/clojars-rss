@@ -4,7 +4,77 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 31 Oct 2023 07:01:11 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 31 Oct 2023 08:01:25 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.rksm/suitable/versions/0.5.1</guid>
+    <title>[org.rksm/suitable &quot;0.5.1&quot;]</title>
+    <link>https://clojars.org/org.rksm/suitable/versions/0.5.1</link>
+    <description></description>
+    <pubDate>Tue, 31 Oct 2023 07:39:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-integration/versions/0.1.10</guid>
+    <title>[com.github.igrishaev/pg-integration &quot;0.1.10&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-integration/versions/0.1.10</link>
+    <description>Multi-version integration tests in Docker</description>
+    <pubDate>Tue, 31 Oct 2023 07:30:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-ssl/versions/0.1.10</guid>
+    <title>[com.github.igrishaev/pg-ssl &quot;0.1.10&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-ssl/versions/0.1.10</link>
+    <description>SSL-related utils</description>
+    <pubDate>Tue, 31 Oct 2023 07:29:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-honey/versions/0.1.10</guid>
+    <title>[com.github.igrishaev/pg-honey &quot;0.1.10&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-honey/versions/0.1.10</link>
+    <description>HoneySQL wrapper for PG</description>
+    <pubDate>Tue, 31 Oct 2023 07:29:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-pool/versions/0.1.10</guid>
+    <title>[com.github.igrishaev/pg-pool &quot;0.1.10&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-pool/versions/0.1.10</link>
+    <description>A simple, handmade connection pool for PG</description>
+    <pubDate>Tue, 31 Oct 2023 07:29:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-client/versions/0.1.10</guid>
+    <title>[com.github.igrishaev/pg-client &quot;0.1.10&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-client/versions/0.1.10</link>
+    <description>Postgres client in pure Clojure (no JDBC)</description>
+    <pubDate>Tue, 31 Oct 2023 07:29:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-json/versions/0.1.10</guid>
+    <title>[com.github.igrishaev/pg-json &quot;0.1.10&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-json/versions/0.1.10</link>
+    <description>Expand JSON(b) encoding &amp; decoding with Cheshire</description>
+    <pubDate>Tue, 31 Oct 2023 07:28:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-joda-time/versions/0.1.10</guid>
+    <title>[com.github.igrishaev/pg-joda-time &quot;0.1.10&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-joda-time/versions/0.1.10</link>
+    <description>Expand encoding &amp; decoding with Joda Time</description>
+    <pubDate>Tue, 31 Oct 2023 07:28:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-types/versions/0.1.10</guid>
+    <title>[com.github.igrishaev/pg-types &quot;0.1.10&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-types/versions/0.1.10</link>
+    <description>PG types encoding and decoding</description>
+    <pubDate>Tue, 31 Oct 2023 07:28:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-common/versions/0.1.10</guid>
+    <title>[com.github.igrishaev/pg-common &quot;0.1.10&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-common/versions/0.1.10</link>
+    <description>Common PG modules</description>
+    <pubDate>Tue, 31 Oct 2023 07:27:50 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/polylith/clj-poly/versions/0.2.18-SNAPSHOT</guid>
     <title>[polylith/clj-poly &quot;0.2.18-SNAPSHOT&quot;]</title>
@@ -1726,76 +1796,6 @@
     <link>https://clojars.org/com.phronemophobic/clogif/versions/1.2</link>
     <description>Create gifs in clojure!</description>
     <pubDate>Sun, 22 Oct 2023 02:27:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.ring-clojure/ring-websocket-transit/versions/0.1.0-beta2</guid>
-    <title>[org.ring-clojure/ring-websocket-transit &quot;0.1.0-beta2&quot;]</title>
-    <link>https://clojars.org/org.ring-clojure/ring-websocket-transit/versions/0.1.0-beta2</link>
-    <description>Library for using the Transit data format with Ring websockets</description>
-    <pubDate>Sun, 22 Oct 2023 01:19:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.phronemophobic/clogif/versions/1.1</guid>
-    <title>[com.phronemophobic/clogif &quot;1.1&quot;]</title>
-    <link>https://clojars.org/com.phronemophobic/clogif/versions/1.1</link>
-    <description>Create gifs in clojure!</description>
-    <pubDate>Sun, 22 Oct 2023 01:17:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.phronemophobic/clj-media/versions/2.3</guid>
-    <title>[com.phronemophobic/clj-media &quot;2.3&quot;]</title>
-    <link>https://clojars.org/com.phronemophobic/clj-media/versions/2.3</link>
-    <description>FIXME: my new library.</description>
-    <pubDate>Sun, 22 Oct 2023 01:12:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.seancorfield/honeysql/versions/2.4.9999-SNAPSHOT</guid>
-    <title>[com.github.seancorfield/honeysql &quot;2.4.9999-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.seancorfield/honeysql/versions/2.4.9999-SNAPSHOT</link>
-    <description>SQL as Clojure data structures.</description>
-    <pubDate>Sat, 21 Oct 2023 23:27:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.phronemophobic/clogif/versions/1.0</guid>
-    <title>[com.phronemophobic/clogif &quot;1.0&quot;]</title>
-    <link>https://clojars.org/com.phronemophobic/clogif/versions/1.0</link>
-    <description>Create gifs in clojure!</description>
-    <pubDate>Sat, 21 Oct 2023 22:42:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.phronemophobic/membrane/versions/0.14.3-beta</guid>
-    <title>[com.phronemophobic/membrane &quot;0.14.3-beta&quot;]</title>
-    <link>https://clojars.org/com.phronemophobic/membrane/versions/0.14.3-beta</link>
-    <description></description>
-    <pubDate>Sat, 21 Oct 2023 22:08:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.phronemophobic/clj-media/versions/2.2</guid>
-    <title>[com.phronemophobic/clj-media &quot;2.2&quot;]</title>
-    <link>https://clojars.org/com.phronemophobic/clj-media/versions/2.2</link>
-    <description>FIXME: my new library.</description>
-    <pubDate>Sat, 21 Oct 2023 20:34:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/missionary/versions/b.33</guid>
-    <title>[missionary &quot;b.33&quot;]</title>
-    <link>https://clojars.org/missionary/versions/b.33</link>
-    <description>A functional effect and streaming system for clojure and clojurescript.</description>
-    <pubDate>Sat, 21 Oct 2023 20:05:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/goldly-docs/versions/0.4.635</guid>
-    <title>[org.pinkgorilla/goldly-docs &quot;0.4.635&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/goldly-docs/versions/0.4.635</link>
-    <description></description>
-    <pubDate>Sat, 21 Oct 2023 20:01:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/goldly/versions/0.4.635</guid>
-    <title>[org.pinkgorilla/goldly &quot;0.4.635&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/goldly/versions/0.4.635</link>
-    <description></description>
-    <pubDate>Sat, 21 Oct 2023 19:55:48 +0000</pubDate>
   </item>
   </channel>
 </rss>
