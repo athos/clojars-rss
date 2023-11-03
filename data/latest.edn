@@ -1,6 +1,3 @@
-{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1698210259536}
-{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "FIXME", :created 1698210266106}
-{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1698210272906}
 {:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1698210279866}
 {:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1698210286546}
 {:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1698210293486}
@@ -223,8 +220,6 @@
 {:jar_name "clj-gcloud-common", :group_name "com.oscaro", :version "0.207-2.0-SNAPSHOT", :description "Common library for all google cloud clojure wrappers", :created 1698934718837}
 {:jar_name "http-kit", :group_name "com.intception", :version "2.6.1", :description "High-performance event-driven HTTP client/server for Clojure", :created 1698938612198}
 {:jar_name "ablauf", :group_name "exoscale", :version "0.3.9", :description "long-running workflow management", :created 1698939347574}
-{:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1698942004460}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1698942121308}
 {:jar_name "tools-io-gs", :group_name "com.oscaro", :version "0.1.15-SNAPSHOT", :description "google storage support for tools-io", :created 1698942454556}
 {:jar_name "fulcro-i18n", :group_name "com.fulcrologic", :version "1.1.1", :description "A library for adding i18n strings and formatting to Fulcro apps", :created 1698943068149}
 {:jar_name "tools-io", :group_name "com.oscaro", :version "0.3.35-SNAPSHOT", :description "Oscaro's generic I/O tools collection", :created 1698943622538}
@@ -254,3 +249,8 @@
 {:jar_name "ablauf", :group_name "exoscale", :version "0.3.10", :description "long-running workflow management", :created 1699002465585}
 {:jar_name "overtone", :group_name "overtone", :version "0.11.0", :description "Collaborative Programmable Music.", :created 1699003895106}
 {:jar_name "oci-container-instance", :group_name "com.monkeyprojects", :version "0.1.0-SNAPSHOT", :description nil, :created 1699009823483}
+{:jar_name "tools-io", :group_name "com.oscaro", :version "0.3.36-SNAPSHOT", :description "Oscaro's generic I/O tools collection", :created 1699013485545}
+{:jar_name "tools-io-gs", :group_name "com.oscaro", :version "0.1.16-SNAPSHOT", :description "google storage support for tools-io", :created 1699013820184}
+{:jar_name "ablauf", :group_name "exoscale", :version "0.3.11", :description "long-running workflow management", :created 1699015558238}
+{:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1699015966361}
+{:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1699016011211}
