@@ -1,5 +1,3 @@
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1698210286546}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1698210293486}
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1698210300176}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Malli integration", :created 1698210306876}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.1.5-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1698210313366}
@@ -232,7 +230,6 @@
 {:jar_name "cljgae-template", :group_name "org.clojars.nickbauman", :version "1.0.2", :description "cljgae-template is a leiningen template for Google App Engine apps Java11/17 Runtimes", :created 1698956711670}
 {:jar_name "pbr", :group_name "com.github.pmonks", :version "2.0.356", :description "Peter's Build Resources for Clojure tools.build projects.", :created 1698957065213}
 {:jar_name "system", :group_name "party.donut", :version "0.0.218", :description nil, :created 1698957151401}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha39-SNAPSHOT", :description "FIXME: my new library.", :created 1698961685363}
 {:jar_name "react-pro-sidebar", :group_name "org.pinkgorilla", :version "0.0.1", :description nil, :created 1698962520889}
 {:jar_name "carmine-streams", :group_name "carmine-streams", :version "0.2.2", :description "Carmine helpers for redis streams", :created 1698964087502}
 {:jar_name "clj-baseball", :group_name "org.clojars.slothrop", :version "0.4.1", :description nil, :created 1698965017999}
@@ -254,3 +251,6 @@
 {:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1699015966361}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1699016011211}
 {:jar_name "ablauf", :group_name "exoscale", :version "0.3.12", :description "long-running workflow management", :created 1699017130960}
+{:jar_name "clj-baseball", :group_name "org.clojars.slothrop", :version "0.4.21", :description nil, :created 1699021984949}
+{:jar_name "saml20-clj", :group_name "metabase", :version "2.2.4", :description nil, :created 1699023198509}
+{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha39-SNAPSHOT", :description "FIXME: my new library.", :created 1699023476691}
