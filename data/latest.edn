@@ -1,18 +1,3 @@
-{:jar_name "tablecloth", :group_name "scicloj", :version "7.017-SNAPSHOT", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1698222142014}
-{:jar_name "flow-storm-dbg", :group_name "com.github.flow-storm", :version "3.8.3", :description nil, :created 1698236799347}
-{:jar_name "flow-storm-inst", :group_name "com.github.flow-storm", :version "3.8.3", :description nil, :created 1698237173049}
-{:jar_name "fluxus", :group_name "com.7theta", :version "1.0.3", :description "Clojure(script) library for streams and concurrency", :created 1698239532373}
-{:jar_name "vectio", :group_name "com.7theta", :version "2.6.4", :description "A stream-based transport layer.", :created 1698239616643}
-{:jar_name "tech.ml.dataset", :group_name "techascent", :version "7.018", :description "Clojure high performance data processing system", :created 1698242227057}
-{:jar_name "aerial.bio.utils", :group_name "aerial.bio.utils", :version "2.2.0", :description "Various bioinformatic general utility tools", :created 1698252908745}
-{:jar_name "kubernetes-api", :group_name "nubank", :version "1.12.0", :description "Kubernetes Client API Library", :created 1698255196248}
-{:jar_name "kindly-advice", :group_name "org.scicloj", :version "1-alpha4", :description nil, :created 1698265147258}
-{:jar_name "automigrate", :group_name "net.clojars.abogoyavlensky", :version "0.1.2", :description "Database auto-migration tool for Clojure. Define models as plain EDN and create schema migrations automatically.", :created 1698283109053}
-{:jar_name "automigrate", :group_name "net.clojars.abogoyavlensky", :version "0.1.3", :description "Database auto-migration tool for Clojure. Define models as plain EDN and create schema migrations automatically.", :created 1698284997372}
-{:jar_name "clojure-elastic-apm", :group_name "clojure-elastic-apm", :version "0.10.0", :description "Clojure wrapper for Elastic APM Java Agent", :created 1698304852393}
-{:jar_name "jansi-clj", :group_name "jansi-clj", :version "1.0.2", :description "Clojure Wrapper around Jansi.", :created 1698305814482}
-{:jar_name "hirundo", :group_name "com.s-exp", :version "0.1.25", :description nil, :created 1698305917933}
-{:jar_name "fontawesome-clj", :group_name "no.cjohansen", :version "2023.10.26", :description "FontAwesome icons as hiccup for Clojure and ClojureScript", :created 1698314382532}
 {:jar_name "bin-pack", :group_name "org.lotuc", :version "0.1.48", :description nil, :created 1698317014462}
 {:jar_name "framework", :group_name "com.flexiana", :version "0.5.0-rc4", :description nil, :created 1698322443893}
 {:jar_name "atmos-kernel", :group_name "org.clojars.atmos-system", :version "2.2", :description "Core of Atmos System", :created 1698328899328}
@@ -254,3 +239,18 @@
 {:jar_name "fulcro-i18n", :group_name "com.fulcrologic", :version "1.1.2", :description "A library for adding i18n strings and formatting to Fulcro apps", :created 1699121079341}
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.7.0-RC5", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1699121599535}
 {:jar_name "fulcro-rad-semantic-ui", :group_name "com.fulcrologic", :version "1.4.0-RC4", :description "A UI plugin for Fulcro RAD that renders to web/electron using Semantic UI CSS", :created 1699121927028}
+{:jar_name "blocks", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127456557}
+{:jar_name "blocks-rabbitmq-dev", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127465017}
+{:jar_name "blocks-dev", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127472657}
+{:jar_name "blocks-xtdb", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127480357}
+{:jar_name "blocks-jdbc", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127488207}
+{:jar_name "blocks-sqlite", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127496207}
+{:jar_name "blocks-postgres", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127504787}
+{:jar_name "blocks-rabbitmq", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127513617}
+{:jar_name "blocks-postgres-dev", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127521578}
+{:jar_name "blocks-reitit", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127529528}
+{:jar_name "blocks-aero", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127538318}
+{:jar_name "blocks-test-containers", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127546298}
+{:jar_name "blocks-reitit-dev", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127554068}
+{:jar_name "blocks-httpkit", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127561418}
+{:jar_name "blocks-jdbc-dev", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127568838}
