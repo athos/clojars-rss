@@ -1,6 +1,3 @@
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.1.5", :description "Runtime dependencies for ClojureScript type system.", :created 1698216452592}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.1.5", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1698216460713}
-{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.1.5", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1698216468883}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.1.5", :description "Malli integration", :created 1698216477213}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.1.5", :description "Type annotations and macros for core.async.", :created 1698216485443}
 {:jar_name "flow-storm-dbg", :group_name "com.github.flow-storm", :version "3.8.3", :description nil, :created 1698236799347}
@@ -254,3 +251,6 @@
 {:jar_name "cambium.logback.rabbitmq", :group_name "cambium", :version "0.4.6", :description "RabbitMQ appender for Logback", :created 1699254533455}
 {:jar_name "common-clj", :group_name "net.clojars.macielti", :version "23.40.41", :description "Just common Clojure code that I use across projects", :created 1699267008947}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.74.0", :description "Core utils library for Clojure/Script", :created 1699268433299}
+{:jar_name "tawny-owl", :group_name "uk.org.russet", :version "2.3.2", :description "tawny-owl enables building OWL ontologies in a programmatic environment.", :created 1699273568748}
+{:jar_name "eszterlanc", :group_name "hu.baader", :version "0.3.3", :description "Clojurized access to magyarlanc. A toolkit for linguistic processing of Hungarian.", :created 1699273667734}
+{:jar_name "dumdom", :group_name "cjohansen", :version "2023.11.06", :description "Efficiently render and rerender DOM from immutable data. Like Quiescent, but without React.", :created 1699274361956}
