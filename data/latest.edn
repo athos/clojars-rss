@@ -1,18 +1,3 @@
-{:jar_name "c4k-common-cljs", :group_name "org.domaindrivenarchitecture", :version "6.1.0", :description "Contains predicates and tools for c4k", :created 1698421403499}
-{:jar_name "c4k-common-clj", :group_name "org.domaindrivenarchitecture", :version "6.1.0", :description "Contains predicates and tools for c4k", :created 1698421404319}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.10.21-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1698421600591}
-{:jar_name "atmos-web-kernel-reitit", :group_name "org.clojars.atmos-system", :version "2.0", :description "This library is the web core of atmos systems, it has commons functionality using *Reitit*.", :created 1698422363958}
-{:jar_name "atmos-logs", :group_name "org.clojars.atmos-system", :version "3.0", :description "Logs micro service for atmos system", :created 1698423071585}
-{:jar_name "atmos-genesys", :group_name "org.clojars.atmos-system", :version "1.0", :description "The basis of all web projects using atmos tech", :created 1698423373477}
-{:jar_name "clj-slack", :group_name "org.julienxx", :version "0.8.3", :description "Slack REST API wrapper", :created 1698423385716}
-{:jar_name "bb-excel", :group_name "com.github.kbosompem", :version "0.0.7", :description "A Simple Clojure/Babashka Library for Reading Data from Excel Files", :created 1698423629094}
-{:jar_name "overseer", :group_name "io.framed", :version "0.9.0", :description "A Clojure framework for defining and running expressive data pipelines", :created 1698423829219}
-{:jar_name "lambada", :group_name "org.clojars.kevin-ewing", :version "0.1.2", :description "The messy parts for running Clojure on AWS Lambda.", :created 1698429757833}
-{:jar_name "clj-pool-party", :group_name "com.github.enragedginger", :version "0.2.0", :description "Minimalistic Clojure object pooling library", :created 1698430140757}
-{:jar_name "timbre-json-appender", :group_name "viesti", :version "0.2.11", :description "A structured log appender for Timbre using jsonista", :created 1698430434910}
-{:jar_name "slouch", :group_name "com.balloneij", :version "0.0.0", :description "An idiomatic Clojure interface to Apache CouchDB", :created 1698432687923}
-{:jar_name "slouch", :group_name "com.balloneij", :version "0.1.0", :description "An idiomatic Clojure interface to Apache CouchDB", :created 1698443595487}
-{:jar_name "fress", :group_name "com.github.pkpkpk", :version "0.4.307", :description "Fressian for clojure(script) and WASM", :created 1698494996601}
 {:jar_name "tg-bot-api", :group_name "link.lmnd", :version "0.1.6", :description "GraalVM-compilable Telegram Bot API", :created 1698501417416}
 {:jar_name "geni", :group_name "zero.one", :version "0.0.41", :description "A Clojure dataframe library that runs on Spark", :created 1698510865905}
 {:jar_name "lein-template", :group_name "geni", :version "0.0.41", :description "Leiningen template for a Geni application.", :created 1698511711643}
@@ -254,3 +239,18 @@
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.2.0", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1699224718710}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.0", :description "Malli integration", :created 1699224727350}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.0", :description "Type annotations and macros for core.async.", :created 1699224735570}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "An optional type system for Clojure", :created 1699231027421}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1699231034570}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1699231040973}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1699231047427}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1699231053860}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "Type-like specs.", :created 1699231060404}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1699231067042}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "FIXME", :created 1699231073379}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1699231079682}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1699231086460}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1699231092906}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1699231099436}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1699231105829}
+{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "Malli integration", :created 1699231112232}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1699231118713}
