@@ -1,9 +1,3 @@
-{:jar_name "blob-storage", :group_name "com.intception", :version "0.4.5", :description "Blob Storage Library", :created 1698336971566}
-{:jar_name "ui-input", :group_name "org.pinkgorilla", :version "0.0.28", :description nil, :created 1698340172770}
-{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.638", :description nil, :created 1698340517914}
-{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.638", :description nil, :created 1698340957018}
-{:jar_name "bifurcan-clj", :group_name "com.aphyr", :version "0.1.0", :description "Clojure wrappers for the Bifurcan library of high-performance data structures", :created 1698343885858}
-{:jar_name "elle", :group_name "elle", :version "0.1.9", :description "Black-box transactional consistency checker, based on cycle detection", :created 1698343998320}
 {:jar_name "active-logger", :group_name "de.active-group", :version "0.13.0", :description "Active Logger: Utilities and DSL for logging on top of Timbre.", :created 1698346343954}
 {:jar_name "dynamo-embedded-clj", :group_name "org.clojars.bigsy", :version "0.1.4", :description "Embedded dynamodb for clojure", :created 1698350200484}
 {:jar_name "oxbow", :group_name "oliyh", :version "0.1.5", :description "A Server Sent Events (SSE) client for cljs based on js/fetch", :created 1698352010372}
@@ -254,3 +248,9 @@
 {:jar_name "lein-clojure-lsp", :group_name "com.github.clojure-lsp", :version "1.4.2", :description "Lein plugin to run clojure-lsp features via API.", :created 1699300943077}
 {:jar_name "bb-excel", :group_name "com.github.kbosompem", :version "0.0.8", :description "A Simple Clojure/Babashka Library for Reading Data from Excel Files", :created 1699306756824}
 {:jar_name "antsy", :group_name "io.logicblocks", :version "0.0.17-RC6", :description "Simple ANSI escape code library for Clojure.", :created 1699311177366}
+{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.19-RC4", :description "A structured logging abstraction with multiple backends.", :created 1699312490439}
+{:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.19-RC4", :description "A cambium backend for cartus.", :created 1699312499109}
+{:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.19-RC4", :description "A null backend for cartus.", :created 1699312507329}
+{:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.19-RC4", :description "A test backend for cartus.", :created 1699312515089}
+{:jar_name "component.flyway-migrator", :group_name "io.logicblocks", :version "0.1.2-RC5", :description "A component to run flyway migrations on system start.", :created 1699313810271}
+{:jar_name "component.jdbc-data-source.postgres", :group_name "io.logicblocks", :version "0.1.3-RC2", :description "A component providing a pooled postgres JDBC data source.", :created 1699314429887}

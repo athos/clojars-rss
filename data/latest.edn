@@ -1,9 +1,3 @@
-{:jar_name "active-logger", :group_name "de.active-group", :version "0.14-SNAPSHOT", :description "Active Logger: Utilities and DSL for logging on top of Timbre.", :created 1698652625789}
-{:jar_name "encore", :group_name "com.taoensso", :version "3.73.0", :description "Core utils library for Clojure/Script", :created 1698659728739}
-{:jar_name "datajure", :group_name "com.github.clojure-finance", :version "1.0.0", :description "An open-source domain-specific language for data processing.", :created 1698660908149}
-{:jar_name "tg-bot-api", :group_name "link.lmnd", :version "0.1.7", :description "GraalVM-compilable Telegram Bot API", :created 1698669225751}
-{:jar_name "tg-bot-api", :group_name "link.lmnd", :version "0.1.8", :description "GraalVM-compilable Telegram Bot API", :created 1698673291951}
-{:jar_name "javelin", :group_name "hoplon", :version "3.9.1", :description "Spreadsheet-like dataflow programming in ClojureScript.", :created 1698675234997}
 {:jar_name "ham-fisted", :group_name "com.cnuernber", :version "2.009", :description nil, :created 1698679258580}
 {:jar_name "dtype-next", :group_name "cnuernber", :version "10.108", :description "A Clojure library designed to aid in the implementation of high performance algorithms and systems.", :created 1698679392561}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "7.021", :description "Clojure high performance data processing system", :created 1698679695854}
@@ -254,3 +248,9 @@
 {:jar_name "lein-clojure-lsp", :group_name "com.github.clojure-lsp", :version "1.4.2", :description "Lein plugin to run clojure-lsp features via API.", :created 1699300943077}
 {:jar_name "bb-excel", :group_name "com.github.kbosompem", :version "0.0.8", :description "A Simple Clojure/Babashka Library for Reading Data from Excel Files", :created 1699306756824}
 {:jar_name "antsy", :group_name "io.logicblocks", :version "0.0.17-RC6", :description "Simple ANSI escape code library for Clojure.", :created 1699311177366}
+{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.19-RC4", :description "A structured logging abstraction with multiple backends.", :created 1699312490439}
+{:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.19-RC4", :description "A cambium backend for cartus.", :created 1699312499109}
+{:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.19-RC4", :description "A null backend for cartus.", :created 1699312507329}
+{:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.19-RC4", :description "A test backend for cartus.", :created 1699312515089}
+{:jar_name "component.flyway-migrator", :group_name "io.logicblocks", :version "0.1.2-RC5", :description "A component to run flyway migrations on system start.", :created 1699313810271}
+{:jar_name "component.jdbc-data-source.postgres", :group_name "io.logicblocks", :version "0.1.3-RC2", :description "A component providing a pooled postgres JDBC data source.", :created 1699314429887}

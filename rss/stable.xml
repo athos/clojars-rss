@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 6 Nov 2023 23:01:16 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 7 Nov 2023 00:03:55 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/component.jdbc-data-source.postgres/versions/0.1.3-RC2</guid>
+    <title>[io.logicblocks/component.jdbc-data-source.postgres &quot;0.1.3-RC2&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/component.jdbc-data-source.postgres/versions/0.1.3-RC2</link>
+    <description>A component providing a pooled postgres JDBC data source.</description>
+    <pubDate>Mon, 6 Nov 2023 23:47:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/component.flyway-migrator/versions/0.1.2-RC5</guid>
+    <title>[io.logicblocks/component.flyway-migrator &quot;0.1.2-RC5&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/component.flyway-migrator/versions/0.1.2-RC5</link>
+    <description>A component to run flyway migrations on system start.</description>
+    <pubDate>Mon, 6 Nov 2023 23:36:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.test/versions/0.1.19-RC4</guid>
+    <title>[io.logicblocks/cartus.test &quot;0.1.19-RC4&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.test/versions/0.1.19-RC4</link>
+    <description>A test backend for cartus.</description>
+    <pubDate>Mon, 6 Nov 2023 23:15:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.null/versions/0.1.19-RC4</guid>
+    <title>[io.logicblocks/cartus.null &quot;0.1.19-RC4&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.null/versions/0.1.19-RC4</link>
+    <description>A null backend for cartus.</description>
+    <pubDate>Mon, 6 Nov 2023 23:15:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.cambium/versions/0.1.19-RC4</guid>
+    <title>[io.logicblocks/cartus.cambium &quot;0.1.19-RC4&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.cambium/versions/0.1.19-RC4</link>
+    <description>A cambium backend for cartus.</description>
+    <pubDate>Mon, 6 Nov 2023 23:14:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.core/versions/0.1.19-RC4</guid>
+    <title>[io.logicblocks/cartus.core &quot;0.1.19-RC4&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.core/versions/0.1.19-RC4</link>
+    <description>A structured logging abstraction with multiple backends.</description>
+    <pubDate>Mon, 6 Nov 2023 23:14:50 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.logicblocks/antsy/versions/0.0.17-RC6</guid>
     <title>[io.logicblocks/antsy &quot;0.0.17-RC6&quot;]</title>
@@ -1754,48 +1796,6 @@
     <link>https://clojars.org/de.active-group/active-logger/versions/0.13.0</link>
     <description>Active Logger: Utilities and DSL for logging on top of Timbre.</description>
     <pubDate>Thu, 26 Oct 2023 18:52:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/elle/versions/0.1.9</guid>
-    <title>[elle &quot;0.1.9&quot;]</title>
-    <link>https://clojars.org/elle/versions/0.1.9</link>
-    <description>Black-box transactional consistency checker, based on cycle detection</description>
-    <pubDate>Thu, 26 Oct 2023 18:13:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.aphyr/bifurcan-clj/versions/0.1.0</guid>
-    <title>[com.aphyr/bifurcan-clj &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/com.aphyr/bifurcan-clj/versions/0.1.0</link>
-    <description>Clojure wrappers for the Bifurcan library of high-performance data structures</description>
-    <pubDate>Thu, 26 Oct 2023 18:11:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/goldly-docs/versions/0.4.638</guid>
-    <title>[org.pinkgorilla/goldly-docs &quot;0.4.638&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/goldly-docs/versions/0.4.638</link>
-    <description></description>
-    <pubDate>Thu, 26 Oct 2023 17:22:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/goldly/versions/0.4.638</guid>
-    <title>[org.pinkgorilla/goldly &quot;0.4.638&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/goldly/versions/0.4.638</link>
-    <description></description>
-    <pubDate>Thu, 26 Oct 2023 17:15:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/ui-input/versions/0.0.28</guid>
-    <title>[org.pinkgorilla/ui-input &quot;0.0.28&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/ui-input/versions/0.0.28</link>
-    <description></description>
-    <pubDate>Thu, 26 Oct 2023 17:09:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.intception/blob-storage/versions/0.4.5</guid>
-    <title>[com.intception/blob-storage &quot;0.4.5&quot;]</title>
-    <link>https://clojars.org/com.intception/blob-storage/versions/0.4.5</link>
-    <description>Blob Storage Library</description>
-    <pubDate>Thu, 26 Oct 2023 16:16:11 +0000</pubDate>
   </item>
   </channel>
 </rss>
