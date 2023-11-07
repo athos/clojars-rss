@@ -1,6 +1,3 @@
-{:jar_name "pg-client", :group_name "com.github.igrishaev", :version "0.1.10", :description "Postgres client in pure Clojure (no JDBC)", :created 1698737341752}
-{:jar_name "pg-pool", :group_name "com.github.igrishaev", :version "0.1.10", :description "A simple, handmade connection pool for PG", :created 1698737358142}
-{:jar_name "pg-honey", :group_name "com.github.igrishaev", :version "0.1.10", :description "HoneySQL wrapper for PG", :created 1698737375352}
 {:jar_name "pg-ssl", :group_name "com.github.igrishaev", :version "0.1.10", :description "SSL-related utils", :created 1698737395692}
 {:jar_name "pg-integration", :group_name "com.github.igrishaev", :version "0.1.10", :description "Multi-version integration tests in Docker", :created 1698737412632}
 {:jar_name "suitable", :group_name "org.rksm", :version "0.5.1", :description "", :created 1698737950197}
@@ -156,7 +153,6 @@
 {:jar_name "common-clj", :group_name "net.clojars.macielti", :version "23.40.40", :description "Just common Clojure code that I use across projects", :created 1699185799752}
 {:jar_name "datest", :group_name "org.clojars.stiwar", :version "1.1.1", :description nil, :created 1699186453747}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20231105-124921.cc5742af", :description nil, :created 1699188600223}
-{:jar_name "oci-os", :group_name "com.monkeyprojects", :version "0.1.0-SNAPSHOT", :description nil, :created 1699189639212}
 {:jar_name "oci-sign", :group_name "com.monkeyprojects", :version "0.1.3-SNAPSHOT", :description nil, :created 1699192485075}
 {:jar_name "oci-common", :group_name "com.monkeyprojects", :version "0.1.1-SNAPSHOT", :description nil, :created 1699193591314}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20231105-154627.51bdc77b", :description nil, :created 1699199231750}
@@ -254,3 +250,7 @@
 {:jar_name "vectio", :group_name "com.7theta", :version "2.6.5", :description "A stream-based transport layer.", :created 1699368271550}
 {:jar_name "servo", :group_name "com.7theta", :version "5.1.5", :description "A rehinkdb client library designed to integrate with signum", :created 1699368314411}
 {:jar_name "via", :group_name "com.7theta", :version "12.10.1", :description "A library for WebSocket based messaging", :created 1699368348161}
+{:jar_name "hugwhere", :group_name "org.clojars.xiao-ne-zha", :version "1.0.0", :description "dynamic `where conditions` when you use hugsql to create your function that access database\n当你使用hugsql来编写数据库访问函数时，该库可以让你省去编写动态拼接where条件的繁琐", :created 1699370698732}
+{:jar_name "ablauf", :group_name "exoscale", :version "0.3.13", :description "long-running workflow management", :created 1699371025385}
+{:jar_name "sentry-clj", :group_name "io.sentry", :version "6.33.209", :description "A very thin wrapper around the official Java library for Sentry.", :created 1699372398057}
+{:jar_name "oci-os", :group_name "com.monkeyprojects", :version "0.1.0-SNAPSHOT", :description nil, :created 1699372782601}
