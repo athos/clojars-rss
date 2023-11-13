@@ -1,8 +1,3 @@
-{:jar_name "blocks-rabbitmq-dev", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127465017}
-{:jar_name "blocks-dev", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127472657}
-{:jar_name "blocks-xtdb", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127480357}
-{:jar_name "blocks-jdbc", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127488207}
-{:jar_name "blocks-sqlite", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127496207}
 {:jar_name "blocks-postgres", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127504787}
 {:jar_name "blocks-rabbitmq", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127513617}
 {:jar_name "blocks-postgres-dev", :group_name "ch.codesmith", :version "0.10.124", :description nil, :created 1699127521578}
@@ -254,3 +249,8 @@
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1699907075229}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "Malli integration", :created 1699907084787}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.1-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1699907095335}
+{:jar_name "cryogen-core", :group_name "cryogen-core", :version "0.4.4", :description "Cryogen's compiler", :created 1699910108534}
+{:jar_name "lein-template", :group_name "cryogen", :version "0.7.3", :description "A Leiningen template for the Cryogen static site generator", :created 1699910342566}
+{:jar_name "enrich-classpath", :group_name "mx.cider", :version "1.18.5", :description "Makes available .jars with Java sources and javadocs for a given project.", :created 1699912019100}
+{:jar_name "tools.deps.enrich-classpath", :group_name "mx.cider", :version "1.18.5", :description "mx.cider/enrich-classpath with dependencies specific to tools.deps usage.", :created 1699912027851}
+{:jar_name "lein-enrich-classpath", :group_name "mx.cider", :version "1.18.5", :description "", :created 1699912035221}
