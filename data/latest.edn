@@ -1,13 +1,3 @@
-{:jar_name "eywa-core", :group_name "org.neyho", :version "0.1.2", :description nil, :created 1699350057604}
-{:jar_name "eywa-core-frontend", :group_name "org.neyho", :version "0.1.2", :description nil, :created 1699350155645}
-{:jar_name "ctim", :group_name "threatgrid", :version "1.3.11", :description "Cisco Threat Intelligence Model", :created 1699350453718}
-{:jar_name "m1p", :group_name "no.cjohansen", :version "2023.11.07", :description "DIY toolkit for data-driven i18n, theming, and other \"flavor\" content.", :created 1699355682326}
-{:jar_name "mojo-publish-plugin", :group_name "com.flipkart.mojopublish", :version "1.1.0", :description nil, :created 1699360497971}
-{:jar_name "com.flipkart.mojopublish.gradle.plugin", :group_name "com.flipkart.mojopublish", :version "1.1.0", :description nil, :created 1699360504661}
-{:jar_name "hoplon", :group_name "hoplon", :version "7.4.0", :description "Simple and powerful tool for building web apps out of highly composable elements in ClojureScript.", :created 1699361964134}
-{:jar_name "hoplon", :group_name "hoplon", :version "7.4.0-SNAPSHOT", :description "Simple and powerful tool for building web apps out of highly composable elements in ClojureScript.", :created 1699363729520}
-{:jar_name "ctim", :group_name "threatgrid", :version "1.3.12", :description "Cisco Threat Intelligence Model", :created 1699364500976}
-{:jar_name "vectio", :group_name "com.7theta", :version "2.6.5", :description "A stream-based transport layer.", :created 1699368271550}
 {:jar_name "servo", :group_name "com.7theta", :version "5.1.5", :description "A rehinkdb client library designed to integrate with signum", :created 1699368314411}
 {:jar_name "via", :group_name "com.7theta", :version "12.10.1", :description "A library for WebSocket based messaging", :created 1699368348161}
 {:jar_name "hugwhere", :group_name "org.clojars.xiao-ne-zha", :version "1.0.0", :description "dynamic `where conditions` when you use hugsql to create your function that access database\n当你使用hugsql来编写数据库访问函数时，该库可以让你省去编写动态拼接where条件的繁琐", :created 1699370698732}
@@ -254,3 +244,13 @@
 {:jar_name "clj-pdf", :group_name "clj-pdf", :version "2.6.7", :description "PDF generation library", :created 1700240146364}
 {:jar_name "cli-tools", :group_name "io.github.hlship", :version "0.11", :description nil, :created 1700250404127}
 {:jar_name "flog", :group_name "com.github.jimpil", :version "0.3.1", :description "Structured-logging facilities geared towards Clojure maps (backed by Log4j2/3).", :created 1700258342499}
+{:jar_name "pedestal.log", :group_name "io.pedestal", :version "0.6.2", :description nil, :created 1700263753562}
+{:jar_name "pedestal.interceptor", :group_name "io.pedestal", :version "0.6.2", :description nil, :created 1700263762082}
+{:jar_name "pedestal.route", :group_name "io.pedestal", :version "0.6.2", :description nil, :created 1700263770472}
+{:jar_name "pedestal.service", :group_name "io.pedestal", :version "0.6.2", :description nil, :created 1700263779572}
+{:jar_name "pedestal.aws", :group_name "io.pedestal", :version "0.6.2", :description nil, :created 1700263788082}
+{:jar_name "pedestal.immutant", :group_name "io.pedestal", :version "0.6.2", :description nil, :created 1700263796172}
+{:jar_name "pedestal.jetty", :group_name "io.pedestal", :version "0.6.2", :description nil, :created 1700263804872}
+{:jar_name "pedestal.service-tools", :group_name "io.pedestal", :version "0.6.2", :description nil, :created 1700263813322}
+{:jar_name "pedestal.tomcat", :group_name "io.pedestal", :version "0.6.2", :description nil, :created 1700263821731}
+{:jar_name "lein-template", :group_name "pedestal-service", :version "0.6.2", :description nil, :created 1700263830631}
