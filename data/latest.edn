@@ -1,5 +1,3 @@
-{:jar_name "pretty", :group_name "org.clj-commons", :version "2.2.1", :description nil, :created 1699995069883}
-{:jar_name "strgen", :group_name "com.velisco", :version "0.2.5", :description "String generator from regular expressions, for use with Clojure test.check and spec", :created 1699999174807}
 {:jar_name "akvo-flow", :group_name "org.akvo.flow", :version "20231114-223344.67df5a96", :description nil, :created 1700001264544}
 {:jar_name "trapperkeeper-webserver-jetty10", :group_name "com.puppetlabs", :version "1.0.2", :description "A jetty10-based webserver implementation for use with the puppetlabs/trapperkeeper service framework.", :created 1700007971766}
 {:jar_name "aerial.hanami", :group_name "aerial.hanami", :version "0.19.0", :description "Clojure(Script) client/server vega/vega-lite based dynamic interactive plots and charts", :created 1700010938022}
@@ -243,7 +241,6 @@
 {:jar_name "calcite-clj", :group_name "io.github.ieugen", :version "0.1.14", :description nil, :created 1701028444437}
 {:jar_name "kit-nrepl", :group_name "io.github.kit-clj", :version "1.0.3", :description nil, :created 1701032777890}
 {:jar_name "common-clj", :group_name "net.clojars.macielti", :version "24.48.47", :description "Just common Clojure code that I use across projects", :created 1701078414060}
-{:jar_name "hugwhere", :group_name "org.clojars.xiao-ne-zha", :version "1.1.0-SNAPSHOT", :description "dynamic `where conditions` when you use hugsql to create your function that access database\n当你使用hugsql来编写数据库访问函数时，该库可以让你省去编写动态拼接where条件的繁琐", :created 1701080398114}
 {:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1701097193872}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1701097300950}
 {:jar_name "tiara", :group_name "org.clojars.quoll", :version "0.3.4", :description nil, :created 1701105831678}
@@ -254,3 +251,6 @@
 {:jar_name "pcp-client", :group_name "puppetlabs", :version "2.0.0", :description "client library for PCP", :created 1701126305717}
 {:jar_name "clj-ldap", :group_name "puppetlabs", :version "0.4.1", :description "Clojure ldap client (Puppet Labs's fork).", :created 1701129497635}
 {:jar_name "pcp-broker", :group_name "puppetlabs", :version "2.0.0", :description "PCP fabric messaging broker", :created 1701129631053}
+{:jar_name "clj-parent", :group_name "puppetlabs", :version "7.2.8", :description "", :created 1701130235814}
+{:jar_name "bucket", :group_name "com.cleancoders.c3kit", :version "2.0.8", :description nil, :created 1701130367729}
+{:jar_name "hugwhere", :group_name "org.clojars.xiao-ne-zha", :version "1.1.0-SNAPSHOT", :description "dynamic `where conditions` when you use hugsql to create your function that access database\n当你使用hugsql来编写数据库访问函数时，该库可以让你省去编写动态拼接where条件的繁琐", :created 1701134601418}
