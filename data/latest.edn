@@ -1,20 +1,3 @@
-{:jar_name "pedestal.jetty", :group_name "io.pedestal", :version "0.6.2", :description nil, :created 1700263804872}
-{:jar_name "pedestal.service-tools", :group_name "io.pedestal", :version "0.6.2", :description nil, :created 1700263813322}
-{:jar_name "pedestal.tomcat", :group_name "io.pedestal", :version "0.6.2", :description nil, :created 1700263821731}
-{:jar_name "lein-template", :group_name "pedestal-service", :version "0.6.2", :description nil, :created 1700263830631}
-{:jar_name "pug4clj", :group_name "com.urbandictionary", :version "0.0.10", :description "FIXME: write description", :created 1700279701977}
-{:jar_name "blocks", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292452731}
-{:jar_name "blocks-rabbitmq-dev", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292459541}
-{:jar_name "blocks-dev", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292466951}
-{:jar_name "blocks-xtdb", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292473271}
-{:jar_name "blocks-jdbc", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292479680}
-{:jar_name "blocks-sqlite", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292487000}
-{:jar_name "blocks-postgres", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292494510}
-{:jar_name "blocks-rabbitmq", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292501840}
-{:jar_name "blocks-postgres-dev", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292509350}
-{:jar_name "blocks-reitit", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292516570}
-{:jar_name "blocks-aero", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292523310}
-{:jar_name "blocks-test-containers", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292530690}
 {:jar_name "blocks-reitit-dev", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292538030}
 {:jar_name "blocks-httpkit", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292544850}
 {:jar_name "blocks-jdbc-dev", :group_name "ch.codesmith", :version "0.10.128", :description nil, :created 1700292551150}
@@ -120,7 +103,6 @@
 {:jar_name "tools.deps.enrich-classpath", :group_name "mx.cider", :version "1.18.6", :description "mx.cider/enrich-classpath with dependencies specific to tools.deps usage.", :created 1700815316110}
 {:jar_name "lein-enrich-classpath", :group_name "mx.cider", :version "1.18.6", :description "", :created 1700815323500}
 {:jar_name "build", :group_name "com.monkeyprojects", :version "0.2-SNAPSHOT", :description nil, :created 1700819065351}
-{:jar_name "babashka", :group_name "babashka", :version "1.3.187-SNAPSHOT", :description "babashka", :created 1700821635397}
 {:jar_name "sci", :group_name "org.babashka", :version "0.8.41", :description "Small Clojure Interpreter", :created 1700824038746}
 {:jar_name "common-clj", :group_name "net.clojars.macielti", :version "23.46.47", :description "Just common Clojure code that I use across projects", :created 1700826254186}
 {:jar_name "clj-json-patch", :group_name "org.clojars.pkoivisto", :version "0.1.9", :description "Clojure implementation of http://tools.ietf.org/html/rfc6902", :created 1700828851164}
@@ -254,3 +236,21 @@
 {:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1701429004057}
 {:jar_name "http-server", :group_name "org.babashka", :version "0.1.12", :description nil, :created 1701429791747}
 {:jar_name "dropwizard-rabbitmq-actors", :group_name "org.clojars.snehasishroy", :version "4.0.0", :description "Provides actor abstraction on RabbitMQ for dropwizard based projects.", :created 1701434807451}
+{:jar_name "babashka", :group_name "babashka", :version "1.3.187-SNAPSHOT", :description "babashka", :created 1701435914067}
+{:jar_name "district-ui-web3", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437323859}
+{:jar_name "district-ui-web3-chain", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437333518}
+{:jar_name "district-ui-web3-accounts", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437342438}
+{:jar_name "district-ui-component-tx-button", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437351638}
+{:jar_name "district-ui-smart-contracts", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437361118}
+{:jar_name "district-ui-web3-sync-now", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437370198}
+{:jar_name "district-ui-web3-tx", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437379038}
+{:jar_name "district-ui-web3-tx-log-core", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437388548}
+{:jar_name "district-ui-web3-tx-costs", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437397238}
+{:jar_name "district-ui-web3-tx-log", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437407567}
+{:jar_name "district-ui-web3-balances", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437416507}
+{:jar_name "district-ui-web3-account-balances", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437425957}
+{:jar_name "district-ui-component-active-account-balance", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437435297}
+{:jar_name "district-ui-web3-tx-id", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437444167}
+{:jar_name "district-ui-bundle", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437454597}
+{:jar_name "district-ui-component-active-account", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437463637}
+{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha43", :description "FIXME: my new library.", :created 1701438738460}

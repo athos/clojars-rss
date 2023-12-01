@@ -1,20 +1,3 @@
-{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.85", :description nil, :created 1700059036169}
-{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.85", :description nil, :created 1700059043209}
-{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.85", :description nil, :created 1700059050639}
-{:jar_name "blueprint-microserver", :group_name "com.exoscale", :version "0.2.85", :description nil, :created 1700059057669}
-{:jar_name "floating-ui-react", :group_name "io.github.cljsjs", :version "0.24.2-0", :description "Floating UI React library", :created 1700063699097}
-{:jar_name "ssl-utils", :group_name "puppetlabs", :version "3.5.3", :description "SSL certificate management on the JVM.", :created 1700070191341}
-{:jar_name "hoplon", :group_name "hoplon", :version "7.5.0", :description "Simple and powerful tool for building web apps out of highly composable elements in ClojureScript.", :created 1700071100919}
-{:jar_name "atmos-genesys", :group_name "org.clojars.atmos-system", :version "1.2", :description "The basis of all web projects using atmos tech", :created 1700072322929}
-{:jar_name "re-com", :group_name "org.clojars.jbiserkov", :version "2.13.3", :description "Reusable UI components for Reagent", :created 1700074218835}
-{:jar_name "urlocal", :group_name "com.github.pmonks", :version "1.0.21", :description "A Clojure micro-library for cached (ETag based) URL downloads", :created 1700076711238}
-{:jar_name "garden", :group_name "org.clojars.jbiserkov", :version "1.3.11", :description "Generate CSS from Clojure(Script) data structures.", :created 1700079859032}
-{:jar_name "openai-clojure", :group_name "net.clojars.wkok", :version "0.12.3", :description "Clojure functions to drive the OpenAI API", :created 1700082114598}
-{:jar_name "district-ui-smart-contracts", :group_name "is.d0x", :version "23.10.13", :description nil, :created 1700082694403}
-{:jar_name "cljs-ipfs-http-client", :group_name "is.d0x", :version "23.10.13", :description nil, :created 1700082703653}
-{:jar_name "district-shared-bundle", :group_name "is.d0x", :version "23.10.13", :description nil, :created 1700082713443}
-{:jar_name "district-server-smart-contracts", :group_name "is.d0x", :version "23.10.13", :description nil, :created 1700082722684}
-{:jar_name "district-server-bundle", :group_name "is.d0x", :version "23.10.13", :description nil, :created 1700082731934}
 {:jar_name "district-ui-bundle", :group_name "is.d0x", :version "23.10.13", :description nil, :created 1700082744554}
 {:jar_name "pdf-2-images", :group_name "org.clojars.roboli", :version "0.1.3", :description "Clojure wrapper for the PDFBox that converts a page range of a PDF document to images.", :created 1700096741744}
 {:jar_name "clojure.java-time", :group_name "clojure.java-time", :version "1.4.0", :description "Clojure wrapper for Java 8 Time API", :created 1700111950311}
@@ -254,3 +237,20 @@
 {:jar_name "re-frame-10x", :group_name "day8.re-frame", :version "1.9.1", :description "Become 10x more productive when developing and debugging re-frame applications.", :created 1701426305923}
 {:jar_name "http-server", :group_name "org.babashka", :version "0.1.12", :description nil, :created 1701429791747}
 {:jar_name "dropwizard-rabbitmq-actors", :group_name "org.clojars.snehasishroy", :version "4.0.0", :description "Provides actor abstraction on RabbitMQ for dropwizard based projects.", :created 1701434807451}
+{:jar_name "district-ui-web3", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437323859}
+{:jar_name "district-ui-web3-chain", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437333518}
+{:jar_name "district-ui-web3-accounts", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437342438}
+{:jar_name "district-ui-component-tx-button", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437351638}
+{:jar_name "district-ui-smart-contracts", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437361118}
+{:jar_name "district-ui-web3-sync-now", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437370198}
+{:jar_name "district-ui-web3-tx", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437379038}
+{:jar_name "district-ui-web3-tx-log-core", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437388548}
+{:jar_name "district-ui-web3-tx-costs", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437397238}
+{:jar_name "district-ui-web3-tx-log", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437407567}
+{:jar_name "district-ui-web3-balances", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437416507}
+{:jar_name "district-ui-web3-account-balances", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437425957}
+{:jar_name "district-ui-component-active-account-balance", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437435297}
+{:jar_name "district-ui-web3-tx-id", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437444167}
+{:jar_name "district-ui-bundle", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437454597}
+{:jar_name "district-ui-component-active-account", :group_name "is.d0x", :version "23.11.30", :description nil, :created 1701437463637}
+{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha43", :description "FIXME: my new library.", :created 1701438738460}
