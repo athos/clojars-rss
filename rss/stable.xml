@@ -4,7 +4,70 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 4 Dec 2023 18:01:27 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 4 Dec 2023 19:01:12 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-integration/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-integration &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-integration/versions/0.1.11</link>
+    <description>Multi-version integration tests in Docker</description>
+    <pubDate>Mon, 4 Dec 2023 18:28:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-ssl/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-ssl &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-ssl/versions/0.1.11</link>
+    <description>SSL-related utils</description>
+    <pubDate>Mon, 4 Dec 2023 18:28:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-honey/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-honey &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-honey/versions/0.1.11</link>
+    <description>HoneySQL wrapper for PG</description>
+    <pubDate>Mon, 4 Dec 2023 18:27:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-pool/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-pool &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-pool/versions/0.1.11</link>
+    <description>A simple, handmade connection pool for PG</description>
+    <pubDate>Mon, 4 Dec 2023 18:27:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-client/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-client &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-client/versions/0.1.11</link>
+    <description>Postgres client in pure Clojure (no JDBC)</description>
+    <pubDate>Mon, 4 Dec 2023 18:27:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-json/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-json &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-json/versions/0.1.11</link>
+    <description>Expand JSON(b) encoding &amp; decoding with Cheshire</description>
+    <pubDate>Mon, 4 Dec 2023 18:27:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-joda-time/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-joda-time &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-joda-time/versions/0.1.11</link>
+    <description>Expand encoding &amp; decoding with Joda Time</description>
+    <pubDate>Mon, 4 Dec 2023 18:26:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-types/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-types &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-types/versions/0.1.11</link>
+    <description>PG types encoding and decoding</description>
+    <pubDate>Mon, 4 Dec 2023 18:26:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-common/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-common &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-common/versions/0.1.11</link>
+    <description>Common PG modules</description>
+    <pubDate>Mon, 4 Dec 2023 18:26:32 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/djblue/portal/versions/0.50.0</guid>
     <title>[djblue/portal &quot;0.50.0&quot;]</title>
@@ -1733,69 +1796,6 @@
     <link>https://clojars.org/ch.codesmith/blocks-test-containers/versions/0.10.128</link>
     <description></description>
     <pubDate>Sat, 18 Nov 2023 07:28:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ch.codesmith/blocks-aero/versions/0.10.128</guid>
-    <title>[ch.codesmith/blocks-aero &quot;0.10.128&quot;]</title>
-    <link>https://clojars.org/ch.codesmith/blocks-aero/versions/0.10.128</link>
-    <description></description>
-    <pubDate>Sat, 18 Nov 2023 07:28:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ch.codesmith/blocks-reitit/versions/0.10.128</guid>
-    <title>[ch.codesmith/blocks-reitit &quot;0.10.128&quot;]</title>
-    <link>https://clojars.org/ch.codesmith/blocks-reitit/versions/0.10.128</link>
-    <description></description>
-    <pubDate>Sat, 18 Nov 2023 07:28:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ch.codesmith/blocks-postgres-dev/versions/0.10.128</guid>
-    <title>[ch.codesmith/blocks-postgres-dev &quot;0.10.128&quot;]</title>
-    <link>https://clojars.org/ch.codesmith/blocks-postgres-dev/versions/0.10.128</link>
-    <description></description>
-    <pubDate>Sat, 18 Nov 2023 07:28:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ch.codesmith/blocks-rabbitmq/versions/0.10.128</guid>
-    <title>[ch.codesmith/blocks-rabbitmq &quot;0.10.128&quot;]</title>
-    <link>https://clojars.org/ch.codesmith/blocks-rabbitmq/versions/0.10.128</link>
-    <description></description>
-    <pubDate>Sat, 18 Nov 2023 07:28:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ch.codesmith/blocks-postgres/versions/0.10.128</guid>
-    <title>[ch.codesmith/blocks-postgres &quot;0.10.128&quot;]</title>
-    <link>https://clojars.org/ch.codesmith/blocks-postgres/versions/0.10.128</link>
-    <description></description>
-    <pubDate>Sat, 18 Nov 2023 07:28:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ch.codesmith/blocks-sqlite/versions/0.10.128</guid>
-    <title>[ch.codesmith/blocks-sqlite &quot;0.10.128&quot;]</title>
-    <link>https://clojars.org/ch.codesmith/blocks-sqlite/versions/0.10.128</link>
-    <description></description>
-    <pubDate>Sat, 18 Nov 2023 07:28:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ch.codesmith/blocks-jdbc/versions/0.10.128</guid>
-    <title>[ch.codesmith/blocks-jdbc &quot;0.10.128&quot;]</title>
-    <link>https://clojars.org/ch.codesmith/blocks-jdbc/versions/0.10.128</link>
-    <description></description>
-    <pubDate>Sat, 18 Nov 2023 07:27:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ch.codesmith/blocks-xtdb/versions/0.10.128</guid>
-    <title>[ch.codesmith/blocks-xtdb &quot;0.10.128&quot;]</title>
-    <link>https://clojars.org/ch.codesmith/blocks-xtdb/versions/0.10.128</link>
-    <description></description>
-    <pubDate>Sat, 18 Nov 2023 07:27:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ch.codesmith/blocks-dev/versions/0.10.128</guid>
-    <title>[ch.codesmith/blocks-dev &quot;0.10.128&quot;]</title>
-    <link>https://clojars.org/ch.codesmith/blocks-dev/versions/0.10.128</link>
-    <description></description>
-    <pubDate>Sat, 18 Nov 2023 07:27:46 +0000</pubDate>
   </item>
   </channel>
 </rss>

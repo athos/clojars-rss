@@ -4,7 +4,70 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 4 Dec 2023 18:01:27 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 4 Dec 2023 19:01:12 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-integration/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-integration &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-integration/versions/0.1.11</link>
+    <description>Multi-version integration tests in Docker</description>
+    <pubDate>Mon, 4 Dec 2023 18:28:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-ssl/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-ssl &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-ssl/versions/0.1.11</link>
+    <description>SSL-related utils</description>
+    <pubDate>Mon, 4 Dec 2023 18:28:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-honey/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-honey &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-honey/versions/0.1.11</link>
+    <description>HoneySQL wrapper for PG</description>
+    <pubDate>Mon, 4 Dec 2023 18:27:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-pool/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-pool &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-pool/versions/0.1.11</link>
+    <description>A simple, handmade connection pool for PG</description>
+    <pubDate>Mon, 4 Dec 2023 18:27:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-client/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-client &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-client/versions/0.1.11</link>
+    <description>Postgres client in pure Clojure (no JDBC)</description>
+    <pubDate>Mon, 4 Dec 2023 18:27:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-json/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-json &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-json/versions/0.1.11</link>
+    <description>Expand JSON(b) encoding &amp; decoding with Cheshire</description>
+    <pubDate>Mon, 4 Dec 2023 18:27:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-joda-time/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-joda-time &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-joda-time/versions/0.1.11</link>
+    <description>Expand encoding &amp; decoding with Joda Time</description>
+    <pubDate>Mon, 4 Dec 2023 18:26:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-types/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-types &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-types/versions/0.1.11</link>
+    <description>PG types encoding and decoding</description>
+    <pubDate>Mon, 4 Dec 2023 18:26:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg-common/versions/0.1.11</guid>
+    <title>[com.github.igrishaev/pg-common &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg-common/versions/0.1.11</link>
+    <description>Common PG modules</description>
+    <pubDate>Mon, 4 Dec 2023 18:26:32 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/djblue/portal/versions/0.50.0</guid>
     <title>[djblue/portal &quot;0.50.0&quot;]</title>
@@ -1735,69 +1798,6 @@
     <link>https://clojars.org/io.github.frenchy64/fully-satisfies/versions/1.9.1-SNAPSHOT</link>
     <description>A variant of clojure.core/satisfies? that checks all methods are implemented.</description>
     <pubDate>Thu, 23 Nov 2023 05:16:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.msync/lucene-clj/versions/0.2.0-SNAPSHOT</guid>
-    <title>[org.msync/lucene-clj &quot;0.2.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.msync/lucene-clj/versions/0.2.0-SNAPSHOT</link>
-    <description>Lucene bindings for Clojure</description>
-    <pubDate>Thu, 23 Nov 2023 04:20:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.pmonks/clj-spdx/versions/1.0.114</guid>
-    <title>[com.github.pmonks/clj-spdx &quot;1.0.114&quot;]</title>
-    <link>https://clojars.org/com.github.pmonks/clj-spdx/versions/1.0.114</link>
-    <description>Clojure wrapper around spdx/Spdx-Java-Library.</description>
-    <pubDate>Thu, 23 Nov 2023 02:20:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.teleslabs/common-datomic/versions/1.3.2-beta</guid>
-    <title>[org.clojars.teleslabs/common-datomic &quot;1.3.2-beta&quot;]</title>
-    <link>https://clojars.org/org.clojars.teleslabs/common-datomic/versions/1.3.2-beta</link>
-    <description>Common Datomic library</description>
-    <pubDate>Wed, 22 Nov 2023 23:08:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.roboli/pdf-2-images/versions/1.0.0</guid>
-    <title>[org.clojars.roboli/pdf-2-images &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.roboli/pdf-2-images/versions/1.0.0</link>
-    <description>Clojure wrapper for the PDFBox that converts a page range of a PDF document to images.</description>
-    <pubDate>Wed, 22 Nov 2023 22:21:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.actionho/actionho-commons/versions/0.10-SNAPSHOT</guid>
-    <title>[org.clojars.actionho/actionho-commons &quot;0.10-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.actionho/actionho-commons/versions/0.10-SNAPSHOT</link>
-    <description>FIXME: write description</description>
-    <pubDate>Wed, 22 Nov 2023 20:08:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.yetanalytics/lrs/versions/1.2.16</guid>
-    <title>[com.yetanalytics/lrs &quot;1.2.16&quot;]</title>
-    <link>https://clojars.org/com.yetanalytics/lrs/versions/1.2.16</link>
-    <description></description>
-    <pubDate>Wed, 22 Nov 2023 17:48:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/thheller/shadow-cljs/versions/2.26.2</guid>
-    <title>[thheller/shadow-cljs &quot;2.26.2&quot;]</title>
-    <link>https://clojars.org/thheller/shadow-cljs/versions/2.26.2</link>
-    <description>CLJS development tools</description>
-    <pubDate>Wed, 22 Nov 2023 16:50:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.slingr-stack/slingr-services/versions/1.2-SNAPSHOT</guid>
-    <title>[io.github.slingr-stack/slingr-services &quot;1.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/io.github.slingr-stack/slingr-services/versions/1.2-SNAPSHOT</link>
-    <description>Framework to generate services to use on Slingr platform</description>
-    <pubDate>Wed, 22 Nov 2023 15:52:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.hyperfiddle/heroicons-electric/versions/9f20bff</guid>
-    <title>[com.hyperfiddle/heroicons-electric &quot;9f20bff&quot;]</title>
-    <link>https://clojars.org/com.hyperfiddle/heroicons-electric/versions/9f20bff</link>
-    <description></description>
-    <pubDate>Wed, 22 Nov 2023 15:23:32 +0000</pubDate>
   </item>
   </channel>
 </rss>
