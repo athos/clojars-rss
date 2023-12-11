@@ -1,12 +1,3 @@
-{:jar_name "ring-middleware", :group_name "puppetlabs", :version "2.0.1", :description "", :created 1701376976874}
-{:jar_name "re-frame-10x", :group_name "day8.re-frame", :version "1.9.0", :description "Become 10x more productive when developing and debugging re-frame applications.", :created 1701384592715}
-{:jar_name "pedestal.log", :group_name "io.pedestal", :version "0.6.3", :description nil, :created 1701388014721}
-{:jar_name "pedestal.interceptor", :group_name "io.pedestal", :version "0.6.3", :description nil, :created 1701388024081}
-{:jar_name "pedestal.route", :group_name "io.pedestal", :version "0.6.3", :description nil, :created 1701388032891}
-{:jar_name "pedestal.service", :group_name "io.pedestal", :version "0.6.3", :description nil, :created 1701388040900}
-{:jar_name "pedestal.aws", :group_name "io.pedestal", :version "0.6.3", :description nil, :created 1701388050300}
-{:jar_name "pedestal.immutant", :group_name "io.pedestal", :version "0.6.3", :description nil, :created 1701388058690}
-{:jar_name "pedestal.jetty", :group_name "io.pedestal", :version "0.6.3", :description nil, :created 1701388067650}
 {:jar_name "pedestal.service-tools", :group_name "io.pedestal", :version "0.6.3", :description nil, :created 1701388076120}
 {:jar_name "pedestal.tomcat", :group_name "io.pedestal", :version "0.6.3", :description nil, :created 1701388084920}
 {:jar_name "lein-template", :group_name "pedestal-service", :version "0.6.3", :description nil, :created 1701388093640}
@@ -234,7 +225,6 @@
 {:jar_name "frontend", :group_name "party.donut", :version "0.0.152", :description nil, :created 1702228124325}
 {:jar_name "clj-poly", :group_name "polylith", :version "0.2.18-SNAPSHOT", :description "Poly is Polylith's command line interface for Clojure.", :created 1702233667641}
 {:jar_name "h2", :group_name "szew", :version "0.4.0", :description "Clojure wrapper for H2 database.", :created 1702233719400}
-{:jar_name "kairos", :group_name "org.pilosus", :version "0.2.9999-SNAPSHOT", :description "Crontab parsing library for Clojure", :created 1702234235695}
 {:jar_name "protocol-template", :group_name "party.donut", :version "0.0.11", :description "template protocol implementations. pretty bad idea", :created 1702241524294}
 {:jar_name "antq", :group_name "antq", :version "2.7.1147", :description "Point out your outdated dependencies", :created 1702242207287}
 {:jar_name "antq", :group_name "com.github.liquidz", :version "2.7.1147", :description "Point out your outdated dependencies", :created 1702242212237}
@@ -254,3 +244,13 @@
 {:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC6", :description "A validation mixin for liberator.", :created 1702285450167}
 {:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC6", :description "Extensions for liberator allowing for composable mixins.", :created 1702285460517}
 {:jar_name "brevo", :group_name "com.avisi-apps.gaps", :version "0.0.83-SNAPSHOT", :description nil, :created 1702298353373}
+{:jar_name "kairos", :group_name "org.pilosus", :version "0.2.9999-SNAPSHOT", :description "Crontab parsing library that also speaks English", :created 1702302418757}
+{:jar_name "state-flow", :group_name "nubank", :version "5.14.5", :description "Integration testing with composable flows", :created 1702303078071}
+{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303176950}
+{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303185580}
+{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303194349}
+{:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303203609}
+{:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303214099}
+{:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303224839}
+{:jar_name "blueprint-router", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303234339}
+{:jar_name "blueprint-microserver", :group_name "com.exoscale", :version "0.2.90", :description nil, :created 1702303244309}
