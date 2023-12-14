@@ -1,5 +1,3 @@
-{:jar_name "pg-common", :group_name "com.github.igrishaev", :version "0.1.11", :description "Common PG modules", :created 1701714392668}
-{:jar_name "pg-types", :group_name "com.github.igrishaev", :version "0.1.11", :description "PG types encoding and decoding", :created 1701714405758}
 {:jar_name "pg-joda-time", :group_name "com.github.igrishaev", :version "0.1.11", :description "Expand encoding & decoding with Joda Time", :created 1701714417968}
 {:jar_name "pg-json", :group_name "com.github.igrishaev", :version "0.1.11", :description "Expand JSON(b) encoding & decoding with Cheshire", :created 1701714430728}
 {:jar_name "pg-client", :group_name "com.github.igrishaev", :version "0.1.11", :description "Postgres client in pure Clojure (no JDBC)", :created 1701714443348}
@@ -254,3 +252,5 @@
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.10.21-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1702508451490}
 {:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1702541938891}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1702542012891}
+{:jar_name "document-search-commons", :group_name "lupapiste", :version "2.0.5", :description "Common document search related code shared between lupadoku and onkalo applications", :created 1702551523442}
+{:jar_name "i18n", :group_name "ua.kasta", :version "1.0.15", :description "Internationalization lib", :created 1702551590102}
