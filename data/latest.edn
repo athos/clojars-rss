@@ -1,5 +1,3 @@
-{:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303185580}
-{:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303194349}
 {:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303203609}
 {:jar_name "blueprint-server", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303214099}
 {:jar_name "blueprint-reporter", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303224839}
@@ -216,15 +214,6 @@
 {:jar_name "edd-core-web", :group_name "com.alpha-prosoft", :version "1.290", :description nil, :created 1702972377280}
 {:jar_name "edd-web-frame", :group_name "com.alpha-prosoft", :version "1.290", :description nil, :created 1702972386970}
 {:jar_name "edd-web-widgets", :group_name "com.alpha-prosoft", :version "1.290", :description nil, :created 1702972395750}
-{:jar_name "brevo", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702983533918}
-{:jar_name "data-residency-migrations", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702983540638}
-{:jar_name "fulcro-google-remote", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702983547888}
-{:jar_name "google-cloud", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702983554368}
-{:jar_name "http", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702983560438}
-{:jar_name "log", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702983566488}
-{:jar_name "rcf", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702983572968}
-{:jar_name "reitit-express", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702983579018}
-{:jar_name "rollbar", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702983585038}
 {:jar_name "flow-storm-inst", :group_name "com.github.flow-storm", :version "3.9.0", :description nil, :created 1702985054263}
 {:jar_name "flow-storm-dbg", :group_name "com.github.flow-storm", :version "3.9.0", :description nil, :created 1702985090652}
 {:jar_name "clojure-elastic-apm", :group_name "clojure-elastic-apm", :version "0.11.0", :description "Clojure wrapper for Elastic APM Java Agent", :created 1702985798725}
@@ -254,3 +243,14 @@
 {:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1702996817154}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1702996960043}
 {:jar_name "tesla-microservice", :group_name "de.otto", :version "0.17.5", :description "basic microservice.", :created 1702998089701}
+{:jar_name "active-riemann", :group_name "de.active-group", :version "0.12.2", :description "Common functionality for Riemann streams.", :created 1702998342559}
+{:jar_name "brevo", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702998716275}
+{:jar_name "data-residency-migrations", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702998722955}
+{:jar_name "fulcro-google-remote", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702998730005}
+{:jar_name "google-cloud", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702998736185}
+{:jar_name "http", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702998742575}
+{:jar_name "log", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702998748645}
+{:jar_name "rcf", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702998754925}
+{:jar_name "reitit-express", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702998761274}
+{:jar_name "rollbar", :group_name "com.avisi-apps.gaps", :version "0.0.99-SNAPSHOT", :description nil, :created 1702998767714}
+{:jar_name "jepsen", :group_name "jepsen", :version "0.3.5-SNAPSHOT", :description "Distributed systems testing framework.", :created 1703001156010}
