@@ -1,13 +1,3 @@
-{:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC6", :description "A JSON mixin for liberator.", :created 1702285418477}
-{:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC6", :description "An authorisation mixin for liberator.", :created 1702285426407}
-{:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC6", :description "A hypermedia mixin for liberator.", :created 1702285434187}
-{:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC6", :description "A HAL mixin for liberator.", :created 1702285442327}
-{:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC6", :description "A validation mixin for liberator.", :created 1702285450167}
-{:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC6", :description "Extensions for liberator allowing for composable mixins.", :created 1702285460517}
-{:jar_name "brevo", :group_name "com.avisi-apps.gaps", :version "0.0.83-SNAPSHOT", :description nil, :created 1702298353373}
-{:jar_name "kairos", :group_name "org.pilosus", :version "0.2.9999-SNAPSHOT", :description "Crontab parsing library that also speaks English", :created 1702302418757}
-{:jar_name "state-flow", :group_name "nubank", :version "5.14.5", :description "Integration testing with composable flows", :created 1702303078071}
-{:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303176950}
 {:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303185580}
 {:jar_name "blueprint-handler", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303194349}
 {:jar_name "blueprint-client", :group_name "exoscale", :version "0.2.90", :description nil, :created 1702303203609}
@@ -219,7 +209,6 @@
 {:jar_name "oksa", :group_name "fi.metosin", :version "0.0.2-SNAPSHOT", :description nil, :created 1702930424419}
 {:jar_name "had-utils", :group_name "org.clojars.hading", :version "5.0.0", :description "Personal utilites", :created 1702935064215}
 {:jar_name "lein-template.aoc", :group_name "org.clojars.hading", :version "5.0.0", :description "Leiningen template for my personal Advent of Code projects", :created 1702935147334}
-{:jar_name "flowmaps", :group_name "com.ryrobes", :version "0.31-SNAPSHOT", :description "FlowMaps: A Flow Based Programming sequencer for Clojure with interactive flow debugger & visualizer", :created 1702935381472}
 {:jar_name "keycloak-clojure", :group_name "keycloak-clojure", :version "1.30.5", :description "A clojure wrapper of Keycloak", :created 1702936418501}
 {:jar_name "had-utils", :group_name "org.clojars.hading", :version "5.0.1", :description "Personal utilites", :created 1702937716778}
 {:jar_name "lein-template.aoc", :group_name "org.clojars.hading", :version "5.0.1", :description "Leiningen template for my personal Advent of Code projects", :created 1702937793938}
@@ -243,8 +232,6 @@
 {:jar_name "persistent-sorted-set", :group_name "org.clojars.tiensonqin", :version "0.0.2", :description "Fast B-tree based persistent sorted set for Clojure/Script", :created 1702990026613}
 {:jar_name "squery-mongoj-reactive", :group_name "org.squery", :version "0.2.0-SNAPSHOT", :description "SQuery for the reactive mongodb java driver", :created 1702990508068}
 {:jar_name "persistent-sorted-set", :group_name "org.clojars.tiensonqin", :version "0.0.4", :description "Fast B-tree based persistent sorted set for Clojure/Script", :created 1702991573277}
-{:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1702992259650}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1702992396539}
 {:jar_name "brevo", :group_name "com.avisi-apps.gaps", :version "0.0.100-SNAPSHOT", :description nil, :created 1702994304309}
 {:jar_name "data-residency-migrations", :group_name "com.avisi-apps.gaps", :version "0.0.100-SNAPSHOT", :description nil, :created 1702994310729}
 {:jar_name "fulcro-google-remote", :group_name "com.avisi-apps.gaps", :version "0.0.100-SNAPSHOT", :description nil, :created 1702994317879}
@@ -254,3 +241,16 @@
 {:jar_name "rcf", :group_name "com.avisi-apps.gaps", :version "0.0.100-SNAPSHOT", :description nil, :created 1702994342899}
 {:jar_name "reitit-express", :group_name "com.avisi-apps.gaps", :version "0.0.100-SNAPSHOT", :description nil, :created 1702994349359}
 {:jar_name "rollbar", :group_name "com.avisi-apps.gaps", :version "0.0.100-SNAPSHOT", :description nil, :created 1702994355459}
+{:jar_name "flowmaps", :group_name "com.ryrobes", :version "0.31-SNAPSHOT", :description "FlowMaps: A Flow Based Programming sequencer for Clojure with interactive flow debugger & visualizer", :created 1702994850894}
+{:jar_name "brevo", :group_name "com.avisi-apps.gaps", :version "0.0.100", :description nil, :created 1702996162121}
+{:jar_name "data-residency-migrations", :group_name "com.avisi-apps.gaps", :version "0.0.100", :description nil, :created 1702996166921}
+{:jar_name "fulcro-google-remote", :group_name "com.avisi-apps.gaps", :version "0.0.100", :description nil, :created 1702996172261}
+{:jar_name "google-cloud", :group_name "com.avisi-apps.gaps", :version "0.0.100", :description nil, :created 1702996177081}
+{:jar_name "http", :group_name "com.avisi-apps.gaps", :version "0.0.100", :description nil, :created 1702996181860}
+{:jar_name "log", :group_name "com.avisi-apps.gaps", :version "0.0.100", :description nil, :created 1702996186440}
+{:jar_name "rcf", :group_name "com.avisi-apps.gaps", :version "0.0.100", :description nil, :created 1702996191190}
+{:jar_name "reitit-express", :group_name "com.avisi-apps.gaps", :version "0.0.100", :description nil, :created 1702996195780}
+{:jar_name "rollbar", :group_name "com.avisi-apps.gaps", :version "0.0.100", :description nil, :created 1702996200880}
+{:jar_name "script", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1702996817154}
+{:jar_name "app", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1702996960043}
+{:jar_name "tesla-microservice", :group_name "de.otto", :version "0.17.5", :description "basic microservice.", :created 1702998089701}
