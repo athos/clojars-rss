@@ -4,7 +4,63 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 25 Dec 2023 10:01:21 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 25 Dec 2023 11:01:07 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.clojars.some/schemadef/versions/0.1.15</guid>
+    <title>[org.clojars.some/schemadef &quot;0.1.15&quot;]</title>
+    <link>https://clojars.org/org.clojars.some/schemadef/versions/0.1.15</link>
+    <description></description>
+    <pubDate>Mon, 25 Dec 2023 10:53:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/versions/1.11.0</guid>
+    <title>[ring &quot;1.11.0&quot;]</title>
+    <link>https://clojars.org/ring/versions/1.11.0</link>
+    <description>A Clojure web applications library.</description>
+    <pubDate>Mon, 25 Dec 2023 10:30:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-jetty-adapter/versions/1.11.0</guid>
+    <title>[ring/ring-jetty-adapter &quot;1.11.0&quot;]</title>
+    <link>https://clojars.org/ring/ring-jetty-adapter/versions/1.11.0</link>
+    <description>Ring Jetty adapter.</description>
+    <pubDate>Mon, 25 Dec 2023 10:29:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.ring-clojure/ring-jakarta-servlet/versions/1.11.0</guid>
+    <title>[org.ring-clojure/ring-jakarta-servlet &quot;1.11.0&quot;]</title>
+    <link>https://clojars.org/org.ring-clojure/ring-jakarta-servlet/versions/1.11.0</link>
+    <description>Ring Jakarta servlet utilities.</description>
+    <pubDate>Mon, 25 Dec 2023 10:27:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-servlet/versions/1.11.0</guid>
+    <title>[ring/ring-servlet &quot;1.11.0&quot;]</title>
+    <link>https://clojars.org/ring/ring-servlet/versions/1.11.0</link>
+    <description>Ring servlet utilities.</description>
+    <pubDate>Mon, 25 Dec 2023 10:27:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-devel/versions/1.11.0</guid>
+    <title>[ring/ring-devel &quot;1.11.0&quot;]</title>
+    <link>https://clojars.org/ring/ring-devel/versions/1.11.0</link>
+    <description>Ring development and debugging libraries.</description>
+    <pubDate>Mon, 25 Dec 2023 10:26:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-core/versions/1.11.0</guid>
+    <title>[ring/ring-core &quot;1.11.0&quot;]</title>
+    <link>https://clojars.org/ring/ring-core/versions/1.11.0</link>
+    <description>Ring core libraries.</description>
+    <pubDate>Mon, 25 Dec 2023 10:25:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.ring-clojure/ring-websocket-protocols/versions/1.11.0</guid>
+    <title>[org.ring-clojure/ring-websocket-protocols &quot;1.11.0&quot;]</title>
+    <link>https://clojars.org/org.ring-clojure/ring-websocket-protocols/versions/1.11.0</link>
+    <description>Ring protocols for websockets.</description>
+    <pubDate>Mon, 25 Dec 2023 10:25:01 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/vald-client-clj/versions/v1.7.10</guid>
     <title>[vald-client-clj &quot;v1.7.10&quot;]</title>
@@ -1742,62 +1798,6 @@
     <link>https://clojars.org/party.donut/endpoint/versions/0.0.29</link>
     <description></description>
     <pubDate>Sun, 10 Dec 2023 17:08:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.zmedelis/hfds-clj/versions/2023.12.10</guid>
-    <title>[io.github.zmedelis/hfds-clj &quot;2023.12.10&quot;]</title>
-    <link>https://clojars.org/io.github.zmedelis/hfds-clj/versions/2023.12.10</link>
-    <description>FIXME: my new application.</description>
-    <pubDate>Sun, 10 Dec 2023 16:46:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tech.totalperspective/pondermatic/versions/1.1.2</guid>
-    <title>[tech.totalperspective/pondermatic &quot;1.1.2&quot;]</title>
-    <link>https://clojars.org/tech.totalperspective/pondermatic/versions/1.1.2</link>
-    <description>A functional effect system driven rules engine for Clojure/ClojureScript</description>
-    <pubDate>Sun, 10 Dec 2023 13:40:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/info.sunng/ring-jetty9-adapter/versions/0.30.3</guid>
-    <title>[info.sunng/ring-jetty9-adapter &quot;0.30.3&quot;]</title>
-    <link>https://clojars.org/info.sunng/ring-jetty9-adapter/versions/0.30.3</link>
-    <description>Ring adapter for jetty9, which supports websocket and spdy</description>
-    <pubDate>Sun, 10 Dec 2023 12:23:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/info.sunng/ring-jetty9-adapter-http3/versions/0.4.3</guid>
-    <title>[info.sunng/ring-jetty9-adapter-http3 &quot;0.4.3&quot;]</title>
-    <link>https://clojars.org/info.sunng/ring-jetty9-adapter-http3/versions/0.4.3</link>
-    <description>Ring adapter for jetty 9 and above, meta package for http3</description>
-    <pubDate>Sun, 10 Dec 2023 12:22:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.logicblocks/kafka.testing/versions/0.0.3-RC5</guid>
-    <title>[io.logicblocks/kafka.testing &quot;0.0.3-RC5&quot;]</title>
-    <link>https://clojars.org/io.logicblocks/kafka.testing/versions/0.0.3-RC5</link>
-    <description>A Clojure library to help with tests involving Kafka.</description>
-    <pubDate>Sun, 10 Dec 2023 00:50:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/prevayler-clj/prevayler4/versions/2023.12.09.21.42</guid>
-    <title>[prevayler-clj/prevayler4 &quot;2023.12.09.21.42&quot;]</title>
-    <link>https://clojars.org/prevayler-clj/prevayler4/versions/2023.12.09.21.42</link>
-    <description>Simple, fast, 100% transparent, ACID persistence in Clojure.</description>
-    <pubDate>Sun, 10 Dec 2023 00:45:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.jahfer/clj-activitypub/versions/0.67</guid>
-    <title>[com.jahfer/clj-activitypub &quot;0.67&quot;]</title>
-    <link>https://clojars.org/com.jahfer/clj-activitypub/versions/0.67</link>
-    <description>clj-activitypub is a set of utilities that can be combined together to create a fully-functional ActivityPub server.</description>
-    <pubDate>Sun, 10 Dec 2023 00:12:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.scicloj/clay/versions/2-alpha51</guid>
-    <title>[org.scicloj/clay &quot;2-alpha51&quot;]</title>
-    <link>https://clojars.org/org.scicloj/clay/versions/2-alpha51</link>
-    <description>FIXME: my new library.</description>
-    <pubDate>Sat, 9 Dec 2023 22:55:53 +0000</pubDate>
   </item>
   </channel>
 </rss>
