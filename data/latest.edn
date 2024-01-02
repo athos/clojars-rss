@@ -1,17 +1,3 @@
-{:jar_name "lein-balloon", :group_name "org.clojars.roboli", :version "0.1.1-SNAPSHOT", :description "FIXME: write description", :created 1703034063549}
-{:jar_name "ring-jetty9-adapter-http3", :group_name "info.sunng", :version "0.3.4", :description "Ring adapter for jetty 9 and above, meta package for http3", :created 1703037011809}
-{:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.22.5", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1703037255047}
-{:jar_name "lice-comb", :group_name "com.github.pmonks", :version "2.0.240", :description "A Clojure library for software license detection.", :created 1703046174112}
-{:jar_name "tools-licenses", :group_name "com.github.pmonks", :version "2.0.182", :description "A Clojure tools.build task library related to dependency licenses.", :created 1703047964419}
-{:jar_name "asf-cat", :group_name "com.github.pmonks", :version "2.0.116", :description "A micro library that provides a Clojure implementation of the Apache Software Foundation's 3rd Party License Policy (https://www.apache.org/legal/resolved.html).", :created 1703048587192}
-{:jar_name "tools-licenses", :group_name "com.github.pmonks", :version "2.0.184", :description "A Clojure tools.build task library related to dependency licenses.", :created 1703050182016}
-{:jar_name "pbr", :group_name "com.github.pmonks", :version "2.0.377", :description "Peter's Build Resources for Clojure tools.build projects.", :created 1703050611012}
-{:jar_name "spinner", :group_name "com.github.pmonks", :version "2.0.225", :description "Simple ANSI text progress indicators for command line Clojure apps.", :created 1703051394714}
-{:jar_name "shadow-css", :group_name "com.thheller", :version "0.4.5", :description "CSS-in-CLJ(S)", :created 1703058471033}
-{:jar_name "truegrit", :group_name "net.modulolotus", :version "2.2.32", :description "A data-driven, functionally-oriented, idiomatic Clojure library for circuit breakers, bulkheads, retries, rate limiters, and timeouts.", :created 1703070143865}
-{:jar_name "tesla-jetty", :group_name "de.otto", :version "0.3.0", :description "basic microservice.", :created 1703087149472}
-{:jar_name "powerpack", :group_name "no.cjohansen", :version "2023.12.20", :description "A batteries included static website framework", :created 1703109800505}
-{:jar_name "balloon", :group_name "org.clojars.roboli", :version "0.1.0", :description "Deflate a nested map into one level deep or inflate a one level into a nested map using delimited keys", :created 1703114685946}
 {:jar_name "lein-balloon", :group_name "org.clojars.roboli", :version "0.1.1", :description "Balloon plugin for Leiningen", :created 1703115101112}
 {:jar_name "embroidery", :group_name "com.github.pmonks", :version "0.1.6", :description "A Clojure micro-library for leveraging virtual threads on JVMs that support them.", :created 1703122801915}
 {:jar_name "temporal-sdk", :group_name "io.github.manetu", :version "0.15.0", :description "A Temporal SDK for Clojure", :created 1703124766366}
@@ -254,3 +240,17 @@
 {:jar_name "clara-rules", :group_name "com.github.k13labs", :version "0.9.0-SNAPSHOT", :description nil, :created 1704215896425}
 {:jar_name "orbit", :group_name "link.szabo.mauricio", :version "2024-01-02.18.40", :description "REPL connections to nREPL and Shadow Remote API", :created 1704220842902}
 {:jar_name "cljoss", :group_name "pw.snas", :version "1.0.0", :description "Finds vulnerabilities in jars on classpaths", :created 1704226625039}
+{:jar_name "kit-generator", :group_name "io.github.kit-clj", :version "0.2.0", :description nil, :created 1704233527266}
+{:jar_name "deps-template", :group_name "io.github.kit-clj", :version "0.1.51", :description nil, :created 1704233612964}
+{:jar_name "lein-template", :group_name "io.github.kit-clj", :version "0.1.51", :description nil, :created 1704233633364}
+{:jar_name "configurati", :group_name "io.logicblocks", :version "0.5.7-RC3", :description "Define and resolve application configuration.", :created 1704233646264}
+{:jar_name "liberator.mixin.core", :group_name "io.logicblocks", :version "0.1.0-RC7", :description "Functions for defining composable liberator mixins.", :created 1704233915949}
+{:jar_name "liberator.mixin.context", :group_name "io.logicblocks", :version "0.1.0-RC7", :description "A context management mixin for liberator.", :created 1704233923438}
+{:jar_name "liberator.mixin.logging", :group_name "io.logicblocks", :version "0.1.0-RC7", :description "A logging mixin for liberator.", :created 1704233931108}
+{:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC7", :description "A JSON mixin for liberator.", :created 1704233939218}
+{:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC7", :description "An authorisation mixin for liberator.", :created 1704233947138}
+{:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC7", :description "A hypermedia mixin for liberator.", :created 1704233954808}
+{:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC7", :description "A HAL mixin for liberator.", :created 1704233962978}
+{:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC7", :description "A validation mixin for liberator.", :created 1704233970758}
+{:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC7", :description "Extensions for liberator allowing for composable mixins.", :created 1704233980957}
+{:jar_name "hype", :group_name "io.logicblocks", :version "2.0.1-RC4", :description "Hypermedia functions for ring routers.", :created 1704234407019}
