@@ -1,6 +1,3 @@
-{:jar_name "clj-otel-exporter-logging-otlp", :group_name "com.github.steffan-westcott", :version "0.2.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1704043458351}
-{:jar_name "clj-otel-exporter-otlp", :group_name "com.github.steffan-westcott", :version "0.2.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :created 1704043464590}
-{:jar_name "clj-otel-exporter-prometheus", :group_name "com.github.steffan-westcott", :version "0.2.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter", :created 1704043470940}
 {:jar_name "clj-otel-exporter-zipkin", :group_name "com.github.steffan-westcott", :version "0.2.5-SNAPSHOT", :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :created 1704043478750}
 {:jar_name "clj-otel-instrumentation-resources", :group_name "com.github.steffan-westcott", :version "0.2.5-SNAPSHOT", :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :created 1704043487220}
 {:jar_name "clj-otel-instrumentation-runtime-telemetry-java8", :group_name "com.github.steffan-westcott", :version "0.2.5-SNAPSHOT", :description "Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 8+", :created 1704043493310}
@@ -254,3 +251,6 @@
 {:jar_name "raql-honeysql", :group_name "com.fooheads", :version "0.9.6", :description "A description", :created 1704907346629}
 {:jar_name "useful", :group_name "com.timezynk", :version "2.3.2", :description "Useful functions", :created 1704911209137}
 {:jar_name "electric", :group_name "com.hyperfiddle", :version "v2-alpha-540-ga4699532", :description "A reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary", :created 1704911818806}
+{:jar_name "db", :group_name "com.fluree", :version "3.0.0-alpha2", :description nil, :created 1704918072582}
+{:jar_name "futurama", :group_name "com.github.k13labs", :version "0.6.4", :description nil, :created 1704918628149}
+{:jar_name "clara-rules", :group_name "com.github.k13labs", :version "0.9.6", :description nil, :created 1704919430384}
