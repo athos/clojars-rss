@@ -184,8 +184,6 @@
 {:jar_name "oci-container-instance", :group_name "com.monkeyprojects", :version "0.1.0-SNAPSHOT", :description nil, :created 1705071341572}
 {:jar_name "oci-container-instance", :group_name "com.monkeyprojects", :version "0.1.0", :description nil, :created 1705073039891}
 {:jar_name "xapi-schema", :group_name "com.yetanalytics", :version "1.2.2", :description "Clojure(script) Schema for the Experience API v1.0.3", :created 1705073162398}
-{:jar_name "script", :group_name "com.monkeyci", :version "0.1.2-SNAPSHOT", :description nil, :created 1705074664030}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.1.2-SNAPSHOT", :description nil, :created 1705074728429}
 {:jar_name "sentry-clj", :group_name "io.sentry", :version "7.2.211", :description "A very thin wrapper around the official Java library for Sentry.", :created 1705074786398}
 {:jar_name "clay", :group_name "org.scicloj", :version "2-alpha62", :description "FIXME: my new library.", :created 1705075150041}
 {:jar_name "babashka", :group_name "babashka", :version "1.3.188-SNAPSHOT", :description "babashka", :created 1705076678975}
@@ -201,7 +199,6 @@
 {:jar_name "automigrate", :group_name "net.clojars.abogoyavlensky", :version "0.3.0", :description "Auto-generated database migrations for Clojure. Define models as plain EDN and create schema migrations automatically.", :created 1705102440953}
 {:jar_name "sql-file", :group_name "com.mschaef", :version "0.4.11", :description "One stop shopping for embedding an HSQLDB database and managing schemas for same.", :created 1705102610240}
 {:jar_name "duck-repled", :group_name "link.szabo.mauricio", :version "2024-01-13.00.38", :description "Query interactions with REPLs with Pathom", :created 1705106340208}
-{:jar_name "kairos", :group_name "org.pilosus", :version "0.2.9999-SNAPSHOT", :description "Crontab parsing library that also speaks English", :created 1705147030215}
 {:jar_name "moncee", :group_name "io.gitlab.myst3m", :version "0.12.0", :description nil, :created 1705161842684}
 {:jar_name "lucene-clj", :group_name "org.msync", :version "0.2.0-SNAPSHOT", :description "Lucene bindings for Clojure", :created 1705169184539}
 {:jar_name "aws-simple-sign", :group_name "dk.emcken", :version "1.3.0", :description "A library to sign HTTP requests & generate presigned URL's for AWS", :created 1705184173098}
@@ -254,3 +251,6 @@
 {:jar_name "moncee", :group_name "io.gitlab.myst3m", :version "1.0.0", :description nil, :created 1705293223659}
 {:jar_name "silvur", :group_name "io.gitlab.myst3m", :version "2.6.2", :description nil, :created 1705293764372}
 {:jar_name "varity", :group_name "varity", :version "0.10.1", :description "Variant translation library for Clojure", :created 1705304952231}
+{:jar_name "kairos", :group_name "org.pilosus", :version "0.2.9999-SNAPSHOT", :description "Crontab parsing library that also speaks English", :created 1705306018473}
+{:jar_name "script", :group_name "com.monkeyci", :version "0.1.2-SNAPSHOT", :description nil, :created 1705308269068}
+{:jar_name "app", :group_name "com.monkeyci", :version "0.1.2-SNAPSHOT", :description nil, :created 1705308333807}
