@@ -1,8 +1,3 @@
-{:jar_name "liberator.resource.events", :group_name "io.logicblocks", :version "0.1.5-RC5", :description "Event related resources for liberator.", :created 1705352367662}
-{:jar_name "clj-otel-api", :group_name "com.github.steffan-westcott", :version "0.2.6", :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :created 1705355536451}
-{:jar_name "clj-otel-sdk-common", :group_name "com.github.steffan-westcott", :version "0.2.6", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK common components", :created 1705355541111}
-{:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.2.6", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :created 1705355546091}
-{:jar_name "clj-otel-contrib-aws-resources", :group_name "com.github.steffan-westcott", :version "0.2.6", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1705355550801}
 {:jar_name "clj-otel-contrib-aws-xray-propagator", :group_name "com.github.steffan-westcott", :version "0.2.6", :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :created 1705355555521}
 {:jar_name "clj-otel-sdk-extension-autoconfigure", :group_name "com.github.steffan-westcott", :version "0.2.6", :description "Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties", :created 1705355560291}
 {:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.2.6", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1705355565351}
@@ -161,7 +156,6 @@
 {:jar_name "playbook", :group_name "com.mschaef", :version "0.1.2", :description "A standard set of tools for small-scale Clojure applications.", :created 1705626661085}
 {:jar_name "re-com", :group_name "re-com", :version "2.16.4", :description "Reusable UI components for Reagent", :created 1705629993062}
 {:jar_name "manifold", :group_name "manifold", :version "0.4.2", :description "A compatibility layer for event-driven abstractions", :created 1705644958070}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.12.16-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1705659429368}
 {:jar_name "c4k-common-cljs", :group_name "org.domaindrivenarchitecture", :version "6.1.2", :description "Contains predicates and tools for c4k", :created 1705662411141}
 {:jar_name "c4k-common-clj", :group_name "org.domaindrivenarchitecture", :version "6.1.2", :description "Contains predicates and tools for c4k", :created 1705662411291}
 {:jar_name "mallard", :group_name "com.kepler16", :version "1.0.1.0", :description "Flexible migrations tooling", :created 1705663764596}
@@ -254,3 +248,9 @@
 {:jar_name "cljs-web3-next", :group_name "is.d0x", :version "2024-01-20", :description nil, :created 1705939231549}
 {:jar_name "swark", :group_name "org.clojars.stanv", :version "0.1.1", :description nil, :created 1705944839853}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "7.3.3", :description "", :created 1705945376823}
+{:jar_name "statecharts", :group_name "com.fulcrologic", :version "1.2.0-SNAPSHOT", :description "A library for building CLJC statechart machines.", :created 1705953726041}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2023.12.16-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1705953771622}
+{:jar_name "swark", :group_name "org.clojars.stanv", :version "0.1.21", :description nil, :created 1705954834920}
+{:jar_name "app", :group_name "com.monkeyci", :version "0.2.1.1", :description nil, :created 1705956996584}
+{:jar_name "script", :group_name "com.monkeyci", :version "0.2.1.1", :description nil, :created 1705957015534}
+{:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.1.77", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1705957127472}
