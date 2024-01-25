@@ -1,7 +1,3 @@
-{:jar_name "data-residency-migrations", :group_name "com.avisi-apps.gaps", :version "0.0.112-SNAPSHOT", :description nil, :created 1705505562545}
-{:jar_name "fulcro-google-remote", :group_name "com.avisi-apps.gaps", :version "0.0.112-SNAPSHOT", :description nil, :created 1705505569565}
-{:jar_name "google-cloud", :group_name "com.avisi-apps.gaps", :version "0.0.112-SNAPSHOT", :description nil, :created 1705505575984}
-{:jar_name "http", :group_name "com.avisi-apps.gaps", :version "0.0.112-SNAPSHOT", :description nil, :created 1705505582164}
 {:jar_name "log", :group_name "com.avisi-apps.gaps", :version "0.0.112-SNAPSHOT", :description nil, :created 1705505588194}
 {:jar_name "rcf", :group_name "com.avisi-apps.gaps", :version "0.0.112-SNAPSHOT", :description nil, :created 1705505594374}
 {:jar_name "reitit-express", :group_name "com.avisi-apps.gaps", :version "0.0.112-SNAPSHOT", :description nil, :created 1705505600674}
@@ -254,3 +250,7 @@
 {:jar_name "clara-rules", :group_name "com.github.k13labs", :version "0.9.9", :description nil, :created 1706196118522}
 {:jar_name "script", :group_name "com.monkeyci", :version "0.2.2-SNAPSHOT", :description nil, :created 1706199360256}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.2.2-SNAPSHOT", :description nil, :created 1706199422749}
+{:jar_name "ring-jwt", :group_name "net.clojars.kelveden", :version "2.7.0", :description "JWT middleware for Ring", :created 1706202633166}
+{:jar_name "duct.middleware.ring-jwt", :group_name "net.clojars.kelveden", :version "2.7.0", :description "Integrant keys for kelveden/ring-jwt.", :created 1706202720365}
+{:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.1.105", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1706204130010}
+{:jar_name "nano-id", :group_name "nano-id", :version "1.1.0", :description "A tiny, secure, URL-friendly unique string ID generator", :created 1706205378018}
