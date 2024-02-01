@@ -1,5 +1,3 @@
-{:jar_name "ncr.clj.bot-api", :group_name "io.github.suprematic", :version "0.3.12", :description "Neckar high-level bot API for Clojure", :created 1706081963758}
-{:jar_name "martian", :group_name "com.github.oliyh", :version "0.1.26", :description "Client routing for Swagger APIs", :created 1706089117174}
 {:jar_name "martian-httpkit", :group_name "com.github.oliyh", :version "0.1.26", :description "httpkit implementation for martian", :created 1706089134054}
 {:jar_name "martian-test", :group_name "com.github.oliyh", :version "0.1.26", :description "Testing tools for martian", :created 1706089148653}
 {:jar_name "martian-babashka-http-client", :group_name "com.github.oliyh", :version "0.1.26", :description "babashka http-client implementation for martian", :created 1706089163023}
@@ -151,7 +149,6 @@
 {:jar_name "wiretap", :group_name "io.github.beoliver", :version "0.0.17", :description "A Clojure library for adding generic trace support without having to modify code.", :created 1706597322301}
 {:jar_name "script", :group_name "com.monkeyci", :version "0.2.3", :description nil, :created 1706612295919}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.2.3", :description nil, :created 1706612354688}
-{:jar_name "babashka", :group_name "babashka", :version "1.3.189-SNAPSHOT", :description "babashka", :created 1706612725501}
 {:jar_name "edamame", :group_name "borkdude", :version "1.4.24", :description "EDN parser with location metadata and pluggable dispatch table.", :created 1706613591765}
 {:jar_name "komponentit", :group_name "metosin", :version "0.3.13", :description "Collection of bespoke Reagent components", :created 1706617942426}
 {:jar_name "script", :group_name "com.monkeyci", :version "0.2.3.1", :description nil, :created 1706618711108}
@@ -254,3 +251,6 @@
 {:jar_name "metrics-domain", :group_name "com.tick42.gateway", :version "3.0.21-SNAPSHOT", :description "", :created 1706779934106}
 {:jar_name "pact", :group_name "com.s-exp", :version "1.0.4", :description nil, :created 1706780051644}
 {:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.1.126", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1706781214792}
+{:jar_name "babashka", :group_name "babashka", :version "1.3.189-SNAPSHOT", :description "babashka", :created 1706782425879}
+{:jar_name "cancancan", :group_name "com.timezynk", :version "0.2.0", :description "Clojure implementation of the cancancan library", :created 1706783443210}
+{:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.1.128", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1706784811685}
