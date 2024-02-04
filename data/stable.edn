@@ -1,26 +1,3 @@
-{:jar_name "martian-httpkit", :group_name "com.github.oliyh", :version "0.1.26", :description "httpkit implementation for martian", :created 1706089134054}
-{:jar_name "martian-test", :group_name "com.github.oliyh", :version "0.1.26", :description "Testing tools for martian", :created 1706089148653}
-{:jar_name "martian-babashka-http-client", :group_name "com.github.oliyh", :version "0.1.26", :description "babashka http-client implementation for martian", :created 1706089163023}
-{:jar_name "martian-clj-http", :group_name "com.github.oliyh", :version "0.1.26", :description "clj-http implementation for martian", :created 1706089177573}
-{:jar_name "martian-vcr", :group_name "com.github.oliyh", :version "0.1.26", :description "Recording and playback for Martian", :created 1706089191493}
-{:jar_name "martian-cljs-http-promise", :group_name "com.github.oliyh", :version "0.1.26", :description "cljs-http-promise implementation for martian", :created 1706089205852}
-{:jar_name "martian-cljs-http", :group_name "com.github.oliyh", :version "0.1.26", :description "cljs-http implementation for martian", :created 1706089220742}
-{:jar_name "martian-re-frame", :group_name "com.github.oliyh", :version "0.1.26", :description "re-frame bindings for martian", :created 1706089237032}
-{:jar_name "martian-clj-http-lite", :group_name "com.github.oliyh", :version "0.1.26", :description "clj-http-lite implementation for martian", :created 1706089250701}
-{:jar_name "martian-hato", :group_name "com.github.oliyh", :version "0.1.26", :description "hato implementation for martian", :created 1706089264661}
-{:jar_name "kid", :group_name "com.kepler16", :version "1.0.0", :description "Kepler ID", :created 1706095463086}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.27.1", :description "CLJS development tools", :created 1706110056575}
-{:jar_name "cljs-web3-next", :group_name "is.d0x", :version "24.1.24", :description nil, :created 1706110663163}
-{:jar_name "district-server-web3", :group_name "is.d0x", :version "24.1.24", :description nil, :created 1706110672423}
-{:jar_name "district-server-web3-watcher", :group_name "is.d0x", :version "24.1.24", :description nil, :created 1706110681423}
-{:jar_name "cljs-ipfs-http-client", :group_name "is.d0x", :version "24.1.24", :description nil, :created 1706110690253}
-{:jar_name "district-shared-bundle", :group_name "is.d0x", :version "24.1.24", :description nil, :created 1706110699843}
-{:jar_name "district-server-smart-contracts", :group_name "is.d0x", :version "24.1.24", :description nil, :created 1706110708652}
-{:jar_name "district-server-web3-events", :group_name "is.d0x", :version "24.1.24", :description nil, :created 1706110717502}
-{:jar_name "re-frame-web3-fx", :group_name "is.d0x", :version "24.1.24", :description nil, :created 1706110726172}
-{:jar_name "effective", :group_name "com.eureton", :version "0.5.0", :description "RSpec-style expect-to-change assertions for Clojure.", :created 1706111081985}
-{:jar_name "pedestal-oidc", :group_name "com.yetanalytics", :version "0.0.11", :description nil, :created 1706122756891}
-{:jar_name "spike", :group_name "org.clojars.quoll", :version "0.0.3", :description nil, :created 1706126566719}
 {:jar_name "edd-core", :group_name "com.alpha-prosoft", :version "1.628", :description nil, :created 1706127957501}
 {:jar_name "edd-core-aws", :group_name "com.alpha-prosoft", :version "1.628", :description nil, :created 1706127966582}
 {:jar_name "edd-core-schema", :group_name "com.alpha-prosoft", :version "1.628", :description nil, :created 1706127975728}
@@ -254,3 +231,26 @@
 {:jar_name "kit-sql-conman", :group_name "io.github.kit-clj", :version "1.10.1", :description nil, :created 1707081007046}
 {:jar_name "clay", :group_name "org.scicloj", :version "2-alpha78", :description "FIXME: my new library.", :created 1707082584303}
 {:jar_name "zero", :group_name "me.raystubbs", :version "0.0.2", :description nil, :created 1707084030082}
+{:jar_name "code.project", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087159896}
+{:jar_name "code.maven", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087162086}
+{:jar_name "code.test", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087162146}
+{:jar_name "code.query", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087162156}
+{:jar_name "js.cell", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087180665}
+{:jar_name "js.core", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087189525}
+{:jar_name "js.lib.datetime", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087191575}
+{:jar_name "js.lib.driver", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087191855}
+{:jar_name "js.lib.osc", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087192195}
+{:jar_name "js.lib.ethereum", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087192415}
+{:jar_name "js.lib.p5", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087208675}
+{:jar_name "js.lib.rn", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087213875}
+{:jar_name "js.lib.valtio", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087222135}
+{:jar_name "lib.aether", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087222845}
+{:jar_name "js.react", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087222845}
+{:jar_name "js.react-ext", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087222895}
+{:jar_name "jvm", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087222955}
+{:jar_name "js.react-native", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087222975}
+{:jar_name "lib.jdbc", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087232285}
+{:jar_name "lib.lucene", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087236465}
+{:jar_name "lib.oshi", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087247684}
+{:jar_name "lib.openpgp", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087247794}
+{:jar_name "lua.ext.sochain", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087249494}
