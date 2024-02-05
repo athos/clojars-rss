@@ -1,12 +1,3 @@
-{:jar_name "metrics-core", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1706687973780}
-{:jar_name "common", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1706687980689}
-{:jar_name "common-test", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1706687989409}
-{:jar_name "local-node", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1706687997519}
-{:jar_name "auth", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1706688005579}
-{:jar_name "basic-auth", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1706688014989}
-{:jar_name "metrics-domain", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1706688024409}
-{:jar_name "global-domain", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1706688033239}
-{:jar_name "agm-domain", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1706688041678}
 {:jar_name "activity-domain", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1706688049588}
 {:jar_name "context-domain", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1706688058478}
 {:jar_name "ghostwheel-stub", :group_name "com.tick42.gateway", :version "3.0.19-SNAPSHOT", :description "", :created 1706688067228}
@@ -89,8 +80,6 @@
 {:jar_name "context-domain", :group_name "com.tick42.gateway", :version "3.0.20", :description "", :created 1706791779363}
 {:jar_name "bus-domain", :group_name "com.tick42.gateway", :version "3.0.20", :description "", :created 1706791790073}
 {:jar_name "activity-domain", :group_name "com.tick42.gateway", :version "3.0.20", :description "", :created 1706791799853}
-{:jar_name "script", :group_name "com.monkeyci", :version "0.2.4-SNAPSHOT", :description nil, :created 1706792637601}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.2.4-SNAPSHOT", :description nil, :created 1706792711049}
 {:jar_name "tempel", :group_name "com.taoensso", :version "1.0.0-beta1", :description "Data security framework for Clojure", :created 1706792752889}
 {:jar_name "overarch", :group_name "org.soulspace.clj", :version "0.8.0-SNAPSHOT", :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :created 1706792967566}
 {:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.1.131", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1706793661495}
@@ -140,7 +129,6 @@
 {:jar_name "danger-mouse", :group_name "org.clojars.nomicflux", :version "0.1.0", :description "Transducer friendly error-handling in Clojure", :created 1706885874625}
 {:jar_name "clay", :group_name "org.scicloj", :version "2-alpha77", :description "FIXME: my new library.", :created 1706894605095}
 {:jar_name "functor", :group_name "com.cleancoder", :version "0.0.1-SNAPSHOT", :description "Functor macro", :created 1706895287304}
-{:jar_name "babashka", :group_name "babashka", :version "1.3.189-SNAPSHOT", :description "babashka", :created 1706899944935}
 {:jar_name "danger-mouse", :group_name "org.clojars.nomicflux", :version "0.2.0", :description "Transducer friendly error-handling in Clojure", :created 1706900397368}
 {:jar_name "district-server-web3-events", :group_name "is.d0x", :version "24.2.1", :description nil, :created 1706908862012}
 {:jar_name "http-client", :group_name "puppetlabs", :version "2.1.2", :description "HTTP client wrapper", :created 1706914515037}
@@ -254,3 +242,15 @@
 {:jar_name "krystex", :group_name "com.flipkart.krystal", :version "6.0.2-SNAPSHOT", :description nil, :created 1707128779208}
 {:jar_name "krystal-plugin", :group_name "com.flipkart.krystal", :version "6.0.2-SNAPSHOT", :description nil, :created 1707128793458}
 {:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "6.0.2-SNAPSHOT", :description nil, :created 1707128811798}
+{:jar_name "script", :group_name "com.monkeyci", :version "0.2.4-SNAPSHOT", :description nil, :created 1707130908536}
+{:jar_name "app", :group_name "com.monkeyci", :version "0.2.4-SNAPSHOT", :description nil, :created 1707130977255}
+{:jar_name "mallard", :group_name "com.kepler16", :version "2.0.0.0", :description "Flexible migrations tooling", :created 1707131355359}
+{:jar_name "mallard-mongo-store", :group_name "com.kepler16", :version "1.0.1.5", :description "Flexible migrations tooling", :created 1707131364769}
+{:jar_name "babashka", :group_name "babashka", :version "1.3.189-SNAPSHOT", :description "babashka", :created 1707133353159}
+{:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "6.0.3-SNAPSHOT", :description nil, :created 1707133623065}
+{:jar_name "honeycomb", :group_name "com.flipkart.krystal", :version "6.0.3-SNAPSHOT", :description nil, :created 1707133625985}
+{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "6.0.3-SNAPSHOT", :description nil, :created 1707133627185}
+{:jar_name "krystal-common", :group_name "com.flipkart.krystal", :version "6.0.3-SNAPSHOT", :description nil, :created 1707133627355}
+{:jar_name "krystex", :group_name "com.flipkart.krystal", :version "6.0.3-SNAPSHOT", :description nil, :created 1707133627655}
+{:jar_name "krystal-plugin", :group_name "com.flipkart.krystal", :version "6.0.3-SNAPSHOT", :description nil, :created 1707133640815}
+{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "6.0.3-SNAPSHOT", :description nil, :created 1707133659114}
