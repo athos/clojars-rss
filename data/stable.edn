@@ -1,27 +1,3 @@
-{:jar_name "clj-contrib", :group_name "com.github.wdhowe", :version "1.0.0", :description "A library of functions to enhance clojure.core.", :created 1706985012560}
-{:jar_name "dmd", :group_name "com.eldrix", :version "1.0.170-alpha", :description "Implementation of the UK NHS dictionary of medicines and devices (dm+d).", :created 1706990130853}
-{:jar_name "guardrails", :group_name "com.fulcrologic", :version "1.2.0", :description "A library for using Clojure specs more like a type system during development.", :created 1706997900967}
-{:jar_name "statecharts", :group_name "com.fulcrologic", :version "1.2.0", :description "A library for building CLJC statechart machines.", :created 1706998084265}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.27.2", :description "CLJS development tools", :created 1707035596654}
-{:jar_name "firma-analysis", :group_name "org.clojars.mtsbarbosa", :version "0.0.15", :description "FIXME: write description", :created 1707051253881}
-{:jar_name "io", :group_name "io.github.protojure", :version "2.8.2", :description "IO library to support io.github.protojure/core", :created 1707051651395}
-{:jar_name "core", :group_name "io.github.protojure", :version "2.8.2", :description "Core protobuf and GRPC utilities for protojure", :created 1707051707835}
-{:jar_name "grpc-client", :group_name "io.github.protojure", :version "2.8.2", :description "GRPC client library for protoc-gen-clojure", :created 1707051732274}
-{:jar_name "grpc-server", :group_name "io.github.protojure", :version "2.8.2", :description "GRPC server library for protoc-gen-clojure", :created 1707051757514}
-{:jar_name "chickn", :group_name "com.github.kongeor", :version "0.1.105", :description "Evolutionary algorithms library for Clojure(script)", :created 1707053510167}
-{:jar_name "clj-chart", :group_name "io.github.kimim", :version "0.1.10", :description nil, :created 1707055534596}
-{:jar_name "mallard", :group_name "com.kepler16", :version "1.2.0.0", :description "Flexible migrations tooling", :created 1707065808861}
-{:jar_name "mallard-mongo-store", :group_name "com.kepler16", :version "1.0.1.4", :description "Flexible migrations tooling", :created 1707065817961}
-{:jar_name "match-set-and-get", :group_name "com.janetacarr", :version "0.1.0", :description "Conveinence macros for messing with Clojure Type definitions", :created 1707070911845}
-{:jar_name "cli", :group_name "com.lambdaisland", :version "0.1.6-alpha", :description "Command line parser with good subcommand and help handling", :created 1707072252465}
-{:jar_name "firma-analysis", :group_name "org.clojars.mtsbarbosa", :version "0.0.17", :description "FIXME: write description", :created 1707079192096}
-{:jar_name "apron", :group_name "com.cleancoders.c3kit", :version "2.1.0", :description nil, :created 1707079418690}
-{:jar_name "kit-sql-conman", :group_name "io.github.kit-clj", :version "1.10.1", :description nil, :created 1707081007046}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-alpha78", :description "FIXME: my new library.", :created 1707082584303}
-{:jar_name "zero", :group_name "me.raystubbs", :version "0.0.2", :description nil, :created 1707084030082}
-{:jar_name "code.project", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087159896}
-{:jar_name "code.maven", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087162086}
-{:jar_name "code.test", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087162146}
 {:jar_name "code.query", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087162156}
 {:jar_name "js.cell", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087180665}
 {:jar_name "js.core", :group_name "xyz.zcaudate", :version "4.0.1", :description "4.0.1", :created 1707087189525}
@@ -254,3 +230,27 @@
 {:jar_name "tablehike", :group_name "io.replikativ", :version "0.2.219", :description "CSV data loader for Datahike.", :created 1707636008280}
 {:jar_name "mesalog", :group_name "io.replikativ", :version "0.2.222", :description "CSV data loader for Datahike.", :created 1707639504667}
 {:jar_name "mesalog", :group_name "io.replikativ", :version "0.2.224", :description "CSV data loader for Datahike.", :created 1707647347640}
+{:jar_name "district-server-config", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662484242}
+{:jar_name "district-server-db", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662492912}
+{:jar_name "cljs-web3-next", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662501412}
+{:jar_name "district-server-web3", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662510612}
+{:jar_name "district-server-web3-watcher", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662519192}
+{:jar_name "re-frame-web3-fx", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662527492}
+{:jar_name "district-ui-web3", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662536702}
+{:jar_name "district-ui-web3-chain", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662545852}
+{:jar_name "district-ui-web3-accounts", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662554481}
+{:jar_name "district-ui-smart-contracts", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662571841}
+{:jar_name "district-web3-utils", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662580191}
+{:jar_name "district-ui-router", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662588851}
+{:jar_name "district-sendgrid", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662605891}
+{:jar_name "district-parsers", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662614091}
+{:jar_name "cljs-solidity-sha3", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662622220}
+{:jar_name "district-validation", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662630560}
+{:jar_name "cljs-ipfs-http-client", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662639280}
+{:jar_name "district-ui-web3-tx", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662657400}
+{:jar_name "district-ui-web3-balances", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662691339}
+{:jar_name "district-server-smart-contracts", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662699479}
+{:jar_name "district-server-web3-events", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662708649}
+{:jar_name "district-server-bundle", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662717519}
+{:jar_name "district-ui-reagent-render", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662743309}
+{:jar_name "district-ui-web3-tx-id", :group_name "is.d0x", :version "24.2.10", :description nil, :created 1707662751718}
