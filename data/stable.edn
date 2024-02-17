@@ -1,4 +1,3 @@
-{:jar_name "yetibot", :group_name "yetibot", :version "20240208.162122.cb6caa0", :description "A command line in your chat, where chat ∈ {irc,slack}.", :created 1707409321489}
 {:jar_name "core", :group_name "yetibot", :version "20240208.162042.6bb40c2", :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :created 1707409371634}
 {:jar_name "automaton-build", :group_name "org.clojars.hephaistox", :version "0.10.2-la", :description nil, :created 1707411208841}
 {:jar_name "automaton-core", :group_name "org.clojars.hephaistox", :version "0.7.3-la", :description nil, :created 1707411314820}
@@ -254,3 +253,4 @@
 {:jar_name "webserver", :group_name "io.github.yuhrao", :version "2.0.1", :description nil, :created 1708171754381}
 {:jar_name "cli", :group_name "com.lambdaisland", :version "0.4.24", :description "Command line parser with good subcommand and help handling", :created 1708173562741}
 {:jar_name "deep-diff2", :group_name "lambdaisland", :version "2.11.216", :description "Recursively compare Clojure or ClojureScript data structures, and produce a colorized diff of the result.", :created 1708173893198}
+{:jar_name "encore", :group_name "com.taoensso", :version "3.80.0", :description "Core utils library for Clojure/Script", :created 1708175801528}
