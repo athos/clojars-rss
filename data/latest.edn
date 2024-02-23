@@ -1,7 +1,3 @@
-{:jar_name "jpl-timbre", :group_name "io.julienvincent", :version "0.0.2", :description "Java Platform Logging bridge for Timbre", :created 1708009530643}
-{:jar_name "mesalog", :group_name "io.replikativ", :version "0.2.249", :description "CSV data loader for Datahike.", :created 1708011386875}
-{:jar_name "deprivare", :group_name "com.eldrix", :version "2.0.72", :description "Deprivation indices in the United Kingdom", :created 1708011713631}
-{:jar_name "flow-storm-inst", :group_name "com.github.flow-storm", :version "3.12.0", :description nil, :created 1708027118194}
 {:jar_name "flow-storm-dbg", :group_name "com.github.flow-storm", :version "3.12.0", :description nil, :created 1708027160424}
 {:jar_name "snitch", :group_name "org.clojars.abhinav", :version "0.1.15-SNAPSHOT", :description "Snitch injects inline defs in your functions and multimethods.\n                This enables a repl-based, editor-agnostic, clojure and clojurescript debugging workflow. \n                It is inline-defs on steroids.", :created 1708055720897}
 {:jar_name "snitch", :group_name "org.clojars.abhinav", :version "0.1.15", :description "Snitch injects inline defs in your functions and multimethods.\n                This enables a repl-based, editor-agnostic, clojure and clojurescript debugging workflow. \n                It is inline-defs on steroids.", :created 1708058188714}
@@ -144,7 +140,6 @@
 {:jar_name "dmd", :group_name "com.eldrix", :version "1.0.174", :description "Implementation of the UK NHS dictionary of medicines and devices (dm+d).", :created 1708441233823}
 {:jar_name "codelists", :group_name "com.eldrix", :version "1.0.36", :description "Generate code lists using an expressive combination of SNOMED ECL, ICD-10 and ATC codes", :created 1708442249568}
 {:jar_name "oci-os", :group_name "com.monkeyprojects", :version "0.1.2-SNAPSHOT", :description nil, :created 1708442563634}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.02.13-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1708443890004}
 {:jar_name "macaw", :group_name "io.github.metabase", :version "0.1.16", :description "A Clojure wrapper for JSqlParser", :created 1708450897300}
 {:jar_name "llama-clj", :group_name "com.phronemophobic", :version "0.8.1-SNAPSHOT", :description nil, :created 1708454977250}
 {:jar_name "llama-clj-combined", :group_name "com.phronemophobic", :version "0.8.1-SNAPSHOT", :description nil, :created 1708454994249}
@@ -222,7 +217,6 @@
 {:jar_name "timbre", :group_name "com.taoensso", :version "6.4.0", :description "Pure Clojure/Script logging library", :created 1708620551396}
 {:jar_name "script", :group_name "com.monkeyci", :version "0.3.1", :description nil, :created 1708620639055}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.3.1", :description nil, :created 1708620727824}
-{:jar_name "lisb", :group_name "org.clojars.pkoerner", :version "0.0.5-SNAPSHOT", :description "lisb: A Clojure library that wraps ProB's constraint solver. Use it to write/transform B machines with less pain or interact with the constraint solver.", :created 1708626271653}
 {:jar_name "clara-rules", :group_name "com.github.k13labs", :version "1.3.1", :description nil, :created 1708628928715}
 {:jar_name "commons", :group_name "io.bloomventures", :version "0.14.1", :description "kitchen-sink of micro-libs commonly used by bloom", :created 1708629289579}
 {:jar_name "config", :group_name "io.github.yuhrao", :version "2.0.3", :description nil, :created 1708638054083}
@@ -254,3 +248,9 @@
 {:jar_name "script", :group_name "com.monkeyci", :version "0.3.2", :description nil, :created 1708681995524}
 {:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.40-SNAPSHOT", :description nil, :created 1708682003964}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.3.2", :description nil, :created 1708682018414}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.02.13-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1708694938136}
+{:jar_name "jpl-timbre", :group_name "io.julienvincent", :version "0.0.5", :description "Java Platform Logging bridge for Timbre", :created 1708695115153}
+{:jar_name "mallard", :group_name "com.kepler16", :version "2.1.0.0", :description "Flexible migrations tooling", :created 1708695734024}
+{:jar_name "mallard-mongo-store", :group_name "com.kepler16", :version "1.1.0.0", :description "Flexible migrations tooling", :created 1708695746364}
+{:jar_name "lisb", :group_name "org.clojars.pkoerner", :version "0.0.5-SNAPSHOT", :description "lisb: A Clojure library that wraps ProB's constraint solver. Use it to write/transform B machines with less pain or interact with the constraint solver.", :created 1708696399454}
+{:jar_name "encore", :group_name "com.taoensso", :version "3.82.0", :description "Core utils library for Clojure/Script", :created 1708696797439}
