@@ -1,4 +1,3 @@
-{:jar_name "slingr-services", :group_name "io.github.slingr-stack", :version "1.5.0", :description "Framework to generate services to use on Slingr platform", :created 1708707647202}
 {:jar_name "clj-alpakka-kafka", :group_name "net.clojars.fr33m0nk", :version "0.1.8", :description "Clojure wrapper for Alpakka Kafka.", :created 1708708677337}
 {:jar_name "clj-reload", :group_name "io.github.tonsky", :version "0.2.0", :description "Smarter way to reload Clojure code", :created 1708708889754}
 {:jar_name "http-kit", :group_name "http-kit", :version "2.8.0-SNAPSHOT", :description "Simple, high-performance event-driven HTTP client+server for Clojure", :created 1708722898722}
@@ -197,8 +196,6 @@
 {:jar_name "llama-clj-combined", :group_name "com.phronemophobic", :version "0.8.1-SNAPSHOT", :description nil, :created 1709338055882}
 {:jar_name "llama-clj", :group_name "com.phronemophobic", :version "0.8.1", :description nil, :created 1709357509753}
 {:jar_name "llama-clj-combined", :group_name "com.phronemophobic", :version "0.8.1", :description nil, :created 1709357519193}
-{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Structured telemetry library for Clojure/Script", :created 1709385705879}
-{:jar_name "slf4j-telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Telemere backend/provider for SLF4J API v2", :created 1709385724739}
 {:jar_name "refactor-nrepl", :group_name "refactor-nrepl", :version "3.10.0", :description "nREPL middleware to support editor-agnostic refactoring", :created 1709394920153}
 {:jar_name "clj-poly", :group_name "polylith", :version "0.2.20-SNAPSHOT", :description "Poly is Polylith's command line interface for Clojure.", :created 1709403924161}
 {:jar_name "google-displayvideo-clj", :group_name "com.adgoji", :version "0.12.3", :description nil, :created 1709404877112}
@@ -254,3 +251,6 @@
 {:jar_name "overarch", :group_name "org.soulspace.clj", :version "0.10.0-SNAPSHOT", :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :created 1709625345709}
 {:jar_name "overarch", :group_name "org.soulspace.clj", :version "0.10.0", :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :created 1709625841135}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.3.3-SNAPSHOT", :description nil, :created 1709632527098}
+{:jar_name "encore", :group_name "com.taoensso", :version "3.90.0", :description "Core utils library for Clojure/Script", :created 1709633596989}
+{:jar_name "slf4j-telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Telemere backend/provider for SLF4J API v2", :created 1709634005045}
+{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Structured telemetry library for Clojure/Script", :created 1709634116204}
