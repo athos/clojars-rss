@@ -1,6 +1,3 @@
-{:jar_name "orbit", :group_name "link.szabo.mauricio", :version "2024-03-08.03.14", :description "REPL connections to nREPL and Shadow Remote API", :created 1709867667197}
-{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.654", :description nil, :created 1709867797686}
-{:jar_name "edd-core-web", :group_name "com.alpha-prosoft", :version "1.312", :description nil, :created 1709879810805}
 {:jar_name "edd-web-frame", :group_name "com.alpha-prosoft", :version "1.312", :description nil, :created 1709879819785}
 {:jar_name "edd-web-widgets", :group_name "com.alpha-prosoft", :version "1.312", :description nil, :created 1709879829194}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.3.4-SNAPSHOT", :description nil, :created 1709893446788}
@@ -210,7 +207,6 @@
 {:jar_name "pg2-component", :group_name "com.github.igrishaev", :version "0.1.5", :description "Component wrapper for PG2", :created 1710430650975}
 {:jar_name "pg2-migration", :group_name "com.github.igrishaev", :version "0.1.5", :description "Migration utilities for PG2", :created 1710430668095}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.4.0-SNAPSHOT", :description nil, :created 1710431502798}
-{:jar_name "babashka", :group_name "babashka", :version "1.3.190-SNAPSHOT", :description "babashka", :created 1710432461832}
 {:jar_name "automaton-build", :group_name "org.clojars.hephaistox", :version "1.1.0", :description nil, :created 1710435176720}
 {:jar_name "automaton-core", :group_name "org.clojars.hephaistox", :version "1.0.3", :description nil, :created 1710435306129}
 {:jar_name "automaton-optimization", :group_name "org.clojars.hephaistox", :version "1.0.3", :description nil, :created 1710435388648}
@@ -254,3 +250,7 @@
 {:jar_name "tempus", :group_name "com.7theta", :version "2.3.0", :description "Clojure(script) time library", :created 1710524232789}
 {:jar_name "fluxus", :group_name "com.7theta", :version "2.1.0", :description "Clojure(script) library for streams and concurrency", :created 1710524271989}
 {:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.683", :description nil, :created 1710525234210}
+{:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.684", :description nil, :created 1710525894175}
+{:jar_name "clojurescript", :group_name "com.github.flow-storm", :version "1.11.132-2", :description "ClojureScript compiler and core runtime library.", :created 1710527274532}
+{:jar_name "babashka", :group_name "babashka", :version "1.3.190-SNAPSHOT", :description "babashka", :created 1710527330502}
+{:jar_name "spork", :group_name "spork", :version "0.2.1.8-SNAPSHOT", :description "A set of libraries derived from Spoon's Operations Research Kit.\n   Libraries are modular and will be supported as stand-alone dependencies.\n   This project is an uberjar that includes all of the modular bits in a single\n   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,\n   focusing on a functional API, a default towards purity and persistent data\n   structures, with alternative mutable/imperative counterparts.  The vast\n   majority of spork is written in Clojure, with an intentional nod toward\n   independence from external libraries, particularly Java libs.  Consequently,\n   spork should provide a lightweight, clojure-based platform for the topics\n   covered by the libraries.  I am currently working to eliminate legacy\n   java dependencies where possible.", :created 1710528330453}
