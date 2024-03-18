@@ -1,25 +1,3 @@
-{:jar_name "ui-highcharts", :group_name "org.pinkgorilla", :version "0.0.23", :description nil, :created 1710024628138}
-{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.656", :description nil, :created 1710024839666}
-{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.656", :description nil, :created 1710025055034}
-{:jar_name "ui-highcharts", :group_name "org.pinkgorilla", :version "0.0.24", :description nil, :created 1710026762468}
-{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.657", :description nil, :created 1710026993756}
-{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.657", :description nil, :created 1710027212894}
-{:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.8.4", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1710028986738}
-{:jar_name "how-to-ns", :group_name "com.gfredericks", :version "0.2.12", :description "A Clojure linter for Stuart Sierra's how-to-ns standard", :created 1710030400389}
-{:jar_name "lein-how-to-ns", :group_name "com.gfredericks", :version "0.2.12", :description "A Clojure linter for Stuart Sierra's how-to-ns standard", :created 1710030524099}
-{:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.8.6", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1710031481495}
-{:jar_name "hasht", :group_name "org.clojars.psyclyx", :version "0.1.0", :description "tap> reader tag", :created 1710041395273}
-{:jar_name "replicant", :group_name "no.cjohansen", :version "0.2024.03.10", :description "Efficiently render and rerender DOM from immutable data.", :created 1710064969721}
-{:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.8.7", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1710067072972}
-{:jar_name "memento", :group_name "org.clojars.roklenarcic", :version "1.1.50", :description "A library for function memoization.", :created 1710076356014}
-{:jar_name "orchard", :group_name "cider", :version "0.23.1", :description "A fertile ground for Clojure tooling", :created 1710080000269}
-{:jar_name "dtype-next", :group_name "cnuernber", :version "10.112", :description nil, :created 1710080393915}
-{:jar_name "orchard", :group_name "cider", :version "0.23.2", :description "A fertile ground for Clojure tooling", :created 1710085879833}
-{:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.8.8", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1710089538629}
-{:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.9.0", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1710093044725}
-{:jar_name "cider-nrepl", :group_name "cider", :version "0.47.0", :description "A collection of nREPL middleware designed to enhance Clojure editors.", :created 1710096287285}
-{:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.11.0", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1710096627141}
-{:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.11.1", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1710097352525}
 {:jar_name "aws.lambda", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "A library for building Clojure programs using AWS Lambda.", :created 1710098677592}
 {:jar_name "clara-rules", :group_name "com.github.k13labs", :version "1.4.0-SNAPSHOT", :description nil, :created 1710101337547}
 {:jar_name "manifold3d", :group_name "org.clojars.cartesiantheatrics", :version "1.0.73", :description nil, :created 1710103073488}
@@ -248,9 +226,31 @@
 {:jar_name "scenari", :group_name "io.defsquare", :version "2.0.3-alpha", :description "Clojure BDD library - Executable Specification with Behavior-Driven Development", :created 1710694626952}
 {:jar_name "scenari", :group_name "io.defsquare", :version "2.0.4-alpha", :description "Clojure BDD library - Executable Specification with Behavior-Driven Development", :created 1710703283701}
 {:jar_name "common-beer-format", :group_name "com.wallbrew", :version "2.3.0", :description "An implementation of the BeerXML spec in multiple formats.", :created 1710711880271}
-{:jar_name "clj-poly", :group_name "polylith", :version "0.2.20-SNAPSHOT", :description "Poly is Polylith's command line interface for Clojure.", :created 1710712074139}
 {:jar_name "kindly", :group_name "org.scicloj", :version "4-alpha17", :description "Kindly is a small library for defining in what kinds of way Clojure forms and values should be displayed.", :created 1710712698424}
 {:jar_name "common-beer-data", :group_name "com.wallbrew", :version "1.5.0", :description "A repository of common-beer-format data.", :created 1710713334558}
 {:jar_name "clj-yamlscript", :group_name "org.yamlscript", :version "0.1.43", :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :created 1710715907314}
 {:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.695", :description nil, :created 1710732191631}
 {:jar_name "yamlscript", :group_name "org.yamlscript", :version "0.1.43", :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :created 1710732902835}
+{:jar_name "clj-poly", :group_name "polylith", :version "0.2.20-SNAPSHOT", :description "Poly is Polylith's command line interface for Clojure.", :created 1710746083750}
+{:jar_name "code.project", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746512426}
+{:jar_name "code.java", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746512526}
+{:jar_name "code.manage", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746515356}
+{:jar_name "code.doc", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746518056}
+{:jar_name "lib.docker", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746587265}
+{:jar_name "lib.aether", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746587565}
+{:jar_name "lib.jdbc", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746622315}
+{:jar_name "lua.nginx", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746648975}
+{:jar_name "rt.basic", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746662265}
+{:jar_name "net.http", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746662325}
+{:jar_name "script.toml", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746699304}
+{:jar_name "std.contract", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746699854}
+{:jar_name "std.fs", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746728094}
+{:jar_name "std.html", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746733094}
+{:jar_name "std.json", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746734114}
+{:jar_name "std.make", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746734214}
+{:jar_name "std.object", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746735184}
+{:jar_name "std.pretty", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746754984}
+{:jar_name "std.text", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746757364}
+{:jar_name "xtalk.system", :group_name "xyz.zcaudate", :version "4.0.2", :description "4.0.2", :created 1710746761534}
+{:jar_name "redcap", :group_name "xyz.zcaudate", :version "0.1.5", :description "a redcap client", :created 1710747158120}
+{:jar_name "redcap-webdriver", :group_name "xyz.zcaudate", :version "0.1.5", :description "redcap api polyfill using webdriver", :created 1710747280589}
