@@ -1,19 +1,3 @@
-{:jar_name "mqtt", :group_name "cljsjs", :version "5.3.4-0", :description "MQTT.js is a client library for the MQTT protocol, written in JavaScript for node.js and the browser.", :created 1710410044731}
-{:jar_name "re-com", :group_name "org.clojars.ryrobes", :version "0.1-SNAPSHOT", :description "Reusable UI components for Reagent", :created 1710414685331}
-{:jar_name "scenari", :group_name "io.defsquare", :version "2.0.1-alpha", :description "Clojure BDD library - Executable Specification with Behavior-Driven Development", :created 1710421146415}
-{:jar_name "pg2-core", :group_name "com.github.igrishaev", :version "0.1.5", :description "Postgres client in pure Java (no JDBC)", :created 1710422088657}
-{:jar_name "deprivare", :group_name "com.eldrix", :version "2.0.76", :description "Deprivation indices in the United Kingdom", :created 1710426511300}
-{:jar_name "concierge", :group_name "com.eldrix", :version "1.0.189", :description "A suite of health and care integration modules, abstracting and simplifying integrations with underlying health and care systems", :created 1710426691968}
-{:jar_name "scenari", :group_name "io.defsquare", :version "2.0.2-alpha", :description "Clojure BDD library - Executable Specification with Behavior-Driven Development", :created 1710426915716}
-{:jar_name "deta", :group_name "com.adaiasmagdiel", :version "0.0.5", :description "A Clojure library designed to simplify interactions with the Deta database. It provides a straightforward way to initialize a database connection and perform operations.", :created 1710427011815}
-{:jar_name "tools-io", :group_name "com.oscaro", :version "0.3.37-SNAPSHOT", :description "Oscaro's generic I/O tools collection", :created 1710427674880}
-{:jar_name "tools-io", :group_name "com.oscaro", :version "0.3.38-SNAPSHOT", :description "Oscaro's generic I/O tools collection", :created 1710429340926}
-{:jar_name "re-com", :group_name "org.clojars.ryrobes", :version "0.11-SNAPSHOT", :description "Reusable UI components for Reagent", :created 1710429946101}
-{:jar_name "replicant", :group_name "no.cjohansen", :version "0.2024.03.14.2", :description "Efficiently render and rerender DOM from immutable data.", :created 1710430344138}
-{:jar_name "pg2-honey", :group_name "com.github.igrishaev", :version "0.1.5", :description "HoneySQL wrapper for PG2", :created 1710430637325}
-{:jar_name "pg2-component", :group_name "com.github.igrishaev", :version "0.1.5", :description "Component wrapper for PG2", :created 1710430650975}
-{:jar_name "pg2-migration", :group_name "com.github.igrishaev", :version "0.1.5", :description "Migration utilities for PG2", :created 1710430668095}
-{:jar_name "automaton-build", :group_name "org.clojars.hephaistox", :version "1.1.0", :description nil, :created 1710435176720}
 {:jar_name "automaton-core", :group_name "org.clojars.hephaistox", :version "1.0.3", :description nil, :created 1710435306129}
 {:jar_name "automaton-optimization", :group_name "org.clojars.hephaistox", :version "1.0.3", :description nil, :created 1710435388648}
 {:jar_name "automaton-web", :group_name "org.clojars.hephaistox", :version "1.2.1", :description nil, :created 1710435543127}
@@ -254,3 +238,19 @@
 {:jar_name "clj-yamlscript", :group_name "org.yamlscript", :version "0.1.46", :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :created 1710958360313}
 {:jar_name "spork", :group_name "spork", :version "0.2.1.8-SNAPSHOT", :description "A set of libraries derived from Spoon's Operations Research Kit.\n   Libraries are modular and will be supported as stand-alone dependencies.\n   This project is an uberjar that includes all of the modular bits in a single\n   jar, for easier dependencies.  spork is purpose-built to be clojure-centric,\n   focusing on a functional API, a default towards purity and persistent data\n   structures, with alternative mutable/imperative counterparts.  The vast\n   majority of spork is written in Clojure, with an intentional nod toward\n   independence from external libraries, particularly Java libs.  Consequently,\n   spork should provide a lightweight, clojure-based platform for the topics\n   covered by the libraries.  I am currently working to eliminate legacy\n   java dependencies where possible.", :created 1710960284795}
 {:jar_name "lein-balloon", :group_name "org.clojars.roboli", :version "0.1.2", :description "Balloon plugin for Leiningen", :created 1710960664522}
+{:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.706", :description nil, :created 1710962926611}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure", :created 1710963413616}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1710963420266}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1710963426716}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1710963433076}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1710963439406}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type-like specs.", :created 1710963445306}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1710963451466}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "FIXME", :created 1710963457526}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1710963463966}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1710963470436}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1710963476416}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1710963482686}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1710963488966}
+{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Malli integration", :created 1710963495176}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1710963501306}
