@@ -1,4 +1,3 @@
-{:jar_name "guardrails", :group_name "com.fulcrologic", :version "1.2.5", :description "A library for using Clojure specs more like a type system during development.", :created 1710804467396}
 {:jar_name "temporal-sdk", :group_name "io.github.manetu", :version "0.20.1", :description "A Temporal SDK for Clojure", :created 1710804834383}
 {:jar_name "kindly", :group_name "org.scicloj", :version "4-alpha18", :description "Kindly is a small library for defining in what kinds of way Clojure forms and values should be displayed.", :created 1710807862944}
 {:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "6.0.5-SNAPSHOT", :description nil, :created 1710812267222}
@@ -11,7 +10,6 @@
 {:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.699", :description nil, :created 1710813333132}
 {:jar_name "filestore", :group_name "ashikasoft", :version "0.1.4", :description "A file store for prototypes or small projects", :created 1710818786230}
 {:jar_name "webstack", :group_name "ashikasoft", :version "0.1.8", :description "Base web stack", :created 1710819471044}
-{:jar_name "zmq", :group_name "com.monkeyprojects", :version "0.2.0-SNAPSHOT", :description nil, :created 1710833721648}
 {:jar_name "kindly", :group_name "org.scicloj", :version "4-alpha19", :description "Kindly is a small library for defining in what kinds of way Clojure forms and values should be displayed.", :created 1710837031833}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.95.1", :description "Core utils library for Clojure/Script", :created 1710840435033}
 {:jar_name "clay", :group_name "org.scicloj", :version "2-alpha85-SNAPSHOT", :description "FIXME: my new library.", :created 1710847887592}
@@ -189,7 +187,6 @@
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.03.14-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1711124384689}
 {:jar_name "clj4intellij", :group_name "com.github.ericdallo", :version "0.4.0", :description nil, :created 1711124468113}
 {:jar_name "analytics-clj", :group_name "circleci", :version "0.10.2", :description "Idiomatic Clojure wrapper for the Segment.io 2.x Java client", :created 1711126290861}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.4.2-SNAPSHOT", :description nil, :created 1711126774806}
 {:jar_name "blocks", :group_name "mvxcvi", :version "2.1.0", :description "Content-addressed data storage interface.", :created 1711127682068}
 {:jar_name "balloon", :group_name "org.clojars.roboli", :version "0.2.2", :description "Deflate a nested map into one level deep or inflate a one level into a nested map using delimited keys", :created 1711131438852}
 {:jar_name "speclj", :group_name "speclj", :version "3.4.6", :description "speclj: Pronounced 'speckle', is a Behavior Driven Development framework for Clojure.", :created 1711139545934}
@@ -254,3 +251,6 @@
 {:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.6.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1711340929681}
 {:jar_name "kromatik", :group_name "net.clojars.darrenminsookim", :version "0.0.1-SNAPSHOT", :description "Tiny toolset converting between namespaced and unnamespaced maps.", :created 1711343426526}
 {:jar_name "replicant", :group_name "no.cjohansen", :version "0.2024.03.25.1", :description "Efficiently render and rerender DOM from immutable data.", :created 1711353425572}
+{:jar_name "zmq", :group_name "com.monkeyprojects", :version "0.2.0-SNAPSHOT", :description nil, :created 1711354965528}
+{:jar_name "kaocha", :group_name "lambdaisland", :version "1.88.1376", :description "Full featured next generation test runner for Clojure.", :created 1711355723126}
+{:jar_name "app", :group_name "com.monkeyci", :version "0.4.2-SNAPSHOT", :description nil, :created 1711356510012}
