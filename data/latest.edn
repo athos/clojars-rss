@@ -1,16 +1,3 @@
-{:jar_name "domain-types", :group_name "com.timezynk", :version "1.0.12", :description "Modeling extras built on top of domain", :created 1711310454528}
-{:jar_name "cider-nrepl", :group_name "cider", :version "0.47.1", :description "A collection of nREPL middleware designed to enhance Clojure editors.", :created 1711311796185}
-{:jar_name "pipelines", :group_name "keechma", :version "0.1.3", :description "Manager for async and concurrent code in ClojureScript", :created 1711313773297}
-{:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.737", :description nil, :created 1711316375522}
-{:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.739", :description nil, :created 1711329479539}
-{:jar_name "ui-highcharts", :group_name "org.pinkgorilla", :version "0.0.26", :description nil, :created 1711330581428}
-{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.4.660", :description nil, :created 1711331165893}
-{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.4.660", :description nil, :created 1711331382151}
-{:jar_name "expectations", :group_name "com.github.seancorfield", :version "2.1.999-SNAPSHOT", :description "A clojure.test-compatible version of the classic Expectations testing library.", :created 1711340384735}
-{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1711340490064}
-{:jar_name "kromatik", :group_name "net.clojars.darrenminsookim", :version "0.0.1-SNAPSHOT", :description "Tiny toolset converting between namespaced and unnamespaced maps.", :created 1711343426526}
-{:jar_name "replicant", :group_name "no.cjohansen", :version "0.2024.03.25.1", :description "Efficiently render and rerender DOM from immutable data.", :created 1711353425572}
-{:jar_name "zmq", :group_name "com.monkeyprojects", :version "0.2.0-SNAPSHOT", :description nil, :created 1711354965528}
 {:jar_name "kaocha", :group_name "lambdaisland", :version "1.88.1376", :description "Full featured next generation test runner for Clojure.", :created 1711355723126}
 {:jar_name "automaton-build", :group_name "org.clojars.hephaistox", :version "1.3.0-3-la", :description nil, :created 1711358595862}
 {:jar_name "automaton-core", :group_name "org.clojars.hephaistox", :version "1.1.1-3-la", :description nil, :created 1711358690321}
@@ -239,7 +226,6 @@
 {:jar_name "app", :group_name "com.monkeyci", :version "0.4.3-SNAPSHOT", :description nil, :created 1712051684153}
 {:jar_name "zmq", :group_name "com.monkeyprojects", :version "0.3.1-SNAPSHOT", :description nil, :created 1712052292430}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.4.3", :description nil, :created 1712052513915}
-{:jar_name "encore", :group_name "com.taoensso", :version "3.98.0-SNAPSHOT", :description "Core utils library for Clojure/Script", :created 1712054424083}
 {:jar_name "kmono", :group_name "com.kepler16", :version "2.3.0.0", :description "Clojure monorepo tools", :created 1712056295313}
 {:jar_name "brevo", :group_name "com.avisi-apps.gaps", :version "0.0.120", :description nil, :created 1712057330130}
 {:jar_name "data-residency-migrations", :group_name "com.avisi-apps.gaps", :version "0.0.120", :description nil, :created 1712057334920}
@@ -253,4 +239,18 @@
 {:jar_name "ripley", :group_name "io.github.tatut", :version "2024-04-02.282", :description nil, :created 1712057679722}
 {:jar_name "omniconf", :group_name "com.grammarly", :version "0.5.2", :description "Configuration library for Clojure that favors explicitness", :created 1712058794538}
 {:jar_name "omniconf.ssm", :group_name "com.grammarly", :version "0.5.2", :description "Module for Omniconf to support Amazon SSM as a configuration source", :created 1712058803187}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.4.4-SNAPSHOT", :description nil, :created 1712059037182}
+{:jar_name "edd-core-web", :group_name "com.alpha-prosoft", :version "1.327", :description nil, :created 1712064022451}
+{:jar_name "edd-web-frame", :group_name "com.alpha-prosoft", :version "1.327", :description nil, :created 1712064031341}
+{:jar_name "edd-web-widgets", :group_name "com.alpha-prosoft", :version "1.327", :description nil, :created 1712064040381}
+{:jar_name "brevo", :group_name "com.avisi-apps.gaps", :version "0.0.123", :description nil, :created 1712064256106}
+{:jar_name "data-residency-migrations", :group_name "com.avisi-apps.gaps", :version "0.0.123", :description nil, :created 1712064260976}
+{:jar_name "fulcro-google-remote", :group_name "com.avisi-apps.gaps", :version "0.0.123", :description nil, :created 1712064266156}
+{:jar_name "google-cloud", :group_name "com.avisi-apps.gaps", :version "0.0.123", :description nil, :created 1712064270935}
+{:jar_name "http", :group_name "com.avisi-apps.gaps", :version "0.0.123", :description nil, :created 1712064275585}
+{:jar_name "log", :group_name "com.avisi-apps.gaps", :version "0.0.123", :description nil, :created 1712064280235}
+{:jar_name "rcf", :group_name "com.avisi-apps.gaps", :version "0.0.123", :description nil, :created 1712064284965}
+{:jar_name "reitit-express", :group_name "com.avisi-apps.gaps", :version "0.0.123", :description nil, :created 1712064289705}
+{:jar_name "rollbar", :group_name "com.avisi-apps.gaps", :version "0.0.123", :description nil, :created 1712064294375}
+{:jar_name "edd-web-primitives", :group_name "com.alpha-prosoft", :version "1.0.242", :description nil, :created 1712064309805}
+{:jar_name "encore", :group_name "com.taoensso", :version "3.98.0-SNAPSHOT", :description "Core utils library for Clojure/Script", :created 1712064626648}
+{:jar_name "app", :group_name "com.monkeyci", :version "0.4.4-SNAPSHOT", :description nil, :created 1712065325702}
