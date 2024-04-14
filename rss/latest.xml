@@ -4,7 +4,33 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 14 Apr 2024 07:39:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Apr 2024 08:19:23 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.clojars.vstein/testify/versions/0.3.1</guid>
+    <title>[org.clojars.vstein/testify &quot;0.3.1&quot;]</title>
+    <link>https://clojars.org/org.clojars.vstein/testify/versions/0.3.1</link>
+    <description>Avoid the hassle of restructuring comments into functions.
+  Testify turns selected comments into automatically evaluated
+  scripts, while remaining as comments embedded within the code.
+  Evaluate these comments directly from within a test, or in any
+  other way preferred. Rename the (comment) to (test-comment)
+  and evaluate with (eval-in-ns &#39;your-namespace). Testify will
+  find the test-comment and evaluate its content for you. The
+  test-comment is an empty macro ignoring its body, just like
+  comment, that Testify recognizes. Testify can easily be told
+  to evaluate content of any other top level form, while
+  test-comment is a default. Testify use levels of isolation.
+  While eval-in-ns evaluates expressions in its namespace, like
+  when evaluating comments manually, its sibling eval-as-use
+  evaluates from within a temporary namespace, preventing
+  pollution. This is more suitable for repeatable tests.
+  Testify reads source code, and keeps track of where it is.
+  Code should be highlighted when a test assertion fails, even
+  though the assertion is in a comment. Testify is not a testing
+  framework, but rather a pun on: to witness, reveal comment,
+  display it in the repl.</description>
+    <pubDate>Sun, 14 Apr 2024 08:00:33 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/clj-ssh-keygen/versions/0.2.4</guid>
     <title>[clj-ssh-keygen &quot;0.2.4&quot;]</title>
@@ -1797,13 +1823,6 @@
     <link>https://clojars.org/io.pedestal/pedestal.common/versions/0.7.0-beta-1</link>
     <description></description>
     <pubDate>Fri, 5 Apr 2024 22:48:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.yuhrao/webserver/versions/2.0.6</guid>
-    <title>[io.github.yuhrao/webserver &quot;2.0.6&quot;]</title>
-    <link>https://clojars.org/io.github.yuhrao/webserver/versions/2.0.6</link>
-    <description></description>
-    <pubDate>Fri, 5 Apr 2024 22:44:42 +0000</pubDate>
   </item>
   </channel>
 </rss>
