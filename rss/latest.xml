@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 22 Apr 2024 23:01:14 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Apr 2024 00:04:35 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.bloomventures/commons/versions/0.14.3</guid>
+    <title>[io.bloomventures/commons &quot;0.14.3&quot;]</title>
+    <link>https://clojars.org/io.bloomventures/commons/versions/0.14.3</link>
+    <description>kitchen-sink of micro-libs commonly used by bloom</description>
+    <pubDate>Mon, 22 Apr 2024 23:54:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.pinkgorilla/ui-highlightjs/versions/0.1.18</guid>
+    <title>[org.pinkgorilla/ui-highlightjs &quot;0.1.18&quot;]</title>
+    <link>https://clojars.org/org.pinkgorilla/ui-highlightjs/versions/0.1.18</link>
+    <description></description>
+    <pubDate>Mon, 22 Apr 2024 23:41:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.pinkgorilla/ui-fonts/versions/0.2.5</guid>
+    <title>[org.pinkgorilla/ui-fonts &quot;0.2.5&quot;]</title>
+    <link>https://clojars.org/org.pinkgorilla/ui-fonts/versions/0.2.5</link>
+    <description></description>
+    <pubDate>Mon, 22 Apr 2024 23:40:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.pinkgorilla/goldly-docs/versions/0.7.22</guid>
+    <title>[org.pinkgorilla/goldly-docs &quot;0.7.22&quot;]</title>
+    <link>https://clojars.org/org.pinkgorilla/goldly-docs/versions/0.7.22</link>
+    <description></description>
+    <pubDate>Mon, 22 Apr 2024 23:28:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.pinkgorilla/goldly/versions/0.7.675</guid>
+    <title>[org.pinkgorilla/goldly &quot;0.7.675&quot;]</title>
+    <link>https://clojars.org/org.pinkgorilla/goldly/versions/0.7.675</link>
+    <description></description>
+    <pubDate>Mon, 22 Apr 2024 23:22:38 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.pinkgorilla/goldly-docs/versions/0.7.21</guid>
     <title>[org.pinkgorilla/goldly-docs &quot;0.7.21&quot;]</title>
@@ -1782,60 +1817,6 @@
     <link>https://clojars.org/no.cjohansen/clj-nats/versions/0.2024.04.14.1</link>
     <description>Clojure NATS SDK based on jnats</description>
     <pubDate>Sun, 14 Apr 2024 10:07:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.vstein/testify/versions/0.3.1</guid>
-    <title>[org.clojars.vstein/testify &quot;0.3.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.vstein/testify/versions/0.3.1</link>
-    <description>Avoid the hassle of restructuring comments into functions.
-  Testify turns selected comments into automatically evaluated
-  scripts, while remaining as comments embedded within the code.
-  Evaluate these comments directly from within a test, or in any
-  other way preferred. Rename the (comment) to (test-comment)
-  and evaluate with (eval-in-ns &#39;your-namespace). Testify will
-  find the test-comment and evaluate its content for you. The
-  test-comment is an empty macro ignoring its body, just like
-  comment, that Testify recognizes. Testify can easily be told
-  to evaluate content of any other top level form, while
-  test-comment is a default. Testify use levels of isolation.
-  While eval-in-ns evaluates expressions in its namespace, like
-  when evaluating comments manually, its sibling eval-as-use
-  evaluates from within a temporary namespace, preventing
-  pollution. This is more suitable for repeatable tests.
-  Testify reads source code, and keeps track of where it is.
-  Code should be highlighted when a test assertion fails, even
-  though the assertion is in a comment. Testify is not a testing
-  framework, but rather a pun on: to witness, reveal comment,
-  display it in the repl.</description>
-    <pubDate>Sun, 14 Apr 2024 08:00:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/clj-ssh-keygen/versions/0.2.4</guid>
-    <title>[clj-ssh-keygen &quot;0.2.4&quot;]</title>
-    <link>https://clojars.org/clj-ssh-keygen/versions/0.2.4</link>
-    <description>Generate RSA PKCS #1 key-pairs from scratch in Clojure</description>
-    <pubDate>Sun, 14 Apr 2024 07:29:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.banzai/inspecter/versions/0.4.25</guid>
-    <title>[org.banzai/inspecter &quot;0.4.25&quot;]</title>
-    <link>https://clojars.org/org.banzai/inspecter/versions/0.4.25</link>
-    <description></description>
-    <pubDate>Sat, 13 Apr 2024 23:13:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/djblue/portal/versions/0.55.1</guid>
-    <title>[djblue/portal &quot;0.55.1&quot;]</title>
-    <link>https://clojars.org/djblue/portal/versions/0.55.1</link>
-    <description>A clojure tool to navigate through your data.</description>
-    <pubDate>Sat, 13 Apr 2024 22:18:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.frenchy64/fully-satisfies/versions/1.10.4</guid>
-    <title>[io.github.frenchy64/fully-satisfies &quot;1.10.4&quot;]</title>
-    <link>https://clojars.org/io.github.frenchy64/fully-satisfies/versions/1.10.4</link>
-    <description>A variant of clojure.core/satisfies? that checks all methods are implemented.</description>
-    <pubDate>Sat, 13 Apr 2024 21:42:17 +0000</pubDate>
   </item>
   </channel>
 </rss>
