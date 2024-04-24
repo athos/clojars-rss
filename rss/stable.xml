@@ -4,7 +4,14 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 24 Apr 2024 14:01:20 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 24 Apr 2024 15:01:23 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.pinkgorilla/ta/versions/0.3.780</guid>
+    <title>[org.pinkgorilla/ta &quot;0.3.780&quot;]</title>
+    <link>https://clojars.org/org.pinkgorilla/ta/versions/0.3.780</link>
+    <description></description>
+    <pubDate>Wed, 24 Apr 2024 14:19:12 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.kepler16/ok-http/versions/1.2.0</guid>
     <title>[com.kepler16/ok-http &quot;1.2.0&quot;]</title>
@@ -1810,32 +1817,6 @@
     <link>https://clojars.org/no.cjohansen/clj-nats/versions/0.2024.04.14.1</link>
     <description>Clojure NATS SDK based on jnats</description>
     <pubDate>Sun, 14 Apr 2024 10:07:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.vstein/testify/versions/0.3.1</guid>
-    <title>[org.clojars.vstein/testify &quot;0.3.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.vstein/testify/versions/0.3.1</link>
-    <description>Avoid the hassle of restructuring comments into functions.
-  Testify turns selected comments into automatically evaluated
-  scripts, while remaining as comments embedded within the code.
-  Evaluate these comments directly from within a test, or in any
-  other way preferred. Rename the (comment) to (test-comment)
-  and evaluate with (eval-in-ns &#39;your-namespace). Testify will
-  find the test-comment and evaluate its content for you. The
-  test-comment is an empty macro ignoring its body, just like
-  comment, that Testify recognizes. Testify can easily be told
-  to evaluate content of any other top level form, while
-  test-comment is a default. Testify use levels of isolation.
-  While eval-in-ns evaluates expressions in its namespace, like
-  when evaluating comments manually, its sibling eval-as-use
-  evaluates from within a temporary namespace, preventing
-  pollution. This is more suitable for repeatable tests.
-  Testify reads source code, and keeps track of where it is.
-  Code should be highlighted when a test assertion fails, even
-  though the assertion is in a comment. Testify is not a testing
-  framework, but rather a pun on: to witness, reveal comment,
-  display it in the repl.</description>
-    <pubDate>Sun, 14 Apr 2024 08:00:33 +0000</pubDate>
   </item>
   </channel>
 </rss>

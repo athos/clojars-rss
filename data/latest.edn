@@ -1,5 +1,3 @@
-{:jar_name "regal", :group_name "lambdaisland", :version "0.1.175", :description "A Regex Swiss Army Knife", :created 1713254933002}
-{:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.40.0", :description nil, :created 1713255573798}
 {:jar_name "core", :group_name "com.flipkart.grpc-jexpress", :version "1.40.0", :description nil, :created 1713255595908}
 {:jar_name "guice", :group_name "com.flipkart.grpc-jexpress", :version "1.40.0", :description nil, :created 1713255607329}
 {:jar_name "runtime", :group_name "com.flipkart.grpc-jexpress", :version "1.40.0", :description nil, :created 1713255613331}
@@ -228,7 +226,6 @@
 {:jar_name "cral", :group_name "org.saidone", :version "0.3.0", :description "A library for consuming Alfresco Content Services public REST API", :created 1713852957169}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.103.0", :description "Core utils library for Clojure/Script", :created 1713856821173}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.03.14-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1713863428028}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.4.10-SNAPSHOT", :description nil, :created 1713880908251}
 {:jar_name "macaw", :group_name "io.github.metabase", :version "0.1.28", :description "A Clojure wrapper for JSqlParser", :created 1713882214802}
 {:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.7.25", :description nil, :created 1713885759709}
 {:jar_name "state-flow", :group_name "nubank", :version "5.16.0", :description "Integration testing with composable flows", :created 1713886394911}
@@ -239,7 +236,6 @@
 {:jar_name "toucan2", :group_name "io.github.camsaul", :version "1.0.539", :description "A library for delightful database interaction.", :created 1713899919634}
 {:jar_name "toucan2-toucan1", :group_name "io.github.camsaul", :version "1.0.539", :description "Toucan 1 reimplemented in terms of Toucan 2. Compatibility layer for existing projects using Toucan 1.", :created 1713899928104}
 {:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.777", :description nil, :created 1713900254974}
-{:jar_name "garden", :group_name "enterprises.wizard", :version "1.5.569-SNAPSHOT", :description "Release of noprompt/garden master to clojars", :created 1713907447462}
 {:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.778", :description nil, :created 1713908120894}
 {:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.779", :description nil, :created 1713917694658}
 {:jar_name "gql-fmt", :group_name "pw.snas", :version "0.2.0-SNAPSHOT", :description "A GraphQL query formatter", :created 1713940251001}
@@ -254,3 +250,7 @@
 {:jar_name "clojisr", :group_name "scicloj", :version "1.0.0", :description "Clojure <-> R interop", :created 1713964779460}
 {:jar_name "ok-http", :group_name "com.kepler16", :version "1.2.0", :description "Clojure wrapper for https://github.com/square/okhttp", :created 1713966653234}
 {:jar_name "clj-telemetry", :group_name "org.clojars.ejschoen", :version "0.3.1-SNAPSHOT", :description "A Clojure library designed to wrap OpenTelemetry Java API", :created 1713966737411}
+{:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.780", :description nil, :created 1713968352194}
+{:jar_name "garden", :group_name "enterprises.wizard", :version "1.5.569-SNAPSHOT", :description "Release of noprompt/garden master to clojars", :created 1713970069742}
+{:jar_name "ring-correlation-id", :group_name "org.clojars.ejschoen", :version "0.6.1-SNAPSHOT", :description "Correlation ID tracing for distributed systems using ring and clj-http", :created 1713970450781}
+{:jar_name "app", :group_name "com.monkeyci", :version "0.4.10-SNAPSHOT", :description nil, :created 1713970548108}
