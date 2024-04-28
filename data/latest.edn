@@ -1,6 +1,3 @@
-{:jar_name "app", :group_name "com.monkeyci", :version "0.4.9", :description nil, :created 1713538490207}
-{:jar_name "mongo", :group_name "com.timezynk", :version "0.9.11", :description "Clojure wrapper for com.mongodb.client Java API.", :created 1713541622995}
-{:jar_name "jinx", :group_name "co.insilica", :version "0.3.0", :description "jinx is not xml-schema (it's json-schema!)", :created 1713541687364}
 {:jar_name "clindex", :group_name "com.github.jpmonettas", :version "0.4.95", :description nil, :created 1713547085246}
 {:jar_name "clograms", :group_name "com.github.jpmonettas", :version "0.1.144", :description nil, :created 1713547272511}
 {:jar_name "missionary", :group_name "missionary", :version "b.38", :description "A functional effect and streaming system for clojure and clojurescript.", :created 1713547704908}
@@ -211,7 +208,6 @@
 {:jar_name "datascript", :group_name "datascript", :version "1.6.4", :description "An implementation of Datomic in-memory database and Datalog query engine in ClojureScript", :created 1714151257737}
 {:jar_name "test-pipeline", :group_name "io.github.hlship", :version "0.7", :description nil, :created 1714152132203}
 {:jar_name "deps.clj", :group_name "borkdude", :version "1.11.2.1447-SNAPSHOT", :description "deps.clj: a Clojure port of the clojure bash script", :created 1714155937688}
-{:jar_name "babashka", :group_name "babashka", :version "1.3.191-SNAPSHOT", :description "babashka", :created 1714156220071}
 {:jar_name "ring-headers", :group_name "ring", :version "0.4.0", :description "Ring middleware for common response headers", :created 1714157317701}
 {:jar_name "ring-anti-forgery", :group_name "ring", :version "1.3.1", :description "Ring middleware to prevent CSRF attacks", :created 1714157933445}
 {:jar_name "ring-ssl", :group_name "ring", :version "0.4.0", :description "Ring middleware for managing HTTPS requests", :created 1714158053491}
@@ -254,3 +250,7 @@
 {:jar_name "spec.validate", :group_name "io.logicblocks", :version "0.2.0-RC14", :description "A clojure.spec based validation library.", :created 1714306782928}
 {:jar_name "mxreact", :group_name "org.lotuc", :version "0.0.1-SNAPSHOT", :description "mxreact", :created 1714311921966}
 {:jar_name "scicloj.ml.smile", :group_name "scicloj", :version "7.4", :description "Smile  plugin for scicloj.ml", :created 1714312598368}
+{:jar_name "scicloj.ml.smile", :group_name "scicloj", :version "7.4.1", :description "Smile  plugin for scicloj.ml", :created 1714313360518}
+{:jar_name "babashka", :group_name "babashka", :version "1.3.191-SNAPSHOT", :description "babashka", :created 1714314734181}
+{:jar_name "cloregram", :group_name "io.github.algoflora", :version "0.11.0", :description "Clojure framework for making complex Telegram Bots/Applications", :created 1714316018346}
+{:jar_name "lein-template.cloregram", :group_name "io.github.algoflora", :version "0.3.4", :description "Template project of Telegram Bot Application using Cloregram framewwork", :created 1714316424695}
