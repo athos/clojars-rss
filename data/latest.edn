@@ -1,20 +1,3 @@
-{:jar_name "clj-parent", :group_name "puppetlabs", :version "7.3.16", :description "", :created 1713457784916}
-{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.5.13", :description nil, :created 1713461472144}
-{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.5.675", :description nil, :created 1713472755917}
-{:jar_name "casing", :group_name "com.fooheads", :version "0.9.1", :description "A description", :created 1713478726209}
-{:jar_name "timbre", :group_name "org.pinkgorilla", :version "0.0.6", :description nil, :created 1713479858062}
-{:jar_name "ui-dialog-keybindings", :group_name "org.pinkgorilla", :version "0.1.10", :description nil, :created 1713480052037}
-{:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.33.0", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1713480179843}
-{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.5.676", :description nil, :created 1713481219196}
-{:jar_name "goldly", :group_name "org.pinkgorilla", :version "0.7.669", :description nil, :created 1713484336982}
-{:jar_name "anomalies", :group_name "io.github.missinterpret", :version "0.2.0", :description "FIXME: my new library.", :created 1713485443467}
-{:jar_name "testify", :group_name "org.clojars.vstein", :version "0.4.0", :description "Avoid the hassle of restructuring comments into functions.\n  Testify turns selected comments into automatically evaluated\n  scripts, while remaining as comments embedded within the code.\n  Evaluate these comments directly from within a test, or in any\n  other way preferred. Rename the (comment) to (test-comment)\n  and evaluate with (eval-in-ns 'your-namespace). Testify will\n  find the test-comment and evaluate its content for you. The\n  test-comment is an empty macro ignoring its body, just like\n  comment, that Testify recognizes. Testify can easily be told\n  to evaluate content of any other top level form, while\n  test-comment is a default. Testify use levels of isolation.\n  While eval-in-ns evaluates expressions in its namespace, like\n  when evaluating comments manually, its sibling eval-as-use\n  evaluates from within a temporary namespace, preventing\n  pollution. This is more suitable for repeatable tests.\n  Testify reads source code, and keeps track of where it is.\n  Code should be highlighted when a test assertion fails, even\n  though the assertion is in a comment. Testify is not a testing\n  framework, but rather a pun on: to witness, reveal comment,\n  display it in the repl.", :created 1713507331023}
-{:jar_name "tablecloth", :group_name "scicloj", :version "7.029.2", :description "Dataset manipulation library built on the top of tech.ml.dataset.", :created 1713512696755}
-{:jar_name "knit", :group_name "cc.qbits", :version "2.0.2", :description nil, :created 1713513547241}
-{:jar_name "reagent-dev-tools", :group_name "metosin", :version "1.0.2", :description "Reagent dev tools", :created 1713517841480}
-{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-beta1", :description "Structured telemetry library for Clojure/Script", :created 1713524853824}
-{:jar_name "slf4j-telemere", :group_name "com.taoensso", :version "1.0.0-beta1", :description "Telemere backend/provider for SLF4J API v2", :created 1713524876373}
-{:jar_name "c4k-nextcloud", :group_name "org.domaindrivenarchitecture", :version "8.0.8", :description "nextcloud c4k-installation package", :created 1713525013389}
 {:jar_name "spec.validate", :group_name "io.logicblocks", :version "0.2.0-RC11", :description "A clojure.spec based validation library.", :created 1713527817721}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.4.9-SNAPSHOT", :description nil, :created 1713532844188}
 {:jar_name "pdfboxing", :group_name "pdfboxing", :version "0.1.15.5-SNAPSHOT", :description "Clojure PDF manipulation library & wrapper for PDFBox", :created 1713534914309}
@@ -254,3 +237,20 @@
 {:jar_name "metamorph.ml", :group_name "scicloj", :version "0.8.1", :description "Machine learning functions for tech.ml.dataset", :created 1714246822265}
 {:jar_name "bus", :group_name "com.timezynk", :version "1.1.0", :description "General-purpose message bus", :created 1714249116582}
 {:jar_name "datatype", :group_name "io.logicblocks", :version "0.0.1-RC1", :description "A collection of libraries with utility functions for common data types.", :created 1714258695796}
+{:jar_name "datatype.core", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "A support library for defining utility functions for common data types.", :created 1714260306954}
+{:jar_name "datatype.testing", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for the testing other data type libraries.", :created 1714260316653}
+{:jar_name "datatype.string", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for string data types.", :created 1714260326983}
+{:jar_name "datatype.address", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for address data types.", :created 1714260336733}
+{:jar_name "datatype.bool", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for the boolean data type.", :created 1714260346753}
+{:jar_name "datatype.collection", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for collection data types.", :created 1714260356282}
+{:jar_name "datatype.currency", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for currency data types.", :created 1714260365862}
+{:jar_name "datatype.domain", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for domain data types.", :created 1714260375972}
+{:jar_name "datatype.email", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for email data types.", :created 1714260386082}
+{:jar_name "datatype.network", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for network data types.", :created 1714260395421}
+{:jar_name "datatype.number", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for number data types.", :created 1714260404491}
+{:jar_name "datatype.phone", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for telephony data types.", :created 1714260414391}
+{:jar_name "datatype.time", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for time data types.", :created 1714260423861}
+{:jar_name "datatype.uri", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for URI data types.", :created 1714260433740}
+{:jar_name "datatype.uuid", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Utility functions for UUID data types.", :created 1714260443250}
+{:jar_name "datatype", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "Aggregate project for all datatype modules.", :created 1714260457610}
+{:jar_name "metamorph.ml", :group_name "scicloj", :version "0.8.2", :description "Machine learning functions for tech.ml.dataset", :created 1714261585111}
