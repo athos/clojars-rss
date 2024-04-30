@@ -1,18 +1,3 @@
-{:jar_name "ui-sparklines", :group_name "org.pinkgorilla", :version "0.2.7", :description nil, :created 1713805521467}
-{:jar_name "ui-site", :group_name "org.pinkgorilla", :version "0.0.31", :description nil, :created 1713805756180}
-{:jar_name "ui-binaryclock", :group_name "org.pinkgorilla", :version "0.2.20", :description nil, :created 1713805906095}
-{:jar_name "kmono", :group_name "com.kepler16", :version "2.4.0.0", :description "Clojure monorepo tools", :created 1713806122579}
-{:jar_name "ui-repl", :group_name "org.pinkgorilla", :version "0.1.105", :description nil, :created 1713806533966}
-{:jar_name "extension", :group_name "org.pinkgorilla", :version "0.0.12", :description nil, :created 1713807219616}
-{:jar_name "clj-service", :group_name "org.pinkgorilla", :version "0.2.8", :description nil, :created 1713807367522}
-{:jar_name "slingr-services", :group_name "io.github.slingr-stack", :version "1.5.3", :description "Framework to generate services to use on Slingr platform", :created 1713808410451}
-{:jar_name "ui-fonts", :group_name "org.pinkgorilla", :version "0.2.4", :description nil, :created 1713808446920}
-{:jar_name "yamlscript", :group_name "org.yamlscript", :version "0.1.57", :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :created 1713808565186}
-{:jar_name "clj-yamlscript", :group_name "org.yamlscript", :version "0.1.57", :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :created 1713808574596}
-{:jar_name "modular", :group_name "org.pinkgorilla", :version "0.2.55", :description nil, :created 1713809889857}
-{:jar_name "clj-service", :group_name "org.pinkgorilla", :version "0.2.9", :description nil, :created 1713810413481}
-{:jar_name "reval", :group_name "org.pinkgorilla", :version "0.6.155", :description nil, :created 1713810623515}
-{:jar_name "telemere", :group_name "com.taoensso.debug", :version "1.0.0-beta1-f01", :description "Structured telemetry library for Clojure/Script", :created 1713811589766}
 {:jar_name "clograms", :group_name "com.github.jpmonettas", :version "0.1.148", :description nil, :created 1713811645254}
 {:jar_name "commons", :group_name "io.bloomventures", :version "0.14.2", :description "kitchen-sink of micro-libs commonly used by bloom", :created 1713812096061}
 {:jar_name "ui-highlightjs", :group_name "org.pinkgorilla", :version "0.1.17", :description nil, :created 1713812819120}
@@ -254,3 +239,18 @@
 {:jar_name "muplayer", :group_name "org.orangeplayer", :version "3.4.3", :description nil, :created 1714401231535}
 {:jar_name "spec.validate", :group_name "io.logicblocks", :version "0.2.0-RC17", :description "A clojure.spec based validation library.", :created 1714414783552}
 {:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.789", :description nil, :created 1714428553721}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure", :created 1714433838005}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1714433850255}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1714433859524}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1714433873154}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1714433881204}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type-like specs.", :created 1714433892784}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1714433900633}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "FIXME", :created 1714433908253}
+{:jar_name "typed.clj.lang", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Extensible languages in Clojure, a la Racket's #lang.", :created 1714433916883}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1714433928023}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1714433936072}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1714433945432}
+{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1714433956082}
+{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Malli integration", :created 1714433967172}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1714433976151}
