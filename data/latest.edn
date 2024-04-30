@@ -1,19 +1,3 @@
-{:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.772", :description nil, :created 1713887134299}
-{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-beta2", :description "Structured telemetry library for Clojure/Script", :created 1713887402281}
-{:jar_name "slf4j-telemere", :group_name "com.taoensso", :version "1.0.0-beta2", :description "Telemere backend/provider for SLF4J API v2", :created 1713887420551}
-{:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.774", :description nil, :created 1713897359607}
-{:jar_name "toucan2", :group_name "io.github.camsaul", :version "1.0.539", :description "A library for delightful database interaction.", :created 1713899919634}
-{:jar_name "toucan2-toucan1", :group_name "io.github.camsaul", :version "1.0.539", :description "Toucan 1 reimplemented in terms of Toucan 2. Compatibility layer for existing projects using Toucan 1.", :created 1713899928104}
-{:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.777", :description nil, :created 1713900254974}
-{:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.778", :description nil, :created 1713908120894}
-{:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.779", :description nil, :created 1713917694658}
-{:jar_name "gql-fmt", :group_name "pw.snas", :version "0.2.0-SNAPSHOT", :description "A GraphQL query formatter", :created 1713940251001}
-{:jar_name "cljam", :group_name "cljam", :version "0.8.5-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1713940963390}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.4.9.1", :description nil, :created 1713942093797}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.28.4", :description "CLJS development tools", :created 1713949910708}
-{:jar_name "encore", :group_name "com.taoensso", :version "3.104.1", :description "Core utils library for Clojure/Script", :created 1713951294907}
-{:jar_name "missionary", :group_name "missionary", :version "b.39", :description "A functional effect and streaming system for clojure and clojurescript.", :created 1713951996576}
-{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-beta3", :description "Structured telemetry library for Clojure/Script", :created 1713958448928}
 {:jar_name "slf4j-telemere", :group_name "com.taoensso", :version "1.0.0-beta3", :description "Telemere backend/provider for SLF4J API v2", :created 1713958468587}
 {:jar_name "macaw", :group_name "io.github.metabase", :version "0.1.29", :description "A Clojure wrapper for JSqlParser", :created 1713961639325}
 {:jar_name "clojisr", :group_name "scicloj", :version "1.0.0", :description "Clojure <-> R interop", :created 1713964779460}
@@ -254,3 +238,19 @@
 {:jar_name "temporal-sdk", :group_name "io.github.manetu", :version "0.20.2", :description "A Temporal SDK for Clojure", :created 1714476861177}
 {:jar_name "cli", :group_name "org.babashka", :version "0.8.59", :description "Turn Clojure functions into CLIs!", :created 1714487558766}
 {:jar_name "babashka", :group_name "babashka", :version "1.3.191-SNAPSHOT", :description "babashka", :created 1714488228567}
+{:jar_name "datatype.core", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "A support library for defining utility functions for common data types.", :created 1714494900515}
+{:jar_name "datatype.testing", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for the testing other data type libraries.", :created 1714494908219}
+{:jar_name "datatype.string", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for string data types.", :created 1714494916368}
+{:jar_name "datatype.address", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for address data types.", :created 1714494924419}
+{:jar_name "datatype.bool", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for the boolean data type.", :created 1714494932278}
+{:jar_name "datatype.collection", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for collection data types.", :created 1714494941680}
+{:jar_name "datatype.currency", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for currency data types.", :created 1714494951686}
+{:jar_name "datatype.domain", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for domain data types.", :created 1714494961116}
+{:jar_name "datatype.email", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for email data types.", :created 1714494969496}
+{:jar_name "datatype.network", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for network data types.", :created 1714494976907}
+{:jar_name "datatype.number", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for number data types.", :created 1714494984571}
+{:jar_name "datatype.phone", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for telephony data types.", :created 1714494992245}
+{:jar_name "datatype.time", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for time data types.", :created 1714495002996}
+{:jar_name "datatype.uri", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for URI data types.", :created 1714495010840}
+{:jar_name "datatype.uuid", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Utility functions for UUID data types.", :created 1714495018466}
+{:jar_name "datatype", :group_name "io.logicblocks", :version "0.0.1-RC6", :description "Aggregate project for all datatype modules.", :created 1714495030823}
