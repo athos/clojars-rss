@@ -1,16 +1,3 @@
-{:jar_name "cljs-workers", :group_name "jtk-dvlp", :version "1.2.0", :description "A clojurescript lib for performing async tasks via web workers", :created 1714077970200}
-{:jar_name "pretty", :group_name "org.clj-commons", :version "2.6.0", :description nil, :created 1714079093518}
-{:jar_name "trace", :group_name "io.github.hlship", :version "1.3", :description nil, :created 1714079699130}
-{:jar_name "jruby-utils", :group_name "puppetlabs", :version "5.1.1", :description "A library for working with JRuby", :created 1714087689246}
-{:jar_name "navi", :group_name "org.clojars.lispyclouds", :version "0.0.5", :description "A tiny library converting OpenAPI route definitions to Reitit routes.", :created 1714115046556}
-{:jar_name "scopula", :group_name "threatgrid", :version "0.3.2", :description "Offers a scope convention mechanism to enhance control access.", :created 1714118407188}
-{:jar_name "amazonica", :group_name "com.signal-ai", :version "0.3.165-signal-1", :description "A comprehensive Clojure client for the entire Amazon AWS api.", :created 1714118824222}
-{:jar_name "c4k-nextcloud", :group_name "org.domaindrivenarchitecture", :version "10.0.0", :description "nextcloud c4k-installation package", :created 1714120417087}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.5.1-SNAPSHOT", :description nil, :created 1714121530896}
-{:jar_name "amazonica", :group_name "com.signal-ai", :version "0.3.165-signal-2", :description "A comprehensive Clojure client for the entire Amazon AWS api.", :created 1714123802610}
-{:jar_name "hookd", :group_name "com.github.ivarref", :version "0.1.66", :description "Consume return values of arbitrary Java methods in Clojure", :created 1714128568880}
-{:jar_name "amazonica", :group_name "com.signal-ai", :version "0.3.165-signal-3", :description "A comprehensive Clojure client for the entire Amazon AWS api.", :created 1714129008687}
-{:jar_name "yamlscript", :group_name "org.yamlscript", :version "0.1.58", :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :created 1714130601990}
 {:jar_name "clj-yamlscript", :group_name "org.yamlscript", :version "0.1.58", :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :created 1714130614110}
 {:jar_name "hookd", :group_name "com.github.ivarref", :version "0.1.69", :description "Consume return values of arbitrary Java methods in Clojure", :created 1714133660314}
 {:jar_name "c4k-nextcloud", :group_name "org.domaindrivenarchitecture", :version "10.1.0", :description "nextcloud c4k-installation package", :created 1714136389010}
@@ -254,3 +241,16 @@
 {:jar_name "datatype.core", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "A support library for defining utility functions for common data types.", :created 1714514457386}
 {:jar_name "datatype.testing", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for the testing other data type libraries.", :created 1714514465346}
 {:jar_name "datatype.string", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for string data types.", :created 1714514473756}
+{:jar_name "datatype.address", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for address data types.", :created 1714514482415}
+{:jar_name "datatype.bool", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for the boolean data type.", :created 1714514490275}
+{:jar_name "datatype.collection", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for collection data types.", :created 1714514498135}
+{:jar_name "datatype.currency", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for currency data types.", :created 1714514506105}
+{:jar_name "datatype.domain", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for domain data types.", :created 1714514514235}
+{:jar_name "datatype.email", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for email data types.", :created 1714514522474}
+{:jar_name "datatype.network", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for network data types.", :created 1714514530954}
+{:jar_name "datatype.number", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for number data types.", :created 1714514541864}
+{:jar_name "datatype.phone", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for telephony data types.", :created 1714514549934}
+{:jar_name "datatype.time", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for time data types.", :created 1714514557603}
+{:jar_name "datatype.uri", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for URI data types.", :created 1714514566133}
+{:jar_name "datatype.uuid", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Utility functions for UUID data types.", :created 1714514573833}
+{:jar_name "datatype", :group_name "io.logicblocks", :version "0.0.1-RC8", :description "Aggregate project for all datatype modules.", :created 1714514585823}
