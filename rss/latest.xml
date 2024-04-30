@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 30 Apr 2024 19:01:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 30 Apr 2024 20:01:12 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/cider/orchard/versions/0.24.0</guid>
+    <title>[cider/orchard &quot;0.24.0&quot;]</title>
+    <link>https://clojars.org/cider/orchard/versions/0.24.0</link>
+    <description>A fertile ground for Clojure tooling</description>
+    <pubDate>Tue, 30 Apr 2024 19:51:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-hugsql/versions/0.1.12</guid>
+    <title>[com.github.igrishaev/pg2-hugsql &quot;0.1.12&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-hugsql/versions/0.1.12</link>
+    <description>HugSQL wrapper for PG2</description>
+    <pubDate>Tue, 30 Apr 2024 19:11:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-migration/versions/0.1.12</guid>
+    <title>[com.github.igrishaev/pg2-migration &quot;0.1.12&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-migration/versions/0.1.12</link>
+    <description>Migration utilities for PG2</description>
+    <pubDate>Tue, 30 Apr 2024 19:11:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-component/versions/0.1.12</guid>
+    <title>[com.github.igrishaev/pg2-component &quot;0.1.12&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-component/versions/0.1.12</link>
+    <description>Component wrapper for PG2</description>
+    <pubDate>Tue, 30 Apr 2024 19:10:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-honey/versions/0.1.12</guid>
+    <title>[com.github.igrishaev/pg2-honey &quot;0.1.12&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-honey/versions/0.1.12</link>
+    <description>HoneySQL wrapper for PG2</description>
+    <pubDate>Tue, 30 Apr 2024 19:10:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-core/versions/0.1.12</guid>
+    <title>[com.github.igrishaev/pg2-core &quot;0.1.12&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-core/versions/0.1.12</link>
+    <description>Postgres client in pure Java (no JDBC)</description>
+    <pubDate>Tue, 30 Apr 2024 19:10:21 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/puppetlabs/jruby-deps/versions/9.4.7.0-1</guid>
     <title>[puppetlabs/jruby-deps &quot;9.4.7.0-1&quot;]</title>
@@ -1756,48 +1798,6 @@
     <link>https://clojars.org/com.timezynk/useful/versions/4.1.0</link>
     <description>Useful functions</description>
     <pubDate>Wed, 24 Apr 2024 19:41:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/clj-jgit/versions/1.1.0</guid>
-    <title>[clj-jgit &quot;1.1.0&quot;]</title>
-    <link>https://clojars.org/clj-jgit/versions/1.1.0</link>
-    <description>Clojure wrapper for JGit</description>
-    <pubDate>Wed, 24 Apr 2024 19:37:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/mx.cider/lein-enrich-classpath/versions/1.19.3</guid>
-    <title>[mx.cider/lein-enrich-classpath &quot;1.19.3&quot;]</title>
-    <link>https://clojars.org/mx.cider/lein-enrich-classpath/versions/1.19.3</link>
-    <description>mx.cider/enrich-classpath with dependencies specific to tools.deps usage.</description>
-    <pubDate>Wed, 24 Apr 2024 19:04:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/mx.cider/tools.deps.enrich-classpath/versions/1.19.3</guid>
-    <title>[mx.cider/tools.deps.enrich-classpath &quot;1.19.3&quot;]</title>
-    <link>https://clojars.org/mx.cider/tools.deps.enrich-classpath/versions/1.19.3</link>
-    <description>mx.cider/enrich-classpath with dependencies specific to tools.deps usage.</description>
-    <pubDate>Wed, 24 Apr 2024 19:04:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/mx.cider/enrich-classpath/versions/1.19.3</guid>
-    <title>[mx.cider/enrich-classpath &quot;1.19.3&quot;]</title>
-    <link>https://clojars.org/mx.cider/enrich-classpath/versions/1.19.3</link>
-    <description>Makes available .jars with Java sources and javadocs for a given project.</description>
-    <pubDate>Wed, 24 Apr 2024 19:04:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.algoflora/lein-template.cloregram/versions/0.3.3</guid>
-    <title>[io.github.algoflora/lein-template.cloregram &quot;0.3.3&quot;]</title>
-    <link>https://clojars.org/io.github.algoflora/lein-template.cloregram/versions/0.3.3</link>
-    <description>Template project of Telegram Bot Application using Cloregram framewwork</description>
-    <pubDate>Wed, 24 Apr 2024 18:55:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.algoflora/cloregram/versions/0.10.2</guid>
-    <title>[io.github.algoflora/cloregram &quot;0.10.2&quot;]</title>
-    <link>https://clojars.org/io.github.algoflora/cloregram/versions/0.10.2</link>
-    <description>Clojure framework for making complex Telegram Bots/Applications</description>
-    <pubDate>Wed, 24 Apr 2024 17:33:07 +0000</pubDate>
   </item>
   </channel>
 </rss>
