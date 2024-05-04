@@ -1,12 +1,3 @@
-{:jar_name "timbre-json-appender", :group_name "viesti", :version "0.2.14", :description "A structured log appender for Timbre using jsonista", :created 1714317051229}
-{:jar_name "aws-simple-sign", :group_name "dk.emcken", :version "2.0.0-alpha1", :description "A library to sign HTTP requests & generate presigned URL's for AWS", :created 1714334744178}
-{:jar_name "scicloj.ml.tribuo", :group_name "org.scicloj", :version "0.1.1", :description "Integration of tribuo ML library into the scicloj.ml / metamorph framework.", :created 1714336645397}
-{:jar_name "ta", :group_name "org.pinkgorilla", :version "0.3.788", :description nil, :created 1714353934671}
-{:jar_name "devtools", :group_name "org.pinkgorilla", :version "0.5.20", :description nil, :created 1714355824411}
-{:jar_name "clj-service", :group_name "org.pinkgorilla", :version "0.2.12", :description nil, :created 1714356135273}
-{:jar_name "webly", :group_name "org.pinkgorilla", :version "0.5.689", :description nil, :created 1714357085159}
-{:jar_name "clj-service", :group_name "org.pinkgorilla", :version "0.2.14", :description nil, :created 1714357900007}
-{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.7.26", :description nil, :created 1714358846032}
 {:jar_name "discord-appender", :group_name "io.github.flawless", :version "72b1d60", :description nil, :created 1714371415895}
 {:jar_name "get_pyclone_input", :group_name "org.clojars.xuh", :version "0.2.0", :description "drake plugin", :created 1714372085227}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.105.0", :description "Core utils library for Clojure/Script", :created 1714374128482}
@@ -254,3 +245,12 @@
 {:jar_name "enhanced-entity-map", :group_name "net.clojars.favila", :version "1.0.6", :description "A datomic peer entity map with assoc-ability, index control, and computed attributes.", :created 1714796922556}
 {:jar_name "domain", :group_name "com.timezynk", :version "2.3.0", :description "Database modeling library for Clojure and MongoDB", :created 1714804973512}
 {:jar_name "domain-types", :group_name "com.timezynk", :version "1.0.15", :description "Modeling extras built on top of domain", :created 1714804992911}
+{:jar_name "liberator.mixin.core", :group_name "io.logicblocks", :version "0.1.0-RC10", :description "Functions for defining composable liberator mixins.", :created 1714815901976}
+{:jar_name "liberator.mixin.context", :group_name "io.logicblocks", :version "0.1.0-RC10", :description "A context management mixin for liberator.", :created 1714815909675}
+{:jar_name "liberator.mixin.logging", :group_name "io.logicblocks", :version "0.1.0-RC10", :description "A logging mixin for liberator.", :created 1714815917035}
+{:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC10", :description "A JSON mixin for liberator.", :created 1714815925165}
+{:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC10", :description "An authorisation mixin for liberator.", :created 1714815933035}
+{:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC10", :description "A hypermedia mixin for liberator.", :created 1714815940475}
+{:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC10", :description "A HAL mixin for liberator.", :created 1714815948184}
+{:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC10", :description "A validation mixin for liberator.", :created 1714815955704}
+{:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC10", :description "Extensions for liberator allowing for composable mixins.", :created 1714815966084}
