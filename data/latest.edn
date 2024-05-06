@@ -1,13 +1,3 @@
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1714437514043}
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1714437520277}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1714437526990}
-{:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1714437533371}
-{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Malli integration", :created 1714437539968}
-{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1714437546538}
-{:jar_name "silvur", :group_name "io.gitlab.myst3m", :version "3.0.0-SNAPSHOT", :description nil, :created 1714448046902}
-{:jar_name "origami", :group_name "origami", :version "4.9.0-0", :description "OpenCV4 Wrapper", :created 1714455732649}
-{:jar_name "malli", :group_name "metosin", :version "0.16.1", :description nil, :created 1714464351258}
-{:jar_name "reitit-core", :group_name "metosin", :version "0.7.0-alpha8", :description "Snappy data-driven router for Clojure(Script)", :created 1714465878333}
 {:jar_name "reitit-dev", :group_name "metosin", :version "0.7.0-alpha8", :description "Snappy data-driven router for Clojure(Script)", :created 1714465894742}
 {:jar_name "reitit-spec", :group_name "metosin", :version "0.7.0-alpha8", :description "Reitit: clojure.spec coercion", :created 1714465913374}
 {:jar_name "reitit-malli", :group_name "metosin", :version "0.7.0-alpha8", :description "Reitit: Malli coercion", :created 1714465933602}
@@ -254,3 +244,13 @@
 {:jar_name "etlp", :group_name "org.clojars.aregee", :version "0.3.4-SNAPSHOT", :description "A library to develop transducers based ETL processing pipelines with smart data connectors", :created 1715015763304}
 {:jar_name "saml20-clj", :group_name "metabase", :version "2.2.7.171", :description "A library for delightful database interaction.", :created 1715016848855}
 {:jar_name "spec.validate", :group_name "io.logicblocks", :version "0.2.0-RC19", :description "A clojure.spec based validation library.", :created 1715021416187}
+{:jar_name "liberator.mixin.core", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "Functions for defining composable liberator mixins.", :created 1715023137542}
+{:jar_name "liberator.mixin.context", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "A context management mixin for liberator.", :created 1715023145802}
+{:jar_name "liberator.mixin.logging", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "A logging mixin for liberator.", :created 1715023153542}
+{:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "A JSON mixin for liberator.", :created 1715023162192}
+{:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "An authorisation mixin for liberator.", :created 1715023170282}
+{:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "A hypermedia mixin for liberator.", :created 1715023178022}
+{:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "A HAL mixin for liberator.", :created 1715023186402}
+{:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "A validation mixin for liberator.", :created 1715023194192}
+{:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "Extensions for liberator allowing for composable mixins.", :created 1715023204962}
+{:jar_name "snitch", :group_name "org.clojars.abhinav", :version "0.1.16-SNAPSHOT", :description "Snitch injects inline defs in your functions and multimethods.\n                This enables a repl-based, editor-agnostic, clojure and clojurescript debugging workflow. \n                It is inline-defs on steroids.", :created 1715024718879}
