@@ -1,5 +1,3 @@
-{:jar_name "jruby-deps", :group_name "puppetlabs", :version "9.4.7.0-1", :description "JRuby dependencies", :created 1714502577122}
-{:jar_name "pg2-core", :group_name "com.github.igrishaev", :version "0.1.12", :description "Postgres client in pure Java (no JDBC)", :created 1714504221218}
 {:jar_name "pg2-honey", :group_name "com.github.igrishaev", :version "0.1.12", :description "HoneySQL wrapper for PG2", :created 1714504235317}
 {:jar_name "pg2-component", :group_name "com.github.igrishaev", :version "0.1.12", :description "Component wrapper for PG2", :created 1714504249597}
 {:jar_name "pg2-migration", :group_name "com.github.igrishaev", :version "0.1.12", :description "Migration utilities for PG2", :created 1714504267426}
@@ -254,3 +252,5 @@
 {:jar_name "outline-java-wrapper", :group_name "io.github.dynomake", :version "1.0.2", :description nil, :created 1715182274318}
 {:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1715195211999}
 {:jar_name "malli-pojo", :group_name "io.github.conjurernix", :version "0.0.3", :description "Generating POJO(-like) classes from malli schemas using gen-class voodoo", :created 1715197603503}
+{:jar_name "malli-pojo", :group_name "io.github.conjurernix", :version "0.0.4", :description "Generating POJO(-like) classes from malli schemas using gen-class voodoo", :created 1715198780328}
+{:jar_name "malli-jpa", :group_name "io.github.conjurernix", :version "0.0.2", :description "Generating JPA Entity classes from Malli Schemas", :created 1715198956642}
