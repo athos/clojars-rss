@@ -1,14 +1,3 @@
-{:jar_name "orchard", :group_name "cider", :version "0.24.0", :description "A fertile ground for Clojure tooling", :created 1714506684012}
-{:jar_name "datatype.core", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "A support library for defining utility functions for common data types.", :created 1714508400656}
-{:jar_name "datatype.testing", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for the testing other data type libraries.", :created 1714508409077}
-{:jar_name "datatype.string", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for string data types.", :created 1714508427244}
-{:jar_name "datatype.address", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for address data types.", :created 1714508448348}
-{:jar_name "datatype.bool", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for the boolean data type.", :created 1714508469652}
-{:jar_name "datatype.collection", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for collection data types.", :created 1714508490708}
-{:jar_name "datatype.currency", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for currency data types.", :created 1714508511523}
-{:jar_name "datatype.domain", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for domain data types.", :created 1714508531913}
-{:jar_name "datatype.email", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for email data types.", :created 1714508552761}
-{:jar_name "datatype.network", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for network data types.", :created 1714508574203}
 {:jar_name "datatype.number", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for number data types.", :created 1714508595891}
 {:jar_name "datatype.phone", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for telephony data types.", :created 1714508616484}
 {:jar_name "datatype.time", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for time data types.", :created 1714508637954}
@@ -254,3 +243,14 @@
 {:jar_name "zero", :group_name "me.raystubbs", :version "0.1.12", :description nil, :created 1715225416172}
 {:jar_name "kmono", :group_name "com.kepler16", :version "2.5.2.0", :description "Clojure monorepo tools", :created 1715232767295}
 {:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1715240847764}
+{:jar_name "varity", :group_name "varity", :version "0.11.1-SNAPSHOT", :description "Variant translation library for Clojure", :created 1715245509432}
+{:jar_name "liberator.mixin.core", :group_name "io.logicblocks", :version "0.1.0-RC13", :description "Functions for defining composable liberator mixins.", :created 1715246399364}
+{:jar_name "liberator.mixin.context", :group_name "io.logicblocks", :version "0.1.0-RC13", :description "A context management mixin for liberator.", :created 1715246408804}
+{:jar_name "liberator.mixin.logging", :group_name "io.logicblocks", :version "0.1.0-RC13", :description "A logging mixin for liberator.", :created 1715246418284}
+{:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC13", :description "A JSON mixin for liberator.", :created 1715246427934}
+{:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC13", :description "An authorisation mixin for liberator.", :created 1715246438154}
+{:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC13", :description "A hypermedia mixin for liberator.", :created 1715246449834}
+{:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC13", :description "A HAL mixin for liberator.", :created 1715246464053}
+{:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC13", :description "A validation mixin for liberator.", :created 1715246477583}
+{:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC13", :description "Extensions for liberator allowing for composable mixins.", :created 1715246494223}
+{:jar_name "shadow-grove", :group_name "com.thheller", :version "0.7.0", :description "A ClojureScript system to build browser based frontends", :created 1715247559564}
