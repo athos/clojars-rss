@@ -1,13 +1,3 @@
-{:jar_name "edd-core-schema", :group_name "com.alpha-prosoft", :version "1.734", :description nil, :created 1714500398431}
-{:jar_name "ring-websocket-transit", :group_name "org.ring-clojure", :version "0.1.0", :description "Library for using the Transit data format with Ring websockets", :created 1714500422100}
-{:jar_name "jruby-deps", :group_name "puppetlabs", :version "9.4.7.0-1", :description "JRuby dependencies", :created 1714502577122}
-{:jar_name "pg2-core", :group_name "com.github.igrishaev", :version "0.1.12", :description "Postgres client in pure Java (no JDBC)", :created 1714504221218}
-{:jar_name "pg2-honey", :group_name "com.github.igrishaev", :version "0.1.12", :description "HoneySQL wrapper for PG2", :created 1714504235317}
-{:jar_name "pg2-component", :group_name "com.github.igrishaev", :version "0.1.12", :description "Component wrapper for PG2", :created 1714504249597}
-{:jar_name "pg2-migration", :group_name "com.github.igrishaev", :version "0.1.12", :description "Migration utilities for PG2", :created 1714504267426}
-{:jar_name "pg2-hugsql", :group_name "com.github.igrishaev", :version "0.1.12", :description "HugSQL wrapper for PG2", :created 1714504280926}
-{:jar_name "orchard", :group_name "cider", :version "0.24.0", :description "A fertile ground for Clojure tooling", :created 1714506684012}
-{:jar_name "datatype.core", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "A support library for defining utility functions for common data types.", :created 1714508400656}
 {:jar_name "datatype.testing", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for the testing other data type libraries.", :created 1714508409077}
 {:jar_name "datatype.string", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for string data types.", :created 1714508427244}
 {:jar_name "datatype.address", :group_name "io.logicblocks", :version "0.0.1-RC7", :description "Utility functions for address data types.", :created 1714508448348}
@@ -254,3 +244,13 @@
 {:jar_name "memento", :group_name "org.clojars.roklenarcic", :version "1.2.58", :description "A library for function memoization.", :created 1715340234549}
 {:jar_name "memento", :group_name "org.clojars.roklenarcic", :version "1.2.59", :description "A library for function memoization.", :created 1715348618155}
 {:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-beta11", :description "Structured telemetry library for Clojure/Script", :created 1715349063221}
+{:jar_name "liberator.mixin.core", :group_name "io.logicblocks", :version "0.1.0-RC14", :description "Functions for defining composable liberator mixins.", :created 1715350851403}
+{:jar_name "liberator.mixin.context", :group_name "io.logicblocks", :version "0.1.0-RC14", :description "A context management mixin for liberator.", :created 1715350861373}
+{:jar_name "liberator.mixin.logging", :group_name "io.logicblocks", :version "0.1.0-RC14", :description "A logging mixin for liberator.", :created 1715350870943}
+{:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC14", :description "A JSON mixin for liberator.", :created 1715350880723}
+{:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC14", :description "An authorisation mixin for liberator.", :created 1715350890043}
+{:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC14", :description "A hypermedia mixin for liberator.", :created 1715350900013}
+{:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC14", :description "A HAL mixin for liberator.", :created 1715350909223}
+{:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC14", :description "A validation mixin for liberator.", :created 1715350916793}
+{:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC14", :description "Extensions for liberator allowing for composable mixins.", :created 1715350927053}
+{:jar_name "slf4j-telemere", :group_name "com.taoensso", :version "1.0.0-beta11", :description "Telemere backend/provider for SLF4J API v2", :created 1715350939842}
