@@ -1,6 +1,3 @@
-{:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC10", :description "A HAL mixin for liberator.", :created 1714815948184}
-{:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC10", :description "A validation mixin for liberator.", :created 1714815955704}
-{:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC10", :description "Extensions for liberator allowing for composable mixins.", :created 1714815966084}
 {:jar_name "liberator.mixin.core", :group_name "io.logicblocks", :version "0.1.0-RC11", :description "Functions for defining composable liberator mixins.", :created 1714820814322}
 {:jar_name "liberator.mixin.context", :group_name "io.logicblocks", :version "0.1.0-RC11", :description "A context management mixin for liberator.", :created 1714820821902}
 {:jar_name "liberator.mixin.logging", :group_name "io.logicblocks", :version "0.1.0-RC11", :description "A logging mixin for liberator.", :created 1714820829432}
@@ -253,4 +250,7 @@
 {:jar_name "components", :group_name "com.intception", :version "0.2.1", :description "Reusable services implementation following the components pattern", :created 1715708042264}
 {:jar_name "metrics", :group_name "com.intception.components", :version "0.1.12", :description "metrics component", :created 1715708255602}
 {:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.5.8-SNAPSHOT", :description "Templating engine for office documents.", :created 1715712331475}
-{:jar_name "compojure-api", :group_name "metosin", :version "1.1.15-SNAPSHOT", :description "Compojure Api", :created 1715712344645}
+{:jar_name "automaton-optimization", :group_name "org.clojars.hephaistox", :version "2.0.0-la", :description nil, :created 1715713527204}
+{:jar_name "automaton-simulation-de", :group_name "org.clojars.hephaistox", :version "2.0.1-la", :description nil, :created 1715713615353}
+{:jar_name "compojure-api", :group_name "metosin", :version "1.1.15-SNAPSHOT", :description "Compojure Api", :created 1715715683075}
+{:jar_name "procedural", :group_name "com.xadecimal", :version "0.2.1", :description "Adds procedural programming features back to Clojure, such as for-loop, mutable local variables, function scoped variables, early return, etc.", :created 1715715745114}
