@@ -1,14 +1,3 @@
-{:jar_name "saml20-clj", :group_name "metabase", :version "2.2.7.171", :description "A library for delightful database interaction.", :created 1715016848855}
-{:jar_name "spec.validate", :group_name "io.logicblocks", :version "0.2.0-RC19", :description "A clojure.spec based validation library.", :created 1715021416187}
-{:jar_name "liberator.mixin.core", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "Functions for defining composable liberator mixins.", :created 1715023137542}
-{:jar_name "liberator.mixin.context", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "A context management mixin for liberator.", :created 1715023145802}
-{:jar_name "liberator.mixin.logging", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "A logging mixin for liberator.", :created 1715023153542}
-{:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "A JSON mixin for liberator.", :created 1715023162192}
-{:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "An authorisation mixin for liberator.", :created 1715023170282}
-{:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "A hypermedia mixin for liberator.", :created 1715023178022}
-{:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "A HAL mixin for liberator.", :created 1715023186402}
-{:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "A validation mixin for liberator.", :created 1715023194192}
-{:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC12", :description "Extensions for liberator allowing for composable mixins.", :created 1715023204962}
 {:jar_name "snitch", :group_name "org.clojars.abhinav", :version "0.1.16-SNAPSHOT", :description "Snitch injects inline defs in your functions and multimethods.\n                This enables a repl-based, editor-agnostic, clojure and clojurescript debugging workflow. \n                It is inline-defs on steroids.", :created 1715024718879}
 {:jar_name "xml-writer", :group_name "com.github.rcullito", :version "0.3.0", :description "Fast-ish XML serialization", :created 1715027124767}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "7.3.19", :description "", :created 1715029900665}
@@ -172,7 +161,6 @@
 {:jar_name "procedural", :group_name "com.xadecimal", :version "0.1.1", :description "Adds procedural programming features back to Clojure, such as for-loop, mutable local variables, function scoped variables, early return, etc.", :created 1715666534339}
 {:jar_name "lang-extensions", :group_name "org.clojars.t_yano", :version "1.0-SNAPSHOT", :description "utility functions for clojure language", :created 1715668717388}
 {:jar_name "babashka", :group_name "babashka", :version "1.3.191-SNAPSHOT", :description "babashka", :created 1715677523003}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.03.14-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1715678063698}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.5.3-SNAPSHOT", :description nil, :created 1715680395856}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.5.3", :description nil, :created 1715681979791}
 {:jar_name "manifold", :group_name "manifold", :version "0.4.3", :description "A compatibility layer for event-driven abstractions", :created 1715682271328}
@@ -254,3 +242,15 @@
 {:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "6.0", :description nil, :created 1715866249372}
 {:jar_name "kibit", :group_name "jonase", :version "0.1.11", :description "There's a function for that!", :created 1715867271953}
 {:jar_name "lein-kibit", :group_name "lein-kibit", :version "0.1.11", :description "kibit lein plugin", :created 1715867300372}
+{:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "6.0.1", :description nil, :created 1715868505171}
+{:jar_name "honeycomb", :group_name "com.flipkart.krystal", :version "6.0.1", :description nil, :created 1715868508951}
+{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "6.0.1", :description nil, :created 1715868509121}
+{:jar_name "krystal-common", :group_name "com.flipkart.krystal", :version "6.0.1", :description nil, :created 1715868509161}
+{:jar_name "vajram", :group_name "com.flipkart.krystal", :version "6.0.1", :description nil, :created 1715868510181}
+{:jar_name "krystex", :group_name "com.flipkart.krystal", :version "6.0.1", :description nil, :created 1715868510311}
+{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "6.0.1", :description nil, :created 1715868519391}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.03.14-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1715869937428}
+{:jar_name "trapperkeeper-filesystem-watcher", :group_name "puppetlabs", :version "1.2.4", :description "Trapperkeeper filesystem watcher service", :created 1715870157426}
+{:jar_name "cloregram", :group_name "io.github.algoflora", :version "0.12.1", :description "Clojure framework for making complex Telegram Bots/Applications", :created 1715870873830}
+{:jar_name "lein-template.cloregram", :group_name "io.github.algoflora", :version "0.4.1", :description "Template project of Telegram Bot Application using Cloregram framewwork", :created 1715871021228}
+{:jar_name "overarch", :group_name "org.soulspace.clj", :version "0.17.0-SNAPSHOT", :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :created 1715871300636}
