@@ -1,4 +1,3 @@
-{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-beta10", :description "Structured telemetry library for Clojure/Script", :created 1715153853417}
 {:jar_name "slf4j-telemere", :group_name "com.taoensso", :version "1.0.0-beta10", :description "Telemere backend/provider for SLF4J API v2", :created 1715153871107}
 {:jar_name "plugin-junit", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1715157550687}
 {:jar_name "virgil", :group_name "virgil", :version "0.3.0", :description "Recompile Java code without restarting the REPL", :created 1715170166856}
@@ -111,7 +110,6 @@
 {:jar_name "procedural", :group_name "com.xadecimal", :version "0.1.0", :description "Adds procedural programming features back to Clojure, such as for-loop, mutable local variables, function scoped variables, early return, etc.", :created 1715661569842}
 {:jar_name "procedural", :group_name "com.xadecimal", :version "0.1.1", :description "Adds procedural programming features back to Clojure, such as for-loop, mutable local variables, function scoped variables, early return, etc.", :created 1715666534339}
 {:jar_name "lang-extensions", :group_name "org.clojars.t_yano", :version "1.0-SNAPSHOT", :description "utility functions for clojure language", :created 1715668717388}
-{:jar_name "babashka", :group_name "babashka", :version "1.3.191-SNAPSHOT", :description "babashka", :created 1715677523003}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.5.3-SNAPSHOT", :description nil, :created 1715680395856}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.5.3", :description nil, :created 1715681979791}
 {:jar_name "manifold", :group_name "manifold", :version "0.4.3", :description "A compatibility layer for event-driven abstractions", :created 1715682271328}
@@ -220,7 +218,6 @@
 {:jar_name "dtlvnative-aarch64-linux-gnu", :group_name "org.clojars.huahaiy", :version "0.9.2", :description "Native dependency of JVM version of Datalevin database", :created 1715881581847}
 {:jar_name "dtlvnative-macos-amd64-shared", :group_name "org.clojars.huahaiy", :version "0.9.2", :description "Native dependency of JVM version of Datalevin database on MacOS Silicon", :created 1715881589637}
 {:jar_name "dtlvnative-x86_64-windows-gnu", :group_name "org.clojars.huahaiy", :version "0.9.2", :description "Native dependency of JVM library version of Datalevin database", :created 1715881618137}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.03.14-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1715883784559}
 {:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure", :created 1715888318145}
 {:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1715888330675}
 {:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1715888340135}
@@ -254,3 +251,6 @@
 {:jar_name "clj-otel-instrumentation-runtime-telemetry-java17", :group_name "com.github.steffan-westcott", :version "0.2.7-SNAPSHOT", :description "Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 17+", :created 1715897597373}
 {:jar_name "cljam", :group_name "cljam", :version "0.8.5-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1715904435299}
 {:jar_name "prism", :group_name "io.core0", :version "1.0.0-SNAPSHOT", :description "Opinionated library with client namespaces", :created 1715917517530}
+{:jar_name "fs", :group_name "babashka", :version "0.5.21", :description "Babashka file system utilities.", :created 1715938900194}
+{:jar_name "babashka", :group_name "babashka", :version "1.3.191-SNAPSHOT", :description "babashka", :created 1715939604488}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.03.14-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1715939740637}
