@@ -1,4 +1,3 @@
-{:jar_name "liberator.mixin.logging", :group_name "io.logicblocks", :version "0.1.0-RC16", :description "A logging mixin for liberator.", :created 1715612423171}
 {:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC16", :description "A JSON mixin for liberator.", :created 1715612432530}
 {:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC16", :description "An authorisation mixin for liberator.", :created 1715612441990}
 {:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC16", :description "A hypermedia mixin for liberator.", :created 1715612451080}
@@ -238,7 +237,6 @@
 {:jar_name "trapperkeeper", :group_name "puppetlabs", :version "3.3.2", :description "A framework for configuring, composing, and running Clojure services.", :created 1716332338072}
 {:jar_name "clj-parent", :group_name "puppetlabs", :version "5.6.18", :description "", :created 1716333331675}
 {:jar_name "clj-ardupilot-utils", :group_name "ardupilot", :version "0.1.2-SNAPSHOT", :description "A collection of utilities for use with ArduPilot or similair autopilots", :created 1716335167673}
-{:jar_name "cljam", :group_name "cljam", :version "0.8.5-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1716336597582}
 {:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure", :created 1716345621599}
 {:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1716345631089}
 {:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1716345639849}
@@ -254,3 +252,5 @@
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1716345728968}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Malli integration", :created 1716345737788}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1716345746578}
+{:jar_name "smile", :group_name "org.clojars.haifengl", :version "3.1.1", :description "Smile - Statistical Machine Intelligence and Learning Engine", :created 1716351242452}
+{:jar_name "cljam", :group_name "cljam", :version "0.8.5-SNAPSHOT", :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :created 1716352595693}
