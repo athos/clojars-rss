@@ -1,6 +1,3 @@
-{:jar_name "scheduler", :group_name "net.clojars.zhaoyul", :version "0.2.1-SNAPSHOT", :description "系统调度器", :created 1715845918629}
-{:jar_name "chart-utils", :group_name "org.clojars.smee", :version "1.2.3", :description "FIXME: write description", :created 1715855673594}
-{:jar_name "commons", :group_name "uncomplicate", :version "0.15.0", :description "Common Uncomplicate utilities.", :created 1715857801933}
 {:jar_name "fluokitten", :group_name "uncomplicate", :version "0.10.0", :description "Category theory concepts in Clojure - Functors, Applicatives, Monads, Monoids and more.", :created 1715857950142}
 {:jar_name "clojure-cpp", :group_name "org.uncomplicate", :version "0.3.0", :description "Clojure native interop through JavaCPP", :created 1715858111620}
 {:jar_name "clojurecl", :group_name "uncomplicate", :version "0.16.0", :description "ClojureCL is a Clojure library for parallel computations with OpenCL.", :created 1715858354028}
@@ -213,7 +210,6 @@
 {:jar_name "aws.lambda", :group_name "io.logicblocks", :version "0.0.1-RC5", :description "A library for building Clojure programs using AWS Lambda.", :created 1716466465746}
 {:jar_name "macaw", :group_name "io.github.metabase", :version "0.1.37", :description "A Clojure wrapper for JSqlParser", :created 1716469844237}
 {:jar_name "kmono", :group_name "com.kepler16", :version "3.0.3.0", :description "Clojure monorepo tools", :created 1716476452032}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.5.4-SNAPSHOT", :description nil, :created 1716476663070}
 {:jar_name "kit-postgres", :group_name "io.github.kit-clj", :version "1.0.7", :description nil, :created 1716479113690}
 {:jar_name "deps-template", :group_name "io.github.kit-clj", :version "0.1.62", :description nil, :created 1716479438377}
 {:jar_name "lein-template", :group_name "io.github.kit-clj", :version "0.1.62", :description nil, :created 1716479454447}
@@ -254,3 +250,7 @@
 {:jar_name "scheduler", :group_name "net.clojars.zhaoyul", :version "0.3.3-SNAPSHOT", :description "系统调度器", :created 1716535259170}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.05.24", :description "A linter for Clojure that sparks joy.", :created 1716538278520}
 {:jar_name "plugin-junit", :group_name "com.monkeyci", :version "0.1.0-SNAPSHOT", :description nil, :created 1716542655138}
+{:jar_name "app", :group_name "com.monkeyci", :version "0.5.4-SNAPSHOT", :description nil, :created 1716544925748}
+{:jar_name "lein-clj-kondo", :group_name "com.github.clj-kondo", :version "2024.05.24", :description "Lein plugin to run clj-kondo", :created 1716546020489}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.05.25-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1716546426145}
+{:jar_name "oth-client", :group_name "com.doccla", :version "0.6.2", :description "A clojure wrapper around the OTH API", :created 1716547718284}
