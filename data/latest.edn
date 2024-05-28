@@ -1,6 +1,3 @@
-{:jar_name "clay", :group_name "org.scicloj", :version "2-beta9", :description "Clay is a small Clojure tool for a dynamic workflow of data visualization and literate programming.", :created 1716064714393}
-{:jar_name "app-lib", :group_name "com.github.dgknght", :version "0.3.11", :description "Library of commonly used functions for web app development", :created 1716068356424}
-{:jar_name "electric-franken", :group_name "io.github.conjurernix", :version "0.0.6", :description "Thin Franken UI wrapper for Electric Clojure", :created 1716072246447}
 {:jar_name "config", :group_name "io.github.yuhrao", :version "2.1.1", :description nil, :created 1716087866009}
 {:jar_name "data-cloak", :group_name "io.github.yuhrao", :version "2.1.1", :description nil, :created 1716087874409}
 {:jar_name "logger", :group_name "io.github.yuhrao", :version "2.1.1", :description nil, :created 1716087883819}
@@ -254,3 +251,6 @@
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1716931843439}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Malli integration", :created 1716931856189}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1716931867569}
+{:jar_name "component.jdbc.data-source.postgres", :group_name "io.logicblocks", :version "0.1.3-RC7", :description "A component providing a PostgreSQL JDBC data source.", :created 1716934149800}
+{:jar_name "component.jdbc.data-source.hikari", :group_name "io.logicblocks", :version "0.1.3-RC8", :description "A component providing a HikariCP JDBC data source.", :created 1716934253599}
+{:jar_name "component.migrator.flyway", :group_name "io.logicblocks", :version "0.1.2-RC6", :description "A component to run flyway migrations on system start.", :created 1716936346681}
