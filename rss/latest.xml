@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 4 Jun 2024 14:01:18 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 4 Jun 2024 15:01:14 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-hugsql/versions/0.1.13-SNAPSHOT</guid>
+    <title>[com.github.igrishaev/pg2-hugsql &quot;0.1.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-hugsql/versions/0.1.13-SNAPSHOT</link>
+    <description>HugSQL wrapper for PG2</description>
+    <pubDate>Tue, 4 Jun 2024 14:33:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-migration/versions/0.1.13-SNAPSHOT</guid>
+    <title>[com.github.igrishaev/pg2-migration &quot;0.1.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-migration/versions/0.1.13-SNAPSHOT</link>
+    <description>Migration utilities for PG2</description>
+    <pubDate>Tue, 4 Jun 2024 14:32:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-component/versions/0.1.13-SNAPSHOT</guid>
+    <title>[com.github.igrishaev/pg2-component &quot;0.1.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-component/versions/0.1.13-SNAPSHOT</link>
+    <description>Component wrapper for PG2</description>
+    <pubDate>Tue, 4 Jun 2024 14:32:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-honey/versions/0.1.13-SNAPSHOT</guid>
+    <title>[com.github.igrishaev/pg2-honey &quot;0.1.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-honey/versions/0.1.13-SNAPSHOT</link>
+    <description>HoneySQL wrapper for PG2</description>
+    <pubDate>Tue, 4 Jun 2024 14:32:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-core/versions/0.1.13-SNAPSHOT</guid>
+    <title>[com.github.igrishaev/pg2-core &quot;0.1.13-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-core/versions/0.1.13-SNAPSHOT</link>
+    <description>Postgres client in pure Java (no JDBC)</description>
+    <pubDate>Tue, 4 Jun 2024 14:32:15 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.factorhouse/slipway-jetty11/versions/1.1.14</guid>
     <title>[io.factorhouse/slipway-jetty11 &quot;1.1.14&quot;]</title>
@@ -1761,41 +1796,6 @@
     <link>https://clojars.org/com.clojure-goes-fast/clj-async-profiler/versions/1.2.2</link>
     <description>Embedded high-precision Clojure profiler (based on async-profiler)</description>
     <pubDate>Tue, 28 May 2024 13:13:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojure.clr/tools.gitlibs/versions/2.5.198</guid>
-    <title>[org.clojure.clr/tools.gitlibs &quot;2.5.198&quot;]</title>
-    <link>https://clojars.org/org.clojure.clr/tools.gitlibs/versions/2.5.198</link>
-    <description>Port of clojure.org/tools.gitlibs to ClojureCLR</description>
-    <pubDate>Tue, 28 May 2024 13:05:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.logicblocks/component.jdbc.data-source.postgres/versions/0.1.3-RC5</guid>
-    <title>[io.logicblocks/component.jdbc.data-source.postgres &quot;0.1.3-RC5&quot;]</title>
-    <link>https://clojars.org/io.logicblocks/component.jdbc.data-source.postgres/versions/0.1.3-RC5</link>
-    <description>A component providing a PostgreSQL JDBC data source.</description>
-    <pubDate>Tue, 28 May 2024 12:05:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.logicblocks/component.jdbc.data-source.hikari/versions/0.1.3-RC4</guid>
-    <title>[io.logicblocks/component.jdbc.data-source.hikari &quot;0.1.3-RC4&quot;]</title>
-    <link>https://clojars.org/io.logicblocks/component.jdbc.data-source.hikari/versions/0.1.3-RC4</link>
-    <description>A component providing a HikariCP JDBC data source.</description>
-    <pubDate>Tue, 28 May 2024 11:55:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.doccla/oth-client/versions/0.7.0</guid>
-    <title>[com.doccla/oth-client &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/com.doccla/oth-client/versions/0.7.0</link>
-    <description>A clojure wrapper around the OTH API</description>
-    <pubDate>Tue, 28 May 2024 11:44:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tortue/spy/versions/2.15.0</guid>
-    <title>[tortue/spy &quot;2.15.0&quot;]</title>
-    <link>https://clojars.org/tortue/spy/versions/2.15.0</link>
-    <description>Spy - a Clojure and ClojureScript library for stubs, spies and mocks</description>
-    <pubDate>Tue, 28 May 2024 09:49:37 +0000</pubDate>
   </item>
   </channel>
 </rss>
