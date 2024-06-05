@@ -1,6 +1,3 @@
-{:jar_name "component.jdbc.data-source.postgres", :group_name "io.logicblocks", :version "0.1.3-RC6", :description "A component providing a PostgreSQL JDBC data source.", :created 1716925912688}
-{:jar_name "component.jdbc.data-source.hikari", :group_name "io.logicblocks", :version "0.1.3-RC7", :description "A component providing a HikariCP JDBC data source.", :created 1716926021957}
-{:jar_name "clj-parent", :group_name "puppetlabs", :version "7.3.27", :description "", :created 1716928727205}
 {:jar_name "pedestal.common", :group_name "io.pedestal", :version "0.7.0-beta-3", :description nil, :created 1716931601081}
 {:jar_name "pedestal.telemetry", :group_name "io.pedestal", :version "0.7.0-beta-3", :description nil, :created 1716931619451}
 {:jar_name "pedestal.log", :group_name "io.pedestal", :version "0.7.0-beta-3", :description nil, :created 1716931636240}
@@ -221,11 +218,6 @@
 {:jar_name "slipway-jetty10", :group_name "io.factorhouse", :version "1.1.14", :description "A Clojure Companion for Jetty", :created 1717501167116}
 {:jar_name "slipway-jetty11", :group_name "io.factorhouse", :version "1.1.14", :description "A Clojure Companion for Jetty", :created 1717501231426}
 {:jar_name "hirundo", :group_name "com.s-exp", :version "0.1.37", :description nil, :created 1717514205858}
-{:jar_name "pg2-core", :group_name "com.github.igrishaev", :version "0.1.13-SNAPSHOT", :description "Postgres client in pure Java (no JDBC)", :created 1717515102152}
-{:jar_name "pg2-honey", :group_name "com.github.igrishaev", :version "0.1.13-SNAPSHOT", :description "HoneySQL wrapper for PG2", :created 1717515113271}
-{:jar_name "pg2-component", :group_name "com.github.igrishaev", :version "0.1.13-SNAPSHOT", :description "Component wrapper for PG2", :created 1717515128241}
-{:jar_name "pg2-migration", :group_name "com.github.igrishaev", :version "0.1.13-SNAPSHOT", :description "Migration utilities for PG2", :created 1717515148851}
-{:jar_name "pg2-hugsql", :group_name "com.github.igrishaev", :version "0.1.13-SNAPSHOT", :description "HugSQL wrapper for PG2", :created 1717515160201}
 {:jar_name "quip", :group_name "quip", :version "2.0.7", :description "A 2D game library based on Quil", :created 1717527643786}
 {:jar_name "lein-template.quip", :group_name "com.github.kimbsy", :version "1.0.6", :description "A Leiningen template for the quip game engine", :created 1717529876621}
 {:jar_name "origami", :group_name "origami", :version "4.9.0-6", :description "OpenCV4 Wrapper", :created 1717546064825}
@@ -254,3 +246,11 @@
 {:jar_name "google-maps-clj", :group_name "com.adgoji", :version "0.12.8", :description nil, :created 1717583594759}
 {:jar_name "google-doubleclick-bid-manager-clj", :group_name "com.adgoji", :version "0.12.8", :description nil, :created 1717583598959}
 {:jar_name "google-displayvideo-clj", :group_name "com.adgoji", :version "0.12.8", :description nil, :created 1717583604129}
+{:jar_name "ok-http", :group_name "com.kepler16", :version "1.5.0", :description "Clojure wrapper for https://github.com/square/okhttp", :created 1717589201307}
+{:jar_name "paco", :group_name "com.fbeyer", :version "0.2.100", :description "Parser combinators for Clojure(Script)", :created 1717589618193}
+{:jar_name "ring.logging", :group_name "io.logicblocks", :version "0.0.1-RC1", :description "Logging middleware for ring handlers using cartus for logging.", :created 1717591063165}
+{:jar_name "pg2-core", :group_name "com.github.igrishaev", :version "0.1.13-SNAPSHOT", :description "Postgres client in pure Java (no JDBC)", :created 1717592150391}
+{:jar_name "pg2-honey", :group_name "com.github.igrishaev", :version "0.1.13-SNAPSHOT", :description "HoneySQL wrapper for PG2", :created 1717592162041}
+{:jar_name "pg2-component", :group_name "com.github.igrishaev", :version "0.1.13-SNAPSHOT", :description "Component wrapper for PG2", :created 1717592172751}
+{:jar_name "pg2-migration", :group_name "com.github.igrishaev", :version "0.1.13-SNAPSHOT", :description "Migration utilities for PG2", :created 1717592187751}
+{:jar_name "pg2-hugsql", :group_name "com.github.igrishaev", :version "0.1.13-SNAPSHOT", :description "HugSQL wrapper for PG2", :created 1717592198841}
