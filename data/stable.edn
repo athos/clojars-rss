@@ -1,8 +1,3 @@
-{:jar_name "ring-anti-forgery", :group_name "com.janetacarr", :version "1.4.0", :description "Ring middleware to prevent CSRF attacks", :created 1716855792197}
-{:jar_name "fully-satisfies", :group_name "io.github.frenchy64", :version "1.11.2", :description "A variant of clojure.core/satisfies? that checks all methods are implemented.", :created 1716865054067}
-{:jar_name "edd-core", :group_name "com.alpha-prosoft", :version "1.742", :description nil, :created 1716880236857}
-{:jar_name "edd-core-aws", :group_name "com.alpha-prosoft", :version "1.742", :description nil, :created 1716880246196}
-{:jar_name "edd-core-schema", :group_name "com.alpha-prosoft", :version "1.742", :description nil, :created 1716880255626}
 {:jar_name "examine", :group_name "examine", :version "1.3.3", :description "Validating Clojure data", :created 1716881319456}
 {:jar_name "ragtacts", :group_name "com.constacts", :version "0.3.3", :description "About RAG(Retrieval-Augmented Generation) for Evolving Data", :created 1716883828070}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.5.4", :description nil, :created 1716887615277}
@@ -254,3 +249,8 @@
 {:jar_name "dtlvnative-macos-aarch64-shared", :group_name "org.clojars.huahaiy", :version "0.9.4", :description "Native dependency of embedded library version of Datalevin on Apple Silicon", :created 1717649912023}
 {:jar_name "dtlvnative-macos-aarch64", :group_name "org.clojars.huahaiy", :version "0.9.4", :description "Native dependency of Datalevin database", :created 1717649919473}
 {:jar_name "dtlvnative-linux-amd64", :group_name "org.clojars.huahaiy", :version "0.9.4", :description "Native dependency of Datalevin database", :created 1717650065582}
+{:jar_name "dtlvnative-linux-amd64-shared", :group_name "org.clojars.huahaiy", :version "0.9.4", :description "Native dependency of JVM version of Datalevin database", :created 1717650077452}
+{:jar_name "dtlvnative-aarch64-linux-gnu", :group_name "org.clojars.huahaiy", :version "0.9.4", :description "Native dependency of JVM version of Datalevin database", :created 1717650089311}
+{:jar_name "dtlvnative-x86_64-windows-gnu", :group_name "org.clojars.huahaiy", :version "0.9.4", :description "Native dependency of JVM library version of Datalevin database", :created 1717650127851}
+{:jar_name "dtlvnative-macos-amd64", :group_name "org.clojars.huahaiy", :version "0.9.4", :description "Native dependency of Datalevin database", :created 1717650152681}
+{:jar_name "dtlvnative-macos-amd64-shared", :group_name "org.clojars.huahaiy", :version "0.9.4", :description "Native dependency of JVM version of Datalevin database on MacOS Silicon", :created 1717650168401}
