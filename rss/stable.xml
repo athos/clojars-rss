@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 6 Jun 2024 10:01:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 6 Jun 2024 11:01:20 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.test/versions/0.1.19-RC5</guid>
+    <title>[io.logicblocks/cartus.test &quot;0.1.19-RC5&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.test/versions/0.1.19-RC5</link>
+    <description>A test backend for cartus.</description>
+    <pubDate>Thu, 6 Jun 2024 10:42:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.redaction/versions/0.1.19-RC5</guid>
+    <title>[io.logicblocks/cartus.redaction &quot;0.1.19-RC5&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.redaction/versions/0.1.19-RC5</link>
+    <description>A redaction transformer for cartus.</description>
+    <pubDate>Thu, 6 Jun 2024 10:42:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.null/versions/0.1.19-RC5</guid>
+    <title>[io.logicblocks/cartus.null &quot;0.1.19-RC5&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.null/versions/0.1.19-RC5</link>
+    <description>A null backend for cartus.</description>
+    <pubDate>Thu, 6 Jun 2024 10:42:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.cambium/versions/0.1.19-RC5</guid>
+    <title>[io.logicblocks/cartus.cambium &quot;0.1.19-RC5&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.cambium/versions/0.1.19-RC5</link>
+    <description>A cambium backend for cartus.</description>
+    <pubDate>Thu, 6 Jun 2024 10:42:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.core/versions/0.1.19-RC5</guid>
+    <title>[io.logicblocks/cartus.core &quot;0.1.19-RC5&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.core/versions/0.1.19-RC5</link>
+    <description>A structured logging abstraction with multiple backends.</description>
+    <pubDate>Thu, 6 Jun 2024 10:42:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/ring.logging/versions/0.0.1-RC3</guid>
+    <title>[io.logicblocks/ring.logging &quot;0.0.1-RC3&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/ring.logging/versions/0.0.1-RC3</link>
+    <description>Logging middleware for ring handlers using cartus for logging.</description>
+    <pubDate>Thu, 6 Jun 2024 10:26:59 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.kepler16/ok-http/versions/1.7.0</guid>
     <title>[com.kepler16/ok-http &quot;1.7.0&quot;]</title>
@@ -1754,48 +1796,6 @@
     <link>https://clojars.org/com.taoensso/carmine/versions/3.4.0</link>
     <description>Redis client + message queue for Clojure</description>
     <pubDate>Tue, 28 May 2024 15:05:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojure.clr/tools.nrepl/versions/0.1.0-alpha2</guid>
-    <title>[org.clojure.clr/tools.nrepl &quot;0.1.0-alpha2&quot;]</title>
-    <link>https://clojars.org/org.clojure.clr/tools.nrepl/versions/0.1.0-alpha2</link>
-    <description>Port of https://github.com/babashka/babashka.nrepl to ClojureCLR</description>
-    <pubDate>Tue, 28 May 2024 15:02:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/quip/versions/2.0.6</guid>
-    <title>[quip &quot;2.0.6&quot;]</title>
-    <link>https://clojars.org/quip/versions/2.0.6</link>
-    <description>A 2D game library based on Quil</description>
-    <pubDate>Tue, 28 May 2024 14:30:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.metabase/macaw/versions/0.1.42</guid>
-    <title>[io.github.metabase/macaw &quot;0.1.42&quot;]</title>
-    <link>https://clojars.org/io.github.metabase/macaw/versions/0.1.42</link>
-    <description>A Clojure wrapper for JSqlParser</description>
-    <pubDate>Tue, 28 May 2024 14:12:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.logicblocks/component.jdbc.data-source.hikari/versions/0.1.3-RC5</guid>
-    <title>[io.logicblocks/component.jdbc.data-source.hikari &quot;0.1.3-RC5&quot;]</title>
-    <link>https://clojars.org/io.logicblocks/component.jdbc.data-source.hikari/versions/0.1.3-RC5</link>
-    <description>A component providing a HikariCP JDBC data source.</description>
-    <pubDate>Tue, 28 May 2024 13:58:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.clojure-goes-fast/clj-async-profiler/versions/1.2.2</guid>
-    <title>[com.clojure-goes-fast/clj-async-profiler &quot;1.2.2&quot;]</title>
-    <link>https://clojars.org/com.clojure-goes-fast/clj-async-profiler/versions/1.2.2</link>
-    <description>Embedded high-precision Clojure profiler (based on async-profiler)</description>
-    <pubDate>Tue, 28 May 2024 13:13:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojure.clr/tools.gitlibs/versions/2.5.198</guid>
-    <title>[org.clojure.clr/tools.gitlibs &quot;2.5.198&quot;]</title>
-    <link>https://clojars.org/org.clojure.clr/tools.gitlibs/versions/2.5.198</link>
-    <description>Port of clojure.org/tools.gitlibs to ClojureCLR</description>
-    <pubDate>Tue, 28 May 2024 13:05:59 +0000</pubDate>
   </item>
   </channel>
 </rss>

@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 6 Jun 2024 10:01:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 6 Jun 2024 11:01:20 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.test/versions/0.1.19-RC5</guid>
+    <title>[io.logicblocks/cartus.test &quot;0.1.19-RC5&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.test/versions/0.1.19-RC5</link>
+    <description>A test backend for cartus.</description>
+    <pubDate>Thu, 6 Jun 2024 10:42:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.redaction/versions/0.1.19-RC5</guid>
+    <title>[io.logicblocks/cartus.redaction &quot;0.1.19-RC5&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.redaction/versions/0.1.19-RC5</link>
+    <description>A redaction transformer for cartus.</description>
+    <pubDate>Thu, 6 Jun 2024 10:42:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.null/versions/0.1.19-RC5</guid>
+    <title>[io.logicblocks/cartus.null &quot;0.1.19-RC5&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.null/versions/0.1.19-RC5</link>
+    <description>A null backend for cartus.</description>
+    <pubDate>Thu, 6 Jun 2024 10:42:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.cambium/versions/0.1.19-RC5</guid>
+    <title>[io.logicblocks/cartus.cambium &quot;0.1.19-RC5&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.cambium/versions/0.1.19-RC5</link>
+    <description>A cambium backend for cartus.</description>
+    <pubDate>Thu, 6 Jun 2024 10:42:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.core/versions/0.1.19-RC5</guid>
+    <title>[io.logicblocks/cartus.core &quot;0.1.19-RC5&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.core/versions/0.1.19-RC5</link>
+    <description>A structured logging abstraction with multiple backends.</description>
+    <pubDate>Thu, 6 Jun 2024 10:42:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/ring.logging/versions/0.0.1-RC3</guid>
+    <title>[io.logicblocks/ring.logging &quot;0.0.1-RC3&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/ring.logging/versions/0.0.1-RC3</link>
+    <description>Logging middleware for ring handlers using cartus for logging.</description>
+    <pubDate>Thu, 6 Jun 2024 10:26:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/babashka/versions/1.3.191-SNAPSHOT</guid>
+    <title>[babashka &quot;1.3.191-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/babashka/versions/1.3.191-SNAPSHOT</link>
+    <description>babashka</description>
+    <pubDate>Thu, 6 Jun 2024 10:25:27 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.monkeyprojects/shadow-junit-xml/versions/0.1.0-SNAPSHOT</guid>
     <title>[com.monkeyprojects/shadow-junit-xml &quot;0.1.0-SNAPSHOT&quot;]</title>
@@ -1672,13 +1721,6 @@
     <pubDate>Thu, 30 May 2024 13:50:27 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/babashka/versions/1.3.191-SNAPSHOT</guid>
-    <title>[babashka &quot;1.3.191-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/babashka/versions/1.3.191-SNAPSHOT</link>
-    <description>babashka</description>
-    <pubDate>Thu, 30 May 2024 13:20:43 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/com.lambdaisland/cli/versions/0.12.53</guid>
     <title>[com.lambdaisland/cli &quot;0.12.53&quot;]</title>
     <link>https://clojars.org/com.lambdaisland/cli/versions/0.12.53</link>
@@ -1754,48 +1796,6 @@
     <link>https://clojars.org/com.alpha-prosoft/edd-core-web/versions/1.335</link>
     <description></description>
     <pubDate>Thu, 30 May 2024 11:48:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/nrepl/versions/1.2.0-beta2</guid>
-    <title>[nrepl &quot;1.2.0-beta2&quot;]</title>
-    <link>https://clojars.org/nrepl/versions/1.2.0-beta2</link>
-    <description>nREPL is a Clojure *n*etwork REPL.</description>
-    <pubDate>Thu, 30 May 2024 11:16:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.logicblocks/component.support/versions/0.1.0-RC2</guid>
-    <title>[io.logicblocks/component.support &quot;0.1.0-RC2&quot;]</title>
-    <link>https://clojars.org/io.logicblocks/component.support/versions/0.1.0-RC2</link>
-    <description>Support functions for other logicblocks components.</description>
-    <pubDate>Thu, 30 May 2024 10:59:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/clj-kondo/versions/2024.05.25-SNAPSHOT</guid>
-    <title>[clj-kondo &quot;2024.05.25-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/clj-kondo/versions/2024.05.25-SNAPSHOT</link>
-    <description>A linter for Clojure that sparks joy.</description>
-    <pubDate>Thu, 30 May 2024 09:35:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.gethop/encryption/versions/0.2.4</guid>
-    <title>[dev.gethop/encryption &quot;0.2.4&quot;]</title>
-    <link>https://clojars.org/dev.gethop/encryption/versions/0.2.4</link>
-    <description>Encryption/decryption library</description>
-    <pubDate>Thu, 30 May 2024 09:07:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.constacts/ragtacts/versions/0.3.6</guid>
-    <title>[com.constacts/ragtacts &quot;0.3.6&quot;]</title>
-    <link>https://clojars.org/com.constacts/ragtacts/versions/0.3.6</link>
-    <description>About RAG(Retrieval-Augmented Generation) for Evolving Data</description>
-    <pubDate>Thu, 30 May 2024 07:51:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.constacts/milvus-clj/versions/0.2.3</guid>
-    <title>[com.constacts/milvus-clj &quot;0.2.3&quot;]</title>
-    <link>https://clojars.org/com.constacts/milvus-clj/versions/0.2.3</link>
-    <description>Clojure library for Milvus</description>
-    <pubDate>Thu, 30 May 2024 07:46:59 +0000</pubDate>
   </item>
   </channel>
 </rss>
