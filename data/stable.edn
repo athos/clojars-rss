@@ -1,8 +1,3 @@
-{:jar_name "pedestal.error", :group_name "io.pedestal", :version "0.7.0-beta-3", :description nil, :created 1716931667820}
-{:jar_name "pedestal.route", :group_name "io.pedestal", :version "0.7.0-beta-3", :description nil, :created 1716931683780}
-{:jar_name "pedestal.service", :group_name "io.pedestal", :version "0.7.0-beta-3", :description nil, :created 1716931700120}
-{:jar_name "pedestal.jetty", :group_name "io.pedestal", :version "0.7.0-beta-3", :description nil, :created 1716931715610}
-{:jar_name "pedestal.service-tools", :group_name "io.pedestal", :version "0.7.0-beta-3", :description nil, :created 1716931731340}
 {:jar_name "pedestal.embedded", :group_name "io.pedestal", :version "0.7.0-beta-3", :description nil, :created 1716931820319}
 {:jar_name "pedestal.service-template", :group_name "io.pedestal", :version "0.7.0-beta-3", :description nil, :created 1716931843099}
 {:jar_name "component.jdbc.data-source.postgres", :group_name "io.logicblocks", :version "0.1.3-RC7", :description "A component providing a PostgreSQL JDBC data source.", :created 1716934149800}
@@ -254,3 +249,8 @@
 {:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.19-RC7", :description "A null backend for cartus.", :created 1717684699050}
 {:jar_name "cartus.redaction", :group_name "io.logicblocks", :version "0.1.19-RC7", :description "A redaction transformer for cartus.", :created 1717684706480}
 {:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.19-RC7", :description "A test backend for cartus.", :created 1717684714340}
+{:jar_name "macaw", :group_name "io.github.metabase", :version "0.1.47", :description "A Clojure wrapper for JSqlParser", :created 1717687076091}
+{:jar_name "liberator.resource.discovery", :group_name "io.logicblocks", :version "0.2.0-RC3", :description "A discovery resource for liberator.", :created 1717689163764}
+{:jar_name "liberator.resource.ping", :group_name "io.logicblocks", :version "0.1.3-RC8", :description "A ping resource for liberator.", :created 1717689192524}
+{:jar_name "liberator.resource.health", :group_name "io.logicblocks", :version "0.1.3-RC10", :description "A health resource for liberator.", :created 1717689217914}
+{:jar_name "liberator.resource.events", :group_name "io.logicblocks", :version "0.1.5-RC11", :description "Event related resources for liberator.", :created 1717689249804}
