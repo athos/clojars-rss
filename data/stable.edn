@@ -1,4 +1,3 @@
-{:jar_name "component.jdbc.data-source.postgres", :group_name "io.logicblocks", :version "0.1.3-RC8", :description "A component providing a PostgreSQL JDBC data source.", :created 1717070742341}
 {:jar_name "buddy.graalvm", :group_name "io.logicblocks", :version "0.1.0-RC1", :description "Support functions for other logicblocks components.", :created 1717070842851}
 {:jar_name "component.jdbc.data-source.hikari", :group_name "io.logicblocks", :version "0.1.3-RC9", :description "A component providing a HikariCP JDBC data source.", :created 1717070861369}
 {:jar_name "component.migrator.flyway", :group_name "io.logicblocks", :version "0.1.2-RC11", :description "A component to run flyway migrations on system start.", :created 1717070987757}
@@ -254,3 +253,4 @@
 {:jar_name "pedestal.service-tools", :group_name "io.pedestal", :version "0.7.0-rc-2", :description nil, :created 1717786291251}
 {:jar_name "pedestal.embedded", :group_name "io.pedestal", :version "0.7.0-rc-2", :description nil, :created 1717786303911}
 {:jar_name "pedestal.service-template", :group_name "io.pedestal", :version "0.7.0-rc-2", :description nil, :created 1717786314821}
+{:jar_name "clj-camel", :group_name "com.dzer6", :version "3.1.0", :description "Clojure wrapper for Apache Camel", :created 1717787299913}
