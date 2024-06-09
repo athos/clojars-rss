@@ -1,27 +1,3 @@
-{:jar_name "scheduler", :group_name "net.clojars.zhaoyul", :version "0.3.7-SNAPSHOT", :description "系统调度器", :created 1717410110427}
-{:jar_name "component.jdbc.data-source.hikari", :group_name "io.logicblocks", :version "0.1.3-RC11", :description "A component providing a HikariCP JDBC data source.", :created 1717412012480}
-{:jar_name "component.jdbc.data-source.postgres", :group_name "io.logicblocks", :version "0.1.3-RC11", :description "A component providing a PostgreSQL JDBC data source.", :created 1717413079631}
-{:jar_name "component.migrator.flyway", :group_name "io.logicblocks", :version "0.1.2-RC13", :description "A component to run flyway migrations on system start.", :created 1717413098921}
-{:jar_name "jonotin", :group_name "jonotin", :version "0.4.1", :description "Google Pub/Sub Java SDK wrapper", :created 1717417722292}
-{:jar_name "kmono", :group_name "com.kepler16", :version "3.0.3.2", :description "Clojure monorepo tools", :created 1717421304339}
-{:jar_name "json-schema", :group_name "luposlip", :version "0.4.5", :description "Clojure library for JSON Schema validation and generation - Draft-07 compatible", :created 1717422981105}
-{:jar_name "pinyin", :group_name "org.clojars.dumuji", :version "1.1.1", :description "汉字转拼音首字母的Clojure(Script)库", :created 1717426642305}
-{:jar_name "edd-core-web", :group_name "com.alpha-prosoft", :version "1.337", :description nil, :created 1717436798967}
-{:jar_name "edd-web-frame", :group_name "com.alpha-prosoft", :version "1.337", :description nil, :created 1717436808637}
-{:jar_name "edd-web-widgets", :group_name "com.alpha-prosoft", :version "1.337", :description nil, :created 1717436818057}
-{:jar_name "jruby-utils", :group_name "puppetlabs", :version "5.1.4", :description "A library for working with JRuby", :created 1717438833282}
-{:jar_name "lein-monolith", :group_name "lein-monolith", :version "1.10.0", :description "Leiningen plugin for managing subrojects within a monorepo.", :created 1717439510227}
-{:jar_name "useful", :group_name "com.timezynk", :version "4.5.4", :description "Useful functions", :created 1717439960494}
-{:jar_name "cljaws", :group_name "timotheosh", :version "0.4.2-SNAPSHOT", :description "Convenience functions for interacting with AWS API's from closh", :created 1717442724385}
-{:jar_name "spec.validate", :group_name "io.logicblocks", :version "0.2.0-RC20", :description "A clojure.spec based validation library.", :created 1717444583722}
-{:jar_name "spec.definition.core", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "A support library for clojure.spec definitions for common data types.", :created 1717446392655}
-{:jar_name "spec.definition.string", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "clojure.spec definitions for string data types.", :created 1717446408690}
-{:jar_name "spec.definition.address", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "clojure.spec definitions for address data types.", :created 1717446424202}
-{:jar_name "spec.definition.bool", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "clojure.spec definitions for the boolean data type.", :created 1717446435987}
-{:jar_name "spec.definition.collection", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "clojure.spec definitions for collection data types.", :created 1717446446885}
-{:jar_name "spec.definition.currency", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "clojure.spec definitions for currency data types.", :created 1717446457622}
-{:jar_name "spec.definition.email", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "clojure.spec definitions for email data types.", :created 1717446471980}
-{:jar_name "spec.definition.number", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "clojure.spec definitions for number data types.", :created 1717446487936}
 {:jar_name "spec.definition.phone", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "Utility functions for telephony data types.", :created 1717446503908}
 {:jar_name "spec.definition.time", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "clojure.spec definitions for time data types.", :created 1717446518933}
 {:jar_name "spec.definition.uri", :group_name "io.logicblocks", :version "0.0.1-RC2", :description "clojure.spec definitions for URI data types.", :created 1717446534141}
@@ -254,3 +230,27 @@
 {:jar_name "datatype.uri", :group_name "io.logicblocks", :version "0.0.1-RC9", :description "Utility functions for URI data types.", :created 1717943572470}
 {:jar_name "datatype.uuid", :group_name "io.logicblocks", :version "0.0.1-RC9", :description "Utility functions for UUID data types.", :created 1717943580380}
 {:jar_name "datatype", :group_name "io.logicblocks", :version "0.0.1-RC9", :description "Aggregate project for all datatype modules.", :created 1717943591211}
+{:jar_name "datatype.core", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "A support library for defining utility functions for common data types.", :created 1717946203972}
+{:jar_name "datatype.testing", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for the testing other data type libraries.", :created 1717946211252}
+{:jar_name "datatype.string", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for string data types.", :created 1717946219492}
+{:jar_name "datatype.address", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for address data types.", :created 1717946227482}
+{:jar_name "datatype.bool", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for the boolean data type.", :created 1717946235013}
+{:jar_name "datatype.collection", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for collection data types.", :created 1717946242373}
+{:jar_name "datatype.currency", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for currency data types.", :created 1717946249843}
+{:jar_name "datatype.domain", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for domain data types.", :created 1717946257353}
+{:jar_name "datatype.email", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for email data types.", :created 1717946265453}
+{:jar_name "datatype.network", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for network data types.", :created 1717946272853}
+{:jar_name "datatype.number", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for number data types.", :created 1717946280363}
+{:jar_name "datatype.phone", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for telephony data types.", :created 1717946287833}
+{:jar_name "datatype.time", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for time data types.", :created 1717946295354}
+{:jar_name "datatype.uri", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for URI data types.", :created 1717946303304}
+{:jar_name "datatype.uuid", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for UUID data types.", :created 1717946310884}
+{:jar_name "datatype", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Aggregate project for all datatype modules.", :created 1717946321694}
+{:jar_name "spec.definition.core", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "A support library for clojure.spec definitions for common data types.", :created 1717947343190}
+{:jar_name "spec.definition.string", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "clojure.spec definitions for string data types.", :created 1717947351200}
+{:jar_name "spec.definition.address", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "clojure.spec definitions for address data types.", :created 1717947358841}
+{:jar_name "spec.definition.bool", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "clojure.spec definitions for the boolean data type.", :created 1717947366501}
+{:jar_name "spec.definition.collection", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "clojure.spec definitions for collection data types.", :created 1717947374031}
+{:jar_name "spec.definition.currency", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "clojure.spec definitions for currency data types.", :created 1717947381611}
+{:jar_name "spec.definition.email", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "clojure.spec definitions for email data types.", :created 1717947389241}
+{:jar_name "spec.definition.number", :group_name "io.logicblocks", :version "0.0.1-RC3", :description "clojure.spec definitions for number data types.", :created 1717947396691}
