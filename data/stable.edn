@@ -1,8 +1,3 @@
-{:jar_name "macaw", :group_name "io.github.metabase", :version "0.1.44", :description "A Clojure wrapper for JSqlParser", :created 1717083161067}
-{:jar_name "commons", :group_name "io.bloomventures", :version "0.14.7", :description "kitchen-sink of micro-libs commonly used by bloom", :created 1717100910326}
-{:jar_name "selmer", :group_name "selmer", :version "1.12.60", :description "Django style templates for Clojure", :created 1717106256688}
-{:jar_name "selmer", :group_name "selmer", :version "1.12.61", :description "Django style templates for Clojure", :created 1717107185240}
-{:jar_name "lang-extensions", :group_name "org.clojars.t_yano", :version "0.1.0", :description "utility functions for clojure language", :created 1717123580374}
 {:jar_name "ragtacts", :group_name "com.constacts", :version "0.3.7", :description "About RAG(Retrieval-Augmented Generation) for Evolving Data", :created 1717128515962}
 {:jar_name "liberator.mixin.core", :group_name "io.logicblocks", :version "0.1.0-RC19", :description "Functions for defining composable liberator mixins.", :created 1717143594726}
 {:jar_name "liberator.mixin.context", :group_name "io.logicblocks", :version "0.1.0-RC19", :description "A context management mixin for liberator.", :created 1717143609275}
@@ -254,3 +249,8 @@
 {:jar_name "iort", :group_name "com.eldrix", :version "0.1.51", :description "A 'Swiss Army knife' (library, command line tools and microservice) for the OMOP CDM (Common Data Model).", :created 1717921266899}
 {:jar_name "lasertag", :group_name "io.github.paintparty", :version "0.5.0", :description "Clojure(Script) utility for discerning types of values.", :created 1717923583069}
 {:jar_name "iort", :group_name "com.eldrix", :version "0.1.52", :description "A 'Swiss Army knife' (library, command line tools and microservice) for the OMOP CDM (Common Data Model).", :created 1717928694241}
+{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.19-RC8", :description "A structured logging abstraction with multiple backends.", :created 1717932930812}
+{:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.19-RC8", :description "A cambium backend for cartus.", :created 1717932939422}
+{:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.19-RC8", :description "A null backend for cartus.", :created 1717932947222}
+{:jar_name "cartus.redaction", :group_name "io.logicblocks", :version "0.1.19-RC8", :description "A redaction transformer for cartus.", :created 1717932954921}
+{:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.19-RC8", :description "A test backend for cartus.", :created 1717932962581}
