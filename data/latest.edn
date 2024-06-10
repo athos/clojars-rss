@@ -1,9 +1,3 @@
-{:jar_name "origami", :group_name "origami", :version "4.9.0-6", :description "OpenCV4 Wrapper", :created 1717546064825}
-{:jar_name "rq", :group_name "com.moclojer", :version "0.1.1", :description "RQ (Redis Queue) is a simple Clojure package for queueing jobs and processing them in the background with workers. It is backed by Redis and it is designed to have a low barrier to entry", :created 1717552622044}
-{:jar_name "components", :group_name "com.moclojer", :version "0.0.3", :description "The base components we our Web Services at moclojer.", :created 1717553340118}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.5.4-SNAPSHOT", :description nil, :created 1717571857814}
-{:jar_name "common-clj", :group_name "net.clojars.macielti", :version "25.50.48", :description "Just common Clojure code that I use across projects", :created 1717576868933}
-{:jar_name "paco", :group_name "com.fbeyer", :version "0.2.97", :description "Parser combinators for Clojure(Script)", :created 1717577649597}
 {:jar_name "aleph", :group_name "aleph", :version "0.8.0", :description "A framework for asynchronous communication", :created 1717579893769}
 {:jar_name "tempura", :group_name "com.taoensso", :version "1.5.4", :description "Simple text localization library for Clojure/Script", :created 1717583395331}
 {:jar_name "google-maps-clj", :group_name "com.adgoji", :version "0.12.8", :description nil, :created 1717583594759}
@@ -254,3 +248,9 @@
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Malli integration", :created 1718007786282}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1718007793115}
 {:jar_name "jason", :group_name "b-social", :version "0.1.6", :description "Factory functions around jsonista, mostly for key conversion.", :created 1718008866936}
+{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.19-RC11", :description "A structured logging abstraction with multiple backends.", :created 1718012177014}
+{:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.19-RC11", :description "A cambium backend for cartus.", :created 1718012185414}
+{:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.19-RC11", :description "A null backend for cartus.", :created 1718012192894}
+{:jar_name "cartus.redaction", :group_name "io.logicblocks", :version "0.1.19-RC11", :description "A redaction transformer for cartus.", :created 1718012200404}
+{:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.19-RC11", :description "A test backend for cartus.", :created 1718012208074}
+{:jar_name "memento", :group_name "org.clojars.roklenarcic", :version "1.4.61", :description "A library for function memoization.", :created 1718013664846}

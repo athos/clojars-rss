@@ -1,9 +1,3 @@
-{:jar_name "honeycomb", :group_name "com.flipkart.krystal", :version "6.0.3", :description nil, :created 1717408124855}
-{:jar_name "krystal-common", :group_name "com.flipkart.krystal", :version "6.0.3", :description nil, :created 1717408124945}
-{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "6.0.3", :description nil, :created 1717408125035}
-{:jar_name "krystex", :group_name "com.flipkart.krystal", :version "6.0.3", :description nil, :created 1717408125515}
-{:jar_name "vajram", :group_name "com.flipkart.krystal", :version "6.0.3", :description nil, :created 1717408125865}
-{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "6.0.3", :description nil, :created 1717408135495}
 {:jar_name "component.jdbc.data-source.hikari", :group_name "io.logicblocks", :version "0.1.3-RC11", :description "A component providing a HikariCP JDBC data source.", :created 1717412012480}
 {:jar_name "component.jdbc.data-source.postgres", :group_name "io.logicblocks", :version "0.1.3-RC11", :description "A component providing a PostgreSQL JDBC data source.", :created 1717413079631}
 {:jar_name "component.migrator.flyway", :group_name "io.logicblocks", :version "0.1.2-RC13", :description "A component to run flyway migrations on system start.", :created 1717413098921}
@@ -254,3 +248,9 @@
 {:jar_name "lazytest", :group_name "io.github.noahtheduke", :version "0.1.1", :description nil, :created 1717981579548}
 {:jar_name "pinyin", :group_name "org.clojars.dumuji", :version "1.1.2", :description "汉字转拼音首字母的Clojure(Script)库", :created 1717990868400}
 {:jar_name "jason", :group_name "b-social", :version "0.1.6", :description "Factory functions around jsonista, mostly for key conversion.", :created 1718008866936}
+{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.19-RC11", :description "A structured logging abstraction with multiple backends.", :created 1718012177014}
+{:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.19-RC11", :description "A cambium backend for cartus.", :created 1718012185414}
+{:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.19-RC11", :description "A null backend for cartus.", :created 1718012192894}
+{:jar_name "cartus.redaction", :group_name "io.logicblocks", :version "0.1.19-RC11", :description "A redaction transformer for cartus.", :created 1718012200404}
+{:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.19-RC11", :description "A test backend for cartus.", :created 1718012208074}
+{:jar_name "memento", :group_name "org.clojars.roklenarcic", :version "1.4.61", :description "A library for function memoization.", :created 1718013664846}
