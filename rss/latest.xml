@@ -4,7 +4,70 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 10 Jun 2024 20:01:21 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Jun 2024 21:01:20 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.panthevm/clj-fast-html/versions/1.0.0</guid>
+    <title>[io.github.panthevm/clj-fast-html &quot;1.0.0&quot;]</title>
+    <link>https://clojars.org/io.github.panthevm/clj-fast-html/versions/1.0.0</link>
+    <description>The clojure HTML compiler</description>
+    <pubDate>Mon, 10 Jun 2024 20:53:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/biz.command-result/versions/2024.06.10</guid>
+    <title>[house.jux/biz.command-result &quot;2024.06.10&quot;]</title>
+    <link>https://clojars.org/house.jux/biz.command-result/versions/2024.06.10</link>
+    <description>Support for commands to return a result without polluting the state (uses a dynamic var).</description>
+    <pubDate>Mon, 10 Jun 2024 20:48:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/http.exceptions/versions/2024.06.11</guid>
+    <title>[house.jux/http.exceptions &quot;2024.06.11&quot;]</title>
+    <link>https://clojars.org/house.jux/http.exceptions/versions/2024.06.11</link>
+    <description>Wrapper that handles API thrown exceptions with a 400 status code.</description>
+    <pubDate>Mon, 10 Jun 2024 20:47:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/http.pprint/versions/2024.06.10</guid>
+    <title>[house.jux/http.pprint &quot;2024.06.10&quot;]</title>
+    <link>https://clojars.org/house.jux/http.pprint/versions/2024.06.10</link>
+    <description>Wrapper that prints summaries of incoming requests.</description>
+    <pubDate>Mon, 10 Jun 2024 20:45:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/simple/check/versions/2024.06.10</guid>
+    <title>[simple/check &quot;2024.06.10&quot;]</title>
+    <link>https://clojars.org/simple/check/versions/2024.06.10</link>
+    <description>An assertion that cannot be turned off.</description>
+    <pubDate>Mon, 10 Jun 2024 20:42:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/http.api/versions/2024.06.11</guid>
+    <title>[house.jux/http.api &quot;2024.06.11&quot;]</title>
+    <link>https://clojars.org/house.jux/http.api/versions/2024.06.11</link>
+    <description>Wrapper that handles API calls and redirects it to corresponding functions</description>
+    <pubDate>Mon, 10 Jun 2024 20:36:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/exceptions/versions/2024.06.10</guid>
+    <title>[house.jux/exceptions &quot;2024.06.10&quot;]</title>
+    <link>https://clojars.org/house.jux/exceptions/versions/2024.06.10</link>
+    <description>Exception utilities</description>
+    <pubDate>Mon, 10 Jun 2024 20:32:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/biz.user/versions/2024.06.10</guid>
+    <title>[house.jux/biz.user &quot;2024.06.10&quot;]</title>
+    <link>https://clojars.org/house.jux/biz.user/versions/2024.06.10</link>
+    <description>Support for an implicit *user* argument (a dynamic var).</description>
+    <pubDate>Mon, 10 Jun 2024 20:31:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/parent-project/versions/2024.06.10</guid>
+    <title>[house.jux/parent-project &quot;2024.06.10&quot;]</title>
+    <link>https://clojars.org/house.jux/parent-project/versions/2024.06.10</link>
+    <description>Parent project for shared configuration</description>
+    <pubDate>Mon, 10 Jun 2024 20:29:22 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/house.jux/http.api/versions/2024.06.10</guid>
     <title>[house.jux/http.api &quot;2024.06.10&quot;]</title>
@@ -1735,69 +1798,6 @@
     <link>https://clojars.org/varity/versions/0.11.1-SNAPSHOT</link>
     <description>Variant translation library for Clojure</description>
     <pubDate>Thu, 6 Jun 2024 03:04:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.service-template/versions/0.7.0-rc-1</guid>
-    <title>[io.pedestal/pedestal.service-template &quot;0.7.0-rc-1&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.service-template/versions/0.7.0-rc-1</link>
-    <description></description>
-    <pubDate>Wed, 5 Jun 2024 21:19:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.embedded/versions/0.7.0-rc-1</guid>
-    <title>[io.pedestal/pedestal.embedded &quot;0.7.0-rc-1&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.embedded/versions/0.7.0-rc-1</link>
-    <description></description>
-    <pubDate>Wed, 5 Jun 2024 21:19:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.service-tools/versions/0.7.0-rc-1</guid>
-    <title>[io.pedestal/pedestal.service-tools &quot;0.7.0-rc-1&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.service-tools/versions/0.7.0-rc-1</link>
-    <description></description>
-    <pubDate>Wed, 5 Jun 2024 21:19:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.jetty/versions/0.7.0-rc-1</guid>
-    <title>[io.pedestal/pedestal.jetty &quot;0.7.0-rc-1&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.jetty/versions/0.7.0-rc-1</link>
-    <description></description>
-    <pubDate>Wed, 5 Jun 2024 21:19:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.service/versions/0.7.0-rc-1</guid>
-    <title>[io.pedestal/pedestal.service &quot;0.7.0-rc-1&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.service/versions/0.7.0-rc-1</link>
-    <description></description>
-    <pubDate>Wed, 5 Jun 2024 21:19:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.route/versions/0.7.0-rc-1</guid>
-    <title>[io.pedestal/pedestal.route &quot;0.7.0-rc-1&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.route/versions/0.7.0-rc-1</link>
-    <description></description>
-    <pubDate>Wed, 5 Jun 2024 21:18:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.error/versions/0.7.0-rc-1</guid>
-    <title>[io.pedestal/pedestal.error &quot;0.7.0-rc-1&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.error/versions/0.7.0-rc-1</link>
-    <description></description>
-    <pubDate>Wed, 5 Jun 2024 21:18:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.interceptor/versions/0.7.0-rc-1</guid>
-    <title>[io.pedestal/pedestal.interceptor &quot;0.7.0-rc-1&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.interceptor/versions/0.7.0-rc-1</link>
-    <description></description>
-    <pubDate>Wed, 5 Jun 2024 21:18:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.log/versions/0.7.0-rc-1</guid>
-    <title>[io.pedestal/pedestal.log &quot;0.7.0-rc-1&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.log/versions/0.7.0-rc-1</link>
-    <description></description>
-    <pubDate>Wed, 5 Jun 2024 21:18:24 +0000</pubDate>
   </item>
   </channel>
 </rss>

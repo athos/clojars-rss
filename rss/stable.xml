@@ -4,7 +4,70 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 10 Jun 2024 20:01:21 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Jun 2024 21:01:20 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.panthevm/clj-fast-html/versions/1.0.0</guid>
+    <title>[io.github.panthevm/clj-fast-html &quot;1.0.0&quot;]</title>
+    <link>https://clojars.org/io.github.panthevm/clj-fast-html/versions/1.0.0</link>
+    <description>The clojure HTML compiler</description>
+    <pubDate>Mon, 10 Jun 2024 20:53:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/biz.command-result/versions/2024.06.10</guid>
+    <title>[house.jux/biz.command-result &quot;2024.06.10&quot;]</title>
+    <link>https://clojars.org/house.jux/biz.command-result/versions/2024.06.10</link>
+    <description>Support for commands to return a result without polluting the state (uses a dynamic var).</description>
+    <pubDate>Mon, 10 Jun 2024 20:48:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/http.exceptions/versions/2024.06.11</guid>
+    <title>[house.jux/http.exceptions &quot;2024.06.11&quot;]</title>
+    <link>https://clojars.org/house.jux/http.exceptions/versions/2024.06.11</link>
+    <description>Wrapper that handles API thrown exceptions with a 400 status code.</description>
+    <pubDate>Mon, 10 Jun 2024 20:47:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/http.pprint/versions/2024.06.10</guid>
+    <title>[house.jux/http.pprint &quot;2024.06.10&quot;]</title>
+    <link>https://clojars.org/house.jux/http.pprint/versions/2024.06.10</link>
+    <description>Wrapper that prints summaries of incoming requests.</description>
+    <pubDate>Mon, 10 Jun 2024 20:45:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/simple/check/versions/2024.06.10</guid>
+    <title>[simple/check &quot;2024.06.10&quot;]</title>
+    <link>https://clojars.org/simple/check/versions/2024.06.10</link>
+    <description>An assertion that cannot be turned off.</description>
+    <pubDate>Mon, 10 Jun 2024 20:42:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/http.api/versions/2024.06.11</guid>
+    <title>[house.jux/http.api &quot;2024.06.11&quot;]</title>
+    <link>https://clojars.org/house.jux/http.api/versions/2024.06.11</link>
+    <description>Wrapper that handles API calls and redirects it to corresponding functions</description>
+    <pubDate>Mon, 10 Jun 2024 20:36:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/exceptions/versions/2024.06.10</guid>
+    <title>[house.jux/exceptions &quot;2024.06.10&quot;]</title>
+    <link>https://clojars.org/house.jux/exceptions/versions/2024.06.10</link>
+    <description>Exception utilities</description>
+    <pubDate>Mon, 10 Jun 2024 20:32:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/biz.user/versions/2024.06.10</guid>
+    <title>[house.jux/biz.user &quot;2024.06.10&quot;]</title>
+    <link>https://clojars.org/house.jux/biz.user/versions/2024.06.10</link>
+    <description>Support for an implicit *user* argument (a dynamic var).</description>
+    <pubDate>Mon, 10 Jun 2024 20:31:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/house.jux/parent-project/versions/2024.06.10</guid>
+    <title>[house.jux/parent-project &quot;2024.06.10&quot;]</title>
+    <link>https://clojars.org/house.jux/parent-project/versions/2024.06.10</link>
+    <description>Parent project for shared configuration</description>
+    <pubDate>Mon, 10 Jun 2024 20:29:22 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/house.jux/http.api/versions/2024.06.10</guid>
     <title>[house.jux/http.api &quot;2024.06.10&quot;]</title>
@@ -1735,69 +1798,6 @@
     <link>https://clojars.org/org.saidone/holy-repl/versions/1.0.1</link>
     <description>The Holy BIBL in your REPL</description>
     <pubDate>Tue, 4 Jun 2024 05:56:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.janetacarr/ring-sse/versions/0.4.0</guid>
-    <title>[com.janetacarr/ring-sse &quot;0.4.0&quot;]</title>
-    <link>https://clojars.org/com.janetacarr/ring-sse/versions/0.4.0</link>
-    <description>Ring async (Spec 1.8+) Server-Sent Events handler (and helpers)</description>
-    <pubDate>Tue, 4 Jun 2024 00:43:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/puppetlabs/clj-parent/versions/7.3.30</guid>
-    <title>[puppetlabs/clj-parent &quot;7.3.30&quot;]</title>
-    <link>https://clojars.org/puppetlabs/clj-parent/versions/7.3.30</link>
-    <description></description>
-    <pubDate>Tue, 4 Jun 2024 00:10:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.doccla/oth-client/versions/0.10.0</guid>
-    <title>[com.doccla/oth-client &quot;0.10.0&quot;]</title>
-    <link>https://clojars.org/com.doccla/oth-client/versions/0.10.0</link>
-    <description>A clojure wrapper around the OTH API</description>
-    <pubDate>Mon, 3 Jun 2024 20:52:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.logicblocks/spec.definition/versions/0.0.1-RC2</guid>
-    <title>[io.logicblocks/spec.definition &quot;0.0.1-RC2&quot;]</title>
-    <link>https://clojars.org/io.logicblocks/spec.definition/versions/0.0.1-RC2</link>
-    <description>Aggregate project for all spec.definition modules.</description>
-    <pubDate>Mon, 3 Jun 2024 20:29:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.logicblocks/spec.definition.uuid/versions/0.0.1-RC2</guid>
-    <title>[io.logicblocks/spec.definition.uuid &quot;0.0.1-RC2&quot;]</title>
-    <link>https://clojars.org/io.logicblocks/spec.definition.uuid/versions/0.0.1-RC2</link>
-    <description>clojure.spec definitions for UUID data types.</description>
-    <pubDate>Mon, 3 Jun 2024 20:29:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.logicblocks/spec.definition.uri/versions/0.0.1-RC2</guid>
-    <title>[io.logicblocks/spec.definition.uri &quot;0.0.1-RC2&quot;]</title>
-    <link>https://clojars.org/io.logicblocks/spec.definition.uri/versions/0.0.1-RC2</link>
-    <description>clojure.spec definitions for URI data types.</description>
-    <pubDate>Mon, 3 Jun 2024 20:28:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.logicblocks/spec.definition.time/versions/0.0.1-RC2</guid>
-    <title>[io.logicblocks/spec.definition.time &quot;0.0.1-RC2&quot;]</title>
-    <link>https://clojars.org/io.logicblocks/spec.definition.time/versions/0.0.1-RC2</link>
-    <description>clojure.spec definitions for time data types.</description>
-    <pubDate>Mon, 3 Jun 2024 20:28:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.logicblocks/spec.definition.phone/versions/0.0.1-RC2</guid>
-    <title>[io.logicblocks/spec.definition.phone &quot;0.0.1-RC2&quot;]</title>
-    <link>https://clojars.org/io.logicblocks/spec.definition.phone/versions/0.0.1-RC2</link>
-    <description>Utility functions for telephony data types.</description>
-    <pubDate>Mon, 3 Jun 2024 20:28:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.logicblocks/spec.definition.number/versions/0.0.1-RC2</guid>
-    <title>[io.logicblocks/spec.definition.number &quot;0.0.1-RC2&quot;]</title>
-    <link>https://clojars.org/io.logicblocks/spec.definition.number/versions/0.0.1-RC2</link>
-    <description>clojure.spec definitions for number data types.</description>
-    <pubDate>Mon, 3 Jun 2024 20:28:07 +0000</pubDate>
   </item>
   </channel>
 </rss>
