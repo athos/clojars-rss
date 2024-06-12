@@ -81,7 +81,6 @@
 {:jar_name "component.jdbc.data-source.hikari", :group_name "io.logicblocks", :version "0.1.3-RC12", :description "A component providing a HikariCP JDBC data source.", :created 1717843439151}
 {:jar_name "component.migrator.flyway", :group_name "io.logicblocks", :version "0.1.2-RC14", :description "A component to run flyway migrations on system start.", :created 1717844209263}
 {:jar_name "component.jdbc.data-source.postgres", :group_name "io.logicblocks", :version "0.1.3-RC13", :description "A component providing a PostgreSQL JDBC data source.", :created 1717844282912}
-{:jar_name "babashka", :group_name "babashka", :version "1.3.191-SNAPSHOT", :description "babashka", :created 1717873504253}
 {:jar_name "clj-recaptcha", :group_name "clj-recaptcha", :version "0.0.3", :description "a Clojure client for reCAPTCHA API", :created 1717875748125}
 {:jar_name "ncr.clj.bot-api", :group_name "io.github.suprematic", :version "0.3.19", :description "Neckar high-level bot API for Clojure", :created 1717876251171}
 {:jar_name "llama-cpp-gguf-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "b3040", :description nil, :created 1717904716694}
@@ -254,3 +253,4 @@
 {:jar_name "app", :group_name "com.monkeyci", :version "0.5.6-SNAPSHOT", :description nil, :created 1718205342257}
 {:jar_name "yamlscript", :group_name "org.yamlscript", :version "0.1.61", :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :created 1718207987501}
 {:jar_name "clj-yamlscript", :group_name "org.yamlscript", :version "0.1.61", :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :created 1718207996181}
+{:jar_name "babashka", :group_name "babashka", :version "1.3.191-SNAPSHOT", :description "babashka", :created 1718213085794}
