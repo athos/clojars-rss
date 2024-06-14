@@ -1,13 +1,3 @@
-{:jar_name "cryogen-core", :group_name "cryogen-core", :version "0.4.6", :description "Cryogen's compiler", :created 1717779992192}
-{:jar_name "lein-template", :group_name "cryogen", :version "0.7.5", :description "A Leiningen template for the Cryogen static site generator", :created 1717780046242}
-{:jar_name "clein", :group_name "io.github.noahtheduke", :version "v0.1.1", :description nil, :created 1717780224340}
-{:jar_name "pedestal.common", :group_name "io.pedestal", :version "0.7.0-rc-2", :description nil, :created 1717786208232}
-{:jar_name "pedestal.telemetry", :group_name "io.pedestal", :version "0.7.0-rc-2", :description nil, :created 1717786219682}
-{:jar_name "pedestal.log", :group_name "io.pedestal", :version "0.7.0-rc-2", :description nil, :created 1717786230542}
-{:jar_name "pedestal.interceptor", :group_name "io.pedestal", :version "0.7.0-rc-2", :description nil, :created 1717786240362}
-{:jar_name "pedestal.error", :group_name "io.pedestal", :version "0.7.0-rc-2", :description nil, :created 1717786251421}
-{:jar_name "pedestal.route", :group_name "io.pedestal", :version "0.7.0-rc-2", :description nil, :created 1717786262351}
-{:jar_name "pedestal.service", :group_name "io.pedestal", :version "0.7.0-rc-2", :description nil, :created 1717786271751}
 {:jar_name "pedestal.jetty", :group_name "io.pedestal", :version "0.7.0-rc-2", :description nil, :created 1717786281361}
 {:jar_name "pedestal.service-tools", :group_name "io.pedestal", :version "0.7.0-rc-2", :description nil, :created 1717786291251}
 {:jar_name "pedestal.embedded", :group_name "io.pedestal", :version "0.7.0-rc-2", :description nil, :created 1717786303911}
@@ -254,3 +244,13 @@
 {:jar_name "krystex", :group_name "com.flipkart.krystal", :version "7.1-SNAPSHOT", :description nil, :created 1718360929446}
 {:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "7.1-SNAPSHOT", :description nil, :created 1718360948636}
 {:jar_name "oss-java-deps-bom", :group_name "com.flipkart", :version "0.3-SNAPSHOT", :description nil, :created 1718360989507}
+{:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "7.0.1-SNAPSHOT", :description nil, :created 1718364295800}
+{:jar_name "krystal-bom", :group_name "com.flipkart.krystal", :version "7.0.1-SNAPSHOT", :description nil, :created 1718364296540}
+{:jar_name "vajram", :group_name "com.flipkart.krystal", :version "7.0.1-SNAPSHOT", :description nil, :created 1718364301011}
+{:jar_name "honeycomb", :group_name "com.flipkart.krystal", :version "7.0.1-SNAPSHOT", :description nil, :created 1718364301051}
+{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "7.0.1-SNAPSHOT", :description nil, :created 1718364301481}
+{:jar_name "krystal-common", :group_name "com.flipkart.krystal", :version "7.0.1-SNAPSHOT", :description nil, :created 1718364301711}
+{:jar_name "krystex", :group_name "com.flipkart.krystal", :version "7.0.1-SNAPSHOT", :description nil, :created 1718364301931}
+{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "7.0.1-SNAPSHOT", :description nil, :created 1718364316431}
+{:jar_name "oss-java-deps-bom", :group_name "com.flipkart", :version "0.4-SNAPSHOT", :description nil, :created 1718364353951}
+{:jar_name "spandex", :group_name "org.clojars.greenlabs", :version "1.0.314", :description "Fork of com.cognitect/http-client that uses Jetty 11", :created 1718364518774}
