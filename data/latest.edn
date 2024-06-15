@@ -1,5 +1,3 @@
-{:jar_name "cartus.redaction", :group_name "io.logicblocks", :version "0.1.19-RC8", :description "A redaction transformer for cartus.", :created 1717932954921}
-{:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.19-RC8", :description "A test backend for cartus.", :created 1717932962581}
 {:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.19-RC10", :description "A structured logging abstraction with multiple backends.", :created 1717936635695}
 {:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.19-RC10", :description "A cambium backend for cartus.", :created 1717936644125}
 {:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.19-RC10", :description "A null backend for cartus.", :created 1717936651676}
@@ -254,3 +252,5 @@
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Malli integration", :created 1718411456428}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1718411464169}
 {:jar_name "lazytest", :group_name "io.github.noahtheduke", :version "0.2.0-SNAPSHOT", :description nil, :created 1718412066897}
+{:jar_name "kvdb-api", :group_name "biiwide", :version "0.1.4", :description "A reusable protocol for KeyValue DataBases.", :created 1718418030332}
+{:jar_name "kvdb-aws-dynamodb", :group_name "biiwide", :version "0.1.4", :description "KVDB implementation(s) for AWS DynamoDB.", :created 1718418041192}
