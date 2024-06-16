@@ -1,7 +1,3 @@
-{:jar_name "datatype.domain", :group_name "io.logicblocks", :version "0.0.1-RC9", :description "Utility functions for domain data types.", :created 1717943525980}
-{:jar_name "datatype.email", :group_name "io.logicblocks", :version "0.0.1-RC9", :description "Utility functions for email data types.", :created 1717943534070}
-{:jar_name "datatype.network", :group_name "io.logicblocks", :version "0.0.1-RC9", :description "Utility functions for network data types.", :created 1717943541700}
-{:jar_name "datatype.number", :group_name "io.logicblocks", :version "0.0.1-RC9", :description "Utility functions for number data types.", :created 1717943549200}
 {:jar_name "datatype.phone", :group_name "io.logicblocks", :version "0.0.1-RC9", :description "Utility functions for telephony data types.", :created 1717943556500}
 {:jar_name "datatype.time", :group_name "io.logicblocks", :version "0.0.1-RC9", :description "Utility functions for time data types.", :created 1717943564180}
 {:jar_name "spec.validate", :group_name "io.logicblocks", :version "0.2.0-RC21", :description "A clojure.spec based validation library.", :created 1717943572170}
@@ -254,3 +250,7 @@
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1718516368745}
 {:jar_name "tools.graphql", :group_name "org.clojars.greenlabs", :version "1.0.42", :description "Clojure tools for GraphQL", :created 1718522578247}
 {:jar_name "aws.lambda", :group_name "io.logicblocks", :version "0.0.1-RC9", :description "A library for building Clojure programs using AWS Lambda.", :created 1718534423410}
+{:jar_name "io", :group_name "io.github.protojure", :version "2.9.0", :description "IO library to support io.github.protojure/core", :created 1718550825029}
+{:jar_name "core", :group_name "io.github.protojure", :version "2.9.0", :description "Core protobuf and GRPC utilities for protojure", :created 1718550851190}
+{:jar_name "grpc-client", :group_name "io.github.protojure", :version "2.9.0", :description "GRPC client library for protoc-gen-clojure", :created 1718550870370}
+{:jar_name "grpc-server", :group_name "io.github.protojure", :version "2.9.0", :description "GRPC server library for protoc-gen-clojure", :created 1718550890740}
