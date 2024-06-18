@@ -233,17 +233,6 @@
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1718685764924}
 {:jar_name "babashka", :group_name "babashka", :version "1.3.191-SNAPSHOT", :description "babashka", :created 1718695151934}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.6.0", :description nil, :created 1718695590811}
-{:jar_name "pedestal.common", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718696988676}
-{:jar_name "pedestal.telemetry", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718697000776}
-{:jar_name "pedestal.log", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718697013546}
-{:jar_name "pedestal.interceptor", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718697027226}
-{:jar_name "pedestal.error", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718697039947}
-{:jar_name "pedestal.route", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718697052627}
-{:jar_name "pedestal.service", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718697064077}
-{:jar_name "pedestal.jetty", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718697075957}
-{:jar_name "pedestal.service-tools", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718697086967}
-{:jar_name "pedestal.embedded", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718697098558}
-{:jar_name "pedestal.service-template", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718697109578}
 {:jar_name "prism", :group_name "io.core0", :version "1.1.0-SNAPSHOT", :description "Opinionated library with client namespaces", :created 1718697486424}
 {:jar_name "blueprint-core", :group_name "exoscale", :version "0.2.94", :description "Data definitions for APIs", :created 1718702433837}
 {:jar_name "blueprint-openapi", :group_name "exoscale", :version "0.2.94", :description "Data definitions for APIs", :created 1718702440648}
@@ -254,3 +243,14 @@
 {:jar_name "blueprint-microserver", :group_name "com.exoscale", :version "0.2.94", :description nil, :created 1718702472858}
 {:jar_name "blueprint-helidon", :group_name "com.exoscale", :version "0.2.94", :description nil, :created 1718702480618}
 {:jar_name "puumerkki", :group_name "io.github.solita-antti-mottonen", :version "0.11.1-SNAPSHOT", :description "Puumerkki allekirjoituskirjasto ja esimerkkipalvelin", :created 1718706360085}
+{:jar_name "pedestal.common", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718709147693}
+{:jar_name "pedestal.telemetry", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718709159324}
+{:jar_name "pedestal.log", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718709171904}
+{:jar_name "pedestal.interceptor", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718709184494}
+{:jar_name "pedestal.error", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718709195884}
+{:jar_name "pedestal.route", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718709207424}
+{:jar_name "pedestal.service", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718709219045}
+{:jar_name "pedestal.jetty", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718709230445}
+{:jar_name "pedestal.service-tools", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718709242265}
+{:jar_name "pedestal.embedded", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718709253805}
+{:jar_name "pedestal.service-template", :group_name "no.terjesb", :version "0.7.0-SNAPSHOT", :description nil, :created 1718709265225}
