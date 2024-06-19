@@ -1,6 +1,3 @@
-{:jar_name "http.pprint", :group_name "house.jux", :version "2024.06.10", :description "Wrapper that prints summaries of incoming requests.", :created 1718052306447}
-{:jar_name "http.exceptions", :group_name "house.jux", :version "2024.06.11", :description "Wrapper that handles API thrown exceptions with a 400 status code.", :created 1718052433428}
-{:jar_name "biz.command-result", :group_name "house.jux", :version "2024.06.10", :description "Support for commands to return a result without polluting the state (uses a dynamic var).", :created 1718052526290}
 {:jar_name "clj-fast-html", :group_name "io.github.panthevm", :version "1.0.0", :description "The clojure HTML compiler", :created 1718052796714}
 {:jar_name "clj-fast-html", :group_name "io.github.panthevm", :version "1.0.1", :description "The clojure HTML compiler", :created 1718053603466}
 {:jar_name "bell", :group_name "net.tessellator", :version "0.2.1", :description "A simple Clojure HTTP router", :created 1718062259405}
@@ -254,3 +251,6 @@
 {:jar_name "lambdaconnect-model", :group_name "io.spinney", :version "1.0.17", :description "Model parsing and scoping", :created 1718793296182}
 {:jar_name "lambdaconnect-sync", :group_name "io.spinney", :version "1.0.20", :description "Synchronisation library", :created 1718793341923}
 {:jar_name "simply.core", :group_name "za.co.simply", :version "1.1.124", :description "Simply Core Libs", :created 1718795876238}
+{:jar_name "oss-java-deps-bom", :group_name "com.flipkart", :version "0.7-SNAPSHOT", :description nil, :created 1718798704623}
+{:jar_name "broch", :group_name "no.anteo", :version "2024.06.19", :description nil, :created 1718801849601}
+{:jar_name "babashka", :group_name "babashka", :version "1.3.192-SNAPSHOT", :description "babashka", :created 1718802145516}
