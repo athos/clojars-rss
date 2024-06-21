@@ -1,5 +1,3 @@
-{:jar_name "datatype.string", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for string data types.", :created 1717946219492}
-{:jar_name "datatype.address", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for address data types.", :created 1717946227482}
 {:jar_name "datatype.bool", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for the boolean data type.", :created 1717946235013}
 {:jar_name "datatype.collection", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for collection data types.", :created 1717946242373}
 {:jar_name "datatype.currency", :group_name "io.logicblocks", :version "0.0.1-RC10", :description "Utility functions for currency data types.", :created 1717946249843}
@@ -254,3 +252,5 @@
 {:jar_name "test.spread", :group_name "house.jux", :version "2024.06.20", :description "Support for highly expressive, two-dimensional tests represented as spreadsheets.", :created 1718903902122}
 {:jar_name "biz.command-result", :group_name "house.jux", :version "2024.06.20", :description "Support for commands to return a result without polluting the state (uses a dynamic var).", :created 1718908313780}
 {:jar_name "nodely", :group_name "dev.nu", :version "1.18.0", :description "Decoupling data fetching from data dependency declaration", :created 1718911085249}
+{:jar_name "datalevin", :group_name "datalevin", :version "0.9.6", :description "A simple, fast and versatile Datalog database", :created 1718954510511}
+{:jar_name "datalevin-native", :group_name "org.clojars.huahaiy", :version "0.9.6", :description "Datalevin GraalVM native image and command line tool", :created 1718954551481}
