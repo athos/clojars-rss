@@ -1,6 +1,3 @@
-{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "7.1-SNAPSHOT", :description nil, :created 1718360948636}
-{:jar_name "oss-java-deps-bom", :group_name "com.flipkart", :version "0.3-SNAPSHOT", :description nil, :created 1718360989507}
-{:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "7.0.1-SNAPSHOT", :description nil, :created 1718364295800}
 {:jar_name "krystal-bom", :group_name "com.flipkart.krystal", :version "7.0.1-SNAPSHOT", :description nil, :created 1718364296540}
 {:jar_name "vajram", :group_name "com.flipkart.krystal", :version "7.0.1-SNAPSHOT", :description nil, :created 1718364301011}
 {:jar_name "honeycomb", :group_name "com.flipkart.krystal", :version "7.0.1-SNAPSHOT", :description nil, :created 1718364301051}
@@ -250,7 +247,10 @@
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Malli integration", :created 1719218870855}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1719218879725}
 {:jar_name "test.contract", :group_name "com.griffin", :version "0.0.0", :description nil, :created 1719222272969}
-{:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.40-SNAPSHOT", :description nil, :created 1719226209451}
-{:jar_name "core", :group_name "com.flipkart.grpc-jexpress", :version "1.40-SNAPSHOT", :description nil, :created 1719226218852}
-{:jar_name "guice", :group_name "com.flipkart.grpc-jexpress", :version "1.40-SNAPSHOT", :description nil, :created 1719226225632}
-{:jar_name "runtime", :group_name "com.flipkart.grpc-jexpress", :version "1.40-SNAPSHOT", :description nil, :created 1719226231782}
+{:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.40-SNAPSHOT", :description nil, :created 1719228321625}
+{:jar_name "core", :group_name "com.flipkart.grpc-jexpress", :version "1.40-SNAPSHOT", :description nil, :created 1719228331955}
+{:jar_name "guice", :group_name "com.flipkart.grpc-jexpress", :version "1.40-SNAPSHOT", :description nil, :created 1719228339635}
+{:jar_name "runtime", :group_name "com.flipkart.grpc-jexpress", :version "1.40-SNAPSHOT", :description nil, :created 1719228346855}
+{:jar_name "lambdaconnect-sync", :group_name "io.spinney", :version "1.0.21", :description "Synchronisation library", :created 1719228901704}
+{:jar_name "lambdaconnect-model", :group_name "io.spinney", :version "1.0.18", :description "Model parsing and scoping", :created 1719228927434}
+{:jar_name "oci-lb", :group_name "com.monkeyprojects", :version "0.1.0-SNAPSHOT", :description nil, :created 1719229243069}
