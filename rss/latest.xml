@@ -4,20 +4,160 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 25 Jun 2024 04:01:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Jun 2024 05:01:21 +0000</lastBuildDate>
   <item>
-    <guid>https://clojars.org/cljam/versions/0.9.0-SNAPSHOT</guid>
-    <title>[cljam &quot;0.9.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/cljam/versions/0.9.0-SNAPSHOT</link>
-    <description>A DNA Sequence Alignment/Map (SAM) library for Clojure</description>
-    <pubDate>Tue, 25 Jun 2024 04:00:31 +0000</pubDate>
+    <guid>https://clojars.org/com.flipkart/oss-java-deps-bom/versions/0.8-SNAPSHOT</guid>
+    <title>[com.flipkart/oss-java-deps-bom &quot;0.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.flipkart/oss-java-deps-bom/versions/0.8-SNAPSHOT</link>
+    <description></description>
+    <pubDate>Tue, 25 Jun 2024 04:39:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.flipkart.krystal/vajram-guice/versions/7.0.5-SNAPSHOT</guid>
+    <title>[com.flipkart.krystal/vajram-guice &quot;7.0.5-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.flipkart.krystal/vajram-guice/versions/7.0.5-SNAPSHOT</link>
+    <description></description>
+    <pubDate>Tue, 25 Jun 2024 04:38:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.pinkgorilla/oauth2/versions/0.0.27</guid>
+    <title>[org.pinkgorilla/oauth2 &quot;0.0.27&quot;]</title>
+    <link>https://clojars.org/org.pinkgorilla/oauth2/versions/0.0.27</link>
+    <description>websocket library</description>
+    <pubDate>Tue, 25 Jun 2024 04:26:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.lib.core.async/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.lib.core.async &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.lib.core.async/versions/1.2.2-SNAPSHOT</link>
+    <description>Type annotations and macros for core.async.</description>
+    <pubDate>Tue, 25 Jun 2024 04:24:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.malli/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.malli &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.malli/versions/1.2.2-SNAPSHOT</link>
+    <description>Malli integration</description>
+    <pubDate>Tue, 25 Jun 2024 04:23:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.clj.annotator/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.clj.annotator &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.clj.annotator/versions/1.2.2-SNAPSHOT</link>
+    <description>Runtime type inference algorithm for core.typed and clojure.spec.</description>
+    <pubDate>Tue, 25 Jun 2024 04:23:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.cljs.checker/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.cljs.checker &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.cljs.checker/versions/1.2.2-SNAPSHOT</link>
+    <description>An optional type system for ClojureScript — full system for annotating and type-checking.</description>
+    <pubDate>Tue, 25 Jun 2024 04:23:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.cljs.runtime/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.cljs.runtime &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.cljs.runtime/versions/1.2.2-SNAPSHOT</link>
+    <description>Runtime dependencies for ClojureScript type system.</description>
+    <pubDate>Tue, 25 Jun 2024 04:23:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.clj.checker/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.clj.checker &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.clj.checker/versions/1.2.2-SNAPSHOT</link>
+    <description>An optional type system for Clojure — full system for annotating and type-checking.</description>
+    <pubDate>Tue, 25 Jun 2024 04:23:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.clj.lang/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.clj.lang &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.clj.lang/versions/1.2.2-SNAPSHOT</link>
+    <description>Extensible languages in Clojure, a la Racket&#39;s #lang.</description>
+    <pubDate>Tue, 25 Jun 2024 04:22:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.lib.spec.alpha/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.lib.spec.alpha &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.lib.spec.alpha/versions/1.2.2-SNAPSHOT</link>
+    <description>FIXME</description>
+    <pubDate>Tue, 25 Jun 2024 04:22:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.lib.clojure/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.lib.clojure &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.lib.clojure/versions/1.2.2-SNAPSHOT</link>
+    <description>Type annotations and macros for the base Clojure distribution.</description>
+    <pubDate>Tue, 25 Jun 2024 04:22:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.clj.spec/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.clj.spec &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.clj.spec/versions/1.2.2-SNAPSHOT</link>
+    <description>Type-like specs.</description>
+    <pubDate>Tue, 25 Jun 2024 04:22:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.clj.runtime/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.clj.runtime &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.clj.runtime/versions/1.2.2-SNAPSHOT</link>
+    <description>An optional type system for Clojure — zero-dependency artifact for annotations only.</description>
+    <pubDate>Tue, 25 Jun 2024 04:22:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.cljs.analyzer/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.cljs.analyzer &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.cljs.analyzer/versions/1.2.2-SNAPSHOT</link>
+    <description>A variant of tools.analyzer.js.</description>
+    <pubDate>Tue, 25 Jun 2024 04:22:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.clj.analyzer/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.clj.analyzer &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.clj.analyzer/versions/1.2.2-SNAPSHOT</link>
+    <description>A variant of tools.analyzer.jvm.</description>
+    <pubDate>Tue, 25 Jun 2024 04:21:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/typed.cljc.analyzer/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/typed.cljc.analyzer &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/typed.cljc.analyzer/versions/1.2.2-SNAPSHOT</link>
+    <description>A variant of tools.analyzer.</description>
+    <pubDate>Tue, 25 Jun 2024 04:21:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.typedclojure/pom.typed/versions/1.2.2-SNAPSHOT</guid>
+    <title>[org.typedclojure/pom.typed &quot;1.2.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.typedclojure/pom.typed/versions/1.2.2-SNAPSHOT</link>
+    <description>An optional type system for Clojure</description>
+    <pubDate>Tue, 25 Jun 2024 04:21:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.pinkgorilla/websocket/versions/0.0.12</guid>
+    <title>[org.pinkgorilla/websocket &quot;0.0.12&quot;]</title>
+    <link>https://clojars.org/org.pinkgorilla/websocket/versions/0.0.12</link>
+    <description></description>
+    <pubDate>Tue, 25 Jun 2024 04:14:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.pinkgorilla/clj-service/versions/0.3.16</guid>
+    <title>[org.pinkgorilla/clj-service &quot;0.3.16&quot;]</title>
+    <link>https://clojars.org/org.pinkgorilla/clj-service/versions/0.3.16</link>
+    <description></description>
+    <pubDate>Tue, 25 Jun 2024 04:09:38 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.core0/prism/versions/1.1.0-SNAPSHOT</guid>
     <title>[io.core0/prism &quot;1.1.0-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/io.core0/prism/versions/1.1.0-SNAPSHOT</link>
     <description>Opinionated library with client namespaces</description>
-    <pubDate>Tue, 25 Jun 2024 03:35:25 +0000</pubDate>
+    <pubDate>Tue, 25 Jun 2024 04:09:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cljam/versions/0.9.0-SNAPSHOT</guid>
+    <title>[cljam &quot;0.9.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/cljam/versions/0.9.0-SNAPSHOT</link>
+    <description>A DNA Sequence Alignment/Map (SAM) library for Clojure</description>
+    <pubDate>Tue, 25 Jun 2024 04:00:31 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.github.seancorfield/honeysql/versions/2.6.9999-SNAPSHOT</guid>
@@ -39,111 +179,6 @@
     <link>https://clojars.org/org.pinkgorilla/permission/versions/0.2.18</link>
     <description></description>
     <pubDate>Tue, 25 Jun 2024 01:52:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.lib.core.async/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.lib.core.async &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.lib.core.async/versions/1.2.2-SNAPSHOT</link>
-    <description>Type annotations and macros for core.async.</description>
-    <pubDate>Tue, 25 Jun 2024 01:39:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.malli/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.malli &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.malli/versions/1.2.2-SNAPSHOT</link>
-    <description>Malli integration</description>
-    <pubDate>Tue, 25 Jun 2024 01:39:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.clj.annotator/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.clj.annotator &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.clj.annotator/versions/1.2.2-SNAPSHOT</link>
-    <description>Runtime type inference algorithm for core.typed and clojure.spec.</description>
-    <pubDate>Tue, 25 Jun 2024 01:39:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.cljs.checker/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.cljs.checker &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.cljs.checker/versions/1.2.2-SNAPSHOT</link>
-    <description>An optional type system for ClojureScript — full system for annotating and type-checking.</description>
-    <pubDate>Tue, 25 Jun 2024 01:38:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.cljs.runtime/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.cljs.runtime &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.cljs.runtime/versions/1.2.2-SNAPSHOT</link>
-    <description>Runtime dependencies for ClojureScript type system.</description>
-    <pubDate>Tue, 25 Jun 2024 01:38:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.clj.checker/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.clj.checker &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.clj.checker/versions/1.2.2-SNAPSHOT</link>
-    <description>An optional type system for Clojure — full system for annotating and type-checking.</description>
-    <pubDate>Tue, 25 Jun 2024 01:38:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.clj.lang/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.clj.lang &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.clj.lang/versions/1.2.2-SNAPSHOT</link>
-    <description>Extensible languages in Clojure, a la Racket&#39;s #lang.</description>
-    <pubDate>Tue, 25 Jun 2024 01:38:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.lib.spec.alpha/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.lib.spec.alpha &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.lib.spec.alpha/versions/1.2.2-SNAPSHOT</link>
-    <description>FIXME</description>
-    <pubDate>Tue, 25 Jun 2024 01:38:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.lib.clojure/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.lib.clojure &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.lib.clojure/versions/1.2.2-SNAPSHOT</link>
-    <description>Type annotations and macros for the base Clojure distribution.</description>
-    <pubDate>Tue, 25 Jun 2024 01:38:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.clj.spec/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.clj.spec &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.clj.spec/versions/1.2.2-SNAPSHOT</link>
-    <description>Type-like specs.</description>
-    <pubDate>Tue, 25 Jun 2024 01:38:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.clj.runtime/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.clj.runtime &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.clj.runtime/versions/1.2.2-SNAPSHOT</link>
-    <description>An optional type system for Clojure — zero-dependency artifact for annotations only.</description>
-    <pubDate>Tue, 25 Jun 2024 01:38:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.cljs.analyzer/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.cljs.analyzer &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.cljs.analyzer/versions/1.2.2-SNAPSHOT</link>
-    <description>A variant of tools.analyzer.js.</description>
-    <pubDate>Tue, 25 Jun 2024 01:37:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.clj.analyzer/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.clj.analyzer &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.clj.analyzer/versions/1.2.2-SNAPSHOT</link>
-    <description>A variant of tools.analyzer.jvm.</description>
-    <pubDate>Tue, 25 Jun 2024 01:37:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.cljc.analyzer/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.cljc.analyzer &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.cljc.analyzer/versions/1.2.2-SNAPSHOT</link>
-    <description>A variant of tools.analyzer.</description>
-    <pubDate>Tue, 25 Jun 2024 01:37:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/pom.typed/versions/1.2.2-SNAPSHOT</guid>
-    <title>[org.typedclojure/pom.typed &quot;1.2.2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/pom.typed/versions/1.2.2-SNAPSHOT</link>
-    <description>An optional type system for Clojure</description>
-    <pubDate>Tue, 25 Jun 2024 01:37:31 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.github.mn-dimension/plotly-pyclj/versions/0.1.12</guid>
@@ -319,20 +354,6 @@
     <link>https://clojars.org/com.griffin/test.contract/versions/0.0.0</link>
     <description></description>
     <pubDate>Mon, 24 Jun 2024 09:44:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart/oss-java-deps-bom/versions/0.8-SNAPSHOT</guid>
-    <title>[com.flipkart/oss-java-deps-bom &quot;0.8-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.flipkart/oss-java-deps-bom/versions/0.8-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Mon, 24 Jun 2024 08:06:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/vajram-guice/versions/7.0.5-SNAPSHOT</guid>
-    <title>[com.flipkart.krystal/vajram-guice &quot;7.0.5-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/vajram-guice/versions/7.0.5-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Mon, 24 Jun 2024 08:03:52 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.monkeyci/app/versions/0.6.2</guid>
@@ -1779,27 +1800,6 @@
     <link>https://clojars.org/com.github.puregero/regionized-bukkit/versions/1.2.0</link>
     <description></description>
     <pubDate>Fri, 14 Jun 2024 14:53:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.puregero/regionized-common/versions/1.2.0</guid>
-    <title>[com.github.puregero/regionized-common &quot;1.2.0&quot;]</title>
-    <link>https://clojars.org/com.github.puregero/regionized-common/versions/1.2.0</link>
-    <description></description>
-    <pubDate>Fri, 14 Jun 2024 14:53:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.puregero/multilib-multipaper/versions/1.2.0</guid>
-    <title>[com.github.puregero/multilib-multipaper &quot;1.2.0&quot;]</title>
-    <link>https://clojars.org/com.github.puregero/multilib-multipaper/versions/1.2.0</link>
-    <description></description>
-    <pubDate>Fri, 14 Jun 2024 14:53:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.puregero/multilib-bukkit/versions/1.2.0</guid>
-    <title>[com.github.puregero/multilib-bukkit &quot;1.2.0&quot;]</title>
-    <link>https://clojars.org/com.github.puregero/multilib-bukkit/versions/1.2.0</link>
-    <description></description>
-    <pubDate>Fri, 14 Jun 2024 14:52:46 +0000</pubDate>
   </item>
   </channel>
 </rss>
