@@ -168,10 +168,6 @@
 {:jar_name "ragtacts", :group_name "com.constacts", :version "0.4.0", :description "About RAG(Retrieval-Augmented Generation) for Evolving Data", :created 1719206433481}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.6.2", :description nil, :created 1719213412637}
 {:jar_name "test.contract", :group_name "com.griffin", :version "0.0.0", :description nil, :created 1719222272969}
-{:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.40-SNAPSHOT", :description nil, :created 1719228321625}
-{:jar_name "core", :group_name "com.flipkart.grpc-jexpress", :version "1.40-SNAPSHOT", :description nil, :created 1719228331955}
-{:jar_name "guice", :group_name "com.flipkart.grpc-jexpress", :version "1.40-SNAPSHOT", :description nil, :created 1719228339635}
-{:jar_name "runtime", :group_name "com.flipkart.grpc-jexpress", :version "1.40-SNAPSHOT", :description nil, :created 1719228346855}
 {:jar_name "lambdaconnect-sync", :group_name "io.spinney", :version "1.0.21", :description "Synchronisation library", :created 1719228901704}
 {:jar_name "lambdaconnect-model", :group_name "io.spinney", :version "1.0.18", :description "Model parsing and scoping", :created 1719228927434}
 {:jar_name "clojurescript", :group_name "com.github.flow-storm", :version "1.11.132-5", :description "ClojureScript compiler and core runtime library.", :created 1719231097897}
@@ -252,5 +248,9 @@
 {:jar_name "typed.clj.annotator", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Runtime type inference algorithm for core.typed and clojure.spec.", :created 1719364540279}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Malli integration", :created 1719364549189}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1719364557579}
-{:jar_name "prism", :group_name "io.core0", :version "1.1.0-SNAPSHOT", :description "Opinionated library with client namespaces", :created 1719379362516}
 {:jar_name "milvus-clj", :group_name "com.constacts", :version "0.2.5", :description "Clojure library for Milvus", :created 1719380791690}
+{:jar_name "prism", :group_name "io.core0", :version "1.1.0-SNAPSHOT", :description "Opinionated library with client namespaces", :created 1719385345347}
+{:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.40-SNAPSHOT", :description nil, :created 1719385771854}
+{:jar_name "core", :group_name "com.flipkart.grpc-jexpress", :version "1.40-SNAPSHOT", :description nil, :created 1719385781314}
+{:jar_name "guice", :group_name "com.flipkart.grpc-jexpress", :version "1.40-SNAPSHOT", :description nil, :created 1719385789194}
+{:jar_name "runtime", :group_name "com.flipkart.grpc-jexpress", :version "1.40-SNAPSHOT", :description nil, :created 1719385796514}
