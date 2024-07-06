@@ -1,9 +1,3 @@
-{:jar_name "trapperkeeper", :group_name "puppetlabs", :version "4.0.2", :description "A framework for configuring, composing, and running Clojure services.", :created 1719594082942}
-{:jar_name "om-event-bus", :group_name "om-event-bus", :version "0.2.4", :description "Simple custom events for Om.", :created 1719595506346}
-{:jar_name "funcade", :group_name "tolitius", :version "0.1.24", :description "creates, manages and refreshes oauth 2.0 jwt tokens", :created 1719608399357}
-{:jar_name "re-com", :group_name "re-com", :version "2.21.6", :description "Reusable UI components for Reagent", :created 1719621968961}
-{:jar_name "permission", :group_name "org.pinkgorilla", :version "0.2.19", :description nil, :created 1719623068440}
-{:jar_name "kameleon", :group_name "org.cyverse", :version "3.0.9", :description "Library for interacting with backend relational databases.", :created 1719628994751}
 {:jar_name "authy", :group_name "org.cyverse", :version "3.0.0", :description "An OAuth 2.0 client clibrary written in Clojure.", :created 1719629427428}
 {:jar_name "hato", :group_name "hato", :version "1.1.0-SNAPSHOT", :description "An HTTP client for Clojure, wrapping JDK 11's HttpClient.", :created 1719633871707}
 {:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.33.3", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1719659806697}
@@ -254,3 +248,9 @@
 {:jar_name "pedestal-extensions", :group_name "org.clojars.t_yano", :version "1.0.0", :description "Utility functions for Pedestal", :created 1720232191973}
 {:jar_name "kushi", :group_name "design.kushi", :version "1.0.0-a.21-SNAPSHOT", :description "ClojureScript UI Framework", :created 1720239083348}
 {:jar_name "scheduler", :group_name "net.clojars.zhaoyul", :version "0.4.0-SNAPSHOT", :description "系统调度器", :created 1720260331934}
+{:jar_name "pg2-core", :group_name "com.github.igrishaev", :version "0.1.15", :description "Postgres client in pure Java (no JDBC)", :created 1720284452959}
+{:jar_name "pg2-honey", :group_name "com.github.igrishaev", :version "0.1.15", :description "HoneySQL wrapper for PG2", :created 1720284464629}
+{:jar_name "pg2-component", :group_name "com.github.igrishaev", :version "0.1.15", :description "Component wrapper for PG2", :created 1720284476089}
+{:jar_name "pg2-migration", :group_name "com.github.igrishaev", :version "0.1.15", :description "Migration utilities for PG2", :created 1720284492560}
+{:jar_name "pg2-hugsql", :group_name "com.github.igrishaev", :version "0.1.15", :description "HugSQL wrapper for PG2", :created 1720284504460}
+{:jar_name "postgres-extras-clj", :group_name "com.github.perrygeo", :version "0.1.2", :description "A Clojure toolbox for inspecting and diagnosing PostgreSQL databases.", :created 1720284903757}
