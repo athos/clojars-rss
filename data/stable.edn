@@ -1,10 +1,3 @@
-{:jar_name "clj-otel-sdk", :group_name "com.github.steffan-westcott", :version "0.2.7", :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :created 1719851812918}
-{:jar_name "clj-otel-contrib-aws-resources", :group_name "com.github.steffan-westcott", :version "0.2.7", :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :created 1719851819046}
-{:jar_name "clj-otel-contrib-aws-xray-propagator", :group_name "com.github.steffan-westcott", :version "0.2.7", :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :created 1719851825012}
-{:jar_name "clj-otel-sdk-extension-autoconfigure", :group_name "com.github.steffan-westcott", :version "0.2.7", :description "Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties", :created 1719851831212}
-{:jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :group_name "com.github.steffan-westcott", :version "0.2.7", :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :created 1719851837295}
-{:jar_name "clj-otel-extension-trace-propagators", :group_name "com.github.steffan-westcott", :version "0.2.7", :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :created 1719851843366}
-{:jar_name "clj-otel-exporter-logging", :group_name "com.github.steffan-westcott", :version "0.2.7", :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :created 1719851849320}
 {:jar_name "clj-otel-exporter-logging-otlp", :group_name "com.github.steffan-westcott", :version "0.2.7", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :created 1719851855450}
 {:jar_name "clj-otel-exporter-otlp", :group_name "com.github.steffan-westcott", :version "0.2.7", :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :created 1719851861409}
 {:jar_name "clj-otel-exporter-prometheus", :group_name "com.github.steffan-westcott", :version "0.2.7", :description "Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter", :created 1719851867498}
@@ -254,3 +247,10 @@
 {:jar_name "jruby-utils", :group_name "puppetlabs", :version "4.2.0", :description "A library for working with JRuby", :created 1720731538798}
 {:jar_name "bucket", :group_name "com.cleancoders.c3kit", :version "2.1.3", :description nil, :created 1720733883477}
 {:jar_name "spade", :group_name "net.dhleong", :version "2.0.0", :description "A nice tool to use in the Garden", :created 1720742978308}
+{:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "7.0.2", :description nil, :created 1720770675170}
+{:jar_name "krystal-bom", :group_name "com.flipkart.krystal", :version "7.0.2", :description nil, :created 1720770675270}
+{:jar_name "honeycomb", :group_name "com.flipkart.krystal", :version "7.0.2", :description nil, :created 1720770680100}
+{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "7.0.2", :description nil, :created 1720770680310}
+{:jar_name "vajram-guice", :group_name "com.flipkart.krystal", :version "7.0.2", :description nil, :created 1720770680310}
+{:jar_name "krystex", :group_name "com.flipkart.krystal", :version "7.0.2", :description nil, :created 1720770680420}
+{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "7.0.2", :description nil, :created 1720770693110}
