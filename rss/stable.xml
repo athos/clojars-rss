@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 22 Jul 2024 13:03:44 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 22 Jul 2024 14:01:13 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.test/versions/0.1.19-RC14</guid>
+    <title>[io.logicblocks/cartus.test &quot;0.1.19-RC14&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.test/versions/0.1.19-RC14</link>
+    <description>A test backend for cartus.</description>
+    <pubDate>Mon, 22 Jul 2024 13:27:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.redaction/versions/0.1.19-RC14</guid>
+    <title>[io.logicblocks/cartus.redaction &quot;0.1.19-RC14&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.redaction/versions/0.1.19-RC14</link>
+    <description>A redaction transformer for cartus.</description>
+    <pubDate>Mon, 22 Jul 2024 13:26:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.null/versions/0.1.19-RC14</guid>
+    <title>[io.logicblocks/cartus.null &quot;0.1.19-RC14&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.null/versions/0.1.19-RC14</link>
+    <description>A null backend for cartus.</description>
+    <pubDate>Mon, 22 Jul 2024 13:26:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.cambium/versions/0.1.19-RC14</guid>
+    <title>[io.logicblocks/cartus.cambium &quot;0.1.19-RC14&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.cambium/versions/0.1.19-RC14</link>
+    <description>A cambium backend for cartus.</description>
+    <pubDate>Mon, 22 Jul 2024 13:26:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.logicblocks/cartus.core/versions/0.1.19-RC14</guid>
+    <title>[io.logicblocks/cartus.core &quot;0.1.19-RC14&quot;]</title>
+    <link>https://clojars.org/io.logicblocks/cartus.core/versions/0.1.19-RC14</link>
+    <description>A structured logging abstraction with multiple backends.</description>
+    <pubDate>Mon, 22 Jul 2024 13:26:22 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/dev.weavejester/medley/versions/1.8.1</guid>
     <title>[dev.weavejester/medley &quot;1.8.1&quot;]</title>
@@ -1767,41 +1802,6 @@
     <link>https://clojars.org/com.github.perrygeo/postgres-extras-clj/versions/0.1.17</link>
     <description>A Clojure toolbox for inspecting and diagnosing PostgreSQL databases.</description>
     <pubDate>Mon, 8 Jul 2024 17:04:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.perrygeo/postgres-extras-clj/versions/0.1.15</guid>
-    <title>[com.github.perrygeo/postgres-extras-clj &quot;0.1.15&quot;]</title>
-    <link>https://clojars.org/com.github.perrygeo/postgres-extras-clj/versions/0.1.15</link>
-    <description>A Clojure toolbox for inspecting and diagnosing PostgreSQL databases.</description>
-    <pubDate>Mon, 8 Jul 2024 16:35:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.clojure-quant/quanta-studio/versions/0.3.26</guid>
-    <title>[io.github.clojure-quant/quanta-studio &quot;0.3.26&quot;]</title>
-    <link>https://clojars.org/io.github.clojure-quant/quanta-studio/versions/0.3.26</link>
-    <description></description>
-    <pubDate>Mon, 8 Jul 2024 15:56:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.perrygeo/postgres-extras-clj/versions/0.1.12</guid>
-    <title>[com.github.perrygeo/postgres-extras-clj &quot;0.1.12&quot;]</title>
-    <link>https://clojars.org/com.github.perrygeo/postgres-extras-clj/versions/0.1.12</link>
-    <description>A Clojure toolbox for inspecting and diagnosing PostgreSQL databases.</description>
-    <pubDate>Mon, 8 Jul 2024 15:08:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.moclojer/rq/versions/0.1.2</guid>
-    <title>[com.moclojer/rq &quot;0.1.2&quot;]</title>
-    <link>https://clojars.org/com.moclojer/rq/versions/0.1.2</link>
-    <description>RQ (Redis Queue) is a simple Clojure package for queueing jobs and processing them in the background with workers. It is backed by Redis and it is designed to have a low barrier to entry</description>
-    <pubDate>Mon, 8 Jul 2024 13:22:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.fbeyer/paco/versions/0.2.101</guid>
-    <title>[com.fbeyer/paco &quot;0.2.101&quot;]</title>
-    <link>https://clojars.org/com.fbeyer/paco/versions/0.2.101</link>
-    <description>Parser combinators for Clojure(Script)</description>
-    <pubDate>Mon, 8 Jul 2024 13:09:58 +0000</pubDate>
   </item>
   </channel>
 </rss>
