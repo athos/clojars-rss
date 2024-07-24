@@ -1,7 +1,3 @@
-{:jar_name "app", :group_name "com.monkeyci", :version "0.6.4-SNAPSHOT", :description nil, :created 1720687796015}
-{:jar_name "cavia", :group_name "cavia", :version "0.7.2-SNAPSHOT", :description "Remote resource management for Clojure projects", :created 1720691691855}
-{:jar_name "re-com", :group_name "re-com", :version "2.21.10", :description "Reusable UI components for Reagent", :created 1720698135965}
-{:jar_name "overarch", :group_name "org.soulspace.clj", :version "0.26.0", :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :created 1720698636873}
 {:jar_name "re-com", :group_name "re-com", :version "2.21.11", :description "Reusable UI components for Reagent", :created 1720701804454}
 {:jar_name "nrepl", :group_name "nrepl", :version "1.3.0-beta1", :description "nREPL is a Clojure *n*etwork REPL.", :created 1720703954308}
 {:jar_name "sfv", :group_name "org.clojars.johnnyjayjay", :version "0.1.0", :description "RFC 8941 structured field values (de)serialisation in Clojure", :created 1720708137077}
@@ -219,7 +215,6 @@
 {:jar_name "babashka", :group_name "babashka", :version "1.3.192-SNAPSHOT", :description "babashka", :created 1721733062226}
 {:jar_name "sci", :group_name "org.babashka", :version "0.8.42", :description "Small Clojure Interpreter", :created 1721736050456}
 {:jar_name "lambdaconnect-sync", :group_name "io.spinney", :version "1.0.26", :description "Synchronisation library", :created 1721738842503}
-{:jar_name "ketu", :group_name "com.appsflyer", :version "1.1.0-SNAPSHOT", :description "Clojure Apache Kafka client with core.async api", :created 1721744465948}
 {:jar_name "cli", :group_name "org.babashka", :version "0.8.60", :description "Turn Clojure functions into CLIs!", :created 1721755359173}
 {:jar_name "re-com", :group_name "re-com", :version "2.21.13", :description "Reusable UI components for Reagent", :created 1721756732905}
 {:jar_name "schemamap-clj", :group_name "io.schemamap", :version "0.3.0", :description "Clojure SDK for Schemamap.io", :created 1721762421065}
@@ -254,3 +249,8 @@
 {:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.19-RC16", :description "A null backend for cartus.", :created 1721825687079}
 {:jar_name "cartus.redaction", :group_name "io.logicblocks", :version "0.1.19-RC16", :description "A redaction transformer for cartus.", :created 1721825694599}
 {:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.19-RC16", :description "A test backend for cartus.", :created 1721825703129}
+{:jar_name "polarize", :group_name "com.github.redhatqe", :version "0.8.4-SNAPSHOT", :description "Polarion related stuff for RHSM TestNG.", :created 1721826568943}
+{:jar_name "vybe", :group_name "io.github.pfeodrippe", :version "0.4.137", :description nil, :created 1721827004261}
+{:jar_name "polarizer-polarizer", :group_name "com.github.redhatqe", :version "0.3.1-SNAPSHOT", :description "Polarizer base for RHSM TestNG", :created 1721828541317}
+{:jar_name "polarizer-vertx", :group_name "com.github.redhatqe", :version "0.3.1-SNAPSHOT", :description "A service to upload data to Polarion", :created 1721828590168}
+{:jar_name "ketu", :group_name "com.appsflyer", :version "1.1.0-SNAPSHOT", :description "Clojure Apache Kafka client with core.async api", :created 1721829566164}
