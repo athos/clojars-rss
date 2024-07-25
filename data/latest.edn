@@ -121,7 +121,6 @@
 {:jar_name "common-cli", :group_name "org.cyverse", :version "2.8.2", :description "Common CLI functions for the DE backend services and tools", :created 1721431349583}
 {:jar_name "heuristomancer", :group_name "org.cyverse", :version "2.8.7", :description "Clojure library for attempting to guess file types.", :created 1721432066694}
 {:jar_name "common-swagger-api", :group_name "org.cyverse", :version "3.4.5", :description "Common library for Swagger documented RESTful APIs", :created 1721437820166}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.05.25-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1721466484673}
 {:jar_name "clj-simple-router", :group_name "io.github.tonsky", :version "0.1.1", :description "A simple, order-independent Ring router", :created 1721471404846}
 {:jar_name "stowaway", :group_name "stowaway", :version "0.1.18", :description "Library for abstracting data storage from business logic", :created 1721493847454}
 {:jar_name "re-com", :group_name "re-com", :version "2.21.12", :description "Reusable UI components for Reagent", :created 1721500868683}
@@ -156,7 +155,6 @@
 {:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.19-RC14", :description "A test backend for cartus.", :created 1721654820128}
 {:jar_name "clojure", :group_name "com.github.flow-storm", :version "1.12.0-beta1_1", :description "Clojure core environment and runtime library.", :created 1721657767606}
 {:jar_name "datascript", :group_name "datascript", :version "1.7.3", :description "An implementation of Datomic in-memory database and Datalog query engine in ClojureScript", :created 1721659099838}
-{:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.5.10-SNAPSHOT", :description nil, :created 1721665750744}
 {:jar_name "ctim", :group_name "threatgrid", :version "1.3.18", :description "Cisco Threat Intelligence Model", :created 1721676709449}
 {:jar_name "clay", :group_name "org.scicloj", :version "2-beta14", :description "Clay is a small Clojure tool for a dynamic workflow of data visualization and literate programming.", :created 1721677484112}
 {:jar_name "quartzite-postgresql", :group_name "org.clojars.punit-naik", :version "1.0.0", :description "A small helper library to set up Quartzite scheduler with PostgreSQL as a store", :created 1721682664240}
@@ -254,3 +252,5 @@
 {:jar_name "lrs", :group_name "com.yetanalytics", :version "1.2.20", :description nil, :created 1721928322842}
 {:jar_name "multitool", :group_name "org.candelbio", :version "0.1.7", :description "CANDELBio utility library", :created 1721929039984}
 {:jar_name "clara-rules", :group_name "com.github.k13labs", :version "1.3.4", :description nil, :created 1721929835168}
+{:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.5.10-SNAPSHOT", :description nil, :created 1721932481343}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.05.25-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1721933503691}
