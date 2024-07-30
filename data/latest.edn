@@ -1,15 +1,3 @@
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.28.11", :description "CLJS development tools", :created 1721309148343}
-{:jar_name "milvus-clj", :group_name "com.constacts", :version "0.2.8", :description "Clojure library for Milvus", :created 1721309623320}
-{:jar_name "overarch", :group_name "org.soulspace.clj", :version "0.28.0", :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :created 1721310759879}
-{:jar_name "clj-github", :group_name "dev.nubank", :version "0.6.5", :description "A Clojure library for interacting with the github developer API", :created 1721322940641}
-{:jar_name "nodely", :group_name "dev.nu", :version "1.18.1", :description "Decoupling data fetching from data dependency declaration", :created 1721328842812}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-beta13-SNAPSHOT", :description "Clay is a small Clojure tool for a dynamic workflow of data visualization and literate programming.", :created 1721329911620}
-{:jar_name "ambiente", :group_name "luchiniatwork", :version "0.1.5", :description nil, :created 1721331219942}
-{:jar_name "system-utils", :group_name "net.clojars.luchiniatwork", :version "0.0.7", :description nil, :created 1721331905683}
-{:jar_name "lrs", :group_name "com.yetanalytics", :version "1.2.19", :description nil, :created 1721334445152}
-{:jar_name "otel", :group_name "org.cyverse", :version "0.2.6", :description "A Clojure library wrapping the opentelemetry client for Java", :created 1721347046019}
-{:jar_name "c4k-common-clj", :group_name "org.domaindrivenarchitecture", :version "6.4.2-SNAPSHOT", :description "Contains predicates and tools for c4k", :created 1721379313979}
-{:jar_name "c4k-common-cljs", :group_name "org.domaindrivenarchitecture", :version "7.0.0", :description "Contains predicates and tools for c4k", :created 1721380233733}
 {:jar_name "c4k-common-clj", :group_name "org.domaindrivenarchitecture", :version "7.0.0", :description "Contains predicates and tools for c4k", :created 1721380234213}
 {:jar_name "buddy-core", :group_name "buddy", :version "1.12.0-430", :description nil, :created 1721381664844}
 {:jar_name "buddy-sign", :group_name "buddy", :version "3.6.0-357", :description nil, :created 1721383015865}
@@ -254,3 +242,15 @@
 {:jar_name "fastmath", :group_name "generateme", :version "3.0.0-SNAPSHOT", :description "Fast and primitive math library", :created 1722335249417}
 {:jar_name "clj-java-decompiler", :group_name "com.clojure-goes-fast", :version "0.3.5", :description "Integrated Clojure-to-Java decompiler", :created 1722337579467}
 {:jar_name "clj-java-decompiler", :group_name "com.clojure-goes-fast", :version "0.3.6", :description "Integrated Clojure-to-Java decompiler", :created 1722341718225}
+{:jar_name "spec.definition.core", :group_name "io.logicblocks", :version "0.0.1-RC4", :description "A support library for clojure.spec definitions for common data types.", :created 1722346892519}
+{:jar_name "spec.definition.string", :group_name "io.logicblocks", :version "0.0.1-RC4", :description "clojure.spec definitions for string data types.", :created 1722346901278}
+{:jar_name "spec.definition.address", :group_name "io.logicblocks", :version "0.0.1-RC4", :description "clojure.spec definitions for address data types.", :created 1722346909138}
+{:jar_name "spec.definition.bool", :group_name "io.logicblocks", :version "0.0.1-RC4", :description "clojure.spec definitions for the boolean data type.", :created 1722346917018}
+{:jar_name "spec.definition.collection", :group_name "io.logicblocks", :version "0.0.1-RC4", :description "clojure.spec definitions for collection data types.", :created 1722346924798}
+{:jar_name "spec.definition.currency", :group_name "io.logicblocks", :version "0.0.1-RC4", :description "clojure.spec definitions for currency data types.", :created 1722346932358}
+{:jar_name "spec.definition.email", :group_name "io.logicblocks", :version "0.0.1-RC4", :description "clojure.spec definitions for email data types.", :created 1722346940108}
+{:jar_name "spec.definition.number", :group_name "io.logicblocks", :version "0.0.1-RC4", :description "clojure.spec definitions for number data types.", :created 1722346947688}
+{:jar_name "spec.definition.phone", :group_name "io.logicblocks", :version "0.0.1-RC4", :description "Utility functions for telephony data types.", :created 1722346955348}
+{:jar_name "spec.definition.time", :group_name "io.logicblocks", :version "0.0.1-RC4", :description "clojure.spec definitions for time data types.", :created 1722346963257}
+{:jar_name "spec.definition.uri", :group_name "io.logicblocks", :version "0.0.1-RC4", :description "clojure.spec definitions for URI data types.", :created 1722346971027}
+{:jar_name "spec.definition.uuid", :group_name "io.logicblocks", :version "0.0.1-RC4", :description "clojure.spec definitions for UUID data types.", :created 1722346978447}
