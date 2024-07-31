@@ -1,16 +1,3 @@
-{:jar_name "clj-jargon", :group_name "org.cyverse", :version "3.1.1", :description "Clojure API on top of iRODS's jargon-core.", :created 1721417077456}
-{:jar_name "clay", :group_name "org.scicloj", :version "2-beta13", :description "Clay is a small Clojure tool for a dynamic workflow of data visualization and literate programming.", :created 1721421446946}
-{:jar_name "cider-nrepl", :group_name "cider", :version "0.49.2", :description "A collection of nREPL middleware designed to enhance Clojure editors.", :created 1721421836975}
-{:jar_name "common-cfg", :group_name "org.cyverse", :version "2.8.3", :description "DE services code for managing configurations.", :created 1721430301626}
-{:jar_name "common-cli", :group_name "org.cyverse", :version "2.8.2", :description "Common CLI functions for the DE backend services and tools", :created 1721431349583}
-{:jar_name "heuristomancer", :group_name "org.cyverse", :version "2.8.7", :description "Clojure library for attempting to guess file types.", :created 1721432066694}
-{:jar_name "common-swagger-api", :group_name "org.cyverse", :version "3.4.5", :description "Common library for Swagger documented RESTful APIs", :created 1721437820166}
-{:jar_name "clj-simple-router", :group_name "io.github.tonsky", :version "0.1.1", :description "A simple, order-independent Ring router", :created 1721471404846}
-{:jar_name "stowaway", :group_name "stowaway", :version "0.1.18", :description "Library for abstracting data storage from business logic", :created 1721493847454}
-{:jar_name "re-com", :group_name "re-com", :version "2.21.12", :description "Reusable UI components for Reagent", :created 1721500868683}
-{:jar_name "stowaway", :group_name "stowaway", :version "0.1.19", :description "Library for abstracting data storage from business logic", :created 1721503176242}
-{:jar_name "stable-diffusion-cpp-darwin-x86-64", :group_name "com.phronemophobic.cljonda", :version "9c51d8787f78ef1bd0ead1e8f48b766d7ee7484d-SNAPSHOT", :description nil, :created 1721525018883}
-{:jar_name "stable-diffusion-cpp-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "9c51d8787f78ef1bd0ead1e8f48b766d7ee7484d", :description nil, :created 1721525173396}
 {:jar_name "stable-diffusion-cpp-darwin-x86-64", :group_name "com.phronemophobic.cljonda", :version "9c51d8787f78ef1bd0ead1e8f48b766d7ee7484d", :description nil, :created 1721525328098}
 {:jar_name "clj-poly", :group_name "polylith", :version "0.3.21-SNAPSHOT", :description "Poly is Polylith's command line interface for Clojure.", :created 1721526030379}
 {:jar_name "get-rich", :group_name "io.github.paintparty", :version "0.1.0-a", :description "Rich text console printing for Clojure(Script)", :created 1721533973118}
@@ -254,3 +241,16 @@
 {:jar_name "stencil-core", :group_name "io.github.erdos", :version "0.6.1-SNAPSHOT", :description "Templating engine for OOXML DOCX and PPTX files", :created 1722369448870}
 {:jar_name "oksa", :group_name "fi.metosin", :version "1.1.0-SNAPSHOT", :description nil, :created 1722371762170}
 {:jar_name "metadata-files", :group_name "org.cyverse", :version "2.1.1", :description "Library for generating metadata files.", :created 1722380797745}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure", :created 1722385927762}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1722385935914}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1722385942613}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1722385950658}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1722385963783}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type-like specs.", :created 1722385970837}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1722385976873}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "FIXME", :created 1722385982958}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1722385990221}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1722385996552}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1722386002676}
+{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Malli integration", :created 1722386014848}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1722386021472}
