@@ -1,27 +1,3 @@
-{:jar_name "syn-antd", :group_name "com.github.ntestoc3", :version "5.15.1", :description "Ant Design Reagent Wrapper - Optimised for shadow-cljs", :created 1721272333118}
-{:jar_name "vybe", :group_name "io.github.pfeodrippe", :version "0.1.100", :description nil, :created 1721277939814}
-{:jar_name "nrepl", :group_name "nrepl", :version "1.3.0-beta2", :description "nREPL is a Clojure *n*etwork REPL.", :created 1721293952326}
-{:jar_name "datoteka", :group_name "nz.niwi", :version "3.1.0-78", :description nil, :created 1721299626793}
-{:jar_name "useful", :group_name "com.timezynk", :version "4.6.0", :description "Useful functions", :created 1721300383885}
-{:jar_name "kit-hato", :group_name "io.github.kit-clj", :version "1.0.3", :description nil, :created 1721305130678}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.28.11", :description "CLJS development tools", :created 1721309148343}
-{:jar_name "milvus-clj", :group_name "com.constacts", :version "0.2.8", :description "Clojure library for Milvus", :created 1721309623320}
-{:jar_name "overarch", :group_name "org.soulspace.clj", :version "0.28.0", :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :created 1721310759879}
-{:jar_name "clj-github", :group_name "dev.nubank", :version "0.6.5", :description "A Clojure library for interacting with the github developer API", :created 1721322940641}
-{:jar_name "nodely", :group_name "dev.nu", :version "1.18.1", :description "Decoupling data fetching from data dependency declaration", :created 1721328842812}
-{:jar_name "ambiente", :group_name "luchiniatwork", :version "0.1.5", :description nil, :created 1721331219942}
-{:jar_name "system-utils", :group_name "net.clojars.luchiniatwork", :version "0.0.7", :description nil, :created 1721331905683}
-{:jar_name "lrs", :group_name "com.yetanalytics", :version "1.2.19", :description nil, :created 1721334445152}
-{:jar_name "otel", :group_name "org.cyverse", :version "0.2.6", :description "A Clojure library wrapping the opentelemetry client for Java", :created 1721347046019}
-{:jar_name "c4k-common-cljs", :group_name "org.domaindrivenarchitecture", :version "7.0.0", :description "Contains predicates and tools for c4k", :created 1721380233733}
-{:jar_name "c4k-common-clj", :group_name "org.domaindrivenarchitecture", :version "7.0.0", :description "Contains predicates and tools for c4k", :created 1721380234213}
-{:jar_name "buddy-core", :group_name "buddy", :version "1.12.0-430", :description nil, :created 1721381664844}
-{:jar_name "buddy-sign", :group_name "buddy", :version "3.6.0-357", :description nil, :created 1721383015865}
-{:jar_name "buddy-sign", :group_name "buddy", :version "3.6.1-359", :description nil, :created 1721383841468}
-{:jar_name "dross", :group_name "com.github.kimbsy", :version "0.1.0", :description "A Leiningen plugin for identifying potentially unused dependencies.", :created 1721394190724}
-{:jar_name "dross", :group_name "com.github.kimbsy", :version "1.0.3", :description "A Leiningen plugin for identifying potentially unused dependencies.", :created 1721396714462}
-{:jar_name "useful", :group_name "com.timezynk", :version "4.7.0", :description "Useful functions", :created 1721404786773}
-{:jar_name "orchard", :group_name "cider", :version "0.26.2", :description "A fertile ground for Clojure tooling", :created 1721406618196}
 {:jar_name "service-logging", :group_name "org.cyverse", :version "2.8.4", :description "Common Logging Utilities for Clojure Projects", :created 1721410967535}
 {:jar_name "clojure-commons", :group_name "org.cyverse", :version "3.0.8", :description "Common Utilities for Clojure Projects", :created 1721414883719}
 {:jar_name "yamlscript", :group_name "org.yamlscript", :version "0.1.68", :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :created 1721415987407}
@@ -254,3 +230,27 @@
 {:jar_name "google-displayvideo-clj", :group_name "com.adgoji", :version "1.0.1", :description nil, :created 1722416531668}
 {:jar_name "google-maps-clj", :group_name "com.adgoji", :version "1.0.1", :description nil, :created 1722416536078}
 {:jar_name "c4k-forgejo", :group_name "org.domaindrivenarchitecture", :version "3.5.0", :description "forgejo c4k-installation package", :created 1722418133771}
+{:jar_name "jason", :group_name "io.logicblocks", :version "1.0.1-RC4", :description "Factory functions around jsonista, mostly for key conversion.", :created 1722420552259}
+{:jar_name "icu4clj", :group_name "io.logicblocks", :version "0.0.1-RC4", :description "A thin wrapper around ICU4J.", :created 1722420565139}
+{:jar_name "liberator.resource.ping", :group_name "io.logicblocks", :version "0.1.3-RC9", :description "A ping resource for liberator.", :created 1722420581319}
+{:jar_name "liberator.resource.discovery", :group_name "io.logicblocks", :version "0.2.0-RC4", :description "A discovery resource for liberator.", :created 1722420583929}
+{:jar_name "configurati", :group_name "io.logicblocks", :version "0.5.7-RC18", :description "Define and resolve application configuration.", :created 1722420586938}
+{:jar_name "hype", :group_name "io.logicblocks", :version "2.0.1-RC5", :description "Hypermedia functions for ring routers.", :created 1722420587638}
+{:jar_name "halboy", :group_name "io.logicblocks", :version "6.0.1-RC6", :description "a hypermedia parser and navigator", :created 1722420606838}
+{:jar_name "pathological", :group_name "io.logicblocks", :version "0.1.22-RC4", :description "A thin but complete wrapper of Java NIO2 for Clojure.", :created 1722420681157}
+{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.19-RC20", :description "A structured logging abstraction with multiple backends.", :created 1722420686257}
+{:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.19-RC20", :description "A cambium backend for cartus.", :created 1722420694837}
+{:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.19-RC20", :description "A null backend for cartus.", :created 1722420702536}
+{:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.19-RC20", :description "A test backend for cartus.", :created 1722420718096}
+{:jar_name "liberator.mixin.core", :group_name "io.logicblocks", :version "0.1.0-RC20", :description "Functions for defining composable liberator mixins.", :created 1722420832044}
+{:jar_name "liberator.mixin.context", :group_name "io.logicblocks", :version "0.1.0-RC20", :description "A context management mixin for liberator.", :created 1722420839864}
+{:jar_name "liberator.mixin.logging", :group_name "io.logicblocks", :version "0.1.0-RC20", :description "A logging mixin for liberator.", :created 1722420847284}
+{:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC20", :description "A JSON mixin for liberator.", :created 1722420855304}
+{:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC20", :description "An authorisation mixin for liberator.", :created 1722420863514}
+{:jar_name "salutem.core", :group_name "io.logicblocks", :version "0.1.9-RC5", :description "A health check library for sync / async health checks.", :created 1722420864084}
+{:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC20", :description "A hypermedia mixin for liberator.", :created 1722420871614}
+{:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC20", :description "A HAL mixin for liberator.", :created 1722420881393}
+{:jar_name "datatype.core", :group_name "io.logicblocks", :version "0.0.1-RC11", :description "A support library for defining utility functions for common data types.", :created 1722420888573}
+{:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC20", :description "A validation mixin for liberator.", :created 1722420890983}
+{:jar_name "datatype.testing", :group_name "io.logicblocks", :version "0.0.1-RC11", :description "Utility functions for the testing other data type libraries.", :created 1722420899773}
+{:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC20", :description "Extensions for liberator allowing for composable mixins.", :created 1722420904533}
