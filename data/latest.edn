@@ -241,10 +241,6 @@
 {:jar_name "macaw", :group_name "io.github.metabase", :version "0.2.1", :description "A Clojure wrapper for JSqlParser", :created 1722944841726}
 {:jar_name "flow-storm-dbg", :group_name "com.github.flow-storm", :version "3.17.2", :description nil, :created 1722948196730}
 {:jar_name "flow-storm-inst", :group_name "com.github.flow-storm", :version "3.17.2", :description nil, :created 1722948232730}
-{:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.41-SNAPSHOT", :description nil, :created 1722949023917}
-{:jar_name "core", :group_name "com.flipkart.grpc-jexpress", :version "1.41-SNAPSHOT", :description nil, :created 1722949033886}
-{:jar_name "guice", :group_name "com.flipkart.grpc-jexpress", :version "1.41-SNAPSHOT", :description nil, :created 1722949041776}
-{:jar_name "runtime", :group_name "com.flipkart.grpc-jexpress", :version "1.41-SNAPSHOT", :description nil, :created 1722949049086}
 {:jar_name "uberdeps", :group_name "uberdeps", :version "1.4.0", :description "Uberjar builder for deps.edn", :created 1722950734458}
 {:jar_name "pg2-core", :group_name "com.github.igrishaev", :version "0.1.17", :description "Postgres client in pure Java (no JDBC)", :created 1722952171764}
 {:jar_name "pg2-honey", :group_name "com.github.igrishaev", :version "0.1.17", :description "HoneySQL wrapper for PG2", :created 1722952184914}
@@ -254,3 +250,7 @@
 {:jar_name "build", :group_name "org.domaindrivenarchitecture", :version "0.1.1-SNAPSHOT", :description nil, :created 1722959899959}
 {:jar_name "edamame", :group_name "borkdude", :version "1.4.26", :description "EDN parser with location metadata and pluggable dispatch table.", :created 1722960721191}
 {:jar_name "menard", :group_name "menard", :version "1.7.1", :description "A library for natural language generation and parsing", :created 1722971754966}
+{:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.41-SNAPSHOT", :description nil, :created 1722976418328}
+{:jar_name "core", :group_name "com.flipkart.grpc-jexpress", :version "1.41-SNAPSHOT", :description nil, :created 1722976428585}
+{:jar_name "guice", :group_name "com.flipkart.grpc-jexpress", :version "1.41-SNAPSHOT", :description nil, :created 1722976437155}
+{:jar_name "runtime", :group_name "com.flipkart.grpc-jexpress", :version "1.41-SNAPSHOT", :description nil, :created 1722976444966}
