@@ -227,10 +227,6 @@
 {:jar_name "encore", :group_name "com.taoensso", :version "3.114.0", :description "Core utils library for Clojure/Script", :created 1723023960330}
 {:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-beta15", :description "Structured telemetry library for Clojure/Script", :created 1723024286975}
 {:jar_name "slf4j-telemere", :group_name "com.taoensso", :version "1.0.0-beta15", :description "Telemere backend/provider for SLF4J API v2", :created 1723024308104}
-{:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.41-SNAPSHOT", :description nil, :created 1723036290193}
-{:jar_name "core", :group_name "com.flipkart.grpc-jexpress", :version "1.41-SNAPSHOT", :description nil, :created 1723036300062}
-{:jar_name "guice", :group_name "com.flipkart.grpc-jexpress", :version "1.41-SNAPSHOT", :description nil, :created 1723036307872}
-{:jar_name "runtime", :group_name "com.flipkart.grpc-jexpress", :version "1.41-SNAPSHOT", :description nil, :created 1723036315402}
 {:jar_name "cljfx", :group_name "cljfx", :version "1.9.2", :description nil, :created 1723041144947}
 {:jar_name "fusebox", :group_name "com.potetm", :version "0.1.0-SHAPSHOT", :description nil, :created 1723051797695}
 {:jar_name "clj-github-app", :group_name "nubank", :version "0.2.2", :description "A library to implement GitHub Apps in Clojure.", :created 1723058778397}
@@ -252,5 +248,9 @@
 {:jar_name "slf4j-telemere", :group_name "com.taoensso", :version "1.0.0-beta16", :description "Telemere backend/provider for SLF4J API v2", :created 1723109631945}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.08.02-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1723112418817}
 {:jar_name "clj-poly", :group_name "polylith", :version "0.3.21-SNAPSHOT", :description "Poly is Polylith's command line interface for Clojure.", :created 1723117403400}
-{:jar_name "martian-aleph", :group_name "com.monkeyprojects", :version "0.1.0-SNAPSHOT", :description nil, :created 1723121253713}
 {:jar_name "ollama-whisperer", :group_name "net.clojars.ripley-on-rails", :version "1.0.2", :description "FIXME: my new library.", :created 1723122214237}
+{:jar_name "martian-aleph", :group_name "com.monkeyprojects", :version "0.1.0-SNAPSHOT", :description nil, :created 1723124196033}
+{:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.41-SNAPSHOT", :description nil, :created 1723125229056}
+{:jar_name "core", :group_name "com.flipkart.grpc-jexpress", :version "1.41-SNAPSHOT", :description nil, :created 1723125239096}
+{:jar_name "guice", :group_name "com.flipkart.grpc-jexpress", :version "1.41-SNAPSHOT", :description nil, :created 1723125247206}
+{:jar_name "runtime", :group_name "com.flipkart.grpc-jexpress", :version "1.41-SNAPSHOT", :description nil, :created 1723125254565}
