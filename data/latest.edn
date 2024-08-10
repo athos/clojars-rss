@@ -1,13 +1,3 @@
-{:jar_name "google-displayvideo-clj", :group_name "com.adgoji", :version "1.1.0", :description nil, :created 1722427515605}
-{:jar_name "google-campaign-manager-clj", :group_name "com.adgoji", :version "1.1.0", :description nil, :created 1722427518473}
-{:jar_name "google-doubleclick-bid-manager-clj", :group_name "com.adgoji", :version "1.1.0", :description nil, :created 1722427524596}
-{:jar_name "google-maps-clj", :group_name "com.adgoji", :version "1.1.0", :description nil, :created 1722427525167}
-{:jar_name "overarch", :group_name "org.soulspace.clj", :version "0.29.0", :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :created 1722428801857}
-{:jar_name "scheduler", :group_name "net.clojars.zhaoyul", :version "0.4.7-SNAPSHOT", :description "系统调度器", :created 1722435002305}
-{:jar_name "overarch", :group_name "org.soulspace.clj", :version "0.29.1", :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :created 1722435436887}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.05.25-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1722449153494}
-{:jar_name "oai-ore", :group_name "org.cyverse", :version "1.0.4", :description "Library for generating OAI-ORE files.", :created 1722449370701}
-{:jar_name "fulcro-rad", :group_name "com.fulcrologic", :version "1.6.3", :description "A library for rapid application development in Fulcro", :created 1722449827493}
 {:jar_name "clj-icat-direct", :group_name "org.cyverse", :version "2.9.6", :description "A Clojure library for accessing the iRODS ICAT database directly.", :created 1722449866583}
 {:jar_name "clj-irods", :group_name "org.cyverse", :version "0.3.6", :description "A Clojure library for interacting with the IRODS data system. Wraps clj-jargon and clj-icat-direct for a nicer interface", :created 1722450615161}
 {:jar_name "corbihttp", :group_name "fr.mcorbin", :version "0.34.0", :description "Shared namespaces for my http projects", :created 1722451427397}
@@ -214,7 +204,6 @@
 {:jar_name "c4k-keycloak", :group_name "org.domaindrivenarchitecture", :version "1.3.0", :description "keycloak c4k-installation package", :created 1723209987669}
 {:jar_name "hanamicloth", :group_name "org.scicloj", :version "1-alpha6-SNAPSHOT", :description "Hanamicloth is a data visualization library composing Hanami templates with Tablecloth datasets", :created 1723214616740}
 {:jar_name "pyramid", :group_name "town.lilac", :version "4.0.0", :description "A library for storing and querying graph data in a Clojure map", :created 1723217994352}
-{:jar_name "babashka", :group_name "babashka", :version "1.3.192-SNAPSHOT", :description "babashka", :created 1723221383516}
 {:jar_name "ring-webjars", :group_name "ring-webjars", :version "0.3.0", :description "Ring middleware to serve assets from WebJars", :created 1723225121472}
 {:jar_name "clj-poly", :group_name "polylith", :version "0.2.21-SNAPSHOT", :description "Poly is Polylith's command line interface for Clojure.", :created 1723232812832}
 {:jar_name "nine-clj", :group_name "org.clojars.taqmuraz", :version "0.1.3", :description "Clojure OpenGL 3D graphics library", :created 1723234967442}
@@ -254,3 +243,14 @@
 {:jar_name "scheduler", :group_name "net.clojars.zhaoyul", :version "0.5.0-SNAPSHOT", :description "系统调度器", :created 1723282708799}
 {:jar_name "menard", :group_name "menard", :version "1.7.4", :description "A library for natural language generation and parsing", :created 1723282883766}
 {:jar_name "prism", :group_name "io.core0", :version "1.1.6-SNAPSHOT", :description "Opinionated library with client namespaces", :created 1723283537904}
+{:jar_name "dtlvnative-macos-aarch64-shared", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of embedded library version of Datalevin on Apple Silicon", :created 1723289152549}
+{:jar_name "dtlvnative-macos-aarch64", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of Datalevin database", :created 1723289160059}
+{:jar_name "dtlvnative-windows-amd64", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of Datalevin database", :created 1723289217498}
+{:jar_name "dtlvnative-linux-amd64", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of Datalevin database", :created 1723289280297}
+{:jar_name "dtlvnative-linux-amd64-shared", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of JVM version of Datalevin database", :created 1723289291326}
+{:jar_name "dtlvnative-macos-amd64", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of Datalevin database", :created 1723289292426}
+{:jar_name "dtlvnative-macos-amd64-shared", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of JVM version of Datalevin database on MacOS Silicon", :created 1723289306786}
+{:jar_name "dtlvnative-x86_64-windows-gnu", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of JVM library version of Datalevin database", :created 1723289335376}
+{:jar_name "dtlvnative-linux-aarch64-shared", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of Datalevin database", :created 1723289584021}
+{:jar_name "dtlvnative-linux-aarch64", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of Datalevin database", :created 1723289596181}
+{:jar_name "babashka", :group_name "babashka", :version "1.3.192-SNAPSHOT", :description "babashka", :created 1723290111871}
