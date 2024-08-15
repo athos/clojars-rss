@@ -191,19 +191,6 @@
 {:jar_name "methodical", :group_name "methodical", :version "1.0.122", :description "Functional and flexible multimethods for Clojure.", :created 1723491338446}
 {:jar_name "toucan2", :group_name "io.github.camsaul", :version "1.0.543", :description "A library for delightful database interaction.", :created 1723491930396}
 {:jar_name "toucan2-toucan1", :group_name "io.github.camsaul", :version "1.0.543", :description "Toucan 1 reimplemented in terms of Toucan 2. Compatibility layer for existing projects using Toucan 1.", :created 1723491941526}
-{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure", :created 1723497174357}
-{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1723497182807}
-{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1723497190707}
-{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1723497199446}
-{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1723497212656}
-{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type-like specs.", :created 1723497222516}
-{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1723497230726}
-{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "FIXME", :created 1723497237916}
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1723497246366}
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1723497254216}
-{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1723497262675}
-{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Malli integration", :created 1723497271195}
-{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1723497279535}
 {:jar_name "fastmath", :group_name "generateme", :version "3.0.0-SNAPSHOT", :description "Fast and primitive math library", :created 1723497912464}
 {:jar_name "core-clojure", :group_name "org.clojars.stark-mtkgs", :version "0.1.2-SNAPSHOT", :description "Core functionalities for the StarkInfra, StarkBank and StarkSign Clojure SDKs", :created 1723497924924}
 {:jar_name "quanta", :group_name "io.github.clojure-quant", :version "0.4.850", :description nil, :created 1723510509808}
@@ -254,3 +241,16 @@
 {:jar_name "etaoin", :group_name "etaoin", :version "1.1.41", :description "Pure Clojure Webdriver protocol implementation", :created 1723674413050}
 {:jar_name "common-clj", :group_name "net.clojars.macielti", :version "27.55.53", :description "Just common Clojure code that I use across projects", :created 1723681065813}
 {:jar_name "commons", :group_name "io.bloomventures", :version "0.14.11", :description "kitchen-sink of micro-libs commonly used by bloom", :created 1723685809419}
+{:jar_name "pom.typed", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure", :created 1723697271430}
+{:jar_name "typed.cljc.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.", :created 1723697277830}
+{:jar_name "typed.clj.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.jvm.", :created 1723697284200}
+{:jar_name "typed.cljs.analyzer", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "A variant of tools.analyzer.js.", :created 1723697290600}
+{:jar_name "typed.clj.runtime", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :created 1723697302429}
+{:jar_name "typed.clj.spec", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type-like specs.", :created 1723697309969}
+{:jar_name "typed.lib.clojure", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for the base Clojure distribution.", :created 1723697316029}
+{:jar_name "typed.lib.spec.alpha", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "FIXME", :created 1723697321909}
+{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1723697328089}
+{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1723697334259}
+{:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1723697340509}
+{:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Malli integration", :created 1723697348129}
+{:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1723697356888}
