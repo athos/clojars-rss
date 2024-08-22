@@ -1,5 +1,3 @@
-{:jar_name "dtlvnative-linux-amd64-shared", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of JVM version of Datalevin database", :created 1723289291326}
-{:jar_name "dtlvnative-macos-amd64", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of Datalevin database", :created 1723289292426}
 {:jar_name "dtlvnative-macos-amd64-shared", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of JVM version of Datalevin database on MacOS Silicon", :created 1723289306786}
 {:jar_name "dtlvnative-x86_64-windows-gnu", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of JVM library version of Datalevin database", :created 1723289335376}
 {:jar_name "dtlvnative-linux-aarch64-shared", :group_name "org.clojars.huahaiy", :version "0.9.8", :description "Native dependency of Datalevin database", :created 1723289584021}
@@ -65,8 +63,6 @@
 {:jar_name "dire", :group_name "org.cyverse", :version "0.5.6", :description "Erlang-style supervisor error handling for Clojure", :created 1723598615881}
 {:jar_name "repl", :group_name "szew", :version "0.3.10", :description "Simple Clojure REPL seeder.", :created 1723612224944}
 {:jar_name "plugin-kaniko", :group_name "com.monkeyci", :version "0.2.0-SNAPSHOT", :description nil, :created 1723624117673}
-{:jar_name "api-server", :group_name "com.sixsq.nuvla", :version "6.8.2-SNAPSHOT", :description "core api server", :created 1723635691114}
-{:jar_name "api-server-test", :group_name "com.sixsq.nuvla", :version "6.8.2-SNAPSHOT", :description "core api server test", :created 1723635700034}
 {:jar_name "bread-core", :group_name "systems.bread", :version "0.7.1516", :description nil, :created 1723639562274}
 {:jar_name "bread-plugin-defaults", :group_name "systems.bread", :version "0.7.1516", :description nil, :created 1723639572304}
 {:jar_name "bread-plugin-datahike", :group_name "systems.bread", :version "0.7.1516", :description nil, :created 1723639582303}
@@ -254,3 +250,7 @@
 {:jar_name "automaton-simulation-de", :group_name "org.clojars.hephaistox", :version "4.1.5-la", :description nil, :created 1724330047118}
 {:jar_name "deploy-inst", :group_name "com.monkeyprojects", :version "0.1.2-SNAPSHOT", :description nil, :created 1724330496262}
 {:jar_name "noj", :group_name "org.scicloj", :version "2-alpha2-SNAPSHOT", :description "A Clojure framework for data science", :created 1724331246220}
+{:jar_name "noj", :group_name "org.scicloj", :version "2-alpha3-SNAPSHOT", :description "A Clojure framework for data science", :created 1724333398949}
+{:jar_name "persistent-sorted-set", :group_name "org.clojars.tiensonqin", :version "0.0.8", :description "Fast B-tree based persistent sorted set for Clojure/Script", :created 1724333624013}
+{:jar_name "api-server", :group_name "com.sixsq.nuvla", :version "6.8.2-SNAPSHOT", :description "core api server", :created 1724333656792}
+{:jar_name "api-server-test", :group_name "com.sixsq.nuvla", :version "6.8.2-SNAPSHOT", :description "core api server test", :created 1724333666522}
