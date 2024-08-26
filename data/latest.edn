@@ -112,7 +112,6 @@
 {:jar_name "macaw", :group_name "io.github.metabase", :version "0.2.4", :description "A Clojure wrapper for JSqlParser", :created 1724256061741}
 {:jar_name "core-clojure", :group_name "org.clojars.stark-mtkgs", :version "0.1.10-SNAPSHOT", :description "Core functionalities for the StarkInfra, StarkBank and StarkSign Clojure SDKs", :created 1724261961209}
 {:jar_name "datalevin-surge", :group_name "io.github.algoflora", :version "0.1.2", :description "Datalevin database migrations plugin for Leiningen", :created 1724262591071}
-{:jar_name "redpanda", :group_name "io.jepsen", :version "0.1.2-SNAPSHOT", :description "Tests for the RedPanda distributed queuing system", :created 1724263011200}
 {:jar_name "slf4j-mulog", :group_name "nonseldiha", :version "0.3.0", :description "SLF4J bindings for mulog", :created 1724269106004}
 {:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.41.3", :description nil, :created 1724270113717}
 {:jar_name "core", :group_name "com.flipkart.grpc-jexpress", :version "1.41.3", :description nil, :created 1724270132106}
@@ -181,7 +180,6 @@
 {:jar_name "ductile", :group_name "threatgrid", :version "0.4.9-SNAPSHOT", :description "Yet another Clojure client for Elasticsearch REST API, that fits our needs", :created 1724414143644}
 {:jar_name "tzsms", :group_name "com.timezynk", :version "1.2.0", :description "TimeZynk SMS API", :created 1724419037217}
 {:jar_name "useful", :group_name "com.timezynk", :version "4.8.0", :description "Useful functions", :created 1724419767007}
-{:jar_name "jepsen", :group_name "jepsen", :version "0.3.6-SNAPSHOT", :description "Distributed systems testing framework.", :created 1724420405349}
 {:jar_name "java-host-lisp-reader", :group_name "org.clojuredart", :version "1.11.1637", :description nil, :created 1724423077925}
 {:jar_name "fulcro", :group_name "com.fulcrologic", :version "3.7.9", :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :created 1724424519915}
 {:jar_name "automaton-build", :group_name "org.clojars.hephaistox", :version "3.0.0-2-la", :description nil, :created 1724427791797}
@@ -254,3 +252,5 @@
 {:jar_name "encore", :group_name "com.taoensso", :version "3.117.0-SNAPSHOT", :description "Core utils library for Clojure/Script", :created 1724702902035}
 {:jar_name "bling", :group_name "io.github.paintparty", :version "0.1.1", :description "Rich text console printing for Clojure(Script)", :created 1724702931191}
 {:jar_name "clj-icat-direct", :group_name "org.cyverse", :version "2.9.7", :description "A Clojure library for accessing the iRODS ICAT database directly.", :created 1724709257666}
+{:jar_name "jepsen", :group_name "jepsen", :version "0.3.6-SNAPSHOT", :description "Distributed systems testing framework.", :created 1724713253400}
+{:jar_name "redpanda", :group_name "io.jepsen", :version "0.1.2-SNAPSHOT", :description "Tests for the RedPanda distributed queuing system", :created 1724713273700}
