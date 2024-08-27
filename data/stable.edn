@@ -1,25 +1,3 @@
-{:jar_name "menard", :group_name "menard", :version "1.7.6", :description "A library for natural language generation and parsing", :created 1723445285708}
-{:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.41.1", :description nil, :created 1723462095224}
-{:jar_name "core", :group_name "com.flipkart.grpc-jexpress", :version "1.41.1", :description nil, :created 1723462107564}
-{:jar_name "guice", :group_name "com.flipkart.grpc-jexpress", :version "1.41.1", :description nil, :created 1723462117324}
-{:jar_name "runtime", :group_name "com.flipkart.grpc-jexpress", :version "1.41.1", :description nil, :created 1723462126144}
-{:jar_name "funcade", :group_name "tolitius", :version "0.1.25", :description "creates, manages and refreshes oauth 2.0 jwt tokens", :created 1723467128189}
-{:jar_name "jepsen.etcd", :group_name "jepsen.etcd", :version "0.2.4", :description "etcd Jepsen test", :created 1723476379372}
-{:jar_name "martian-aleph", :group_name "com.monkeyprojects", :version "0.1.1", :description nil, :created 1723476480150}
-{:jar_name "oci-os", :group_name "com.monkeyprojects", :version "0.3.1", :description nil, :created 1723477293495}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.7.0", :description nil, :created 1723478801176}
-{:jar_name "methodical", :group_name "methodical", :version "1.0.113", :description "Functional and flexible multimethods for Clojure.", :created 1723489232923}
-{:jar_name "methodical", :group_name "methodical", :version "1.0.122", :description "Functional and flexible multimethods for Clojure.", :created 1723491338446}
-{:jar_name "toucan2", :group_name "io.github.camsaul", :version "1.0.543", :description "A library for delightful database interaction.", :created 1723491930396}
-{:jar_name "toucan2-toucan1", :group_name "io.github.camsaul", :version "1.0.543", :description "Toucan 1 reimplemented in terms of Toucan 2. Compatibility layer for existing projects using Toucan 1.", :created 1723491941526}
-{:jar_name "quanta", :group_name "io.github.clojure-quant", :version "0.4.850", :description nil, :created 1723510509808}
-{:jar_name "yamlscript", :group_name "org.yamlscript", :version "0.1.71", :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :created 1723522299011}
-{:jar_name "clj-yamlscript", :group_name "org.yamlscript", :version "0.1.71", :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :created 1723522308402}
-{:jar_name "kmono", :group_name "com.kepler16", :version "3.0.7.0", :description "Clojure monorepo tools", :created 1723535458796}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.7.1", :description nil, :created 1723538548280}
-{:jar_name "plugin-kaniko", :group_name "com.monkeyci", :version "0.1.0", :description nil, :created 1723541383138}
-{:jar_name "http-client", :group_name "org.babashka", :version "0.4.20", :description nil, :created 1723552981066}
-{:jar_name "compliment", :group_name "compliment", :version "0.6.0", :description "Clojure completion library that you deserve", :created 1723553254381}
 {:jar_name "nrepl", :group_name "nrepl", :version "1.3.0", :description "nREPL is a Clojure *n*etwork REPL.", :created 1723554305201}
 {:jar_name "ambiente", :group_name "luchiniatwork", :version "0.1.6", :description nil, :created 1723559649497}
 {:jar_name "emmy", :group_name "org.mentat", :version "0.32.0", :description "The Emmy Computer Algebra System.", :created 1723563399072}
@@ -254,3 +232,25 @@
 {:jar_name "vybe", :group_name "io.github.pfeodrippe", :version "0.4.308-win-x64", :description nil, :created 1724726599300}
 {:jar_name "fusebox", :group_name "com.potetm", :version "1.0.7", :description nil, :created 1724726912904}
 {:jar_name "kushi", :group_name "design.kushi", :version "1.0.0-a.22", :description "ClojureScript UI Framework", :created 1724733912184}
+{:jar_name "flow-storm-dbg", :group_name "com.github.flow-storm", :version "3.17.3", :description nil, :created 1724760595517}
+{:jar_name "flow-storm-inst", :group_name "com.github.flow-storm", :version "3.17.3", :description nil, :created 1724760627876}
+{:jar_name "liberator.resource.ping", :group_name "io.logicblocks", :version "0.1.3-RC10", :description "A ping resource for liberator.", :created 1724761024403}
+{:jar_name "hype", :group_name "io.logicblocks", :version "2.0.1-RC6", :description "Hypermedia functions for ring routers.", :created 1724761033028}
+{:jar_name "liberator.resource.discovery", :group_name "io.logicblocks", :version "0.2.0-RC5", :description "A discovery resource for liberator.", :created 1724761037041}
+{:jar_name "configurati", :group_name "io.logicblocks", :version "0.5.7-RC19", :description "Define and resolve application configuration.", :created 1724761040581}
+{:jar_name "aws.lambda", :group_name "io.logicblocks", :version "0.0.1-RC12", :description "A library for building Clojure programs using AWS Lambda.", :created 1724761044804}
+{:jar_name "vent", :group_name "io.logicblocks", :version "0.7.0-RC4", :description "Rule based event processing engine.", :created 1724761051695}
+{:jar_name "jason", :group_name "io.logicblocks", :version "1.0.1-RC5", :description "Factory functions around jsonista, mostly for key conversion.", :created 1724761061371}
+{:jar_name "cartus.core", :group_name "io.logicblocks", :version "0.1.19-RC21", :description "A structured logging abstraction with multiple backends.", :created 1724761088498}
+{:jar_name "cartus.cambium", :group_name "io.logicblocks", :version "0.1.19-RC21", :description "A cambium backend for cartus.", :created 1724761112573}
+{:jar_name "cartus.null", :group_name "io.logicblocks", :version "0.1.19-RC21", :description "A null backend for cartus.", :created 1724761135857}
+{:jar_name "cartus.test", :group_name "io.logicblocks", :version "0.1.19-RC21", :description "A test backend for cartus.", :created 1724761181763}
+{:jar_name "liberator.mixin.core", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "Functions for defining composable liberator mixins.", :created 1724761290307}
+{:jar_name "liberator.mixin.context", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "A context management mixin for liberator.", :created 1724761313139}
+{:jar_name "liberator.mixin.logging", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "A logging mixin for liberator.", :created 1724761335255}
+{:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "A JSON mixin for liberator.", :created 1724761358808}
+{:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "An authorisation mixin for liberator.", :created 1724761381395}
+{:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "A hypermedia mixin for liberator.", :created 1724761404091}
+{:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "A HAL mixin for liberator.", :created 1724761427685}
+{:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "A validation mixin for liberator.", :created 1724761452085}
+{:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "Extensions for liberator allowing for composable mixins.", :created 1724761478526}
