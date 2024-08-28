@@ -1,4 +1,3 @@
-{:jar_name "encore", :group_name "com.taoensso", :version "3.115.1", :description "Core utils library for Clojure/Script", :created 1724138160762}
 {:jar_name "version-clj", :group_name "version-clj", :version "2.0.3", :description "Version Analysis and Comparison for Clojure", :created 1724148254698}
 {:jar_name "puumerkki", :group_name "io.github.solita", :version "0.12.1-SNAPSHOT", :description "Puumerkki allekirjoituskirjasto ja esimerkkipalvelin", :created 1724152282184}
 {:jar_name "grpc-jexpress", :group_name "com.flipkart", :version "1.41.2", :description nil, :created 1724153709914}
@@ -87,7 +86,6 @@
 {:jar_name "clojurescript", :group_name "com.github.flow-storm", :version "1.11.132-6", :description "ClojureScript compiler and core runtime library.", :created 1724336417465}
 {:jar_name "automaton-simulation-de", :group_name "org.clojars.hephaistox", :version "4.1.5-2-la", :description nil, :created 1724336804424}
 {:jar_name "clofidence", :group_name "com.github.flow-storm", :version "0.4.0-alpha", :description nil, :created 1724337592453}
-{:jar_name "slf4j-telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Telemere backend/provider for SLF4J API v2", :created 1724337970732}
 {:jar_name "automaton-build", :group_name "org.clojars.hephaistox", :version "2.0.2-3-la", :description nil, :created 1724338361551}
 {:jar_name "automaton-core", :group_name "org.clojars.hephaistox", :version "1.2.9-3-la", :description nil, :created 1724338462508}
 {:jar_name "automaton-web", :group_name "org.clojars.hephaistox", :version "1.2.15-3-la", :description nil, :created 1724338610494}
@@ -172,7 +170,6 @@
 {:jar_name "dda-backup", :group_name "org.domaindrivenarchitecture", :version "5.0.0-SNAPSHOT", :description nil, :created 1724652491887}
 {:jar_name "dda-build", :group_name "org.domaindrivenarchitecture", :version "0.1.1-SNAPSHOT", :description nil, :created 1724652521287}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.116.0-SNAPSHOT", :description "Core utils library for Clojure/Script", :created 1724666371250}
-{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Structured telemetry library for Clojure/Script", :created 1724667835538}
 {:jar_name "forge", :group_name "com.kepler16", :version "1.0.3", :description "Parallel test runner for clojure.test", :created 1724667977040}
 {:jar_name "lein-ezbake", :group_name "puppetlabs", :version "2.6.2", :description "A system for building packages for trapperkeeper-based applications", :created 1724668150752}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.116.0", :description "Core utils library for Clojure/Script", :created 1724668428326}
@@ -248,9 +245,12 @@
 {:jar_name "sci.nrepl", :group_name "io.github.babashka", :version "0.0.2", :description nil, :created 1724838209217}
 {:jar_name "jason", :group_name "b-social", :version "0.1.7", :description "Factory functions around jsonista, mostly for key conversion.", :created 1724839103878}
 {:jar_name "liberator-mixin", :group_name "b-social", :version "0.0.63", :description "An extension to liberator allowing for composable mixins.", :created 1724840571377}
-{:jar_name "encore", :group_name "com.taoensso", :version "3.117.0-SNAPSHOT", :description "Core utils library for Clojure/Script", :created 1724845016254}
 {:jar_name "app", :group_name "com.monkeyci", :version "0.7.3", :description nil, :created 1724845244797}
 {:jar_name "api-server", :group_name "com.sixsq.nuvla", :version "6.8.2-SNAPSHOT", :description "core api server", :created 1724847314515}
 {:jar_name "api-server-test", :group_name "com.sixsq.nuvla", :version "6.8.2-SNAPSHOT", :description "core api server test", :created 1724847326019}
 {:jar_name "macaw", :group_name "io.github.metabase", :version "0.2.7", :description "A Clojure wrapper for JSqlParser", :created 1724850228912}
 {:jar_name "scheduler", :group_name "net.clojars.zhaoyul", :version "0.5.1-SNAPSHOT", :description "系统调度器", :created 1724851835233}
+{:jar_name "encore", :group_name "com.taoensso", :version "3.117.0-SNAPSHOT", :description "Core utils library for Clojure/Script", :created 1724855359839}
+{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Structured telemetry library for Clojure/Script", :created 1724855593762}
+{:jar_name "slf4j-telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Telemere backend/provider for SLF4J API v2", :created 1724856850809}
+{:jar_name "lazytest", :group_name "io.github.noahtheduke", :version "0.4.1", :description nil, :created 1724856904380}
