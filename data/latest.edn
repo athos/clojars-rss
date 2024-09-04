@@ -1,21 +1,3 @@
-{:jar_name "fireworks-stubs", :group_name "io.github.paintparty", :version "0.6.2", :description "Fireworks library for production builds", :created 1724634064297}
-{:jar_name "dda-backup", :group_name "org.domaindrivenarchitecture", :version "5.0.0-SNAPSHOT", :description nil, :created 1724652491887}
-{:jar_name "dda-build", :group_name "org.domaindrivenarchitecture", :version "0.1.1-SNAPSHOT", :description nil, :created 1724652521287}
-{:jar_name "encore", :group_name "com.taoensso", :version "3.116.0-SNAPSHOT", :description "Core utils library for Clojure/Script", :created 1724666371250}
-{:jar_name "forge", :group_name "com.kepler16", :version "1.0.3", :description "Parallel test runner for clojure.test", :created 1724667977040}
-{:jar_name "lein-ezbake", :group_name "puppetlabs", :version "2.6.2", :description "A system for building packages for trapperkeeper-based applications", :created 1724668150752}
-{:jar_name "encore", :group_name "com.taoensso", :version "3.116.0", :description "Core utils library for Clojure/Script", :created 1724668428326}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.28.13", :description "CLJS development tools", :created 1724670866326}
-{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-beta21", :description "Structured telemetry library for Clojure/Script", :created 1724671270042}
-{:jar_name "slf4j-telemere", :group_name "com.taoensso", :version "1.0.0-beta21", :description "Telemere backend/provider for SLF4J API v2", :created 1724671289162}
-{:jar_name "lisb", :group_name "org.clojars.pkoerner", :version "0.0.6-SNAPSHOT", :description "lisb: A Clojure library that wraps ProB's constraint solver. Use it to write/transform B machines with less pain or interact with the constraint solver.", :created 1724673829306}
-{:jar_name "shadow-cljs", :group_name "thheller", :version "2.28.14", :description "CLJS development tools", :created 1724679679949}
-{:jar_name "toucan2", :group_name "io.github.camsaul", :version "1.0.544", :description "A library for delightful database interaction.", :created 1724698349439}
-{:jar_name "toucan2-toucan1", :group_name "io.github.camsaul", :version "1.0.544", :description "Toucan 1 reimplemented in terms of Toucan 2. Compatibility layer for existing projects using Toucan 1.", :created 1724698357339}
-{:jar_name "pleajure", :group_name "am.dekanat", :version "0.0.3", :description "A LISP-like config notation", :created 1724698731624}
-{:jar_name "repl-balance", :group_name "com.openvest", :version "0.2.60", :description "Clojure command line repl with paredit.\n  Uses jline3, originally forked from rebel-readline.", :created 1724700725530}
-{:jar_name "bling", :group_name "io.github.paintparty", :version "0.1.1", :description "Rich text console printing for Clojure(Script)", :created 1724702931191}
-{:jar_name "clj-icat-direct", :group_name "org.cyverse", :version "2.9.7", :description "A Clojure library for accessing the iRODS ICAT database directly.", :created 1724709257666}
 {:jar_name "redpanda", :group_name "io.jepsen", :version "0.1.2-SNAPSHOT", :description "Tests for the RedPanda distributed queuing system", :created 1724713273700}
 {:jar_name "clj-irods", :group_name "org.cyverse", :version "0.3.8", :description "A Clojure library for interacting with the IRODS data system. Wraps clj-jargon and clj-icat-direct for a nicer interface", :created 1724713386752}
 {:jar_name "fusebox", :group_name "com.potetm", :version "1.0.6", :description nil, :created 1724720560188}
@@ -254,3 +236,21 @@
 {:jar_name "tbl", :group_name "com.fooheads", :version "0.2.3", :description "A description", :created 1725449368392}
 {:jar_name "api-server", :group_name "com.sixsq.nuvla", :version "6.8.2-SNAPSHOT", :description "core api server", :created 1725460418916}
 {:jar_name "api-server-test", :group_name "com.sixsq.nuvla", :version "6.8.2-SNAPSHOT", :description "core api server test", :created 1725460427896}
+{:jar_name "tbl", :group_name "com.fooheads", :version "0.2.4", :description "A description", :created 1725466071269}
+{:jar_name "heroicons-electric", :group_name "com.hyperfiddle", :version "0327158", :description nil, :created 1725466463851}
+{:jar_name "kit-core", :group_name "io.github.kit-clj", :version "1.0.8", :description nil, :created 1725467122125}
+{:jar_name "kit-http-kit", :group_name "io.github.kit-clj", :version "1.0.4", :description nil, :created 1725467168099}
+{:jar_name "kit-xtdb", :group_name "io.github.kit-clj", :version "1.0.4", :description nil, :created 1725467231965}
+{:jar_name "kit-generator", :group_name "io.github.kit-clj", :version "0.2.2", :description nil, :created 1725467494782}
+{:jar_name "kit-hato", :group_name "io.github.kit-clj", :version "1.0.4", :description nil, :created 1725467512583}
+{:jar_name "kit-nrepl", :group_name "io.github.kit-clj", :version "1.0.5", :description nil, :created 1725467558149}
+{:jar_name "kit-quartz", :group_name "io.github.kit-clj", :version "1.0.4", :description nil, :created 1725467713995}
+{:jar_name "kit-redis", :group_name "io.github.kit-clj", :version "1.0.6", :description nil, :created 1725467733933}
+{:jar_name "kit-repl", :group_name "io.github.kit-clj", :version "1.0.3", :description nil, :created 1725467749979}
+{:jar_name "kit-selmer", :group_name "io.github.kit-clj", :version "1.0.4", :description nil, :created 1725467764597}
+{:jar_name "kit-sql-migratus", :group_name "io.github.kit-clj", :version "1.0.5", :description nil, :created 1725467782990}
+{:jar_name "kit-sql-conman", :group_name "io.github.kit-clj", :version "1.10.5", :description nil, :created 1725467798515}
+{:jar_name "kit-sql-hikari", :group_name "io.github.kit-clj", :version "1.0.6", :description nil, :created 1725467815608}
+{:jar_name "kit-undertow", :group_name "io.github.kit-clj", :version "1.0.7", :description nil, :created 1725467843976}
+{:jar_name "deps-template", :group_name "io.github.kit-clj", :version "0.1.65", :description nil, :created 1725467866051}
+{:jar_name "rax", :group_name "com.fooheads", :version "0.1.7", :description "...", :created 1725469132581}
