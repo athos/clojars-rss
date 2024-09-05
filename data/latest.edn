@@ -1,9 +1,3 @@
-{:jar_name "liberator.mixin.core", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "Functions for defining composable liberator mixins.", :created 1724761290307}
-{:jar_name "liberator.mixin.context", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "A context management mixin for liberator.", :created 1724761313139}
-{:jar_name "liberator.mixin.logging", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "A logging mixin for liberator.", :created 1724761335255}
-{:jar_name "liberator.mixin.json", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "A JSON mixin for liberator.", :created 1724761358808}
-{:jar_name "liberator.mixin.authorisation", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "An authorisation mixin for liberator.", :created 1724761381395}
-{:jar_name "liberator.mixin.hypermedia", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "A hypermedia mixin for liberator.", :created 1724761404091}
 {:jar_name "liberator.mixin.hal", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "A HAL mixin for liberator.", :created 1724761427685}
 {:jar_name "liberator.mixin.validation", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "A validation mixin for liberator.", :created 1724761452085}
 {:jar_name "liberator.mixin", :group_name "io.logicblocks", :version "0.1.0-RC21", :description "Extensions for liberator allowing for composable mixins.", :created 1724761478526}
@@ -254,3 +248,9 @@
 {:jar_name "app", :group_name "com.monkeyci", :version "0.7.4-SNAPSHOT", :description nil, :created 1725530217829}
 {:jar_name "heroicons-electric", :group_name "com.hyperfiddle", :version "1e42ca6", :description nil, :created 1725536843473}
 {:jar_name "ketu", :group_name "com.appsflyer", :version "2.0.0-SNAPSHOT", :description "Clojure Apache Kafka client with core.async api", :created 1725536893443}
+{:jar_name "biz.timestamp", :group_name "house.jux", :version "2024.09.05", :description "Support for *timestamp* (a dynamic var).", :created 1725538043853}
+{:jar_name "biz.command-result", :group_name "house.jux", :version "2024.09.05", :description "Support for commands to return a result without polluting the state (uses a dynamic var).", :created 1725538050803}
+{:jar_name "test.spread", :group_name "house.jux", :version "2024.09.05", :description "Support for highly expressive, two-dimensional tests represented as spreadsheets.", :created 1725538060090}
+{:jar_name "slipway-jetty9", :group_name "io.factorhouse", :version "1.1.17", :description "A Clojure Companion for Jetty", :created 1725538783121}
+{:jar_name "slipway-jetty10", :group_name "io.factorhouse", :version "1.1.17", :description "A Clojure Companion for Jetty", :created 1725538933275}
+{:jar_name "slipway-jetty11", :group_name "io.factorhouse", :version "1.1.17", :description "A Clojure Companion for Jetty", :created 1725538972181}
