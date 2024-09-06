@@ -1,7 +1,3 @@
-{:jar_name "app", :group_name "com.monkeyci", :version "0.7.3", :description nil, :created 1724845244797}
-{:jar_name "macaw", :group_name "io.github.metabase", :version "0.2.7", :description "A Clojure wrapper for JSqlParser", :created 1724850228912}
-{:jar_name "encore", :group_name "com.taoensso", :version "3.117.0-SNAPSHOT", :description "Core utils library for Clojure/Script", :created 1724855359839}
-{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Structured telemetry library for Clojure/Script", :created 1724855593762}
 {:jar_name "slf4j-telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Telemere backend/provider for SLF4J API v2", :created 1724856850809}
 {:jar_name "lazytest", :group_name "io.github.noahtheduke", :version "0.4.1", :description nil, :created 1724856904380}
 {:jar_name "telemere-slf4j", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Telemere backend/provider for SLF4J API v2", :created 1724858113686}
@@ -17,7 +13,6 @@
 {:jar_name "toucan2-toucan1", :group_name "io.github.camsaul", :version "1.0.545", :description "Toucan 1 reimplemented in terms of Toucan 2. Compatibility layer for existing projects using Toucan 1.", :created 1724875525401}
 {:jar_name "task-scheduler", :group_name "org.clojars.jansuran03", :version "1.0.1", :description "A Clojure library designed for asynchronous scheduling of tasks.", :created 1724882216490}
 {:jar_name "re-com", :group_name "re-com", :version "2.21.22", :description "Reusable UI components for Reagent", :created 1724892268446}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.6.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1724896526313}
 {:jar_name "clj-mu", :group_name "com.twelvenines", :version "0.1.4", :description "Clojure friendly library for using https://muserver.io", :created 1724924961217}
 {:jar_name "c4k-forgejo", :group_name "org.domaindrivenarchitecture", :version "4.0.0", :description "forgejo c4k-installation package", :created 1724932725509}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.08.02-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1724943058447}
@@ -254,3 +249,8 @@
 {:jar_name "scour", :group_name "com.dheiniger", :version "0.1.8", :description nil, :created 1725594813840}
 {:jar_name "yamlscript", :group_name "org.yamlscript", :version "0.1.75", :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :created 1725598322912}
 {:jar_name "clj-yamlscript", :group_name "org.yamlscript", :version "0.1.75", :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :created 1725598332702}
+{:jar_name "expectations", :group_name "com.github.seancorfield", :version "2.1.999-SNAPSHOT", :description "A clojure.test-compatible version of the classic Expectations testing library.", :created 1725601423368}
+{:jar_name "ring-data-json", :group_name "com.github.seancorfield", :version "0.5.3-SNAPSHOT", :description "Ring middleware for handling JSON, using clojure.data.json.", :created 1725601453769}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.6.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1725601597610}
+{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1725601640831}
+{:jar_name "clj-new", :group_name "com.github.seancorfield", :version "1.3.415", :description "Generate new projects based on clj, Boot, or Leiningen Templates!", :created 1725602135117}
