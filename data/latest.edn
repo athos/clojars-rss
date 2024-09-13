@@ -1,5 +1,3 @@
-{:jar_name "kmono-git", :group_name "com.kepler16", :version "4.1.2", :description "Simple git interface", :created 1725529221328}
-{:jar_name "kmono-core", :group_name "com.kepler16", :version "4.1.2", :description "The core kmono package and graph API's", :created 1725529226758}
 {:jar_name "kmono-log", :group_name "com.kepler16", :version "4.1.2", :description "Terminal logging API's used by kmono", :created 1725529232168}
 {:jar_name "kmono-build", :group_name "com.kepler16", :version "4.1.2", :description "A suite of tools for use within tools.build", :created 1725529237498}
 {:jar_name "kmono-cp", :group_name "com.kepler16", :version "4.1.2", :description "Construct classpaths from a clojure monorepo", :created 1725529242848}
@@ -230,7 +228,6 @@
 {:jar_name "fastmath", :group_name "generateme", :version "3.0.0-SNAPSHOT", :description "Fast and primitive math library", :created 1726232175136}
 {:jar_name "clara-rules", :group_name "com.github.k13labs", :version "1.4.0-SNAPSHOT", :description nil, :created 1726237422820}
 {:jar_name "clova", :group_name "clova", :version "0.48.0", :description "A simple validation library for Clojure and ClojureScript.", :created 1726238509232}
-{:jar_name "hanamicloth", :group_name "org.scicloj", :version "1-alpha7-SNAPSHOT", :description "Hanamicloth is a data visualization library composing Hanami templates with Tablecloth datasets", :created 1726239274990}
 {:jar_name "common-clj", :group_name "net.clojars.macielti", :version "29.61.64", :description "Just common Clojure code that I use across projects", :created 1726241426224}
 {:jar_name "quanta", :group_name "io.github.clojure-quant", :version "0.4.854", :description nil, :created 1726241467025}
 {:jar_name "lambdaconnect-model", :group_name "io.spinney", :version "1.0.25", :description "Model parsing and scoping", :created 1726242735641}
@@ -254,3 +251,6 @@
 {:jar_name "way", :group_name "com.hyperphor", :version "0.1.4", :description "Way", :created 1726249483723}
 {:jar_name "quanta-studio", :group_name "io.github.clojure-quant", :version "0.3.64", :description nil, :created 1726255234775}
 {:jar_name "common-clj", :group_name "net.clojars.macielti", :version "29.61.65", :description "Just common Clojure code that I use across projects", :created 1726256681604}
+{:jar_name "ring-http-exchange", :group_name "org.clojars.jj", :version "1.0.0", :description "Ring adapter for com.sun.net.httpserver", :created 1726258145198}
+{:jar_name "test.spread", :group_name "house.jux", :version "2024.09.13", :description "Support for highly expressive, two-dimensional tests represented as spreadsheets.", :created 1726260723646}
+{:jar_name "hanamicloth", :group_name "org.scicloj", :version "1-alpha7-SNAPSHOT", :description "Hanamicloth is a data visualization library composing Hanami templates with Tablecloth datasets", :created 1726261011029}
