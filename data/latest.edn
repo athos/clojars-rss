@@ -1,12 +1,3 @@
-{:jar_name "kit-sql-conman", :group_name "io.github.kit-clj", :version "1.10.5", :description nil, :created 1725467798515}
-{:jar_name "kit-sql-hikari", :group_name "io.github.kit-clj", :version "1.0.6", :description nil, :created 1725467815608}
-{:jar_name "kit-undertow", :group_name "io.github.kit-clj", :version "1.0.7", :description nil, :created 1725467843976}
-{:jar_name "deps-template", :group_name "io.github.kit-clj", :version "0.1.65", :description nil, :created 1725467866051}
-{:jar_name "rax", :group_name "com.fooheads", :version "0.1.7", :description "...", :created 1725469132581}
-{:jar_name "rax", :group_name "com.fooheads", :version "0.2.0", :description "...", :created 1725481706996}
-{:jar_name "kmono-build", :group_name "com.kepler16", :version "4.0.0", :description "A suite of tools for use within tools.build", :created 1725482758207}
-{:jar_name "kmono-git", :group_name "com.kepler16", :version "4.0.0", :description "Simple git interface", :created 1725483225173}
-{:jar_name "kmono-core", :group_name "com.kepler16", :version "4.0.0", :description "The core kmono package and graph API's", :created 1725483319045}
 {:jar_name "kmono-log", :group_name "com.kepler16", :version "4.0.0", :description "Terminal logging API's used by kmono", :created 1725484143575}
 {:jar_name "kmono-cp", :group_name "com.kepler16", :version "4.0.0", :description "Construct classpaths from a clojure monorepo", :created 1725484198736}
 {:jar_name "kmono-version", :group_name "com.kepler16", :version "4.0.0", :description "Tools for versioning kmono packages", :created 1725484205736}
@@ -219,7 +210,6 @@
 {:jar_name "encore", :group_name "com.taoensso", :version "3.119.0", :description "Core utils library for Clojure/Script", :created 1726137015902}
 {:jar_name "telemere-shell", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Minimal Telemere shell API for library authors, etc.", :created 1726137058602}
 {:jar_name "telemere-slf4j", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Telemere backend/provider for SLF4J API v2", :created 1726137139773}
-{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Structured telemetry library for Clojure/Script", :created 1726137144053}
 {:jar_name "test.spread", :group_name "house.jux", :version "2024.09.12", :description "Support for highly expressive, two-dimensional tests represented as spreadsheets.", :created 1726144932774}
 {:jar_name "ductile", :group_name "threatgrid", :version "0.5.0-SNAPSHOT", :description "Yet another Clojure client for Elasticsearch REST API, that fits our needs", :created 1726145788533}
 {:jar_name "fulcro-rad", :group_name "com.fulcrologic", :version "1.6.6", :description "A library for rapid application development in Fulcro", :created 1726145859553}
@@ -254,3 +244,13 @@
 {:jar_name "common-clj", :group_name "net.clojars.macielti", :version "29.61.64", :description "Just common Clojure code that I use across projects", :created 1726241426224}
 {:jar_name "quanta", :group_name "io.github.clojure-quant", :version "0.4.854", :description nil, :created 1726241467025}
 {:jar_name "lambdaconnect-model", :group_name "io.spinney", :version "1.0.25", :description "Model parsing and scoping", :created 1726242735641}
+{:jar_name "lambdaconnect-sync", :group_name "io.spinney", :version "1.0.28", :description "Synchronisation library", :created 1726243349358}
+{:jar_name "quanta-studio", :group_name "io.github.clojure-quant", :version "0.3.62", :description nil, :created 1726244017353}
+{:jar_name "tech.ml.dataset", :group_name "techascent", :version "7.032", :description nil, :created 1726244100998}
+{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Structured telemetry library for Clojure/Script", :created 1726245179022}
+{:jar_name "automaton-build", :group_name "org.clojars.hephaistox", :version "3.0.2-la", :description nil, :created 1726246135021}
+{:jar_name "automaton-core", :group_name "org.clojars.hephaistox", :version "1.4.0-la", :description nil, :created 1726246175271}
+{:jar_name "automaton-web", :group_name "org.clojars.hephaistox", :version "2.1.0-la", :description nil, :created 1726246212462}
+{:jar_name "automaton-web-dev", :group_name "org.clojars.hephaistox", :version "0.2.0-la", :description nil, :created 1726246250932}
+{:jar_name "automaton-optimization", :group_name "org.clojars.hephaistox", :version "2.2.0-la", :description nil, :created 1726246287193}
+{:jar_name "automaton-simulation-de", :group_name "org.clojars.hephaistox", :version "4.3.0-la", :description nil, :created 1726246326303}
