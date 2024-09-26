@@ -147,7 +147,6 @@
 {:jar_name "lambdaconnect-sync", :group_name "io.spinney", :version "1.0.29", :description "Synchronisation library", :created 1727075252236}
 {:jar_name "telemere-slf4j", :group_name "com.taoensso", :version "1.0.0-beta24", :description "Telemere backend/provider for SLF4J API v2", :created 1727075970544}
 {:jar_name "telemere-shell", :group_name "com.taoensso", :version "1.0.0-beta24", :description "Minimal Telemere shell API for library authors, etc.", :created 1727076003454}
-{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Structured telemetry library for Clojure/Script", :created 1727076167416}
 {:jar_name "automaton-build", :group_name "org.clojars.hephaistox", :version "3.2.0-34-la", :description nil, :created 1727080486685}
 {:jar_name "automaton-build", :group_name "org.clojars.hephaistox", :version "3.2.0-37-la", :description nil, :created 1727083808691}
 {:jar_name "automaton-build", :group_name "org.clojars.hephaistox", :version "3.2.0-38-la", :description nil, :created 1727089070900}
@@ -200,7 +199,6 @@
 {:jar_name "paco", :group_name "com.fbeyer", :version "0.3.119", :description "Parser combinators for Clojure(Script)", :created 1727179052945}
 {:jar_name "flow-storm-inst", :group_name "com.github.flow-storm", :version "3.17.4", :description nil, :created 1727181181395}
 {:jar_name "flow-storm-dbg", :group_name "com.github.flow-storm", :version "3.17.4", :description nil, :created 1727181223384}
-{:jar_name "carmine", :group_name "com.taoensso", :version "3.5.0-SNAPSHOT", :description "Redis client + message queue for Clojure", :created 1727184600234}
 {:jar_name "openai-clojure", :group_name "net.clojars.wkok", :version "0.21.1", :description "Clojure functions to drive the OpenAI API", :created 1727189663519}
 {:jar_name "editscript", :group_name "io.github.tonsky", :version "0.6.4", :description "A diff library for Clojure/ClojureScript data structures", :created 1727190702710}
 {:jar_name "automaton-build", :group_name "org.clojars.hephaistox", :version "3.2.1", :description nil, :created 1727192326078}
@@ -254,3 +252,5 @@
 {:jar_name "api-server-test", :group_name "com.sixsq.nuvla", :version "6.9.1-SNAPSHOT", :description "core api server test", :created 1727336571621}
 {:jar_name "datahike", :group_name "io.replikativ", :version "0.6.1584", :description "A durable datalog implementation adaptable for distribution.", :created 1727336872894}
 {:jar_name "lambdaconnect-model", :group_name "io.spinney", :version "1.0.28", :description "Model parsing and scoping", :created 1727337029295}
+{:jar_name "carmine", :group_name "com.taoensso", :version "3.5.0-SNAPSHOT", :description "Redis client + message queue for Clojure", :created 1727338051922}
+{:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Structured telemetry library for Clojure/Script", :created 1727339576657}
