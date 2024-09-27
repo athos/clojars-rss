@@ -1,5 +1,3 @@
-{:jar_name "typed.clj.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for Clojure — full system for annotating and type-checking.", :created 1726808023037}
-{:jar_name "typed.cljs.runtime", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Runtime dependencies for ClojureScript type system.", :created 1726808030897}
 {:jar_name "typed.cljs.checker", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :created 1726808039187}
 {:jar_name "typed.malli", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Malli integration", :created 1726808050247}
 {:jar_name "typed.lib.core.async", :group_name "org.typedclojure", :version "1.2.2-SNAPSHOT", :description "Type annotations and macros for core.async.", :created 1726808059737}
@@ -253,4 +251,6 @@
 {:jar_name "reagent-table", :group_name "org.pinkgorilla", :version "0.2.32", :description nil, :created 1727399548133}
 {:jar_name "reagent-table", :group_name "org.pinkgorilla", :version "0.2.33", :description nil, :created 1727404847011}
 {:jar_name "jonotin", :group_name "jonotin", :version "0.4.2", :description "Google Pub/Sub Java SDK wrapper", :created 1727421437232}
-{:jar_name "scheduler", :group_name "net.clojars.zhaoyul", :version "0.6.3-SNAPSHOT", :description "系统调度器", :created 1727425354146}
+{:jar_name "contajners", :group_name "org.clojars.lispyclouds", :version "1.0.6", :description "An idiomatic, data-driven, REPL friendly clojure client for OCI container engines", :created 1727428584149}
+{:jar_name "document-search-commons", :group_name "lupapiste", :version "2.0.12", :description "Common document search related code shared between lupadoku and onkalo applications", :created 1727429245156}
+{:jar_name "scheduler", :group_name "net.clojars.zhaoyul", :version "0.6.3-SNAPSHOT", :description "系统调度器", :created 1727429338617}
