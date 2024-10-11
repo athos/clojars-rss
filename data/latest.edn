@@ -78,7 +78,6 @@
 {:jar_name "quanta-studio", :group_name "io.github.clojure-quant", :version "0.4.143", :description nil, :created 1728047847290}
 {:jar_name "stats", :group_name "kixi", :version "0.5.6", :description "A library of statistical distribution sampling and transducing functions", :created 1728048243487}
 {:jar_name "pipeline", :group_name "com.fooheads", :version "0.1.4", :description "...", :created 1728048820156}
-{:jar_name "dda-build", :group_name "org.domaindrivenarchitecture", :version "0.1.1-SNAPSHOT", :description nil, :created 1728055180350}
 {:jar_name "coffi", :group_name "org.suskalo", :version "1.0.486", :description "A Foreign Function Interface in Clojure for JDK 22+.", :created 1728056871818}
 {:jar_name "elle", :group_name "elle", :version "0.2.2", :description "Black-box transactional consistency checker based on cycle detection", :created 1728058338518}
 {:jar_name "jepsen", :group_name "jepsen", :version "0.3.6-SNAPSHOT", :description "Distributed systems testing framework.", :created 1728060448471}
@@ -235,7 +234,6 @@
 {:jar_name "nd-db", :group_name "com.luposlip", :version "0.9.0-beta15", :description "Clojure library to use newline delimited files as fast read-only databases.", :created 1728583613837}
 {:jar_name "babashka.impl.java", :group_name "org.babashka", :version "0.1.9", :description nil, :created 1728585805558}
 {:jar_name "babashka.impl.java", :group_name "org.babashka", :version "0.1.10", :description nil, :created 1728587029887}
-{:jar_name "babashka", :group_name "babashka", :version "1.4.193-SNAPSHOT", :description "babashka", :created 1728587687557}
 {:jar_name "fully-satisfies", :group_name "io.github.frenchy64", :version "1.12.1-SNAPSHOT", :description "A variant of clojure.core/satisfies? that checks all methods are implemented.", :created 1728590104015}
 {:jar_name "morf", :group_name "com.lambdaisland", :version "0.5.23", :description "deform / with-form macros for reagent", :created 1728590230197}
 {:jar_name "simpleui", :group_name "io.simpleui", :version "1.6.0", :description "Backend helpers for htmx", :created 1728590475571}
@@ -254,3 +252,5 @@
 {:jar_name "common-clj", :group_name "net.clojars.macielti", :version "30.66.70", :description "Just common Clojure code that I use across projects", :created 1728615476401}
 {:jar_name "encore", :group_name "com.taoensso", :version "3.123.0-SNAPSHOT", :description "Core utils library for Clojure/Script", :created 1728639203501}
 {:jar_name "telemere", :group_name "com.taoensso", :version "1.0.0-SNAPSHOT", :description "Structured telemetry library for Clojure/Script", :created 1728641808271}
+{:jar_name "babashka", :group_name "babashka", :version "1.4.193-SNAPSHOT", :description "babashka", :created 1728644752034}
+{:jar_name "dda-build", :group_name "org.domaindrivenarchitecture", :version "0.1.1-SNAPSHOT", :description nil, :created 1728647853679}
