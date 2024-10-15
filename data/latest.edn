@@ -1,6 +1,3 @@
-{:jar_name "quanta-bar-warehouse", :group_name "io.github.clojure-quant", :version "0.1.2", :description nil, :created 1728151207478}
-{:jar_name "quanta-dag-algo", :group_name "io.github.clojure-quant", :version "0.1.1", :description nil, :created 1728152107763}
-{:jar_name "quanta-studio", :group_name "io.github.clojure-quant", :version "0.4.147", :description nil, :created 1728152309567}
 {:jar_name "ring-jetty9-adapter-http3", :group_name "info.sunng", :version "0.6.1", :description "Ring adapter for jetty 9 and above, meta package for http3", :created 1728154619537}
 {:jar_name "ring-jetty9-adapter-http2", :group_name "info.sunng", :version "0.1.1", :description "Ring adapter for jetty 9 and above, meta package for http2", :created 1728156499720}
 {:jar_name "ring-jetty9-adapter", :group_name "info.sunng", :version "0.35.1", :description "Ring adapter for jetty9, which supports websocket and spdy", :created 1728156518761}
@@ -207,7 +204,6 @@
 {:jar_name "reagent-table", :group_name "org.pinkgorilla", :version "0.2.58", :description nil, :created 1728881328352}
 {:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.9.49", :description nil, :created 1728881732489}
 {:jar_name "agentlang", :group_name "com.github.agentlang-ai", :version "0.6.0-alpha4", :description "", :created 1728885365514}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.8.1-SNAPSHOT", :description nil, :created 1728891085308}
 {:jar_name "di", :group_name "org.clojars.darkleaf", :version "3.1.0", :description nil, :created 1728893981212}
 {:jar_name "ring-oidc-session", :group_name "com.halo9000", :version "1.0.30", :description "Clojure Ring OIDC session handling.", :created 1728906656039}
 {:jar_name "google-displayvideo-clj", :group_name "com.adgoji", :version "1.1.3", :description nil, :created 1728909447904}
@@ -251,6 +247,10 @@
 {:jar_name "dockler", :group_name "io.github.jarppe", :version "0.0.7", :description nil, :created 1728998073714}
 {:jar_name "babashka", :group_name "babashka", :version "1.12.195-SNAPSHOT", :description "babashka", :created 1728998332768}
 {:jar_name "scheduler", :group_name "net.clojars.zhaoyul", :version "0.6.5-SNAPSHOT", :description "系统调度器", :created 1728998627383}
-{:jar_name "clofidence", :group_name "com.github.flow-storm", :version "0.4.1-SNAPSHOT", :description nil, :created 1728999682059}
 {:jar_name "quanta", :group_name "io.github.clojure-quant", :version "0.4.885", :description nil, :created 1729000416030}
 {:jar_name "quanta-studio", :group_name "io.github.clojure-quant", :version "0.4.181", :description nil, :created 1729000660873}
+{:jar_name "duck-repled", :group_name "link.szabo.mauricio", :version "2024-10-15.14.15", :description "Query interactions with REPLs with Pathom", :created 1729001747580}
+{:jar_name "app", :group_name "com.monkeyci", :version "0.8.1-SNAPSHOT", :description nil, :created 1729002030805}
+{:jar_name "clofidence", :group_name "com.github.flow-storm", :version "0.4.1-SNAPSHOT", :description nil, :created 1729003177452}
+{:jar_name "clj-uuid", :group_name "danlentz", :version "0.2.1-SNAPSHOT", :description "A Clojure library for generation and utilization of\n                UUIDs (Universally Unique Identifiers) as described by\n                RFC-9562. This library extends the standard Java\n                UUID class to provide true v1, v6, v7 (time based) and\n                v3/v5 (namespace based), and v8 (user customizable)\n                identifier generation. Additionally, a number of useful\n                utilities are provided to support serialization and\n                manipulation of these UUIDs in a simple, efficient\n                manner.", :created 1729003540517}
+{:jar_name "statecharts", :group_name "com.fulcrologic", :version "1.2.6", :description "A library for building CLJC statechart machines.", :created 1729003986643}
