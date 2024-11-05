@@ -1,5 +1,3 @@
-{:jar_name "martian-test", :group_name "com.github.oliyh", :version "0.1.28", :description "Testing tools for martian", :created 1730148632446}
-{:jar_name "martian-babashka-http-client", :group_name "com.github.oliyh", :version "0.1.28", :description "babashka http-client implementation for martian", :created 1730148660626}
 {:jar_name "reagent-table", :group_name "org.pinkgorilla", :version "0.3.65", :description nil, :created 1730148952185}
 {:jar_name "electrify-html", :group_name "com.github.intronic", :version "1.0.8", :description "Generate Electric DOM code from HTML fragments.", :created 1730151084526}
 {:jar_name "quanta-market", :group_name "io.github.clojure-quant", :version "0.1.150", :description nil, :created 1730153505575}
@@ -35,7 +33,6 @@
 {:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.9.54", :description nil, :created 1730222339512}
 {:jar_name "lein-clojure-lsp", :group_name "com.github.clojure-lsp", :version "1.4.13", :description "Lein plugin to run clojure-lsp features via API.", :created 1730222421382}
 {:jar_name "zodiac", :group_name "com.github.brettatoms", :version "0.1.9999-SNAPSHOT", :description "A simple and extensible web framework for Clojure", :created 1730223505839}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.6.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1730225146284}
 {:jar_name "rbac.next", :group_name "dev.gethop", :version "0.1.0-alpha-9", :description "A Clojure library designed to provide role-based access control (RBAC)", :created 1730229347134}
 {:jar_name "trapperkeeper-filesystem-watcher", :group_name "puppetlabs", :version "1.2.6", :description "Trapperkeeper filesystem watcher service", :created 1730244632303}
 {:jar_name "dali", :group_name "org.pinkgorilla", :version "0.1.21", :description nil, :created 1730247652615}
@@ -247,10 +244,13 @@
 {:jar_name "utils", :group_name "emptyone", :version "1.0.14", :description "Clojure useful utils", :created 1730804344490}
 {:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.23.10", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1730807900644}
 {:jar_name "commons", :group_name "lupapiste", :version "5.3.6", :description "Common domain code and resources for lupapiste applications", :created 1730808591348}
-{:jar_name "himmelsstuermer", :group_name "io.github.algoflora", :version "0.1.3-SNAPSHOT", :description "Himmelsstuermer - A framework for complex Telegram Bots development", :created 1730808982075}
 {:jar_name "openai-clojure", :group_name "com.github.pdenno", :version "0.21.175", :description "Clojure functions to drive the OpenAI API", :created 1730810811982}
 {:jar_name "database.sql", :group_name "org.duct-framework", :version "0.2.0", :description "Integrant methods for connecting to a SQL database", :created 1730814050938}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.09.28-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1730816795246}
 {:jar_name "database.sql.hikaricp", :group_name "org.duct-framework", :version "0.5.0", :description "Integrant methods for a SQL database connection pool", :created 1730817341274}
 {:jar_name "quanta-market", :group_name "io.github.clojure-quant", :version "0.1.156", :description nil, :created 1730820364041}
 {:jar_name "openai-clojure", :group_name "com.github.pdenno", :version "0.21.176", :description nil, :created 1730825334423}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.6.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1730826687749}
+{:jar_name "aws-cdk-clojure", :group_name "io.github.dfrugg", :version "2.144.0-beta0", :description "AWS CDK support library for clojure.", :created 1730826733359}
+{:jar_name "websocket-layer", :group_name "com.ryrobes", :version "0.1.12-SNAPSHOT", :description "A layer of glue for jetty and core.async", :created 1730828257824}
+{:jar_name "himmelsstuermer", :group_name "io.github.algoflora", :version "0.1.3-SNAPSHOT", :description "Himmelsstuermer - A framework for complex Telegram Bots development", :created 1730828824643}
