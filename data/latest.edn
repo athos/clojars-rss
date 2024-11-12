@@ -1,9 +1,3 @@
-{:jar_name "powerpack", :group_name "no.cjohansen", :version "2024.11.05", :description "A batteries included static website framework", :created 1730796273255}
-{:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.23.4", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1730796506744}
-{:jar_name "postgresql-component", :group_name "net.clojars.macielti", :version "2.1.2", :description "PostgreSQL Component", :created 1730797768968}
-{:jar_name "datomic-component", :group_name "net.clojars.macielti", :version "1.0.1", :description "Datomic Component", :created 1730798804254}
-{:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.23.6", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1730802712987}
-{:jar_name "clj-http-fake", :group_name "org.clojars.bigsy", :version "1.0.6", :description "Helper for faking clj-http requests in testing, like Ruby's fakeweb.", :created 1730803531514}
 {:jar_name "common-clj", :group_name "net.clojars.macielti", :version "33.70.70", :description "Just common Clojure code that I use across projects", :created 1730803553703}
 {:jar_name "utils", :group_name "emptyone", :version "1.0.14", :description "Clojure useful utils", :created 1730804344490}
 {:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.23.10", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1730807900644}
@@ -41,7 +35,6 @@
 {:jar_name "pg2-component", :group_name "com.github.igrishaev", :version "0.1.20", :description "Component wrapper for PG2", :created 1730884554667}
 {:jar_name "pg2-migration", :group_name "com.github.igrishaev", :version "0.1.20", :description "Migration utilities for PG2", :created 1730884582797}
 {:jar_name "pg2-hugsql", :group_name "com.github.igrishaev", :version "0.1.20", :description "HugSQL wrapper for PG2", :created 1730884601057}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.9.2-SNAPSHOT", :description nil, :created 1730885803402}
 {:jar_name "scheduler", :group_name "net.clojars.zhaoyul", :version "0.7.4-SNAPSHOT", :description "系统调度器", :created 1730888887560}
 {:jar_name "noj", :group_name "org.scicloj", :version "2-alpha10.1", :description "A Clojure framework for data science", :created 1730890524923}
 {:jar_name "pondermatic", :group_name "tech.totalperspective", :version "1.23.13", :description "A functional effect system driven rules engine for Clojure/ClojureScript", :created 1730892834274}
@@ -242,7 +235,6 @@
 {:jar_name "whisper-cpp-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "c96906d84dd6a1c40ea797ad542df3a0c47307a3-SNAPSHOT", :description nil, :created 1731420089816}
 {:jar_name "whisper-cpp-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "c96906d84dd6a1c40ea797ad542df3a0c47307a3-SNAPSHOT", :description nil, :created 1731420106376}
 {:jar_name "whisper-cpp-darwin-x86-64", :group_name "com.phronemophobic.cljonda", :version "c96906d84dd6a1c40ea797ad542df3a0c47307a3-SNAPSHOT", :description nil, :created 1731420224275}
-{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.09.28-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1731421372870}
 {:jar_name "plugin-monkeyci-infra", :group_name "com.monkeyci", :version "0.1.1-SNAPSHOT", :description nil, :created 1731422368605}
 {:jar_name "statecharts", :group_name "com.fulcrologic", :version "1.2.8-SNAPSHOT", :description "A library for building CLJC statechart machines.", :created 1731422371785}
 {:jar_name "flow-storm-dbg", :group_name "com.github.flow-storm", :version "4.0.1", :description nil, :created 1731422382354}
@@ -254,3 +246,11 @@
 {:jar_name "pg2-component", :group_name "com.github.igrishaev", :version "0.1.21", :description "Component wrapper for PG2", :created 1731423605888}
 {:jar_name "pg2-migration", :group_name "com.github.igrishaev", :version "0.1.21", :description "Migration utilities for PG2", :created 1731423631468}
 {:jar_name "pg2-hugsql", :group_name "com.github.igrishaev", :version "0.1.21", :description "HugSQL wrapper for PG2", :created 1731423647038}
+{:jar_name "whisper-cpp-darwin-aarch64", :group_name "com.phronemophobic.cljonda", :version "c96906d84dd6a1c40ea797ad542df3a0c47307a3", :description nil, :created 1731423891927}
+{:jar_name "whisper-cpp-linux-x86-64", :group_name "com.phronemophobic.cljonda", :version "c96906d84dd6a1c40ea797ad542df3a0c47307a3", :description nil, :created 1731423899887}
+{:jar_name "whisper-cpp-darwin-x86-64", :group_name "com.phronemophobic.cljonda", :version "c96906d84dd6a1c40ea797ad542df3a0c47307a3", :description nil, :created 1731424026126}
+{:jar_name "wrap", :group_name "com.tolitius", :version "0.1.006", :description "wrap before, after and around: a.k.a. a.o.p.", :created 1731424657363}
+{:jar_name "funcade", :group_name "tolitius", :version "0.1.27", :description "creates, manages and refreshes oauth 2.0 jwt tokens", :created 1731425151720}
+{:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.09.28-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1731425350529}
+{:jar_name "app", :group_name "com.monkeyci", :version "0.9.2-SNAPSHOT", :description nil, :created 1731426420904}
+{:jar_name "reagent-table", :group_name "org.pinkgorilla", :version "0.3.80", :description nil, :created 1731426766152}
