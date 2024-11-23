@@ -1,6 +1,3 @@
-{:jar_name "agentlang", :group_name "com.github.agentlang-ai", :version "0.6.1-alpha3", :description "", :created 1731563999242}
-{:jar_name "lambdaconnect-sync", :group_name "io.spinney", :version "1.0.38", :description "Synchronisation library", :created 1731571730881}
-{:jar_name "uix.core", :group_name "com.pitch", :version "1.2.0", :description nil, :created 1731577830039}
 {:jar_name "uix.dom", :group_name "com.pitch", :version "1.2.0", :description nil, :created 1731577905130}
 {:jar_name "conceptual", :group_name "org.clojars.jekyllislandtours", :version "0.1.114", :description "Conceptual is a fast JVM based in-memory concept database that can be used as a feature store, graph database, and more.", :created 1731581679824}
 {:jar_name "design", :group_name "io.mattilsynet", :version "0.0.5.3", :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :created 1731583768799}
@@ -185,7 +182,6 @@
 {:jar_name "module.logging", :group_name "org.duct-framework", :version "0.6.3", :description "Logging module for Duct", :created 1732155428870}
 {:jar_name "common-test-clj", :group_name "net.clojars.macielti", :version "3.1.2", :description "Common utilities for testing Clojure code", :created 1732155445179}
 {:jar_name "duck-repled", :group_name "link.szabo.mauricio", :version "2024-11-21.02.25", :description "Query interactions with REPLs with Pathom", :created 1732155916947}
-{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1732169189430}
 {:jar_name "kairos", :group_name "org.pilosus", :version "0.2.9999-SNAPSHOT", :description "Crontab parsing library that also speaks English", :created 1732176362401}
 {:jar_name "test", :group_name "com.monkeyci", :version "0.10.1-SNAPSHOT", :description nil, :created 1732181660323}
 {:jar_name "agentlang", :group_name "com.github.agentlang-ai", :version "0.6.1-alpha6", :description "", :created 1732183200934}
@@ -241,7 +237,6 @@
 {:jar_name "yesql", :group_name "yesql", :version "0.6.0-alpha1", :description "A Clojure library for using SQL", :created 1732321841204}
 {:jar_name "lasertag", :group_name "io.github.paintparty", :version "0.9.0", :description "Clojure(Script) utility for discerning types of values.", :created 1732322181996}
 {:jar_name "machinate", :group_name "com.manigfeald", :version "0.0.50", :description nil, :created 1732345028634}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.6.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1732349685076}
 {:jar_name "prop-types", :group_name "cljsjs", :version "15.8.1-0", :description "Runtime type checking for React props and similar objects", :created 1732356117870}
 {:jar_name "common-clj", :group_name "net.clojars.macielti", :version "41.73.72", :description "Just common Clojure code that I use across projects", :created 1732365537352}
 {:jar_name "common-test-clj", :group_name "net.clojars.macielti", :version "3.2.2", :description "Common utilities for testing Clojure code", :created 1732366199633}
@@ -254,3 +249,8 @@
 {:jar_name "module.logging", :group_name "org.duct-framework", :version "0.6.4", :description "Logging module for Duct", :created 1732382648592}
 {:jar_name "zodiac", :group_name "com.github.brettatoms", :version "0.4.9999-SNAPSHOT", :description "A simple and extensible web framework for Clojure", :created 1732387761362}
 {:jar_name "reval", :group_name "org.pinkgorilla", :version "0.9.174", :description nil, :created 1732387982056}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.6.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1732388761916}
+{:jar_name "reval", :group_name "org.pinkgorilla", :version "0.9.176", :description nil, :created 1732389402430}
+{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1732389628704}
+{:jar_name "reagent-table", :group_name "org.pinkgorilla", :version "0.3.87", :description nil, :created 1732389664133}
+{:jar_name "clj-yaml", :group_name "clj-commons", :version "1.0.29", :description "YAML encoding and decoding for Clojure using SnakeYAML", :created 1732390675387}
