@@ -1,19 +1,3 @@
-{:jar_name "konserve", :group_name "io.replikativ", :version "0.7.319", :description "Durable cross-platform key-value store protocol with core.async.", :created 1731880591004}
-{:jar_name "konserve-dynamodb", :group_name "io.replikativ", :version "0.1.14", :description "Konserve DynamoDB Backend", :created 1731881247827}
-{:jar_name "konserve-dynamodb", :group_name "io.replikativ", :version "0.1.17", :description "Konserve DynamoDB Backend", :created 1731885728874}
-{:jar_name "konserve-s3", :group_name "io.replikativ", :version "0.1.13", :description "Konserve S3 Backend", :created 1731885946169}
-{:jar_name "datahike-s3", :group_name "io.replikativ", :version "0.1.13", :description "Datahike S3 Backend", :created 1731886102335}
-{:jar_name "superv.async", :group_name "io.replikativ", :version "0.3.48", :description "Supervised channel management for core.async.", :created 1731886267851}
-{:jar_name "datahike", :group_name "io.replikativ", :version "0.6.1594", :description "A durable datalog implementation adaptable for distribution.", :created 1731886520004}
-{:jar_name "datahike-dynamodb", :group_name "io.replikativ", :version "0.1.8", :description "Datahike DynamoDB Backend", :created 1731886640161}
-{:jar_name "lacinia-pedestal", :group_name "com.walmartlabs", :version "1.3.1", :description nil, :created 1731897890026}
-{:jar_name "clogram", :group_name "dev.meinside", :version "0.31.0", :description "A Telegram Bot Library for Clojure", :created 1731898845922}
-{:jar_name "app", :group_name "com.monkeyci", :version "0.9.2-SNAPSHOT", :description nil, :created 1731915811323}
-{:jar_name "agentlang", :group_name "com.github.agentlang-ai", :version "0.6.1-alpha4", :description "", :created 1731922437565}
-{:jar_name "openapi-v3-validator", :group_name "nl.jomco", :version "0.2.2", :description nil, :created 1731923072329}
-{:jar_name "wrepl", :group_name "net.ofnir", :version "0.2.0-SNAPSHOT", :description "", :created 1731925340842}
-{:jar_name "powerpack", :group_name "no.cjohansen", :version "2024.11.18", :description "A batteries included static website framework", :created 1731927572775}
-{:jar_name "commons", :group_name "lupapiste", :version "5.3.7", :description "Common domain code and resources for lupapiste applications", :created 1731929135136}
 {:jar_name "conceptual", :group_name "org.clojars.jekyllislandtours", :version "0.1.115", :description "Conceptual is a fast JVM based in-memory concept database that can be used as a feature store, graph database, and more.", :created 1731930349665}
 {:jar_name "electric", :group_name "com.hyperfiddle", :version "v3-alpha-SNAPSHOT", :description "A reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary", :created 1731931300771}
 {:jar_name "rewrite-clj", :group_name "rewrite-clj", :version "1.1.49", :description "Rewrite Clojure code and edn", :created 1731936156448}
@@ -224,8 +208,6 @@
 {:jar_name "api-server", :group_name "com.sixsq.nuvla", :version "6.11.3", :description "core api server", :created 1732636589560}
 {:jar_name "api-server-test", :group_name "com.sixsq.nuvla", :version "6.11.3", :description "core api server test", :created 1732636599779}
 {:jar_name "temporal-sdk", :group_name "io.github.manetu", :version "1.1.0", :description "A Temporal SDK for Clojure", :created 1732636840753}
-{:jar_name "api-server", :group_name "com.sixsq.nuvla", :version "6.11.4-SNAPSHOT", :description "core api server", :created 1732636960664}
-{:jar_name "api-server-test", :group_name "com.sixsq.nuvla", :version "6.11.4-SNAPSHOT", :description "core api server test", :created 1732636979797}
 {:jar_name "full.cache", :group_name "fullcontact", :version "1.3.0", :description "In-memory + memcache caching for Clojure with async loading.", :created 1732637504223}
 {:jar_name "vura.cron", :group_name "com.github.gersak", :version "0.5.4", :description "Vura timezone DB", :created 1732640335204}
 {:jar_name "vura", :group_name "com.github.gersak", :version "0.5.9", :description "Clojure time/calendar library", :created 1732640382413}
@@ -254,3 +236,21 @@
 {:jar_name "vajram-guice", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1732701625777}
 {:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1732701630367}
 {:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1732701670466}
+{:jar_name "blocks", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702073946}
+{:jar_name "blocks-ring", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702084816}
+{:jar_name "blocks-rabbitmq-dev", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702094816}
+{:jar_name "blocks-dev", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702103375}
+{:jar_name "blocks-xtdb", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702110915}
+{:jar_name "blocks-jdbc", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702124305}
+{:jar_name "blocks-sqlite", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702137694}
+{:jar_name "blocks-postgres", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702154504}
+{:jar_name "blocks-rabbitmq", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702179543}
+{:jar_name "blocks-postgres-dev", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702193963}
+{:jar_name "blocks-reitit", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702214592}
+{:jar_name "blocks-aero", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702223552}
+{:jar_name "blocks-test-containers", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702232912}
+{:jar_name "blocks-reitit-dev", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702242412}
+{:jar_name "blocks-httpkit", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702249962}
+{:jar_name "blocks-jdbc-dev", :group_name "ch.codesmith", :version "0.11.155", :description nil, :created 1732702260391}
+{:jar_name "api-server", :group_name "com.sixsq.nuvla", :version "6.11.4-SNAPSHOT", :description "core api server", :created 1732703433811}
+{:jar_name "api-server-test", :group_name "com.sixsq.nuvla", :version "6.11.4-SNAPSHOT", :description "core api server test", :created 1732703444661}
