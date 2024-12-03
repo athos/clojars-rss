@@ -162,15 +162,7 @@
 {:jar_name "tools.logging", :group_name "io.blockether", :version "1.1.2", :description "Clojure logging API.", :created 1733126188005}
 {:jar_name "telsos-sysload", :group_name "com.github.kongra", :version "0.1.15", :description nil, :created 1733127742322}
 {:jar_name "sentry-clj", :group_name "io.sentry", :version "7.18.223", :description "A very thin wrapper around the official Java library for Sentry.", :created 1733128276730}
-{:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733128461231}
-{:jar_name "krystal-bom", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733128467801}
-{:jar_name "vajram", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733128479527}
-{:jar_name "vajram-guice", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733128479550}
-{:jar_name "honeycomb", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733128479617}
-{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733128479620}
 {:jar_name "krystal-common", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733128480407}
-{:jar_name "krystex", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733128480654}
-{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733128492626}
 {:jar_name "liberator-hal-events-resource", :group_name "b-social", :version "0.0.19", :description "A HAL events resource for liberator.", :created 1733133100987}
 {:jar_name "screedcast", :group_name "com.sagevisuals", :version "0-SNAPSHOT1", :description "A highly un-configurable library for generating coding screencasts.", :created 1733138058340}
 {:jar_name "hikari-cp", :group_name "hikari-cp", :version "3.2.0", :description "A Clojure wrapper to HikariCP JDBC connection pool", :created 1733138179727}
@@ -254,3 +246,11 @@
 {:jar_name "ragtime.next-jdbc", :group_name "dev.weavejester", :version "0.11.0", :description "Ragtime migrations for next.jdbc", :created 1733242994125}
 {:jar_name "ragtime", :group_name "dev.weavejester", :version "0.11.0", :description "A database-independent migration library", :created 1733243136716}
 {:jar_name "clj-kondo", :group_name "clj-kondo", :version "2024.11.16-SNAPSHOT", :description "A linter for Clojure that sparks joy.", :created 1733243433860}
+{:jar_name "krystal-bom", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733245881616}
+{:jar_name "com.flipkart.krystal.gradle.plugin", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733245882456}
+{:jar_name "vajram-guice", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733245886806}
+{:jar_name "honeycomb", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733245888066}
+{:jar_name "krystex", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733245888196}
+{:jar_name "vajram-krystex", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733245888216}
+{:jar_name "vajram", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733245888416}
+{:jar_name "vajram-codegen", :group_name "com.flipkart.krystal", :version "8.0.0-SNAPSHOT", :description nil, :created 1733245905106}
