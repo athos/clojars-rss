@@ -1,8 +1,3 @@
-{:jar_name "dtlvnative-macosx-arm64", :group_name "org.clojars.huahaiy", :version "0.10.9", :description "Native dependency of embedded library version of Datalevin on Apple Silicon", :created 1733329075571}
-{:jar_name "had-utils", :group_name "org.clojars.hading", :version "6.1.0", :description "Personal utilites", :created 1733330017773}
-{:jar_name "had-utils", :group_name "org.clojars.hading", :version "6.1.2", :description "Personal utilites", :created 1733333043703}
-{:jar_name "lein-template.aoc", :group_name "org.clojars.hading", :version "6.1.2", :description "Leiningen template for my personal Advent of Code projects", :created 1733333420663}
-{:jar_name "knossos", :group_name "knossos", :version "0.3.11", :description "Linearizability checker", :created 1733336591141}
 {:jar_name "maelstrom", :group_name "maelstrom", :version "0.2.4", :description "A test bench for writing toy distributed systems", :created 1733337655604}
 {:jar_name "had-utils", :group_name "org.clojars.hading", :version "6.2.0", :description "Personal utilites", :created 1733347946608}
 {:jar_name "lein-template.aoc", :group_name "org.clojars.hading", :version "6.2.0", :description "Leiningen template for my personal Advent of Code projects", :created 1733348004247}
@@ -254,3 +249,8 @@
 {:jar_name "toucan2-toucan1", :group_name "io.github.camsaul", :version "1.0.560", :description "Toucan 1 reimplemented in terms of Toucan 2. Compatibility layer for existing projects using Toucan 1.", :created 1734545563354}
 {:jar_name "cljc-misc", :group_name "com.wsscode", :version "2024.12.18", :description "Collection of general utils for Clojure and Clojurescript.", :created 1734568372663}
 {:jar_name "carmine", :group_name "com.taoensso", :version "3.5.0-alpha5", :description "Redis client + message queue for Clojure", :created 1734594963012}
+{:jar_name "pg2-core", :group_name "com.github.igrishaev", :version "0.1.24", :description "Postgres client in pure Java (no JDBC)", :created 1734595702994}
+{:jar_name "pg2-honey", :group_name "com.github.igrishaev", :version "0.1.24", :description "HoneySQL wrapper for PG2", :created 1734595720780}
+{:jar_name "pg2-component", :group_name "com.github.igrishaev", :version "0.1.24", :description "Component wrapper for PG2", :created 1734595733575}
+{:jar_name "pg2-migration", :group_name "com.github.igrishaev", :version "0.1.24", :description "Migration utilities for PG2", :created 1734595750289}
+{:jar_name "pg2-hugsql", :group_name "com.github.igrishaev", :version "0.1.24", :description "HugSQL wrapper for PG2", :created 1734595763238}
