@@ -162,7 +162,6 @@
 {:jar_name "dross", :group_name "com.github.kimbsy", :version "1.0.5", :description "DEPRECATED: A Leiningen plugin for identifying potentially unused dependencies.", :created 1734188061766}
 {:jar_name "dross", :group_name "com.kimbsy", :version "1.0.6", :description "A Leiningen plugin for identifying potentially unused dependencies.", :created 1734188273901}
 {:jar_name "module.web", :group_name "org.duct-framework", :version "0.11.1", :description "Duct module for running web applications", :created 1734195362588}
-{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1734207666318}
 {:jar_name "stowaway", :group_name "stowaway", :version "0.1.26", :description "Library for abstracting data storage from business logic", :created 1734212362501}
 {:jar_name "app-lib", :group_name "com.github.dgknght", :version "0.3.18", :description "Library of commonly used functions for web app development", :created 1734212489077}
 {:jar_name "ring-jetty9-adapter-http3", :group_name "info.sunng", :version "0.6.3", :description "Ring adapter for jetty 9 and above, meta package for http3", :created 1734228100856}
@@ -179,7 +178,6 @@
 {:jar_name "lein-test-refresh", :group_name "com.jakemccrary", :version "0.26.0", :description "Leiningen plugin for automatically reload code and run clojure.test tests when files change", :created 1734300695862}
 {:jar_name "fulcro-inspect", :group_name "com.fulcrologic", :version "0.1.0", :description nil, :created 1734303808032}
 {:jar_name "tableplot", :group_name "org.scicloj", :version "1-beta5", :description "Tableplot is a data visualization library composing Hanami templates with Tablecloth datasets", :created 1734306353007}
-{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.6.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1734307577894}
 {:jar_name "scheduler", :group_name "net.clojars.zhaoyul", :version "0.7.9-SNAPSHOT", :description "系统调度器", :created 1734313767047}
 {:jar_name "proj", :group_name "net.willcohen", :version "0.1.0-alpha1", :description "This project provides a native (or transpiled) version of PROJ for both the JVM and JS ecosystems.", :created 1734313939392}
 {:jar_name "portal", :group_name "djblue", :version "0.58.4", :description "A clojure tool to navigate through your data.", :created 1734331189483}
@@ -254,3 +252,5 @@
 {:jar_name "clojure-commons", :group_name "org.cyverse", :version "3.0.10", :description "Common Utilities for Clojure Projects", :created 1734647067649}
 {:jar_name "fast-edn", :group_name "io.github.tonsky", :version "1.0.0", :description "Fast EDN parser", :created 1734647804691}
 {:jar_name "fast-edn", :group_name "io.github.tonsky", :version "1.1.0", :description "Fast EDN parser", :created 1734658836884}
+{:jar_name "honeysql", :group_name "com.github.seancorfield", :version "2.6.9999-SNAPSHOT", :description "SQL as Clojure data structures.", :created 1734669884466}
+{:jar_name "next.jdbc", :group_name "com.github.seancorfield", :version "1.3.999-SNAPSHOT", :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :created 1734670007567}
