@@ -1,23 +1,3 @@
-{:jar_name "pg2-core", :group_name "com.github.igrishaev", :version "0.1.22", :description "Postgres client in pure Java (no JDBC)", :created 1733592114499}
-{:jar_name "pg2-honey", :group_name "com.github.igrishaev", :version "0.1.22", :description "HoneySQL wrapper for PG2", :created 1733592126989}
-{:jar_name "pg2-component", :group_name "com.github.igrishaev", :version "0.1.22", :description "Component wrapper for PG2", :created 1733592139098}
-{:jar_name "pg2-migration", :group_name "com.github.igrishaev", :version "0.1.22", :description "Migration utilities for PG2", :created 1733592156038}
-{:jar_name "pg2-hugsql", :group_name "com.github.igrishaev", :version "0.1.22", :description "HugSQL wrapper for PG2", :created 1733592168118}
-{:jar_name "dinero", :group_name "io.github.sernamar", :version "0.1.2", :description "A Clojure library for working with money", :created 1733597983967}
-{:jar_name "noj", :group_name "org.scicloj", :version "2-beta1", :description "A Clojure framework for data science", :created 1733611269706}
-{:jar_name "pretty", :group_name "org.clj-commons", :version "3.3.0", :description nil, :created 1733613261784}
-{:jar_name "pinyin", :group_name "org.clojars.dumuji", :version "1.2.0", :description "汉字转拼音首字母的Clojure(Script)库", :created 1733632272579}
-{:jar_name "readmoi", :group_name "com.sagevisuals", :version "3", :description "A Clojure library for generating a project ReadMe from hiccup/html.", :created 1733645083862}
-{:jar_name "chlog", :group_name "com.sagevisuals", :version "1", :description "A Clojure library for maintaining an edn changelog.", :created 1733645553289}
-{:jar_name "screedcast", :group_name "com.sagevisuals", :version "1", :description "A highly un-configurable library for generating coding screencasts.", :created 1733646036251}
-{:jar_name "garden", :group_name "com.lambdaisland", :version "1.6.585", :description "Release of noprompt/garden master to clojars", :created 1733655099258}
-{:jar_name "overarch-java-annotations", :group_name "org.soulspace", :version "0.1.1", :description "", :created 1733657459787}
-{:jar_name "overarch-java", :group_name "org.soulspace", :version "0.1.0", :description "", :created 1733657681092}
-{:jar_name "malli", :group_name "metosin", :version "0.17.0", :description nil, :created 1733674196583}
-{:jar_name "had-utils", :group_name "org.clojars.hading", :version "6.3.2", :description "Personal utilites", :created 1733675674037}
-{:jar_name "lein-template.aoc", :group_name "org.clojars.hading", :version "6.3.2", :description "Leiningen template for my personal Advent of Code projects", :created 1733675734272}
-{:jar_name "collections", :group_name "com.kineticfire", :version "1.1.0", :description "Clojure/ClojureScript utilities for collections", :created 1733676239574}
-{:jar_name "had-utils", :group_name "org.clojars.hading", :version "7.0.0", :description "Personal utilites", :created 1733678192953}
 {:jar_name "lein-template.aoc", :group_name "org.clojars.hading", :version "7.0.0", :description "Leiningen template for my personal Advent of Code projects", :created 1733678844636}
 {:jar_name "libpython-clj", :group_name "clj-python", :version "2.026", :description nil, :created 1733678853546}
 {:jar_name "tech.ml.dataset", :group_name "techascent", :version "7.035", :description nil, :created 1733683450608}
@@ -254,3 +234,23 @@
 {:jar_name "lookup", :group_name "no.cjohansen", :version "2024.12.22", :description "Find content of interest in hiccup data.", :created 1734866665332}
 {:jar_name "cli", :group_name "org.babashka", :version "0.8.62", :description "Turn Clojure functions into CLIs!", :created 1734868183627}
 {:jar_name "cognitect-http-client", :group_name "org.tcrawley", :version "1.11.130", :description "Fork of com.cognitect/http-client that uses Jetty 11", :created 1734880176843}
+{:jar_name "code.java", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898711998}
+{:jar_name "code.project", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898712187}
+{:jar_name "code.manage", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898714842}
+{:jar_name "code.link", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898715287}
+{:jar_name "code.test", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898715767}
+{:jar_name "code.framework", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898715801}
+{:jar_name "code.maven", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898715894}
+{:jar_name "code.query", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898716259}
+{:jar_name "code.doc", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898721320}
+{:jar_name "std.json", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898834100}
+{:jar_name "std.lang", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898836224}
+{:jar_name "std.make", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898836664}
+{:jar_name "std.lib", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898837411}
+{:jar_name "std.math", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898838220}
+{:jar_name "std.pretty", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898849616}
+{:jar_name "std.text", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898850357}
+{:jar_name "std.object", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734898851900}
+{:jar_name "jvm", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734899001314}
+{:jar_name "lib.aether", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734899002294}
+{:jar_name "lib.openpgp", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734899041162}
