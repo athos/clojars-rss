@@ -1,27 +1,3 @@
-{:jar_name "gen", :group_name "baby.pat", :version "0.0.2", :description nil, :created 1733860673065}
-{:jar_name "td", :group_name "baby.pat", :version "0.0.2", :description nil, :created 1733863737757}
-{:jar_name "tmpfs", :group_name "baby.pat", :version "0.0.2", :description nil, :created 1733864569386}
-{:jar_name "mod-repl", :group_name "baby.pat", :version "0.2.0", :description nil, :created 1733865528812}
-{:jar_name "nm", :group_name "baby.pat", :version "0.0.2", :description nil, :created 1733866130956}
-{:jar_name "simplaws", :group_name "baby.pat", :version "0.1.3", :description nil, :created 1733867608589}
-{:jar_name "simplaws-jvm", :group_name "baby.pat", :version "0.1.2", :description nil, :created 1733868154975}
-{:jar_name "supatom", :group_name "baby.pat", :version "0.1.2", :description nil, :created 1733868653882}
-{:jar_name "supatom-file", :group_name "baby.pat", :version "0.1.2", :description nil, :created 1733869040962}
-{:jar_name "ring-jwt", :group_name "net.clojars.kelveden", :version "2.10.0", :description "JWT middleware for Ring", :created 1733869373194}
-{:jar_name "supatom-redis", :group_name "baby.pat", :version "0.1.2", :description nil, :created 1733869465761}
-{:jar_name "duct.middleware.ring-jwt", :group_name "net.clojars.kelveden", :version "2.10.0", :description "Integrant keys for kelveden/ring-jwt.", :created 1733869509060}
-{:jar_name "supatom-s3", :group_name "baby.pat", :version "0.1.2", :description nil, :created 1733869711075}
-{:jar_name "tools.logging", :group_name "io.blockether", :version "1.3.4", :description "Clojure logging API - blockether.io modification for reflection free resolve of custom logger - GraalVM compatible", :created 1733871104870}
-{:jar_name "tools.logging", :group_name "io.blockether", :version "1.3.5", :description "Clojure logging API - blockether.io modification for reflection free resolve of custom logger - GraalVM compatible", :created 1733875701141}
-{:jar_name "screedcast", :group_name "com.sagevisuals", :version "2-SNAPSHOT1", :description "A highly un-configurable library for generating coding screencasts.", :created 1733880709154}
-{:jar_name "plugin-kaniko", :group_name "com.monkeyci", :version "0.2.0", :description nil, :created 1733904440307}
-{:jar_name "macaw", :group_name "io.github.metabase", :version "0.2.25", :description "A Clojure wrapper for JSqlParser", :created 1733914815092}
-{:jar_name "pg2-core", :group_name "com.github.igrishaev", :version "0.1.23", :description "Postgres client in pure Java (no JDBC)", :created 1733920319929}
-{:jar_name "pg2-honey", :group_name "com.github.igrishaev", :version "0.1.23", :description "HoneySQL wrapper for PG2", :created 1733920334351}
-{:jar_name "pg2-component", :group_name "com.github.igrishaev", :version "0.1.23", :description "Component wrapper for PG2", :created 1733920349223}
-{:jar_name "pg2-migration", :group_name "com.github.igrishaev", :version "0.1.23", :description "Migration utilities for PG2", :created 1733920368343}
-{:jar_name "pg2-hugsql", :group_name "com.github.igrishaev", :version "0.1.23", :description "HugSQL wrapper for PG2", :created 1733920383630}
-{:jar_name "had-utils", :group_name "org.clojars.hading", :version "7.0.1", :description "Personal utilites", :created 1733925204216}
 {:jar_name "lein-template.aoc", :group_name "org.clojars.hading", :version "7.0.1", :description "Leiningen template for my personal Advent of Code projects", :created 1733925325383}
 {:jar_name "clj-flx", :group_name "com.github.jcs090218", :version "0.1.0", :description "Rewrite emacs-flx in Clojure", :created 1733928157970}
 {:jar_name "oauth2", :group_name "org.pinkgorilla", :version "0.2.31", :description "websocket library", :created 1733928223008}
@@ -254,3 +230,27 @@
 {:jar_name "lua.aws", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734899042461}
 {:jar_name "fulcro-devtools-remote", :group_name "com.fulcrologic", :version "0.2.4-SNAPSHOT", :description nil, :created 1734907029667}
 {:jar_name "outline-java-wrapper", :group_name "org.clojars.dimonsip", :version "1.0.4.1", :description "Fork of outline-java-wrapper with additional traffic limit functionality", :created 1734912054657}
+{:jar_name "lua.core", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927929300}
+{:jar_name "lib.oshi", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927929917}
+{:jar_name "lib.postgres", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927931844}
+{:jar_name "lua.nginx", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927932976}
+{:jar_name "lib.redis", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927934117}
+{:jar_name "lua.ext.plisio", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927934244}
+{:jar_name "math.stats", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927968057}
+{:jar_name "net.http", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927969583}
+{:jar_name "net.resp", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927972593}
+{:jar_name "python", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927973421}
+{:jar_name "rt.graal", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927973517}
+{:jar_name "rt.shell", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927973877}
+{:jar_name "rt.solidity", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927974589}
+{:jar_name "rt.nginx", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927975204}
+{:jar_name "rt.basic", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927976383}
+{:jar_name "script.sql", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734927998987}
+{:jar_name "script.css", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734928001478}
+{:jar_name "script.toml", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734928002402}
+{:jar_name "script.yaml", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734928004016}
+{:jar_name "std.contract", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734928007553}
+{:jar_name "std.config", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734928009734}
+{:jar_name "std.block", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734928010861}
+{:jar_name "std.html", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734928033200}
+{:jar_name "std.fs", :group_name "xyz.zcaudate", :version "4.0.4", :description "4.0.4", :created 1734928034409}
