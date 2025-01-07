@@ -1,10 +1,3 @@
-{:jar_name "fulcro-inspect", :group_name "com.fulcrologic", :version "1.0.2", :description nil, :created 1734974772619}
-{:jar_name "options", :group_name "org.pinkgorilla", :version "0.0.14", :description nil, :created 1734982140841}
-{:jar_name "goldly-docs", :group_name "org.pinkgorilla", :version "0.9.81", :description nil, :created 1734982653206}
-{:jar_name "sentry-clj", :group_name "io.sentry", :version "7.19.225", :description "A very thin wrapper around the official Java library for Sentry.", :created 1734985958703}
-{:jar_name "useful", :group_name "com.timezynk", :version "4.10.0", :description "Useful functions", :created 1734986298674}
-{:jar_name "uix.core", :group_name "com.pitch", :version "1.3.1", :description nil, :created 1734988659714}
-{:jar_name "uix.dom", :group_name "com.pitch", :version "1.3.1", :description nil, :created 1734988710204}
 {:jar_name "domus", :group_name "com.timezynk", :version "1.0.2", :description "MongoDB utilities", :created 1734989838505}
 {:jar_name "bus", :group_name "com.timezynk", :version "1.2.7", :description "General-purpose message bus", :created 1734991191418}
 {:jar_name "scicloj.ml.tribuo", :group_name "org.scicloj", :version "0.1.6", :description "Integration of tribuo ML library into the scicloj.ml / metamorph framework.", :created 1734993502421}
@@ -254,3 +247,10 @@
 {:created 1736228737435, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "1.3.0-SNAPSHOT"}
 {:created 1736234924845, :description nil, :group_name "com.monkeyprojects", :jar_name "oci-common", :version "0.2.0-SNAPSHOT"}
 {:created 1736249325905, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "0.1.0.11"}
+{:created 1736252169042, :description "lisb: A Clojure library that wraps ProB's constraint solver. Use it to write/transform B machines with less pain or interact with the constraint solver.", :group_name "org.clojars.pkoerner", :jar_name "lisb", :version "0.0.6-SNAPSHOT"}
+{:created 1736252751676, :description "Postgres client in pure Java (no JDBC)", :group_name "com.github.igrishaev", :jar_name "pg2-core", :version "0.1.29"}
+{:created 1736252772125, :description "HoneySQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-honey", :version "0.1.29"}
+{:created 1736252793005, :description "Component wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-component", :version "0.1.29"}
+{:created 1736252816233, :description "Migration utilities for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-migration", :version "0.1.29"}
+{:created 1736252837423, :description "HugSQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-hugsql", :version "0.1.29"}
+{:created 1736253005707, :description "Konserve Redis Backend", :group_name "io.replikativ", :jar_name "konserve-redis", :version "0.1.11"}
