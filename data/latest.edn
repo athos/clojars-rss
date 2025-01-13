@@ -1,17 +1,3 @@
-{:created 1736005243319, :description "HoneySQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-honey", :version "0.1.28-SNAPSHOT"}
-{:created 1736005257003, :description "Component wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-component", :version "0.1.28-SNAPSHOT"}
-{:created 1736005275966, :description "Migration utilities for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-migration", :version "0.1.28-SNAPSHOT"}
-{:created 1736005290237, :description "HugSQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-hugsql", :version "0.1.28-SNAPSHOT"}
-{:created 1736020589947, :description "Machine learning functions for tech.ml.dataset and metamorph", :group_name "org.scicloj", :jar_name "metamorph.ml", :version "test-0.0.2"}
-{:created 1736024897748, :description "General-purpose message bus", :group_name "com.timezynk", :jar_name "bus", :version "1.3.0"}
-{:created 1736025483640, :description "Database modeling library for Clojure and MongoDB", :group_name "com.timezynk", :jar_name "domain", :version "2.4.0"}
-{:created 1736032121331, :description "Point out your outdated dependencies", :group_name "antq", :jar_name "antq", :version "2.11.1264"}
-{:created 1736032128612, :description "Point out your outdated dependencies", :group_name "com.github.liquidz", :jar_name "antq", :version "2.11.1264"}
-{:created 1736032913270, :description "Utilities for making generative art", :group_name "com.dedovic", :jar_name "artlib-core", :version "0.0.11"}
-{:created 1736033079622, :description "Leiningen template for a Quil starter project.", :group_name "com.dedovic", :jar_name "lein-template.quil-starter", :version "0.1.8"}
-{:created 1736039637758, :description "A Datomic database driver for Fulcro RAD.", :group_name "com.fulcrologic", :jar_name "fulcro-rad-datomic", :version "1.5.6"}
-{:created 1736073221116, :description "Postgres client in pure Java (no JDBC)", :group_name "com.github.igrishaev", :jar_name "pg2-core", :version "0.1.29-SNAPSHOT"}
-{:created 1736073232577, :description "HoneySQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-honey", :version "0.1.29-SNAPSHOT"}
 {:created 1736073244069, :description "Component wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-component", :version "0.1.29-SNAPSHOT"}
 {:created 1736073258622, :description "Migration utilities for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-migration", :version "0.1.29-SNAPSHOT"}
 {:created 1736073269662, :description "HugSQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-hugsql", :version "0.1.29-SNAPSHOT"}
@@ -254,3 +240,17 @@
 {:created 1736795268785, :description "Figwheel REPL provides a stable multiplexing REPL for ClojureScript", :group_name "com.bhauman", :jar_name "figwheel-repl", :version "0.2.20"}
 {:created 1736795285148, :description "Figwheel Main - Clojurescript tooling.", :group_name "com.bhauman", :jar_name "figwheel-main", :version "0.2.20"}
 {:created 1736797686307, :description "A Leinigen template for figwheel-main", :group_name "figwheel-main", :jar_name "lein-template", :version "0.2.20"}
+{:created 1736800574045, :description "An optional type system for Clojure", :group_name "org.typedclojure", :jar_name "pom.typed", :version "1.2.2-SNAPSHOT"}
+{:created 1736800582034, :description "A variant of tools.analyzer.", :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.2.2-SNAPSHOT"}
+{:created 1736800588590, :description "A variant of tools.analyzer.jvm.", :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.2.2-SNAPSHOT"}
+{:created 1736800596375, :description "A variant of tools.analyzer.js.", :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.2.2-SNAPSHOT"}
+{:created 1736800609348, :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.2.2-SNAPSHOT"}
+{:created 1736800616351, :description "Type-like specs.", :group_name "org.typedclojure", :jar_name "typed.clj.spec", :version "1.2.2-SNAPSHOT"}
+{:created 1736800622275, :description "Type annotations and macros for the base Clojure distribution.", :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.2.2-SNAPSHOT"}
+{:created 1736800628103, :description "FIXME", :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.2.2-SNAPSHOT"}
+{:created 1736800635454, :description "An optional type system for Clojure — full system for annotating and type-checking.", :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.2.2-SNAPSHOT"}
+{:created 1736800641453, :description "Runtime dependencies for ClojureScript type system.", :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.2.2-SNAPSHOT"}
+{:created 1736800647507, :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.2.2-SNAPSHOT"}
+{:created 1736800654742, :description "Malli integration", :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.2.2-SNAPSHOT"}
+{:created 1736800661291, :description "Type annotations and macros for core.async.", :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.2.2-SNAPSHOT"}
+{:created 1736801039154, :description nil, :group_name "com.yetanalytics", :jar_name "clojars-build", :version "LATEST-SNAPSHOT"}
