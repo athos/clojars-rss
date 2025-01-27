@@ -1,19 +1,3 @@
-{:created 1737057762319, :description "Clojure native interop through JavaCPP", :group_name "org.uncomplicate", :jar_name "clojure-cpp", :version "0.4.0"}
-{:created 1737057955970, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.20.0"}
-{:created 1737058882430, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.51.0"}
-{:created 1737060224752, :description "mount, but different and light", :group_name "functionalbytes", :jar_name "mount-lite", :version "2.3.2"}
-{:created 1737060816955, :description "Clojure library for first class lifecycle-managed state.", :group_name "functionalbytes", :jar_name "redelay", :version "2.0.1"}
-{:created 1737060988312, :description "Utilities for making generative art", :group_name "com.dedovic", :jar_name "artlib-core", :version "0.0.15"}
-{:created 1737063056003, :description "A re-frame interceptor and helpers to register / unregister (background-)tasks", :group_name "jtk-dvlp", :jar_name "re-frame-tasks", :version "2.0.1"}
-{:created 1737064116086, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.21.0"}
-{:created 1737064140174, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.52.0"}
-{:created 1737064160766, :description "Fast Clojure Deep Learning Library", :group_name "uncomplicate", :jar_name "deep-diamond", :version "0.31.0"}
-{:created 1737065597646, :description "Distributed systems testing framework.", :group_name "jepsen", :jar_name "jepsen", :version "0.3.8-SNAPSHOT"}
-{:created 1737065782810, :description "FIXME: my new library.", :group_name "net.clojars.laoc", :jar_name "nostr", :version "0.0.7"}
-{:created 1737065855534, :description "A library to unify data sources via attribute modeling in a seamless graph.", :group_name "com.wsscode", :jar_name "pathom3", :version "2025.01.16-alpha"}
-{:created 1737066504285, :description "Leiningen template for a Quil starter project.", :group_name "com.dedovic", :jar_name "lein-template.quil-starter", :version "0.1.13"}
-{:created 1737076124867, :description "Hephaistox common tasks for project manipulation", :group_name "org.clojars.hephaistox", :jar_name "auto-build", :version "0.0.1"}
-{:created 1737079573198, :description "New Relic component for Clojure applications", :group_name "net.clojars.macielti", :jar_name "new-relic-component", :version "0.2.1"}
 {:created 1737096864703, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "1.3.0-SNAPSHOT"}
 {:created 1737098061501, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "1.3.0"}
 {:created 1737106357817, :description "MonetDB JDBC driver", :group_name "monetdb", :jar_name "monetdb-jdbc", :version "12.0"}
@@ -254,3 +238,19 @@
 {:created 1737968825859, :description nil, :group_name "exoscale", :jar_name "reporter", :version "1.0.206"}
 {:created 1737973080569, :description "A clojure wrapper of Keycloak", :group_name "keycloak-clojure", :jar_name "keycloak-clojure", :version "1.31.5"}
 {:created 1737975329363, :description "Clojure BDD library - Executable Specification with Behavior-Driven Development", :group_name "io.defsquare", :jar_name "scenari", :version "2.0.7-alpha"}
+{:created 1737983750737, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "0.2.13.41"}
+{:created 1737984147572, :description "μ/log is a micro-logging library that logs events and data, not words!", :group_name "com.brunobonacci", :jar_name "mulog", :version "0.10.0-SNAPSHOT"}
+{:created 1737984169581, :description "μ/log json handling", :group_name "com.brunobonacci", :jar_name "mulog-json", :version "0.10.0-SNAPSHOT"}
+{:created 1737984200891, :description "A JVM metrics sampler for μ/log.", :group_name "com.brunobonacci", :jar_name "mulog-jvm-metrics", :version "0.10.0-SNAPSHOT"}
+{:created 1737984215825, :description "A filesystem metrics sampler for μ/log.", :group_name "com.brunobonacci", :jar_name "mulog-filesystem-metrics", :version "0.10.0-SNAPSHOT"}
+{:created 1737984231522, :description "A MBean sampler for μ/log.", :group_name "com.brunobonacci", :jar_name "mulog-mbean-sampler", :version "0.10.0-SNAPSHOT"}
+{:created 1737984249247, :description "A publisher for μ/log to Console and Terminal.", :group_name "com.brunobonacci", :jar_name "mulog-adv-console", :version "0.10.0-SNAPSHOT"}
+{:created 1737984265259, :description "A collection of μ/log publishers for to publish log into files.", :group_name "com.brunobonacci", :jar_name "mulog-adv-file", :version "0.10.0-SNAPSHOT"}
+{:created 1737984281216, :description "A publisher for μ/log to Cloudwatch.", :group_name "com.brunobonacci", :jar_name "mulog-cloudwatch", :version "0.10.0-SNAPSHOT"}
+{:created 1737984297974, :description "A publisher for μ/log to Elasticsearch.", :group_name "com.brunobonacci", :jar_name "mulog-elasticsearch", :version "0.10.0-SNAPSHOT"}
+{:created 1737984314010, :description "A publisher for μ/log to Kafka.", :group_name "com.brunobonacci", :jar_name "mulog-kafka", :version "0.10.0-SNAPSHOT"}
+{:created 1737984328191, :description "A publisher for μ/log to Kinesis.", :group_name "com.brunobonacci", :jar_name "mulog-kinesis", :version "0.10.0-SNAPSHOT"}
+{:created 1737984342596, :description "A publisher for μ/trace OpenTelemetry.", :group_name "com.brunobonacci", :jar_name "mulog-opentelemetry", :version "0.10.0-SNAPSHOT"}
+{:created 1737984359166, :description "A publisher for μ/log to Prometheus.", :group_name "com.brunobonacci", :jar_name "mulog-prometheus", :version "0.10.0-SNAPSHOT"}
+{:created 1737984374549, :description "A publisher for μ/log to a Slack incoming webhook.", :group_name "com.brunobonacci", :jar_name "mulog-slack", :version "0.10.0-SNAPSHOT"}
+{:created 1737984390965, :description "A publisher for μ/trace to OpenZipkin.", :group_name "com.brunobonacci", :jar_name "mulog-zipkin", :version "0.10.0-SNAPSHOT"}
