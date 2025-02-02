@@ -119,19 +119,6 @@
 {:created 1738105547329, :description "Clojure core environment and runtime library.", :group_name "com.github.flow-storm", :jar_name "clojure", :version "1.11.4-3"}
 {:created 1738107105206, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.6.9999-SNAPSHOT"}
 {:created 1738110884573, :description "ClojureScript UI Framework", :group_name "design.kushi", :jar_name "kushi", :version "1.0.0-a.23"}
-{:created 1738111507239, :description "An optional type system for Clojure", :group_name "org.typedclojure", :jar_name "pom.typed", :version "1.2.2-SNAPSHOT"}
-{:created 1738111519035, :description "A variant of tools.analyzer.", :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.2.2-SNAPSHOT"}
-{:created 1738111527021, :description "A variant of tools.analyzer.jvm.", :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.2.2-SNAPSHOT"}
-{:created 1738111535974, :description "A variant of tools.analyzer.js.", :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.2.2-SNAPSHOT"}
-{:created 1738111551667, :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.2.2-SNAPSHOT"}
-{:created 1738111561914, :description "Type-like specs.", :group_name "org.typedclojure", :jar_name "typed.clj.spec", :version "1.2.2-SNAPSHOT"}
-{:created 1738111570920, :description "Type annotations and macros for the base Clojure distribution.", :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.2.2-SNAPSHOT"}
-{:created 1738111579465, :description "FIXME", :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.2.2-SNAPSHOT"}
-{:created 1738111596230, :description "An optional type system for Clojure — full system for annotating and type-checking.", :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.2.2-SNAPSHOT"}
-{:created 1738111611673, :description "Runtime dependencies for ClojureScript type system.", :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.2.2-SNAPSHOT"}
-{:created 1738111627006, :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.2.2-SNAPSHOT"}
-{:created 1738111643308, :description "Malli integration", :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.2.2-SNAPSHOT"}
-{:created 1738111656169, :description "Type annotations and macros for core.async.", :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.2.2-SNAPSHOT"}
 {:created 1738114560688, :description "Useful simple tools to be used for pedestal APIs", :group_name "org.clojars.majorcluster", :jar_name "pedestal-api-helper", :version "0.12.0"}
 {:created 1738116109266, :description "Library of commonly used functions for web app development", :group_name "com.github.dgknght", :jar_name "app-lib", :version "0.3.24"}
 {:created 1738142936149, :description nil, :group_name "com.monkeyprojects", :jar_name "oci-container-instance", :version "0.2.2"}
@@ -254,3 +241,16 @@
 {:created 1738467183265, :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :group_name "org.yamlscript", :jar_name "yamlscript", :version "0.1.91"}
 {:created 1738467192190, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.1.91"}
 {:created 1738473923123, :description "kitchen-sink of micro-libs commonly used by bloom", :group_name "io.bloomventures", :jar_name "commons", :version "0.15.0"}
+{:created 1738483048076, :description "An optional type system for Clojure", :group_name "org.typedclojure", :jar_name "pom.typed", :version "1.2.2-SNAPSHOT"}
+{:created 1738483057161, :description "A variant of tools.analyzer.", :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.2.2-SNAPSHOT"}
+{:created 1738483065438, :description "A variant of tools.analyzer.jvm.", :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.2.2-SNAPSHOT"}
+{:created 1738483073819, :description "A variant of tools.analyzer.js.", :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.2.2-SNAPSHOT"}
+{:created 1738483089183, :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.2.2-SNAPSHOT"}
+{:created 1738483097570, :description "Type-like specs.", :group_name "org.typedclojure", :jar_name "typed.clj.spec", :version "1.2.2-SNAPSHOT"}
+{:created 1738483105922, :description "Type annotations and macros for the base Clojure distribution.", :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.2.2-SNAPSHOT"}
+{:created 1738483114262, :description "FIXME", :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.2.2-SNAPSHOT"}
+{:created 1738483122866, :description "An optional type system for Clojure — full system for annotating and type-checking.", :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.2.2-SNAPSHOT"}
+{:created 1738483131078, :description "Runtime dependencies for ClojureScript type system.", :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.2.2-SNAPSHOT"}
+{:created 1738483139744, :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.2.2-SNAPSHOT"}
+{:created 1738483148088, :description "Malli integration", :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.2.2-SNAPSHOT"}
+{:created 1738483156231, :description "Type annotations and macros for core.async.", :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.2.2-SNAPSHOT"}
