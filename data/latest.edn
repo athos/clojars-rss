@@ -1,7 +1,3 @@
-{:created 1737983750737, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "0.2.13.41"}
-{:created 1737984147572, :description "μ/log is a micro-logging library that logs events and data, not words!", :group_name "com.brunobonacci", :jar_name "mulog", :version "0.10.0-SNAPSHOT"}
-{:created 1737984169581, :description "μ/log json handling", :group_name "com.brunobonacci", :jar_name "mulog-json", :version "0.10.0-SNAPSHOT"}
-{:created 1737984200891, :description "A JVM metrics sampler for μ/log.", :group_name "com.brunobonacci", :jar_name "mulog-jvm-metrics", :version "0.10.0-SNAPSHOT"}
 {:created 1737984215825, :description "A filesystem metrics sampler for μ/log.", :group_name "com.brunobonacci", :jar_name "mulog-filesystem-metrics", :version "0.10.0-SNAPSHOT"}
 {:created 1737984231522, :description "A MBean sampler for μ/log.", :group_name "com.brunobonacci", :jar_name "mulog-mbean-sampler", :version "0.10.0-SNAPSHOT"}
 {:created 1737984249247, :description "A publisher for μ/log to Console and Terminal.", :group_name "com.brunobonacci", :jar_name "mulog-adv-console", :version "0.10.0-SNAPSHOT"}
@@ -254,3 +250,7 @@
 {:created 1738611746159, :description nil, :group_name "com.github.flow-storm", :jar_name "flow-storm-dbg", :version "4.1.2-SNAPSHOT"}
 {:created 1738615664702, :description "The slim way to build Clojure", :group_name "io.github.abogoyavlensky", :jar_name "slim", :version "0.2.0-SNAPSHOT"}
 {:created 1738615976310, :description "Machine learning functions for tech.ml.dataset and metamorph", :group_name "org.scicloj", :jar_name "metamorph.ml", :version "1.0"}
+{:created 1738616802918, :description "Smile  plugin for scicloj.ml", :group_name "org.scicloj", :jar_name "scicloj.ml.smile", :version "7.5.0"}
+{:created 1738617416700, :description "Integration of tribuo ML library into the scicloj.ml / metamorph framework.", :group_name "org.scicloj", :jar_name "scicloj.ml.tribuo", :version "0.2"}
+{:created 1738618499575, :description nil, :group_name "org.scicloj", :jar_name "sklearn-clj", :version "0.5"}
+{:created 1738619913757, :description "xgboost models for metamorph.ml and scicloj.ml", :group_name "org.scicloj", :jar_name "scicloj.ml.xgboost", :version "6.3.0"}
