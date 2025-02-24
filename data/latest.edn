@@ -1,21 +1,3 @@
-{:created 1739801335455, :description nil, :group_name "com.flipkart", :jar_name "grpc-jexpress", :version "1.42-SNAPSHOT"}
-{:created 1739801351550, :description nil, :group_name "com.flipkart.grpc-jexpress", :jar_name "core", :version "1.42-SNAPSHOT"}
-{:created 1739801359673, :description nil, :group_name "com.flipkart.grpc-jexpress", :jar_name "guice", :version "1.42-SNAPSHOT"}
-{:created 1739801366008, :description nil, :group_name "com.flipkart.grpc-jexpress", :jar_name "runtime", :version "1.42-SNAPSHOT"}
-{:created 1739805390315, :description "simple ring container for micro-services", :group_name "com.sixsq.nuvla", :jar_name "ring", :version "2.2.1-SNAPSHOT"}
-{:created 1739807779323, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20250217.155538.739211b"}
-{:created 1739807966275, :description nil, :group_name "dev.gersak", :jar_name "toddler", :version "0.9.1-SNAPSHOT"}
-{:created 1739808039494, :description nil, :group_name "dev.gersak", :jar_name "toddler-ui", :version "0.9.2-SNAPSHOT"}
-{:created 1739808792903, :description nil, :group_name "dev.gersak", :jar_name "toddler", :version "0.9.1"}
-{:created 1739809570534, :description "RabbitMQ Integrant Components", :group_name "net.clojars.macielti", :jar_name "rabbitmq-component", :version "0.1.2-5"}
-{:created 1739811486606, :description nil, :group_name "dev.gersak", :jar_name "toddler-ui", :version "0.9.4"}
-{:created 1739812086347, :description nil, :group_name "dev.gersak", :jar_name "toddler-ui", :version "0.9.6"}
-{:created 1739813852315, :description "RabbitMQ Integrant Components", :group_name "net.clojars.macielti", :jar_name "rabbitmq-component", :version "0.1.2-6"}
-{:created 1739816912372, :description "Machine learning functions for tech.ml.dataset", :group_name "org.scicloj", :jar_name "metamorph.ml", :version "1.2beta1.4"}
-{:created 1739819024265, :description "An extended reagent compiler to customize the developer experience", :group_name "com.github.ulisesmac", :jar_name "reagent-extended-compiler", :version "0.2.1-SNAPSHOT"}
-{:created 1739825243366, :description "Framework to generate services to use on Slingr platform", :group_name "io.github.slingr-stack", :jar_name "slingr-services", :version "1.6.3"}
-{:created 1739828914930, :description "Machine learning functions for tech.ml.dataset", :group_name "org.scicloj", :jar_name "metamorph.ml", :version "1.2beta1.6"}
-{:created 1739829541105, :description "Flow based transport", :group_name "com.7theta", :jar_name "vectio", :version "3.2.0"}
 {:created 1739830466629, :description "Functions and macros for helix support", :group_name "com.7theta", :jar_name "ventus", :version "4.1.0"}
 {:created 1739830801307, :description "A library for WebSocket based messaging", :group_name "com.7theta", :jar_name "via", :version "14.1.2"}
 {:created 1739830900167, :description "A library for managing certificates and trust stores", :group_name "com.7theta", :jar_name "fides", :version "1.6.1"}
@@ -254,3 +236,21 @@
 {:created 1740422251341, :description nil, :group_name "com.github.flow-storm", :jar_name "flow-storm-inst", :version "4.2.0-beta2"}
 {:created 1740422319313, :description nil, :group_name "com.github.flow-storm", :jar_name "flow-storm-web-plugin", :version "1.0.0-beta"}
 {:created 1740422418235, :description nil, :group_name "com.github.flow-storm", :jar_name "flow-storm-async-flow-plugin", :version "1.0.0-beta"}
+{:created 1740424357204, :description "An optional type system for Clojure", :group_name "org.typedclojure", :jar_name "pom.typed", :version "1.2.2-SNAPSHOT"}
+{:created 1740424364007, :description "A variant of tools.analyzer.", :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.2.2-SNAPSHOT"}
+{:created 1740424370091, :description "A variant of tools.analyzer.jvm.", :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.2.2-SNAPSHOT"}
+{:created 1740424377810, :description "A variant of tools.analyzer.js.", :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.2.2-SNAPSHOT"}
+{:created 1740424391872, :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.2.2-SNAPSHOT"}
+{:created 1740424399507, :description "Type-like specs.", :group_name "org.typedclojure", :jar_name "typed.clj.spec", :version "1.2.2-SNAPSHOT"}
+{:created 1740424407003, :description "Type annotations and macros for the base Clojure distribution.", :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.2.2-SNAPSHOT"}
+{:created 1740424414910, :description "FIXME", :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.2.2-SNAPSHOT"}
+{:created 1740424423100, :description "An optional type system for Clojure — full system for annotating and type-checking.", :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.2.2-SNAPSHOT"}
+{:created 1740424431735, :description "Runtime dependencies for ClojureScript type system.", :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.2.2-SNAPSHOT"}
+{:created 1740424439127, :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.2.2-SNAPSHOT"}
+{:created 1740424447642, :description "Malli integration", :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.2.2-SNAPSHOT"}
+{:created 1740424455434, :description "Type annotations and macros for core.async.", :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.2.2-SNAPSHOT"}
+{:created 1740424978671, :description "Clay is a small Clojure tool for a dynamic workflow of data visualization and literate programming.", :group_name "org.scicloj", :jar_name "clay", :version "2-beta30-SNAPSHOT"}
+{:created 1740424981591, :description "A reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary", :group_name "com.hyperfiddle", :jar_name "electric", :version "v3-alpha-SNAPSHOT"}
+{:created 1740424997425, :description "hyperfiddle-contrib", :group_name "com.hyperfiddle", :jar_name "hyperfiddle-contrib", :version "v0-alpha-SNAPSHOT"}
+{:created 1740425015179, :description "Hyperfiddle", :group_name "com.hyperfiddle", :jar_name "hyperfiddle", :version "v0-alpha-SNAPSHOT"}
+{:created 1740426325133, :description nil, :group_name "org.pinkgorilla", :jar_name "ui-cytoscape", :version "0.1.11"}
