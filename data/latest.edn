@@ -1,4 +1,3 @@
-{:created 1744194979214, :description "Clojure NATS SDK based on jnats", :group_name "no.cjohansen", :jar_name "clj-nats", :version "0.2025.04.09"}
 {:created 1744196767190, :description nil, :group_name "cljfx", :jar_name "cljfx", :version "1.9.4"}
 {:created 1744203629165, :description nil, :group_name "com.monkeyprojects", :jar_name "nats-async", :version "1.3.0-SNAPSHOT"}
 {:created 1744205490897, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "1.1.2.43"}
@@ -234,23 +233,24 @@
 {:created 1745193674699, :description "Cavalo is a leiningen plugin to reload http servers on file change.", :group_name "org.clojars.jj", :jar_name "lein-cavalo", :version "1.0.1"}
 {:created 1745193682550, :description "Carroça is a sidecar for lein cavalo plugin.", :group_name "org.clojars.jj", :jar_name "lein-carroca", :version "1.0.1"}
 {:created 1745205682655, :description "map type maps", :group_name "com.jolygon", :jar_name "wrap-map", :version "0.1.9"}
-{:created 1745218696621, :description nil, :group_name "com.flipkart.krystal", :jar_name "com.flipkart.krystal.gradle.plugin", :version "9.0.0-SNAPSHOT"}
-{:created 1745218698741, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-bom", :version "9.0.0-SNAPSHOT"}
-{:created 1745218703375, :description nil, :group_name "com.flipkart.krystal", :jar_name "honeycomb", :version "9.0.0-SNAPSHOT"}
-{:created 1745218703927, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-common", :version "9.0.0-SNAPSHOT"}
-{:created 1745218723856, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-core", :version "9.0.0-SNAPSHOT"}
-{:created 1745218724617, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-grpc-codegen", :version "9.0.0-SNAPSHOT"}
-{:created 1745218725630, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystex", :version "9.0.0-SNAPSHOT"}
-{:created 1745218728296, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-java-sdk", :version "9.0.0-SNAPSHOT"}
-{:created 1745218743265, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf3", :version "9.0.0-SNAPSHOT"}
-{:created 1745218748057, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-guice", :version "9.0.0-SNAPSHOT"}
-{:created 1745218748378, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-krystex", :version "9.0.0-SNAPSHOT"}
-{:created 1745218748809, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen-common", :version "9.0.0-SNAPSHOT"}
-{:created 1745218766288, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen", :version "9.0.0-SNAPSHOT"}
-{:created 1745218766678, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-visualization", :version "9.0.0-SNAPSHOT"}
-{:created 1745218767186, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf-codegen", :version "9.0.0-SNAPSHOT"}
 {:created 1745221618407, :description "A library for natural language generation and parsing", :group_name "babel", :jar_name "babel", :version "3.0.27-verbcoach"}
 {:created 1745223149700, :description "Simple performance monitoring library for Clojure/Script", :group_name "com.taoensso", :jar_name "tufte", :version "3.0.0-beta1"}
 {:created 1745233281776, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.200-SNAPSHOT"}
 {:created 1745238931631, :description "Variant translation library for Clojure", :group_name "varity", :jar_name "varity", :version "0.11.1-SNAPSHOT"}
 {:created 1745242944237, :description nil, :group_name "com.potetm", :jar_name "fusebox", :version "1.0.10"}
+{:created 1745244141963, :description nil, :group_name "com.flipkart.krystal", :jar_name "com.flipkart.krystal.gradle.plugin", :version "9.0.0-SNAPSHOT"}
+{:created 1745244145041, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-bom", :version "9.0.0-SNAPSHOT"}
+{:created 1745244151247, :description nil, :group_name "com.flipkart.krystal", :jar_name "honeycomb", :version "9.0.0-SNAPSHOT"}
+{:created 1745244151344, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-common", :version "9.0.0-SNAPSHOT"}
+{:created 1745244175271, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf3", :version "9.0.0-SNAPSHOT"}
+{:created 1745244175566, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystex", :version "9.0.0-SNAPSHOT"}
+{:created 1745244175637, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-core", :version "9.0.0-SNAPSHOT"}
+{:created 1745244177418, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-java-sdk", :version "9.0.0-SNAPSHOT"}
+{:created 1745244198474, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-grpc-codegen", :version "9.0.0-SNAPSHOT"}
+{:created 1745244200289, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-krystex", :version "9.0.0-SNAPSHOT"}
+{:created 1745244200801, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf-codegen", :version "9.0.0-SNAPSHOT"}
+{:created 1745244201481, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen-common", :version "9.0.0-SNAPSHOT"}
+{:created 1745244220365, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-guice", :version "9.0.0-SNAPSHOT"}
+{:created 1745244220653, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-visualization", :version "9.0.0-SNAPSHOT"}
+{:created 1745244222313, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen", :version "9.0.0-SNAPSHOT"}
+{:created 1745246261414, :description "A library for natural language generation and parsing", :group_name "menard", :jar_name "menard", :version "1.9.1"}
