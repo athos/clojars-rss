@@ -4,7 +4,119 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 22 Apr 2025 20:01:25 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 22 Apr 2025 21:01:22 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry-java17/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry-java17 &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry-java17/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 17+</description>
+    <pubDate>Tue, 22 Apr 2025 20:39:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry-java8/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry-java8 &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry-java8/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 8+</description>
+    <pubDate>Tue, 22 Apr 2025 20:39:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-resources/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-instrumentation-resources &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-resources/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process</description>
+    <pubDate>Tue, 22 Apr 2025 20:39:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-zipkin &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter</description>
+    <pubDate>Tue, 22 Apr 2025 20:39:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-prometheus/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-prometheus &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-prometheus/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter</description>
+    <pubDate>Tue, 22 Apr 2025 20:39:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-otlp &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters</description>
+    <pubDate>Tue, 22 Apr 2025 20:39:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging-otlp &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only</description>
+    <pubDate>Tue, 22 Apr 2025 20:39:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only</description>
+    <pubDate>Tue, 22 Apr 2025 20:39:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-extension-trace-propagators &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides access using Clojure to additional OpenTelemetry trace propagators</description>
+    <pubDate>Tue, 22 Apr 2025 20:38:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type</description>
+    <pubDate>Tue, 22 Apr 2025 20:38:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties</description>
+    <pubDate>Tue, 22 Apr 2025 20:38:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol</description>
+    <pubDate>Tue, 22 Apr 2025 20:38:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-resources &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform</description>
+    <pubDate>Tue, 22 Apr 2025 20:38:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK</description>
+    <pubDate>Tue, 22 Apr 2025 20:38:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-common/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-common &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-common/versions/0.2.8-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK common components</description>
+    <pubDate>Tue, 22 Apr 2025 20:38:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.2.8-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-api &quot;0.2.8-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.2.8-SNAPSHOT</link>
+    <description>An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry</description>
+    <pubDate>Tue, 22 Apr 2025 20:38:15 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.flipkart.java.code.standard/com.flipkart.java.code.standard.gradle.plugin/versions/3.6</guid>
     <title>[com.flipkart.java.code.standard/com.flipkart.java.code.standard.gradle.plugin &quot;3.6&quot;]</title>
@@ -1686,118 +1798,6 @@
     <link>https://clojars.org/ai.z7/sqlg-clj/versions/0.1.0</link>
     <description>The SQL Graph with Tinkerpop3 and Clojure</description>
     <pubDate>Fri, 11 Apr 2025 19:55:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.weavejester/lein-cljfmt/versions/0.13.1</guid>
-    <title>[dev.weavejester/lein-cljfmt &quot;0.13.1&quot;]</title>
-    <link>https://clojars.org/dev.weavejester/lein-cljfmt/versions/0.13.1</link>
-    <description>A library for formatting Clojure code</description>
-    <pubDate>Fri, 11 Apr 2025 19:31:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.weavejester/cljfmt/versions/0.13.1</guid>
-    <title>[dev.weavejester/cljfmt &quot;0.13.1&quot;]</title>
-    <link>https://clojars.org/dev.weavejester/cljfmt/versions/0.13.1</link>
-    <description>A library for formatting Clojure code</description>
-    <pubDate>Fri, 11 Apr 2025 19:30:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/flowy/versions/0.1.43</guid>
-    <title>[org.pinkgorilla/flowy &quot;0.1.43&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/flowy/versions/0.1.43</link>
-    <description></description>
-    <pubDate>Fri, 11 Apr 2025 18:31:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.cnuernber/charred/versions/1.037</guid>
-    <title>[com.cnuernber/charred &quot;1.037&quot;]</title>
-    <link>https://clojars.org/com.cnuernber/charred/versions/1.037</link>
-    <description></description>
-    <pubDate>Fri, 11 Apr 2025 17:35:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/systems.thoughtfull/amalgam/versions/1.0.1</guid>
-    <title>[systems.thoughtfull/amalgam &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/systems.thoughtfull/amalgam/versions/1.0.1</link>
-    <description>Useful utilities and mixtures for com.stuartsierra/component</description>
-    <pubDate>Fri, 11 Apr 2025 12:34:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.jj/embedded-mariadb-clj/versions/1.0.2</guid>
-    <title>[org.clojars.jj/embedded-mariadb-clj &quot;1.0.2&quot;]</title>
-    <link>https://clojars.org/org.clojars.jj/embedded-mariadb-clj/versions/1.0.2</link>
-    <description>Embedded maria db for clojure</description>
-    <pubDate>Fri, 11 Apr 2025 11:38:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyci/app/versions/0.16.8</guid>
-    <title>[com.monkeyci/app &quot;0.16.8&quot;]</title>
-    <link>https://clojars.org/com.monkeyci/app/versions/0.16.8</link>
-    <description></description>
-    <pubDate>Fri, 11 Apr 2025 09:56:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyci/test/versions/0.16.8</guid>
-    <title>[com.monkeyci/test &quot;0.16.8&quot;]</title>
-    <link>https://clojars.org/com.monkeyci/test/versions/0.16.8</link>
-    <description></description>
-    <pubDate>Fri, 11 Apr 2025 09:55:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyci/test/versions/0.15.4-SNAPSHOT</guid>
-    <title>[com.monkeyci/test &quot;0.15.4-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.monkeyci/test/versions/0.15.4-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Fri, 11 Apr 2025 09:00:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.replikativ/datahike/versions/0.6.1595</guid>
-    <title>[io.replikativ/datahike &quot;0.6.1595&quot;]</title>
-    <link>https://clojars.org/io.replikativ/datahike/versions/0.6.1595</link>
-    <description>A durable datalog implementation adaptable for distribution.</description>
-    <pubDate>Fri, 11 Apr 2025 07:12:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/ui-layout/versions/0.3.70</guid>
-    <title>[org.pinkgorilla/ui-layout &quot;0.3.70&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/ui-layout/versions/0.3.70</link>
-    <description></description>
-    <pubDate>Thu, 10 Apr 2025 23:21:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/ui-layout/versions/0.3.69</guid>
-    <title>[org.pinkgorilla/ui-layout &quot;0.3.69&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/ui-layout/versions/0.3.69</link>
-    <description></description>
-    <pubDate>Thu, 10 Apr 2025 22:37:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tech.thomascothran/limn/versions/1.0.42</guid>
-    <title>[tech.thomascothran/limn &quot;1.0.42&quot;]</title>
-    <link>https://clojars.org/tech.thomascothran/limn/versions/1.0.42</link>
-    <description>Workflow Engine for Clojure(script)</description>
-    <pubDate>Thu, 10 Apr 2025 21:35:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/id/versions/0.1.4</guid>
-    <title>[org.pinkgorilla/id &quot;0.1.4&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/id/versions/0.1.4</link>
-    <description></description>
-    <pubDate>Thu, 10 Apr 2025 18:02:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.slingr-stack/slingr-services/versions/1.6.6</guid>
-    <title>[io.github.slingr-stack/slingr-services &quot;1.6.6&quot;]</title>
-    <link>https://clojars.org/io.github.slingr-stack/slingr-services/versions/1.6.6</link>
-    <description>Framework to generate services to use on Slingr platform</description>
-    <pubDate>Thu, 10 Apr 2025 15:32:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyci/plugin-monkeyci-infra/versions/0.1.3-SNAPSHOT</guid>
-    <title>[com.monkeyci/plugin-monkeyci-infra &quot;0.1.3-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.monkeyci/plugin-monkeyci-infra/versions/0.1.3-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Thu, 10 Apr 2025 14:57:54 +0000</pubDate>
   </item>
   </channel>
 </rss>
