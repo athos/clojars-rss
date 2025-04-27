@@ -1,27 +1,3 @@
-{:created 1744587674157, :description "Clojure base language plugin for Gradle", :group_name "dev.clojurephant.clojure-base", :jar_name "dev.clojurephant.clojure-base.gradle.plugin", :version "0.8.0"}
-{:created 1744587677303, :description "Clojure language plugin for Gradle", :group_name "dev.clojurephant.clojure", :jar_name "dev.clojurephant.clojure.gradle.plugin", :version "0.8.0"}
-{:created 1744587680824, :description "ClojureScript base language plugin for Gradle", :group_name "dev.clojurephant.clojurescript-base", :jar_name "dev.clojurephant.clojurescript-base.gradle.plugin", :version "0.8.0"}
-{:created 1744587684295, :description "ClojureScript language plugin for Gradle", :group_name "dev.clojurephant.clojurescript", :jar_name "dev.clojurephant.clojurescript.gradle.plugin", :version "0.8.0"}
-{:created 1744587697722, :description nil, :group_name "dev.clojurephant", :jar_name "clojurephant-plugin", :version "0.8.0"}
-{:created 1744588769789, :description nil, :group_name "dev.clojurephant", :jar_name "clojurephant-tooling", :version "0.1.0"}
-{:created 1744617871861, :description "A Telegram Bot Library for Clojure", :group_name "dev.meinside", :jar_name "clogram", :version "0.34.0"}
-{:created 1744639898824, :description "Turn Clojure functions into CLIs!", :group_name "org.babashka", :jar_name "cli", :version "0.8.65"}
-{:created 1744642454058, :description nil, :group_name "me.pmatiello", :jar_name "mockfn", :version "0.6.0"}
-{:created 1744645046075, :description nil, :group_name "com.github.flow-storm", :jar_name "flow-storm-async-flow-plugin", :version "1.0.0-beta5"}
-{:created 1744645555427, :description "A collection of nREPL middleware designed to enhance Clojure editors.", :group_name "cider", :jar_name "cider-nrepl", :version "0.55.1"}
-{:created 1744645947841, :description nil, :group_name "com.github.flow-storm", :jar_name "flow-storm-flowbook-plugin", :version "1.0.0-alpha"}
-{:created 1744651736821, :description nil, :group_name "org.pinkgorilla", :jar_name "dali", :version "0.5.36"}
-{:created 1744654727763, :description nil, :group_name "org.pinkgorilla", :jar_name "ui-layout", :version "0.3.72"}
-{:created 1744663676416, :description "The fastest serialization library for Clojure", :group_name "com.taoensso", :jar_name "nippy", :version "3.5.0-alpha1"}
-{:created 1744666485648, :description nil, :group_name "org.pinkgorilla", :jar_name "dali-table", :version "0.3.95"}
-{:created 1744670396602, :description nil, :group_name "org.pinkgorilla", :jar_name "options", :version "0.1.19"}
-{:created 1744679172401, :description nil, :group_name "org.pinkgorilla", :jar_name "options", :version "0.1.21"}
-{:created 1744700306751, :description "The fastest serialization library for Clojure", :group_name "com.taoensso", :jar_name "nippy", :version "3.5.0"}
-{:created 1744704108644, :description "Timbre backend/provider for SLF4J API v2", :group_name "com.taoensso", :jar_name "timbre-slf4j", :version "6.7.0"}
-{:created 1744704150841, :description "Pure Clojure/Script logging library", :group_name "com.taoensso", :jar_name "timbre", :version "6.7.0"}
-{:created 1744705698434, :description "Simple, high-performance event-driven HTTP client+server for Clojure", :group_name "http-kit", :jar_name "http-kit", :version "2.9.0-beta1"}
-{:created 1744706348866, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.16.9"}
-{:created 1744706753010, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.16.9"}
 {:created 1744707146673, :description nil, :group_name "com.monkeyprojects", :jar_name "oci-container-instance", :version "0.2.4"}
 {:created 1744710761709, :description "Functional style of errors handling (without monads)", :group_name "fmnoise", :jar_name "flow", :version "4.3.0"}
 {:created 1744711794596, :description "Simple performance monitoring library for Clojure/Script", :group_name "com.taoensso", :jar_name "tufte", :version "2.7.0"}
@@ -254,3 +230,27 @@
 {:created 1745717283985, :description "FIXME: my new library.", :group_name "net.coruscation", :jar_name "clojure-term-colors", :version "1.2.0"}
 {:created 1745717492278, :description "Common build script for thoughtfull projects", :group_name "systems.thoughtfull", :jar_name "build", :version "0.3.0"}
 {:created 1745718426726, :description "FIXME: my new library.", :group_name "net.coruscation", :jar_name "clojure-term-colors", :version "1.3.2"}
+{:created 1745733794667, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "code.query", :version "4.0.8"}
+{:created 1745733795129, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "code.project", :version "4.0.8"}
+{:created 1745733795835, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "code.test", :version "4.0.8"}
+{:created 1745733797777, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "code.doc", :version "4.0.8"}
+{:created 1745733871282, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "lib.aether", :version "4.0.8"}
+{:created 1745733877483, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "lib.docker", :version "4.0.8"}
+{:created 1745733895963, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "lib.openpgp", :version "4.0.8"}
+{:created 1745733924712, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "net.http", :version "4.0.8"}
+{:created 1745733928309, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "rt.basic", :version "4.0.8"}
+{:created 1745733967987, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "script.toml", :version "4.0.8"}
+{:created 1745733973746, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "script.yaml", :version "4.0.8"}
+{:created 1745733978552, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "std.block", :version "4.0.8"}
+{:created 1745733982877, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "std.config", :version "4.0.8"}
+{:created 1745734003552, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "std.html", :version "4.0.8"}
+{:created 1745734008073, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "std.json", :version "4.0.8"}
+{:created 1745734009068, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "std.fs", :version "4.0.8"}
+{:created 1745734014062, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "std.lang", :version "4.0.8"}
+{:created 1745734019305, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "std.lib", :version "4.0.8"}
+{:created 1745734026776, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "std.make", :version "4.0.8"}
+{:created 1745734033085, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "std.math", :version "4.0.8"}
+{:created 1745734033829, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "std.object", :version "4.0.8"}
+{:created 1745734042315, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "std.pretty", :version "4.0.8"}
+{:created 1745734042602, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "std.text", :version "4.0.8"}
+{:created 1745734044826, :description "4.0.8", :group_name "xyz.zcaudate", :jar_name "xtalk.lang", :version "4.0.8"}
