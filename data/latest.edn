@@ -1,6 +1,3 @@
-{:created 1745354344050, :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-logging", :version "0.2.8-SNAPSHOT"}
-{:created 1745354350128, :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-logging-otlp", :version "0.2.8-SNAPSHOT"}
-{:created 1745354356117, :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-otlp", :version "0.2.8-SNAPSHOT"}
 {:created 1745354362412, :description "Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-prometheus", :version "0.2.8-SNAPSHOT"}
 {:created 1745354368590, :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-zipkin", :version "0.2.8-SNAPSHOT"}
 {:created 1745354374559, :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-instrumentation-resources", :version "0.2.8-SNAPSHOT"}
@@ -254,3 +251,6 @@
 {:created 1745840730565, :description nil, :group_name "exoscale", :jar_name "blueprint-router", :version "0.2.98"}
 {:created 1745840737260, :description nil, :group_name "com.exoscale", :jar_name "blueprint-microserver", :version "0.2.98"}
 {:created 1745840743839, :description nil, :group_name "com.exoscale", :jar_name "blueprint-helidon", :version "0.2.98"}
+{:created 1745841805855, :description nil, :group_name "com.monkeyci", :jar_name "site-template", :version "0.2.3-SNAPSHOT"}
+{:created 1745844460155, :description "Lein plugin to run clojure-lsp features via API.", :group_name "com.github.clojure-lsp", :jar_name "lein-clojure-lsp", :version "2.0.5"}
+{:created 1745845736837, :description "A collection of nREPL middleware designed to enhance Clojure editors.", :group_name "cider", :jar_name "cider-nrepl", :version "0.0.0"}
