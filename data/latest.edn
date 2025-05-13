@@ -183,7 +183,6 @@
 {:created 1746932894674, :description nil, :group_name "io.github.coconutpalm", :jar_name "clojure-desktop-toolkit", :version "0.2.2"}
 {:created 1746945246644, :description "A ClojureScript Finite State Machine library focused on correctness and adaptability in modern stacks", :group_name "dev.jaide", :jar_name "finity", :version "2025.4.24-SNAPSHOT"}
 {:created 1746957256986, :description "OpenCV4 Wrapper", :group_name "origami", :jar_name "origami", :version "4.11.0"}
-{:created 1746962685963, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.16.10-SNAPSHOT"}
 {:created 1746975371705, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
 {:created 1746979242277, :description "An immutable database", :group_name "io.github.radarroark", :jar_name "xitdb", :version "0.8.0"}
 {:created 1746986750181, :description "An immutable database", :group_name "io.github.radarroark", :jar_name "xitdb", :version "0.9.0"}
@@ -201,7 +200,6 @@
 {:created 1747040048632, :description "FIXME: my new library.", :group_name "net.clojars.jackjliew", :jar_name "clj-watsonx", :version "0.1.0-SNAPSHOT"}
 {:created 1747040958005, :description "Pure Clojure/Script logging library", :group_name "com.taoensso", :jar_name "timbre", :version "6.6.2"}
 {:created 1747047578708, :description nil, :group_name "metosin", :jar_name "malli", :version "0.18.0"}
-{:created 1747054418771, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-nats", :version "0.2.7-SNAPSHOT"}
 {:created 1747054964235, :description "", :group_name "io.trosa", :jar_name "component.logging", :version "1.1.0-SNAPSHOT"}
 {:created 1747054971441, :description "", :group_name "io.trosa", :jar_name "component.metrics", :version "1.1.0-SNAPSHOT"}
 {:created 1747054978631, :description "", :group_name "io.trosa", :jar_name "component.sentry", :version "1.1.0-SNAPSHOT"}
@@ -209,11 +207,8 @@
 {:created 1747057021404, :description "A simple middleware to deal with JWT Authentication", :group_name "threatgrid", :jar_name "ring-jwt-middleware", :version "1.1.7"}
 {:created 1747058351714, :description nil, :group_name "com.monkeyprojects", :jar_name "nats", :version "0.1.0-SNAPSHOT"}
 {:created 1747060509082, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
-{:created 1747062838213, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core", :version "0.2.7-SNAPSHOT"}
 {:created 1747062933466, :description "Try to tame CompletableFuture", :group_name "com.github.igrishaev", :jar_name "whew", :version "0.1.0"}
 {:created 1747062946912, :description "Build realtime conversational apps with the OpenAI Realtime API", :group_name "com.github.brianium", :jar_name "reelthyme", :version "202505121110"}
-{:created 1747063008332, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-manifold", :version "0.2.7-SNAPSHOT"}
-{:created 1747063016307, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-jms", :version "0.2.7-SNAPSHOT"}
 {:created 1747066873309, :description "Some of the tools you'll ever need to fight crime and write Clojure stuffs", :group_name "org.clojars.lukaszkorecki", :jar_name "utility-belt", :version "2.2.2"}
 {:created 1747067536807, :description nil, :group_name "ez-form", :jar_name "ez-form", :version "2025.05.12"}
 {:created 1747069697101, :description "Clojure & Component firendly Redis client, baseterd on Jedis", :group_name "org.clojars.lukaszkorecki", :jar_name "omega-red", :version "2.3.1-SNAPSHOT"}
@@ -250,7 +245,12 @@
 {:created 1747111178044, :description "HSX is a ClojureScript library for writing React components using Hiccup syntax.", :group_name "io.factorhouse", :jar_name "hsx", :version "0.1.22"}
 {:created 1747111622514, :description "An implementation of re-frame built for modern React", :group_name "io.factorhouse", :jar_name "rfx", :version "0.1.12"}
 {:created 1747125942783, :description "A Clojure framework for building real-time voice-enabled AI applications. simulflow handles the orchestration of speech recognition, audio processing, and AI service integration with the elegance of functional programming.", :group_name "com.shipclojure", :jar_name "simulflow", :version "0.1.4-alpha"}
-{:created 1747127966487, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.16.10-SNAPSHOT"}
 {:created 1747129290199, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.201-SNAPSHOT"}
 {:created 1747130011469, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "1.1.7.38"}
 {:created 1747130190922, :description "A ClojureScript MVC-like Framework For Writing SPAs Using Reagent.", :group_name "re-frame", :jar_name "re-frame", :version "1.4.5-SNAPSHOT"}
+{:created 1747135885882, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core", :version "0.2.7-SNAPSHOT"}
+{:created 1747136060357, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-nats", :version "0.2.7-SNAPSHOT"}
+{:created 1747136060693, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-jms", :version "0.2.7-SNAPSHOT"}
+{:created 1747136068643, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-manifold", :version "0.2.7-SNAPSHOT"}
+{:created 1747136719426, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.16.10-SNAPSHOT"}
+{:created 1747136750283, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.16.10-SNAPSHOT"}
