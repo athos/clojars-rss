@@ -1,16 +1,3 @@
-{:created 1747084276296, :description "clj-http implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-clj-http", :version "0.1.31"}
-{:created 1747084296554, :description "httpkit implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-httpkit", :version "0.1.31"}
-{:created 1747084317125, :description "Testing tools for martian", :group_name "com.github.oliyh", :jar_name "martian-test", :version "0.1.31"}
-{:created 1747084336299, :description "clj-http-lite implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-clj-http-lite", :version "0.1.31"}
-{:created 1747084360287, :description "re-frame bindings for martian", :group_name "com.github.oliyh", :jar_name "martian-re-frame", :version "0.1.31"}
-{:created 1747084379809, :description "babashka http-client implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-babashka-http-client", :version "0.1.31"}
-{:created 1747086214592, :description "Workflow Engine for Clojure(script)", :group_name "tech.thomascothran", :jar_name "limn", :version "1.0.45"}
-{:created 1747092960376, :description "Functional and flexible multimethods for Clojure.", :group_name "methodical", :jar_name "methodical", :version "1.0.127"}
-{:created 1747111178044, :description "HSX is a ClojureScript library for writing React components using Hiccup syntax.", :group_name "io.factorhouse", :jar_name "hsx", :version "0.1.22"}
-{:created 1747111622514, :description "An implementation of re-frame built for modern React", :group_name "io.factorhouse", :jar_name "rfx", :version "0.1.12"}
-{:created 1747125942783, :description "A Clojure framework for building real-time voice-enabled AI applications. simulflow handles the orchestration of speech recognition, audio processing, and AI service integration with the elegance of functional programming.", :group_name "com.shipclojure", :jar_name "simulflow", :version "0.1.4-alpha"}
-{:created 1747130011469, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "1.1.7.38"}
-{:created 1747130190922, :description "A ClojureScript MVC-like Framework For Writing SPAs Using Reagent.", :group_name "re-frame", :jar_name "re-frame", :version "1.4.5-SNAPSHOT"}
 {:created 1747138133711, :description "HSX is a ClojureScript library for writing React components using Hiccup syntax.", :group_name "io.factorhouse", :jar_name "hsx", :version "0.1.23"}
 {:created 1747138649318, :description "A datagrid component for re-frame apps, with sorting, editing, etc.", :group_name "re-datagrid", :jar_name "re-datagrid", :version "2.0.0"}
 {:created 1747142020428, :description "An immutable database", :group_name "io.github.radarroark", :jar_name "xitdb", :version "0.10.0"}
@@ -254,3 +241,16 @@
 {:created 1747948182884, :description "Run database migrations from a list of SQL files.", :group_name "org.clojars.irishpatrick", :jar_name "migration", :version "0.1.1-SNAPSHOT"}
 {:created 1747948982331, :description "Just a little Clojure sugar on top of openai-java", :group_name "com.github.brianium", :jar_name "oai-clj", :version "2.0.0.2"}
 {:created 1747949237551, :description nil, :group_name "fi.metosin", :jar_name "oksa", :version "1.2.1-SNAPSHOT"}
+{:created 1747952208588, :description "An optional type system for Clojure", :group_name "org.typedclojure", :jar_name "pom.typed", :version "1.4.0-SNAPSHOT"}
+{:created 1747952216956, :description "A variant of tools.analyzer.", :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1747952223968, :description "A variant of tools.analyzer.jvm.", :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1747952230955, :description "A variant of tools.analyzer.js.", :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1747952244324, :description "An optional type system for Clojure — zero-dependency artifact for annotations only.", :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1747952251744, :description "Type-like specs.", :group_name "org.typedclojure", :jar_name "typed.clj.spec", :version "1.4.0-SNAPSHOT"}
+{:created 1747952258142, :description "Type annotations and macros for the base Clojure distribution.", :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
+{:created 1747952264591, :description "FIXME", :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
+{:created 1747952271622, :description "An optional type system for Clojure — full system for annotating and type-checking.", :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1747952277999, :description "Runtime dependencies for ClojureScript type system.", :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1747952284348, :description "An optional type system for ClojureScript — full system for annotating and type-checking.", :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1747952291388, :description "Malli integration", :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
+{:created 1747952297910, :description "Type annotations and macros for core.async.", :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
