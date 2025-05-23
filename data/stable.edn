@@ -1,19 +1,3 @@
-{:created 1746729098231, :description "Functional and flexible multimethods for Clojure.", :group_name "methodical", :jar_name "methodical", :version "1.0.126"}
-{:created 1746729128719, :description "A library for delightful database interaction.", :group_name "io.github.camsaul", :jar_name "toucan2", :version "1.0.564"}
-{:created 1746729138266, :description "Toucan 1 reimplemented in terms of Toucan 2. Compatibility layer for existing projects using Toucan 1.", :group_name "io.github.camsaul", :jar_name "toucan2-toucan1", :version "1.0.564"}
-{:created 1746732060703, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "wire", :version "2.3.0"}
-{:created 1746732772566, :description "Smarter way to reload Clojure code", :group_name "io.github.tonsky", :jar_name "clj-reload", :version "0.9.6"}
-{:created 1746747658260, :description "ClojureScript priority map implementation based on clojure.data.priority-map", :group_name "org.clojars.jan_k", :jar_name "cljs-priority-map", :version "1.2.1-fixd"}
-{:created 1746748428224, :description "managing Clojure and ClojureScript app state since (reset)", :group_name "org.clojars.jan_k", :jar_name "mount", :version "0.1.15-fixd"}
-{:created 1746761781132, :description "Ring adapter for jetty 9 and above, meta package for http3", :group_name "info.sunng", :jar_name "ring-jetty9-adapter-http3", :version "0.6.7"}
-{:created 1746761816377, :description "Ring adapter for jetty 9 and above, meta package for http2", :group_name "info.sunng", :jar_name "ring-jetty9-adapter-http2", :version "0.1.7"}
-{:created 1746761861937, :description "Ring adapter for jetty9, which supports websocket and spdy", :group_name "info.sunng", :jar_name "ring-jetty9-adapter", :version "0.37.4"}
-{:created 1746776517933, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.17.1"}
-{:created 1746776551179, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.17.1"}
-{:created 1746776635925, :description nil, :group_name "io.gitlab.myst3m", :jar_name "silvur", :version "3.4.0"}
-{:created 1746776783096, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core", :version "1.792"}
-{:created 1746776791818, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-aws", :version "1.792"}
-{:created 1746776800667, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-schema", :version "1.792"}
 {:created 1746781175848, :description "OpenCV4 Wrapper", :group_name "origami", :jar_name "origami", :version "4.10.0-5"}
 {:created 1746783114587, :description "A clojure wrapper around the OTH API", :group_name "com.doccla", :jar_name "oth-client", :version "0.34.0"}
 {:created 1746789028571, :description nil, :group_name "diehard", :jar_name "diehard", :version "0.11.13"}
@@ -254,3 +238,19 @@
 {:created 1747946408656, :description "Clojure-wrapper for datatypene brukt i Mattilsynets epost-over-NATS-API map-mailer.", :group_name "io.mattilsynet", :jar_name "map-mailer-clj", :version "2025.05.4"}
 {:created 1747947482146, :description "An immutable database", :group_name "io.github.radarroark", :jar_name "xitdb", :version "0.16.0"}
 {:created 1747948982331, :description "Just a little Clojure sugar on top of openai-java", :group_name "com.github.brianium", :jar_name "oai-clj", :version "2.0.0.2"}
+{:created 1747986512989, :description "Snappy data-driven router for Clojure(Script)", :group_name "metosin", :jar_name "reitit-core", :version "0.9.0"}
+{:created 1747986528436, :description "Snappy data-driven router for Clojure(Script)", :group_name "metosin", :jar_name "reitit-dev", :version "0.9.0"}
+{:created 1747986541079, :description "Reitit: clojure.spec coercion", :group_name "metosin", :jar_name "reitit-spec", :version "0.9.0"}
+{:created 1747986553735, :description "Reitit: Malli coercion", :group_name "metosin", :jar_name "reitit-malli", :version "0.9.0"}
+{:created 1747986566989, :description "Reitit: Plumatic Schema coercion", :group_name "metosin", :jar_name "reitit-schema", :version "0.9.0"}
+{:created 1747986579803, :description "Reitit: Ring routing", :group_name "metosin", :jar_name "reitit-ring", :version "0.9.0"}
+{:created 1747986594677, :description "Reitit, common middleware bundled", :group_name "metosin", :jar_name "reitit-middleware", :version "0.9.0"}
+{:created 1747986607300, :description "Reitit: HTTP routing with interceptors", :group_name "metosin", :jar_name "reitit-http", :version "0.9.0"}
+{:created 1747986620064, :description "Reitit, common interceptors bundled", :group_name "metosin", :jar_name "reitit-interceptors", :version "0.9.0"}
+{:created 1747986632532, :description "Reitit: Swagger-support", :group_name "metosin", :jar_name "reitit-swagger", :version "0.9.0"}
+{:created 1747986645119, :description "Reitit: OpenAPI-support", :group_name "fi.metosin", :jar_name "reitit-openapi", :version "0.9.0"}
+{:created 1747986658148, :description "Reitit: Swagger-ui support", :group_name "metosin", :jar_name "reitit-swagger-ui", :version "0.9.0"}
+{:created 1747986670757, :description "Reitit: Clojurescript frontend routing core", :group_name "metosin", :jar_name "reitit-frontend", :version "0.9.0"}
+{:created 1747986683258, :description "Reitit: Sieppari Interceptors", :group_name "metosin", :jar_name "reitit-sieppari", :version "0.9.0"}
+{:created 1747986698479, :description "Reitit + Pedestal Integration", :group_name "metosin", :jar_name "reitit-pedestal", :version "0.9.0"}
+{:created 1747986725527, :description "Snappy data-driven router for Clojure(Script)", :group_name "metosin", :jar_name "reitit", :version "0.9.0"}
