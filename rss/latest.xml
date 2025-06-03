@@ -4,20 +4,48 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 3 Jun 2025 08:02:04 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 3 Jun 2025 09:01:46 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/jp.studist/annotation-reporter/versions/0.2.0-alpha2</guid>
+    <title>[jp.studist/annotation-reporter &quot;0.2.0-alpha2&quot;]</title>
+    <link>https://clojars.org/jp.studist/annotation-reporter/versions/0.2.0-alpha2</link>
+    <description>GitHub annotation test reporter for Kaocha</description>
+    <pubDate>Tue, 3 Jun 2025 08:59:58 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.sixsq.nuvla/api-server-test/versions/6.15.2-SNAPSHOT</guid>
     <title>[com.sixsq.nuvla/api-server-test &quot;6.15.2-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/com.sixsq.nuvla/api-server-test/versions/6.15.2-SNAPSHOT</link>
     <description>core api server test</description>
-    <pubDate>Tue, 3 Jun 2025 07:56:14 +0000</pubDate>
+    <pubDate>Tue, 3 Jun 2025 08:41:54 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.sixsq.nuvla/api-server/versions/6.15.2-SNAPSHOT</guid>
     <title>[com.sixsq.nuvla/api-server &quot;6.15.2-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/com.sixsq.nuvla/api-server/versions/6.15.2-SNAPSHOT</link>
     <description>core api server</description>
-    <pubDate>Tue, 3 Jun 2025 07:56:03 +0000</pubDate>
+    <pubDate>Tue, 3 Jun 2025 08:41:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.metabase/macaw/versions/0.2.27</guid>
+    <title>[io.github.metabase/macaw &quot;0.2.27&quot;]</title>
+    <link>https://clojars.org/io.github.metabase/macaw/versions/0.2.27</link>
+    <description>A Clojure wrapper for JSqlParser</description>
+    <pubDate>Tue, 3 Jun 2025 08:36:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/lupapiste/document-search-commons/versions/2.0.14</guid>
+    <title>[lupapiste/document-search-commons &quot;2.0.14&quot;]</title>
+    <link>https://clojars.org/lupapiste/document-search-commons/versions/2.0.14</link>
+    <description>Common document search related code shared between lupadoku and onkalo applications</description>
+    <pubDate>Tue, 3 Jun 2025 08:18:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.soulspace/qclojure/versions/0.1.0-SNAPSHOT</guid>
+    <title>[org.soulspace/qclojure &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.soulspace/qclojure/versions/0.1.0-SNAPSHOT</link>
+    <description>A library to implement and simulate quantum and hybrid algorithms in idiomatic Clojure</description>
+    <pubDate>Tue, 3 Jun 2025 08:07:37 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/net.clojars.zhaoyul/scheduler/versions/1.0.0-SNAPSHOT</guid>
@@ -25,13 +53,6 @@
     <link>https://clojars.org/net.clojars.zhaoyul/scheduler/versions/1.0.0-SNAPSHOT</link>
     <description>系统调度器</description>
     <pubDate>Tue, 3 Jun 2025 04:08:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.soulspace/qclojure/versions/0.1.0-SNAPSHOT</guid>
-    <title>[org.soulspace/qclojure &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.soulspace/qclojure/versions/0.1.0-SNAPSHOT</link>
-    <description>A library to implement and simulate quantum and hybrid algorithms in idiomatic Clojure</description>
-    <pubDate>Mon, 2 Jun 2025 22:41:19 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/org.clojars.jekyllislandtours/conceptual/versions/0.1.122</guid>
@@ -1791,27 +1812,6 @@
     <link>https://clojars.org/metosin/reitit-middleware/versions/0.9.0</link>
     <description>Reitit, common middleware bundled</description>
     <pubDate>Fri, 23 May 2025 07:49:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-ring/versions/0.9.0</guid>
-    <title>[metosin/reitit-ring &quot;0.9.0&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-ring/versions/0.9.0</link>
-    <description>Reitit: Ring routing</description>
-    <pubDate>Fri, 23 May 2025 07:49:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-schema/versions/0.9.0</guid>
-    <title>[metosin/reitit-schema &quot;0.9.0&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-schema/versions/0.9.0</link>
-    <description>Reitit: Plumatic Schema coercion</description>
-    <pubDate>Fri, 23 May 2025 07:49:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/reitit-malli/versions/0.9.0</guid>
-    <title>[metosin/reitit-malli &quot;0.9.0&quot;]</title>
-    <link>https://clojars.org/metosin/reitit-malli/versions/0.9.0</link>
-    <description>Reitit: Malli coercion</description>
-    <pubDate>Fri, 23 May 2025 07:49:13 +0000</pubDate>
   </item>
   </channel>
 </rss>
