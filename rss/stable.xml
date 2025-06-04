@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 4 Jun 2025 11:01:24 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 4 Jun 2025 12:02:17 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.bdinetwork/clj-ring-middleware/versions/1.0.1</guid>
+    <title>[org.bdinetwork/clj-ring-middleware &quot;1.0.1&quot;]</title>
+    <link>https://clojars.org/org.bdinetwork/clj-ring-middleware/versions/1.0.1</link>
+    <description></description>
+    <pubDate>Wed, 4 Jun 2025 11:33:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.bdinetwork/clj-ishare-client/versions/1.0.1</guid>
+    <title>[org.bdinetwork/clj-ishare-client &quot;1.0.1&quot;]</title>
+    <link>https://clojars.org/org.bdinetwork/clj-ishare-client/versions/1.0.1</link>
+    <description></description>
+    <pubDate>Wed, 4 Jun 2025 11:33:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.bdinetwork/clj-ishare-jwt/versions/1.0.1</guid>
+    <title>[org.bdinetwork/clj-ishare-jwt &quot;1.0.1&quot;]</title>
+    <link>https://clojars.org/org.bdinetwork/clj-ishare-jwt/versions/1.0.1</link>
+    <description></description>
+    <pubDate>Wed, 4 Jun 2025 11:33:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.domaindrivenarchitecture/c4k-common-cljs/versions/12.0.0</guid>
+    <title>[org.domaindrivenarchitecture/c4k-common-cljs &quot;12.0.0&quot;]</title>
+    <link>https://clojars.org/org.domaindrivenarchitecture/c4k-common-cljs/versions/12.0.0</link>
+    <description>Contains predicates and tools for c4k</description>
+    <pubDate>Wed, 4 Jun 2025 11:11:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.domaindrivenarchitecture/c4k-common-clj/versions/12.0.0</guid>
+    <title>[org.domaindrivenarchitecture/c4k-common-clj &quot;12.0.0&quot;]</title>
+    <link>https://clojars.org/org.domaindrivenarchitecture/c4k-common-clj/versions/12.0.0</link>
+    <description>Contains predicates and tools for c4k</description>
+    <pubDate>Wed, 4 Jun 2025 11:11:56 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.github.igrishaev/ring-jdk-adapter/versions/0.1.2</guid>
     <title>[com.github.igrishaev/ring-jdk-adapter &quot;0.1.2&quot;]</title>
@@ -1768,41 +1803,6 @@
     <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp/versions/0.2.8</link>
     <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters</description>
     <pubDate>Thu, 22 May 2025 14:40:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.2.8</guid>
-    <title>[com.github.steffan-westcott/clj-otel-exporter-logging-otlp &quot;0.2.8&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.2.8</link>
-    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only</description>
-    <pubDate>Thu, 22 May 2025 14:40:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.2.8</guid>
-    <title>[com.github.steffan-westcott/clj-otel-exporter-logging &quot;0.2.8&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.2.8</link>
-    <description>Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only</description>
-    <pubDate>Thu, 22 May 2025 14:40:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.8</guid>
-    <title>[com.github.steffan-westcott/clj-otel-extension-trace-propagators &quot;0.2.8&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.8</link>
-    <description>Provides access using Clojure to additional OpenTelemetry trace propagators</description>
-    <pubDate>Thu, 22 May 2025 14:40:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.8</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler &quot;0.2.8&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.8</link>
-    <description>Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type</description>
-    <pubDate>Thu, 22 May 2025 14:40:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.8</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure &quot;0.2.8&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.8</link>
-    <description>Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties</description>
-    <pubDate>Thu, 22 May 2025 14:40:24 +0000</pubDate>
   </item>
   </channel>
 </rss>
