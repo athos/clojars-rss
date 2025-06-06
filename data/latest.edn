@@ -1,4 +1,3 @@
-{:created 1748282402158, :description "A Clojure namespace dependency analyzer", :group_name "com.fabiodomingues", :jar_name "clj-depend", :version "0.11.1"}
 {:created 1748282437080, :description "Lein plugin to run clj-depend", :group_name "com.fabiodomingues", :jar_name "lein-clj-depend", :version "0.11.1"}
 {:created 1748288697182, :description "Librray to convert between Smile DataFrame and Tech ML Dataset", :group_name "org.scicloj", :jar_name "scicloj.ml.smiledf", :version "0.0.1"}
 {:created 1748289964910, :description "A network event stream processor. Intended for analytics, metrics, and alerting; and to glue various monitoring systems together.", :group_name "riemann", :jar_name "riemann", :version "0.3.12"}
@@ -242,8 +241,6 @@
 {:created 1749195148901, :description "Component wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-component", :version "0.1.40"}
 {:created 1749195167673, :description "Migration utilities for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-migration", :version "0.1.40"}
 {:created 1749195185055, :description "HugSQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-hugsql", :version "0.1.40"}
-{:created 1749203192933, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.17.2-SNAPSHOT"}
-{:created 1749203278091, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.17.2-SNAPSHOT"}
 {:created 1749204933354, :description "Poly is Polylith's command line interface for Clojure.", :group_name "polylith", :jar_name "clj-poly", :version "0.2.22-SNAPSHOT"}
 {:created 1749207932421, :description nil, :group_name "ez-form", :jar_name "ez-form", :version "2025.06.06-alpha"}
 {:created 1749209448543, :description "Core utils library for Clojure/Script", :group_name "com.taoensso", :jar_name "encore", :version "3.147.0"}
@@ -254,3 +251,6 @@
 {:created 1749214411164, :description "A simple clojure wrapper for the MongoDB Java driver", :group_name "com.github.lassemaatta", :jar_name "murmeli", :version "0.1.1-SNAPSHOT"}
 {:created 1749215103213, :description nil, :group_name "com.github.flow-storm", :jar_name "flow-storm-inst", :version "4.4.5-SNAPSHOT"}
 {:created 1749215133292, :description nil, :group_name "com.github.flow-storm", :jar_name "flow-storm-dbg", :version "4.4.5-SNAPSHOT"}
+{:created 1749217806983, :description "Datahike Redis Backend", :group_name "io.replikativ", :jar_name "datahike-redis", :version "0.1.7"}
+{:created 1749218298646, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.17.2-SNAPSHOT"}
+{:created 1749218378887, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.17.2-SNAPSHOT"}
