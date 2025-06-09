@@ -1,4 +1,3 @@
-{:created 1748605934078, :description "Contains predicates and tools for c4k", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-common-clj", :version "11.1.0"}
 {:created 1748608102156, :description nil, :group_name "org.domaindrivenarchitecture", :jar_name "dda-backup", :version "5.4.1"}
 {:created 1748613215749, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core", :version "1.812"}
 {:created 1748613224585, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-aws", :version "1.812"}
@@ -172,18 +171,11 @@
 {:created 1749385324456, :description "Common Uncomplicate utilities.", :group_name "uncomplicate", :jar_name "commons", :version "0.17.0-SNAPSHOT"}
 {:created 1749385626417, :description "Duct module for running web applications", :group_name "org.duct-framework", :jar_name "module.web", :version "0.12.8"}
 {:created 1749387531082, :description "Clojure native interop through JavaCPP", :group_name "org.uncomplicate", :jar_name "clojure-cpp", :version "0.4.1-SNAPSHOT"}
-{:created 1749387582682, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.54.0-SNAPSHOT"}
-{:created 1749387705280, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.54.0-SNAPSHOT"}
-{:created 1749387737126, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.54.0-SNAPSHOT"}
-{:created 1749387803779, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.54.0-SNAPSHOT"}
 {:created 1749388063453, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.54.0-SNAPSHOT"}
 {:created 1749390069511, :description nil, :group_name "org.uncomplicate", :jar_name "accelerate", :version "0.1.0-1.5.12-SNAPSHOT"}
 {:created 1749390182000, :description nil, :group_name "org.uncomplicate", :jar_name "accelerate-platform", :version "0.1.0-1.5.12-SNAPSHOT"}
 {:created 1749390426095, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.21.1-SNAPSHOT"}
 {:created 1749390595131, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.54.0-SNAPSHOT"}
-{:created 1749390866846, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.54.0-SNAPSHOT"}
-{:created 1749391209706, :description "Convenience project to pull dependencies on PC systems compatible with classic neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.54.0-SNAPSHOT"}
-{:created 1749391573736, :description "Convenience project to pull dependencies on Apple systems.", :group_name "org.uncomplicate", :jar_name "neanderthal-apple", :version "0.54.0-SNAPSHOT"}
 {:created 1749397089834, :description nil, :group_name "ch.codesmith", :jar_name "blocks", :version "0.12.160"}
 {:created 1749397097670, :description nil, :group_name "ch.codesmith", :jar_name "blocks-rabbitmq-dev", :version "0.12.160"}
 {:created 1749397105149, :description nil, :group_name "ch.codesmith", :jar_name "blocks-dev", :version "0.12.160"}
@@ -254,3 +246,11 @@
 {:created 1749495289016, :description "A data-oriented Discogs API Client", :group_name "io.trosa", :jar_name "discogs", :version "0.1.2-SNAPSHOT"}
 {:created 1749500985519, :description nil, :group_name "com.flipkart.java.code.standard", :jar_name "fk-java-code-std-plugin", :version "3.7"}
 {:created 1749500992442, :description nil, :group_name "com.flipkart.java.code.standard", :jar_name "com.flipkart.java.code.standard.gradle.plugin", :version "3.7"}
+{:created 1749503330384, :description nil, :group_name "diehard", :jar_name "diehard", :version "0.12.0"}
+{:created 1749504207835, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.54.0-SNAPSHOT"}
+{:created 1749504234862, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.54.0-SNAPSHOT"}
+{:created 1749504267483, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.54.0-SNAPSHOT"}
+{:created 1749504521259, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.54.0-SNAPSHOT"}
+{:created 1749504758031, :description "Convenience project to pull dependencies on PC systems compatible with classic neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.54.0-SNAPSHOT"}
+{:created 1749505258907, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.54.0-SNAPSHOT"}
+{:created 1749505315431, :description "Convenience project to pull dependencies on Apple systems.", :group_name "org.uncomplicate", :jar_name "neanderthal-apple", :version "0.54.0-SNAPSHOT"}
