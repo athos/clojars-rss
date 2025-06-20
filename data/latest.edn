@@ -1,14 +1,3 @@
-{:created 1749548376801, :description "A data-oriented Discogs API Client", :group_name "io.trosa", :jar_name "discogs", :version "0.1.2-SNAPSHOT"}
-{:created 1749558577700, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.54.0-SNAPSHOT"}
-{:created 1749558630499, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.54.0-SNAPSHOT"}
-{:created 1749558657394, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.54.0-SNAPSHOT"}
-{:created 1749559283022, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.54.0-SNAPSHOT"}
-{:created 1749559422939, :description "Convenience project to pull dependencies on Apple systems.", :group_name "org.uncomplicate", :jar_name "neanderthal-apple", :version "0.54.0-SNAPSHOT"}
-{:created 1749561191654, :description "A jetty9-based webserver implementation for use with the puppetlabs/trapperkeeper service framework.", :group_name "org.clojars.ehelms", :jar_name "trapperkeeper-webserver-jetty9", :version "4.5.3-1"}
-{:created 1749561408855, :description nil, :group_name "com.github.flow-storm", :jar_name "flow-storm-inst", :version "4.4.6"}
-{:created 1749561439376, :description nil, :group_name "com.github.flow-storm", :jar_name "flow-storm-dbg", :version "4.4.6"}
-{:created 1749564190896, :description nil, :group_name "ez-form", :jar_name "ez-form", :version "2025.06.10-alpha"}
-{:created 1749567004593, :description "Client routing for Swagger APIs", :group_name "com.github.marksto", :jar_name "martian", :version "0.1.32-SNAPSHOT"}
 {:created 1749567033992, :description "hato implementation for martian", :group_name "com.github.marksto", :jar_name "martian-hato", :version "0.1.32-SNAPSHOT"}
 {:created 1749567080013, :description "cljs-http implementation for martian", :group_name "com.github.marksto", :jar_name "martian-cljs-http", :version "0.1.32-SNAPSHOT"}
 {:created 1749567107571, :description "re-frame bindings for martian", :group_name "com.github.marksto", :jar_name "martian-re-frame", :version "0.1.32-SNAPSHOT"}
@@ -228,7 +217,6 @@
 {:created 1750333946940, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.18.0"}
 {:created 1750334032911, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.18.0"}
 {:created 1750334950244, :description "Common Uncomplicate utilities.", :group_name "uncomplicate", :jar_name "commons", :version "0.17.0-SNAPSHOT"}
-{:created 1750335780697, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-dnnl", :version "0.34.0-SNAPSHOT"}
 {:created 1750342688447, :description nil, :group_name "com.hyperfiddle", :jar_name "hyperfiddle", :version "v0-alpha-SNAPSHOT"}
 {:created 1750342935781, :description "Library for abstracting data storage from business logic", :group_name "stowaway", :jar_name "stowaway", :version "0.2.4"}
 {:created 1750345443252, :description "A fast library for rendering HTML in Clojure", :group_name "hiccup", :jar_name "hiccup", :version "2.0.0"}
@@ -240,10 +228,6 @@
 {:created 1750353433889, :description "Service Component is a Pedestal service Integrant component", :group_name "net.clojars.macielti", :jar_name "service-component", :version "4.4.2"}
 {:created 1750357531887, :description "A collection of utilities that improve Clojure experience", :group_name "io.github.tonsky", :jar_name "clojure-plus", :version "1.6.1"}
 {:created 1750360352117, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.21.1-SNAPSHOT"}
-{:created 1750360573553, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.54.0-SNAPSHOT"}
-{:created 1750360798554, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.54.0-SNAPSHOT"}
-{:created 1750361066286, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-cuda", :version "0.34.0-SNAPSHOT"}
-{:created 1750361235376, :description "Fast Clojure Deep Learning Library", :group_name "uncomplicate", :jar_name "deep-diamond", :version "0.34.0-SNAPSHOT"}
 {:created 1750364262102, :description "Markdown parser", :group_name "markdown-clj", :jar_name "markdown-clj", :version "1.12.4"}
 {:created 1750364856096, :description "AWS in the REPL.", :group_name "rs.shaffe", :jar_name "salmon", :version "0.30.0"}
 {:created 1750383127079, :description nil, :group_name "dev.rpub", :jar_name "rpub", :version "0.2.0-SNAPSHOT"}
@@ -254,3 +238,19 @@
 {:created 1750422065095, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "1.3.6.38"}
 {:created 1750424239179, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.18.1-SNAPSHOT"}
 {:created 1750424381078, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.18.1-SNAPSHOT"}
+{:created 1750428484353, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.54.0-SNAPSHOT"}
+{:created 1750428780483, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.54.0-SNAPSHOT"}
+{:created 1750428951401, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-cuda", :version "0.34.0-SNAPSHOT"}
+{:created 1750429638089, :description "", :group_name "io.trosa", :jar_name "component.keycloak", :version "1.1.0-SNAPSHOT"}
+{:created 1750429644963, :description "", :group_name "io.trosa", :jar_name "component.logging", :version "1.1.0-SNAPSHOT"}
+{:created 1750429651629, :description "", :group_name "io.trosa", :jar_name "component.metrics", :version "1.1.0-SNAPSHOT"}
+{:created 1750429658508, :description "", :group_name "io.trosa", :jar_name "component.sentry", :version "1.1.0-SNAPSHOT"}
+{:created 1750429665391, :description "", :group_name "io.trosa", :jar_name "component.telemetry", :version "1.1.0-SNAPSHOT"}
+{:created 1750429672533, :description "", :group_name "io.trosa", :jar_name "component.webserver", :version "1.1.0-SNAPSHOT"}
+{:created 1750430108954, :description "A lein plugin to turn project.clj into deps.edn", :group_name "io.github.borkdude", :jar_name "lein-lein2deps", :version "0.1.1"}
+{:created 1750431227693, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.18.2"}
+{:created 1750431253734, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-base", :version "0.34.0-SNAPSHOT"}
+{:created 1750431304297, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-test", :version "0.34.0-SNAPSHOT"}
+{:created 1750431328969, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.18.2"}
+{:created 1750431410523, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-dnnl", :version "0.34.0-SNAPSHOT"}
+{:created 1750431492939, :description "Fast Clojure Deep Learning Library", :group_name "uncomplicate", :jar_name "deep-diamond", :version "0.34.0-SNAPSHOT"}
