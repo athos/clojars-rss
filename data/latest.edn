@@ -1,6 +1,3 @@
-{:created 1749717612408, :description "core api server test", :group_name "com.sixsq.nuvla", :jar_name "api-server-test", :version "6.16.0"}
-{:created 1749720167528, :description "core api server", :group_name "com.sixsq.nuvla", :jar_name "api-server", :version "6.16.1-SNAPSHOT"}
-{:created 1749720176842, :description "core api server test", :group_name "com.sixsq.nuvla", :jar_name "api-server-test", :version "6.16.1-SNAPSHOT"}
 {:created 1749724176647, :description "系统调度器", :group_name "net.clojars.zhaoyul", :jar_name "scheduler", :version "1.0.3-SNAPSHOT"}
 {:created 1749725102148, :description "A library to implement and simulate quantum and hybrid algorithms in idiomatic Clojure", :group_name "org.soulspace", :jar_name "qclojure", :version "0.1.0-SNAPSHOT"}
 {:created 1749729695536, :description "A data-oriented Discogs API Client", :group_name "io.trosa", :jar_name "discogs", :version "0.1.3-SNAPSHOT"}
@@ -169,9 +166,6 @@
 {:created 1750419795605, :description "Modern logging facade for Clojure/Script", :group_name "com.taoensso", :jar_name "trove", :version "1.0.0-beta2"}
 {:created 1750422065095, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "1.3.6.38"}
 {:created 1750424381078, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.18.1-SNAPSHOT"}
-{:created 1750428484353, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.54.0-SNAPSHOT"}
-{:created 1750428780483, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.54.0-SNAPSHOT"}
-{:created 1750428951401, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-cuda", :version "0.34.0-SNAPSHOT"}
 {:created 1750429638089, :description "", :group_name "io.trosa", :jar_name "component.keycloak", :version "1.1.0-SNAPSHOT"}
 {:created 1750429644963, :description "", :group_name "io.trosa", :jar_name "component.logging", :version "1.1.0-SNAPSHOT"}
 {:created 1750429651629, :description "", :group_name "io.trosa", :jar_name "component.metrics", :version "1.1.0-SNAPSHOT"}
@@ -181,10 +175,7 @@
 {:created 1750430108954, :description "A lein plugin to turn project.clj into deps.edn", :group_name "io.github.borkdude", :jar_name "lein-lein2deps", :version "0.1.1"}
 {:created 1750431227693, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.18.2"}
 {:created 1750431253734, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-base", :version "0.34.0-SNAPSHOT"}
-{:created 1750431304297, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-test", :version "0.34.0-SNAPSHOT"}
 {:created 1750431328969, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.18.2"}
-{:created 1750431410523, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-dnnl", :version "0.34.0-SNAPSHOT"}
-{:created 1750431492939, :description "Fast Clojure Deep Learning Library", :group_name "uncomplicate", :jar_name "deep-diamond", :version "0.34.0-SNAPSHOT"}
 {:created 1750432178924, :description nil, :group_name "com.monkeyci", :jar_name "plugin-github", :version "0.2.0-SNAPSHOT"}
 {:created 1750435193046, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "wire", :version "2.3.2"}
 {:created 1750451312522, :description "Extensions for donut.system.", :group_name "rs.shaffe", :jar_name "sys-ext", :version "0.3.0"}
@@ -254,3 +245,12 @@
 {:created 1750786965472, :description "Swagger Spec for Ring Apps", :group_name "metosin", :jar_name "ring-swagger", :version "1.0.1-SNAPSHOT"}
 {:created 1750789841576, :description "Data-driven action dispatch for the UI: Build systems that are easier to test, observe, and extend.", :group_name "no.cjohansen", :jar_name "nexus", :version "2025.06.1"}
 {:created 1750793076950, :description "A functional Clojure(script) BEncode serialization library", :group_name "com.jamesleonis", :jar_name "bencode-cljc", :version "0.2.3-SNAPSHOT"}
+{:created 1750799297437, :description "Lint Clojure by shape.", :group_name "io.github.noahtheduke", :jar_name "splint", :version "1.21.0"}
+{:created 1750799836081, :description "A clojure(script) library that helps you compose web-applications out of declarative data-driven parts", :group_name "tada", :jar_name "tada", :version "0.3.0"}
+{:created 1750800333386, :description "Middleware oriented oauth2 client for webservices", :group_name "io.github.timothypratley", :jar_name "happyapi", :version "1.0.146-beta"}
+{:created 1750800524135, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.54.0-SNAPSHOT"}
+{:created 1750800617844, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-dnnl", :version "0.34.0-SNAPSHOT"}
+{:created 1750800700118, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-cuda", :version "0.34.0-SNAPSHOT"}
+{:created 1750801219819, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.54.0-SNAPSHOT"}
+{:created 1750801297055, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-test", :version "0.34.0-SNAPSHOT"}
+{:created 1750801802931, :description "Fast Clojure Deep Learning Library", :group_name "uncomplicate", :jar_name "deep-diamond", :version "0.34.0-SNAPSHOT"}
