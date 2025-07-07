@@ -1,16 +1,3 @@
-{:created 1750585560774, :description "babashka http-client implementation for martian", :group_name "com.github.marksto", :jar_name "martian-babashka-http-client", :version "0.1.33-SNAPSHOT"}
-{:created 1750585585368, :description "clj-http-lite implementation for martian", :group_name "com.github.marksto", :jar_name "martian-clj-http-lite", :version "0.1.33-SNAPSHOT"}
-{:created 1750593006571, :description "A simple clojure wrapper for the MongoDB Java driver", :group_name "com.github.lassemaatta", :jar_name "murmeli", :version "0.1.1-SNAPSHOT"}
-{:created 1750593898281, :description "Ring adapter for com.sun.net.httpserver", :group_name "org.clojars.jj", :jar_name "ring-http-exchange", :version "1.2.0"}
-{:created 1750605759926, :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :group_name "org.soulspace.clj", :jar_name "overarch", :version "0.39.0"}
-{:created 1750614443287, :description "Typed Clojure in your editor over LSP.", :group_name "uk.me.oli", :jar_name "typedclojure-lsp", :version "0.0.7"}
-{:created 1750615193936, :description "Library for abstracting data storage from business logic", :group_name "stowaway", :jar_name "stowaway", :version "0.2.5"}
-{:created 1750633032780, :description nil, :group_name "org.clojars.mat", :jar_name "bud", :version "0.1.4"}
-{:created 1750667505115, :description nil, :group_name "com.github.kongra", :jar_name "telsos-lib", :version "0.1.482"}
-{:created 1750672084936, :description nil, :group_name "org.bdinetwork", :jar_name "clj-ishare-jwt", :version "1.0.2-alpha7"}
-{:created 1750672117323, :description nil, :group_name "org.bdinetwork", :jar_name "clj-ishare-client", :version "1.0.2-alpha7"}
-{:created 1750674137504, :description "FIXME: write description", :group_name "org.clojars.pkoerner", :jar_name "lisb-rodin-plugin-adapter", :version "0.1.0-SNAPSHOT"}
-{:created 1750674492423, :description "Poly is Polylith's command line interface for Clojure.", :group_name "polylith", :jar_name "clj-poly", :version "0.2.22"}
 {:created 1750680636143, :description "Simple performance monitoring library for Clojure/Script", :group_name "com.taoensso", :jar_name "tufte", :version "3.0.0"}
 {:created 1750681355867, :description nil, :group_name "org.bdinetwork", :jar_name "clj-ishare-jwt", :version "1.0.2-alpha8"}
 {:created 1750681380842, :description nil, :group_name "org.bdinetwork", :jar_name "clj-ishare-client", :version "1.0.2-alpha8"}
@@ -228,7 +215,6 @@
 {:created 1751598241730, :description "Ring adapter for jetty 9 and above, meta package for http3", :group_name "info.sunng", :jar_name "ring-jetty9-adapter-http3", :version "0.6.9"}
 {:created 1751598257671, :description "Ring adapter for jetty9, which supports websocket and spdy", :group_name "info.sunng", :jar_name "ring-jetty9-adapter", :version "0.37.5"}
 {:created 1751604069795, :description nil, :group_name "io.github.coconutpalm", :jar_name "clojure-desktop-toolkit", :version "0.3.2"}
-{:created 1751608713621, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "2.1.6-SNAPSHOT"}
 {:created 1751625775776, :description "Find newer versions of your dependencies in your deps.edn file.", :group_name "olical", :jar_name "depot", :version "2.4.0"}
 {:created 1751627506593, :description "Realtime web comms library for Clojure/Script", :group_name "com.taoensso", :jar_name "sente", :version "1.21.0-beta2"}
 {:created 1751630286241, :description "系统调度器", :group_name "net.clojars.zhaoyul", :jar_name "scheduler", :version "1.0.7-SNAPSHOT"}
@@ -254,3 +240,17 @@
 {:created 1751846492535, :description nil, :group_name "dev.rpub", :jar_name "rpub", :version "0.2.0-SNAPSHOT"}
 {:created 1751865386023, :description nil, :group_name "com.s-exp", :jar_name "legba", :version "1.0.0-alpha75"}
 {:created 1751868110149, :description "Client routing for Swagger APIs", :group_name "com.github.marksto", :jar_name "martian", :version "0.1.34-SNAPSHOT"}
+{:created 1751868133330, :description "clj-http implementation for martian", :group_name "com.github.marksto", :jar_name "martian-clj-http", :version "0.1.34-SNAPSHOT"}
+{:created 1751868140230, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "2.1.6-SNAPSHOT"}
+{:created 1751868154962, :description "babashka http-client implementation for martian", :group_name "com.github.marksto", :jar_name "martian-babashka-http-client", :version "0.1.34-SNAPSHOT"}
+{:created 1751868175664, :description "httpkit implementation for martian", :group_name "com.github.marksto", :jar_name "martian-httpkit", :version "0.1.34-SNAPSHOT"}
+{:created 1751868195508, :description "Recording and playback for Martian", :group_name "com.github.marksto", :jar_name "martian-vcr", :version "0.1.34-SNAPSHOT"}
+{:created 1751868217309, :description "cljs-http-promise implementation for martian", :group_name "com.github.marksto", :jar_name "martian-cljs-http-promise", :version "0.1.34-SNAPSHOT"}
+{:created 1751868247106, :description "clj-http-lite implementation for martian", :group_name "com.github.marksto", :jar_name "martian-clj-http-lite", :version "0.1.34-SNAPSHOT"}
+{:created 1751868269357, :description "hato implementation for martian", :group_name "com.github.marksto", :jar_name "martian-hato", :version "0.1.34-SNAPSHOT"}
+{:created 1751868291030, :description "cljs-http implementation for martian", :group_name "com.github.marksto", :jar_name "martian-cljs-http", :version "0.1.34-SNAPSHOT"}
+{:created 1751868317779, :description "re-frame bindings for martian", :group_name "com.github.marksto", :jar_name "martian-re-frame", :version "0.1.34-SNAPSHOT"}
+{:created 1751868342736, :description "Testing tools for martian", :group_name "com.github.marksto", :jar_name "martian-test", :version "0.1.34-SNAPSHOT"}
+{:created 1751869162162, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.54.1"}
+{:created 1751869689436, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.54.1"}
+{:created 1751870074982, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "wire", :version "2.5.0"}
