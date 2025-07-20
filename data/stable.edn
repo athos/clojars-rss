@@ -1,19 +1,3 @@
-{:created 1751575637500, :description "Just a little Clojure sugar on top of openai-java", :group_name "com.github.brianium", :jar_name "oai-clj", :version "2.12.0.0"}
-{:created 1751576941734, :description "Just a little Clojure sugar on top of openai-java", :group_name "com.github.brianium", :jar_name "oai-clj", :version "2.12.0.1"}
-{:created 1751581518314, :description "Fluree JSON-LD Library", :group_name "com.fluree", :jar_name "json-ld", :version "1.0.0"}
-{:created 1751590565341, :description "Support for highly expressive, two-dimensional tests represented as spreadsheets.", :group_name "house.jux", :jar_name "test.spread", :version "2025.07.03"}
-{:created 1751593715947, :description "A ClojureScript validation library for parsing and validating data with an emphasis on intuitive interfaces and JavaScript interoperability", :group_name "dev.jaide", :jar_name "valhalla", :version "2025.7.3"}
-{:created 1751595962084, :description "A Telegram Bot Library for Clojure", :group_name "dev.meinside", :jar_name "clogram", :version "0.35.0"}
-{:created 1751598223848, :description "Ring adapter for jetty 9 and above, meta package for http2", :group_name "info.sunng", :jar_name "ring-jetty9-adapter-http2", :version "0.1.9"}
-{:created 1751598241730, :description "Ring adapter for jetty 9 and above, meta package for http3", :group_name "info.sunng", :jar_name "ring-jetty9-adapter-http3", :version "0.6.9"}
-{:created 1751598257671, :description "Ring adapter for jetty9, which supports websocket and spdy", :group_name "info.sunng", :jar_name "ring-jetty9-adapter", :version "0.37.5"}
-{:created 1751604069795, :description nil, :group_name "io.github.coconutpalm", :jar_name "clojure-desktop-toolkit", :version "0.3.2"}
-{:created 1751625775776, :description "Find newer versions of your dependencies in your deps.edn file.", :group_name "olical", :jar_name "depot", :version "2.4.0"}
-{:created 1751627506593, :description "Realtime web comms library for Clojure/Script", :group_name "com.taoensso", :jar_name "sente", :version "1.21.0-beta2"}
-{:created 1751642945313, :description "A library to implement and simulate quantum and hybrid algorithms in idiomatic Clojure", :group_name "org.soulspace", :jar_name "qclojure", :version "0.6.0"}
-{:created 1751703275558, :description "A library to implement and simulate quantum and hybrid algorithms in idiomatic Clojure", :group_name "org.soulspace", :jar_name "qclojure", :version "0.7.0"}
-{:created 1751729705671, :description "A library for building CLJC statechart machines.", :group_name "com.fulcrologic", :jar_name "statecharts", :version "1.2.17"}
-{:created 1751751755278, :description "A simple and extensible web framework for Clojure", :group_name "com.github.brettatoms", :jar_name "zodiac", :version "0.6.66"}
 {:created 1751768085692, :description "Simple, obvious, boring failure handling", :group_name "dev.nathantuggy", :jar_name "railjure", :version "0.1.0"}
 {:created 1751807228114, :description "A library to implement and simulate quantum and hybrid algorithms in idiomatic Clojure", :group_name "org.soulspace", :jar_name "qclojure", :version "0.8.0"}
 {:created 1751808623554, :description "Kindly is a small library for defining in what kinds of way Clojure forms and values should be displayed.", :group_name "org.scicloj", :jar_name "kindly", :version "4-beta18"}
@@ -254,3 +238,19 @@
 {:created 1753027060245, :description "Library of common utilities used in 7theta projects", :group_name "com.7theta", :jar_name "utilis", :version "3.5.0"}
 {:created 1753027127983, :description "A library for managing execution of external programs", :group_name "com.7theta", :jar_name "schema", :version "0.3.3"}
 {:created 1753027208709, :description "diff and patch implementations for clojure data structures", :group_name "com.7theta", :jar_name "distantia", :version "0.5.7"}
+{:created 1753027359065, :description "", :group_name "com.7theta", :jar_name "qr-clj", :version "0.4.8"}
+{:created 1753027690243, :description "A library for managing execution of external programs", :group_name "com.7theta", :jar_name "crusta", :version "1.2.2"}
+{:created 1753027804575, :description "", :group_name "com.7theta", :jar_name "fs-watch", :version "0.2.0"}
+{:created 1753027926559, :description "Builds for 7theta projects", :group_name "com.7theta", :jar_name "structor", :version "3.3.0"}
+{:created 1753028001908, :description "Clojure(script) time library", :group_name "com.7theta", :jar_name "tempus", :version "2.5.3"}
+{:created 1753028107108, :description "A library for managing certificates and trust stores", :group_name "com.7theta", :jar_name "fides", :version "1.6.4"}
+{:created 1753028223009, :description "Clojure(script) library for streams and concurrency", :group_name "com.7theta", :jar_name "fluxus", :version "2.2.4"}
+{:created 1753028399968, :description "A library for Signals and Signal Computation Graphs", :group_name "com.7theta", :jar_name "signum", :version "11.1.0"}
+{:created 1753028510974, :description "A library to enable observability in applications", :group_name "com.7theta", :jar_name "spectator", :version "0.8.0"}
+{:created 1753028631669, :description "A library to enable observability in applications", :group_name "com.7theta", :jar_name "spectator-slf4j", :version "0.1.4"}
+{:created 1753028903340, :description "Flow based transport", :group_name "com.7theta", :jar_name "vectio", :version "3.4.0"}
+{:created 1753029246990, :description "A rehinkdb client library designed to integrate with signum", :group_name "com.7theta", :jar_name "servo", :version "6.0.5"}
+{:created 1753029370693, :description "Functions and macros for helix support", :group_name "com.7theta", :jar_name "ventus", :version "4.2.0"}
+{:created 1753029445582, :description "A library for WebSocket based messaging", :group_name "com.7theta", :jar_name "via", :version "14.1.5"}
+{:created 1753029845706, :description "", :group_name "com.7theta", :jar_name "sarcina", :version "0.3.7"}
+{:created 1753029977638, :description "Library of handling quantities with units", :group_name "com.7theta", :jar_name "quantus", :version "1.0.1"}
