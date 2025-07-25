@@ -1,20 +1,3 @@
-{:created 1752486315281, :description "4.0.11", :group_name "xyz.zcaudate", :jar_name "fx.graphviz", :version "4.0.11"}
-{:created 1752486317509, :description "4.0.11", :group_name "xyz.zcaudate", :jar_name "fx.vega", :version "4.0.11"}
-{:created 1752487301634, :description "A Clojure library that identifies file type based on magic numbers.", :group_name "org.clojars.jj", :jar_name "surykatka", :version "1.3.0"}
-{:created 1752492204483, :description "Middleware for using FCIS style ring handlers", :group_name "com.ovistoica", :jar_name "ring-nexus-middleware", :version "2025.07.14"}
-{:created 1752501802661, :description "Middleware for using FCIS style ring handlers", :group_name "com.ovistoica", :jar_name "ring-nexus-middleware", :version "2025.07.15"}
-{:created 1752502597743, :description "Thin wrapper around Java Executors/Threads, including configurable `future` macro", :group_name "com.github.marksto", :jar_name "knit", :version "2.1.0"}
-{:created 1752510232396, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-web", :version "1.377"}
-{:created 1752510242106, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-web-frame", :version "1.377"}
-{:created 1752510251674, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-web-widgets", :version "1.377"}
-{:created 1752511104527, :description "Drift is a rails like migration framework for Clojure.", :group_name "org.clojars.daniel-zamora", :jar_name "drift", :version "1.5.5-SNAPSHOT"}
-{:created 1752512533488, :description "Middleware for using FCIS style ring handlers", :group_name "com.ovistoica", :jar_name "ring-nexus-middleware", :version "2025.07.16"}
-{:created 1752513053364, :description "Simple Clojure wrapper for the Bloomberg Java API", :group_name "cljblpapiwrapper", :jar_name "cljblpapiwrapper", :version "0.3.6.3"}
-{:created 1752515437681, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "bucket", :version "2.3.2"}
-{:created 1752515625285, :description "Middleware for using FCIS style ring handlers", :group_name "com.ovistoica", :jar_name "ring-nexus-middleware", :version "2025.07.17"}
-{:created 1752515862668, :description "A clojure tool to navigate through your data.", :group_name "djblue", :jar_name "portal", :version "0.59.2"}
-{:created 1752518795505, :description "Middleware for using FCIS style ring handlers", :group_name "com.ovistoica", :jar_name "ring-nexus-middleware", :version "2025.07.18"}
-{:created 1752522338265, :description "Library for abstracting data storage from business logic", :group_name "stowaway", :jar_name "stowaway", :version "0.2.8"}
 {:created 1752527668342, :description "A 2D game engine based on LWJGL (Light Weight Java Game Library)", :group_name "com.kimbsy", :jar_name "clunk", :version "0.4.2"}
 {:created 1752538530323, :description "Embedded maria db for clojure", :group_name "org.clojars.jj", :jar_name "embedded-mariadb-clj", :version "1.1.0"}
 {:created 1752552492411, :description "系统调度器", :group_name "net.clojars.zhaoyul", :jar_name "scheduler", :version "1.0.8-SNAPSHOT"}
@@ -254,3 +237,20 @@
 {:created 1753451320624, :description "A Clojure data -> GLSL library", :group_name "iglu", :jar_name "iglu", :version "0.10.2"}
 {:created 1753451419734, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.19.1"}
 {:created 1753451554260, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.19.1"}
+{:created 1753454084863, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-auth", :version "0.9.2062"}
+{:created 1753454094403, :description nil, :group_name "systems.bread", :jar_name "bread-core", :version "0.9.2062"}
+{:created 1753454103769, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-datahike", :version "0.9.2062"}
+{:created 1753454113434, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-reitit", :version "0.9.2062"}
+{:created 1753454122813, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-rum", :version "0.9.2062"}
+{:created 1753454453228, :description "Client routing for Swagger APIs", :group_name "com.github.oliyh", :jar_name "martian", :version "0.2.0"}
+{:created 1753454465763, :description "babashka http-client implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-babashka-http-client", :version "0.2.0"}
+{:created 1753454475697, :description "cljs-http implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-cljs-http", :version "0.2.0"}
+{:created 1753454486105, :description "clj-http implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-clj-http", :version "0.2.0"}
+{:created 1753454497886, :description "re-frame bindings for martian", :group_name "com.github.oliyh", :jar_name "martian-re-frame", :version "0.2.0"}
+{:created 1753454508231, :description "Recording and playback for Martian", :group_name "com.github.oliyh", :jar_name "martian-vcr", :version "0.2.0"}
+{:created 1753454518084, :description "clj-http-lite implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-clj-http-lite", :version "0.2.0"}
+{:created 1753454528347, :description "cljs-http-promise implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-cljs-http-promise", :version "0.2.0"}
+{:created 1753454538657, :description "hato implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-hato", :version "0.2.0"}
+{:created 1753454548547, :description "httpkit implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-httpkit", :version "0.2.0"}
+{:created 1753454558672, :description "Testing tools for martian", :group_name "com.github.oliyh", :jar_name "martian-test", :version "0.2.0"}
+{:created 1753455024088, :description "forgejo c4k-installation package", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-forgejo", :version "8.0.2"}
