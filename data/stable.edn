@@ -1,18 +1,3 @@
-{:created 1753454518084, :description "clj-http-lite implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-clj-http-lite", :version "0.2.0"}
-{:created 1753454528347, :description "cljs-http-promise implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-cljs-http-promise", :version "0.2.0"}
-{:created 1753454538657, :description "hato implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-hato", :version "0.2.0"}
-{:created 1753454548547, :description "httpkit implementation for martian", :group_name "com.github.oliyh", :jar_name "martian-httpkit", :version "0.2.0"}
-{:created 1753454558672, :description "Testing tools for martian", :group_name "com.github.oliyh", :jar_name "martian-test", :version "0.2.0"}
-{:created 1753455024088, :description "forgejo c4k-installation package", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-forgejo", :version "8.0.2"}
-{:created 1753460860636, :description "A mocking library for Clojure.", :group_name "me.pmatiello", :jar_name "mockfn", :version "0.9.0"}
-{:created 1753462535794, :description "Redis client for Cloure, based on Jedis, with optional Component support", :group_name "org.clojars.lukaszkorecki", :jar_name "omega-red", :version "2.5.0"}
-{:created 1753511915922, :description "Workflow framework for Clojure", :group_name "io.github.missinterpret", :jar_name "flows", :version "1.0.10"}
-{:created 1753518004560, :description "A library and microservice implementing the health and care terminology SNOMED CT with support for cross-maps, inference, fast full-text search, autocompletion, compositional grammar and the expression constraint language.", :group_name "com.eldrix", :jar_name "hermes", :version "1.4.1463"}
-{:created 1753523828381, :description "Save/Load Extensions for Neanderthal, Fast Clojure Matrix Library", :group_name "neanderthal-stick", :jar_name "neanderthal-stick", :version "0.5.0"}
-{:created 1753534580018, :description "ISO 3166-1 country definitions for Clojure(Script)", :group_name "net.totakke", :jar_name "clj-iso3166", :version "1.0.0"}
-{:created 1753541079535, :description "Lein plugin to run clj-kondo", :group_name "com.github.clj-kondo", :jar_name "lein-clj-kondo", :version "2025.07.26-2"}
-{:created 1753542035980, :description "A library and microservice implementing the health and care terminology SNOMED CT with support for cross-maps, inference, fast full-text search, autocompletion, compositional grammar and the expression constraint language.", :group_name "com.eldrix", :jar_name "hermes", :version "1.4.1464"}
-{:created 1753554276476, :description "Emoji for Clojure", :group_name "dawran6", :jar_name "emoji", :version "0.2.0"}
 {:created 1753564562770, :description "Fast Idiomatic Pretty Printer for Clojure", :group_name "fipp", :jar_name "fipp", :version "0.6.29"}
 {:created 1753568173827, :description "library to build a system of components in clojure", :group_name "kosmos", :jar_name "kosmos", :version "2025-07-26-R1"}
 {:created 1753568740135, :description "simple nrepl server component", :group_name "kosmos", :jar_name "kosmos-nrepl", :version "2025-07-26-R1"}
@@ -254,3 +239,18 @@
 {:created 1755121314328, :description "A Clojure client for RabbitMQ that embraces the underlying protocol. Built on top of the RabbitMQ Java client", :group_name "com.novemberain", :jar_name "langohr", :version "5.6.0"}
 {:created 1755122235846, :description "Clay is a small Clojure tool for a dynamic workflow of data visualization and literate programming.", :group_name "org.scicloj", :jar_name "clay", :version "2-beta51"}
 {:created 1755132990279, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "1.0.1"}
+{:created 1755148964065, :description nil, :group_name "systems.bread", :jar_name "bread-core", :version "0.9.2072"}
+{:created 1755150924895, :description "System/component lifecycle management", :group_name "com.lambdaisland", :jar_name "makina", :version "0.1.8"}
+{:created 1755151171709, :description nil, :group_name "com.flipkart.krystal", :jar_name "com.flipkart.krystal.gradle.plugin", :version "9.1.0"}
+{:created 1755151174246, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-bom", :version "9.1.0"}
+{:created 1755151179389, :description nil, :group_name "com.flipkart.krystal", :jar_name "honeycomb", :version "9.1.0"}
+{:created 1755151180150, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-common", :version "9.1.0"}
+{:created 1755151196723, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystex", :version "9.1.0"}
+{:created 1755151199116, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-java-sdk", :version "9.1.0"}
+{:created 1755151218081, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf3", :version "9.1.0"}
+{:created 1755151220917, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen-common", :version "9.1.0"}
+{:created 1755151222834, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-krystex", :version "9.1.0"}
+{:created 1755151247902, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf-codegen", :version "9.1.0"}
+{:created 1755151249130, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen", :version "9.1.0"}
+{:created 1755151252473, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-guice", :version "9.1.0"}
+{:created 1755151252589, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-visualization", :version "9.1.0"}
