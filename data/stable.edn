@@ -1,11 +1,3 @@
-{:created 1755724531512, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-codegen", :version "0.0.4"}
-{:created 1755724532165, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-grpc", :version "0.0.4"}
-{:created 1755724534221, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-guice", :version "0.0.4"}
-{:created 1755724534778, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest", :version "0.0.4"}
-{:created 1755724549222, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-quarkus", :version "0.0.4"}
-{:created 1755724551662, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-codegen", :version "0.0.4"}
-{:created 1755724563994, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-protobuf-codegen", :version "0.0.4"}
-{:created 1755724565762, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-dropwizard-codegen", :version "0.0.4"}
 {:created 1755724568084, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-quarkus-codegen", :version "0.0.4"}
 {:created 1755733820561, :description "lein-copy-deps is a Leiningen plugin that copies all your project's dependencies to a single directory. It supports both hard copy and symlink", :group_name "org.clojars.jj", :jar_name "copy-deps", :version "1.0.0"}
 {:created 1755733943937, :description nil, :group_name "com.github.kanwei", :jar_name "uix.core", :version "1.4.4"}
@@ -254,3 +246,11 @@
 {:created 1756641038146, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.56.0"}
 {:created 1756641372448, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.56.0"}
 {:created 1756641618725, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.56.0"}
+{:created 1756641865357, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.56.0"}
+{:created 1756642064279, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.56.0"}
+{:created 1756642267917, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.56.0"}
+{:created 1756642561962, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-base", :version "0.35.0"}
+{:created 1756642613302, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-test", :version "0.35.0"}
+{:created 1756642994613, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-dnnl", :version "0.35.0"}
+{:created 1756643444760, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-cuda", :version "0.35.0"}
+{:created 1756643539760, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-bnns", :version "0.35.0"}
