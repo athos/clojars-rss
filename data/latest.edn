@@ -1,4 +1,3 @@
-{:created 1756589567200, :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-contrib-aws-xray-propagator", :version "0.2.9-SNAPSHOT"}
 {:created 1756589573543, :description "Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-extension-autoconfigure", :version "0.2.9-SNAPSHOT"}
 {:created 1756589579909, :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :version "0.2.9-SNAPSHOT"}
 {:created 1756589586297, :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-extension-trace-propagators", :version "0.2.9-SNAPSHOT"}
@@ -123,7 +122,6 @@
 {:created 1756847251006, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen", :version "9.3.1"}
 {:created 1756848336668, :description "Some of the tools you'll ever need to fight crime and write Clojure stuffs", :group_name "org.clojars.lukaszkorecki", :jar_name "utility-belt", :version "2.3.1"}
 {:created 1756849157240, :description "Additional utilities for the Reitit router.", :group_name "io.github.abogoyavlensky", :jar_name "reitit-extras", :version "0.2.3"}
-{:created 1756849742791, :description "An in-process task-queue that is backed by disk.", :group_name "org.clj-commons", :jar_name "durable-queue", :version "0.2.99-SNAPSHOT"}
 {:created 1756861729627, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.0.201"}
 {:created 1756879957084, :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :group_name "com.fulcrologic", :jar_name "fulcro", :version "3.9.0-rc8-SNAPSHOT"}
 {:created 1756883753586, :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :group_name "com.fulcrologic", :jar_name "fulcro", :version "3.9.0-rc8"}
@@ -254,3 +252,5 @@
 {:created 1757186080459, :description "QClojure is a library to implement and simulate quantum and hybrid algorithms in idiomatic Clojure.", :group_name "org.soulspace", :jar_name "qclojure", :version "0.15.0"}
 {:created 1757188432146, :description nil, :group_name "day8.re-frame", :jar_name "test", :version "v0.1.6"}
 {:created 1757189468484, :description nil, :group_name "day8.re-frame", :jar_name "test", :version "0.1.7"}
+{:created 1757193235234, :description "An in-process task-queue that is backed by disk.", :group_name "org.clj-commons", :jar_name "durable-queue", :version "0.2.99-SNAPSHOT"}
+{:created 1757195407344, :description "IntraCel is your embedded data store keeper.", :group_name "org.clojars.intracel-admin", :jar_name "intracel-core", :version "0.1.101"}
