@@ -1,14 +1,3 @@
-{:created 1756643444760, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-cuda", :version "0.35.0"}
-{:created 1756643539760, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-bnns", :version "0.35.0"}
-{:created 1756651791274, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-base", :version "0.35.1"}
-{:created 1756651916298, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-test", :version "0.35.1"}
-{:created 1756652173919, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-dnnl", :version "0.35.1"}
-{:created 1756652265025, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-cuda", :version "0.35.1"}
-{:created 1756652480986, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-bnns", :version "0.35.1"}
-{:created 1756654254310, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-base", :version "0.35.2"}
-{:created 1756654324057, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-test", :version "0.35.2"}
-{:created 1756654379871, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-dnnl", :version "0.35.2"}
-{:created 1756654450757, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-cuda", :version "0.35.2"}
 {:created 1756654497250, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-bnns", :version "0.35.2"}
 {:created 1756654951086, :description "Fast Clojure Deep Learning Library", :group_name "uncomplicate", :jar_name "deep-diamond", :version "0.35.2"}
 {:created 1756656405763, :description "A flexible and lightweight configuration data management library for the Clojure mount ecosystem.", :group_name "io.github.missinterpret", :jar_name "mount-configuration", :version "0.1.5"}
@@ -254,3 +243,14 @@
 {:created 1757363804768, :description "A library for natural language generation and parsing", :group_name "menard", :jar_name "menard", :version "1.9.8"}
 {:created 1757364479224, :description "Jira V3 Java Client", :group_name "net.clojars.hcelebi", :jar_name "jira-v3-java-client", :version "1.20.1"}
 {:created 1757368398162, :description "Common Uncomplicate utilities.", :group_name "uncomplicate", :jar_name "commons", :version "0.18.0"}
+{:created 1757369280623, :description "Clojure native interop through JavaCPP", :group_name "org.uncomplicate", :jar_name "clojure-cpp", :version "0.6.0"}
+{:created 1757369413199, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.22.2"}
+{:created 1757369627380, :description "ClojureCL is a Clojure library for parallel computations with OpenCL.", :group_name "uncomplicate", :jar_name "clojurecl", :version "0.16.2"}
+{:created 1757369806994, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.57.0"}
+{:created 1757369860522, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.57.0"}
+{:created 1757369952967, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.57.0"}
+{:created 1757370054169, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.57.0"}
+{:created 1757370312442, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.57.0"}
+{:created 1757370403268, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.57.0"}
+{:created 1757370456750, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.57.0"}
+{:created 1757370669926, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.57.0"}
