@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 23 Sep 2025 09:01:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Sep 2025 10:01:46 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/dev.ecocore/celtuce/versions/0.5.0-SNAPSHOT</guid>
+    <title>[dev.ecocore/celtuce &quot;0.5.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/dev.ecocore/celtuce/versions/0.5.0-SNAPSHOT</link>
+    <description>An idiomatic Clojure Redis client wrapping the Java client Lettuce</description>
+    <pubDate>Tue, 23 Sep 2025 09:42:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.ecocore/celtuce-manifold/versions/0.5.0-SNAPSHOT</guid>
+    <title>[dev.ecocore/celtuce-manifold &quot;0.5.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/dev.ecocore/celtuce-manifold/versions/0.5.0-SNAPSHOT</link>
+    <description>Manifold async integration for Celtuce Redis client</description>
+    <pubDate>Tue, 23 Sep 2025 09:41:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.ecocore/celtuce-pool/versions/0.5.0-SNAPSHOT</guid>
+    <title>[dev.ecocore/celtuce-pool &quot;0.5.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/dev.ecocore/celtuce-pool/versions/0.5.0-SNAPSHOT</link>
+    <description>Connection pooling for Celtuce Redis client</description>
+    <pubDate>Tue, 23 Sep 2025 09:41:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.ecocore/celtuce-core/versions/0.5.0-SNAPSHOT</guid>
+    <title>[dev.ecocore/celtuce-core &quot;0.5.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/dev.ecocore/celtuce-core/versions/0.5.0-SNAPSHOT</link>
+    <description>An idiomatic Clojure Redis client wrapping the Java client Lettuce</description>
+    <pubDate>Tue, 23 Sep 2025 09:40:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/clj-kondo/versions/2025.09.24-SNAPSHOT</guid>
+    <title>[clj-kondo &quot;2025.09.24-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/clj-kondo/versions/2025.09.24-SNAPSHOT</link>
+    <description>A linter for Clojure that sparks joy.</description>
+    <pubDate>Tue, 23 Sep 2025 09:27:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.clj-kondo/lein-clj-kondo/versions/2025.09.22</guid>
+    <title>[com.github.clj-kondo/lein-clj-kondo &quot;2025.09.22&quot;]</title>
+    <link>https://clojars.org/com.github.clj-kondo/lein-clj-kondo/versions/2025.09.22</link>
+    <description>Lein plugin to run clj-kondo</description>
+    <pubDate>Tue, 23 Sep 2025 09:22:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/babashka/versions/1.12.209-SNAPSHOT</guid>
+    <title>[babashka &quot;1.12.209-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/babashka/versions/1.12.209-SNAPSHOT</link>
+    <description>babashka</description>
+    <pubDate>Tue, 23 Sep 2025 09:09:37 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/borkdude/deps.clj/versions/1.12.2.1572-SNAPSHOT</guid>
     <title>[borkdude/deps.clj &quot;1.12.2.1572-SNAPSHOT&quot;]</title>
@@ -888,13 +937,6 @@
     <pubDate>Wed, 17 Sep 2025 21:51:47 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/babashka/versions/1.12.209-SNAPSHOT</guid>
-    <title>[babashka &quot;1.12.209-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/babashka/versions/1.12.209-SNAPSHOT</link>
-    <description>babashka</description>
-    <pubDate>Wed, 17 Sep 2025 21:20:12 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/dev.weavejester/lein-cljfmt/versions/0.13.3</guid>
     <title>[dev.weavejester/lein-cljfmt &quot;0.13.3&quot;]</title>
     <link>https://clojars.org/dev.weavejester/lein-cljfmt/versions/0.13.3</link>
@@ -1758,48 +1800,6 @@
     <link>https://clojars.org/org.duct-framework/module.web/versions/0.12.12</link>
     <description>Duct module for running web applications</description>
     <pubDate>Sat, 13 Sep 2025 01:27:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.duct-framework/handler/versions/0.1.2</guid>
-    <title>[org.duct-framework/handler &quot;0.1.2&quot;]</title>
-    <link>https://clojars.org/org.duct-framework/handler/versions/0.1.2</link>
-    <description>Common Ring handlers for the Duct framework</description>
-    <pubDate>Sat, 13 Sep 2025 00:49:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.duct-framework/server.http.jetty/versions/0.3.2</guid>
-    <title>[org.duct-framework/server.http.jetty &quot;0.3.2&quot;]</title>
-    <link>https://clojars.org/org.duct-framework/server.http.jetty/versions/0.3.2</link>
-    <description>Integrant methods for running a Jetty web server</description>
-    <pubDate>Sat, 13 Sep 2025 00:36:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tech.thomascothran/pavlov/versions/1.0.161</guid>
-    <title>[tech.thomascothran/pavlov &quot;1.0.161&quot;]</title>
-    <link>https://clojars.org/tech.thomascothran/pavlov/versions/1.0.161</link>
-    <description>Pavlov: Bthreads for Clojure(Script)</description>
-    <pubDate>Sat, 13 Sep 2025 00:17:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ring/ring-defaults/versions/0.7.0</guid>
-    <title>[ring/ring-defaults &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/ring/ring-defaults/versions/0.7.0</link>
-    <description>Ring middleware that provides sensible defaults</description>
-    <pubDate>Fri, 12 Sep 2025 23:51:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tech.thomascothran/pavlov/versions/1.0.160</guid>
-    <title>[tech.thomascothran/pavlov &quot;1.0.160&quot;]</title>
-    <link>https://clojars.org/tech.thomascothran/pavlov/versions/1.0.160</link>
-    <description>Pavlov: Bthreads for Clojure(Script)</description>
-    <pubDate>Fri, 12 Sep 2025 23:49:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ring/versions/1.15.1</guid>
-    <title>[ring &quot;1.15.1&quot;]</title>
-    <link>https://clojars.org/ring/versions/1.15.1</link>
-    <description>A Clojure web applications library.</description>
-    <pubDate>Fri, 12 Sep 2025 23:13:21 +0000</pubDate>
   </item>
   </channel>
 </rss>
