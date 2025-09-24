@@ -4,7 +4,63 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 24 Sep 2025 11:01:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 24 Sep 2025 12:02:17 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/ring/versions/1.15.3</guid>
+    <title>[ring &quot;1.15.3&quot;]</title>
+    <link>https://clojars.org/ring/versions/1.15.3</link>
+    <description>A Clojure web applications library.</description>
+    <pubDate>Wed, 24 Sep 2025 11:30:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-jetty-adapter/versions/1.15.3</guid>
+    <title>[ring/ring-jetty-adapter &quot;1.15.3&quot;]</title>
+    <link>https://clojars.org/ring/ring-jetty-adapter/versions/1.15.3</link>
+    <description>Ring Jetty adapter.</description>
+    <pubDate>Wed, 24 Sep 2025 11:29:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.ring-clojure/ring-jakarta-servlet/versions/1.15.3</guid>
+    <title>[org.ring-clojure/ring-jakarta-servlet &quot;1.15.3&quot;]</title>
+    <link>https://clojars.org/org.ring-clojure/ring-jakarta-servlet/versions/1.15.3</link>
+    <description>Ring Jakarta servlet utilities.</description>
+    <pubDate>Wed, 24 Sep 2025 11:28:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-servlet/versions/1.15.3</guid>
+    <title>[ring/ring-servlet &quot;1.15.3&quot;]</title>
+    <link>https://clojars.org/ring/ring-servlet/versions/1.15.3</link>
+    <description>Ring servlet utilities.</description>
+    <pubDate>Wed, 24 Sep 2025 11:28:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-devel/versions/1.15.3</guid>
+    <title>[ring/ring-devel &quot;1.15.3&quot;]</title>
+    <link>https://clojars.org/ring/ring-devel/versions/1.15.3</link>
+    <description>Ring development and debugging libraries.</description>
+    <pubDate>Wed, 24 Sep 2025 11:27:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ring/ring-core/versions/1.15.3</guid>
+    <title>[ring/ring-core &quot;1.15.3&quot;]</title>
+    <link>https://clojars.org/ring/ring-core/versions/1.15.3</link>
+    <description>Ring core libraries.</description>
+    <pubDate>Wed, 24 Sep 2025 11:27:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.ring-clojure/ring-websocket-protocols/versions/1.15.3</guid>
+    <title>[org.ring-clojure/ring-websocket-protocols &quot;1.15.3&quot;]</title>
+    <link>https://clojars.org/org.ring-clojure/ring-websocket-protocols/versions/1.15.3</link>
+    <description>Ring protocols for websockets.</description>
+    <pubDate>Wed, 24 Sep 2025 11:26:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.ring-clojure/ring-core-protocols/versions/1.15.3</guid>
+    <title>[org.ring-clojure/ring-core-protocols &quot;1.15.3&quot;]</title>
+    <link>https://clojars.org/org.ring-clojure/ring-core-protocols/versions/1.15.3</link>
+    <description>Ring core protocols.</description>
+    <pubDate>Wed, 24 Sep 2025 11:25:42 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/dev.weavejester/lein-cljfmt/versions/0.13.4</guid>
     <title>[dev.weavejester/lein-cljfmt &quot;0.13.4&quot;]</title>
@@ -1744,62 +1800,6 @@
     <link>https://clojars.org/ring/ring-servlet/versions/1.15.0</link>
     <description>Ring servlet utilities.</description>
     <pubDate>Fri, 12 Sep 2025 19:48:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ring/ring-devel/versions/1.15.0</guid>
-    <title>[ring/ring-devel &quot;1.15.0&quot;]</title>
-    <link>https://clojars.org/ring/ring-devel/versions/1.15.0</link>
-    <description>Ring development and debugging libraries.</description>
-    <pubDate>Fri, 12 Sep 2025 19:47:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ring/ring-core/versions/1.15.0</guid>
-    <title>[ring/ring-core &quot;1.15.0&quot;]</title>
-    <link>https://clojars.org/ring/ring-core/versions/1.15.0</link>
-    <description>Ring core libraries.</description>
-    <pubDate>Fri, 12 Sep 2025 19:46:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.ring-clojure/ring-websocket-protocols/versions/1.15.0</guid>
-    <title>[org.ring-clojure/ring-websocket-protocols &quot;1.15.0&quot;]</title>
-    <link>https://clojars.org/org.ring-clojure/ring-websocket-protocols/versions/1.15.0</link>
-    <description>Ring protocols for websockets.</description>
-    <pubDate>Fri, 12 Sep 2025 19:45:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.ring-clojure/ring-core-protocols/versions/1.15.0</guid>
-    <title>[org.ring-clojure/ring-core-protocols &quot;1.15.0&quot;]</title>
-    <link>https://clojars.org/org.ring-clojure/ring-core-protocols/versions/1.15.0</link>
-    <description>Ring core protocols.</description>
-    <pubDate>Fri, 12 Sep 2025 19:45:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.duct-framework/main/versions/0.2.2</guid>
-    <title>[org.duct-framework/main &quot;0.2.2&quot;]</title>
-    <link>https://clojars.org/org.duct-framework/main/versions/0.2.2</link>
-    <description>Command-line tool for running Duct systems</description>
-    <pubDate>Fri, 12 Sep 2025 19:22:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.scicloj/kindly/versions/4-beta20</guid>
-    <title>[org.scicloj/kindly &quot;4-beta20&quot;]</title>
-    <link>https://clojars.org/org.scicloj/kindly/versions/4-beta20</link>
-    <description>Kindly is a small library for defining in what kinds of way Clojure forms and values should be displayed.</description>
-    <pubDate>Fri, 12 Sep 2025 18:11:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/integrant/repl/versions/0.5.0</guid>
-    <title>[integrant/repl &quot;0.5.0&quot;]</title>
-    <link>https://clojars.org/integrant/repl/versions/0.5.0</link>
-    <description>Reloaded workflow functions for Integrant</description>
-    <pubDate>Fri, 12 Sep 2025 18:00:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/leiningen-core/versions/2.12.0</guid>
-    <title>[leiningen-core &quot;2.12.0&quot;]</title>
-    <link>https://clojars.org/leiningen-core/versions/2.12.0</link>
-    <description>Library for core functionality of Leiningen.</description>
-    <pubDate>Fri, 12 Sep 2025 17:19:27 +0000</pubDate>
   </item>
   </channel>
 </rss>
