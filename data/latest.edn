@@ -1,7 +1,3 @@
-{:created 1757950042824, :description "Smarter way to reload Clojure code", :group_name "io.github.tonsky", :jar_name "clj-reload", :version "1.0.0"}
-{:created 1757950150179, :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-api", :version "0.2.9"}
-{:created 1757950155630, :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK common components", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-common", :version "0.2.9"}
-{:created 1757950160890, :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk", :version "0.2.9"}
 {:created 1757950166416, :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-contrib-aws-resources", :version "0.2.9"}
 {:created 1757950171930, :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-contrib-aws-xray-propagator", :version "0.2.9"}
 {:created 1757950177361, :description "Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-extension-autoconfigure", :version "0.2.9"}
@@ -198,7 +194,6 @@
 {:created 1758637859592, :description "A database-independent migration library", :group_name "dev.weavejester", :jar_name "ragtime", :version "0.12.1"}
 {:created 1758639066571, :description "CLJS development tools", :group_name "thheller", :jar_name "shadow-cljs", :version "3.2.1"}
 {:created 1758639258566, :description "Integrant methods for running database migrations using Ragtime", :group_name "org.duct-framework", :jar_name "migrator.ragtime", :version "0.6.0"}
-{:created 1758642044103, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.209-SNAPSHOT"}
 {:created 1758646355923, :description "An idiomatic Clojure Redis client wrapping the Java client Lettuce", :group_name "dev.ecocore", :jar_name "celtuce-core", :version "0.5.0-SNAPSHOT"}
 {:created 1758646404525, :description "Connection pooling for Celtuce Redis client", :group_name "dev.ecocore", :jar_name "celtuce-pool", :version "0.5.0-SNAPSHOT"}
 {:created 1758646438850, :description "Manifold async integration for Celtuce Redis client", :group_name "dev.ecocore", :jar_name "celtuce-manifold", :version "0.5.0-SNAPSHOT"}
@@ -254,3 +249,8 @@
 {:created 1758813439436, :description "ClojureScript compiler and core runtime library.", :group_name "com.github.flow-storm", :jar_name "clojurescript", :version "1.12.42-1"}
 {:created 1758813709607, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.20.0-SNAPSHOT"}
 {:created 1758825880135, :description "deps.clj: a Clojure port of the clojure bash script", :group_name "borkdude", :jar_name "deps.clj", :version "1.12.3.1577"}
+{:created 1758827406451, :description "deps.clj: a Clojure port of the clojure bash script", :group_name "borkdude", :jar_name "deps.clj", :version "1.12.3.1578-SNAPSHOT"}
+{:created 1758827882355, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.209-SNAPSHOT"}
+{:created 1758828208242, :description nil, :group_name "com.cnuernber", :jar_name "ham-fisted", :version "2.034"}
+{:created 1758828456344, :description nil, :group_name "cnuernber", :jar_name "dtype-next", :version "10.146"}
+{:created 1758828590719, :description nil, :group_name "techascent", :jar_name "tech.ml.dataset", :version "7.066"}

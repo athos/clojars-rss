@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 25 Sep 2025 19:01:36 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 25 Sep 2025 20:01:51 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/techascent/tech.ml.dataset/versions/7.066</guid>
+    <title>[techascent/tech.ml.dataset &quot;7.066&quot;]</title>
+    <link>https://clojars.org/techascent/tech.ml.dataset/versions/7.066</link>
+    <description></description>
+    <pubDate>Thu, 25 Sep 2025 19:29:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cnuernber/dtype-next/versions/10.146</guid>
+    <title>[cnuernber/dtype-next &quot;10.146&quot;]</title>
+    <link>https://clojars.org/cnuernber/dtype-next/versions/10.146</link>
+    <description></description>
+    <pubDate>Thu, 25 Sep 2025 19:27:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.cnuernber/ham-fisted/versions/2.034</guid>
+    <title>[com.cnuernber/ham-fisted &quot;2.034&quot;]</title>
+    <link>https://clojars.org/com.cnuernber/ham-fisted/versions/2.034</link>
+    <description></description>
+    <pubDate>Thu, 25 Sep 2025 19:23:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/babashka/versions/1.12.209-SNAPSHOT</guid>
+    <title>[babashka &quot;1.12.209-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/babashka/versions/1.12.209-SNAPSHOT</link>
+    <description>babashka</description>
+    <pubDate>Thu, 25 Sep 2025 19:18:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/borkdude/deps.clj/versions/1.12.3.1578-SNAPSHOT</guid>
+    <title>[borkdude/deps.clj &quot;1.12.3.1578-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/borkdude/deps.clj/versions/1.12.3.1578-SNAPSHOT</link>
+    <description>deps.clj: a Clojure port of the clojure bash script</description>
+    <pubDate>Thu, 25 Sep 2025 19:10:06 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/borkdude/deps.clj/versions/1.12.3.1577</guid>
     <title>[borkdude/deps.clj &quot;1.12.3.1577&quot;]</title>
@@ -389,13 +424,6 @@
     <link>https://clojars.org/dev.ecocore/celtuce-core/versions/0.5.0-SNAPSHOT</link>
     <description>An idiomatic Clojure Redis client wrapping the Java client Lettuce</description>
     <pubDate>Tue, 23 Sep 2025 16:52:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/babashka/versions/1.12.209-SNAPSHOT</guid>
-    <title>[babashka &quot;1.12.209-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/babashka/versions/1.12.209-SNAPSHOT</link>
-    <description>babashka</description>
-    <pubDate>Tue, 23 Sep 2025 15:40:44 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/org.duct-framework/migrator.ragtime/versions/0.6.0</guid>
@@ -1771,34 +1799,6 @@
     <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.2.9</link>
     <description>Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform</description>
     <pubDate>Mon, 15 Sep 2025 15:29:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.2.9</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk &quot;0.2.9&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.2.9</link>
-    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK</description>
-    <pubDate>Mon, 15 Sep 2025 15:29:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-common/versions/0.2.9</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk-common &quot;0.2.9&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-common/versions/0.2.9</link>
-    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK common components</description>
-    <pubDate>Mon, 15 Sep 2025 15:29:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.2.9</guid>
-    <title>[com.github.steffan-westcott/clj-otel-api &quot;0.2.9&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.2.9</link>
-    <description>An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry</description>
-    <pubDate>Mon, 15 Sep 2025 15:29:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.tonsky/clj-reload/versions/1.0.0</guid>
-    <title>[io.github.tonsky/clj-reload &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/io.github.tonsky/clj-reload/versions/1.0.0</link>
-    <description>Smarter way to reload Clojure code</description>
-    <pubDate>Mon, 15 Sep 2025 15:27:22 +0000</pubDate>
   </item>
   </channel>
 </rss>
