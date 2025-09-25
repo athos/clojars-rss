@@ -1,4 +1,3 @@
-{:created 1757950166416, :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-contrib-aws-resources", :version "0.2.9"}
 {:created 1757950171930, :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-contrib-aws-xray-propagator", :version "0.2.9"}
 {:created 1757950177361, :description "Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-extension-autoconfigure", :version "0.2.9"}
 {:created 1757950182943, :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :version "0.2.9"}
@@ -254,3 +253,4 @@
 {:created 1758828208242, :description nil, :group_name "com.cnuernber", :jar_name "ham-fisted", :version "2.034"}
 {:created 1758828456344, :description nil, :group_name "cnuernber", :jar_name "dtype-next", :version "10.146"}
 {:created 1758828590719, :description nil, :group_name "techascent", :jar_name "tech.ml.dataset", :version "7.066"}
+{:created 1758836105733, :description "Universal, distributed, content addressable storage library for Clojure", :group_name "io.github.missinterpret", :jar_name "storage", :version "1.0.32"}
