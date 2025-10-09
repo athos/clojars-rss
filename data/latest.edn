@@ -1,19 +1,3 @@
-{:created 1758902003176, :description nil, :group_name "com.cnuernber", :jar_name "ham-fisted", :version "2.035"}
-{:created 1758910100190, :description "National Vulnerability Database dependency checker", :group_name "nvd-clojure", :jar_name "nvd-clojure", :version "5.2.0"}
-{:created 1758914141234, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
-{:created 1758914247346, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
-{:created 1758923500424, :description "Command-line tool for running Duct systems", :group_name "org.duct-framework", :jar_name "main", :version "0.3.2"}
-{:created 1758976916216, :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :group_name "org.soulspace.clj", :jar_name "overarch", :version "0.40.0"}
-{:created 1758976948290, :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :group_name "com.fulcrologic", :jar_name "fulcro", :version "3.9.0-rc11"}
-{:created 1758979360659, :description "EDN Query Language support library", :group_name "edn-query-language", :jar_name "eql", :version "2025.09.27"}
-{:created 1759045004039, :description "Clojure Apache Kafka client with core.async api", :group_name "com.appsflyer", :jar_name "ketu", :version "2.1.0-SNAPSHOT"}
-{:created 1759046222009, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "1.9.0"}
-{:created 1759086661072, :description nil, :group_name "com.tolitius", :jar_name "obiwan", :version "0.2.6"}
-{:created 1759095429813, :description "A routing library for clojure ring", :group_name "org.clojars.jj", :jar_name "tassu", :version "1.0.1"}
-{:created 1759098125340, :description "A library for natural language generation and parsing", :group_name "menard", :jar_name "menard", :version "1.9.11"}
-{:created 1759103816816, :description "Parallel orbit and search algorithms", :group_name "orbit", :jar_name "orbit", :version "25.09.29"}
-{:created 1759104210182, :description "Enhanced throw, try, leveraging Clojure's capabilities.", :group_name "org.clj-commons", :jar_name "slingshot", :version "0.13.99-SNAPSHOT"}
-{:created 1759107660142, :description "Command-line tool for running Duct systems", :group_name "org.duct-framework", :jar_name "main", :version "0.4.0"}
 {:created 1759109942940, :description "Command-line tool for running Duct systems", :group_name "org.duct-framework", :jar_name "main", :version "0.4.1"}
 {:created 1759127248009, :description nil, :group_name "com.dmo-t", :jar_name "ipaddress", :version "0.2.5"}
 {:created 1759136389080, :description "Recompile Java code without restarting the REPL", :group_name "virgil", :jar_name "virgil", :version "0.5.0"}
@@ -254,3 +238,19 @@
 {:created 1760041136984, :description "Utilities and common tasks for generative artwork", :group_name "genartlib", :jar_name "genartlib", :version "1.2.2"}
 {:created 1760045360826, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2025.09.24-SNAPSHOT"}
 {:created 1760045578946, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.210-SNAPSHOT"}
+{:created 1760050479392, :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-api", :version "0.2.10-SNAPSHOT"}
+{:created 1760050485579, :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK common components", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-common", :version "0.2.10-SNAPSHOT"}
+{:created 1760050491545, :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk", :version "0.2.10-SNAPSHOT"}
+{:created 1760050498089, :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-contrib-aws-resources", :version "0.2.10-SNAPSHOT"}
+{:created 1760050504244, :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-contrib-aws-xray-propagator", :version "0.2.10-SNAPSHOT"}
+{:created 1760050510355, :description "Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-extension-autoconfigure", :version "0.2.10-SNAPSHOT"}
+{:created 1760050516621, :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :version "0.2.10-SNAPSHOT"}
+{:created 1760050522706, :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-extension-trace-propagators", :version "0.2.10-SNAPSHOT"}
+{:created 1760050528744, :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-logging", :version "0.2.10-SNAPSHOT"}
+{:created 1760050534977, :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-logging-otlp", :version "0.2.10-SNAPSHOT"}
+{:created 1760050540882, :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-otlp", :version "0.2.10-SNAPSHOT"}
+{:created 1760050548026, :description "Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-prometheus", :version "0.2.10-SNAPSHOT"}
+{:created 1760050554834, :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-zipkin", :version "0.2.10-SNAPSHOT"}
+{:created 1760050560728, :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-instrumentation-resources", :version "0.2.10-SNAPSHOT"}
+{:created 1760050566712, :description "Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 8+", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-instrumentation-runtime-telemetry-java8", :version "0.2.10-SNAPSHOT"}
+{:created 1760050572543, :description "Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 17+", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-instrumentation-runtime-telemetry-java17", :version "0.2.10-SNAPSHOT"}
