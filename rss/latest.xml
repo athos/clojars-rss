@@ -4,7 +4,119 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 11 Oct 2025 17:03:08 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Oct 2025 18:01:50 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry-java17/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry-java17 &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry-java17/versions/0.2.10</link>
+    <description>Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 17+</description>
+    <pubDate>Sat, 11 Oct 2025 17:25:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry-java8/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry-java8 &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry-java8/versions/0.2.10</link>
+    <description>Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 8+</description>
+    <pubDate>Sat, 11 Oct 2025 17:25:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-resources/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-instrumentation-resources &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-resources/versions/0.2.10</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process</description>
+    <pubDate>Sat, 11 Oct 2025 17:25:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-zipkin &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-zipkin/versions/0.2.10</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter</description>
+    <pubDate>Sat, 11 Oct 2025 17:25:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-prometheus/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-prometheus &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-prometheus/versions/0.2.10</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter</description>
+    <pubDate>Sat, 11 Oct 2025 17:25:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-otlp &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp/versions/0.2.10</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters</description>
+    <pubDate>Sat, 11 Oct 2025 17:25:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging-otlp &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.2.10</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only</description>
+    <pubDate>Sat, 11 Oct 2025 17:25:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.2.10</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only</description>
+    <pubDate>Sat, 11 Oct 2025 17:25:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-extension-trace-propagators &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.10</link>
+    <description>Provides access using Clojure to additional OpenTelemetry trace propagators</description>
+    <pubDate>Sat, 11 Oct 2025 17:25:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.10</link>
+    <description>Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type</description>
+    <pubDate>Sat, 11 Oct 2025 17:24:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.10</link>
+    <description>Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties</description>
+    <pubDate>Sat, 11 Oct 2025 17:24:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.2.10</link>
+    <description>Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol</description>
+    <pubDate>Sat, 11 Oct 2025 17:24:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-resources &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.2.10</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform</description>
+    <pubDate>Sat, 11 Oct 2025 17:24:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.2.10</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK</description>
+    <pubDate>Sat, 11 Oct 2025 17:24:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-common/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-common &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-common/versions/0.2.10</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK common components</description>
+    <pubDate>Sat, 11 Oct 2025 17:24:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.2.10</guid>
+    <title>[com.github.steffan-westcott/clj-otel-api &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.2.10</link>
+    <description>An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry</description>
+    <pubDate>Sat, 11 Oct 2025 17:24:26 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/stowaway/versions/0.2.11</guid>
     <title>[stowaway &quot;0.2.11&quot;]</title>
@@ -1684,118 +1796,6 @@
     <link>https://clojars.org/yleisradio/yle-clj-google-sign-in-ring-middleware/versions/0.4.0</link>
     <description>Ring middleware for authenticating yle.fi Google accounts</description>
     <pubDate>Thu, 2 Oct 2025 07:05:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.dmo-t/ipaddress/versions/0.3.33</guid>
-    <title>[com.dmo-t/ipaddress &quot;0.3.33&quot;]</title>
-    <link>https://clojars.org/com.dmo-t/ipaddress/versions/0.3.33</link>
-    <description></description>
-    <pubDate>Thu, 2 Oct 2025 06:50:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.factorhouse/cronut-integrant/versions/1.1.0</guid>
-    <title>[io.factorhouse/cronut-integrant &quot;1.1.0&quot;]</title>
-    <link>https://clojars.org/io.factorhouse/cronut-integrant/versions/1.1.0</link>
-    <description>Integrant bindings for Cronut</description>
-    <pubDate>Thu, 2 Oct 2025 02:57:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.factorhouse/cronut-javax/versions/1.1.0</guid>
-    <title>[io.factorhouse/cronut-javax &quot;1.1.0&quot;]</title>
-    <link>https://clojars.org/io.factorhouse/cronut-javax/versions/1.1.0</link>
-    <description>A Clojure companion to Quartz with Javax compatibility</description>
-    <pubDate>Thu, 2 Oct 2025 02:49:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.factorhouse/cronut/versions/1.1.0</guid>
-    <title>[io.factorhouse/cronut &quot;1.1.0&quot;]</title>
-    <link>https://clojars.org/io.factorhouse/cronut/versions/1.1.0</link>
-    <description>A Clojure companion to Quartz with Jakarta compatibility</description>
-    <pubDate>Thu, 2 Oct 2025 02:48:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.jj/majavat/versions/1.10.0</guid>
-    <title>[org.clojars.jj/majavat &quot;1.10.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.jj/majavat/versions/1.10.0</link>
-    <description>Templating engine for clojure</description>
-    <pubDate>Wed, 1 Oct 2025 21:44:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.yetanalytics/xapi-schema/versions/1.4.1</guid>
-    <title>[com.yetanalytics/xapi-schema &quot;1.4.1&quot;]</title>
-    <link>https://clojars.org/com.yetanalytics/xapi-schema/versions/1.4.1</link>
-    <description>Clojure(script) Schema for the Experience API v1.0.3</description>
-    <pubDate>Wed, 1 Oct 2025 16:45:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/threatgrid/clj-momo/versions/0.4.1</guid>
-    <title>[threatgrid/clj-momo &quot;0.4.1&quot;]</title>
-    <link>https://clojars.org/threatgrid/clj-momo/versions/0.4.1</link>
-    <description>Library code produced by the Cisco ThreatGrid team for building swagger backed API services</description>
-    <pubDate>Wed, 1 Oct 2025 15:33:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/lupapiste/commons/versions/5.3.20</guid>
-    <title>[lupapiste/commons &quot;5.3.20&quot;]</title>
-    <link>https://clojars.org/lupapiste/commons/versions/5.3.20</link>
-    <description>Common domain code and resources for lupapiste applications</description>
-    <pubDate>Wed, 1 Oct 2025 14:21:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/polylith/clj-poly/versions/0.3.0-SNAPSHOT</guid>
-    <title>[polylith/clj-poly &quot;0.3.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/polylith/clj-poly/versions/0.3.0-SNAPSHOT</link>
-    <description>Poly is Polylith&#39;s command line interface for Clojure.</description>
-    <pubDate>Wed, 1 Oct 2025 14:12:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.s-exp/legba/versions/1.0.0-alpha101</guid>
-    <title>[com.s-exp/legba &quot;1.0.0-alpha101&quot;]</title>
-    <link>https://clojars.org/com.s-exp/legba/versions/1.0.0-alpha101</link>
-    <description></description>
-    <pubDate>Wed, 1 Oct 2025 13:53:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/no.cjohansen/portfolio/versions/2025.10.1</guid>
-    <title>[no.cjohansen/portfolio &quot;2025.10.1&quot;]</title>
-    <link>https://clojars.org/no.cjohansen/portfolio/versions/2025.10.1</link>
-    <description>Visual REPL for UI component development</description>
-    <pubDate>Wed, 1 Oct 2025 13:03:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.mattilsynet/design/versions/2.2.8.38</guid>
-    <title>[io.mattilsynet/design &quot;2.2.8.38&quot;]</title>
-    <link>https://clojars.org/io.mattilsynet/design/versions/2.2.8.38</link>
-    <description>Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.</description>
-    <pubDate>Wed, 1 Oct 2025 08:26:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.dmo-t/ipaddress/versions/0.2.28</guid>
-    <title>[com.dmo-t/ipaddress &quot;0.2.28&quot;]</title>
-    <link>https://clojars.org/com.dmo-t/ipaddress/versions/0.2.28</link>
-    <description></description>
-    <pubDate>Wed, 1 Oct 2025 08:06:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.dmo-t/ipaddress/versions/0.2.27</guid>
-    <title>[com.dmo-t/ipaddress &quot;0.2.27&quot;]</title>
-    <link>https://clojars.org/com.dmo-t/ipaddress/versions/0.2.27</link>
-    <description></description>
-    <pubDate>Wed, 1 Oct 2025 03:55:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.sagevisuals/fn-in/versions/5-SNAPSHOT0</guid>
-    <title>[com.sagevisuals/fn-in &quot;5-SNAPSHOT0&quot;]</title>
-    <link>https://clojars.org/com.sagevisuals/fn-in/versions/5-SNAPSHOT0</link>
-    <description>A Clojure library for manipulating heterogeneous, arbitrarily-nested data structures.</description>
-    <pubDate>Wed, 1 Oct 2025 00:58:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clj-commons/pretty/versions/3.6.6</guid>
-    <title>[org.clj-commons/pretty &quot;3.6.6&quot;]</title>
-    <link>https://clojars.org/org.clj-commons/pretty/versions/3.6.6</link>
-    <description></description>
-    <pubDate>Tue, 30 Sep 2025 19:44:06 +0000</pubDate>
   </item>
   </channel>
 </rss>
