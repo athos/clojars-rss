@@ -1,6 +1,3 @@
-{:created 1760025394167, :description "Toucan 1 reimplemented in terms of Toucan 2. Compatibility layer for existing projects using Toucan 1.", :group_name "io.github.camsaul", :jar_name "toucan2-toucan1", :version "1.0.568"}
-{:created 1760025693830, :description nil, :group_name "com.yetanalytics", :jar_name "re-route", :version "0.1.1"}
-{:created 1760029492760, :description "Helper Macros for clj and cljs test", :group_name "fulcrologic", :jar_name "fulcro-spec", :version "3.1.13-SNAPSHOT"}
 {:created 1760032183017, :description "A library for analyzing large projects to select which tests need to run based on recent code changes", :group_name "com.fulcrologic", :jar_name "test-filter", :version "1.0.0"}
 {:created 1760032688386, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "apron", :version "2.4.1"}
 {:created 1760034629764, :description "Fast Clojure Machine Learning Model Integration", :group_name "org.uncomplicate", :jar_name "diamond-onnxrt", :version "0.6.0"}
@@ -235,18 +232,6 @@
 {:created 1760716977535, :description "A library to sign HTTP requests & generate presigned URL's for AWS", :group_name "dk.emcken", :jar_name "aws-simple-sign", :version "2.2.0-SNAPSHOT"}
 {:created 1760719548663, :description "A little logging helper for Clojure/ClojureScript projects", :group_name "clojusc", :jar_name "twig", :version "0.4.2"}
 {:created 1760722290011, :description nil, :group_name "me.fogus", :jar_name "thneed", :version "1.1.3"}
-{:created 1760724581238, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1760724589578, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1760724597683, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
-{:created 1760724605909, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
-{:created 1760724613930, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1760724621989, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
-{:created 1760724630032, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
-{:created 1760724637972, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
-{:created 1760724646051, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.spec", :version "1.4.0-SNAPSHOT"}
-{:created 1760724654206, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1760724662270, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1760724670318, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
 {:created 1760727523590, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "wire", :version "2.8.0"}
 {:created 1760729218133, :description "Postgres client in pure Java (no JDBC)", :group_name "com.github.igrishaev", :jar_name "pg2-core", :version "0.1.41"}
 {:created 1760729230821, :description "HoneySQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-honey", :version "0.1.41"}
@@ -254,3 +239,18 @@
 {:created 1760729257593, :description "Migration utilities for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-migration", :version "0.1.41"}
 {:created 1760729269988, :description "HugSQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-hugsql", :version "0.1.41"}
 {:created 1760730306620, :description "A library for frictionless SQL", :group_name "org.clojars.jj", :jar_name "boa-sql", :version "1.0.0-SNAPSHOT"}
+{:created 1760732446598, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1760732454982, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1760732463027, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
+{:created 1760732471137, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
+{:created 1760732479325, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1760732487803, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1760732496103, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
+{:created 1760732504137, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
+{:created 1760732512367, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.spec", :version "1.4.0-SNAPSHOT"}
+{:created 1760732520501, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1760732528670, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1760732536779, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1760733687483, :description "A very thin wrapper around clojure.tools.logging which adds MDC support", :group_name "org.clojars.lukaszkorecki", :jar_name "mokujin", :version "1.0.0.92-SNAPSHOT"}
+{:created 1760733704655, :description "Logback extensions for Mokujin - easy confiugration, pre-configured appenders etc", :group_name "org.clojars.lukaszkorecki", :jar_name "mokujin-logback", :version "1.0.0.92-SNAPSHOT"}
+{:created 1760734646550, :description nil, :group_name "io.github.hlship", :jar_name "cli-tools", :version "0.16.0-beta-2"}
