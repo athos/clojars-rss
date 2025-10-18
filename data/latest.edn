@@ -1,7 +1,3 @@
-{:created 1760034629764, :description "Fast Clojure Machine Learning Model Integration", :group_name "org.uncomplicate", :jar_name "diamond-onnxrt", :version "0.6.0"}
-{:created 1760039011282, :description "Helper Macros for clj and cljs test", :group_name "fulcrologic", :jar_name "fulcro-spec", :version "3.1.13"}
-{:created 1760041136984, :description "Utilities and common tasks for generative artwork", :group_name "genartlib", :jar_name "genartlib", :version "1.2.2"}
-{:created 1760045578946, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.210-SNAPSHOT"}
 {:created 1760056423023, :description "Build your jank projects using leiningen.", :group_name "org.jank-lang", :jar_name "lein-jank", :version "0.2"}
 {:created 1760056450991, :description "", :group_name "org.jank-lang", :jar_name "lein-template.jank", :version "0.3"}
 {:created 1760081363867, :description nil, :group_name "com.s-exp", :jar_name "legba", :version "1.0.0-alpha112"}
@@ -254,3 +250,7 @@
 {:created 1760758898805, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
 {:created 1760758906582, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
 {:created 1760760115101, :description "nREPL is a Clojure *n*etwork REPL.", :group_name "nrepl", :jar_name "nrepl", :version "1.5.1"}
+{:created 1760777230857, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.24.0"}
+{:created 1760777370793, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.58.1"}
+{:created 1760777576542, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.58.1"}
+{:created 1760777982515, :description "Fast Clojure Deep Learning Library", :group_name "uncomplicate", :jar_name "deep-diamond", :version "0.39.1"}
