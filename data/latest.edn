@@ -1,6 +1,3 @@
-{:created 1760132350263, :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-api", :version "0.2.10-SNAPSHOT"}
-{:created 1760132360552, :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK common components", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-common", :version "0.2.10-SNAPSHOT"}
-{:created 1760132368701, :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk", :version "0.2.10-SNAPSHOT"}
 {:created 1760132377477, :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-contrib-aws-resources", :version "0.2.10-SNAPSHOT"}
 {:created 1760132386273, :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-contrib-aws-xray-propagator", :version "0.2.10-SNAPSHOT"}
 {:created 1760132394913, :description "Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-extension-autoconfigure", :version "0.2.10-SNAPSHOT"}
@@ -254,3 +251,6 @@
 {:created 1760868270600, :description nil, :group_name "ch.codesmith", :jar_name "blocks-test-containers", :version "0.13.171"}
 {:created 1760868277563, :description nil, :group_name "ch.codesmith", :jar_name "blocks-vault", :version "0.13.171"}
 {:created 1760871378382, :description "Fast Clojure Machine Learning Model Integration", :group_name "org.uncomplicate", :jar_name "diamond-onnxrt", :version "0.11.0"}
+{:created 1760883965634, :description "Simple Clojure REPL seeder.", :group_name "szew", :jar_name "repl", :version "0.3.11"}
+{:created 1760884493997, :description "File to data and back.", :group_name "szew", :jar_name "io", :version "0.5.9"}
+{:created 1760885338047, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.210-SNAPSHOT"}
