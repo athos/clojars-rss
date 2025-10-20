@@ -1,7 +1,3 @@
-{:created 1760132421301, :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-logging", :version "0.2.10-SNAPSHOT"}
-{:created 1760132430063, :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-logging-otlp", :version "0.2.10-SNAPSHOT"}
-{:created 1760132438156, :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-otlp", :version "0.2.10-SNAPSHOT"}
-{:created 1760132447050, :description "Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-prometheus", :version "0.2.10-SNAPSHOT"}
 {:created 1760132455746, :description "Provides programmatic configuration using Clojure of OpenTelemetry Zipkin exporter", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-zipkin", :version "0.2.10-SNAPSHOT"}
 {:created 1760132464537, :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-instrumentation-resources", :version "0.2.10-SNAPSHOT"}
 {:created 1760132473281, :description "Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 8+", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-instrumentation-runtime-telemetry-java8", :version "0.2.10-SNAPSHOT"}
@@ -221,18 +217,6 @@
 {:created 1760815789463, :description "Fast Clojure Machine Learning Model Integration", :group_name "org.uncomplicate", :jar_name "diamond-onnxrt", :version "0.10.0"}
 {:created 1760822291405, :description "Django style templates for Clojure", :group_name "selmer", :jar_name "selmer", :version "1.12.65"}
 {:created 1760825777503, :description "A simple terminal based data inspector for clojure.", :group_name "com.msladecek", :jar_name "inspector", :version "0.5.41"}
-{:created 1760847930929, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1760847940879, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1760847950849, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
-{:created 1760847961176, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
-{:created 1760847971670, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1760847982179, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
-{:created 1760847992492, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
-{:created 1760848002540, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
-{:created 1760848012628, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.spec", :version "1.4.0-SNAPSHOT"}
-{:created 1760848023282, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1760848033629, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1760848043797, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
 {:created 1760860848591, :description "A simple Blink Camera API for Clojure.", :group_name "io.github.fourteatoo", :jar_name "clj-blink", :version "0.2.1-SNAPSHOT"}
 {:created 1760868211297, :description nil, :group_name "ch.codesmith", :jar_name "blocks", :version "0.13.171"}
 {:created 1760868219428, :description nil, :group_name "ch.codesmith", :jar_name "blocks-rabbitmq-dev", :version "0.13.171"}
@@ -254,3 +238,19 @@
 {:created 1760913398124, :description "Datahike Backup Library - Production-ready backup solution with streaming, resumable operations, and live sync", :group_name "org.alekcz", :jar_name "datacamp", :version "0.1.0-SNAPSHOT"}
 {:created 1760917539936, :description "Pavlov: Bthreads for Clojure(Script)", :group_name "tech.thomascothran", :jar_name "pavlov", :version "1.0.193"}
 {:created 1760923106910, :description "Clojure implementation of the Model Context Protocol (MCP)", :group_name "org.hugoduncan", :jar_name "mcp-clj-server", :version "0.1.59"}
+{:created 1760925811398, :description "A dataloader library based on Urania", :group_name "com.github.hden", :jar_name "labrador", :version "0.1.0-SNAPSHOT"}
+{:created 1760926121567, :description "Clojure implementation of the Model Context Protocol (MCP)", :group_name "org.hugoduncan", :jar_name "mcp-clj-server", :version "0.1.60"}
+{:created 1760926131092, :description "Clojure MCP client for connecting to MCP servers", :group_name "org.hugoduncan", :jar_name "mcp-clj-client", :version "0.1.60"}
+{:created 1760926141126, :description "In-memory transport for MCP client-server testing", :group_name "org.hugoduncan", :jar_name "mcp-clj-in-memory-transport", :version "0.1.60"}
+{:created 1760927350000, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1760927358082, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1760927366148, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
+{:created 1760927374370, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
+{:created 1760927382295, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1760927390249, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1760927398133, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
+{:created 1760927406053, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
+{:created 1760927414040, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.spec", :version "1.4.0-SNAPSHOT"}
+{:created 1760927421870, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1760927429768, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1760927437608, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
