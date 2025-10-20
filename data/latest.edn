@@ -1,5 +1,3 @@
-{:created 1760181195111, :description "Realtime web comms library for Clojure/Script", :group_name "com.taoensso", :jar_name "sente", :version "1.21.0-RC3"}
-{:created 1760183445473, :description "A Clojure library for generating a project ReadMe from hiccup/html.", :group_name "com.sagevisuals", :jar_name "readmoi", :version "5-SNAPSHOT2"}
 {:created 1760186005588, :description "Library for creating standardized success and error responses.", :group_name "de.dixieflatline", :jar_name "dicho", :version "0.1.0-SNAPSHOT"}
 {:created 1760189063324, :description "A collection of nREPL middleware designed to enhance Clojure editors.", :group_name "cider", :jar_name "cider-nrepl", :version "0.58.0-alpha1"}
 {:created 1760190726276, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.20.5"}
@@ -230,19 +228,7 @@
 {:created 1760926121567, :description "Clojure implementation of the Model Context Protocol (MCP)", :group_name "org.hugoduncan", :jar_name "mcp-clj-server", :version "0.1.60"}
 {:created 1760926131092, :description "Clojure MCP client for connecting to MCP servers", :group_name "org.hugoduncan", :jar_name "mcp-clj-client", :version "0.1.60"}
 {:created 1760926141126, :description "In-memory transport for MCP client-server testing", :group_name "org.hugoduncan", :jar_name "mcp-clj-in-memory-transport", :version "0.1.60"}
-{:created 1760930231937, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1760930240559, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1760930248909, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
-{:created 1760930257490, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
-{:created 1760930265950, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1760930274972, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
-{:created 1760930283340, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
-{:created 1760930291548, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
-{:created 1760930299975, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.spec", :version "1.4.0-SNAPSHOT"}
 {:created 1760930305363, :description "ClojureScript wrapper for @logseq/libs", :group_name "com.logseq", :jar_name "libs", :version "0.0.2"}
-{:created 1760930308401, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1760930316608, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1760930324796, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
 {:created 1760931923693, :description "ClojureScript wrapper for @logseq/libs", :group_name "com.logseq", :jar_name "libs", :version "0.0.3"}
 {:created 1760934869834, :description "ClojureScript wrapper for @logseq/libs", :group_name "com.logseq", :jar_name "libs", :version "0.0.4"}
 {:created 1760939456177, :description "ClojureScript wrapper for @logseq/libs", :group_name "com.logseq", :jar_name "libs", :version "0.0.5"}
@@ -254,3 +240,17 @@
 {:created 1760957354004, :description "ClojureScript wrapper for @logseq/libs", :group_name "com.logseq", :jar_name "libs", :version "0.0.7"}
 {:created 1760963109151, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.20.6-SNAPSHOT"}
 {:created 1760964654541, :description "Clojure wrapper for Jesque", :group_name "co.gaiwan", :jar_name "cljesque", :version "0.4.11"}
+{:created 1760967297434, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1760967306054, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1760967314576, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
+{:created 1760967323082, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
+{:created 1760967332205, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1760967340779, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1760967349157, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
+{:created 1760967357732, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
+{:created 1760967366261, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.spec", :version "1.4.0-SNAPSHOT"}
+{:created 1760967374753, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1760967383669, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1760967392715, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1760968229395, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core", :version "0.3.1-SNAPSHOT"}
+{:created 1760968469596, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-jms", :version "0.3.1-SNAPSHOT"}
