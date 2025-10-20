@@ -138,7 +138,6 @@
 {:created 1760654129718, :description "Pavlov: Bthreads for Clojure(Script)", :group_name "tech.thomascothran", :jar_name "pavlov", :version "1.0.192"}
 {:created 1760662190712, :description nil, :group_name "com.github.danielsz", :jar_name "bioscoop", :version "1.0.5"}
 {:created 1760666395600, :description "Backup tool for Datomic Cloud", :group_name "dev.kwill", :jar_name "datomic-backup", :version "1.0.10"}
-{:created 1760696193901, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2025.09.24-SNAPSHOT"}
 {:created 1760702338255, :description "QClojure is a library to implement and simulate quantum and hybrid algorithms in idiomatic Clojure.", :group_name "org.soulspace", :jar_name "qclojure", :version "0.22.0-SNAPSHOT"}
 {:created 1760704083830, :description "QClojure is a library to implement and simulate quantum and hybrid algorithms in idiomatic Clojure.", :group_name "org.soulspace", :jar_name "qclojure", :version "0.22.0"}
 {:created 1760704505618, :description "Django style templates for Clojure", :group_name "selmer", :jar_name "selmer", :version "1.12.64"}
@@ -232,18 +231,6 @@
 {:created 1760951649930, :description "Command line parser with good subcommand and help handling", :group_name "com.lambdaisland", :jar_name "cli", :version "1.26.116"}
 {:created 1760957354004, :description "ClojureScript wrapper for @logseq/libs", :group_name "com.logseq", :jar_name "libs", :version "0.0.7"}
 {:created 1760964654541, :description "Clojure wrapper for Jesque", :group_name "co.gaiwan", :jar_name "cljesque", :version "0.4.11"}
-{:created 1760967297434, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1760967306054, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1760967314576, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
-{:created 1760967323082, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
-{:created 1760967332205, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1760967340779, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
-{:created 1760967349157, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
-{:created 1760967357732, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
-{:created 1760967366261, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.spec", :version "1.4.0-SNAPSHOT"}
-{:created 1760967374753, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1760967383669, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1760967392715, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
 {:created 1760969050099, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core", :version "0.3.1-SNAPSHOT"}
 {:created 1760969143856, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-jms", :version "0.3.1-SNAPSHOT"}
 {:created 1760969168871, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-manifold", :version "0.3.1-SNAPSHOT"}
@@ -254,3 +241,16 @@
 {:created 1760980661247, :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :group_name "org.yamlscript", :jar_name "yamlscript", :version "0.2.6"}
 {:created 1760980670407, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.2.6"}
 {:created 1760982007390, :description "Helps you write code automation prompts", :group_name "org.clojars.ledbruno", :jar_name "tailor", :version "0.1.0-SNAPSHOT"}
+{:created 1760985075345, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2025.09.24-SNAPSHOT"}
+{:created 1760986268810, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1760986276867, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1760986284705, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
+{:created 1760986292673, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
+{:created 1760986300586, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1760986308536, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1760986316360, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
+{:created 1760986324307, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
+{:created 1760986332286, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.spec", :version "1.4.0-SNAPSHOT"}
+{:created 1760986340172, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1760986347999, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1760986355851, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
