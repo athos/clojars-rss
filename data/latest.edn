@@ -1,7 +1,3 @@
-{:created 1760203540895, :description "Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime for Java 17+", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-instrumentation-runtime-telemetry-java17", :version "0.2.10"}
-{:created 1760206987330, :description "A library for analyzing large projects to select which tests need to run based on recent code changes", :group_name "com.fulcrologic", :jar_name "test-filter", :version "1.0.2"}
-{:created 1760209142168, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "apron", :version "2.4.2"}
-{:created 1760217824908, :description nil, :group_name "com.flipkart.krystal", :jar_name "com.flipkart.krystal.gradle.plugin", :version "9.6.1"}
 {:created 1760217827326, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-bom", :version "9.6.1"}
 {:created 1760217832079, :description nil, :group_name "com.flipkart.krystal", :jar_name "honeycomb", :version "9.6.1"}
 {:created 1760217832680, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-common", :version "9.6.1"}
@@ -235,7 +231,6 @@
 {:created 1761046561258, :description "clj-http implementation for martian", :group_name "pl.rynkowski.aws-credentials-adapter", :jar_name "java-v1-from-cognitect", :version "1.0.0-SNAPSHOT"}
 {:created 1761046571360, :description "clj-http implementation for martian", :group_name "pl.rynkowski.aws-credentials-adapter", :jar_name "java-v2", :version "1.0.0-SNAPSHOT"}
 {:created 1761046583389, :description "clj-http implementation for martian", :group_name "pl.rynkowski.aws-credentials-adapter", :jar_name "java-v2-from-cognitect", :version "1.0.0-SNAPSHOT"}
-{:created 1761046722234, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.20.6-SNAPSHOT"}
 {:created 1761048996567, :description nil, :group_name "org.lotuc", :jar_name "temporal", :version "0.0.1-SNAPSHOT"}
 {:created 1761050712680, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core", :version "0.3.1-SNAPSHOT"}
 {:created 1761050770441, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-jms", :version "0.3.1-SNAPSHOT"}
@@ -252,5 +247,10 @@
 {:created 1761058326996, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core", :version "0.3.1"}
 {:created 1761058415966, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-jms", :version "0.3.1"}
 {:created 1761058458525, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-manifold", :version "0.3.1"}
-{:created 1761058478485, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2025.09.24-SNAPSHOT"}
 {:created 1761058503664, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-nats", :version "0.3.1"}
+{:created 1761059366574, :description "A library for formatting Clojure code", :group_name "dev.weavejester", :jar_name "cljfmt", :version "0.15.1"}
+{:created 1761059396888, :description "A library for formatting Clojure code", :group_name "dev.weavejester", :jar_name "lein-cljfmt", :version "0.15.1"}
+{:created 1761059438631, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.19.7-SNAPSHOT"}
+{:created 1761059464589, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2025.09.24-SNAPSHOT"}
+{:created 1761059600524, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.20.6-SNAPSHOT"}
+{:created 1761061512979, :description "A library for analyzing large projects to select which tests need to run based on recent code changes", :group_name "com.fulcrologic", :jar_name "test-filter", :version "1.0.4"}
