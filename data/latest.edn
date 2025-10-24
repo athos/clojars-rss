@@ -1,5 +1,3 @@
-{:created 1760554404247, :description "A library for formatting Clojure code", :group_name "dev.weavejester", :jar_name "lein-cljfmt", :version "0.14.0"}
-{:created 1760557085729, :description "A library for analyzing large projects to select which tests need to run based on recent code changes", :group_name "com.fulcrologic", :jar_name "test-filter", :version "1.0.3"}
 {:created 1760560526168, :description "nREPL is a Clojure *n*etwork REPL.", :group_name "nrepl", :jar_name "nrepl", :version "1.5.0"}
 {:created 1760563903027, :description "A collection of nREPL middleware designed to enhance Clojure editors.", :group_name "cider", :jar_name "cider-nrepl", :version "0.58.0"}
 {:created 1760572073099, :description "Pavlov: Bthreads for Clojure(Script)", :group_name "tech.thomascothran", :jar_name "pavlov", :version "1.0.190"}
@@ -243,14 +241,16 @@
 {:created 1761235232055, :description "A memento cache using Redis", :group_name "org.clojars.roklenarcic", :jar_name "memento-redis", :version "1.0.25"}
 {:created 1761235346259, :description "Fast Clojure Deep Learning Library", :group_name "uncomplicate", :jar_name "deep-diamond", :version "0.40.1"}
 {:created 1761252952108, :description "Data-driven action dispatch for the UI: Build systems that are easier to test, observe, and extend.", :group_name "no.cjohansen", :jar_name "nexus", :version "2025.10.2"}
-{:created 1761262589105, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1761262597651, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1761262606007, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
-{:created 1761262614386, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
-{:created 1761262622917, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1761262631390, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
-{:created 1761262639756, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
-{:created 1761262648125, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
-{:created 1761262657030, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1761262666148, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1761262675236, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1761264690998, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1761264699491, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1761264707777, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
+{:created 1761264716282, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
+{:created 1761264724986, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1761264733361, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1761264741646, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
+{:created 1761264750195, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
+{:created 1761264758572, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1761264767137, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1761264775566, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1761267430786, :description "A library for formatting Clojure code", :group_name "dev.weavejester", :jar_name "cljfmt", :version "0.15.3"}
+{:created 1761267470324, :description "A library for formatting Clojure code", :group_name "dev.weavejester", :jar_name "lein-cljfmt", :version "0.15.3"}
