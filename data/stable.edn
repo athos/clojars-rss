@@ -1,8 +1,3 @@
-{:created 1761133679686, :description "A library for analyzing large projects to select which tests need to run based on recent code changes", :group_name "com.fulcrologic", :jar_name "test-filter", :version "1.0.5"}
-{:created 1761137713669, :description "A library for analyzing large projects to select which tests need to run based on recent code changes", :group_name "com.fulcrologic", :jar_name "test-filter", :version "1.0.6"}
-{:created 1761153762780, :description "A library for formatting Clojure code", :group_name "dev.weavejester", :jar_name "cljfmt", :version "0.15.2"}
-{:created 1761159742234, :description "An adapter providing an AWS Java SDK v1 credentials.", :group_name "pl.rynkowski.awscredentials", :jar_name "aws-java-sdk-v1", :version "0.0.3"}
-{:created 1761159752365, :description "An adapter providing an AWS Java SDK v2 credentials.", :group_name "pl.rynkowski.awscredentials", :jar_name "aws-java-sdk-v2", :version "0.0.3"}
 {:created 1761159763170, :description "Extra utils for aws-api related to CredentialsProvider.", :group_name "pl.rynkowski.awscredentials", :jar_name "aws-api-extras", :version "0.0.3"}
 {:created 1761163117967, :description "A batteries included static website framework", :group_name "no.cjohansen", :jar_name "powerpack", :version "2025.10.22"}
 {:created 1761169113901, :description nil, :group_name "com.github.k13labs", :jar_name "failsage", :version "0.2.0"}
@@ -254,3 +249,8 @@
 {:created 1762115910205, :description "Clojure library for better handling of bad situations.", :group_name "murphy", :jar_name "murphy", :version "0.5.3"}
 {:created 1762124326290, :description "An in-process task-queue that is backed by disk.", :group_name "org.clj-commons", :jar_name "durable-queue", :version "0.2.0"}
 {:created 1762132951747, :description "Helper Macros for clj and cljs test", :group_name "fulcrologic", :jar_name "fulcro-spec", :version "3.1.15"}
+{:created 1762140989994, :description "Native dependency of Datalevin database on Windows", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-windows-x86_64", :version "0.13.12"}
+{:created 1762141039159, :description "Native dependency of Datalevin on Apple Intel", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-x86_64", :version "0.13.12"}
+{:created 1762141059848, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "0.13.12"}
+{:created 1762141069008, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "0.13.12"}
+{:created 1762141448711, :description "Native dependency of Datalevin on Apple Silicon", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-arm64", :version "0.13.12"}
