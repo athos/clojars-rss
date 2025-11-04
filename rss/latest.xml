@@ -4,7 +4,61 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 4 Nov 2025 22:01:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 4 Nov 2025 23:01:44 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-arm64/versions/0.13.18</guid>
+    <title>[org.clojars.huahaiy/dtlvnative-linux-arm64 &quot;0.13.18&quot;]</title>
+    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-arm64/versions/0.13.18</link>
+    <description>Native dependency of Datalevin on Linux Arm64</description>
+    <pubDate>Tue, 4 Nov 2025 23:01:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/0.13.18</guid>
+    <title>[org.clojars.huahaiy/dtlvnative-windows-x86_64 &quot;0.13.18&quot;]</title>
+    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/0.13.18</link>
+    <description>Native dependency of Datalevin database on Windows</description>
+    <pubDate>Tue, 4 Nov 2025 23:00:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/0.13.18</guid>
+    <title>[org.clojars.huahaiy/dtlvnative-linux-x86_64 &quot;0.13.18&quot;]</title>
+    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/0.13.18</link>
+    <description>Native dependency of Datalevin on Linux x86-64</description>
+    <pubDate>Tue, 4 Nov 2025 22:59:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/0.13.18</guid>
+    <title>[org.clojars.huahaiy/dtlvnative-macosx-arm64 &quot;0.13.18&quot;]</title>
+    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/0.13.18</link>
+    <description>Native dependency of Datalevin on Apple Silicon</description>
+    <pubDate>Tue, 4 Nov 2025 22:59:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.saga-it/mirthsync/versions/3.5.1-SNAPSHOT</guid>
+    <title>[com.saga-it/mirthsync &quot;3.5.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.saga-it/mirthsync/versions/3.5.1-SNAPSHOT</link>
+    <description>MirthSync is an open source DevOps tool for Mirth Connect and
+  Open Integration Engine version control and CI/CD automation. This command line
+  tool enables healthcare integration DevOps workflows by keeping a local copy of
+  Mirth Connect configurations (channels, code templates, global scripts) that can
+  be tracked with Git or other version control systems. MirthSync supports
+  multi-environment deployments (dev, test, prod) with automated channel promotion
+  between servers, making it ideal for interface engine CI/CD pipelines and GitOps
+  workflows. The tool provides infrastructure as code capabilities for HL7, FHIR,
+  and DICOM integration engine deployments with built-in Git integration, channel
+  versioning, and continuous deployment support for healthcare environments.
+
+  The only requirements are having credentials for the server that is being synced
+  and ensuring that the server is configured to allow access to its REST API.</description>
+    <pubDate>Tue, 4 Nov 2025 22:42:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.msladecek/inspector/versions/0.5.42</guid>
+    <title>[com.msladecek/inspector &quot;0.5.42&quot;]</title>
+    <link>https://clojars.org/com.msladecek/inspector/versions/0.5.42</link>
+    <description>A simple terminal based data inspector for clojure.</description>
+    <pubDate>Tue, 4 Nov 2025 22:03:49 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/0.13.16</guid>
     <title>[org.clojars.huahaiy/dtlvnative-windows-x86_64 &quot;0.13.16&quot;]</title>
@@ -81,25 +135,6 @@
     <link>https://clojars.org/org.clojars.jj/majavat/versions/1.12.4-SNAPSHOT</link>
     <description>Templating engine for clojure</description>
     <pubDate>Tue, 4 Nov 2025 18:38:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.saga-it/mirthsync/versions/3.5.1-SNAPSHOT</guid>
-    <title>[com.saga-it/mirthsync &quot;3.5.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.saga-it/mirthsync/versions/3.5.1-SNAPSHOT</link>
-    <description>MirthSync is an open source DevOps tool for Mirth Connect and
-  Open Integration Engine version control and CI/CD automation. This command line
-  tool enables healthcare integration DevOps workflows by keeping a local copy of
-  Mirth Connect configurations (channels, code templates, global scripts) that can
-  be tracked with Git or other version control systems. MirthSync supports
-  multi-environment deployments (dev, test, prod) with automated channel promotion
-  between servers, making it ideal for interface engine CI/CD pipelines and GitOps
-  workflows. The tool provides infrastructure as code capabilities for HL7, FHIR,
-  and DICOM integration engine deployments with built-in Git integration, channel
-  versioning, and continuous deployment support for healthcare environments.
-
-  The only requirements are having credentials for the server that is being synced
-  and ensuring that the server is configured to allow access to its REST API.</description>
-    <pubDate>Tue, 4 Nov 2025 18:24:19 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/dev.ericdallo/metrepl/versions/0.4.2</guid>
@@ -1787,41 +1822,6 @@
     <link>https://clojars.org/clojure2d/versions/1.5.0-alpha1</link>
     <description>Creative coding / glitch library backed by Java2D</description>
     <pubDate>Mon, 27 Oct 2025 20:44:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/no.cjohansen/lookup/versions/2025.10.1</guid>
-    <title>[no.cjohansen/lookup &quot;2025.10.1&quot;]</title>
-    <link>https://clojars.org/no.cjohansen/lookup/versions/2025.10.1</link>
-    <description>Find content of interest in hiccup data.</description>
-    <pubDate>Mon, 27 Oct 2025 19:47:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.nextjournal/markdown/versions/0.7.196</guid>
-    <title>[io.github.nextjournal/markdown &quot;0.7.196&quot;]</title>
-    <link>https://clojars.org/io.github.nextjournal/markdown/versions/0.7.196</link>
-    <description></description>
-    <pubDate>Mon, 27 Oct 2025 19:43:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.manetu/gitlab-api/versions/1.2.0</guid>
-    <title>[io.github.manetu/gitlab-api &quot;1.2.0&quot;]</title>
-    <link>https://clojars.org/io.github.manetu/gitlab-api/versions/1.2.0</link>
-    <description>A babashka compatible library for accessing the gitlab API</description>
-    <pubDate>Mon, 27 Oct 2025 19:32:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/lupapiste/document-search-commons/versions/2.0.15</guid>
-    <title>[lupapiste/document-search-commons &quot;2.0.15&quot;]</title>
-    <link>https://clojars.org/lupapiste/document-search-commons/versions/2.0.15</link>
-    <description>Common document search related code shared between lupadoku and onkalo applications</description>
-    <pubDate>Mon, 27 Oct 2025 16:28:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/lupapiste/commons/versions/5.3.23</guid>
-    <title>[lupapiste/commons &quot;5.3.23&quot;]</title>
-    <link>https://clojars.org/lupapiste/commons/versions/5.3.23</link>
-    <description>Common domain code and resources for lupapiste applications</description>
-    <pubDate>Mon, 27 Oct 2025 16:27:55 +0000</pubDate>
   </item>
   </channel>
 </rss>
