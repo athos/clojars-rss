@@ -1,8 +1,3 @@
-{:created 1761227453468, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2025.10.23"}
-{:created 1761228097697, :description "Lein plugin to run clj-kondo", :group_name "com.github.clj-kondo", :jar_name "lein-clj-kondo", :version "2025.10.23"}
-{:created 1761231426933, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.25.0"}
-{:created 1761231793052, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.59.0"}
-{:created 1761231952308, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic Neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.59.0"}
 {:created 1761232286124, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-cuda", :version "0.40.0"}
 {:created 1761233790326, :description "Fast Clojure Deep Learning Library", :group_name "uncomplicate", :jar_name "deep-diamond", :version "0.40.0"}
 {:created 1761235232055, :description "A memento cache using Redis", :group_name "org.clojars.roklenarcic", :jar_name "memento-redis", :version "1.0.25"}
@@ -254,3 +249,8 @@
 {:created 1762193024176, :description nil, :group_name "io.github.kit-clj", :jar_name "deps-template", :version "0.1.83"}
 {:created 1762193038830, :description nil, :group_name "io.github.kit-clj", :jar_name "lein-template", :version "0.1.83"}
 {:created 1762199245854, :description nil, :group_name "com.s-exp", :jar_name "legba", :version "1.0.0-alpha124"}
+{:created 1762228557100, :description "Native dependency of Datalevin on Apple Silicon", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-arm64", :version "0.13.13"}
+{:created 1762228594913, :description "Native dependency of Datalevin database on Windows", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-windows-x86_64", :version "0.13.13"}
+{:created 1762228610335, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "0.13.13"}
+{:created 1762228714545, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "0.13.13"}
+{:created 1762228716639, :description "Native dependency of Datalevin on Apple Intel", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-x86_64", :version "0.13.13"}
