@@ -6,17 +6,6 @@
 {:created 1761614344167, :description "Native dependency of Datalevin on Apple Intel", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-x86_64", :version "0.13.6"}
 {:created 1761614397568, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "0.13.6"}
 {:created 1761621261886, :description "A better \"prn\" for debugging", :group_name "dev.weavejester", :jar_name "hashp", :version "0.5.0"}
-{:created 1761624863823, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1761624872928, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1761624881508, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
-{:created 1761624890084, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
-{:created 1761624898853, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1761624907432, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
-{:created 1761624916028, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
-{:created 1761624924636, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
-{:created 1761624933133, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1761624941674, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1761624950285, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
 {:created 1761625200713, :description "A better \"prn\" for debugging", :group_name "dev.weavejester", :jar_name "hashp", :version "0.5.1"}
 {:created 1761630463432, :description "A Clojure library for adding generic trace support without having to modify code.", :group_name "io.github.beoliver", :jar_name "wiretap", :version "0.0.20"}
 {:created 1761634313872, :description "Native dependency of Datalevin on Apple Silicon", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-arm64", :version "0.13.7"}
@@ -26,7 +15,6 @@
 {:created 1761634448540, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "0.13.7"}
 {:created 1761636377007, :description nil, :group_name "com.github.danielsz", :jar_name "bioscoop", :version "1.0.6"}
 {:created 1761637857360, :description nil, :group_name "com.s-exp", :jar_name "appia", :version "1.0.0-alpha5"}
-{:created 1761649013148, :description "Poly is Polylith's command line interface for Clojure.", :group_name "polylith", :jar_name "clj-poly", :version "0.3.31-SNAPSHOT"}
 {:created 1761654774278, :description "Native dependency for com.outskirtslabs/busker", :group_name "com.outskirtslabs.busker", :jar_name "linux-aarch64", :version "0.0.2"}
 {:created 1761654788756, :description "Native dependency for com.outskirtslabs/busker", :group_name "com.outskirtslabs.busker", :jar_name "linux-x86-64", :version "0.0.1"}
 {:created 1761654802400, :description "Native dependency for com.outskirtslabs/busker", :group_name "com.outskirtslabs.busker", :jar_name "macos-aarch64", :version "0.0.1"}
@@ -254,3 +242,15 @@
 {:created 1762362806884, :description "Data security framework for Clojure", :group_name "com.taoensso", :jar_name "tempel", :version "1.0.0"}
 {:created 1762364861947, :description "MirthSync is an open source DevOps tool for Mirth Connect and\n  Open Integration Engine version control and CI/CD automation. This command line\n  tool enables healthcare integration DevOps workflows by keeping a local copy of\n  Mirth Connect configurations (channels, code templates, global scripts) that can\n  be tracked with Git or other version control systems. MirthSync supports\n  multi-environment deployments (dev, test, prod) with automated channel promotion\n  between servers, making it ideal for interface engine CI/CD pipelines and GitOps\n  workflows. The tool provides infrastructure as code capabilities for HL7, FHIR,\n  and DICOM integration engine deployments with built-in Git integration, channel\n  versioning, and continuous deployment support for healthcare environments.\n\n  The only requirements are having credentials for the server that is being synced\n  and ensuring that the server is configured to allow access to its REST API.", :group_name "com.saga-it", :jar_name "mirthsync", :version "3.5.1-SNAPSHOT"}
 {:created 1762365112978, :description "Utils for dealing with MDC", :group_name "de.danjou", :jar_name "clj-mdc", :version "0.2.12"}
+{:created 1762373123988, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1762373133445, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1762373142695, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
+{:created 1762373152011, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
+{:created 1762373162593, :description "Poly is Polylith's command line interface for Clojure.", :group_name "polylith", :jar_name "clj-poly", :version "0.3.31-SNAPSHOT"}
+{:created 1762373164420, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1762373174275, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1762373183740, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
+{:created 1762373193207, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
+{:created 1762373202831, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1762373211584, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1762373220542, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
