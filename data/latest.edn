@@ -1,4 +1,3 @@
-{:created 1761614344167, :description "Native dependency of Datalevin on Apple Intel", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-x86_64", :version "0.13.6"}
 {:created 1761614397568, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "0.13.6"}
 {:created 1761621261886, :description "A better \"prn\" for debugging", :group_name "dev.weavejester", :jar_name "hashp", :version "0.5.0"}
 {:created 1761625200713, :description "A better \"prn\" for debugging", :group_name "dev.weavejester", :jar_name "hashp", :version "0.5.1"}
@@ -237,20 +236,21 @@
 {:created 1762362806884, :description "Data security framework for Clojure", :group_name "com.taoensso", :jar_name "tempel", :version "1.0.0"}
 {:created 1762364861947, :description "MirthSync is an open source DevOps tool for Mirth Connect and\n  Open Integration Engine version control and CI/CD automation. This command line\n  tool enables healthcare integration DevOps workflows by keeping a local copy of\n  Mirth Connect configurations (channels, code templates, global scripts) that can\n  be tracked with Git or other version control systems. MirthSync supports\n  multi-environment deployments (dev, test, prod) with automated channel promotion\n  between servers, making it ideal for interface engine CI/CD pipelines and GitOps\n  workflows. The tool provides infrastructure as code capabilities for HL7, FHIR,\n  and DICOM integration engine deployments with built-in Git integration, channel\n  versioning, and continuous deployment support for healthcare environments.\n\n  The only requirements are having credentials for the server that is being synced\n  and ensuring that the server is configured to allow access to its REST API.", :group_name "com.saga-it", :jar_name "mirthsync", :version "3.5.1-SNAPSHOT"}
 {:created 1762365112978, :description "Utils for dealing with MDC", :group_name "de.danjou", :jar_name "clj-mdc", :version "0.2.12"}
-{:created 1762373123988, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1762373133445, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1762373142695, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
-{:created 1762373152011, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
 {:created 1762373162593, :description "Poly is Polylith's command line interface for Clojure.", :group_name "polylith", :jar_name "clj-poly", :version "0.3.31-SNAPSHOT"}
-{:created 1762373164420, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1762373174275, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
-{:created 1762373183740, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
-{:created 1762373193207, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
-{:created 1762373202831, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1762373211584, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1762373220542, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
 {:created 1762376693063, :description "Clojure implementation of the Model Context Protocol (MCP)", :group_name "org.hugoduncan", :jar_name "mcp-clj-server", :version "0.1.66"}
 {:created 1762376704682, :description "Clojure MCP client for connecting to MCP servers", :group_name "org.hugoduncan", :jar_name "mcp-clj-client", :version "0.1.66"}
 {:created 1762376715836, :description "In-memory transport for MCP client-server testing", :group_name "org.hugoduncan", :jar_name "mcp-clj-in-memory-transport", :version "0.1.66"}
 {:created 1762376800351, :description "Babashka pod for verter.tools", :group_name "com.tolitius", :jar_name "verter-tools-pod", :version "0.1.0"}
 {:created 1762381595607, :description nil, :group_name "com.github.kongra", :jar_name "telsos-lib", :version "0.1.496"}
+{:created 1762385731342, :description "Hyperphor utility library", :group_name "com.hyperphor", :jar_name "multitool", :version "0.2.1"}
+{:created 1762386418948, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1762386427688, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1762386436354, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
+{:created 1762386445325, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
+{:created 1762386453948, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1762386462539, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1762386471275, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
+{:created 1762386479935, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
+{:created 1762386488702, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1762386497466, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1762386506255, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljs.checker", :version "1.4.0-SNAPSHOT"}
