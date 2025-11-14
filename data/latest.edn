@@ -1,14 +1,3 @@
-{:created 1762364861947, :description "MirthSync is an open source DevOps tool for Mirth Connect and\n  Open Integration Engine version control and CI/CD automation. This command line\n  tool enables healthcare integration DevOps workflows by keeping a local copy of\n  Mirth Connect configurations (channels, code templates, global scripts) that can\n  be tracked with Git or other version control systems. MirthSync supports\n  multi-environment deployments (dev, test, prod) with automated channel promotion\n  between servers, making it ideal for interface engine CI/CD pipelines and GitOps\n  workflows. The tool provides infrastructure as code capabilities for HL7, FHIR,\n  and DICOM integration engine deployments with built-in Git integration, channel\n  versioning, and continuous deployment support for healthcare environments.\n\n  The only requirements are having credentials for the server that is being synced\n  and ensuring that the server is configured to allow access to its REST API.", :group_name "com.saga-it", :jar_name "mirthsync", :version "3.5.1-SNAPSHOT"}
-{:created 1762365112978, :description "Utils for dealing with MDC", :group_name "de.danjou", :jar_name "clj-mdc", :version "0.2.12"}
-{:created 1762373162593, :description "Poly is Polylith's command line interface for Clojure.", :group_name "polylith", :jar_name "clj-poly", :version "0.3.31-SNAPSHOT"}
-{:created 1762376693063, :description "Clojure implementation of the Model Context Protocol (MCP)", :group_name "org.hugoduncan", :jar_name "mcp-clj-server", :version "0.1.66"}
-{:created 1762376704682, :description "Clojure MCP client for connecting to MCP servers", :group_name "org.hugoduncan", :jar_name "mcp-clj-client", :version "0.1.66"}
-{:created 1762376715836, :description "In-memory transport for MCP client-server testing", :group_name "org.hugoduncan", :jar_name "mcp-clj-in-memory-transport", :version "0.1.66"}
-{:created 1762376800351, :description "Babashka pod for verter.tools", :group_name "com.tolitius", :jar_name "verter-tools-pod", :version "0.1.0"}
-{:created 1762381595607, :description nil, :group_name "com.github.kongra", :jar_name "telsos-lib", :version "0.1.496"}
-{:created 1762385731342, :description "Hyperphor utility library", :group_name "com.hyperphor", :jar_name "multitool", :version "0.2.1"}
-{:created 1762390646194, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "1.12.4-SNAPSHOT"}
-{:created 1762397027162, :description "A micro-library for Clojure(Script) that provides regular expression construction functions.", :group_name "com.github.pmonks", :jar_name "wreck", :version "1.0.123"}
 {:created 1762401322011, :description "An IPv4/IPv6 manipulation library in Clojure.", :group_name "com.dmo-t", :jar_name "ipaddress", :version "0.6-SNAPSHOT"}
 {:created 1762404667293, :description "Task-based workflow management for AI agents via Model Context Protocol (MCP)", :group_name "org.hugoduncan", :jar_name "mcp-tasks", :version "0.1.113"}
 {:created 1762417933156, :description "Clojure Apache Kafka client with core.async api", :group_name "com.appsflyer", :jar_name "ketu", :version "2.1.0"}
@@ -191,35 +180,23 @@
 {:created 1763018993647, :description nil, :group_name "com.jessesherlock", :jar_name "soliton", :version "0.4.0"}
 {:created 1763027980988, :description nil, :group_name "com.flipkart.krystal", :jar_name "com.flipkart.krystal.gradle.plugin", :version "10.0.0.3-SNAPSHOT"}
 {:created 1763027984557, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-bom", :version "10.0.0.3-SNAPSHOT"}
-{:created 1763027990348, :description nil, :group_name "com.flipkart.krystal", :jar_name "honeycomb", :version "10.0.0.3-SNAPSHOT"}
-{:created 1763027990523, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-visualization", :version "10.0.0.3-SNAPSHOT"}
-{:created 1763027992506, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen-common", :version "10.0.0.3-SNAPSHOT"}
-{:created 1763027992631, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-common", :version "10.0.0.3-SNAPSHOT"}
 {:created 1763027995688, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-bom", :version "0.0.13"}
 {:created 1763028027296, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-codegen", :version "0.0.13"}
 {:created 1763028028913, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-vajram-sdk", :version "0.0.13"}
 {:created 1763028032652, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-grpc", :version "0.0.13"}
-{:created 1763028045811, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-krystex", :version "10.0.0.3-SNAPSHOT"}
-{:created 1763028049604, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-codegen-common", :version "10.0.0.3-SNAPSHOT"}
-{:created 1763028052763, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-java-sdk", :version "10.0.0.3-SNAPSHOT"}
-{:created 1763028059746, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystex", :version "10.0.0.3-SNAPSHOT"}
 {:created 1763028071422, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-guice", :version "0.0.13"}
 {:created 1763028074121, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-guice-codegen", :version "0.0.13"}
 {:created 1763028086121, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-protobuf", :version "0.0.13"}
 {:created 1763028088106, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-json-codegen", :version "0.0.13"}
 {:created 1763028088613, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-grpc-codegen", :version "0.0.13"}
 {:created 1763028089272, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-core", :version "0.0.13"}
-{:created 1763028092468, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen", :version "10.0.0.3-SNAPSHOT"}
 {:created 1763028098615, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-guice-servlet", :version "0.0.13"}
 {:created 1763028102934, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-api", :version "0.0.13"}
 {:created 1763028116180, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-protobuf-codegen", :version "0.0.13"}
 {:created 1763028117896, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-quarkus", :version "0.0.13"}
 {:created 1763028125629, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-graphql", :version "10.0.0.3-SNAPSHOT"}
-{:created 1763028126448, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-guice", :version "10.0.0.3-SNAPSHOT"}
 {:created 1763028126716, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-json", :version "10.0.0.3-SNAPSHOT"}
 {:created 1763028129801, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest", :version "0.0.13"}
-{:created 1763028136797, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf-codegen", :version "10.0.0.3-SNAPSHOT"}
-{:created 1763028156694, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf3", :version "10.0.0.3-SNAPSHOT"}
 {:created 1763028159898, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-resilience4j", :version "10.0.0.3-SNAPSHOT"}
 {:created 1763028160606, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-dropwizard", :version "0.0.13"}
 {:created 1763028160868, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-quarkus", :version "0.0.13"}
@@ -254,3 +231,26 @@
 {:created 1763108966356, :description nil, :group_name "com.s-exp", :jar_name "legba", :version "1.0.0-alpha127"}
 {:created 1763111976445, :description "Clojure(Script) tools for clojure.spec", :group_name "metosin", :jar_name "spec-tools", :version "0.10.8"}
 {:created 1763112786649, :description "Release of noprompt/garden master to clojars", :group_name "com.lambdaisland", :jar_name "garden", :version "1.8.601"}
+{:created 1763121495592, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-codegen", :version "0.0.15"}
+{:created 1763121499531, :description nil, :group_name "com.flipkart.krystal", :jar_name "honeycomb", :version "10.0.0.3-SNAPSHOT"}
+{:created 1763121499939, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-common", :version "10.0.0.3-SNAPSHOT"}
+{:created 1763121500531, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-visualization", :version "10.0.0.3-SNAPSHOT"}
+{:created 1763121522484, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-vajram-sdk", :version "0.0.15"}
+{:created 1763121524956, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen-common", :version "10.0.0.3-SNAPSHOT"}
+{:created 1763121530933, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-codegen-common", :version "10.0.0.3-SNAPSHOT"}
+{:created 1763121532541, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-java-sdk", :version "10.0.0.3-SNAPSHOT"}
+{:created 1763121533346, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystex", :version "10.0.0.3-SNAPSHOT"}
+{:created 1763121541956, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-guice", :version "0.0.15"}
+{:created 1763121553316, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-grpc-codegen", :version "0.0.15"}
+{:created 1763121554510, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-core", :version "0.0.15"}
+{:created 1763121560706, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen", :version "10.0.0.3-SNAPSHOT"}
+{:created 1763121561162, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-krystex", :version "10.0.0.3-SNAPSHOT"}
+{:created 1763121564495, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-guice-servlet", :version "0.0.15"}
+{:created 1763121576332, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-api", :version "0.0.15"}
+{:created 1763121590957, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-guice", :version "10.0.0.3-SNAPSHOT"}
+{:created 1763121600264, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest", :version "0.0.15"}
+{:created 1763121613157, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf-codegen", :version "10.0.0.3-SNAPSHOT"}
+{:created 1763121613279, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf3", :version "10.0.0.3-SNAPSHOT"}
+{:created 1763121645172, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-quarkus", :version "0.0.15"}
+{:created 1763121645353, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-codegen", :version "0.0.15"}
+{:created 1763121662596, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-quarkus-codegen", :version "0.0.15"}
