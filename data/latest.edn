@@ -1,5 +1,3 @@
-{:created 1763169889318, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "0.13.28"}
-{:created 1763169975189, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "0.13.28"}
 {:created 1763171136056, :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :group_name "com.fulcrologic", :jar_name "fulcro", :version "3.9.0-rc13"}
 {:created 1763171440315, :description "A Clojure library for Apache Cassandra with named parameters and automatic result conversion", :group_name "io.github.caioclavico", :jar_name "cassaflow", :version "0.1.0"}
 {:created 1763171909494, :description "A Clojure library for Apache Cassandra with named parameters and automatic result conversion", :group_name "org.clojars.caioclavico", :jar_name "cassaflow", :version "0.1.1"}
@@ -70,7 +68,6 @@
 {:created 1763421244378, :description "Eboshi is a lightweight Clojure library for managing SQL migrations stored as EDN files and \n                executing them against a relational database. The project provides a migration-runner protocol and a MySQL implementation using next.jdbc.", :group_name "org.clojars.josemorista", :jar_name "eboshi", :version "0.1.0"}
 {:created 1763425184916, :description "Task-based workflow management for AI agents via Model Context Protocol (MCP)", :group_name "org.hugoduncan", :jar_name "mcp-tasks", :version "0.1.147"}
 {:created 1763428677666, :description "Useful utilities for Portal.", :group_name "org.endot", :jar_name "aperture", :version "0.0.1-SNAPSHOT"}
-{:created 1763437155022, :description "A small amount of bootstrap to make starting a Clojure development environment easier.", :group_name "org.endot", :jar_name "cljdev", :version "0.0.1-SNAPSHOT"}
 {:created 1763448324772, :description "Clojure tools for GraphQL", :group_name "org.clojars.greenlabs", :jar_name "tools.graphql", :version "1.0.84"}
 {:created 1763454870794, :description "Clojure wrapper for Jesque", :group_name "co.gaiwan", :jar_name "cljesque", :version "0.6.19"}
 {:created 1763456696728, :description "Clojure wrapper for Jesque", :group_name "co.gaiwan", :jar_name "cljesque", :version "0.7.22"}
@@ -222,7 +219,6 @@
 {:created 1763810509406, :description nil, :group_name "com.adgoji", :jar_name "google-displayvideo-clj", :version "2.4.0"}
 {:created 1763810510413, :description nil, :group_name "com.adgoji", :jar_name "google-campaign-manager-clj", :version "2.4.0"}
 {:created 1763810512243, :description nil, :group_name "com.adgoji", :jar_name "google-ad-manager-clj", :version "2.4.0"}
-{:created 1763812494126, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.210-SNAPSHOT"}
 {:created 1763826888521, :description nil, :group_name "com.github.kongra", :jar_name "telsos-lib", :version "0.1.503"}
 {:created 1763833497433, :description "A library for formatting Clojure code", :group_name "dev.weavejester", :jar_name "cljfmt", :version "0.15.6"}
 {:created 1763833593991, :description "A library for formatting Clojure code", :group_name "dev.weavejester", :jar_name "lein-cljfmt", :version "0.15.6"}
@@ -230,7 +226,6 @@
 {:created 1763842976549, :description "Clay is a small Clojure tool for a dynamic workflow of data visualization and literate programming.", :group_name "org.scicloj", :jar_name "clay", :version "2.0.3"}
 {:created 1763861566145, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
 {:created 1763862251708, :description "An in-process task-queue that is backed by disk.", :group_name "org.clj-commons", :jar_name "durable-queue", :version "0.2.99-SNAPSHOT"}
-{:created 1763862271652, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
 {:created 1763868821183, :description "Clojure(Script) utility for discerning types of values.", :group_name "io.github.paintparty", :jar_name "lasertag", :version "0.11.6"}
 {:created 1763873202751, :description "Themeable print debugging library for Clojure, ClojureScript, and Babashka", :group_name "io.github.paintparty", :jar_name "fireworks", :version "0.15.0"}
 {:created 1763875851437, :description "Clojure library for working with physical quantities", :group_name "net.clojars.aaronthcheung", :jar_name "meajure", :version "0.1.10"}
@@ -254,3 +249,8 @@
 {:created 1763926122020, :description "Clojure templating library similar to ERB", :group_name "comb", :jar_name "comb", :version "1.0.0"}
 {:created 1763926378817, :description "Fast Clojure Deep Learning Library", :group_name "uncomplicate", :jar_name "deep-diamond", :version "0.42.0"}
 {:created 1763926773780, :description "Enhanced throw, try, leveraging Clojure's capabilities.", :group_name "org.clj-commons", :jar_name "slingshot", :version "0.13.99-SNAPSHOT"}
+{:created 1763933015730, :description "A collection of useful utilities for writing scripts.", :group_name "org.endot", :jar_name "scribe", :version "1.1.0-SNAPSHOT"}
+{:created 1763933096497, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.210-SNAPSHOT"}
+{:created 1763934466619, :description "A small amount of bootstrap to make starting a Clojure development environment easier.", :group_name "org.endot", :jar_name "cljdev", :version "0.0.1-SNAPSHOT"}
+{:created 1763934640192, :description "Ring middleware for handling JSON, using clojure.data.json.", :group_name "com.github.seancorfield", :jar_name "ring-data-json", :version "0.5.3-SNAPSHOT"}
+{:created 1763934811366, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
