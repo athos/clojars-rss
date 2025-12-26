@@ -1,11 +1,3 @@
-{:created 1765463840971, :description "μ/log is a micro-logging library that logs events and data, not words!", :group_name "com.brunobonacci", :jar_name "mulog", :version "0.10.0"}
-{:created 1765463873562, :description "μ/log json handling", :group_name "com.brunobonacci", :jar_name "mulog-json", :version "0.10.0"}
-{:created 1765463894641, :description "A JVM metrics sampler for μ/log.", :group_name "com.brunobonacci", :jar_name "mulog-jvm-metrics", :version "0.10.0"}
-{:created 1765463913689, :description "A filesystem metrics sampler for μ/log.", :group_name "com.brunobonacci", :jar_name "mulog-filesystem-metrics", :version "0.10.0"}
-{:created 1765463933871, :description "A MBean sampler for μ/log.", :group_name "com.brunobonacci", :jar_name "mulog-mbean-sampler", :version "0.10.0"}
-{:created 1765463954185, :description "A publisher for μ/log to Console and Terminal.", :group_name "com.brunobonacci", :jar_name "mulog-adv-console", :version "0.10.0"}
-{:created 1765463973747, :description "A collection of μ/log publishers for to publish log into files.", :group_name "com.brunobonacci", :jar_name "mulog-adv-file", :version "0.10.0"}
-{:created 1765463993137, :description "A publisher for μ/log to Cloudwatch.", :group_name "com.brunobonacci", :jar_name "mulog-cloudwatch", :version "0.10.0"}
 {:created 1765464012751, :description "A publisher for μ/log to Elasticsearch.", :group_name "com.brunobonacci", :jar_name "mulog-elasticsearch", :version "0.10.0"}
 {:created 1765464031943, :description "A publisher for μ/log to Kafka.", :group_name "com.brunobonacci", :jar_name "mulog-kafka", :version "0.10.0"}
 {:created 1765464051238, :description "A publisher for μ/log to Kinesis.", :group_name "com.brunobonacci", :jar_name "mulog-kinesis", :version "0.10.0"}
@@ -254,3 +246,11 @@
 {:created 1766757732538, :description "Leiningen plugin to add version git tag", :group_name "org.clojars.jj", :jar_name "lein-git-tag", :version "1.0.0"}
 {:created 1766761201627, :description "A library for cloning Datomic Cloud databases.", :group_name "com.fulcrologic", :jar_name "datomic-cloud-backup", :version "1.0.1"}
 {:created 1766762225627, :description "Library of commonly used functions for web app development", :group_name "com.github.dgknght", :jar_name "app-lib", :version "0.3.40"}
+{:created 1766769265922, :description "cljs-map-pins is a ClojureScript library for drawing a set of pins from an EDN file on a world map", :group_name "org.theparanoidtimes", :jar_name "cljs-map-pins", :version "0.2.1"}
+{:created 1766770694007, :description "Datastar SDK for Clojure", :group_name "dev.data-star.clojure", :jar_name "sdk", :version "1.0.0-RC7"}
+{:created 1766770702876, :description "Brotli compression helpers for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "brotli", :version "1.0.0-RC7"}
+{:created 1766770711396, :description "http-kit adapter for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "http-kit", :version "1.0.0-RC7"}
+{:created 1766770720558, :description "Ring adapter for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "ring", :version "1.0.0-RC7"}
+{:created 1766770729476, :description "Malli schemas for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "malli-schemas", :version "1.0.0-RC7"}
+{:created 1766770738898, :description "Malli schemas for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "http-kit-malli-schemas", :version "1.0.0-RC7"}
+{:created 1766770748255, :description "Malli schemas for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "ring-malli-schemas", :version "1.0.0-RC7"}
