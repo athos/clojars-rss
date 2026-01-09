@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 8 Jan 2026 23:01:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 9 Jan 2026 00:06:44 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.clojars.jj/majavat-file-renderer/versions/1.0.3</guid>
+    <title>[org.clojars.jj/majavat-file-renderer &quot;1.0.3&quot;]</title>
+    <link>https://clojars.org/org.clojars.jj/majavat-file-renderer/versions/1.0.3</link>
+    <description>Majavat file renderer is an extension for Majavat templating engine to save output in a file.</description>
+    <pubDate>Thu, 8 Jan 2026 23:58:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.lukaszkorecki/mokujin-logback/versions/1.0.0.105</guid>
+    <title>[org.clojars.lukaszkorecki/mokujin-logback &quot;1.0.0.105&quot;]</title>
+    <link>https://clojars.org/org.clojars.lukaszkorecki/mokujin-logback/versions/1.0.0.105</link>
+    <description>Logback extensions for Mokujin - easy confiugration, pre-configured appenders etc</description>
+    <pubDate>Thu, 8 Jan 2026 23:49:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.lukaszkorecki/mokujin/versions/1.0.0.105</guid>
+    <title>[org.clojars.lukaszkorecki/mokujin &quot;1.0.0.105&quot;]</title>
+    <link>https://clojars.org/org.clojars.lukaszkorecki/mokujin/versions/1.0.0.105</link>
+    <description>A very thin wrapper around clojure.tools.logging which adds MDC support</description>
+    <pubDate>Thu, 8 Jan 2026 23:49:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.jj/majavat/versions/1.17.2</guid>
+    <title>[org.clojars.jj/majavat &quot;1.17.2&quot;]</title>
+    <link>https://clojars.org/org.clojars.jj/majavat/versions/1.17.2</link>
+    <description>Templating engine for clojure</description>
+    <pubDate>Thu, 8 Jan 2026 23:21:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/virgil/versions/0.5.1</guid>
+    <title>[virgil &quot;0.5.1&quot;]</title>
+    <link>https://clojars.org/virgil/versions/0.5.1</link>
+    <description>Recompile Java code without restarting the REPL</description>
+    <pubDate>Thu, 8 Jan 2026 23:16:32 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.replikativ/konserve-lmdb/versions/0.1.10</guid>
     <title>[io.replikativ/konserve-lmdb &quot;0.1.10&quot;]</title>
@@ -1761,41 +1796,6 @@
     <link>https://clojars.org/com.sturdystats/sturdy-numpy/versions/0.1.3</link>
     <description>Read NumPy .npy files into idiomatic Clojure data (sturdy-numpy).</description>
     <pubDate>Thu, 1 Jan 2026 05:09:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.sturdystats/sturdy-fs/versions/0.1.3</guid>
-    <title>[com.sturdystats/sturdy-fs &quot;0.1.3&quot;]</title>
-    <link>https://clojars.org/com.sturdystats/sturdy-fs/versions/0.1.3</link>
-    <description>File-system utilities for Clojure (sturdy-fs).</description>
-    <pubDate>Thu, 1 Jan 2026 05:07:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.sturdystats/malli-firewall/versions/0.1.2</guid>
-    <title>[com.sturdystats/malli-firewall &quot;0.1.2&quot;]</title>
-    <link>https://clojars.org/com.sturdystats/malli-firewall/versions/0.1.2</link>
-    <description>A security-focused Clojure validation library built on Malli.</description>
-    <pubDate>Thu, 1 Jan 2026 04:59:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/lein-ezbake/versions/2.7.0</guid>
-    <title>[org.openvoxproject/lein-ezbake &quot;2.7.0&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/lein-ezbake/versions/2.7.0</link>
-    <description>A system for building packages for trapperkeeper-based applications</description>
-    <pubDate>Thu, 1 Jan 2026 04:17:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.sturdystats/turvata/versions/0.1.3</guid>
-    <title>[com.sturdystats/turvata &quot;0.1.3&quot;]</title>
-    <link>https://clojars.org/com.sturdystats/turvata/versions/0.1.3</link>
-    <description>Minimal, explicit authentication helpers for Clojure Ring applications.</description>
-    <pubDate>Thu, 1 Jan 2026 03:18:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/stockpile/versions/0.1.0</guid>
-    <title>[org.openvoxproject/stockpile &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/stockpile/versions/0.1.0</link>
-    <description>Simple, durable Clojure queuing library</description>
-    <pubDate>Wed, 31 Dec 2025 23:25:40 +0000</pubDate>
   </item>
   </channel>
 </rss>
