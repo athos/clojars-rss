@@ -4,7 +4,77 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 12 Jan 2026 22:01:46 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 23:01:41 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/trapperkeeper-status/versions/1.3.1</guid>
+    <title>[org.openvoxproject/trapperkeeper-status &quot;1.3.1&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/trapperkeeper-status/versions/1.3.1</link>
+    <description>A trapperkeeper service for getting the status of other trapperkeeper services.</description>
+    <pubDate>Mon, 12 Jan 2026 23:00:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/stockpile/versions/1.0.1</guid>
+    <title>[org.openvoxproject/stockpile &quot;1.0.1&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/stockpile/versions/1.0.1</link>
+    <description>Simple, durable Clojure queuing library</description>
+    <pubDate>Mon, 12 Jan 2026 22:49:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/structured-logging/versions/1.0.1</guid>
+    <title>[org.openvoxproject/structured-logging &quot;1.0.1&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/structured-logging/versions/1.0.1</link>
+    <description>Write data structures to your logs from clojure.</description>
+    <pubDate>Mon, 12 Jan 2026 22:48:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/trapperkeeper-metrics/versions/2.1.5</guid>
+    <title>[org.openvoxproject/trapperkeeper-metrics &quot;2.1.5&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/trapperkeeper-metrics/versions/2.1.5</link>
+    <description>Trapperkeeper Metrics Service</description>
+    <pubDate>Mon, 12 Jan 2026 22:47:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/trapperkeeper-authorization/versions/2.1.5</guid>
+    <title>[org.openvoxproject/trapperkeeper-authorization &quot;2.1.5&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/trapperkeeper-authorization/versions/2.1.5</link>
+    <description>Trapperkeeper authorization system</description>
+    <pubDate>Mon, 12 Jan 2026 22:43:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.bigsy/electric/versions/v2-alpha-4-g0e024e90</guid>
+    <title>[org.clojars.bigsy/electric &quot;v2-alpha-4-g0e024e90&quot;]</title>
+    <link>https://clojars.org/org.clojars.bigsy/electric/versions/v2-alpha-4-g0e024e90</link>
+    <description>Electric Clojure - a reactive Clojure dialect for full-stack web development</description>
+    <pubDate>Mon, 12 Jan 2026 22:33:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/rbac-client/versions/1.2.3</guid>
+    <title>[org.openvoxproject/rbac-client &quot;1.2.3&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/rbac-client/versions/1.2.3</link>
+    <description>Tools for interacting with PE RBAC</description>
+    <pubDate>Mon, 12 Jan 2026 22:32:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/dujour-version-check/versions/1.1.2</guid>
+    <title>[org.openvoxproject/dujour-version-check &quot;1.1.2&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/dujour-version-check/versions/1.1.2</link>
+    <description>Dujour Version Check library</description>
+    <pubDate>Mon, 12 Jan 2026 22:25:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/jruby-utils/versions/5.3.5</guid>
+    <title>[org.openvoxproject/jruby-utils &quot;5.3.5&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/jruby-utils/versions/5.3.5</link>
+    <description>A library for working with JRuby</description>
+    <pubDate>Mon, 12 Jan 2026 22:19:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/ring-middleware/versions/2.1.3</guid>
+    <title>[org.openvoxproject/ring-middleware &quot;2.1.3&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/ring-middleware/versions/2.1.3</link>
+    <description></description>
+    <pubDate>Mon, 12 Jan 2026 22:12:52 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.openvoxproject/trapperkeeper-webserver-jetty10/versions/1.1.3</guid>
     <title>[org.openvoxproject/trapperkeeper-webserver-jetty10 &quot;1.1.3&quot;]</title>
@@ -1728,76 +1798,6 @@
     <link>https://clojars.org/net.clojars.helsingin/physics/versions/0.3.1</link>
     <description>Multi-domain physics toolkit for Clojure: frames, environment, dynamics, constraints, integrators, CFD surrogates, electromagnetics.</description>
     <pubDate>Tue, 6 Jan 2026 09:54:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.vivid-inc/lein-art/versions/0.7.2</guid>
-    <title>[net.vivid-inc/lein-art &quot;0.7.2&quot;]</title>
-    <link>https://clojars.org/net.vivid-inc/lein-art/versions/0.7.2</link>
-    <description>Leiningen plugin for rendering Ash Ra .art templates</description>
-    <pubDate>Tue, 6 Jan 2026 06:15:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.vivid-inc/clj-art/versions/0.7.2</guid>
-    <title>[net.vivid-inc/clj-art &quot;0.7.2&quot;]</title>
-    <link>https://clojars.org/net.vivid-inc/clj-art/versions/0.7.2</link>
-    <description>Clojure tool for rendering Ash Ra .art templates</description>
-    <pubDate>Tue, 6 Jan 2026 06:14:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.vivid-inc/art-cli/versions/0.7.2</guid>
-    <title>[net.vivid-inc/art-cli &quot;0.7.2&quot;]</title>
-    <link>https://clojars.org/net.vivid-inc/art-cli/versions/0.7.2</link>
-    <description>art-cli aggregates code common to the translation and processing of Ash Ra Template command line parameters into parameters for ART&#39;s Clojure API.</description>
-    <pubDate>Tue, 6 Jan 2026 06:14:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.vivid-inc/art/versions/0.7.2</guid>
-    <title>[net.vivid-inc/art &quot;0.7.2&quot;]</title>
-    <link>https://clojars.org/net.vivid-inc/art/versions/0.7.2</link>
-    <description>Ash Ra Template: Expressive and customizable template system featuring Clojure language processing.</description>
-    <pubDate>Tue, 6 Jan 2026 06:14:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.core0/prism/versions/2.1.20</guid>
-    <title>[io.core0/prism &quot;2.1.20&quot;]</title>
-    <link>https://clojars.org/io.core0/prism/versions/2.1.20</link>
-    <description>Opinionated library with client namespaces</description>
-    <pubDate>Tue, 6 Jan 2026 05:48:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.qy-upup/ai-make-music/versions/1767667.326.381</guid>
-    <title>[net.clojars.qy-upup/ai-make-music &quot;1767667.326.381&quot;]</title>
-    <link>https://clojars.org/net.clojars.qy-upup/ai-make-music/versions/1767667.326.381</link>
-    <description>Professional Clojure integration for https://supermaker.ai/music/ai-make-music/</description>
-    <pubDate>Tue, 6 Jan 2026 02:45:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.qy-upup/ai-baby-generator/versions/1767667.153.845</guid>
-    <title>[net.clojars.qy-upup/ai-baby-generator &quot;1767667.153.845&quot;]</title>
-    <link>https://clojars.org/net.clojars.qy-upup/ai-baby-generator/versions/1767667.153.845</link>
-    <description>Professional Clojure integration for https://supermaker.ai/image/ai-baby-generator/</description>
-    <pubDate>Tue, 6 Jan 2026 02:41:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.qy-upup/bigfoot-video-generator/versions/1767666.962.997</guid>
-    <title>[net.clojars.qy-upup/bigfoot-video-generator &quot;1767666.962.997&quot;]</title>
-    <link>https://clojars.org/net.clojars.qy-upup/bigfoot-video-generator/versions/1767666.962.997</link>
-    <description>Professional Clojure integration for https://supermaker.ai/video/bigfoot-video-generator/</description>
-    <pubDate>Tue, 6 Jan 2026 02:38:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.factorhouse/cronut-integrant/versions/1.2.2</guid>
-    <title>[io.factorhouse/cronut-integrant &quot;1.2.2&quot;]</title>
-    <link>https://clojars.org/io.factorhouse/cronut-integrant/versions/1.2.2</link>
-    <description>Integrant bindings for Cronut</description>
-    <pubDate>Tue, 6 Jan 2026 02:09:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.factorhouse/cronut-javax/versions/1.2.2</guid>
-    <title>[io.factorhouse/cronut-javax &quot;1.2.2&quot;]</title>
-    <link>https://clojars.org/io.factorhouse/cronut-javax/versions/1.2.2</link>
-    <description>A Clojure companion to Quartz with Javax compatibility</description>
-    <pubDate>Tue, 6 Jan 2026 01:54:26 +0000</pubDate>
   </item>
   </channel>
 </rss>
