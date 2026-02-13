@@ -4,7 +4,57 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 13 Feb 2026 15:32:04 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Feb 2026 16:32:24 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/yetibot/versions/20260213.154814.b3b2e8e</guid>
+    <title>[yetibot &quot;20260213.154814.b3b2e8e&quot;]</title>
+    <link>https://clojars.org/yetibot/versions/20260213.154814.b3b2e8e</link>
+    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
+    <pubDate>Fri, 13 Feb 2026 15:48:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/yetibot/core/versions/20260213.154701.483e4b8</guid>
+    <title>[yetibot/core &quot;20260213.154701.483e4b8&quot;]</title>
+    <link>https://clojars.org/yetibot/core/versions/20260213.154701.483e4b8</link>
+    <description>Core yetibot utilities, extracted for shared use among yetibot
+                and its various plugins</description>
+    <pubDate>Fri, 13 Feb 2026 15:47:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-hugsql/versions/0.1.43</guid>
+    <title>[com.github.igrishaev/pg2-hugsql &quot;0.1.43&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-hugsql/versions/0.1.43</link>
+    <description>HugSQL wrapper for PG2</description>
+    <pubDate>Fri, 13 Feb 2026 15:38:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-migration/versions/0.1.43</guid>
+    <title>[com.github.igrishaev/pg2-migration &quot;0.1.43&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-migration/versions/0.1.43</link>
+    <description>Migration utilities for PG2</description>
+    <pubDate>Fri, 13 Feb 2026 15:38:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-component/versions/0.1.43</guid>
+    <title>[com.github.igrishaev/pg2-component &quot;0.1.43&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-component/versions/0.1.43</link>
+    <description>Component wrapper for PG2</description>
+    <pubDate>Fri, 13 Feb 2026 15:38:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-honey/versions/0.1.43</guid>
+    <title>[com.github.igrishaev/pg2-honey &quot;0.1.43&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-honey/versions/0.1.43</link>
+    <description>HoneySQL wrapper for PG2</description>
+    <pubDate>Fri, 13 Feb 2026 15:38:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.igrishaev/pg2-core/versions/0.1.43</guid>
+    <title>[com.github.igrishaev/pg2-core &quot;0.1.43&quot;]</title>
+    <link>https://clojars.org/com.github.igrishaev/pg2-core/versions/0.1.43</link>
+    <description>Postgres client in pure Java (no JDBC)</description>
+    <pubDate>Fri, 13 Feb 2026 15:37:51 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/anomaly/versions/1.0.1</guid>
     <title>[com.blockether/anomaly &quot;1.0.1&quot;]</title>
@@ -1749,55 +1799,6 @@
     <link>https://clojars.org/com.brunobonacci/mulog-slack/versions/0.10.1</link>
     <description>A publisher for μ/log to a Slack incoming webhook.</description>
     <pubDate>Fri, 6 Feb 2026 13:18:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.10.1</guid>
-    <title>[com.brunobonacci/mulog-prometheus &quot;0.10.1&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-prometheus/versions/0.10.1</link>
-    <description>A publisher for μ/log to Prometheus.</description>
-    <pubDate>Fri, 6 Feb 2026 13:17:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-opentelemetry/versions/0.10.1</guid>
-    <title>[com.brunobonacci/mulog-opentelemetry &quot;0.10.1&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-opentelemetry/versions/0.10.1</link>
-    <description>A publisher for μ/trace OpenTelemetry.</description>
-    <pubDate>Fri, 6 Feb 2026 13:17:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.10.1</guid>
-    <title>[com.brunobonacci/mulog-kinesis &quot;0.10.1&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-kinesis/versions/0.10.1</link>
-    <description>A publisher for μ/log to Kinesis.</description>
-    <pubDate>Fri, 6 Feb 2026 13:17:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.10.1</guid>
-    <title>[com.brunobonacci/mulog-kafka &quot;0.10.1&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-kafka/versions/0.10.1</link>
-    <description>A publisher for μ/log to Kafka.</description>
-    <pubDate>Fri, 6 Feb 2026 13:16:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.10.1</guid>
-    <title>[com.brunobonacci/mulog-elasticsearch &quot;0.10.1&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-elasticsearch/versions/0.10.1</link>
-    <description>A publisher for μ/log to Elasticsearch.</description>
-    <pubDate>Fri, 6 Feb 2026 13:16:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.10.1</guid>
-    <title>[com.brunobonacci/mulog-cloudwatch &quot;0.10.1&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-cloudwatch/versions/0.10.1</link>
-    <description>A publisher for μ/log to Cloudwatch.</description>
-    <pubDate>Fri, 6 Feb 2026 13:16:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.brunobonacci/mulog-adv-file/versions/0.10.1</guid>
-    <title>[com.brunobonacci/mulog-adv-file &quot;0.10.1&quot;]</title>
-    <link>https://clojars.org/com.brunobonacci/mulog-adv-file/versions/0.10.1</link>
-    <description>A collection of μ/log publishers for to publish log into files.</description>
-    <pubDate>Fri, 6 Feb 2026 13:15:59 +0000</pubDate>
   </item>
   </channel>
 </rss>
