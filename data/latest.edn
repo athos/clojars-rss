@@ -1,8 +1,3 @@
-{:created 1771082825072, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260214.152629.cc1b967"}
-{:created 1771082875240, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260214.152742.2f0496d"}
-{:created 1771091965868, :description "Just common Clojure code that I use across projects", :group_name "net.clojars.macielti", :jar_name "common-clj", :version "46.0.1"}
-{:created 1771106839232, :description "Just common Clojure code that I use across projects", :group_name "net.clojars.macielti", :jar_name "common-clj", :version "46.1.1"}
-{:created 1771107108759, :description "Konserve GCS Backend", :group_name "org.replikativ", :jar_name "konserve-gcs", :version "0.1.12"}
 {:created 1771109061594, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.7.1647"}
 {:created 1771130608464, :description "A micro-library for Clojure that provides first class support for named-capturing groups in regular expressions.", :group_name "com.github.pmonks", :jar_name "rencg", :version "1.0.90"}
 {:created 1771135454332, :description "A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.", :group_name "org.replikativ", :jar_name "persistent-sorted-set", :version "0.4.119"}
@@ -254,3 +249,8 @@
 {:created 1771713272267, :description "A simple SDK to interact with the Telegram Bot API. It is based on the Morse. And intended to be compatible with GraalVM native-image.", :group_name "net.clojars.macielti", :jar_name "telegrama", :version "1.2.1"}
 {:created 1771713887515, :description "Leiningen microservice template", :group_name "net.clojars.macielti", :jar_name "lein-template.microservice", :version "0.100.280"}
 {:created 1771714803775, :description "A mocking library for Clojure.", :group_name "me.pmatiello", :jar_name "mockfn", :version "0.9.1"}
+{:created 1771715620562, :description "Native dependency of Datalevin on Apple Silicon", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-arm64", :version "0.16.0"}
+{:created 1771715624749, :description "Native dependency of Datalevin database on Windows", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-windows-x86_64", :version "0.16.0"}
+{:created 1771715655318, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "0.16.0"}
+{:created 1771715675664, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "0.16.0"}
+{:created 1771718742095, :description "A mocking library for Clojure.", :group_name "me.pmatiello", :jar_name "mockfn", :version "0.9.1-SNAPSHOT-1"}
