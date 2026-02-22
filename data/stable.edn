@@ -1,12 +1,3 @@
-{:created 1771001004846, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "0.15.12"}
-{:created 1771001869336, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-market", :version "0.6.188"}
-{:created 1771002243710, :description nil, :group_name "br.com.buzzlabs", :jar_name "brazilian-utils", :version "0.1.0"}
-{:created 1771003851561, :description "Postgres client in pure Java (no JDBC)", :group_name "com.github.igrishaev", :jar_name "pg2-core", :version "0.1.44"}
-{:created 1771003864425, :description "HoneySQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-honey", :version "0.1.44"}
-{:created 1771003877001, :description "Component wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-component", :version "0.1.44"}
-{:created 1771003890329, :description "Migration utilities for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-migration", :version "0.1.44"}
-{:created 1771003902625, :description "HugSQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-hugsql", :version "0.1.44"}
-{:created 1771006606024, :description "JRuby dependencies", :group_name "puppetlabs", :jar_name "jruby-deps", :version "10.0.3.0"}
 {:created 1771011150396, :description "Utility 'tool belt' of functions for common tasks; trees; clustering; probability, stats, and information theory; et.al.", :group_name "aerial.utils", :jar_name "aerial.utils", :version "1.2.2"}
 {:created 1771013762381, :description "DEPRECATED - Datalevin Component is an Integrant component to deal with Datalevin databases - Use net.clojars.macielti/datalevin instead", :group_name "net.clojars.macielti", :jar_name "datalevin-component", :version "3.0.0"}
 {:created 1771014764466, :description "Datalevin is an Integrant component to deal with Datalevin databases.", :group_name "net.clojars.macielti", :jar_name "datalevin", :version "4.0.0"}
@@ -254,3 +245,12 @@
 {:created 1771730326529, :description "A mocking library for Clojure.", :group_name "me.pmatiello", :jar_name "mockfn", :version "0.9.2"}
 {:created 1771749591263, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.3.1"}
 {:created 1771755175738, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.7.1650"}
+{:created 1771759227624, :description "A Clojure library for measuring and displaying performance\n changes.", :group_name "com.sagevisuals", :jar_name "fastester", :version "1"}
+{:created 1771759774941, :description "Clojure native interop through JavaCPP", :group_name "org.uncomplicate", :jar_name "clojure-cpp", :version "0.7.0"}
+{:created 1771760353844, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.27.0"}
+{:created 1771760571821, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.61.0"}
+{:created 1771760716417, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.61.0"}
+{:created 1771760808440, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.61.0"}
+{:created 1771761006578, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.61.0"}
+{:created 1771761362608, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.61.0"}
+{:created 1771761584551, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.61.0"}
