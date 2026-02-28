@@ -1,11 +1,3 @@
-{:created 1771715624749, :description "Native dependency of Datalevin database on Windows", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-windows-x86_64", :version "0.16.0"}
-{:created 1771715655318, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "0.16.0"}
-{:created 1771715675664, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "0.16.0"}
-{:created 1771718742095, :description "A mocking library for Clojure.", :group_name "me.pmatiello", :jar_name "mockfn", :version "0.9.1-SNAPSHOT-1"}
-{:created 1771722753708, :description "A mocking library for Clojure.", :group_name "me.pmatiello", :jar_name "mockfn", :version "0.9.2.3-SNAPSHOT"}
-{:created 1771724687627, :description "A mocking library for Clojure.", :group_name "me.pmatiello", :jar_name "mockfn", :version "0.9.2-SNAPSHOT"}
-{:created 1771728299735, :description "Leiningen microservice template", :group_name "net.clojars.macielti", :jar_name "lein-template.microservice", :version "0.100.300"}
-{:created 1771730326529, :description "A mocking library for Clojure.", :group_name "me.pmatiello", :jar_name "mockfn", :version "0.9.2"}
 {:created 1771749591263, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.3.1"}
 {:created 1771755175738, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.7.1650"}
 {:created 1771759227624, :description "A Clojure library for measuring and displaying performance\n changes.", :group_name "com.sagevisuals", :jar_name "fastester", :version "1"}
@@ -224,7 +216,6 @@
 {:created 1772215452037, :description "FIXME: my new library.", :group_name "com.phronemophobic", :jar_name "clj-media", :version "3.0-alpha.3"}
 {:created 1772217107724, :description nil, :group_name "org.pinkgorilla", :jar_name "shadow-x", :version "0.1.11"}
 {:created 1772218332383, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.1.12"}
-{:created 1772219091243, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
 {:created 1772221599513, :description nil, :group_name "org.pinkgorilla", :jar_name "shadow-x", :version "0.1.12"}
 {:created 1772223482064, :description nil, :group_name "org.pinkgorilla", :jar_name "shadow-x", :version "0.1.13"}
 {:created 1772223741908, :description nil, :group_name "org.pinkgorilla", :jar_name "webly", :version "0.10.728"}
@@ -254,3 +245,12 @@
 {:created 1772274050471, :description "Canonical EDN — deterministic serialization of EDN values to UTF-8 bytes", :group_name "com.github.franks42", :jar_name "cedn", :version "1.2.0"}
 {:created 1772279073193, :description "Minimal, read-only Clojure library for fetching and parsing IMAP email", :group_name "org.clojars.bzg", :jar_name "fetch-imap", :version "0.1.0"}
 {:created 1772287681623, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.216-SNAPSHOT"}
+{:created 1772292698524, :description "Minimal, read-only Clojure library for fetching and parsing IMAP email", :group_name "org.clojars.bzg", :jar_name "fetch-imap", :version "0.2.2"}
+{:created 1772293547079, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
+{:created 1772293875224, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
+{:created 1772294256096, :description "BoaQuery protocol definition", :group_name "org.clojars.jj", :jar_name "boa-query", :version "1.0.8"}
+{:created 1772294264465, :description "BoaQuery protocol definition", :group_name "org.clojars.jj", :jar_name "boa-async-query", :version "1.0.8"}
+{:created 1772294272740, :description "Boa SQL adapter for Next-JDBC", :group_name "org.clojars.jj", :jar_name "next-jdbc-adapter", :version "1.0.8"}
+{:created 1772294281103, :description "Boa SQL adapter for Next-JDBC", :group_name "org.clojars.jj", :jar_name "next-jdbc-async-adapter", :version "1.0.8"}
+{:created 1772294289534, :description "A library for frictionless SQL", :group_name "org.clojars.jj", :jar_name "boa-sql", :version "1.0.8"}
+{:created 1772294297788, :description "A library for frictionless SQL", :group_name "org.clojars.jj", :jar_name "async-boa-sql", :version "1.0.8"}
