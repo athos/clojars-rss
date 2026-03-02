@@ -1,15 +1,3 @@
-{:created 1771869690299, :description nil, :group_name "vlaaad", :jar_name "reveal", :version "1.3.320"}
-{:created 1771869764842, :description nil, :group_name "dev.vlaaad", :jar_name "reveal-pro", :version "1.3.417"}
-{:created 1771870894310, :description nil, :group_name "org.clojars.quoll", :jar_name "rudolf", :version "0.2.6"}
-{:created 1771871990302, :description nil, :group_name "org.clojars.quoll", :jar_name "donatello", :version "1.3.6"}
-{:created 1771875964329, :description "A security-focused Clojure validation library built on Malli.", :group_name "com.sturdystats", :jar_name "sturdy-middleware", :version "0.1.3"}
-{:created 1771879474473, :description "A Clojure library", :group_name "org.scicloj", :jar_name "harmonica", :version "0.1.0"}
-{:created 1771879884081, :description "Buddy-auth JWT token validator, for OpenID Connect ID tokens", :group_name "dev.gethop", :jar_name "buddy-auth.jwt-oidc", :version "1.0.5"}
-{:created 1771883360837, :description "Leiningen plugin to synchronize subproject versions", :group_name "org.clojars.jj", :jar_name "lein-sub-bump", :version "1.0.0-SNAPSHOT"}
-{:created 1771883949251, :description "BoaQuery protocol definition", :group_name "org.clojars.jj", :jar_name "boa-query", :version "1.0.5"}
-{:created 1771883956338, :description "BoaQuery protocol definition", :group_name "org.clojars.jj", :jar_name "boa-async-query", :version "1.0.5"}
-{:created 1771883963719, :description "Boa SQL adapter for Next-JDBC", :group_name "org.clojars.jj", :jar_name "next-jdbc-adapter", :version "1.0.5"}
-{:created 1771883970908, :description "Boa SQL adapter for Next-JDBC", :group_name "org.clojars.jj", :jar_name "next-jdbc-async-adapter", :version "1.0.5"}
 {:created 1771883978308, :description "A library for frictionless SQL", :group_name "org.clojars.jj", :jar_name "boa-sql", :version "1.0.5"}
 {:created 1771883985635, :description "A library for frictionless SQL", :group_name "org.clojars.jj", :jar_name "async-boa-sql", :version "1.0.5"}
 {:created 1771889656298, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "scaffold", :version "2.3.1"}
@@ -64,7 +52,6 @@
 {:created 1772009885639, :description nil, :group_name "de.active-group", :jar_name "active-openid", :version "0.2.7"}
 {:created 1772010831709, :description nil, :group_name "org.replikativ", :jar_name "logging", :version "0.1.2"}
 {:created 1772012748722, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "3.1.9.40"}
-{:created 1772012975139, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.24.0-SNAPSHOT"}
 {:created 1772014384492, :description nil, :group_name "com.flipkart.varadhi", :jar_name "entities", :version "0.1.6-SNAPSHOT"}
 {:created 1772014401319, :description nil, :group_name "com.flipkart.varadhi", :jar_name "pulsar", :version "0.1.6-SNAPSHOT"}
 {:created 1772014417954, :description nil, :group_name "com.flipkart.varadhi", :jar_name "spi", :version "0.1.6-SNAPSHOT"}
@@ -254,3 +241,16 @@
 {:created 1772450717964, :description "Phone numbers as data: validate, inspect, search, generate.", :group_name "io.randomseed", :jar_name "phone-number", :version "9.0.23-4"}
 {:created 1772453132988, :description "Random Utilities – helpers for basic type conversions and checks", :group_name "io.randomseed", :jar_name "utils-core", :version "2.0.9"}
 {:created 1772453148910, :description "Random Utilities – asynchronous worker bus", :group_name "io.randomseed", :jar_name "utils-bus", :version "2.0.9"}
+{:created 1772453179270, :description "Random Utilities – cryptographic helpers", :group_name "io.randomseed", :jar_name "utils-crypto", :version "2.0.9"}
+{:created 1772453194093, :description "Random Utilities – user identity abstraction", :group_name "io.randomseed", :jar_name "utils-identity", :version "2.0.9"}
+{:created 1772453208863, :description "Random Utilities – authentication helpers", :group_name "io.randomseed", :jar_name "utils-auth", :version "2.0.9"}
+{:created 1772453223744, :description "Random Utilities – database abstractions with caching", :group_name "io.randomseed", :jar_name "utils-db", :version "2.0.9"}
+{:created 1772453238792, :description "Random Utilities - IP address support functions", :group_name "io.randomseed", :jar_name "utils-ip", :version "2.0.9"}
+{:created 1772453253912, :description "Random Utilities – opinionated logging facility", :group_name "io.randomseed", :jar_name "utils-log", :version "2.0.9"}
+{:created 1772453268295, :description "Random Utilities – Reitit support abstractions", :group_name "io.randomseed", :jar_name "utils-reitit", :version "2.0.9"}
+{:created 1772453291671, :description "Random Utilities – date and time operations", :group_name "io.randomseed", :jar_name "utils-time", :version "2.0.9"}
+{:created 1772453306571, :description "Random Utilities – data validation helpers", :group_name "io.randomseed", :jar_name "utils-validators", :version "2.0.9"}
+{:created 1772453321961, :description "Random Utilities for Clojure", :group_name "io.randomseed", :jar_name "utils", :version "2.0.9"}
+{:created 1772453947971, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.5.2"}
+{:created 1772456332247, :description "Clojure dev process launcher", :group_name "com.lambdaisland", :jar_name "launchpad", :version "0.47.210-alpha"}
+{:created 1772456475724, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.24.0-SNAPSHOT"}
