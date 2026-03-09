@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 9 Mar 2026 22:03:37 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 9 Mar 2026 23:04:12 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/knossos/versions/0.3.15</guid>
+    <title>[knossos &quot;0.3.15&quot;]</title>
+    <link>https://clojars.org/knossos/versions/0.3.15</link>
+    <description>Linearizability checker</description>
+    <pubDate>Mon, 9 Mar 2026 22:59:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.jepsen/history.sim/versions/0.1.2</guid>
+    <title>[io.jepsen/history.sim &quot;0.1.2&quot;]</title>
+    <link>https://clojars.org/io.jepsen/history.sim/versions/0.1.2</link>
+    <description>Generates Jepsen histories from simulated databases, for testing safety checkers</description>
+    <pubDate>Mon, 9 Mar 2026 22:58:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.jepsen/history/versions/0.1.7</guid>
+    <title>[io.jepsen/history &quot;0.1.7&quot;]</title>
+    <link>https://clojars.org/io.jepsen/history/versions/0.1.7</link>
+    <description>A library for working with Jepsen&#39;s histories of concurrent systems.</description>
+    <pubDate>Mon, 9 Mar 2026 22:55:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/0.17.0</guid>
+    <title>[org.clojars.huahaiy/dtlvnative-windows-x86_64 &quot;0.17.0&quot;]</title>
+    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/0.17.0</link>
+    <description>Native dependency of Datalevin database on Windows</description>
+    <pubDate>Mon, 9 Mar 2026 22:55:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/0.17.0</guid>
+    <title>[org.clojars.huahaiy/dtlvnative-linux-x86_64 &quot;0.17.0&quot;]</title>
+    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/0.17.0</link>
+    <description>Native dependency of Datalevin on Linux x86-64</description>
+    <pubDate>Mon, 9 Mar 2026 22:54:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/babashka/versions/1.12.217-SNAPSHOT</guid>
+    <title>[babashka &quot;1.12.217-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/babashka/versions/1.12.217-SNAPSHOT</link>
+    <description>babashka</description>
+    <pubDate>Mon, 9 Mar 2026 22:37:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/0.17.0</guid>
+    <title>[org.clojars.huahaiy/dtlvnative-macosx-arm64 &quot;0.17.0&quot;]</title>
+    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/0.17.0</link>
+    <description>Native dependency of Datalevin on Apple Silicon</description>
+    <pubDate>Mon, 9 Mar 2026 22:28:33 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.semantic-namespace/atlas-dev/versions/0.1.4-SNAPSHOT</guid>
     <title>[io.github.semantic-namespace/atlas-dev &quot;0.1.4-SNAPSHOT&quot;]</title>
@@ -312,13 +361,6 @@
     <link>https://clojars.org/msolli/proletarian/versions/1.0.115</link>
     <description>A durable job queuing and worker system for Clojure backed by PostgreSQL.</description>
     <pubDate>Sun, 8 Mar 2026 11:05:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/babashka/versions/1.12.217-SNAPSHOT</guid>
-    <title>[babashka &quot;1.12.217-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/babashka/versions/1.12.217-SNAPSHOT</link>
-    <description>babashka</description>
-    <pubDate>Sun, 8 Mar 2026 10:07:30 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.blockether/spel/versions/0.5.19</guid>
@@ -1754,48 +1796,6 @@
     <link>https://clojars.org/io.randomseed/utils-db/versions/2.0.11</link>
     <description>Random Utilities – database abstractions with caching</description>
     <pubDate>Tue, 3 Mar 2026 10:23:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.randomseed/utils-auth/versions/2.0.11</guid>
-    <title>[io.randomseed/utils-auth &quot;2.0.11&quot;]</title>
-    <link>https://clojars.org/io.randomseed/utils-auth/versions/2.0.11</link>
-    <description>Random Utilities – authentication helpers</description>
-    <pubDate>Tue, 3 Mar 2026 10:23:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.randomseed/utils-identity/versions/2.0.11</guid>
-    <title>[io.randomseed/utils-identity &quot;2.0.11&quot;]</title>
-    <link>https://clojars.org/io.randomseed/utils-identity/versions/2.0.11</link>
-    <description>Random Utilities – user identity abstraction</description>
-    <pubDate>Tue, 3 Mar 2026 10:22:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.randomseed/utils-crypto/versions/2.0.11</guid>
-    <title>[io.randomseed/utils-crypto &quot;2.0.11&quot;]</title>
-    <link>https://clojars.org/io.randomseed/utils-crypto/versions/2.0.11</link>
-    <description>Random Utilities – cryptographic helpers</description>
-    <pubDate>Tue, 3 Mar 2026 10:13:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.randomseed/utils-bus/versions/2.0.11</guid>
-    <title>[io.randomseed/utils-bus &quot;2.0.11&quot;]</title>
-    <link>https://clojars.org/io.randomseed/utils-bus/versions/2.0.11</link>
-    <description>Random Utilities – asynchronous worker bus</description>
-    <pubDate>Tue, 3 Mar 2026 10:13:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.randomseed/utils-core/versions/2.0.11</guid>
-    <title>[io.randomseed/utils-core &quot;2.0.11&quot;]</title>
-    <link>https://clojars.org/io.randomseed/utils-core/versions/2.0.11</link>
-    <description>Random Utilities – helpers for basic type conversions and checks</description>
-    <pubDate>Tue, 3 Mar 2026 10:12:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-java-lambda-runtime/versions/1.1036</guid>
-    <title>[com.alpha-prosoft/edd-java-lambda-runtime &quot;1.1036&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-java-lambda-runtime/versions/1.1036</link>
-    <description></description>
-    <pubDate>Tue, 3 Mar 2026 09:36:26 +0000</pubDate>
   </item>
   </channel>
 </rss>
