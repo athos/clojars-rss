@@ -1,26 +1,3 @@
-{:created 1772533502066, :description "Random Utilities for Clojure", :group_name "io.randomseed", :jar_name "utils", :version "2.0.11"}
-{:created 1772535054897, :description "A Clojure library for zip file manipulation with no dependencies.", :group_name "com.eldrix", :jar_name "zipf", :version "0.1.9"}
-{:created 1772535096848, :description "Tools to automate downloads from the UK TRUD (Technology Reference data Update Distribution)", :group_name "com.eldrix", :jar_name "trud", :version "1.0.119"}
-{:created 1772542161423, :description "OpenID Connect / OAuth 2.0 client library for Clojure", :group_name "io.github.zhming0", :jar_name "oidc-client", :version "2026.3.3-1124840"}
-{:created 1772542694023, :description "Markdown parser", :group_name "markdown-clj", :jar_name "markdown-clj", :version "1.12.7"}
-{:created 1772542894693, :description "A library and microservice implementing the health and care terminology SNOMED CT with support for cross-maps, inference, fast full-text search, autocompletion, compositional grammar and the expression constraint language.", :group_name "com.eldrix", :jar_name "hermes", :version "1.4.1520"}
-{:created 1772545782184, :description "A library for rapid application development in Fulcro", :group_name "com.fulcrologic", :jar_name "fulcro-rad", :version "1.6.22"}
-{:created 1772545977441, :description "Fulcro RAD with statecharts-based state management replacing UI State Machines", :group_name "com.fulcrologic", :jar_name "fulcro-rad-statecharts", :version "0.1.0"}
-{:created 1772546619433, :description "A library for building CLJC statechart machines.", :group_name "com.fulcrologic", :jar_name "statecharts", :version "1.4.0-RC4"}
-{:created 1772547587534, :description "A library for rapid application development in Fulcro", :group_name "com.fulcrologic", :jar_name "fulcro-rad", :version "1.6.23"}
-{:created 1772549288993, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.0.6"}
-{:created 1772549377299, :description "General-purpose message bus", :group_name "com.timezynk", :jar_name "bus", :version "1.3.17"}
-{:created 1772549432131, :description "Database modeling library for Clojure and MongoDB", :group_name "com.timezynk", :jar_name "domain", :version "4.0.15"}
-{:created 1772549522501, :description nil, :group_name "org.pinkgorilla", :jar_name "clj-service", :version "0.5.27"}
-{:created 1772549925990, :description nil, :group_name "com.monkeyci", :jar_name "site-template", :version "0.14.4"}
-{:created 1772551936236, :description "WebGen/LST Parameter-Driven Web Application Template", :group_name "org.clojars.hector", :jar_name "lein-template.webgen", :version "0.3.22"}
-{:created 1772553049895, :description nil, :group_name "org.pinkgorilla", :jar_name "clj-service", :version "0.6.28"}
-{:created 1772553960837, :description "JWT (JWS) signing and verification for Clojure (JVM) and ClojureScript (browser).", :group_name "net.clojars.shaneharrigan", :jar_name "cljwt", :version "0.1.0"}
-{:created 1772555687527, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "scaffold", :version "2.3.2"}
-{:created 1772557129414, :description "Native dependency of Datalevin database on Windows", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-windows-x86_64", :version "0.16.5"}
-{:created 1772557130037, :description "Native dependency of Datalevin on Apple Silicon", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-arm64", :version "0.16.5"}
-{:created 1772557137434, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "0.16.5"}
-{:created 1772557143348, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "0.16.5"}
 {:created 1772559905049, :description "websocket library", :group_name "org.pinkgorilla", :jar_name "oauth2", :version "0.3.58"}
 {:created 1772560205868, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-web", :version "1.397"}
 {:created 1772560216018, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-web-frame", :version "1.397"}
@@ -254,3 +231,26 @@
 {:created 1773099956860, :description "Black-box transactional consistency checker based on cycle detection", :group_name "elle", :jar_name "elle", :version "0.2.6"}
 {:created 1773100001075, :description nil, :group_name "org.pinkgorilla", :jar_name "modular", :version "0.3.77"}
 {:created 1773113217965, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "2.1.22-SNAPSHOT"}
+{:created 1773123141613, :description "Snappy data-driven router for Clojure(Script)", :group_name "metosin", :jar_name "reitit-core", :version "0.10.1"}
+{:created 1773123151338, :description "Snappy data-driven router for Clojure(Script)", :group_name "metosin", :jar_name "reitit-dev", :version "0.10.1"}
+{:created 1773123158825, :description "Reitit: clojure.spec coercion", :group_name "metosin", :jar_name "reitit-spec", :version "0.10.1"}
+{:created 1773123167478, :description "Reitit: Malli coercion", :group_name "metosin", :jar_name "reitit-malli", :version "0.10.1"}
+{:created 1773123175259, :description "Reitit: Plumatic Schema coercion", :group_name "metosin", :jar_name "reitit-schema", :version "0.10.1"}
+{:created 1773123185074, :description "Reitit: Ring routing", :group_name "metosin", :jar_name "reitit-ring", :version "0.10.1"}
+{:created 1773123196215, :description "Reitit, common middleware bundled", :group_name "metosin", :jar_name "reitit-middleware", :version "0.10.1"}
+{:created 1773123203691, :description "Reitit: HTTP routing with interceptors", :group_name "metosin", :jar_name "reitit-http", :version "0.10.1"}
+{:created 1773123211077, :description "Reitit, common interceptors bundled", :group_name "metosin", :jar_name "reitit-interceptors", :version "0.10.1"}
+{:created 1773123218262, :description "Reitit: Swagger-support", :group_name "metosin", :jar_name "reitit-swagger", :version "0.10.1"}
+{:created 1773123225533, :description "Reitit: OpenAPI-support", :group_name "fi.metosin", :jar_name "reitit-openapi", :version "0.10.1"}
+{:created 1773123233214, :description "Reitit: Swagger-ui support", :group_name "metosin", :jar_name "reitit-swagger-ui", :version "0.10.1"}
+{:created 1773123240791, :description "Reitit: Clojurescript frontend routing core", :group_name "metosin", :jar_name "reitit-frontend", :version "0.10.1"}
+{:created 1773123248328, :description "Reitit: Sieppari Interceptors", :group_name "metosin", :jar_name "reitit-sieppari", :version "0.10.1"}
+{:created 1773123260486, :description "Reitit + Pedestal Integration", :group_name "metosin", :jar_name "reitit-pedestal", :version "0.10.1"}
+{:created 1773123275093, :description "Snappy data-driven router for Clojure(Script)", :group_name "metosin", :jar_name "reitit", :version "0.10.1"}
+{:created 1773123672199, :description "Static effect inference for Clojure — no type system required.", :group_name "io.replikativ", :jar_name "beichte", :version "0.2.5"}
+{:created 1773123764339, :description "Clojure library for shared code between clojure taps", :group_name "singer-clojure", :jar_name "singer-clojure", :version "1.2.0"}
+{:created 1773123965227, :description "Static effect inference for Clojure — no type system required.", :group_name "org.replikativ", :jar_name "beichte", :version "0.2.6"}
+{:created 1773126381903, :description nil, :group_name "com.github.nishgpt", :jar_name "chain-executor", :version "0.1.0-OB-TEST-SNAPSHOT"}
+{:created 1773126397309, :description nil, :group_name "com.github.nishgpt", :jar_name "chain-executor-models", :version "0.1.0-OB-TEST-SNAPSHOT"}
+{:created 1773126426822, :description nil, :group_name "com.github.nishgpt", :jar_name "chain-executor-core", :version "0.1.0-OB-TEST-SNAPSHOT"}
+{:created 1773126450275, :description "Bill of materials to make sure a consistent set of versions is used for chain-executor modules.", :group_name "com.github.nishgpt", :jar_name "chain-executor-bom", :version "0.1.0-OB-TEST-SNAPSHOT"}
