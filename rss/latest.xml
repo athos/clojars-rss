@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 12 Mar 2026 14:15:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Mar 2026 15:15:20 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.oscaro/tools-io-gs/versions/0.1.24-SNAPSHOT</guid>
+    <title>[com.oscaro/tools-io-gs &quot;0.1.24-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.oscaro/tools-io-gs/versions/0.1.24-SNAPSHOT</link>
+    <description>google storage support for tools-io</description>
+    <pubDate>Thu, 12 Mar 2026 15:11:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/spel/versions/0.6.6</guid>
+    <title>[com.blockether/spel &quot;0.6.6&quot;]</title>
+    <link>https://clojars.org/com.blockether/spel/versions/0.6.6</link>
+    <description>Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen</description>
+    <pubDate>Thu, 12 Mar 2026 15:09:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.oscaro/tools-io/versions/0.3.44-SNAPSHOT</guid>
+    <title>[com.oscaro/tools-io &quot;0.3.44-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.oscaro/tools-io/versions/0.3.44-SNAPSHOT</link>
+    <description>Oscaro&#39;s generic I/O tools collection</description>
+    <pubDate>Thu, 12 Mar 2026 15:03:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/babashka/versions/1.12.217-SNAPSHOT</guid>
+    <title>[babashka &quot;1.12.217-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/babashka/versions/1.12.217-SNAPSHOT</link>
+    <description>babashka</description>
+    <pubDate>Thu, 12 Mar 2026 14:57:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.oscaro/clj-gcloud-common/versions/0.258-2.0-SNAPSHOT</guid>
+    <title>[com.oscaro/clj-gcloud-common &quot;0.258-2.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.oscaro/clj-gcloud-common/versions/0.258-2.0-SNAPSHOT</link>
+    <description>Common library for all google cloud clojure wrappers</description>
+    <pubDate>Thu, 12 Mar 2026 14:42:26 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.oscaro/clj-gcloud-common/versions/0.251-2.0-SNAPSHOT</guid>
     <title>[com.oscaro/clj-gcloud-common &quot;0.251-2.0-SNAPSHOT&quot;]</title>
@@ -1038,13 +1073,6 @@
     <pubDate>Mon, 9 Mar 2026 22:54:57 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/babashka/versions/1.12.217-SNAPSHOT</guid>
-    <title>[babashka &quot;1.12.217-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/babashka/versions/1.12.217-SNAPSHOT</link>
-    <description>babashka</description>
-    <pubDate>Mon, 9 Mar 2026 22:37:23 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/0.17.0</guid>
     <title>[org.clojars.huahaiy/dtlvnative-macosx-arm64 &quot;0.17.0&quot;]</title>
     <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/0.17.0</link>
@@ -1771,34 +1799,6 @@
     <link>https://clojars.org/com.blockether/spel/versions/0.5.11</link>
     <description>Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen</description>
     <pubDate>Fri, 6 Mar 2026 07:58:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.sagevisuals/brokvolli/versions/0-SNAPSHOT0</guid>
-    <title>[com.sagevisuals/brokvolli &quot;0-SNAPSHOT0&quot;]</title>
-    <link>https://clojars.org/com.sagevisuals/brokvolli/versions/0-SNAPSHOT0</link>
-    <description>A Clojure library providing transduce-kv and multi-threaded transducing functions</description>
-    <pubDate>Fri, 6 Mar 2026 07:17:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/spel/versions/0.5.10</guid>
-    <title>[com.blockether/spel &quot;0.5.10&quot;]</title>
-    <link>https://clojars.org/com.blockether/spel/versions/0.5.10</link>
-    <description>Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen</description>
-    <pubDate>Fri, 6 Mar 2026 06:17:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/metosin/jsonista/versions/0.3.14</guid>
-    <title>[metosin/jsonista &quot;0.3.14&quot;]</title>
-    <link>https://clojars.org/metosin/jsonista/versions/0.3.14</link>
-    <description>Clojure library for fast JSON encoding and decoding.</description>
-    <pubDate>Fri, 6 Mar 2026 06:03:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/info.sunng/ring-jetty9-adapter/versions/0.39.2</guid>
-    <title>[info.sunng/ring-jetty9-adapter &quot;0.39.2&quot;]</title>
-    <link>https://clojars.org/info.sunng/ring-jetty9-adapter/versions/0.39.2</link>
-    <description>Ring adapter for jetty9, which supports websocket, http/2 and http/3</description>
-    <pubDate>Fri, 6 Mar 2026 03:58:08 +0000</pubDate>
   </item>
   </channel>
 </rss>
