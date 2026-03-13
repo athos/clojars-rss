@@ -1,8 +1,3 @@
-{:created 1772889952539, :description "Clojure/Script library for making MCP servers and clients", :group_name "io.github.plumce", :jar_name "plumcp.core", :version "0.2.0-beta2"}
-{:created 1772889986660, :description "Auth module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-auth", :version "0.2.0-beta2"}
-{:created 1772890016793, :description "Dev module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-dev", :version "0.2.0-beta2"}
-{:created 1772890053664, :description "JSON (charred library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-charred", :version "0.2.0-beta2"}
-{:created 1772890088914, :description "JSON (cheshire library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-cheshire", :version "0.2.0-beta2"}
 {:created 1772890119594, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.2.0-beta2"}
 {:created 1772890150269, :description "JSON (jsonista library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-jsonista", :version "0.2.0-beta2"}
 {:created 1772890924338, :description "A Clojure api for interacting with Maven respositories", :group_name "com.kepler16", :jar_name "kaven", :version "1.0.0"}
@@ -254,3 +249,8 @@
 {:created 1773414633559, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.25.0"}
 {:created 1773414769800, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.25.0"}
 {:created 1773415113899, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.25.0"}
+{:created 1773420692087, :description "Postgres client in pure Java (no JDBC)", :group_name "com.github.igrishaev", :jar_name "pg2-core", :version "0.1.45"}
+{:created 1773420704768, :description "HoneySQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-honey", :version "0.1.45"}
+{:created 1773420717563, :description "Component wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-component", :version "0.1.45"}
+{:created 1773420731237, :description "Migration utilities for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-migration", :version "0.1.45"}
+{:created 1773420744080, :description "HugSQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-hugsql", :version "0.1.45"}
