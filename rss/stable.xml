@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 16 Mar 2026 09:19:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Mar 2026 10:19:10 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.clojure-finance/edgarjure/versions/0.1.6</guid>
+    <title>[com.github.clojure-finance/edgarjure &quot;0.1.6&quot;]</title>
+    <link>https://clojars.org/com.github.clojure-finance/edgarjure/versions/0.1.6</link>
+    <description>A Clojure library for SEC EDGAR — filings, financials, and XBRL data, ready for research.</description>
+    <pubDate>Mon, 16 Mar 2026 09:55:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.kepler16/kmono/versions/4.12.0</guid>
+    <title>[com.kepler16/kmono &quot;4.12.0&quot;]</title>
+    <link>https://clojars.org/com.kepler16/kmono/versions/4.12.0</link>
+    <description>A tool for working in clojure (mono)repos</description>
+    <pubDate>Mon, 16 Mar 2026 09:37:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.kepler16/kmono-cli/versions/4.12.0</guid>
+    <title>[com.kepler16/kmono-cli &quot;4.12.0&quot;]</title>
+    <link>https://clojars.org/com.kepler16/kmono-cli/versions/4.12.0</link>
+    <description>The kmono CLI interface</description>
+    <pubDate>Mon, 16 Mar 2026 09:37:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.kepler16/kmono-version/versions/4.12.0</guid>
+    <title>[com.kepler16/kmono-version &quot;4.12.0&quot;]</title>
+    <link>https://clojars.org/com.kepler16/kmono-version/versions/4.12.0</link>
+    <description>Tools for versioning kmono packages</description>
+    <pubDate>Mon, 16 Mar 2026 09:37:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.kepler16/kmono-build/versions/4.12.0</guid>
+    <title>[com.kepler16/kmono-build &quot;4.12.0&quot;]</title>
+    <link>https://clojars.org/com.kepler16/kmono-build/versions/4.12.0</link>
+    <description>A suite of tools for use within tools.build</description>
+    <pubDate>Mon, 16 Mar 2026 09:37:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.kepler16/kmono-log/versions/4.12.0</guid>
+    <title>[com.kepler16/kmono-log &quot;4.12.0&quot;]</title>
+    <link>https://clojars.org/com.kepler16/kmono-log/versions/4.12.0</link>
+    <description>Terminal logging API&#39;s used by kmono</description>
+    <pubDate>Mon, 16 Mar 2026 09:37:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.kepler16/kmono-git/versions/4.12.0</guid>
+    <title>[com.kepler16/kmono-git &quot;4.12.0&quot;]</title>
+    <link>https://clojars.org/com.kepler16/kmono-git/versions/4.12.0</link>
+    <description>Simple git interface</description>
+    <pubDate>Mon, 16 Mar 2026 09:37:06 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.github.clojure-finance/edgarjure/versions/0.1.5</guid>
     <title>[com.github.clojure-finance/edgarjure &quot;0.1.5&quot;]</title>
@@ -1750,55 +1799,6 @@
     <link>https://clojars.org/dom-top/versions/1.0.10</link>
     <description>Unorthodox control flow for Clojurists with masochistic sensibilities</description>
     <pubDate>Mon, 9 Mar 2026 23:25:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.jepsen/generator/versions/0.1.1</guid>
-    <title>[io.jepsen/generator &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/io.jepsen/generator/versions/0.1.1</link>
-    <description>Pure functional generators for Jepsen tests</description>
-    <pubDate>Mon, 9 Mar 2026 23:20:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/knossos/versions/0.3.15</guid>
-    <title>[knossos &quot;0.3.15&quot;]</title>
-    <link>https://clojars.org/knossos/versions/0.3.15</link>
-    <description>Linearizability checker</description>
-    <pubDate>Mon, 9 Mar 2026 22:59:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.jepsen/history.sim/versions/0.1.2</guid>
-    <title>[io.jepsen/history.sim &quot;0.1.2&quot;]</title>
-    <link>https://clojars.org/io.jepsen/history.sim/versions/0.1.2</link>
-    <description>Generates Jepsen histories from simulated databases, for testing safety checkers</description>
-    <pubDate>Mon, 9 Mar 2026 22:58:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.jepsen/history/versions/0.1.7</guid>
-    <title>[io.jepsen/history &quot;0.1.7&quot;]</title>
-    <link>https://clojars.org/io.jepsen/history/versions/0.1.7</link>
-    <description>A library for working with Jepsen&#39;s histories of concurrent systems.</description>
-    <pubDate>Mon, 9 Mar 2026 22:55:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/0.17.0</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-windows-x86_64 &quot;0.17.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/0.17.0</link>
-    <description>Native dependency of Datalevin database on Windows</description>
-    <pubDate>Mon, 9 Mar 2026 22:55:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/0.17.0</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-linux-x86_64 &quot;0.17.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/0.17.0</link>
-    <description>Native dependency of Datalevin on Linux x86-64</description>
-    <pubDate>Mon, 9 Mar 2026 22:54:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/0.17.0</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-macosx-arm64 &quot;0.17.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/0.17.0</link>
-    <description>Native dependency of Datalevin on Apple Silicon</description>
-    <pubDate>Mon, 9 Mar 2026 22:28:33 +0000</pubDate>
   </item>
   </channel>
 </rss>
