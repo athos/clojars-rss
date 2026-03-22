@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 22 Mar 2026 07:14:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Mar 2026 08:04:02 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-5</guid>
+    <title>[org.boundary-app/boundary-tenant &quot;1.0.1-alpha-5&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-5</link>
+    <description>Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning</description>
+    <pubDate>Sun, 22 Mar 2026 07:42:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-5</guid>
+    <title>[org.boundary-app/boundary-email &quot;1.0.1-alpha-5&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-5</link>
+    <description>Email sending library for Boundary framework: SMTP support, composition, validation</description>
+    <pubDate>Sun, 22 Mar 2026 07:23:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-5</guid>
+    <title>[org.boundary-app/boundary-realtime &quot;1.0.1-alpha-5&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-5</link>
+    <description>Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication</description>
+    <pubDate>Sun, 22 Mar 2026 07:20:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.1-alpha-5</guid>
+    <title>[org.boundary-app/boundary-jobs &quot;1.0.1-alpha-5&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.1-alpha-5</link>
+    <description>Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters</description>
+    <pubDate>Sun, 22 Mar 2026 07:19:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-cache/versions/1.0.1-alpha-5</guid>
+    <title>[org.boundary-app/boundary-cache &quot;1.0.1-alpha-5&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-cache/versions/1.0.1-alpha-5</link>
+    <description>Cache library for Boundary framework: in-memory and Redis cache adapters</description>
+    <pubDate>Sun, 22 Mar 2026 07:19:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-scaffolder/versions/1.0.1-alpha-5</guid>
+    <title>[org.boundary-app/boundary-scaffolder &quot;1.0.1-alpha-5&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-scaffolder/versions/1.0.1-alpha-5</link>
+    <description>Code generation library for Boundary framework: module scaffolding</description>
+    <pubDate>Sun, 22 Mar 2026 07:18:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.1-alpha-5</guid>
+    <title>[org.boundary-app/boundary-storage &quot;1.0.1-alpha-5&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.1-alpha-5</link>
+    <description>Storage library for Boundary framework: local filesystem and S3 adapters</description>
+    <pubDate>Sun, 22 Mar 2026 07:17:56 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.1-alpha-5</guid>
     <title>[org.boundary-app/boundary-user &quot;1.0.1-alpha-5&quot;]</title>
@@ -1774,55 +1823,6 @@
     <link>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.0-alpha</link>
     <description>Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication</description>
     <pubDate>Tue, 17 Mar 2026 16:05:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.0-alpha</guid>
-    <title>[org.boundary-app/boundary-jobs &quot;1.0.0-alpha&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.0-alpha</link>
-    <description>Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters</description>
-    <pubDate>Tue, 17 Mar 2026 16:04:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-cache/versions/1.0.0-alpha</guid>
-    <title>[org.boundary-app/boundary-cache &quot;1.0.0-alpha&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-cache/versions/1.0.0-alpha</link>
-    <description>Cache library for Boundary framework: in-memory and Redis cache adapters</description>
-    <pubDate>Tue, 17 Mar 2026 16:03:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-scaffolder/versions/1.0.0-alpha</guid>
-    <title>[org.boundary-app/boundary-scaffolder &quot;1.0.0-alpha&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-scaffolder/versions/1.0.0-alpha</link>
-    <description>Code generation library for Boundary framework: module scaffolding</description>
-    <pubDate>Tue, 17 Mar 2026 16:03:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.0-alpha</guid>
-    <title>[org.boundary-app/boundary-storage &quot;1.0.0-alpha&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.0-alpha</link>
-    <description>Storage library for Boundary framework: local filesystem and S3 adapters</description>
-    <pubDate>Tue, 17 Mar 2026 16:02:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.0-alpha</guid>
-    <title>[org.boundary-app/boundary-user &quot;1.0.0-alpha&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.0-alpha</link>
-    <description>User management library for Boundary framework: authentication, sessions, MFA</description>
-    <pubDate>Tue, 17 Mar 2026 16:01:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.0-alpha</guid>
-    <title>[org.boundary-app/boundary-platform &quot;1.0.0-alpha&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.0-alpha</link>
-    <description>Platform library for Boundary framework: database, HTTP, configuration, modules</description>
-    <pubDate>Tue, 17 Mar 2026 16:00:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.0-alpha</guid>
-    <title>[org.boundary-app/boundary-observability &quot;1.0.0-alpha&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.0-alpha</link>
-    <description>Observability library for Boundary framework: logging, metrics, error reporting</description>
-    <pubDate>Tue, 17 Mar 2026 16:00:00 +0000</pubDate>
   </item>
   </channel>
 </rss>
