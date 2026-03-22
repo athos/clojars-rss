@@ -1,8 +1,3 @@
-{:created 1773764338123, :description "Clojure time/calendar library", :group_name "dev.gersak", :jar_name "timing", :version "0.8.0"}
-{:created 1773765842774, :description "Timing timezone DB", :group_name "dev.gersak", :jar_name "timing.timezones", :version "0.8.2"}
-{:created 1773765864421, :description "Timing timezone DB with full historical rules", :group_name "dev.gersak", :jar_name "timing.timezones.full", :version "0.8.2"}
-{:created 1773765889047, :description nil, :group_name "dev.gersak", :jar_name "timing.core", :version "0.8.2"}
-{:created 1773765914197, :description "Timing holidays", :group_name "dev.gersak", :jar_name "timing.holidays", :version "0.8.2"}
 {:created 1773765967935, :description "Timing cron expression parser", :group_name "dev.gersak", :jar_name "timing.cron", :version "0.8.2"}
 {:created 1773765994033, :description "Clojure time/calendar library", :group_name "dev.gersak", :jar_name "timing", :version "0.8.2"}
 {:created 1773767665156, :description "Clay is a small Clojure tool for a dynamic workflow of data visualization and literate programming.", :group_name "org.scicloj", :jar_name "clay", :version "2.0.14"}
@@ -254,3 +249,8 @@
 {:created 1774167789353, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-5"}
 {:created 1774167839451, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-5"}
 {:created 1774167880173, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-5"}
+{:created 1774174701848, :description "Postgres client in pure Java (no JDBC)", :group_name "com.github.igrishaev", :jar_name "pg2-core", :version "0.1.47"}
+{:created 1774174713209, :description "HoneySQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-honey", :version "0.1.47"}
+{:created 1774174724868, :description "Component wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-component", :version "0.1.47"}
+{:created 1774174737809, :description "Migration utilities for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-migration", :version "0.1.47"}
+{:created 1774174749310, :description "HugSQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-hugsql", :version "0.1.47"}
