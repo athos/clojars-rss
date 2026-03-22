@@ -1,19 +1,3 @@
-{:created 1773717844481, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.2.0-beta4"}
-{:created 1773717896534, :description "JSON (jsonista library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-jsonista", :version "0.2.0-beta4"}
-{:created 1773721122578, :description "A Clojure library for SEC EDGAR — filings, financials, and XBRL data, ready for research.", :group_name "com.github.clojure-finance", :jar_name "edgarjure", :version "0.1.7"}
-{:created 1773725481537, :description "Native dependency of Datalevin on Apple Silicon", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-arm64", :version "0.17.5"}
-{:created 1773725553241, :description "Native dependency of Datalevin database on Windows", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-windows-x86_64", :version "0.17.5"}
-{:created 1773725619014, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "0.17.5"}
-{:created 1773725620891, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "0.17.5"}
-{:created 1773731090856, :description "A Clojure library for SEC EDGAR — filings, financials, and XBRL data, ready for research.", :group_name "com.github.clojure-finance", :jar_name "edgarjure", :version "0.1.8"}
-{:created 1773739484596, :description nil, :group_name "com.github.nishgpt", :jar_name "chain-executor", :version "0.1.0-OB-ALPHA3"}
-{:created 1773739497516, :description nil, :group_name "com.github.nishgpt", :jar_name "chain-executor-models", :version "0.1.0-OB-ALPHA3"}
-{:created 1773739518829, :description nil, :group_name "com.github.nishgpt", :jar_name "chain-executor-core", :version "0.1.0-OB-ALPHA3"}
-{:created 1773739533968, :description "Bill of materials to make sure a consistent set of versions is used for chain-executor modules.", :group_name "com.github.nishgpt", :jar_name "chain-executor-bom", :version "0.1.0-OB-ALPHA3"}
-{:created 1773750527018, :description "Common domain code and resources for lupapiste applications", :group_name "lupapiste", :jar_name "commons", :version "5.3.27"}
-{:created 1773750673728, :description "A Clojure library for SEC EDGAR — filings, financials, and XBRL data, ready for research.", :group_name "com.github.clojure-finance", :jar_name "edgarjure", :version "0.1.9"}
-{:created 1773762505776, :description "A library and microservice implementing the health and care terminology SNOMED CT with support for cross-maps, inference, fast full-text search, autocompletion, compositional grammar and the expression constraint language.", :group_name "com.eldrix", :jar_name "hermes", :version "1.4.1540"}
-{:created 1773763156713, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.0-alpha"}
 {:created 1773763200250, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.0-alpha"}
 {:created 1773763246137, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.0-alpha"}
 {:created 1773763291384, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.0-alpha"}
@@ -254,3 +238,19 @@
 {:created 1774155476809, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "0.18.2"}
 {:created 1774155479770, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "0.18.2"}
 {:created 1774155589408, :description "Native dependency of Datalevin database on Windows", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-windows-x86_64", :version "0.18.2"}
+{:created 1774160783736, :description nil, :group_name "com.flipkart.krystal", :jar_name "com.flipkart.krystal.gradle.plugin", :version "9.8.1"}
+{:created 1774160786191, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-bom", :version "9.8.1"}
+{:created 1774160789981, :description nil, :group_name "com.flipkart.krystal", :jar_name "honeycomb", :version "9.8.1"}
+{:created 1774160790680, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-common", :version "9.8.1"}
+{:created 1774160807526, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf3", :version "9.8.1"}
+{:created 1774160807967, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystex", :version "9.8.1"}
+{:created 1774160811014, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-java-sdk", :version "9.8.1"}
+{:created 1774160826745, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen-common", :version "9.8.1"}
+{:created 1774160826933, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-krystex", :version "9.8.1"}
+{:created 1774160844673, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-guice", :version "9.8.1"}
+{:created 1774160844837, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf-codegen", :version "9.8.1"}
+{:created 1774160845119, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-visualization", :version "9.8.1"}
+{:created 1774162946809, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-5"}
+{:created 1774162986988, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-5"}
+{:created 1774163028476, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-5"}
+{:created 1774163069215, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-5"}

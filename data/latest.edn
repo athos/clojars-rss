@@ -1,20 +1,3 @@
-{:created 1773763605414, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.0-alpha"}
-{:created 1773764141328, :description "Embedded-only Datalevin runtime with bundled native libraries and remote client support", :group_name "org.datalevin", :jar_name "datalevin-embedded", :version "0.10.9"}
-{:created 1773764217831, :description nil, :group_name "dev.gersak", :jar_name "timing.core", :version "0.8.0"}
-{:created 1773764243997, :description "Timing timezone DB", :group_name "dev.gersak", :jar_name "timing.timezones", :version "0.8.0"}
-{:created 1773764260965, :description "Timing timezone DB with full historical rules", :group_name "dev.gersak", :jar_name "timing.timezones.full", :version "0.8.0"}
-{:created 1773764284052, :description "Timing cron expression parser", :group_name "dev.gersak", :jar_name "timing.cron", :version "0.8.0"}
-{:created 1773764314904, :description "Timing holidays", :group_name "dev.gersak", :jar_name "timing.holidays", :version "0.8.0"}
-{:created 1773764338123, :description "Clojure time/calendar library", :group_name "dev.gersak", :jar_name "timing", :version "0.8.0"}
-{:created 1773765842774, :description "Timing timezone DB", :group_name "dev.gersak", :jar_name "timing.timezones", :version "0.8.2"}
-{:created 1773765864421, :description "Timing timezone DB with full historical rules", :group_name "dev.gersak", :jar_name "timing.timezones.full", :version "0.8.2"}
-{:created 1773765889047, :description nil, :group_name "dev.gersak", :jar_name "timing.core", :version "0.8.2"}
-{:created 1773765914197, :description "Timing holidays", :group_name "dev.gersak", :jar_name "timing.holidays", :version "0.8.2"}
-{:created 1773765967935, :description "Timing cron expression parser", :group_name "dev.gersak", :jar_name "timing.cron", :version "0.8.2"}
-{:created 1773765994033, :description "Clojure time/calendar library", :group_name "dev.gersak", :jar_name "timing", :version "0.8.2"}
-{:created 1773767665156, :description "Clay is a small Clojure tool for a dynamic workflow of data visualization and literate programming.", :group_name "org.scicloj", :jar_name "clay", :version "2.0.14"}
-{:created 1773769786236, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.0-alpha"}
-{:created 1773769825873, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.0-alpha"}
 {:created 1773769866906, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.0-alpha"}
 {:created 1773769907654, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.0-alpha"}
 {:created 1773770410182, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.0-alpha"}
@@ -254,3 +237,20 @@
 {:created 1774155476809, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "0.18.2"}
 {:created 1774155479770, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "0.18.2"}
 {:created 1774155589408, :description "Native dependency of Datalevin database on Windows", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-windows-x86_64", :version "0.18.2"}
+{:created 1774160783736, :description nil, :group_name "com.flipkart.krystal", :jar_name "com.flipkart.krystal.gradle.plugin", :version "9.8.1"}
+{:created 1774160786191, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-bom", :version "9.8.1"}
+{:created 1774160789981, :description nil, :group_name "com.flipkart.krystal", :jar_name "honeycomb", :version "9.8.1"}
+{:created 1774160790680, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-common", :version "9.8.1"}
+{:created 1774160807526, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf3", :version "9.8.1"}
+{:created 1774160807967, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystex", :version "9.8.1"}
+{:created 1774160811014, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-java-sdk", :version "9.8.1"}
+{:created 1774160811427, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-core", :version "0.0.1-SNAPSHOT"}
+{:created 1774160826745, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen-common", :version "9.8.1"}
+{:created 1774160826933, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-krystex", :version "9.8.1"}
+{:created 1774160844673, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-guice", :version "9.8.1"}
+{:created 1774160844837, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf-codegen", :version "9.8.1"}
+{:created 1774160845119, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-visualization", :version "9.8.1"}
+{:created 1774162946809, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-5"}
+{:created 1774162986988, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-5"}
+{:created 1774163028476, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-5"}
+{:created 1774163069215, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-5"}
