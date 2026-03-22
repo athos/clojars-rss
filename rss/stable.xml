@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 21 Mar 2026 23:03:18 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Mar 2026 00:09:22 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.346</guid>
+    <title>[org.replikativ/konserve &quot;0.9.346&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.346</link>
+    <description>Durable cross-platform key-value store protocol with core.async.</description>
+    <pubDate>Sat, 21 Mar 2026 23:49:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-redis/versions/0.1.26</guid>
+    <title>[org.replikativ/konserve-redis &quot;0.1.26&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-redis/versions/0.1.26</link>
+    <description>Konserve Redis Backend</description>
+    <pubDate>Sat, 21 Mar 2026 23:47:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-dynamodb/versions/0.1.30</guid>
+    <title>[org.replikativ/konserve-dynamodb &quot;0.1.30&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-dynamodb/versions/0.1.30</link>
+    <description>Konserve DynamoDB Backend</description>
+    <pubDate>Sat, 21 Mar 2026 23:47:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.93</guid>
+    <title>[org.replikativ/konserve-jdbc &quot;0.2.93&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.93</link>
+    <description>A generic JDBC backend for konserve.</description>
+    <pubDate>Sat, 21 Mar 2026 23:46:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-s3/versions/0.1.28</guid>
+    <title>[org.replikativ/konserve-s3 &quot;0.1.28&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-s3/versions/0.1.28</link>
+    <description>Konserve S3 Backend</description>
+    <pubDate>Sat, 21 Mar 2026 23:45:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-rocksdb/versions/0.2.21</guid>
+    <title>[org.replikativ/konserve-rocksdb &quot;0.2.21&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-rocksdb/versions/0.2.21</link>
+    <description>Konserve RocksDB Backend</description>
+    <pubDate>Sat, 21 Mar 2026 23:45:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/kabel/versions/0.3.94</guid>
+    <title>[org.replikativ/kabel &quot;0.3.94&quot;]</title>
+    <link>https://clojars.org/org.replikativ/kabel/versions/0.3.94</link>
+    <description>A library for simple wire-like connectivity semantics.</description>
+    <pubDate>Sat, 21 Mar 2026 23:45:03 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/energy.grid-coordination/clj-gridx/versions/0.2.0</guid>
     <title>[energy.grid-coordination/clj-gridx &quot;0.2.0&quot;]</title>
@@ -1774,55 +1823,6 @@
     <link>https://clojars.org/io.github.plumce/plumcp.core/versions/0.2.0-beta4</link>
     <description>Clojure/Script library for making MCP servers and clients</description>
     <pubDate>Tue, 17 Mar 2026 03:19:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.jepsen/antithesis/versions/0.1.0</guid>
-    <title>[io.jepsen/antithesis &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/io.jepsen/antithesis/versions/0.1.0</link>
-    <description>Support for running Jepsen inside Antithesis</description>
-    <pubDate>Tue, 17 Mar 2026 03:15:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.paintparty/lasertag/versions/0.12.0</guid>
-    <title>[io.github.paintparty/lasertag &quot;0.12.0&quot;]</title>
-    <link>https://clojars.org/io.github.paintparty/lasertag/versions/0.12.0</link>
-    <description>Clojure(Script) utility for discerning types of values.</description>
-    <pubDate>Tue, 17 Mar 2026 01:42:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.kovan/steam-mcp/versions/0.1.0</guid>
-    <title>[org.clojars.kovan/steam-mcp &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.kovan/steam-mcp/versions/0.1.0</link>
-    <description></description>
-    <pubDate>Tue, 17 Mar 2026 00:13:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/borkdude/deps.clj/versions/1.12.4.1618</guid>
-    <title>[borkdude/deps.clj &quot;1.12.4.1618&quot;]</title>
-    <link>https://clojars.org/borkdude/deps.clj/versions/1.12.4.1618</link>
-    <description>deps.clj: a Clojure port of the clojure bash script</description>
-    <pubDate>Mon, 16 Mar 2026 21:41:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.carcdr/oidc-provider/versions/0.2.0</guid>
-    <title>[net.carcdr/oidc-provider &quot;0.2.0&quot;]</title>
-    <link>https://clojars.org/net.carcdr/oidc-provider/versions/0.2.0</link>
-    <description></description>
-    <pubDate>Mon, 16 Mar 2026 21:13:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.fulcrologic/statecharts/versions/1.4.0-RC6</guid>
-    <title>[com.fulcrologic/statecharts &quot;1.4.0-RC6&quot;]</title>
-    <link>https://clojars.org/com.fulcrologic/statecharts/versions/1.4.0-RC6</link>
-    <description>A library for building CLJC statechart machines.</description>
-    <pubDate>Mon, 16 Mar 2026 20:49:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.cnuernber/ham-fisted/versions/3.018</guid>
-    <title>[com.cnuernber/ham-fisted &quot;3.018&quot;]</title>
-    <link>https://clojars.org/com.cnuernber/ham-fisted/versions/3.018</link>
-    <description></description>
-    <pubDate>Mon, 16 Mar 2026 20:03:22 +0000</pubDate>
   </item>
   </channel>
 </rss>

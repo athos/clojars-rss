@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 21 Mar 2026 23:03:18 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Mar 2026 00:09:22 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.346</guid>
+    <title>[org.replikativ/konserve &quot;0.9.346&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.346</link>
+    <description>Durable cross-platform key-value store protocol with core.async.</description>
+    <pubDate>Sat, 21 Mar 2026 23:49:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-redis/versions/0.1.26</guid>
+    <title>[org.replikativ/konserve-redis &quot;0.1.26&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-redis/versions/0.1.26</link>
+    <description>Konserve Redis Backend</description>
+    <pubDate>Sat, 21 Mar 2026 23:47:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-dynamodb/versions/0.1.30</guid>
+    <title>[org.replikativ/konserve-dynamodb &quot;0.1.30&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-dynamodb/versions/0.1.30</link>
+    <description>Konserve DynamoDB Backend</description>
+    <pubDate>Sat, 21 Mar 2026 23:47:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.93</guid>
+    <title>[org.replikativ/konserve-jdbc &quot;0.2.93&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.93</link>
+    <description>A generic JDBC backend for konserve.</description>
+    <pubDate>Sat, 21 Mar 2026 23:46:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-s3/versions/0.1.28</guid>
+    <title>[org.replikativ/konserve-s3 &quot;0.1.28&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-s3/versions/0.1.28</link>
+    <description>Konserve S3 Backend</description>
+    <pubDate>Sat, 21 Mar 2026 23:45:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-rocksdb/versions/0.2.21</guid>
+    <title>[org.replikativ/konserve-rocksdb &quot;0.2.21&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-rocksdb/versions/0.2.21</link>
+    <description>Konserve RocksDB Backend</description>
+    <pubDate>Sat, 21 Mar 2026 23:45:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/kabel/versions/0.3.94</guid>
+    <title>[org.replikativ/kabel &quot;0.3.94&quot;]</title>
+    <link>https://clojars.org/org.replikativ/kabel/versions/0.3.94</link>
+    <description>A library for simple wire-like connectivity semantics.</description>
+    <pubDate>Sat, 21 Mar 2026 23:45:03 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/energy.grid-coordination/clj-gridx/versions/0.2.0</guid>
     <title>[energy.grid-coordination/clj-gridx &quot;0.2.0&quot;]</title>
@@ -1774,55 +1823,6 @@
     <link>https://clojars.org/org.boundary-app/boundary-scaffolder/versions/1.0.0-alpha</link>
     <description>Code generation library for Boundary framework: module scaffolding</description>
     <pubDate>Tue, 17 Mar 2026 16:03:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.0-alpha</guid>
-    <title>[org.boundary-app/boundary-storage &quot;1.0.0-alpha&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.0-alpha</link>
-    <description>Storage library for Boundary framework: local filesystem and S3 adapters</description>
-    <pubDate>Tue, 17 Mar 2026 16:02:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.0-alpha</guid>
-    <title>[org.boundary-app/boundary-user &quot;1.0.0-alpha&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.0-alpha</link>
-    <description>User management library for Boundary framework: authentication, sessions, MFA</description>
-    <pubDate>Tue, 17 Mar 2026 16:01:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.0-alpha</guid>
-    <title>[org.boundary-app/boundary-platform &quot;1.0.0-alpha&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.0-alpha</link>
-    <description>Platform library for Boundary framework: database, HTTP, configuration, modules</description>
-    <pubDate>Tue, 17 Mar 2026 16:00:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.0-alpha</guid>
-    <title>[org.boundary-app/boundary-observability &quot;1.0.0-alpha&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.0-alpha</link>
-    <description>Observability library for Boundary framework: logging, metrics, error reporting</description>
-    <pubDate>Tue, 17 Mar 2026 16:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-core/versions/1.0.0-alpha</guid>
-    <title>[org.boundary-app/boundary-core &quot;1.0.0-alpha&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-core/versions/1.0.0-alpha</link>
-    <description>Foundation library for Boundary framework: validation, utilities, interceptors</description>
-    <pubDate>Tue, 17 Mar 2026 15:59:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.eldrix/hermes/versions/1.4.1540</guid>
-    <title>[com.eldrix/hermes &quot;1.4.1540&quot;]</title>
-    <link>https://clojars.org/com.eldrix/hermes/versions/1.4.1540</link>
-    <description>A library and microservice implementing the health and care terminology SNOMED CT with support for cross-maps, inference, fast full-text search, autocompletion, compositional grammar and the expression constraint language.</description>
-    <pubDate>Tue, 17 Mar 2026 15:48:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/clj-kondo/versions/2026.01.20-SNAPSHOT</guid>
-    <title>[clj-kondo &quot;2026.01.20-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/clj-kondo/versions/2026.01.20-SNAPSHOT</link>
-    <description>A linter for Clojure that sparks joy.</description>
-    <pubDate>Tue, 17 Mar 2026 13:02:08 +0000</pubDate>
   </item>
   </channel>
 </rss>
