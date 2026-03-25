@@ -1,5 +1,3 @@
-{:created 1774016915698, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-4"}
-{:created 1774016955715, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-4"}
 {:created 1774016995411, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-4"}
 {:created 1774017076766, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-4"}
 {:created 1774017116862, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-4"}
@@ -254,3 +252,5 @@
 {:created 1774387496740, :description "Embedded-only Datalevin runtime with bundled native libraries and remote client support", :group_name "org.datalevin", :jar_name "datalevin-embedded", :version "0.10.13"}
 {:created 1774390890334, :description "A native Clojure re-implementation of FIGlet, the classic\n                 ASCII art text renderer.  Parses FIGfont Version 2 font\n                 files (Cowan & Burton, 1996-97), implements all six\n                 horizontal smushing rules plus universal smushing, and\n                 produces output identical to the reference C figlet.\n                 No external dependencies beyond Clojure itself.", :group_name "com.github.danlentz", :jar_name "clj-figlet", :version "0.1.4"}
 {:created 1774392251602, :description "GraalVM-compilable Telegram Bot API", :group_name "link.lmnd", :jar_name "tg-bot-api", :version "0.1.9"}
+{:created 1774404829902, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.0"}
+{:created 1774404856799, :description "Leiningen template for Intergraph Game Master projects", :group_name "ai.intergraph", :jar_name "lein-template.gm", :version "0.1.0"}
