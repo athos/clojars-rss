@@ -1,23 +1,3 @@
-{:created 1774017116862, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-4"}
-{:created 1774017157062, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-4"}
-{:created 1774017197071, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-4"}
-{:created 1774017869882, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260320.144355.c8726e1"}
-{:created 1774018158102, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.26.0"}
-{:created 1774018300753, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.26.0"}
-{:created 1774018342876, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260320.145208.0e21568"}
-{:created 1774018537954, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.26.0"}
-{:created 1774018781303, :description nil, :group_name "cnuernber", :jar_name "dtype-next", :version "11.014"}
-{:created 1774018904359, :description nil, :group_name "techascent", :jar_name "tech.ml.dataset", :version "8.012"}
-{:created 1774019504526, :description nil, :group_name "com.github.madhephaestus", :jar_name "manifold3d", :version "v3.4.1"}
-{:created 1774020175240, :description nil, :group_name "ch.codesmith", :jar_name "blocks", :version "0.13.188"}
-{:created 1774020183990, :description nil, :group_name "ch.codesmith", :jar_name "blocks-rabbitmq-dev", :version "0.13.188"}
-{:created 1774020192684, :description nil, :group_name "ch.codesmith", :jar_name "blocks-dev", :version "0.13.188"}
-{:created 1774020201448, :description nil, :group_name "ch.codesmith", :jar_name "blocks-jdbc", :version "0.13.188"}
-{:created 1774020210298, :description nil, :group_name "ch.codesmith", :jar_name "blocks-sqlite", :version "0.13.188"}
-{:created 1774020218595, :description nil, :group_name "ch.codesmith", :jar_name "blocks-postgres", :version "0.13.188"}
-{:created 1774020226592, :description nil, :group_name "ch.codesmith", :jar_name "blocks-rabbitmq", :version "0.13.188"}
-{:created 1774020235212, :description nil, :group_name "ch.codesmith", :jar_name "blocks-postgres-dev", :version "0.13.188"}
-{:created 1774020244644, :description nil, :group_name "ch.codesmith", :jar_name "blocks-test-containers", :version "0.13.188"}
 {:created 1774020253174, :description nil, :group_name "ch.codesmith", :jar_name "blocks-vault", :version "0.13.188"}
 {:created 1774020324340, :description nil, :group_name "net.clojars.myxomatozis", :jar_name "orrery-sdk", :version "0.1.7"}
 {:created 1774021209612, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.26.1"}
@@ -254,3 +234,23 @@
 {:created 1774404856799, :description "Leiningen template for Intergraph Game Master projects", :group_name "ai.intergraph", :jar_name "lein-template.gm", :version "0.1.0"}
 {:created 1774425959546, :description "Swagger UI for Ring apps", :group_name "metosin", :jar_name "ring-swagger-ui", :version "5.32.1"}
 {:created 1774426374110, :description "Surface syntax for Clojure — bidirectional renderer for readable code exposition", :group_name "org.replikativ", :jar_name "superficie", :version "0.1.17"}
+{:created 1774439976981, :description "A reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary", :group_name "com.hyperfiddle", :jar_name "electric", :version "v3-alpha-d8b915ede"}
+{:created 1774440169820, :description nil, :group_name "com.flipkart.krystal", :jar_name "honeycomb", :version "10.0.8"}
+{:created 1774440171397, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-common", :version "10.0.8"}
+{:created 1774440172820, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-visualization", :version "10.0.8"}
+{:created 1774440185704, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen", :version "10.0.8"}
+{:created 1774440190249, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen-common", :version "10.0.8"}
+{:created 1774440196390, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-vajram-sdk", :version "0.1.3"}
+{:created 1774440198112, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-codegen-common", :version "10.0.8"}
+{:created 1774440200452, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystex", :version "10.0.8"}
+{:created 1774440217941, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-api", :version "0.1.3"}
+{:created 1774440220313, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-core", :version "0.1.3"}
+{:created 1774440220498, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-guice", :version "10.0.8"}
+{:created 1774440222414, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-codegen", :version "0.1.3"}
+{:created 1774440223542, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-krystex", :version "10.0.8"}
+{:created 1774440248360, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-guice-servlet", :version "0.1.3"}
+{:created 1774440255069, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-guice", :version "0.1.3"}
+{:created 1774440257252, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-grpc-codegen", :version "0.1.3"}
+{:created 1774440264396, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest", :version "0.1.3"}
+{:created 1774440293090, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf3", :version "10.0.8"}
+{:created 1774440293134, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf-codegen", :version "10.0.8"}
