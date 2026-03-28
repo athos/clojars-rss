@@ -4,7 +4,168 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 28 Mar 2026 06:16:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Mar 2026 07:17:58 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-tools &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-7</link>
+    <description>Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities</description>
+    <pubDate>Sat, 28 Mar 2026 06:39:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-admin/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-admin &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-admin/versions/1.0.1-alpha-7</link>
+    <description>Admin interface library for Boundary framework: auto-CRUD, schema introspection</description>
+    <pubDate>Sat, 28 Mar 2026 06:38:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-ui-style/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-ui-style &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-ui-style/versions/1.0.1-alpha-7</link>
+    <description>Shared UI style library for Boundary framework: CSS/JS bundles and assets</description>
+    <pubDate>Sat, 28 Mar 2026 06:38:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-ai/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-ai &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-ai/versions/1.0.1-alpha-7</link>
+    <description>Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama</description>
+    <pubDate>Sat, 28 Mar 2026 06:37:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-calendar &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-7</link>
+    <description>Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components</description>
+    <pubDate>Sat, 28 Mar 2026 06:36:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-reports &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-7</link>
+    <description>PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module</description>
+    <pubDate>Sat, 28 Mar 2026 06:35:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-geo &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-7</link>
+    <description>Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation</description>
+    <pubDate>Sat, 28 Mar 2026 06:32:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-payments &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-7</link>
+    <description>PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
+    <pubDate>Sat, 28 Mar 2026 06:32:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-external &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-7</link>
+    <description>External service adapters library for Boundary framework</description>
+    <pubDate>Sat, 28 Mar 2026 06:31:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-search &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-7</link>
+    <description>Full-text search library for Boundary framework</description>
+    <pubDate>Sat, 28 Mar 2026 06:30:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-workflow &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-7</link>
+    <description>Workflow orchestration library for Boundary framework</description>
+    <pubDate>Sat, 28 Mar 2026 06:30:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-tenant &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-7</link>
+    <description>Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning</description>
+    <pubDate>Sat, 28 Mar 2026 06:29:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-email &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-7</link>
+    <description>Email sending library for Boundary framework: SMTP support, composition, validation</description>
+    <pubDate>Sat, 28 Mar 2026 06:28:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-realtime &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-7</link>
+    <description>Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication</description>
+    <pubDate>Sat, 28 Mar 2026 06:28:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-jobs &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.1-alpha-7</link>
+    <description>Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters</description>
+    <pubDate>Sat, 28 Mar 2026 06:27:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-cache/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-cache &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-cache/versions/1.0.1-alpha-7</link>
+    <description>Cache library for Boundary framework: in-memory and Redis cache adapters</description>
+    <pubDate>Sat, 28 Mar 2026 06:26:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-scaffolder/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-scaffolder &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-scaffolder/versions/1.0.1-alpha-7</link>
+    <description>Code generation library for Boundary framework: module scaffolding</description>
+    <pubDate>Sat, 28 Mar 2026 06:25:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-storage &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.1-alpha-7</link>
+    <description>Storage library for Boundary framework: local filesystem and S3 adapters</description>
+    <pubDate>Sat, 28 Mar 2026 06:23:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-user &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.1-alpha-7</link>
+    <description>User management library for Boundary framework: authentication, sessions, MFA</description>
+    <pubDate>Sat, 28 Mar 2026 06:22:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-i18n/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-i18n &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-i18n/versions/1.0.1-alpha-7</link>
+    <description>Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management</description>
+    <pubDate>Sat, 28 Mar 2026 06:22:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-platform &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.1-alpha-7</link>
+    <description>Platform library for Boundary framework: database, HTTP, configuration, modules</description>
+    <pubDate>Sat, 28 Mar 2026 06:21:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-observability &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.1-alpha-7</link>
+    <description>Observability library for Boundary framework: logging, metrics, error reporting</description>
+    <pubDate>Sat, 28 Mar 2026 06:20:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-core/versions/1.0.1-alpha-7</guid>
+    <title>[org.boundary-app/boundary-core &quot;1.0.1-alpha-7&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-core/versions/1.0.1-alpha-7</link>
+    <description>Foundation library for Boundary framework: validation, utilities, interceptors</description>
+    <pubDate>Sat, 28 Mar 2026 06:18:53 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/stratum/versions/0.1.46</guid>
     <title>[org.replikativ/stratum &quot;0.1.46&quot;]</title>
@@ -1640,167 +1801,6 @@
     <link>https://clojars.org/io.github.plumce/plumcp.core-json-charred/versions/0.2.0-beta5</link>
     <description>JSON (charred library) module for PluMCP</description>
     <pubDate>Mon, 23 Mar 2026 14:08:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.plumce/plumcp.core-dev/versions/0.2.0-beta5</guid>
-    <title>[io.github.plumce/plumcp.core-dev &quot;0.2.0-beta5&quot;]</title>
-    <link>https://clojars.org/io.github.plumce/plumcp.core-dev/versions/0.2.0-beta5</link>
-    <description>Dev module for PluMCP</description>
-    <pubDate>Mon, 23 Mar 2026 14:08:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.plumce/plumcp.core-auth/versions/0.2.0-beta5</guid>
-    <title>[io.github.plumce/plumcp.core-auth &quot;0.2.0-beta5&quot;]</title>
-    <link>https://clojars.org/io.github.plumce/plumcp.core-auth/versions/0.2.0-beta5</link>
-    <description>Auth module for PluMCP</description>
-    <pubDate>Mon, 23 Mar 2026 14:07:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.plumce/plumcp.core/versions/0.2.0-beta5</guid>
-    <title>[io.github.plumce/plumcp.core &quot;0.2.0-beta5&quot;]</title>
-    <link>https://clojars.org/io.github.plumce/plumcp.core/versions/0.2.0-beta5</link>
-    <description>Clojure/Script library for making MCP servers and clients</description>
-    <pubDate>Mon, 23 Mar 2026 14:07:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/vajram-guice/versions/9.8.3</guid>
-    <title>[com.flipkart.krystal/vajram-guice &quot;9.8.3&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/vajram-guice/versions/9.8.3</link>
-    <description></description>
-    <pubDate>Mon, 23 Mar 2026 13:01:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/vajram-codegen/versions/9.8.3</guid>
-    <title>[com.flipkart.krystal/vajram-codegen &quot;9.8.3&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/vajram-codegen/versions/9.8.3</link>
-    <description></description>
-    <pubDate>Mon, 23 Mar 2026 13:01:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/vajram-protobuf-codegen/versions/9.8.3</guid>
-    <title>[com.flipkart.krystal/vajram-protobuf-codegen &quot;9.8.3&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/vajram-protobuf-codegen/versions/9.8.3</link>
-    <description></description>
-    <pubDate>Mon, 23 Mar 2026 13:01:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/vajram-java-sdk/versions/9.8.3</guid>
-    <title>[com.flipkart.krystal/vajram-java-sdk &quot;9.8.3&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/vajram-java-sdk/versions/9.8.3</link>
-    <description></description>
-    <pubDate>Mon, 23 Mar 2026 13:01:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/krystex/versions/9.8.3</guid>
-    <title>[com.flipkart.krystal/krystex &quot;9.8.3&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/krystex/versions/9.8.3</link>
-    <description></description>
-    <pubDate>Mon, 23 Mar 2026 13:01:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/vajram-krystex/versions/9.8.3</guid>
-    <title>[com.flipkart.krystal/vajram-krystex &quot;9.8.3&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/vajram-krystex/versions/9.8.3</link>
-    <description></description>
-    <pubDate>Mon, 23 Mar 2026 13:01:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/vajram-protobuf3/versions/9.8.3</guid>
-    <title>[com.flipkart.krystal/vajram-protobuf3 &quot;9.8.3&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/vajram-protobuf3/versions/9.8.3</link>
-    <description></description>
-    <pubDate>Mon, 23 Mar 2026 13:01:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/vajram-codegen-common/versions/9.8.3</guid>
-    <title>[com.flipkart.krystal/vajram-codegen-common &quot;9.8.3&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/vajram-codegen-common/versions/9.8.3</link>
-    <description></description>
-    <pubDate>Mon, 23 Mar 2026 13:00:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/krystal-visualization/versions/9.8.3</guid>
-    <title>[com.flipkart.krystal/krystal-visualization &quot;9.8.3&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/krystal-visualization/versions/9.8.3</link>
-    <description></description>
-    <pubDate>Mon, 23 Mar 2026 13:00:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/honeycomb/versions/9.8.3</guid>
-    <title>[com.flipkart.krystal/honeycomb &quot;9.8.3&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/honeycomb/versions/9.8.3</link>
-    <description></description>
-    <pubDate>Mon, 23 Mar 2026 13:00:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/krystal-bom/versions/9.8.3</guid>
-    <title>[com.flipkart.krystal/krystal-bom &quot;9.8.3&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/krystal-bom/versions/9.8.3</link>
-    <description></description>
-    <pubDate>Mon, 23 Mar 2026 13:00:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/com.flipkart.krystal.gradle.plugin/versions/9.8.3</guid>
-    <title>[com.flipkart.krystal/com.flipkart.krystal.gradle.plugin &quot;9.8.3&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/com.flipkart.krystal.gradle.plugin/versions/9.8.3</link>
-    <description></description>
-    <pubDate>Mon, 23 Mar 2026 13:00:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.timezynk/domus/versions/2.0.26</guid>
-    <title>[com.timezynk/domus &quot;2.0.26&quot;]</title>
-    <link>https://clojars.org/com.timezynk/domus/versions/2.0.26</link>
-    <description>MongoDB utilities</description>
-    <pubDate>Mon, 23 Mar 2026 11:24:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.timezynk/mongo/versions/0.17.9</guid>
-    <title>[com.timezynk/mongo &quot;0.17.9&quot;]</title>
-    <link>https://clojars.org/com.timezynk/mongo/versions/0.17.9</link>
-    <description>Clojure wrapper for com.mongodb.client Java API.</description>
-    <pubDate>Mon, 23 Mar 2026 11:21:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.timezynk/domus/versions/2.0.25</guid>
-    <title>[com.timezynk/domus &quot;2.0.25&quot;]</title>
-    <link>https://clojars.org/com.timezynk/domus/versions/2.0.25</link>
-    <description>MongoDB utilities</description>
-    <pubDate>Mon, 23 Mar 2026 11:08:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.timezynk/mongo/versions/0.17.8</guid>
-    <title>[com.timezynk/mongo &quot;0.17.8&quot;]</title>
-    <link>https://clojars.org/com.timezynk/mongo/versions/0.17.8</link>
-    <description>Clojure wrapper for com.mongodb.client Java API.</description>
-    <pubDate>Mon, 23 Mar 2026 10:32:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.timezynk/domus/versions/2.0.21</guid>
-    <title>[com.timezynk/domus &quot;2.0.21&quot;]</title>
-    <link>https://clojars.org/com.timezynk/domus/versions/2.0.21</link>
-    <description>MongoDB utilities</description>
-    <pubDate>Mon, 23 Mar 2026 08:33:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.wsgtcyx/pdf-zusammenfuegen/versions/0.1.0</guid>
-    <title>[com.github.wsgtcyx/pdf-zusammenfuegen &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/com.github.wsgtcyx/pdf-zusammenfuegen/versions/0.1.0</link>
-    <description>Lokales Clojure-Werkzeug zum Zusammenfuegen mehrerer PDF-Dateien. Projektseite: https://pdfzus.de/</description>
-    <pubDate>Mon, 23 Mar 2026 07:41:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.timezynk/domus/versions/2.0.19</guid>
-    <title>[com.timezynk/domus &quot;2.0.19&quot;]</title>
-    <link>https://clojars.org/com.timezynk/domus/versions/2.0.19</link>
-    <description>MongoDB utilities</description>
-    <pubDate>Mon, 23 Mar 2026 06:42:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.flipkart.krystal/vajram-protobuf-codegen/versions/9.8.2</guid>
-    <title>[com.flipkart.krystal/vajram-protobuf-codegen &quot;9.8.2&quot;]</title>
-    <link>https://clojars.org/com.flipkart.krystal/vajram-protobuf-codegen/versions/9.8.2</link>
-    <description></description>
-    <pubDate>Mon, 23 Mar 2026 04:48:05 +0000</pubDate>
   </item>
   </channel>
 </rss>

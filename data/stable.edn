@@ -1,26 +1,3 @@
-{:created 1774241285553, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf-codegen", :version "9.8.2"}
-{:created 1774248154354, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.0.19"}
-{:created 1774251670994, :description "Lokales Clojure-Werkzeug zum Zusammenfuegen mehrerer PDF-Dateien. Projektseite: https://pdfzus.de/", :group_name "com.github.wsgtcyx", :jar_name "pdf-zusammenfuegen", :version "0.1.0"}
-{:created 1774254836735, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.0.21"}
-{:created 1774261941234, :description "Clojure wrapper for com.mongodb.client Java API.", :group_name "com.timezynk", :jar_name "mongo", :version "0.17.8"}
-{:created 1774264130785, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.0.25"}
-{:created 1774264882137, :description "Clojure wrapper for com.mongodb.client Java API.", :group_name "com.timezynk", :jar_name "mongo", :version "0.17.9"}
-{:created 1774265046665, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.0.26"}
-{:created 1774270819923, :description nil, :group_name "com.flipkart.krystal", :jar_name "com.flipkart.krystal.gradle.plugin", :version "9.8.3"}
-{:created 1774270825826, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-bom", :version "9.8.3"}
-{:created 1774270835623, :description nil, :group_name "com.flipkart.krystal", :jar_name "honeycomb", :version "9.8.3"}
-{:created 1774270839093, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-visualization", :version "9.8.3"}
-{:created 1774270839459, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen-common", :version "9.8.3"}
-{:created 1774270867845, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf3", :version "9.8.3"}
-{:created 1774270868086, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-krystex", :version "9.8.3"}
-{:created 1774270869174, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystex", :version "9.8.3"}
-{:created 1774270871427, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-java-sdk", :version "9.8.3"}
-{:created 1774270890605, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf-codegen", :version "9.8.3"}
-{:created 1774270891798, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen", :version "9.8.3"}
-{:created 1774270891918, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-guice", :version "9.8.3"}
-{:created 1774274837408, :description "Clojure/Script library for making MCP servers and clients", :group_name "io.github.plumce", :jar_name "plumcp.core", :version "0.2.0-beta5"}
-{:created 1774274872391, :description "Auth module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-auth", :version "0.2.0-beta5"}
-{:created 1774274903780, :description "Dev module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-dev", :version "0.2.0-beta5"}
 {:created 1774274937738, :description "JSON (charred library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-charred", :version "0.2.0-beta5"}
 {:created 1774274981617, :description "JSON (cheshire library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-cheshire", :version "0.2.0-beta5"}
 {:created 1774275015948, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.2.0-beta5"}
@@ -254,3 +231,26 @@
 {:created 1774656392918, :description "Parse Org-mode text into an AST (EDN data)", :group_name "org.clojars.bzg", :jar_name "organ", :version "0.3.3"}
 {:created 1774678245181, :description "CLJS development tools", :group_name "thheller", :jar_name "shadow-cljs", :version "3.3.7"}
 {:created 1774678462166, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.1.46"}
+{:created 1774678733482, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-7"}
+{:created 1774678805374, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-7"}
+{:created 1774678876960, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-7"}
+{:created 1774678926640, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-7"}
+{:created 1774678973883, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-7"}
+{:created 1774679033368, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-7"}
+{:created 1774679158834, :description "Code generation library for Boundary framework: module scaffolding", :group_name "org.boundary-app", :jar_name "boundary-scaffolder", :version "1.0.1-alpha-7"}
+{:created 1774679199414, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-7"}
+{:created 1774679239692, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-7"}
+{:created 1774679280214, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-7"}
+{:created 1774679321167, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-7"}
+{:created 1774679362382, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-7"}
+{:created 1774679403210, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-7"}
+{:created 1774679444358, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-7"}
+{:created 1774679485172, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-7"}
+{:created 1774679524637, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-7"}
+{:created 1774679565393, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-7"}
+{:created 1774679758717, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-7"}
+{:created 1774679799169, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-7"}
+{:created 1774679839825, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-7"}
+{:created 1774679891290, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-7"}
+{:created 1774679932471, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-7"}
+{:created 1774679973106, :description "Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "org.boundary-app", :jar_name "boundary-tools", :version "1.0.1-alpha-7"}
