@@ -1,26 +1,3 @@
-{:created 1774390890334, :description "A native Clojure re-implementation of FIGlet, the classic\n                 ASCII art text renderer.  Parses FIGfont Version 2 font\n                 files (Cowan & Burton, 1996-97), implements all six\n                 horizontal smushing rules plus universal smushing, and\n                 produces output identical to the reference C figlet.\n                 No external dependencies beyond Clojure itself.", :group_name "com.github.danlentz", :jar_name "clj-figlet", :version "0.1.4"}
-{:created 1774392251602, :description "GraalVM-compilable Telegram Bot API", :group_name "link.lmnd", :jar_name "tg-bot-api", :version "0.1.9"}
-{:created 1774399985734, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.0-SNAPSHOT"}
-{:created 1774404829902, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.0"}
-{:created 1774404856799, :description "Leiningen template for Intergraph Game Master projects", :group_name "ai.intergraph", :jar_name "lein-template.gm", :version "0.1.0"}
-{:created 1774406615853, :description "Reusable player-agent library for Intergraph games", :group_name "ai.intergraph", :jar_name "game-player", :version "0.1.0-SNAPSHOT"}
-{:created 1774425959546, :description "Swagger UI for Ring apps", :group_name "metosin", :jar_name "ring-swagger-ui", :version "5.32.1"}
-{:created 1774426374110, :description "Surface syntax for Clojure — bidirectional renderer for readable code exposition", :group_name "org.replikativ", :jar_name "superficie", :version "0.1.17"}
-{:created 1774438611294, :description nil, :group_name "com.hyperfiddle", :jar_name "hyperfiddle-contrib", :version "v0-alpha-SNAPSHOT"}
-{:created 1774439976981, :description "A reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary", :group_name "com.hyperfiddle", :jar_name "electric", :version "v3-alpha-d8b915ede"}
-{:created 1774440169820, :description nil, :group_name "com.flipkart.krystal", :jar_name "honeycomb", :version "10.0.8"}
-{:created 1774440171397, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-common", :version "10.0.8"}
-{:created 1774440172820, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-visualization", :version "10.0.8"}
-{:created 1774440185704, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen", :version "10.0.8"}
-{:created 1774440190249, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-codegen-common", :version "10.0.8"}
-{:created 1774440196390, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-vajram-sdk", :version "0.1.3"}
-{:created 1774440198112, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-codegen-common", :version "10.0.8"}
-{:created 1774440200452, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystex", :version "10.0.8"}
-{:created 1774440217941, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-api", :version "0.1.3"}
-{:created 1774440220313, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-core", :version "0.1.3"}
-{:created 1774440220498, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-guice", :version "10.0.8"}
-{:created 1774440222414, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-codegen", :version "0.1.3"}
-{:created 1774440223542, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-krystex", :version "10.0.8"}
 {:created 1774440248360, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-guice-servlet", :version "0.1.3"}
 {:created 1774440255069, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-guice", :version "0.1.3"}
 {:created 1774440257252, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-grpc-codegen", :version "0.1.3"}
@@ -254,3 +231,26 @@
 {:created 1774887908490, :description nil, :group_name "org.pinkgorilla", :jar_name "tick-transit", :version "0.1.6"}
 {:created 1774888383380, :description nil, :group_name "org.pinkgorilla", :jar_name "webly", :version "0.20.736"}
 {:created 1774890530521, :description "CLJS development tools", :group_name "thheller", :jar_name "shadow-cljs", :version "3.3.8"}
+{:created 1774892740641, :description nil, :group_name "com.flipkart.krystal", :jar_name "honeycomb", :version "10.0.9"}
+{:created 1774892741512, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-common", :version "10.0.9"}
+{:created 1774892741545, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-visualization", :version "10.0.9"}
+{:created 1774892769205, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-grpc", :version "0.1.4"}
+{:created 1774892769287, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystal-codegen-common", :version "10.0.9"}
+{:created 1774892769433, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-codegen", :version "0.1.4"}
+{:created 1774892769471, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-krystex", :version "10.0.9"}
+{:created 1774892773295, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-java-sdk", :version "10.0.9"}
+{:created 1774892778088, :description nil, :group_name "com.flipkart.krystal", :jar_name "krystex", :version "10.0.9"}
+{:created 1774892790926, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-guice", :version "0.1.4"}
+{:created 1774892793846, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-protobuf", :version "0.1.4"}
+{:created 1774892796094, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-json-codegen", :version "0.1.4"}
+{:created 1774892796334, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-grpc-codegen", :version "0.1.4"}
+{:created 1774892799606, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-core", :version "0.1.4"}
+{:created 1774892813330, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-guice-servlet", :version "0.1.4"}
+{:created 1774892821846, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-json", :version "10.0.9"}
+{:created 1774892822168, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-guice", :version "10.0.9"}
+{:created 1774892824001, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest", :version "0.1.4"}
+{:created 1774892840825, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-codegen", :version "0.1.4"}
+{:created 1774892842505, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf-codegen", :version "10.0.9"}
+{:created 1774892851939, :description nil, :group_name "com.flipkart.krystal", :jar_name "vajram-protobuf3", :version "10.0.9"}
+{:created 1774892862358, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-quarkus", :version "0.1.4"}
+{:created 1774892876216, :description nil, :group_name "com.flipkart.krystal", :jar_name "lattice-rest-quarkus-codegen", :version "0.1.4"}
