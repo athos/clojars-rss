@@ -1,21 +1,3 @@
-{:created 1774540941537, :description nil, :group_name "org.bdinetwork", :jar_name "clj-ring-middleware", :version "1.2.0-RC5"}
-{:created 1774542468103, :description nil, :group_name "org.pinkgorilla", :jar_name "shadow-x", :version "0.3.22"}
-{:created 1774543071940, :description "token library", :group_name "org.pinkgorilla", :jar_name "token", :version "0.4.71"}
-{:created 1774543481469, :description "54 native Web Components — stateless, framework-free, zero runtime. Built with ClojureScript, compiled to tree-shakeable ESM.", :group_name "com.github.avanelsas", :jar_name "baredom", :version "0.1.0-alpha"}
-{:created 1774544154465, :description nil, :group_name "org.pinkgorilla", :jar_name "clj-service", :version "0.7.7"}
-{:created 1774544957998, :description nil, :group_name "com.cnuernber", :jar_name "ham-fisted", :version "3.020"}
-{:created 1774545811824, :description nil, :group_name "org.pinkgorilla", :jar_name "clj-service-sente", :version "0.7.34"}
-{:created 1774547438858, :description nil, :group_name "org.pinkgorilla", :jar_name "flowy", :version "0.1.49"}
-{:created 1774548185315, :description nil, :group_name "org.pinkgorilla", :jar_name "dali", :version "0.6.40"}
-{:created 1774549615956, :description nil, :group_name "org.pinkgorilla", :jar_name "ui-repl", :version "0.2.117"}
-{:created 1774549827566, :description nil, :group_name "org.pinkgorilla", :jar_name "tick-transit", :version "0.1.4"}
-{:created 1774550836982, :description nil, :group_name "org.pinkgorilla", :jar_name "webly", :version "0.20.734"}
-{:created 1774551316130, :description nil, :group_name "org.pinkgorilla", :jar_name "extension", :version "0.0.17"}
-{:created 1774551980997, :description nil, :group_name "io.github.clojure-quant", :jar_name "techml-dataset-cljs", :version "0.3.30"}
-{:created 1774552348308, :description nil, :group_name "org.pinkgorilla", :jar_name "dali-table", :version "0.6.103"}
-{:created 1774552669891, :description "Clojure Email Library", :group_name "com.janetacarr", :jar_name "clojure-mail", :version "2.0.0"}
-{:created 1774553879757, :description "Clojure Email Library", :group_name "com.janetacarr", :jar_name "clojure-mail", :version "2.0.1"}
-{:created 1774554855241, :description nil, :group_name "org.pinkgorilla", :jar_name "options", :version "0.3.27"}
 {:created 1774555024752, :description "Parse Org-mode text into an AST (EDN data)", :group_name "org.clojars.bzg", :jar_name "organ", :version "0.1.0"}
 {:created 1774555460983, :description nil, :group_name "org.pinkgorilla", :jar_name "ui-layout", :version "0.4.77"}
 {:created 1774556044091, :description nil, :group_name "io.github.mlimotte", :jar_name "gsheetplus", :version "1.1.1"}
@@ -254,3 +236,21 @@
 {:created 1774963648565, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-9"}
 {:created 1774963689533, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-9"}
 {:created 1774963729847, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-9"}
+{:created 1774963770859, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-9"}
+{:created 1774963818174, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-9"}
+{:created 1774963858381, :description "Code generation library for Boundary framework: module scaffolding", :group_name "org.boundary-app", :jar_name "boundary-scaffolder", :version "1.0.1-alpha-9"}
+{:created 1774963898546, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-9"}
+{:created 1774963941121, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-9"}
+{:created 1774963980973, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-9"}
+{:created 1774964025101, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-9"}
+{:created 1774964071623, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-9"}
+{:created 1774964112232, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-9"}
+{:created 1774964159153, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-9"}
+{:created 1774964199687, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-9"}
+{:created 1774964240049, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-9"}
+{:created 1774964283974, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-9"}
+{:created 1774964327567, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-9"}
+{:created 1774964368192, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-9"}
+{:created 1774964414098, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-9"}
+{:created 1774964454578, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-9"}
+{:created 1774964498309, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-9"}
