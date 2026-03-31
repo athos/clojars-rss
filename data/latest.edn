@@ -1,14 +1,3 @@
-{:created 1774521434388, :description nil, :group_name "com.github.nishgpt", :jar_name "chain-executor", :version "0.1.0-OB-ALPHA4"}
-{:created 1774521446784, :description nil, :group_name "com.github.nishgpt", :jar_name "chain-executor-models", :version "0.1.0-OB-ALPHA4"}
-{:created 1774521465052, :description nil, :group_name "com.github.nishgpt", :jar_name "chain-executor-core", :version "0.1.0-OB-ALPHA4"}
-{:created 1774521479629, :description "Bill of materials to make sure a consistent set of versions is used for chain-executor modules.", :group_name "com.github.nishgpt", :jar_name "chain-executor-bom", :version "0.1.0-OB-ALPHA4"}
-{:created 1774533286113, :description nil, :group_name "com.monkeyci", :jar_name "site-template", :version "0.15.2"}
-{:created 1774535514740, :description nil, :group_name "org.pinkgorilla", :jar_name "id", :version "0.2.5"}
-{:created 1774538626752, :description nil, :group_name "org.pinkgorilla", :jar_name "ui-router", :version "0.3.46"}
-{:created 1774539108891, :description "Workflow framework for Clojure", :group_name "io.github.missinterpret", :jar_name "flows", :version "1.0.34"}
-{:created 1774540814344, :description nil, :group_name "org.bdinetwork", :jar_name "clj-ishare-jwt", :version "1.2.0-RC5"}
-{:created 1774540858938, :description nil, :group_name "org.bdinetwork", :jar_name "clj-ishare-client", :version "1.2.0-RC5"}
-{:created 1774540908373, :description nil, :group_name "org.bdinetwork", :jar_name "clj-authentication", :version "1.2.0-RC5"}
 {:created 1774540941537, :description nil, :group_name "org.bdinetwork", :jar_name "clj-ring-middleware", :version "1.2.0-RC5"}
 {:created 1774542468103, :description nil, :group_name "org.pinkgorilla", :jar_name "shadow-x", :version "0.3.22"}
 {:created 1774543071940, :description "token library", :group_name "org.pinkgorilla", :jar_name "token", :version "0.4.71"}
@@ -254,3 +243,14 @@
 {:created 1774955808686, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-8"}
 {:created 1774955849787, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-8"}
 {:created 1774956584464, :description "A Clojure Companion for Jetty 12", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.0.0-rc2"}
+{:created 1774960570816, :description "A Clojure companion to Quartz with Jakarta compatibility", :group_name "io.factorhouse", :jar_name "cronut", :version "1.2.3"}
+{:created 1774960767528, :description "A Clojure companion to Quartz with Javax compatibility", :group_name "io.factorhouse", :jar_name "cronut-javax", :version "1.2.3"}
+{:created 1774961236361, :description "Integrant bindings for Cronut", :group_name "io.factorhouse", :jar_name "cronut-integrant", :version "1.2.3"}
+{:created 1774961629254, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.26.3"}
+{:created 1774961714450, :description nil, :group_name "io.github.beme-lang", :jar_name "meme-clj", :version "0.10.0"}
+{:created 1774961733289, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.26.3"}
+{:created 1774961898747, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.26.3"}
+{:created 1774963607898, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-9"}
+{:created 1774963648565, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-9"}
+{:created 1774963689533, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-9"}
+{:created 1774963729847, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-9"}
