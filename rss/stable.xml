@@ -4,7 +4,84 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 11 Apr 2026 09:12:38 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Apr 2026 10:08:07 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-12</guid>
+    <title>[org.boundary-app/boundary-tools &quot;1.0.1-alpha-12&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-12</link>
+    <description>Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities</description>
+    <pubDate>Sat, 11 Apr 2026 09:20:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-admin/versions/1.0.1-alpha-12</guid>
+    <title>[org.boundary-app/boundary-admin &quot;1.0.1-alpha-12&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-admin/versions/1.0.1-alpha-12</link>
+    <description>Admin interface library for Boundary framework: auto-CRUD, schema introspection</description>
+    <pubDate>Sat, 11 Apr 2026 09:19:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-ui-style/versions/1.0.1-alpha-12</guid>
+    <title>[org.boundary-app/boundary-ui-style &quot;1.0.1-alpha-12&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-ui-style/versions/1.0.1-alpha-12</link>
+    <description>Shared UI style library for Boundary framework: CSS/JS bundles and assets</description>
+    <pubDate>Sat, 11 Apr 2026 09:18:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-ai/versions/1.0.1-alpha-12</guid>
+    <title>[org.boundary-app/boundary-ai &quot;1.0.1-alpha-12&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-ai/versions/1.0.1-alpha-12</link>
+    <description>Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama</description>
+    <pubDate>Sat, 11 Apr 2026 09:18:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-12</guid>
+    <title>[org.boundary-app/boundary-calendar &quot;1.0.1-alpha-12&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-12</link>
+    <description>Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components</description>
+    <pubDate>Sat, 11 Apr 2026 09:17:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-12</guid>
+    <title>[org.boundary-app/boundary-reports &quot;1.0.1-alpha-12&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-12</link>
+    <description>PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module</description>
+    <pubDate>Sat, 11 Apr 2026 09:16:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-12</guid>
+    <title>[org.boundary-app/boundary-geo &quot;1.0.1-alpha-12&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-12</link>
+    <description>Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation</description>
+    <pubDate>Sat, 11 Apr 2026 09:16:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-12</guid>
+    <title>[org.boundary-app/boundary-payments &quot;1.0.1-alpha-12&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-12</link>
+    <description>PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
+    <pubDate>Sat, 11 Apr 2026 09:15:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-12</guid>
+    <title>[org.boundary-app/boundary-external &quot;1.0.1-alpha-12&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-12</link>
+    <description>External service adapters library for Boundary framework</description>
+    <pubDate>Sat, 11 Apr 2026 09:14:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-12</guid>
+    <title>[org.boundary-app/boundary-search &quot;1.0.1-alpha-12&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-12</link>
+    <description>Full-text search library for Boundary framework</description>
+    <pubDate>Sat, 11 Apr 2026 09:13:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-12</guid>
+    <title>[org.boundary-app/boundary-workflow &quot;1.0.1-alpha-12&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-12</link>
+    <description>Workflow orchestration library for Boundary framework</description>
+    <pubDate>Sat, 11 Apr 2026 09:13:18 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-12</guid>
     <title>[org.boundary-app/boundary-tenant &quot;1.0.1-alpha-12&quot;]</title>
@@ -1719,83 +1796,6 @@
     <link>https://clojars.org/io.github.xpojure-lang/meme-clj/versions/3.3.0</link>
     <description></description>
     <pubDate>Sun, 5 Apr 2026 21:25:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.missinterpret/flows/versions/1.0.44</guid>
-    <title>[io.github.missinterpret/flows &quot;1.0.44&quot;]</title>
-    <link>https://clojars.org/io.github.missinterpret/flows/versions/1.0.44</link>
-    <description>Workflow framework for Clojure</description>
-    <pubDate>Sun, 5 Apr 2026 21:03:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.hector/lein-template.webgen/versions/0.3.28</guid>
-    <title>[org.clojars.hector/lein-template.webgen &quot;0.3.28&quot;]</title>
-    <link>https://clojars.org/org.clojars.hector/lein-template.webgen/versions/0.3.28</link>
-    <description>WebGen/LST Parameter-Driven Web Application Template</description>
-    <pubDate>Sun, 5 Apr 2026 20:51:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.xpojure-lang/meme-clj/versions/3.0.0</guid>
-    <title>[io.github.xpojure-lang/meme-clj &quot;3.0.0&quot;]</title>
-    <link>https://clojars.org/io.github.xpojure-lang/meme-clj/versions/3.0.0</link>
-    <description></description>
-    <pubDate>Sun, 5 Apr 2026 19:57:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.avanelsas/baredom/versions/1.2.0</guid>
-    <title>[com.github.avanelsas/baredom &quot;1.2.0&quot;]</title>
-    <link>https://clojars.org/com.github.avanelsas/baredom/versions/1.2.0</link>
-    <description>54 native Web Components — stateless, framework-free, zero runtime. Built with ClojureScript, compiled to tree-shakeable ESM.</description>
-    <pubDate>Sun, 5 Apr 2026 19:09:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.datalevin/datalevin-embedded/versions/0.10.15</guid>
-    <title>[org.datalevin/datalevin-embedded &quot;0.10.15&quot;]</title>
-    <link>https://clojars.org/org.datalevin/datalevin-embedded/versions/0.10.15</link>
-    <description>Embedded-only Datalevin runtime with bundled native libraries and remote client support</description>
-    <pubDate>Sun, 5 Apr 2026 18:43:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.datalevin/datalevin-embedded/versions/0.10.14</guid>
-    <title>[org.datalevin/datalevin-embedded &quot;0.10.14&quot;]</title>
-    <link>https://clojars.org/org.datalevin/datalevin-embedded/versions/0.10.14</link>
-    <description>Embedded-only Datalevin runtime with bundled native libraries and remote client support</description>
-    <pubDate>Sun, 5 Apr 2026 17:47:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.missinterpret/flows/versions/1.0.43</guid>
-    <title>[io.github.missinterpret/flows &quot;1.0.43&quot;]</title>
-    <link>https://clojars.org/io.github.missinterpret/flows/versions/1.0.43</link>
-    <description>Workflow framework for Clojure</description>
-    <pubDate>Sun, 5 Apr 2026 15:55:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.pinkgorilla/dali-table/versions/0.7.106</guid>
-    <title>[org.pinkgorilla/dali-table &quot;0.7.106&quot;]</title>
-    <link>https://clojars.org/org.pinkgorilla/dali-table/versions/0.7.106</link>
-    <description></description>
-    <pubDate>Sun, 5 Apr 2026 15:51:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.sorrop/qdolor/versions/0.1.1</guid>
-    <title>[net.clojars.sorrop/qdolor &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/net.clojars.sorrop/qdolor/versions/0.1.1</link>
-    <description>Toolset for queue based execution by concurrent workers</description>
-    <pubDate>Sun, 5 Apr 2026 15:18:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/scicloj/clojisr/versions/1.1.0</guid>
-    <title>[scicloj/clojisr &quot;1.1.0&quot;]</title>
-    <link>https://clojars.org/scicloj/clojisr/versions/1.1.0</link>
-    <description>Clojure &lt;-&gt; R interop</description>
-    <pubDate>Sun, 5 Apr 2026 14:54:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.sorrop/qdolor/versions/0.1.0</guid>
-    <title>[net.clojars.sorrop/qdolor &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.sorrop/qdolor/versions/0.1.0</link>
-    <description>Toolset for queue based execution by concurrent workers</description>
-    <pubDate>Sun, 5 Apr 2026 13:04:32 +0000</pubDate>
   </item>
   </channel>
 </rss>
