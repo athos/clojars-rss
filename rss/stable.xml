@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 16 Apr 2026 00:18:29 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Apr 2026 01:31:28 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/grpc-server/versions/2.13.0</guid>
+    <title>[io.github.protojure/grpc-server &quot;2.13.0&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/grpc-server/versions/2.13.0</link>
+    <description>GRPC server library for protoc-gen-clojure</description>
+    <pubDate>Thu, 16 Apr 2026 00:53:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/grpc-client/versions/2.13.0</guid>
+    <title>[io.github.protojure/grpc-client &quot;2.13.0&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/grpc-client/versions/2.13.0</link>
+    <description>GRPC client library for protoc-gen-clojure</description>
+    <pubDate>Thu, 16 Apr 2026 00:53:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/core/versions/2.13.0</guid>
+    <title>[io.github.protojure/core &quot;2.13.0&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/core/versions/2.13.0</link>
+    <description>Core protobuf and GRPC utilities for protojure</description>
+    <pubDate>Thu, 16 Apr 2026 00:53:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/io/versions/2.13.0</guid>
+    <title>[io.github.protojure/io &quot;2.13.0&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/io/versions/2.13.0</link>
+    <description>IO library to support io.github.protojure/core</description>
+    <pubDate>Thu, 16 Apr 2026 00:53:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/jetty-shaded/versions/2.13.0</guid>
+    <title>[io.github.protojure/jetty-shaded &quot;2.13.0&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/jetty-shaded/versions/2.13.0</link>
+    <description>Shaded Jetty HTTP/2 client dependency for protojure gRPC client</description>
+    <pubDate>Thu, 16 Apr 2026 00:53:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.jj/tassu/versions/1.0.3</guid>
+    <title>[org.clojars.jj/tassu &quot;1.0.3&quot;]</title>
+    <link>https://clojars.org/org.clojars.jj/tassu/versions/1.0.3</link>
+    <description>A routing library for clojure ring</description>
+    <pubDate>Thu, 16 Apr 2026 00:29:16 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.clojars.bzg/mailseq/versions/0.0.8</guid>
     <title>[org.clojars.bzg/mailseq &quot;0.0.8&quot;]</title>
@@ -1754,48 +1796,6 @@
     <link>https://clojars.org/org.clojars.hector/lein-template.webgen/versions/0.3.37</link>
     <description>WebGen/LST Parameter-Driven Web Application Template</description>
     <pubDate>Sun, 12 Apr 2026 21:48:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/trapperkeeper/versions/4.3.3</guid>
-    <title>[org.openvoxproject/trapperkeeper &quot;4.3.3&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/trapperkeeper/versions/4.3.3</link>
-    <description>A framework for configuring, composing, and running Clojure services.</description>
-    <pubDate>Sun, 12 Apr 2026 21:36:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/kitchensink/versions/3.5.6</guid>
-    <title>[org.openvoxproject/kitchensink &quot;3.5.6&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/kitchensink/versions/3.5.6</link>
-    <description>Clojure utility functions</description>
-    <pubDate>Sun, 12 Apr 2026 21:30:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/ssl-utils/versions/3.6.3</guid>
-    <title>[org.openvoxproject/ssl-utils &quot;3.6.3&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/ssl-utils/versions/3.6.3</link>
-    <description>SSL certificate management on the JVM.</description>
-    <pubDate>Sun, 12 Apr 2026 21:27:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/energy.grid-coordination/clj-oa3-vtn/versions/0.1.0</guid>
-    <title>[energy.grid-coordination/clj-oa3-vtn &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/energy.grid-coordination/clj-oa3-vtn/versions/0.1.0</link>
-    <description></description>
-    <pubDate>Sun, 12 Apr 2026 19:23:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/energy.grid-coordination/clj-oa3-client/versions/0.3.0</guid>
-    <title>[energy.grid-coordination/clj-oa3-client &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/energy.grid-coordination/clj-oa3-client/versions/0.3.0</link>
-    <description>OpenADR 3 client with Component lifecycle, mDNS discovery, and MQTT notifications</description>
-    <pubDate>Sun, 12 Apr 2026 19:06:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.timezynk/mongo/versions/0.18.5</guid>
-    <title>[com.timezynk/mongo &quot;0.18.5&quot;]</title>
-    <link>https://clojars.org/com.timezynk/mongo/versions/0.18.5</link>
-    <description>Clojure wrapper for com.mongodb.client Java API.</description>
-    <pubDate>Sun, 12 Apr 2026 19:01:57 +0000</pubDate>
   </item>
   </channel>
 </rss>
