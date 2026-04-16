@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 16 Apr 2026 15:29:16 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Apr 2026 16:28:23 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.timezynk/domus/versions/2.1.17</guid>
+    <title>[com.timezynk/domus &quot;2.1.17&quot;]</title>
+    <link>https://clojars.org/com.timezynk/domus/versions/2.1.17</link>
+    <description>MongoDB utilities</description>
+    <pubDate>Thu, 16 Apr 2026 16:07:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/grpc-server/versions/3.0.0</guid>
+    <title>[io.github.protojure/grpc-server &quot;3.0.0&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/grpc-server/versions/3.0.0</link>
+    <description>GRPC server library for protoc-gen-clojure</description>
+    <pubDate>Thu, 16 Apr 2026 15:48:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/grpc-client/versions/3.0.0</guid>
+    <title>[io.github.protojure/grpc-client &quot;3.0.0&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/grpc-client/versions/3.0.0</link>
+    <description>GRPC client library for protoc-gen-clojure</description>
+    <pubDate>Thu, 16 Apr 2026 15:48:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/core/versions/3.0.0</guid>
+    <title>[io.github.protojure/core &quot;3.0.0&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/core/versions/3.0.0</link>
+    <description>Core protobuf and GRPC utilities for protojure</description>
+    <pubDate>Thu, 16 Apr 2026 15:48:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/io/versions/3.0.0</guid>
+    <title>[io.github.protojure/io &quot;3.0.0&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/io/versions/3.0.0</link>
+    <description>IO library to support io.github.protojure/core</description>
+    <pubDate>Thu, 16 Apr 2026 15:47:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.protojure/jetty-shaded/versions/3.0.0</guid>
+    <title>[io.github.protojure/jetty-shaded &quot;3.0.0&quot;]</title>
+    <link>https://clojars.org/io.github.protojure/jetty-shaded/versions/3.0.0</link>
+    <description>Shaded Jetty HTTP/2 client dependency for protojure gRPC client</description>
+    <pubDate>Thu, 16 Apr 2026 15:47:50 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.timezynk/domus/versions/2.1.16</guid>
     <title>[com.timezynk/domus &quot;2.1.16&quot;]</title>
@@ -1754,48 +1796,6 @@
     <link>https://clojars.org/org.ring-clojure/ring-core-protocols/versions/1.15.4</link>
     <description>Ring core protocols.</description>
     <pubDate>Mon, 13 Apr 2026 13:12:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.pkpkpk/gcp.storage/versions/2.64.1.3</guid>
-    <title>[com.github.pkpkpk/gcp.storage &quot;2.64.1.3&quot;]</title>
-    <link>https://clojars.org/com.github.pkpkpk/gcp.storage/versions/2.64.1.3</link>
-    <description>edn bindings for the google-cloud-storage sdk</description>
-    <pubDate>Mon, 13 Apr 2026 11:27:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.pkpkpk/gcp.bigquery/versions/2.62.0.3</guid>
-    <title>[com.github.pkpkpk/gcp.bigquery &quot;2.62.0.3&quot;]</title>
-    <link>https://clojars.org/com.github.pkpkpk/gcp.bigquery/versions/2.62.0.3</link>
-    <description>edn bindings for the google-cloud-bigquery sdk</description>
-    <pubDate>Mon, 13 Apr 2026 11:27:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.pkpkpk/gcp.global/versions/2026.04.13.072538</guid>
-    <title>[com.github.pkpkpk/gcp.global &quot;2026.04.13.072538&quot;]</title>
-    <link>https://clojars.org/com.github.pkpkpk/gcp.global/versions/2026.04.13.072538</link>
-    <description>global malli registry &amp; utilities for gcp bindings</description>
-    <pubDate>Mon, 13 Apr 2026 11:25:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.1.2</guid>
-    <title>[org.replikativ/raster &quot;0.1.2&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.1.2</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Mon, 13 Apr 2026 10:19:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.timezynk/domus/versions/2.1.10</guid>
-    <title>[com.timezynk/domus &quot;2.1.10&quot;]</title>
-    <link>https://clojars.org/com.timezynk/domus/versions/2.1.10</link>
-    <description>MongoDB utilities</description>
-    <pubDate>Mon, 13 Apr 2026 10:07:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/spel/versions/0.9.1</guid>
-    <title>[com.blockether/spel &quot;0.9.1&quot;]</title>
-    <link>https://clojars.org/com.blockether/spel/versions/0.9.1</link>
-    <description>Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen</description>
-    <pubDate>Mon, 13 Apr 2026 09:06:37 +0000</pubDate>
   </item>
   </channel>
 </rss>

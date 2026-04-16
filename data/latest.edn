@@ -1,10 +1,3 @@
-{:created 1776086082320, :description "Ring development and debugging libraries.", :group_name "ring", :jar_name "ring-devel", :version "1.15.4"}
-{:created 1776086122667, :description "Ring servlet utilities.", :group_name "ring", :jar_name "ring-servlet", :version "1.15.4"}
-{:created 1776086161097, :description "Ring Jakarta servlet utilities.", :group_name "org.ring-clojure", :jar_name "ring-jakarta-servlet", :version "1.15.4"}
-{:created 1776086245348, :description "Ring Jetty adapter.", :group_name "ring", :jar_name "ring-jetty-adapter", :version "1.15.4"}
-{:created 1776086287539, :description "A Clojure web applications library.", :group_name "ring", :jar_name "ring", :version "1.15.4"}
-{:created 1776087506850, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.9.2"}
-{:created 1776090005956, :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :group_name "org.soulspace.clj", :jar_name "overarch", :version "0.41.0-SNAPSHOT"}
 {:created 1776091383449, :description "Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.", :group_name "org.soulspace.clj", :jar_name "overarch", :version "0.41.0"}
 {:created 1776091838890, :description "JRuby dependencies", :group_name "org.openvoxproject", :jar_name "jruby-deps", :version "9.4.12.1-3"}
 {:created 1776092793798, :description "A library for working with JRuby", :group_name "org.openvoxproject", :jar_name "jruby-utils", :version "5.3.7"}
@@ -214,8 +207,6 @@
 {:created 1776272356183, :description "An extensible Clojure DSL for cl-format, inspired by Hiccup. Drop-in compatibility. The power of FORMAT made easy.", :group_name "com.github.danlentz", :jar_name "clj-format", :version "0.1.2"}
 {:created 1776272612298, :description nil, :group_name "io.github.mlimotte", :jar_name "gsheetplus", :version "1.1.2"}
 {:created 1776274673844, :description "A library for building full-stack SPA webapps in Clojure and Clojurescript", :group_name "com.fulcrologic", :jar_name "fulcro", :version "3.9.5"}
-{:created 1776276981375, :description "Atlas: semantic registry for expressive systems", :group_name "io.github.semantic-namespace", :jar_name "atlas", :version "0.1.6-SNAPSHOT"}
-{:created 1776276996085, :description "Atlas dev tools: source tracking, git history, and dev-time tooling", :group_name "io.github.semantic-namespace", :jar_name "atlas-dev", :version "0.1.6-SNAPSHOT"}
 {:created 1776279389969, :description nil, :group_name "com.github.madhephaestus", :jar_name "manifold3d", :version "v3.4.1-13"}
 {:created 1776291073007, :description "Minimal, read-only Clojure library for fetching and parsing IMAP email", :group_name "org.clojars.bzg", :jar_name "mailseq", :version "0.0.7"}
 {:created 1776291740764, :description "Minimal, read-only Clojure library for fetching and parsing IMAP email", :group_name "org.clojars.bzg", :jar_name "mailseq", :version "0.0.8"}
@@ -254,3 +245,12 @@
 {:created 1776350387669, :description nil, :group_name "io.github.kit-clj", :jar_name "lein-template", :version "0.1.88"}
 {:created 1776352064367, :description "WebGen/LST Parameter-Driven Web Application Template", :group_name "org.clojars.hector", :jar_name "lein-template.webgen", :version "0.3.45"}
 {:created 1776352428438, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.1.16"}
+{:created 1776353515828, :description "Atlas: semantic registry for expressive systems", :group_name "io.github.semantic-namespace", :jar_name "atlas", :version "0.1.6-SNAPSHOT"}
+{:created 1776353530592, :description "Atlas dev tools: source tracking, git history, and dev-time tooling", :group_name "io.github.semantic-namespace", :jar_name "atlas-dev", :version "0.1.6-SNAPSHOT"}
+{:created 1776354165012, :description "Objects for smart comparison in tests.", :group_name "com.github.igrishaev", :jar_name "any", :version "0.1.2-SNAPSHOT"}
+{:created 1776354470735, :description "Shaded Jetty HTTP/2 client dependency for protojure gRPC client", :group_name "io.github.protojure", :jar_name "jetty-shaded", :version "3.0.0"}
+{:created 1776354478935, :description "IO library to support io.github.protojure/core", :group_name "io.github.protojure", :jar_name "io", :version "3.0.0"}
+{:created 1776354484440, :description "Core protobuf and GRPC utilities for protojure", :group_name "io.github.protojure", :jar_name "core", :version "3.0.0"}
+{:created 1776354489797, :description "GRPC client library for protoc-gen-clojure", :group_name "io.github.protojure", :jar_name "grpc-client", :version "3.0.0"}
+{:created 1776354494499, :description "GRPC server library for protoc-gen-clojure", :group_name "io.github.protojure", :jar_name "grpc-server", :version "3.0.0"}
+{:created 1776355643269, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.1.17"}
