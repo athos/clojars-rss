@@ -4,7 +4,91 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 20 Apr 2026 13:30:35 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Apr 2026 14:31:33 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.clojars.nomicflux/lein-skeptic/versions/0.7.1-SNAPSHOT</guid>
+    <title>[org.clojars.nomicflux/lein-skeptic &quot;0.7.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.nomicflux/lein-skeptic/versions/0.7.1-SNAPSHOT</link>
+    <description>Static type checking for Clojure projects that use Plumatic Schema</description>
+    <pubDate>Mon, 20 Apr 2026 14:14:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.nomicflux/skeptic/versions/0.7.1-SNAPSHOT</guid>
+    <title>[org.clojars.nomicflux/skeptic &quot;0.7.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.nomicflux/skeptic/versions/0.7.1-SNAPSHOT</link>
+    <description>Static type checking for Clojure projects that use Plumatic Schema</description>
+    <pubDate>Mon, 20 Apr 2026 14:14:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.danlentz/clj-xref/versions/0.1.1</guid>
+    <title>[com.github.danlentz/clj-xref &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/com.github.danlentz/clj-xref/versions/0.1.1</link>
+    <description>Cross-reference database for Clojure code</description>
+    <pubDate>Mon, 20 Apr 2026 14:07:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.wbsemple/cljs-mjml/versions/0.1.1</guid>
+    <title>[io.github.wbsemple/cljs-mjml &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/io.github.wbsemple/cljs-mjml/versions/0.1.1</link>
+    <description></description>
+    <pubDate>Mon, 20 Apr 2026 14:04:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/babashka/versions/1.12.219-SNAPSHOT</guid>
+    <title>[babashka &quot;1.12.219-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/babashka/versions/1.12.219-SNAPSHOT</link>
+    <description>babashka</description>
+    <pubDate>Mon, 20 Apr 2026 13:54:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-admin/versions/1.0.1-alpha-13</guid>
+    <title>[org.boundary-app/boundary-admin &quot;1.0.1-alpha-13&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-admin/versions/1.0.1-alpha-13</link>
+    <description>Admin interface library for Boundary framework: auto-CRUD, schema introspection</description>
+    <pubDate>Mon, 20 Apr 2026 13:35:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-ui-style/versions/1.0.1-alpha-13</guid>
+    <title>[org.boundary-app/boundary-ui-style &quot;1.0.1-alpha-13&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-ui-style/versions/1.0.1-alpha-13</link>
+    <description>Shared UI style library for Boundary framework: CSS/JS bundles and assets</description>
+    <pubDate>Mon, 20 Apr 2026 13:34:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-ai/versions/1.0.1-alpha-13</guid>
+    <title>[org.boundary-app/boundary-ai &quot;1.0.1-alpha-13&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-ai/versions/1.0.1-alpha-13</link>
+    <description>Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama</description>
+    <pubDate>Mon, 20 Apr 2026 13:33:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-13</guid>
+    <title>[org.boundary-app/boundary-calendar &quot;1.0.1-alpha-13&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-13</link>
+    <description>Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components</description>
+    <pubDate>Mon, 20 Apr 2026 13:32:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-13</guid>
+    <title>[org.boundary-app/boundary-reports &quot;1.0.1-alpha-13&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-13</link>
+    <description>PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module</description>
+    <pubDate>Mon, 20 Apr 2026 13:32:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-13</guid>
+    <title>[org.boundary-app/boundary-geo &quot;1.0.1-alpha-13&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-13</link>
+    <description>Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation</description>
+    <pubDate>Mon, 20 Apr 2026 13:31:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-13</guid>
+    <title>[org.boundary-app/boundary-payments &quot;1.0.1-alpha-13&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-13</link>
+    <description>PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
+    <pubDate>Mon, 20 Apr 2026 13:30:47 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-13</guid>
     <title>[org.boundary-app/boundary-external &quot;1.0.1-alpha-13&quot;]</title>
@@ -207,20 +291,6 @@
     <link>https://clojars.org/ai.intergraph/lein-template.players/versions/0.1.0-SNAPSHOT</link>
     <description>Leiningen template — scaffolds a new Intergraph player agent</description>
     <pubDate>Mon, 20 Apr 2026 04:03:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.nomicflux/lein-skeptic/versions/0.7.1-SNAPSHOT</guid>
-    <title>[org.clojars.nomicflux/lein-skeptic &quot;0.7.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.nomicflux/lein-skeptic/versions/0.7.1-SNAPSHOT</link>
-    <description>Static type checking for Clojure projects that use Plumatic Schema</description>
-    <pubDate>Mon, 20 Apr 2026 03:44:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.nomicflux/skeptic/versions/0.7.1-SNAPSHOT</guid>
-    <title>[org.clojars.nomicflux/skeptic &quot;0.7.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.nomicflux/skeptic/versions/0.7.1-SNAPSHOT</link>
-    <description>Static type checking for Clojure projects that use Plumatic Schema</description>
-    <pubDate>Mon, 20 Apr 2026 03:43:59 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.factorhouse/slipway-jetty12/versions/2.0.0-rc3</guid>
@@ -1727,76 +1797,6 @@
     <link>https://clojars.org/com.alpha-prosoft/edd-core-import/versions/1.1049</link>
     <description></description>
     <pubDate>Wed, 15 Apr 2026 06:47:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-core-dev/versions/1.1049</guid>
-    <title>[com.alpha-prosoft/edd-core-dev &quot;1.1049&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-core-dev/versions/1.1049</link>
-    <description></description>
-    <pubDate>Wed, 15 Apr 2026 06:47:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-core-clj/versions/1.1049</guid>
-    <title>[com.alpha-prosoft/edd-core-clj &quot;1.1049&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-core-clj/versions/1.1049</link>
-    <description></description>
-    <pubDate>Wed, 15 Apr 2026 06:47:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-core-client/versions/1.1049</guid>
-    <title>[com.alpha-prosoft/edd-core-client &quot;1.1049&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-core-client/versions/1.1049</link>
-    <description></description>
-    <pubDate>Wed, 15 Apr 2026 06:46:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-core-aws-emf/versions/1.1049</guid>
-    <title>[com.alpha-prosoft/edd-core-aws-emf &quot;1.1049&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-core-aws-emf/versions/1.1049</link>
-    <description></description>
-    <pubDate>Wed, 15 Apr 2026 06:46:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-core/versions/1.1049</guid>
-    <title>[com.alpha-prosoft/edd-core &quot;1.1049&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-core/versions/1.1049</link>
-    <description></description>
-    <pubDate>Wed, 15 Apr 2026 06:46:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.sagevisuals/see-sharp/versions/0</guid>
-    <title>[com.sagevisuals/see-sharp &quot;0&quot;]</title>
-    <link>https://clojars.org/com.sagevisuals/see-sharp/versions/0</link>
-    <description>A slightly faster implementation of Clojure&#39;s `select-keys`</description>
-    <pubDate>Wed, 15 Apr 2026 06:32:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-java-lambda-runtime/versions/1.1046</guid>
-    <title>[com.alpha-prosoft/edd-java-lambda-runtime &quot;1.1046&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-java-lambda-runtime/versions/1.1046</link>
-    <description></description>
-    <pubDate>Wed, 15 Apr 2026 06:09:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-core-xlsx/versions/1.1046</guid>
-    <title>[com.alpha-prosoft/edd-core-xlsx &quot;1.1046&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-core-xlsx/versions/1.1046</link>
-    <description></description>
-    <pubDate>Wed, 15 Apr 2026 06:09:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-core-view-store-postgres/versions/1.1046</guid>
-    <title>[com.alpha-prosoft/edd-core-view-store-postgres &quot;1.1046&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-core-view-store-postgres/versions/1.1046</link>
-    <description></description>
-    <pubDate>Wed, 15 Apr 2026 06:09:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-core-parquet/versions/1.1046</guid>
-    <title>[com.alpha-prosoft/edd-core-parquet &quot;1.1046&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-core-parquet/versions/1.1046</link>
-    <description></description>
-    <pubDate>Wed, 15 Apr 2026 06:08:57 +0000</pubDate>
   </item>
   </channel>
 </rss>
