@@ -1,22 +1,3 @@
-{:created 1776628135981, :description "", :group_name "org.openvoxproject", :jar_name "ring-middleware", :version "2.1.6"}
-{:created 1776629756363, :description "Trapperkeeper authorization system", :group_name "org.openvoxproject", :jar_name "trapperkeeper-authorization", :version "2.1.8"}
-{:created 1776631632830, :description "Terminal UI library for Clojure", :group_name "de.timokramer", :jar_name "charm.clj", :version "0.2.71"}
-{:created 1776632174500, :description "ClojureScript bindings for the Claude Agent SDK.", :group_name "io.github.snits", :jar_name "cljs-claude", :version "0.1.0"}
-{:created 1776635721941, :description nil, :group_name "techascent", :jar_name "tech.io", :version "4.34"}
-{:created 1776638685462, :description "Eboshi is a lightweight Clojure library for managing SQL migrations stored as EDN files and\n                executing them against a relational database. The project provides a migration-runner protocol with MySQL and Postgres implementations using next.jdbc.", :group_name "org.clojars.josemorista", :jar_name "eboshi", :version "1.1.0-SNAPSHOT"}
-{:created 1776642332833, :description "A clojure tool to navigate through your data.", :group_name "djblue", :jar_name "portal", :version "0.64.0"}
-{:created 1776642887375, :description "A Clojure library that identifies file type based on magic numbers.", :group_name "org.clojars.jj", :jar_name "surykatka", :version "1.4.1"}
-{:created 1776643310865, :description "Leiningen template — scaffolds a new Intergraph player agent", :group_name "ai.intergraph", :jar_name "player-agent", :version "0.1.0-SNAPSHOT"}
-{:created 1776643573617, :description "Leiningen template — scaffolds a new Intergraph player agent", :group_name "ai.intergraph", :jar_name "player-agent-template", :version "0.1.0-SNAPSHOT"}
-{:created 1776654501848, :description "Minimal Clojars package for Seedance 2.5 tool page metadata.", :group_name "org.clojars.lisa0802", :jar_name "seedance-2-5", :version "0.1.0"}
-{:created 1776654534020, :description "Minimal Clojars package for Sora 2 tool page metadata.", :group_name "org.clojars.lisa0802", :jar_name "sora-2", :version "0.1.0"}
-{:created 1776655547333, :description "Minimal Clojars package for Seedance2AI AI video generator site metadata.", :group_name "org.clojars.lisa0802", :jar_name "seedance2ai-app", :version "0.1.0"}
-{:created 1776656380711, :description "A Clojure Companion for Jetty 12", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.0.0-rc3"}
-{:created 1776657819665, :description "Leiningen template — scaffolds a new Intergraph player agent", :group_name "ai.intergraph", :jar_name "lein-template.players", :version "0.1.0-SNAPSHOT"}
-{:created 1776659031763, :description "Clojure data manipulation DSL built on tech.ml.dataset", :group_name "com.github.clojure-finance", :jar_name "datajure", :version "2.0.9"}
-{:created 1776659789243, :description "Minimal Clojars package for Trellis 2 AI art site metadata.", :group_name "org.clojars.lisa0802", :jar_name "trellis2-art", :version "0.1.0"}
-{:created 1776659818803, :description "Minimal Clojars package for Trellis 3 AI art site metadata.", :group_name "org.clojars.lisa0802", :jar_name "trellis3-com", :version "0.1.0"}
-{:created 1776662166344, :description "Kubernetes Client API Library", :group_name "com.rtcritical", :jar_name "kubernetes-api", :version "1.16.0"}
 {:created 1776671824027, :description nil, :group_name "com.github.sikt-no", :jar_name "clj-jwt", :version "0.5.109"}
 {:created 1776673187855, :description "Recursively compare Clojure or ClojureScript data structures, and produce a colorized diff of the result.", :group_name "lambdaisland", :jar_name "deep-diff2", :version "2.14.235"}
 {:created 1776673731109, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.3.3"}
@@ -254,3 +235,22 @@
 {:created 1777173513829, :description "A tiny Clojure agent that treats vars as tools and exposes them directly inside an SCI runtime.", :group_name "io.github.pfeodrippe", :jar_name "repling-agent", :version "0.6.0"}
 {:created 1777179062945, :description nil, :group_name "energy.grid-coordination", :jar_name "clj-urpx", :version "0.1.0"}
 {:created 1777190560804, :description "Declarative data fetching and caching for re-frame, inspired by TanStack Query and RTK Query", :group_name "com.shipclojure", :jar_name "re-frame-query", :version "0.8.0"}
+{:created 1777197711477, :description "Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "org.boundary-app", :jar_name "boundary-tools", :version "1.0.1-alpha-14"}
+{:created 1777197751658, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-14"}
+{:created 1777197791946, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-14"}
+{:created 1777197833020, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-14"}
+{:created 1777197873347, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-14"}
+{:created 1777197914592, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-14"}
+{:created 1777197954890, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-14"}
+{:created 1777197994373, :description "Code generation library for Boundary framework: module scaffolding", :group_name "org.boundary-app", :jar_name "boundary-scaffolder", :version "1.0.1-alpha-14"}
+{:created 1777198034053, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-14"}
+{:created 1777198073555, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-14"}
+{:created 1777198113323, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-14"}
+{:created 1777198153180, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-14"}
+{:created 1777198193328, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-14"}
+{:created 1777198233310, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-14"}
+{:created 1777198273196, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-14"}
+{:created 1777198312783, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-14"}
+{:created 1777198352646, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-14"}
+{:created 1777198392056, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-14"}
+{:created 1777198431861, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-14"}
