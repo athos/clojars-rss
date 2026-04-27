@@ -4,7 +4,35 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 27 Apr 2026 11:30:55 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Apr 2026 12:26:17 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/svar/versions/0.3.11</guid>
+    <title>[com.blockether/svar &quot;0.3.11&quot;]</title>
+    <link>https://clojars.org/com.blockether/svar/versions/0.3.11</link>
+    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
+    <pubDate>Mon, 27 Apr 2026 12:03:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.1</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.1&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.1</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream cuts a release containing #625.</description>
+    <pubDate>Mon, 27 Apr 2026 12:02:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.nomicflux/lein-skeptic/versions/0.8.0-SNAPSHOT</guid>
+    <title>[org.clojars.nomicflux/lein-skeptic &quot;0.8.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.nomicflux/lein-skeptic/versions/0.8.0-SNAPSHOT</link>
+    <description>Static type checking for Clojure projects that use Plumatic Schema</description>
+    <pubDate>Mon, 27 Apr 2026 11:42:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.nomicflux/skeptic/versions/0.8.0-SNAPSHOT</guid>
+    <title>[org.clojars.nomicflux/skeptic &quot;0.8.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.nomicflux/skeptic/versions/0.8.0-SNAPSHOT</link>
+    <description>Static type checking for Clojure projects that use Plumatic Schema</description>
+    <pubDate>Mon, 27 Apr 2026 11:42:24 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.semantic-namespace/atlas/versions/0.1.8-SNAPSHOT</guid>
     <title>[io.github.semantic-namespace/atlas &quot;0.1.8-SNAPSHOT&quot;]</title>
@@ -529,20 +557,6 @@
     <link>https://clojars.org/org.openvoxproject/trapperkeeper-status/versions/1.3.5</link>
     <description>A trapperkeeper service for getting the status of other trapperkeeper services.</description>
     <pubDate>Sat, 25 Apr 2026 18:12:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.nomicflux/lein-skeptic/versions/0.8.0-SNAPSHOT</guid>
-    <title>[org.clojars.nomicflux/lein-skeptic &quot;0.8.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.nomicflux/lein-skeptic/versions/0.8.0-SNAPSHOT</link>
-    <description>Static type checking for Clojure projects that use Plumatic Schema</description>
-    <pubDate>Sat, 25 Apr 2026 18:05:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.nomicflux/skeptic/versions/0.8.0-SNAPSHOT</guid>
-    <title>[org.clojars.nomicflux/skeptic &quot;0.8.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.nomicflux/skeptic/versions/0.8.0-SNAPSHOT</link>
-    <description>Static type checking for Clojure projects that use Plumatic Schema</description>
-    <pubDate>Sat, 25 Apr 2026 18:05:26 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/london.rahul/panini/versions/0.2.0</guid>
@@ -1788,20 +1802,6 @@
     <link>https://clojars.org/org.boundary-app/boundary-ai/versions/1.0.1-alpha-13</link>
     <description>Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama</description>
     <pubDate>Mon, 20 Apr 2026 13:33:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-13</guid>
-    <title>[org.boundary-app/boundary-calendar &quot;1.0.1-alpha-13&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-13</link>
-    <description>Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components</description>
-    <pubDate>Mon, 20 Apr 2026 13:32:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-13</guid>
-    <title>[org.boundary-app/boundary-reports &quot;1.0.1-alpha-13&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-13</link>
-    <description>PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module</description>
-    <pubDate>Mon, 20 Apr 2026 13:32:13 +0000</pubDate>
   </item>
   </channel>
 </rss>
