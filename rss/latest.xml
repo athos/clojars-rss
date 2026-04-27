@@ -4,7 +4,35 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 27 Apr 2026 14:37:40 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Apr 2026 15:31:11 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.3</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.3&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.3</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns) and VS-16 grapheme width (🏷️, ❤️, etc. treated as text-presentation single-column to match real terminal rendering). Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.</description>
+    <pubDate>Mon, 27 Apr 2026 15:30:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.3.0</guid>
+    <title>[energy.grid-coordination/clj-urpx &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.3.0</link>
+    <description></description>
+    <pubDate>Mon, 27 Apr 2026 15:16:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.hugoduncan/psi/versions/0.1.2017</guid>
+    <title>[org.hugoduncan/psi &quot;0.1.2017&quot;]</title>
+    <link>https://clojars.org/org.hugoduncan/psi/versions/0.1.2017</link>
+    <description>Psi — AI coding agent</description>
+    <pubDate>Mon, 27 Apr 2026 15:05:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.supabase-community/auth/versions/0.1.0</guid>
+    <title>[io.github.supabase-community/auth &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/io.github.supabase-community/auth/versions/0.1.0</link>
+    <description></description>
+    <pubDate>Mon, 27 Apr 2026 14:50:58 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.supabase-community/core/versions/0.2.0</guid>
     <title>[io.github.supabase-community/core &quot;0.2.0&quot;]</title>
@@ -1774,34 +1802,6 @@
     <link>https://clojars.org/io.github.pfeodrippe/repling-clj-agent/versions/0.1.0</link>
     <description>A tiny Clojure agent that treats vars as tools and exposes them directly inside an SCI runtime.</description>
     <pubDate>Mon, 20 Apr 2026 17:53:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/djblue/portal/versions/0.64.1</guid>
-    <title>[djblue/portal &quot;0.64.1&quot;]</title>
-    <link>https://clojars.org/djblue/portal/versions/0.64.1</link>
-    <description>A clojure tool to navigate through your data.</description>
-    <pubDate>Mon, 20 Apr 2026 17:33:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.clojure-quant/quanta-market/versions/0.7.200</guid>
-    <title>[io.github.clojure-quant/quanta-market &quot;0.7.200&quot;]</title>
-    <link>https://clojars.org/io.github.clojure-quant/quanta-market/versions/0.7.200</link>
-    <description></description>
-    <pubDate>Mon, 20 Apr 2026 17:11:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.clojure-quant/quanta-missionary/versions/0.1.8</guid>
-    <title>[io.github.clojure-quant/quanta-missionary &quot;0.1.8&quot;]</title>
-    <link>https://clojars.org/io.github.clojure-quant/quanta-missionary/versions/0.1.8</link>
-    <description></description>
-    <pubDate>Mon, 20 Apr 2026 17:05:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.carcdr/oidc-provider/versions/0.7.0</guid>
-    <title>[net.carcdr/oidc-provider &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/net.carcdr/oidc-provider/versions/0.7.0</link>
-    <description></description>
-    <pubDate>Mon, 20 Apr 2026 16:42:51 +0000</pubDate>
   </item>
   </channel>
 </rss>
