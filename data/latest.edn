@@ -1,10 +1,3 @@
-{:created 1776717568223, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.347"}
-{:created 1776717908724, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1672"}
-{:created 1776718799532, :description "Unified copy-on-write memory model protocols for heterogeneous storage systems", :group_name "org.replikativ", :jar_name "yggdrasil", :version "0.2.25"}
-{:created 1776720753146, :description "A library for building CLJC statechart machines.", :group_name "com.fulcrologic", :jar_name "statecharts", :version "1.4.0-RC11-SNAPSHOT"}
-{:created 1776720839089, :description nil, :group_name "com.phronemophobic", :jar_name "llama-clj", :version "0.9.1"}
-{:created 1776720851308, :description nil, :group_name "com.phronemophobic", :jar_name "llama-clj-combined", :version "0.9.1"}
-{:created 1776722198282, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "skeptic", :version "0.7.1-SNAPSHOT"}
 {:created 1776722210001, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "lein-skeptic", :version "0.7.1-SNAPSHOT"}
 {:created 1776722677745, :description nil, :group_name "com.cnuernber", :jar_name "ham-fisted", :version "3.025"}
 {:created 1776722791380, :description nil, :group_name "cnuernber", :jar_name "dtype-next", :version "11.019"}
@@ -249,8 +242,15 @@
 {:created 1777324926756, :description nil, :group_name "net.carcdr", :jar_name "graphql-server", :version "0.1.1"}
 {:created 1777325889655, :description "GitHub Copilot SDK Supercharged for Clojure", :group_name "net.clojars.jeremiahisaacson", :jar_name "copilot-sdk-supercharged", :version "2.0.1"}
 {:created 1777327631055, :description "Crontab parser for Clojure with plain-English cron explanations", :group_name "org.pilosus", :jar_name "kairos", :version "0.2.9999-SNAPSHOT"}
-{:created 1777331130573, :description "Test utility library for limabean and plugins.", :group_name "io.github.tesujimath", :jar_name "limabean-test", :version "0.4.2-SNAPSHOT"}
 {:created 1777333729990, :description nil, :group_name "energy.grid-coordination", :jar_name "clj-urpx", :version "0.4.0"}
 {:created 1777334979942, :description "Clojure client library for the OpenADR 3 API with spec-driven HTTP and entity coercion", :group_name "energy.grid-coordination", :jar_name "clj-oa3", :version "0.2.4"}
 {:created 1777335245304, :description "Injects shadow-cljs.edn with some execution context.", :group_name "day8", :jar_name "shadow-git-inject", :version "0.0.10"}
 {:created 1777335400386, :description "OpenADR 3 client with Component lifecycle, mDNS discovery, and MQTT notifications", :group_name "energy.grid-coordination", :jar_name "clj-oa3-client", :version "0.3.4"}
+{:created 1777335822057, :description nil, :group_name "energy.grid-coordination", :jar_name "clj-oa3-vtn", :version "0.10.0"}
+{:created 1777335931617, :description "A new implementation of Beancount using Rust and Clojure.", :group_name "io.github.tesujimath", :jar_name "limabean", :version "0.4.2-SNAPSHOT"}
+{:created 1777335944654, :description "Test utility library for limabean and plugins.", :group_name "io.github.tesujimath", :jar_name "limabean-test", :version "0.4.2-SNAPSHOT"}
+{:created 1777336032341, :description "Clojure client library for the GridX Pricing API", :group_name "energy.grid-coordination", :jar_name "clj-gridx", :version "0.3.1"}
+{:created 1777336382503, :description nil, :group_name "energy.grid-coordination", :jar_name "clj-sgipsignal", :version "0.2.0"}
+{:created 1777336982336, :description "Clojure client library for the MIDAS API", :group_name "energy.grid-coordination", :jar_name "clj-midas", :version "0.4.0"}
+{:created 1777337384230, :description "Clojure mDNS/DNS-SD service discovery library wrapping jmdns", :group_name "energy.grid-coordination", :jar_name "clj-mdns", :version "0.1.1"}
+{:created 1777338141802, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.2"}
