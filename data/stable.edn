@@ -1,16 +1,3 @@
-{:created 1776717908724, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1672"}
-{:created 1776718799532, :description "Unified copy-on-write memory model protocols for heterogeneous storage systems", :group_name "org.replikativ", :jar_name "yggdrasil", :version "0.2.25"}
-{:created 1776720839089, :description nil, :group_name "com.phronemophobic", :jar_name "llama-clj", :version "0.9.1"}
-{:created 1776720851308, :description nil, :group_name "com.phronemophobic", :jar_name "llama-clj-combined", :version "0.9.1"}
-{:created 1776722677745, :description nil, :group_name "com.cnuernber", :jar_name "ham-fisted", :version "3.025"}
-{:created 1776722791380, :description nil, :group_name "cnuernber", :jar_name "dtype-next", :version "11.019"}
-{:created 1776722893350, :description nil, :group_name "techascent", :jar_name "tech.ml.dataset", :version "8.019"}
-{:created 1776727052421, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-tradingview", :version "0.1.47"}
-{:created 1776729250226, :description nil, :group_name "com.soundhound", :jar_name "clj-oci", :version "1.3.0"}
-{:created 1776741272814, :description "A tiny Clojure agent that treats vars as tools and exposes them directly inside an SCI runtime.", :group_name "io.github.pfeodrippe", :jar_name "repling-clj-agent", :version "0.2.0"}
-{:created 1776742156883, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-tradingview", :version "0.1.49"}
-{:created 1776743719772, :description "Fast serialization library for Clojure", :group_name "com.taoensso", :jar_name "nippy", :version "3.7.0-beta1"}
-{:created 1776748547398, :description "Atlas: semantic registry for expressive systems", :group_name "io.github.semantic-namespace", :jar_name "atlas", :version "0.1.6"}
 {:created 1776748559426, :description "Atlas dev tools: source tracking, git history, and dev-time tooling", :group_name "io.github.semantic-namespace", :jar_name "atlas-dev", :version "0.1.6"}
 {:created 1776748604389, :description "Atlas UI: visual explorer for atlas registries (dev tool)", :group_name "io.github.semantic-namespace", :jar_name "atlas-ui", :version "0.1.6"}
 {:created 1776749970612, :description "Reusable player-agent library for Intergraph games", :group_name "ai.intergraph", :jar_name "game-player", :version "0.1.1"}
@@ -254,3 +241,16 @@
 {:created 1777381847861, :description nil, :group_name "com.yetanalytics", :jar_name "lrs", :version "1.5.0"}
 {:created 1777383378960, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.2.0"}
 {:created 1777390657501, :description nil, :group_name "com.cnuernber", :jar_name "ham-fisted", :version "3.029"}
+{:created 1777391640780, :description nil, :group_name "cnuernber", :jar_name "dtype-next", :version "11.020"}
+{:created 1777391877293, :description nil, :group_name "techascent", :jar_name "tech.ml.dataset", :version "8.020"}
+{:created 1777392540664, :description nil, :group_name "io.pedestal", :jar_name "pedestal.common", :version "0.8.2-beta-5"}
+{:created 1777392547561, :description nil, :group_name "io.pedestal", :jar_name "pedestal.telemetry", :version "0.8.2-beta-5"}
+{:created 1777392555292, :description nil, :group_name "io.pedestal", :jar_name "pedestal.log", :version "0.8.2-beta-5"}
+{:created 1777392562969, :description nil, :group_name "io.pedestal", :jar_name "pedestal.interceptor", :version "0.8.2-beta-5"}
+{:created 1777392571011, :description nil, :group_name "io.pedestal", :jar_name "pedestal.error", :version "0.8.2-beta-5"}
+{:created 1777392578482, :description nil, :group_name "io.pedestal", :jar_name "pedestal.route", :version "0.8.2-beta-5"}
+{:created 1777392585976, :description nil, :group_name "io.pedestal", :jar_name "pedestal.service", :version "0.8.2-beta-5"}
+{:created 1777392593712, :description nil, :group_name "io.pedestal", :jar_name "pedestal.servlet", :version "0.8.2-beta-5"}
+{:created 1777392600692, :description nil, :group_name "io.pedestal", :jar_name "pedestal.jetty", :version "0.8.2-beta-5"}
+{:created 1777392608293, :description nil, :group_name "io.pedestal", :jar_name "pedestal.http-kit", :version "0.8.2-beta-5"}
+{:created 1777392616150, :description nil, :group_name "io.pedestal", :jar_name "pedestal.embedded", :version "0.8.2-beta-5"}
