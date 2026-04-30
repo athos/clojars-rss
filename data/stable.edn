@@ -1,21 +1,3 @@
-{:created 1776957051051, :description "Minimal Clojars package for Veo 4 VO4 AI video generator metadata.", :group_name "org.clojars.lisa0802", :jar_name "veo-4", :version "0.1.1"}
-{:created 1776960269073, :description "Database modeling library for Clojure and MongoDB", :group_name "com.timezynk", :jar_name "domain", :version "4.0.24"}
-{:created 1776962980710, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-web", :version "1.405"}
-{:created 1776962988691, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-web-frame", :version "1.405"}
-{:created 1776962997290, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-web-widgets", :version "1.405"}
-{:created 1776968438194, :description "Clojure library for Stripe API", :group_name "io.github.yonureker", :jar_name "stripe-clojure", :version "2.3.0"}
-{:created 1776972320025, :description "A 2-way SQL toolkit for Clojure.", :group_name "io.github.hatappo", :jar_name "bisql", :version "0.4.0"}
-{:created 1776978446378, :description "Integration testing with composable flows", :group_name "nubank", :jar_name "state-flow", :version "5.20.2-beta.3"}
-{:created 1776983123139, :description "Clojure completion library that you deserve", :group_name "compliment", :jar_name "compliment", :version "0.8.0"}
-{:created 1776987179554, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1673"}
-{:created 1776994485507, :description "Registry asset for VO4 AI with Veo 4 product links, search context, and public Clojars visibility.", :group_name "org.clojars.lisa0802", :jar_name "veo-4", :version "0.1.3"}
-{:created 1776999223365, :description "HTTP transport for pull-based pattern APIs", :group_name "sg.flybot", :jar_name "lasagna-remote", :version "0.1.4"}
-{:created 1777014173138, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.8"}
-{:created 1777015314317, :description "HTTP transport for pull-based pattern APIs", :group_name "sg.flybot", :jar_name "lasagna-remote", :version "0.1.5"}
-{:created 1777015738120, :description "Clojure utility functions", :group_name "org.openvoxproject", :jar_name "kitchensink", :version "3.5.7"}
-{:created 1777016436573, :description "Clojure i18n library", :group_name "org.openvoxproject", :jar_name "i18n", :version "1.0.4"}
-{:created 1777016864229, :description "OpenVox utility functions and compojure-like wrappers for use with the bidi web routing library", :group_name "org.openvoxproject", :jar_name "comidi", :version "1.1.3"}
-{:created 1777017743483, :description "SSL certificate management on the JVM.", :group_name "org.openvoxproject", :jar_name "ssl-utils", :version "3.6.4"}
 {:created 1777018944192, :description "A framework for configuring, composing, and running Clojure services.", :group_name "org.openvoxproject", :jar_name "trapperkeeper", :version "4.3.5"}
 {:created 1777019594515, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.26.6"}
 {:created 1777019684526, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.26.6"}
@@ -254,3 +236,21 @@
 {:created 1777521162293, :description "GitHub Copilot SDK Supercharged for Clojure", :group_name "net.clojars.jeremiahisaacson", :jar_name "copilot-sdk-supercharged", :version "2.0.3"}
 {:created 1777523509755, :description "A new implementation of Beancount using Rust and Clojure.", :group_name "io.github.tesujimath", :jar_name "limabean", :version "0.5.0"}
 {:created 1777523537240, :description "Test utility library for limabean and plugins.", :group_name "io.github.tesujimath", :jar_name "limabean-test", :version "0.5.0"}
+{:created 1777525918709, :description "A supplementary package for limabean which welcomes contributions.", :group_name "io.github.tesujimath", :jar_name "limabean-contrib", :version "0.2.0"}
+{:created 1777526635579, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-web", :version "1.410"}
+{:created 1777526643482, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-web-frame", :version "1.410"}
+{:created 1777526651940, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-web-widgets", :version "1.410"}
+{:created 1777527076197, :description "GitHub Copilot SDK Supercharged for Clojure", :group_name "net.clojars.jeremiahisaacson", :jar_name "copilot-sdk-supercharged", :version "2.0.4"}
+{:created 1777527147651, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core", :version "1.1064"}
+{:created 1777527156347, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-aws-emf", :version "1.1064"}
+{:created 1777527164721, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-client", :version "1.1064"}
+{:created 1777527172805, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-clj", :version "1.1064"}
+{:created 1777527181601, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-dev", :version "1.1064"}
+{:created 1777527190172, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-import", :version "1.1064"}
+{:created 1777527198475, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-io", :version "1.1064"}
+{:created 1777527206882, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-json", :version "1.1064"}
+{:created 1777527215638, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-nippy", :version "1.1064"}
+{:created 1777527224248, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-parquet", :version "1.1064"}
+{:created 1777527232841, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-view-store-postgres", :version "1.1064"}
+{:created 1777527241349, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-xlsx", :version "1.1064"}
+{:created 1777527249780, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-java-lambda-runtime", :version "1.1064"}
