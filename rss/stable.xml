@@ -4,7 +4,140 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 1 May 2026 17:19:22 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 1 May 2026 18:18:37 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-payments &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-20</link>
+    <description>PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
+    <pubDate>Fri, 1 May 2026 18:18:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-external &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-20</link>
+    <description>External service adapters library for Boundary framework</description>
+    <pubDate>Fri, 1 May 2026 18:17:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-search &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-20</link>
+    <description>Full-text search library for Boundary framework</description>
+    <pubDate>Fri, 1 May 2026 18:16:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-workflow &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-20</link>
+    <description>Workflow orchestration library for Boundary framework</description>
+    <pubDate>Fri, 1 May 2026 18:16:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-tenant &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-20</link>
+    <description>Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning</description>
+    <pubDate>Fri, 1 May 2026 18:15:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-email &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-20</link>
+    <description>Email sending library for Boundary framework: SMTP support, composition, validation</description>
+    <pubDate>Fri, 1 May 2026 18:14:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-realtime &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-20</link>
+    <description>Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication</description>
+    <pubDate>Fri, 1 May 2026 18:14:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-jobs &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.1-alpha-20</link>
+    <description>Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters</description>
+    <pubDate>Fri, 1 May 2026 18:13:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-cache/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-cache &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-cache/versions/1.0.1-alpha-20</link>
+    <description>Cache library for Boundary framework: in-memory and Redis cache adapters</description>
+    <pubDate>Fri, 1 May 2026 18:12:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-scaffolder/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-scaffolder &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-scaffolder/versions/1.0.1-alpha-20</link>
+    <description>Code generation library for Boundary framework: module scaffolding</description>
+    <pubDate>Fri, 1 May 2026 18:12:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-storage &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.1-alpha-20</link>
+    <description>Storage library for Boundary framework: local filesystem and S3 adapters</description>
+    <pubDate>Fri, 1 May 2026 18:11:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-user &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.1-alpha-20</link>
+    <description>User management library for Boundary framework: authentication, sessions, MFA</description>
+    <pubDate>Fri, 1 May 2026 18:10:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-i18n/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-i18n &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-i18n/versions/1.0.1-alpha-20</link>
+    <description>Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management</description>
+    <pubDate>Fri, 1 May 2026 18:10:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-platform &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.1-alpha-20</link>
+    <description>Platform library for Boundary framework: database, HTTP, configuration, modules</description>
+    <pubDate>Fri, 1 May 2026 18:09:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-observability &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.1-alpha-20</link>
+    <description>Observability library for Boundary framework: logging, metrics, error reporting</description>
+    <pubDate>Fri, 1 May 2026 18:08:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-core/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-core &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-core/versions/1.0.1-alpha-20</link>
+    <description>Foundation library for Boundary framework: validation, utilities, interceptors</description>
+    <pubDate>Fri, 1 May 2026 18:08:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-20</guid>
+    <title>[org.boundary-app/boundary-tools &quot;1.0.1-alpha-20&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-20</link>
+    <description>Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities</description>
+    <pubDate>Fri, 1 May 2026 18:07:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.mbjarland/clj-ant/versions/1.0.0-alpha.5</guid>
+    <title>[io.github.mbjarland/clj-ant &quot;1.0.0-alpha.5&quot;]</title>
+    <link>https://clojars.org/io.github.mbjarland/clj-ant/versions/1.0.0-alpha.5</link>
+    <description>Apache Ant&#39;s task ecosystem, fluent from Clojure.</description>
+    <pubDate>Fri, 1 May 2026 18:06:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.gateless/futurama/versions/1.4.3</guid>
+    <title>[com.github.gateless/futurama &quot;1.4.3&quot;]</title>
+    <link>https://clojars.org/com.github.gateless/futurama/versions/1.4.3</link>
+    <description></description>
+    <pubDate>Fri, 1 May 2026 17:38:15 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/me.fogus/lexical-chocolate/versions/0.0.4</guid>
     <title>[me.fogus/lexical-chocolate &quot;0.0.4&quot;]</title>
@@ -1666,139 +1799,6 @@
     <link>https://clojars.org/com.blockether/svar/versions/0.3.10</link>
     <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
     <pubDate>Sun, 26 Apr 2026 00:10:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/energy.grid-coordination/clj-oa3-vtn/versions/0.8.5</guid>
-    <title>[energy.grid-coordination/clj-oa3-vtn &quot;0.8.5&quot;]</title>
-    <link>https://clojars.org/energy.grid-coordination/clj-oa3-vtn/versions/0.8.5</link>
-    <description></description>
-    <pubDate>Sat, 25 Apr 2026 22:09:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/generateme/fastmath/versions/3.0.0-alpha6</guid>
-    <title>[generateme/fastmath &quot;3.0.0-alpha6&quot;]</title>
-    <link>https://clojars.org/generateme/fastmath/versions/3.0.0-alpha6</link>
-    <description>Fast and primitive math library</description>
-    <pubDate>Sat, 25 Apr 2026 21:37:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/london.rahul/akar/versions/6.0.0</guid>
-    <title>[london.rahul/akar &quot;6.0.0&quot;]</title>
-    <link>https://clojars.org/london.rahul/akar/versions/6.0.0</link>
-    <description>First-class patterns for Clojure</description>
-    <pubDate>Sat, 25 Apr 2026 20:55:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/london.rahul/akar-exceptions/versions/6.0.0</guid>
-    <title>[london.rahul/akar-exceptions &quot;6.0.0&quot;]</title>
-    <link>https://clojars.org/london.rahul/akar-exceptions/versions/6.0.0</link>
-    <description>First-class patterns for Clojure – Exception handling</description>
-    <pubDate>Sat, 25 Apr 2026 20:55:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/london.rahul/akar-core/versions/6.0.0</guid>
-    <title>[london.rahul/akar-core &quot;6.0.0&quot;]</title>
-    <link>https://clojars.org/london.rahul/akar-core/versions/6.0.0</link>
-    <description>First-class patterns for Clojure – Core framework</description>
-    <pubDate>Sat, 25 Apr 2026 20:54:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/london.rahul/akar-commons/versions/6.0.0</guid>
-    <title>[london.rahul/akar-commons &quot;6.0.0&quot;]</title>
-    <link>https://clojars.org/london.rahul/akar-commons/versions/6.0.0</link>
-    <description>A bag of common utility functions used by Akar projects</description>
-    <pubDate>Sat, 25 Apr 2026 20:54:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.ericdallo/clj4intellij/versions/0.9.0</guid>
-    <title>[com.github.ericdallo/clj4intellij &quot;0.9.0&quot;]</title>
-    <link>https://clojars.org/com.github.ericdallo/clj4intellij/versions/0.9.0</link>
-    <description></description>
-    <pubDate>Sat, 25 Apr 2026 20:41:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/london.rahul/panini/versions/1.0.0</guid>
-    <title>[london.rahul/panini &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/london.rahul/panini/versions/1.0.0</link>
-    <description>Define Clojure macro syntax with clojure.spec.alpha.</description>
-    <pubDate>Sat, 25 Apr 2026 20:32:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/london.rahul/panini/versions/0.4.0</guid>
-    <title>[london.rahul/panini &quot;0.4.0&quot;]</title>
-    <link>https://clojars.org/london.rahul/panini/versions/0.4.0</link>
-    <description>Define Clojure macro syntax with clojure.spec.alpha.</description>
-    <pubDate>Sat, 25 Apr 2026 19:44:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/london.rahul/akar/versions/5.0.0</guid>
-    <title>[london.rahul/akar &quot;5.0.0&quot;]</title>
-    <link>https://clojars.org/london.rahul/akar/versions/5.0.0</link>
-    <description>First-class patterns for Clojure</description>
-    <pubDate>Sat, 25 Apr 2026 19:09:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/london.rahul/akar-exceptions/versions/5.0.0</guid>
-    <title>[london.rahul/akar-exceptions &quot;5.0.0&quot;]</title>
-    <link>https://clojars.org/london.rahul/akar-exceptions/versions/5.0.0</link>
-    <description>First-class patterns for Clojure – Exception handling</description>
-    <pubDate>Sat, 25 Apr 2026 19:09:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/london.rahul/akar-core/versions/5.0.0</guid>
-    <title>[london.rahul/akar-core &quot;5.0.0&quot;]</title>
-    <link>https://clojars.org/london.rahul/akar-core/versions/5.0.0</link>
-    <description>First-class patterns for Clojure – Core framework</description>
-    <pubDate>Sat, 25 Apr 2026 19:08:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/london.rahul/akar-commons/versions/5.0.0</guid>
-    <title>[london.rahul/akar-commons &quot;5.0.0&quot;]</title>
-    <link>https://clojars.org/london.rahul/akar-commons/versions/5.0.0</link>
-    <description>A bag of common utility functions used by Akar projects</description>
-    <pubDate>Sat, 25 Apr 2026 19:08:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1675</guid>
-    <title>[org.replikativ/datahike &quot;0.8.1675&quot;]</title>
-    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1675</link>
-    <description>A durable datalog implementation adaptable for distribution.</description>
-    <pubDate>Sat, 25 Apr 2026 19:05:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/london.rahul/panini/versions/0.3.0</guid>
-    <title>[london.rahul/panini &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/london.rahul/panini/versions/0.3.0</link>
-    <description>Define Clojure macro syntax with clojure.spec.alpha.</description>
-    <pubDate>Sat, 25 Apr 2026 18:46:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.madhephaestus/manifold3d/versions/v3.4.1-15</guid>
-    <title>[com.github.madhephaestus/manifold3d &quot;v3.4.1-15&quot;]</title>
-    <link>https://clojars.org/com.github.madhephaestus/manifold3d/versions/v3.4.1-15</link>
-    <description></description>
-    <pubDate>Sat, 25 Apr 2026 18:38:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/trapperkeeper-metrics/versions/2.1.11</guid>
-    <title>[org.openvoxproject/trapperkeeper-metrics &quot;2.1.11&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/trapperkeeper-metrics/versions/2.1.11</link>
-    <description>Trapperkeeper Metrics Service</description>
-    <pubDate>Sat, 25 Apr 2026 18:21:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/ring-middleware/versions/2.1.8</guid>
-    <title>[org.openvoxproject/ring-middleware &quot;2.1.8&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/ring-middleware/versions/2.1.8</link>
-    <description></description>
-    <pubDate>Sat, 25 Apr 2026 18:20:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/http-client/versions/2.2.8</guid>
-    <title>[org.openvoxproject/http-client &quot;2.2.8&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/http-client/versions/2.2.8</link>
-    <description>HTTP client wrapper</description>
-    <pubDate>Sat, 25 Apr 2026 18:18:41 +0000</pubDate>
   </item>
   </channel>
 </rss>
