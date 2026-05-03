@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 3 May 2026 19:20:38 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 3 May 2026 20:10:12 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.clojars.nomicflux/lein-skeptic/versions/0.8.0</guid>
+    <title>[org.clojars.nomicflux/lein-skeptic &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/org.clojars.nomicflux/lein-skeptic/versions/0.8.0</link>
+    <description>Static type checking for Clojure projects that use Plumatic Schema</description>
+    <pubDate>Sun, 3 May 2026 20:09:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.nomicflux/skeptic/versions/0.8.0</guid>
+    <title>[org.clojars.nomicflux/skeptic &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/org.clojars.nomicflux/skeptic/versions/0.8.0</link>
+    <description>Static type checking for Clojure projects that use Plumatic Schema</description>
+    <pubDate>Sun, 3 May 2026 20:09:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.5.0</guid>
+    <title>[energy.grid-coordination/clj-urpx &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.5.0</link>
+    <description></description>
+    <pubDate>Sun, 3 May 2026 19:59:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/energy.grid-coordination/clj-sgipsignal/versions/0.3.0</guid>
+    <title>[energy.grid-coordination/clj-sgipsignal &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/energy.grid-coordination/clj-sgipsignal/versions/0.3.0</link>
+    <description></description>
+    <pubDate>Sun, 3 May 2026 19:42:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/svar/versions/0.4.2</guid>
+    <title>[com.blockether/svar &quot;0.4.2&quot;]</title>
+    <link>https://clojars.org/com.blockether/svar/versions/0.4.2</link>
+    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
+    <pubDate>Sun, 3 May 2026 19:35:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/energy.grid-coordination/clj-gridx/versions/0.4.1</guid>
+    <title>[energy.grid-coordination/clj-gridx &quot;0.4.1&quot;]</title>
+    <link>https://clojars.org/energy.grid-coordination/clj-gridx/versions/0.4.1</link>
+    <description>Clojure client library for the GridX Pricing API</description>
+    <pubDate>Sun, 3 May 2026 19:26:25 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/energy.grid-coordination/clj-gridx/versions/0.4.0</guid>
     <title>[energy.grid-coordination/clj-gridx &quot;0.4.0&quot;]</title>
@@ -1757,48 +1799,6 @@
     <link>https://clojars.org/io.github.clojure-quant/quanta-indicator-math/versions/0.6.12</link>
     <description></description>
     <pubDate>Mon, 27 Apr 2026 17:41:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.avanelsas/baredom/versions/2.4.0</guid>
-    <title>[com.github.avanelsas/baredom &quot;2.4.0&quot;]</title>
-    <link>https://clojars.org/com.github.avanelsas/baredom/versions/2.4.0</link>
-    <description>80 native Web Components with centralised theming — stateless, framework-free, zero runtime. Built with ClojureScript, compiled to tree-shakeable ESM.</description>
-    <pubDate>Mon, 27 Apr 2026 16:04:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.3</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.3&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.3</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns) and VS-16 grapheme width (🏷️, ❤️, etc. treated as text-presentation single-column to match real terminal rendering). Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.</description>
-    <pubDate>Mon, 27 Apr 2026 15:30:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.3.0</guid>
-    <title>[energy.grid-coordination/clj-urpx &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.3.0</link>
-    <description></description>
-    <pubDate>Mon, 27 Apr 2026 15:16:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.hugoduncan/psi/versions/0.1.2017</guid>
-    <title>[org.hugoduncan/psi &quot;0.1.2017&quot;]</title>
-    <link>https://clojars.org/org.hugoduncan/psi/versions/0.1.2017</link>
-    <description>Psi — AI coding agent</description>
-    <pubDate>Mon, 27 Apr 2026 15:05:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.supabase-community/auth/versions/0.1.0</guid>
-    <title>[io.github.supabase-community/auth &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/io.github.supabase-community/auth/versions/0.1.0</link>
-    <description></description>
-    <pubDate>Mon, 27 Apr 2026 14:50:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.supabase-community/core/versions/0.2.0</guid>
-    <title>[io.github.supabase-community/core &quot;0.2.0&quot;]</title>
-    <link>https://clojars.org/io.github.supabase-community/core/versions/0.2.0</link>
-    <description></description>
-    <pubDate>Mon, 27 Apr 2026 14:32:34 +0000</pubDate>
   </item>
   </channel>
 </rss>
