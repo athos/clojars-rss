@@ -1,4 +1,3 @@
-{:created 1777296684394, :description "Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a Blockether-original fix for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. now correctly counted as two terminal columns). Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships an equivalent fix.", :group_name "com.blockether", :jar_name "lanterna", :version "3.1.5-vis.2"}
 {:created 1777299153288, :description "Psi — AI coding agent", :group_name "org.hugoduncan", :jar_name "psi", :version "0.1.2013"}
 {:created 1777300354490, :description nil, :group_name "io.github.supabase-community", :jar_name "core", :version "0.2.0"}
 {:created 1777301458142, :description nil, :group_name "io.github.supabase-community", :jar_name "auth", :version "0.1.0"}
@@ -254,3 +253,4 @@
 {:created 1777823083765, :description "A Clojure library for using SSH in Clojure that is API compatible with bbssh", :group_name "io.epiccastle", :jar_name "clojuressh", :version "0.0.0-SNAPSHOT"}
 {:created 1777825299094, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "skeptic", :version "0.8.0-SNAPSHOT"}
 {:created 1777825310997, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "lein-skeptic", :version "0.8.0-SNAPSHOT"}
+{:created 1777831149339, :description "Machine learning functions for tech.ml.dataset", :group_name "org.scicloj", :jar_name "metamorph.ml", :version "1.5.1"}
