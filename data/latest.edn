@@ -1,7 +1,3 @@
-{:created 1777625167840, :description "Pre-built knowledge artifact (embeddings index + curated baseline) for\n    Manetu PolicyEngine LLM tooling.  The JAR bundles the static files under\n    knowledge/ so they can be fetched as a Maven dependency and embedded in\n    agent deployments without requiring a Python runtime at runtime.", :group_name "io.github.manetu", :jar_name "mpe-knowledge", :version "1.3.6"}
-{:created 1777641991530, :description "Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "org.boundary-app", :jar_name "boundary-tools", :version "1.0.1-alpha-15"}
-{:created 1777642031883, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-15"}
-{:created 1777642072265, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-15"}
 {:created 1777642113916, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-15"}
 {:created 1777642154333, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-15"}
 {:created 1777642194997, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-15"}
@@ -254,3 +250,7 @@
 {:created 1778080815342, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "skeptic", :version "0.8.2-SNAPSHOT"}
 {:created 1778080827767, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "lein-skeptic", :version "0.8.2-SNAPSHOT"}
 {:created 1778087942133, :description "Library for abstracting data storage from business logic", :group_name "stowaway", :jar_name "stowaway", :version "0.2.13"}
+{:created 1778091079035, :description "embedded, immutable, history-aware datalog database", :group_name "in.a6n.miladb", :jar_name "zero", :version "0.112"}
+{:created 1778091235945, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "wire-core", :version "4.0.1"}
+{:created 1778091241949, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "wire", :version "4.0.1"}
+{:created 1778091911441, :description "pre-define protocol implementations", :group_name "party.donut", :jar_name "protocol-implementation", :version "1.0.14"}
