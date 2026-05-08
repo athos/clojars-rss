@@ -1,5 +1,3 @@
-{:created 1777642515920, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-15"}
-{:created 1777642556223, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-15"}
 {:created 1777642596619, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-15"}
 {:created 1777642636523, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-15"}
 {:created 1777642676246, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-15"}
@@ -254,3 +252,5 @@
 {:created 1778246355222, :description nil, :group_name "io.github.kit-clj", :jar_name "lein-template", :version "0.1.90"}
 {:created 1778247822744, :description nil, :group_name "uk.me.oli", :jar_name "clojure-dap", :version "0.1.323"}
 {:created 1778252427328, :description "An eclectic set of Clojure utilities that I've found useful enough to keep around.", :group_name "me.fogus", :jar_name "thneed", :version "1.1.9"}
+{:created 1778254760141, :description "A framework for configuring, composing, and running Clojure services.", :group_name "org.openvoxproject", :jar_name "trapperkeeper", :version "5.0.0"}
+{:created 1778257334207, :description "Simple Clojure REPL seeder.", :group_name "szew", :jar_name "repl", :version "0.3.12"}
