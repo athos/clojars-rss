@@ -1,6 +1,3 @@
-{:created 1777642676246, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-15"}
-{:created 1777642715978, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-15"}
-{:created 1777642755633, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-15"}
 {:created 1777642795349, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-15"}
 {:created 1777642837282, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-15"}
 {:created 1777642877945, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-15"}
@@ -254,3 +251,6 @@
 {:created 1778257334207, :description "Simple Clojure REPL seeder.", :group_name "szew", :jar_name "repl", :version "0.3.12"}
 {:created 1778260108365, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.2.62"}
 {:created 1778265751117, :description nil, :group_name "com.s-exp", :jar_name "drip", :version "1.0.0-alpha31"}
+{:created 1778268689932, :description "MIGRATE ALL THE THINGS!", :group_name "migratus", :jar_name "migratus", :version "1.6.6"}
+{:created 1778269385060, :description "A library to talk with kubernetes api", :group_name "nubank", :jar_name "k8s-api", :version "1.2.0"}
+{:created 1778270126554, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.4.12"}
