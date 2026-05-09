@@ -1,10 +1,3 @@
-{:created 1777739302509, :description "edn bindings for the google-cloud-bigquery sdk", :group_name "com.github.pkpkpk", :jar_name "gcp.bigquery", :version "2.62.0.7"}
-{:created 1777739877983, :description "Idiomatic Clojure SDK for Rockbox — GraphQL client with WebSocket subscriptions and a tiny plugin system.", :group_name "org.clojars.tsiry", :jar_name "rockbox-clj", :version "0.1.2-SNAPSHOT"}
-{:created 1777740128314, :description "edn bindings for the google-cloud-storage sdk", :group_name "com.github.pkpkpk", :jar_name "gcp.storage", :version "2.64.1.5"}
-{:created 1777740407549, :description "edn bindings for the google-cloud-pubsub sdk", :group_name "com.github.pkpkpk", :jar_name "gcp.pubsub", :version "1.150.0.1"}
-{:created 1777762847542, :description "composable plotting in Clojure", :group_name "org.scicloj", :jar_name "plotje", :version "0.1.0"}
-{:created 1777773608088, :description nil, :group_name "com.github.gateless", :jar_name "futurama", :version "1.4.6"}
-{:created 1777774191401, :description nil, :group_name "com.github.gateless", :jar_name "failsage", :version "0.3.3"}
 {:created 1777788392240, :description "GitHub Copilot SDK Supercharged for Clojure", :group_name "net.clojars.jeremiahisaacson", :jar_name "copilot-sdk-supercharged", :version "2.1.1"}
 {:created 1777792891147, :description "GitHub Copilot SDK Supercharged for Clojure", :group_name "net.clojars.jeremiahisaacson", :jar_name "copilot-sdk-supercharged", :version "2.1.2"}
 {:created 1777805202540, :description "A simple matching library", :group_name "com.github.igrishaev", :jar_name "alike", :version "0.1.0"}
@@ -250,7 +243,14 @@
 {:created 1778337639700, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "lein-skeptic", :version "0.8.2-SNAPSHOT"}
 {:created 1778345236043, :description nil, :group_name "com.s-exp", :jar_name "drip", :version "1.0.0-alpha33"}
 {:created 1778348663638, :description "Database library wrapping datomic/datascript/datalevin with a common API, and exposing malli schemas and a pathom graph.", :group_name "com.github.rafd", :jar_name "dat", :version "0.0.1-20260509-0"}
-{:created 1778355790738, :description "Rephrase exceptions.", :group_name "org.corfield", :jar_name "rephrase", :version "0.1.0-SNAPSHOT"}
 {:created 1778356141066, :description "generators for clojure", :group_name "party.donut", :jar_name "generate", :version "1.0.38"}
 {:created 1778359734621, :description "Clojure friendly wrapper for Interactive Brokers Java API", :group_name "ib-re-actor-976-plus", :jar_name "ib-re-actor-976-plus", :version "0.2.10.46.01-SNAPSHOT"}
 {:created 1778360842790, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.3"}
+{:created 1778361227699, :description "A jetty-based webserver implementation for use with the org.openvoxproject/trapperkeeper service framework.", :group_name "org.openvoxproject", :jar_name "trapperkeeper-webserver", :version "10.0.0"}
+{:created 1778361762772, :description "Trapperkeeper authorization system", :group_name "org.openvoxproject", :jar_name "trapperkeeper-authorization", :version "2.2.0"}
+{:created 1778361936860, :description "Rephrase exceptions.", :group_name "org.corfield", :jar_name "rephrase", :version "0.1.0-SNAPSHOT"}
+{:created 1778363497063, :description "Trapperkeeper Metrics Service", :group_name "org.openvoxproject", :jar_name "trapperkeeper-metrics", :version "2.2.0"}
+{:created 1778363505281, :description "HTTP client wrapper", :group_name "org.openvoxproject", :jar_name "http-client", :version "2.3.0"}
+{:created 1778363528621, :description "A trapperkeeper service for getting the status of other trapperkeeper services.", :group_name "org.openvoxproject", :jar_name "trapperkeeper-status", :version "1.4.0"}
+{:created 1778363558728, :description "", :group_name "org.openvoxproject", :jar_name "ring-middleware", :version "2.2.0"}
+{:created 1778363916439, :description "Comidi/HTTP Metrics for Trapperkeeper", :group_name "org.openvoxproject", :jar_name "trapperkeeper-comidi-metrics", :version "1.1.0"}
