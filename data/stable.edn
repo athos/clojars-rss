@@ -1,4 +1,3 @@
-{:created 1777659050574, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-20"}
 {:created 1777659091243, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-20"}
 {:created 1777659131481, :description "Code generation library for Boundary framework: module scaffolding", :group_name "org.boundary-app", :jar_name "boundary-scaffolder", :version "1.0.1-alpha-20"}
 {:created 1777659171326, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-20"}
@@ -254,3 +253,4 @@
 {:created 1778345236043, :description nil, :group_name "com.s-exp", :jar_name "drip", :version "1.0.0-alpha33"}
 {:created 1778348663638, :description "Database library wrapping datomic/datascript/datalevin with a common API, and exposing malli schemas and a pathom graph.", :group_name "com.github.rafd", :jar_name "dat", :version "0.0.1-20260509-0"}
 {:created 1778356141066, :description "generators for clojure", :group_name "party.donut", :jar_name "generate", :version "1.0.38"}
+{:created 1778360842790, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.3"}
