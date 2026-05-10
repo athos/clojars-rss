@@ -1,4 +1,3 @@
-{:created 1777659532501, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-20"}
 {:created 1777659572155, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-20"}
 {:created 1777659611726, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-20"}
 {:created 1777659650978, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-20"}
@@ -254,3 +253,4 @@
 {:created 1778370133879, :description "Cavalo is a leiningen plugin to reload http servers on file change.", :group_name "org.clojars.jj", :jar_name "lein-cavalo", :version "1.0.9"}
 {:created 1778370142291, :description "Carroça is a sidecar for lein cavalo plugin.", :group_name "org.clojars.jj", :jar_name "lein-carroca", :version "1.0.9"}
 {:created 1778390883577, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.41"}
+{:created 1778397297526, :description "nREPL middleware to support editor-agnostic refactoring", :group_name "refactor-nrepl", :jar_name "refactor-nrepl", :version "3.12.0"}
