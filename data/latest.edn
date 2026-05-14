@@ -1,13 +1,3 @@
-{:created 1778009012149, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-22"}
-{:created 1778009052276, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-22"}
-{:created 1778009094168, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-22"}
-{:created 1778009134402, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-22"}
-{:created 1778009174336, :description "Code generation library for Boundary framework: module scaffolding", :group_name "org.boundary-app", :jar_name "boundary-scaffolder", :version "1.0.1-alpha-22"}
-{:created 1778009214288, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-22"}
-{:created 1778009254041, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-22"}
-{:created 1778009293862, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-22"}
-{:created 1778009334127, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-22"}
-{:created 1778009374161, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-22"}
 {:created 1778009414274, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-22"}
 {:created 1778009454488, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-22"}
 {:created 1778009494445, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-22"}
@@ -254,3 +244,13 @@
 {:created 1778779948513, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "skeptic", :version "0.9.0-rc1"}
 {:created 1778779963181, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "lein-skeptic", :version "0.9.0-rc1"}
 {:created 1778781959210, :description "A Clojure library for running ONNX models and text embedding via inference4j, plus embedding analysis (DBSCAN clustering, UMAP projection) via smile-core.", :group_name "net.clojars.idiomattic", :jar_name "easy-onnx", :version "0.2.48"}
+{:created 1778787419554, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-indicator-math", :version "0.6.16"}
+{:created 1778789465758, :description "FIXME: write description", :group_name "org.clojars.jj", :jar_name "boa-resolver", :version "1.0.12-SNAPSHOT"}
+{:created 1778789472779, :description "FIXME: write description", :group_name "org.clojars.jj", :jar_name "boa-resource-resolver", :version "1.0.12-SNAPSHOT"}
+{:created 1778789479157, :description "BoaQuery protocol definition", :group_name "org.clojars.jj", :jar_name "boa-query", :version "1.0.12-SNAPSHOT"}
+{:created 1778789485568, :description "BoaQuery protocol definition", :group_name "org.clojars.jj", :jar_name "boa-async-query", :version "1.0.12-SNAPSHOT"}
+{:created 1778789492275, :description "Boa SQL adapter for Next-JDBC", :group_name "org.clojars.jj", :jar_name "next-jdbc-adapter", :version "1.0.12-SNAPSHOT"}
+{:created 1778789499077, :description "Boa SQL adapter for Next-JDBC", :group_name "org.clojars.jj", :jar_name "next-jdbc-async-adapter", :version "1.0.12-SNAPSHOT"}
+{:created 1778789506532, :description "A library for frictionless SQL", :group_name "org.clojars.jj", :jar_name "boa-sql", :version "1.0.12-SNAPSHOT"}
+{:created 1778789513371, :description "A library for frictionless SQL", :group_name "org.clojars.jj", :jar_name "async-boa-sql", :version "1.0.12-SNAPSHOT"}
+{:created 1778790107374, :description nil, :group_name "fi.metosin", :jar_name "oksa", :version "1.2.1-SNAPSHOT"}
