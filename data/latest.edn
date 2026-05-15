@@ -1,5 +1,3 @@
-{:created 1778020046151, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "skeptic", :version "0.8.1"}
-{:created 1778020061365, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "lein-skeptic", :version "0.8.1"}
 {:created 1778029098185, :description "Pull, anonymize, and analyze chat history on the Clojurians Zulip.", :group_name "org.scicloj", :jar_name "zulipdata", :version "0.1.1"}
 {:created 1778030276213, :description "Pure-Clojure spreadsheet interpreter — formulas, dynamic arrays, LET/LAMBDA, tables, 3D refs. Cross-platform (Clojure + ClojureScript).", :group_name "org.replikativ", :jar_name "rechentafel", :version "0.1.4"}
 {:created 1778032307906, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.2.57"}
@@ -196,7 +194,6 @@
 {:created 1778684346426, :description "ClojureScript compiler and core runtime library.", :group_name "com.github.flow-storm", :jar_name "clojurescript", :version "1.12.145-0"}
 {:created 1778692522330, :description "Initialize Clojure classes at build time with GraalVM native-image", :group_name "com.github.clj-easy", :jar_name "graal-build-time", :version "1.0.6"}
 {:created 1778695809049, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.5.3"}
-{:created 1778701485247, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.219-SNAPSHOT"}
 {:created 1778702016737, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-indicator-math", :version "0.6.13"}
 {:created 1778702323498, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-studio", :version "0.5.11"}
 {:created 1778710712917, :description "A jetty-based webserver implementation for use with the org.openvoxproject/trapperkeeper service framework.", :group_name "org.openvoxproject", :jar_name "trapperkeeper-webserver", :version "12.0.2"}
@@ -254,3 +251,6 @@
 {:created 1778832937991, :description "A DataLoader for Clojure/script", :group_name "superlifter", :jar_name "superlifter", :version "0.1.7"}
 {:created 1778834303088, :description "A triple store built on top of XTDB", :group_name "xyz.triplox", :jar_name "triplox", :version "0.1.0-alpha.3"}
 {:created 1778843438010, :description "deps.clj: a Clojure port of the clojure bash script", :group_name "borkdude", :jar_name "deps.clj", :version "1.12.5.1646-SNAPSHOT"}
+{:created 1778846710499, :description "Leiningen plugin to add version git tag", :group_name "org.clojars.jj", :jar_name "lein-git-tag", :version "1.0.1"}
+{:created 1778846731671, :description "Leiningen plugin to download files.", :group_name "org.clojars.jj", :jar_name "lein-download", :version "1.0.1"}
+{:created 1778846826299, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.219-SNAPSHOT"}
