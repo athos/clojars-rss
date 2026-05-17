@@ -1,14 +1,3 @@
-{:created 1778009334127, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-22"}
-{:created 1778009374161, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-22"}
-{:created 1778009414274, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-22"}
-{:created 1778009454488, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-22"}
-{:created 1778009494445, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-22"}
-{:created 1778009534475, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-22"}
-{:created 1778009573966, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-22"}
-{:created 1778009613502, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-22"}
-{:created 1778009652906, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-22"}
-{:created 1778009692785, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-22"}
-{:created 1778009734198, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-22"}
 {:created 1778009774450, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-22"}
 {:created 1778009814186, :description "boundary CLI — project generator and module installer", :group_name "org.boundary-app", :jar_name "boundary-cli", :version "1.0.1-alpha-22"}
 {:created 1778009855201, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.1-alpha-22"}
@@ -254,3 +243,14 @@
 {:created 1778962298315, :description "Soala is a dependency injection and lifecycle management library for clojure", :group_name "org.clojars.jj", :jar_name "saola", :version "1.0.2"}
 {:created 1778971740080, :description nil, :group_name "com.flipkart.krystal", :jar_name "honeycomb", :version "9.9.0"}
 {:created 1778985799212, :description "A small Clojure TCP server", :group_name "dev.weavejester", :jar_name "teensyp", :version "0.4.1"}
+{:created 1779001632852, :description nil, :group_name "com.flipkart.krystal.legacy", :jar_name "krystal-common", :version "9.9.0"}
+{:created 1779001898587, :description nil, :group_name "com.flipkart.krystal.legacy", :jar_name "com.flipkart.krystal.legacy.gradle.plugin", :version "9.10.0"}
+{:created 1779001901082, :description nil, :group_name "com.flipkart.krystal.legacy", :jar_name "krystal-bom", :version "9.10.0"}
+{:created 1779001906649, :description nil, :group_name "com.flipkart.krystal.legacy", :jar_name "honeycomb", :version "9.10.0"}
+{:created 1779001923429, :description nil, :group_name "com.flipkart.krystal.legacy", :jar_name "vajram-protobuf3", :version "9.10.0"}
+{:created 1779001924152, :description nil, :group_name "com.flipkart.krystal.legacy", :jar_name "krystex", :version "9.10.0"}
+{:created 1779001927068, :description nil, :group_name "com.flipkart.krystal.legacy", :jar_name "vajram-java-sdk", :version "9.10.0"}
+{:created 1779001946413, :description nil, :group_name "com.flipkart.krystal.legacy", :jar_name "vajram-codegen-common", :version "9.10.0"}
+{:created 1779001962718, :description nil, :group_name "com.flipkart.krystal.legacy", :jar_name "vajram-guice", :version "9.10.0"}
+{:created 1779001962789, :description nil, :group_name "com.flipkart.krystal.legacy", :jar_name "vajram-codegen", :version "9.10.0"}
+{:created 1779001964771, :description nil, :group_name "com.flipkart.krystal.legacy", :jar_name "krystal-visualization", :version "9.10.0"}
