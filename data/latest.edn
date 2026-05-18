@@ -1,14 +1,3 @@
-{:created 1778363916439, :description "Comidi/HTTP Metrics for Trapperkeeper", :group_name "org.openvoxproject", :jar_name "trapperkeeper-comidi-metrics", :version "1.1.0"}
-{:created 1778367122916, :description "Tools for interacting with PE RBAC", :group_name "org.openvoxproject", :jar_name "rbac-client", :version "1.3.0"}
-{:created 1778367138747, :description "Crontab parser for Clojure with plain-English cron explanations", :group_name "org.pilosus", :jar_name "kairos", :version "0.2.9999-SNAPSHOT"}
-{:created 1778370133879, :description "Cavalo is a leiningen plugin to reload http servers on file change.", :group_name "org.clojars.jj", :jar_name "lein-cavalo", :version "1.0.9"}
-{:created 1778370142291, :description "Carroça is a sidecar for lein cavalo plugin.", :group_name "org.clojars.jj", :jar_name "lein-carroca", :version "1.0.9"}
-{:created 1778375169740, :description "A sidekiq client/server implementation in clojure", :group_name "com.github.comfysoft", :jar_name "cljdekiq", :version "0.4.0-SNAPSHOT"}
-{:created 1778390883577, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.41"}
-{:created 1778397297526, :description "nREPL middleware to support editor-agnostic refactoring", :group_name "refactor-nrepl", :jar_name "refactor-nrepl", :version "3.12.0"}
-{:created 1778401194011, :description nil, :group_name "com.s-exp", :jar_name "drip", :version "1.0.0-alpha34"}
-{:created 1778402140598, :description "Clojure Wrapper around Jansi.", :group_name "jansi-clj", :jar_name "jansi-clj", :version "2.0.1"}
-{:created 1778402686560, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.42"}
 {:created 1778411720749, :description "A library and microservice implementing the health and care terminology SNOMED CT with support for cross-maps, inference, fast full-text search, autocompletion, compositional grammar and the expression constraint language.", :group_name "com.eldrix", :jar_name "hermes", :version "1.4.1614"}
 {:created 1778416459398, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.4.15"}
 {:created 1778416459924, :description "Conceptual is a fast JVM based in-memory concept database that can be used as a feature store, graph database, and more.", :group_name "org.clojars.jekyllislandtours", :jar_name "conceptual", :version "0.1.144"}
@@ -254,3 +243,14 @@
 {:created 1779122780572, :description "Clojure native interop through JavaCPP", :group_name "org.uncomplicate", :jar_name "clojure-cpp", :version "0.8.0"}
 {:created 1779122862121, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.28.0"}
 {:created 1779123040792, :description "ClojureCL is a Clojure library for parallel computations with OpenCL.", :group_name "uncomplicate", :jar_name "clojurecl", :version "0.16.3"}
+{:created 1779123496925, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.62.0"}
+{:created 1779123530429, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.62.0"}
+{:created 1779123710923, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.62.0"}
+{:created 1779123950184, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.62.0"}
+{:created 1779124122861, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.62.0"}
+{:created 1779124172597, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.62.0"}
+{:created 1779124243967, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.62.0"}
+{:created 1779124412353, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic Neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.62.0"}
+{:created 1779125034650, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-base", :version "0.44.0"}
+{:created 1779125082472, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-test", :version "0.44.0"}
+{:created 1779125298018, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-dnnl", :version "0.44.0"}
