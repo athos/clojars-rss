@@ -1,17 +1,3 @@
-{:created 1778243712583, :description nil, :group_name "uk.me.oli", :jar_name "typedclojure-lsp", :version "0.1.115"}
-{:created 1778244235954, :description "Exoscale shared specs", :group_name "exoscale", :jar_name "specs", :version "1.0.7"}
-{:created 1778246340048, :description nil, :group_name "io.github.kit-clj", :jar_name "deps-template", :version "0.1.90"}
-{:created 1778246355222, :description nil, :group_name "io.github.kit-clj", :jar_name "lein-template", :version "0.1.90"}
-{:created 1778247822744, :description nil, :group_name "uk.me.oli", :jar_name "clojure-dap", :version "0.1.323"}
-{:created 1778252427328, :description "An eclectic set of Clojure utilities that I've found useful enough to keep around.", :group_name "me.fogus", :jar_name "thneed", :version "1.1.9"}
-{:created 1778254760141, :description "A framework for configuring, composing, and running Clojure services.", :group_name "org.openvoxproject", :jar_name "trapperkeeper", :version "5.0.0"}
-{:created 1778257334207, :description "Simple Clojure REPL seeder.", :group_name "szew", :jar_name "repl", :version "0.3.12"}
-{:created 1778260108365, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.2.62"}
-{:created 1778265751117, :description nil, :group_name "com.s-exp", :jar_name "drip", :version "1.0.0-alpha31"}
-{:created 1778268689932, :description "MIGRATE ALL THE THINGS!", :group_name "migratus", :jar_name "migratus", :version "1.6.6"}
-{:created 1778269385060, :description "A library to talk with kubernetes api", :group_name "nubank", :jar_name "k8s-api", :version "1.2.0"}
-{:created 1778270126554, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.4.12"}
-{:created 1778281907513, :description "A library wrapping com.microsoft.onnxruntime/onnxruntime and ai.djl.huggingface/tokenizers, providing an easy interface for running ML workloads within Clojure applications.", :group_name "net.clojars.idiomattic", :jar_name "easy-onnx", :version "0.1.26"}
 {:created 1778282334121, :description "Ring adapter for com.sun.net.httpserver", :group_name "org.clojars.jj", :jar_name "ring-http-exchange", :version "1.4.5"}
 {:created 1778282986787, :description nil, :group_name "io.github.hlship", :jar_name "cli-tools", :version "0.16.0-beta-6"}
 {:created 1778286210362, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.2.63"}
@@ -254,3 +240,17 @@
 {:created 1779093538538, :description "Small URL helpers for BestVid links.", :group_name "net.clojars.tianwei", :jar_name "bestvid-site-kit", :version "0.1.6"}
 {:created 1779098504852, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.3.70"}
 {:created 1779108222288, :description "Small URL helpers for BeadPattern, the free bead pattern generator.", :group_name "net.clojars.tianwei", :jar_name "beadpattern-site-kit", :version "0.1.1"}
+{:created 1779110098081, :description "Ring Undertow adapter", :group_name "luminus", :jar_name "ring-undertow-adapter", :version "1.4.5"}
+{:created 1779110864132, :description nil, :group_name "io.github.kit-clj", :jar_name "kit-undertow", :version "1.0.12"}
+{:created 1779110942104, :description nil, :group_name "io.github.kit-clj", :jar_name "deps-template", :version "0.1.91"}
+{:created 1779110957488, :description nil, :group_name "io.github.kit-clj", :jar_name "lein-template", :version "0.1.91"}
+{:created 1779114180903, :description "Clojure/Script library for making MCP servers and clients", :group_name "io.github.plumce", :jar_name "plumcp.core", :version "0.2.1"}
+{:created 1779114221048, :description "Auth module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-auth", :version "0.2.1"}
+{:created 1779114312048, :description "Dev module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-dev", :version "0.2.1"}
+{:created 1779114384050, :description "JSON (charred library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-charred", :version "0.2.1"}
+{:created 1779114419409, :description "JSON (cheshire library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-cheshire", :version "0.2.1"}
+{:created 1779114456347, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.2.1"}
+{:created 1779114498586, :description "JSON (jsonista library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-jsonista", :version "0.2.1"}
+{:created 1779115298657, :description "Category theory concepts in Clojure - Functors, Applicatives, Monads, Monoids and more.", :group_name "uncomplicate", :jar_name "fluokitten", :version "0.10.2"}
+{:created 1779116401766, :description "Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "org.boundary-app", :jar_name "boundary-tools", :version "1.0.1-alpha-23"}
+{:created 1779116441510, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-23"}
