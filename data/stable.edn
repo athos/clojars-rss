@@ -1,26 +1,3 @@
-{:created 1778100741488, :description nil, :group_name "com.s-exp", :jar_name "drip", :version "1.0.0-alpha26"}
-{:created 1778103883266, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.2.58"}
-{:created 1778133691561, :description nil, :group_name "com.s-exp", :jar_name "drip", :version "1.0.0-alpha27"}
-{:created 1778140975436, :description "Common functionality for Riemann streams.", :group_name "de.active-group", :jar_name "active-riemann", :version "0.13.0"}
-{:created 1778141758180, :description "HTTP Server for shadow-cljs", :group_name "com.thheller", :jar_name "shadow-http", :version "0.1.6"}
-{:created 1778142149870, :description "Dataset manipulation library built on the top of tech.ml.dataset.", :group_name "scicloj", :jar_name "tablecloth", :version "8.021"}
-{:created 1778145339336, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.40"}
-{:created 1778148206415, :description "HTTP Server for shadow-cljs", :group_name "com.thheller", :jar_name "shadow-http", :version "0.1.7"}
-{:created 1778148562473, :description "CLJS development tools", :group_name "thheller", :jar_name "shadow-cljs", :version "3.4.7"}
-{:created 1778149164809, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.4.5"}
-{:created 1778152821568, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.4.6"}
-{:created 1778155790741, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.4.8"}
-{:created 1778156039208, :description "Common domain code and resources for lupapiste applications", :group_name "lupapiste", :jar_name "commons", :version "5.3.31"}
-{:created 1778159372932, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.4.9"}
-{:created 1778161144415, :description "CLJS development tools", :group_name "thheller", :jar_name "shadow-cljs", :version "3.4.8"}
-{:created 1778165063522, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.4.10"}
-{:created 1778165132542, :description "A log4j2 alternative to clojure.tools.logging.", :group_name "com.github.seancorfield", :jar_name "logging4j2", :version "1.0.8"}
-{:created 1778166032825, :description "CLJS development tools", :group_name "thheller", :jar_name "shadow-cljs", :version "3.4.9"}
-{:created 1778167967479, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-calendar", :version "0.6.31"}
-{:created 1778169781505, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-bar-warehouse", :version "0.7.84"}
-{:created 1778169996396, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-studio", :version "0.5.10"}
-{:created 1778188916752, :description nil, :group_name "energy.grid-coordination", :jar_name "clj-urpx", :version "0.10.0"}
-{:created 1778208754036, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.2.60"}
 {:created 1778217816239, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.2.61"}
 {:created 1778226990405, :description "A library for simple wire-like connectivity semantics.", :group_name "org.replikativ", :jar_name "kabel", :version "0.3.95"}
 {:created 1778227360340, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.4.11"}
@@ -254,3 +231,26 @@
 {:created 1779115298657, :description "Category theory concepts in Clojure - Functors, Applicatives, Monads, Monoids and more.", :group_name "uncomplicate", :jar_name "fluokitten", :version "0.10.2"}
 {:created 1779116401766, :description "Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "org.boundary-app", :jar_name "boundary-tools", :version "1.0.1-alpha-23"}
 {:created 1779116441510, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-23"}
+{:created 1779116481148, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-23"}
+{:created 1779116521783, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-23"}
+{:created 1779116560684, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-23"}
+{:created 1779116600649, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-23"}
+{:created 1779116639825, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-23"}
+{:created 1779116718218, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-23"}
+{:created 1779116758038, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-23"}
+{:created 1779116797584, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-23"}
+{:created 1779116836561, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-23"}
+{:created 1779116875784, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-23"}
+{:created 1779117824444, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-23"}
+{:created 1779117925700, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-23"}
+{:created 1779118737574, :description "Convenience functions for interacting with AWS API's from closh", :group_name "timotheosh", :jar_name "cljaws", :version "0.5.5"}
+{:created 1779119422031, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-23"}
+{:created 1779119460593, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-23"}
+{:created 1779119538152, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-23"}
+{:created 1779119616348, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-23"}
+{:created 1779119656885, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-23"}
+{:created 1779119696439, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-23"}
+{:created 1779122224133, :description "Common Uncomplicate utilities.", :group_name "uncomplicate", :jar_name "commons", :version "0.20.0"}
+{:created 1779122780572, :description "Clojure native interop through JavaCPP", :group_name "org.uncomplicate", :jar_name "clojure-cpp", :version "0.8.0"}
+{:created 1779122862121, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.28.0"}
+{:created 1779123040792, :description "ClojureCL is a Clojure library for parallel computations with OpenCL.", :group_name "uncomplicate", :jar_name "clojurecl", :version "0.16.3"}
