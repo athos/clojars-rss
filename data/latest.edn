@@ -1,17 +1,3 @@
-{:created 1778574750437, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "3.2.6.41"}
-{:created 1778575713176, :description "A triple store built on top of XTDB", :group_name "xyz.triplox", :jar_name "triplox", :version "0.1.0-alpha.2"}
-{:created 1778577125847, :description "系统调度器", :group_name "net.clojars.zhaoyul", :jar_name "scheduler", :version "1.2.8-SNAPSHOT"}
-{:created 1778582831551, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.5.1"}
-{:created 1778583998373, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "3.2.7.41"}
-{:created 1778597873317, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.0.3"}
-{:created 1778603681596, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.1.256"}
-{:created 1778604769337, :description "80 native Web Components with centralised theming — stateless, framework-free, zero runtime. Built with ClojureScript, compiled to tree-shakeable ESM.", :group_name "com.github.avanelsas", :jar_name "baredom", :version "3.0.0"}
-{:created 1778605495005, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.5.2"}
-{:created 1778613738590, :description nil, :group_name "io.github.cljfx", :jar_name "ghosttyfx", :version "0.1.165.5"}
-{:created 1778615691548, :description "A Temporal SDK for Clojure", :group_name "io.github.manetu", :jar_name "temporal-sdk", :version "2.0.0"}
-{:created 1778616749923, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1684"}
-{:created 1778618090120, :description nil, :group_name "io.github.cljfx", :jar_name "ghosttyfx", :version "0.1.165.6"}
-{:created 1778619233350, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "2.0.1"}
 {:created 1778619581066, :description "A framework for configuring, composing, and running Clojure services.", :group_name "org.openvoxproject", :jar_name "trapperkeeper", :version "5.0.1"}
 {:created 1778621048631, :description "A jetty-based webserver implementation for use with the org.openvoxproject/trapperkeeper service framework.", :group_name "org.openvoxproject", :jar_name "trapperkeeper-webserver", :version "12.0.1"}
 {:created 1778621377043, :description "A system for building packages for trapperkeeper-based applications", :group_name "org.openvoxproject", :jar_name "lein-ezbake", :version "2.7.6"}
@@ -231,7 +217,6 @@
 {:created 1779183430176, :description "Small URL helpers for Queens Game, a free online colorful logic puzzle game.", :group_name "net.clojars.tianwei", :jar_name "playqueensgame-site-kit", :version "0.1.1"}
 {:created 1779186793353, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.5"}
 {:created 1779188257266, :description nil, :group_name "nl.jomco", :jar_name "openapi-v3-validator", :version "0.2.7"}
-{:created 1779188904974, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.04.16-SNAPSHOT"}
 {:created 1779190449775, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "skeptic", :version "0.9.0-rc2"}
 {:created 1779190464755, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "lein-skeptic", :version "0.9.0-rc2"}
 {:created 1779191814425, :description nil, :group_name "com.hyperfiddle", :jar_name "hyperfiddle-contrib", :version "v0-alpha-SNAPSHOT"}
@@ -254,3 +239,18 @@
 {:created 1779198946194, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-25"}
 {:created 1779198985095, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-25"}
 {:created 1779199024185, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-25"}
+{:created 1779199063151, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-25"}
+{:created 1779199102373, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-25"}
+{:created 1779199141306, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-25"}
+{:created 1779199179812, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-25"}
+{:created 1779199219117, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-25"}
+{:created 1779199261949, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-25"}
+{:created 1779199301704, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-25"}
+{:created 1779199340680, :description "boundary CLI — project generator and module installer", :group_name "org.boundary-app", :jar_name "boundary-cli", :version "1.0.1-alpha-25"}
+{:created 1779199380684, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.1-alpha-25"}
+{:created 1779199596940, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.04.16-SNAPSHOT"}
+{:created 1779199618424, :description nil, :group_name "com.hyperfiddle", :jar_name "hyperfiddle-agent", :version "v0-alpha-SNAPSHOT"}
+{:created 1779201266335, :description "A small Clojure TCP server", :group_name "dev.weavejester", :jar_name "teensyp", :version "0.5.0"}
+{:created 1779201655629, :description "Psi — AI coding agent", :group_name "org.hugoduncan", :jar_name "psi", :version "0.1.2123"}
+{:created 1779202514442, :description "Atlas: semantic registry for expressive systems", :group_name "io.github.semantic-namespace", :jar_name "atlas", :version "0.1.9-SNAPSHOT"}
+{:created 1779202529215, :description "Atlas dev tools: source tracking, git history, and dev-time tooling", :group_name "io.github.semantic-namespace", :jar_name "atlas-dev", :version "0.1.8-SNAPSHOT"}
