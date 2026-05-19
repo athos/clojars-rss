@@ -1,19 +1,3 @@
-{:created 1778513158529, :description "A library wrapping com.microsoft.onnxruntime/onnxruntime and ai.djl.huggingface/tokenizers, providing an easy interface for running ML workloads within Clojure applications.", :group_name "net.clojars.idiomattic", :jar_name "easy-onnx", :version "0.1.28"}
-{:created 1778519897146, :description "generators for clojure", :group_name "party.donut", :jar_name "generate", :version "1.0.43"}
-{:created 1778519983631, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.2.68"}
-{:created 1778524767009, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1683"}
-{:created 1778526977220, :description "generators for Donut", :group_name "party.donut", :jar_name "generators", :version "0.0.18"}
-{:created 1778529196602, :description "Thin Clojure wrapper around Typesafe Config library", :group_name "org.openvoxproject", :jar_name "typesafe-config", :version "1.0.3"}
-{:created 1778529345732, :description "Trapperkeeper filesystem watcher service", :group_name "org.openvoxproject", :jar_name "trapperkeeper-filesystem-watcher", :version "1.6.0"}
-{:created 1778529449255, :description "A library for working with JRuby", :group_name "org.openvoxproject", :jar_name "jruby-utils", :version "5.4.0"}
-{:created 1778529472443, :description "Clojure shell execution utilities", :group_name "org.openvoxproject", :jar_name "clj-shell-utils", :version "2.2.0"}
-{:created 1778529571080, :description "Trapperkeeper Scheduler Service", :group_name "org.openvoxproject", :jar_name "trapperkeeper-scheduler", :version "1.4.0"}
-{:created 1778545618501, :description "generators for clojure", :group_name "party.donut", :jar_name "generate", :version "1.0.44"}
-{:created 1778553479475, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.1.255"}
-{:created 1778561606075, :description "Stencil client for clojure", :group_name "com.gotocompany", :jar_name "stencil-clj", :version "0.8.9"}
-{:created 1778565446407, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "3.2.5.41"}
-{:created 1778568235916, :description "HTTP Server for shadow-cljs", :group_name "com.thheller", :jar_name "shadow-http", :version "0.1.8"}
-{:created 1778568387021, :description "CLJS development tools", :group_name "thheller", :jar_name "shadow-cljs", :version "3.4.10"}
 {:created 1778574750437, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "3.2.6.41"}
 {:created 1778575713176, :description "A triple store built on top of XTDB", :group_name "xyz.triplox", :jar_name "triplox", :version "0.1.0-alpha.2"}
 {:created 1778577125847, :description "系统调度器", :group_name "net.clojars.zhaoyul", :jar_name "scheduler", :version "1.2.8-SNAPSHOT"}
@@ -242,7 +226,6 @@
 {:created 1779164243692, :description "Small URL helpers for M3U8 Player, the free M3U8 downloader, converter, and HLS player.", :group_name "net.clojars.tianwei", :jar_name "m3u8-player-site-kit", :version "0.1.0"}
 {:created 1779173508796, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.5.4"}
 {:created 1779176030814, :description "Small URL helpers for ADHD Reading, a Chrome extension for focused reading.", :group_name "net.clojars.tianwei", :jar_name "adhdreading-site-kit", :version "0.1.0"}
-{:created 1779178764928, :description nil, :group_name "com.monkeyprojects", :jar_name "clompress", :version "0.2.1-SNAPSHOT"}
 {:created 1779179204424, :description "Small URL helpers for nyt-sudoku.net, an unofficial free Sudoku web app.", :group_name "net.clojars.tianwei", :jar_name "nyt-sudoku-site-kit", :version "0.1.0"}
 {:created 1779180522291, :description "Small URL helpers for Star Battle, a free online 2-star logic puzzle game.", :group_name "net.clojars.tianwei", :jar_name "starbattle-site-kit", :version "0.1.0"}
 {:created 1779183430176, :description "Small URL helpers for Queens Game, a free online colorful logic puzzle game.", :group_name "net.clojars.tianwei", :jar_name "playqueensgame-site-kit", :version "0.1.1"}
@@ -254,3 +237,20 @@
 {:created 1779191814425, :description nil, :group_name "com.hyperfiddle", :jar_name "hyperfiddle-contrib", :version "v0-alpha-SNAPSHOT"}
 {:created 1779191832258, :description "A reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary", :group_name "com.hyperfiddle", :jar_name "electric", :version "v3-alpha-SNAPSHOT"}
 {:created 1779191843743, :description nil, :group_name "com.hyperfiddle", :jar_name "hyperfiddle", :version "v0-alpha-SNAPSHOT"}
+{:created 1779193223555, :description nil, :group_name "com.monkeyprojects", :jar_name "clompress", :version "0.2.1-SNAPSHOT"}
+{:created 1779198438752, :description "Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "org.boundary-app", :jar_name "boundary-tools", :version "1.0.1-alpha-25"}
+{:created 1779198477564, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-25"}
+{:created 1779198516298, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-25"}
+{:created 1779198556822, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-25"}
+{:created 1779198595605, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-25"}
+{:created 1779198635472, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-25"}
+{:created 1779198674687, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-25"}
+{:created 1779198713877, :description "Code generation library for Boundary framework: module scaffolding", :group_name "org.boundary-app", :jar_name "boundary-scaffolder", :version "1.0.1-alpha-25"}
+{:created 1779198752952, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-25"}
+{:created 1779198791766, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-25"}
+{:created 1779198830102, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-25"}
+{:created 1779198869068, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-25"}
+{:created 1779198907702, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-25"}
+{:created 1779198946194, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-25"}
+{:created 1779198985095, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-25"}
+{:created 1779199024185, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-25"}

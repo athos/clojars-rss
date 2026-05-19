@@ -1,19 +1,3 @@
-{:created 1778329452557, :description "A Clojure incremental view maintenance library targeted towards Datomic, Datascript", :group_name "net.clojars.jumraiya", :jar_name "wizard", :version "0.1.31"}
-{:created 1778330639178, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.4.13"}
-{:created 1778334507935, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.4.14"}
-{:created 1778335802906, :description "80 native Web Components with centralised theming — stateless, framework-free, zero runtime. Built with ClojureScript, compiled to tree-shakeable ESM.", :group_name "com.github.avanelsas", :jar_name "baredom", :version "2.9.0"}
-{:created 1778345236043, :description nil, :group_name "com.s-exp", :jar_name "drip", :version "1.0.0-alpha33"}
-{:created 1778348663638, :description "Database library wrapping datomic/datascript/datalevin with a common API, and exposing malli schemas and a pathom graph.", :group_name "com.github.rafd", :jar_name "dat", :version "0.0.1-20260509-0"}
-{:created 1778356141066, :description "generators for clojure", :group_name "party.donut", :jar_name "generate", :version "1.0.38"}
-{:created 1778360842790, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.3"}
-{:created 1778361227699, :description "A jetty-based webserver implementation for use with the org.openvoxproject/trapperkeeper service framework.", :group_name "org.openvoxproject", :jar_name "trapperkeeper-webserver", :version "10.0.0"}
-{:created 1778361762772, :description "Trapperkeeper authorization system", :group_name "org.openvoxproject", :jar_name "trapperkeeper-authorization", :version "2.2.0"}
-{:created 1778363497063, :description "Trapperkeeper Metrics Service", :group_name "org.openvoxproject", :jar_name "trapperkeeper-metrics", :version "2.2.0"}
-{:created 1778363505281, :description "HTTP client wrapper", :group_name "org.openvoxproject", :jar_name "http-client", :version "2.3.0"}
-{:created 1778363528621, :description "A trapperkeeper service for getting the status of other trapperkeeper services.", :group_name "org.openvoxproject", :jar_name "trapperkeeper-status", :version "1.4.0"}
-{:created 1778363558728, :description "", :group_name "org.openvoxproject", :jar_name "ring-middleware", :version "2.2.0"}
-{:created 1778363916439, :description "Comidi/HTTP Metrics for Trapperkeeper", :group_name "org.openvoxproject", :jar_name "trapperkeeper-comidi-metrics", :version "1.1.0"}
-{:created 1778367122916, :description "Tools for interacting with PE RBAC", :group_name "org.openvoxproject", :jar_name "rbac-client", :version "1.3.0"}
 {:created 1778370133879, :description "Cavalo is a leiningen plugin to reload http servers on file change.", :group_name "org.clojars.jj", :jar_name "lein-cavalo", :version "1.0.9"}
 {:created 1778370142291, :description "Carroça is a sidecar for lein cavalo plugin.", :group_name "org.clojars.jj", :jar_name "lein-carroca", :version "1.0.9"}
 {:created 1778390883577, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.41"}
@@ -254,3 +238,19 @@
 {:created 1779188257266, :description nil, :group_name "nl.jomco", :jar_name "openapi-v3-validator", :version "0.2.7"}
 {:created 1779190449775, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "skeptic", :version "0.9.0-rc2"}
 {:created 1779190464755, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "lein-skeptic", :version "0.9.0-rc2"}
+{:created 1779198438752, :description "Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "org.boundary-app", :jar_name "boundary-tools", :version "1.0.1-alpha-25"}
+{:created 1779198477564, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-25"}
+{:created 1779198516298, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-25"}
+{:created 1779198556822, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-25"}
+{:created 1779198595605, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-25"}
+{:created 1779198635472, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-25"}
+{:created 1779198674687, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-25"}
+{:created 1779198713877, :description "Code generation library for Boundary framework: module scaffolding", :group_name "org.boundary-app", :jar_name "boundary-scaffolder", :version "1.0.1-alpha-25"}
+{:created 1779198752952, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-25"}
+{:created 1779198791766, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-25"}
+{:created 1779198830102, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-25"}
+{:created 1779198869068, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-25"}
+{:created 1779198907702, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-25"}
+{:created 1779198946194, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-25"}
+{:created 1779198985095, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-25"}
+{:created 1779199024185, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-25"}
