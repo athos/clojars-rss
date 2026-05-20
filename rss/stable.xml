@@ -4,7 +4,119 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 20 May 2026 09:01:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 10:58:37 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.4</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.4&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.4</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns), VS-15 text-presentation width, and VS-16 terminal width overrides (☑️ wide; 🏷️/❤️ narrow by default). Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.</description>
+    <pubDate>Wed, 20 May 2026 10:52:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.kepler16/kmono-cli/versions/4.12.2</guid>
+    <title>[com.kepler16/kmono-cli &quot;4.12.2&quot;]</title>
+    <link>https://clojars.org/com.kepler16/kmono-cli/versions/4.12.2</link>
+    <description>The kmono CLI interface</description>
+    <pubDate>Wed, 20 May 2026 10:03:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.kepler16/kmono/versions/4.12.2</guid>
+    <title>[com.kepler16/kmono &quot;4.12.2&quot;]</title>
+    <link>https://clojars.org/com.kepler16/kmono/versions/4.12.2</link>
+    <description>A tool for working in clojure (mono)repos</description>
+    <pubDate>Wed, 20 May 2026 10:03:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.kepler16/kmono-build/versions/4.12.2</guid>
+    <title>[com.kepler16/kmono-build &quot;4.12.2&quot;]</title>
+    <link>https://clojars.org/com.kepler16/kmono-build/versions/4.12.2</link>
+    <description>A suite of tools for use within tools.build</description>
+    <pubDate>Wed, 20 May 2026 10:03:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.kepler16/kmono-version/versions/4.12.2</guid>
+    <title>[com.kepler16/kmono-version &quot;4.12.2&quot;]</title>
+    <link>https://clojars.org/com.kepler16/kmono-version/versions/4.12.2</link>
+    <description>Tools for versioning kmono packages</description>
+    <pubDate>Wed, 20 May 2026 10:03:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.kepler16/kmono-core/versions/4.12.2</guid>
+    <title>[com.kepler16/kmono-core &quot;4.12.2&quot;]</title>
+    <link>https://clojars.org/com.kepler16/kmono-core/versions/4.12.2</link>
+    <description>The core kmono package and graph API&#39;s</description>
+    <pubDate>Wed, 20 May 2026 10:03:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.kepler16/kmono-log/versions/4.12.2</guid>
+    <title>[com.kepler16/kmono-log &quot;4.12.2&quot;]</title>
+    <link>https://clojars.org/com.kepler16/kmono-log/versions/4.12.2</link>
+    <description>Terminal logging API&#39;s used by kmono</description>
+    <pubDate>Wed, 20 May 2026 10:03:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/de.danjou/clj-mdc/versions/0.2.13</guid>
+    <title>[de.danjou/clj-mdc &quot;0.2.13&quot;]</title>
+    <link>https://clojars.org/de.danjou/clj-mdc/versions/0.2.13</link>
+    <description>Utils for dealing with MDC</description>
+    <pubDate>Wed, 20 May 2026 09:59:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.tianwei/gpt-image2ai-net-site-kit/versions/0.1.0</guid>
+    <title>[net.clojars.tianwei/gpt-image2ai-net-site-kit &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.tianwei/gpt-image2ai-net-site-kit/versions/0.1.0</link>
+    <description>Small URL helpers for GPT Image2AI.</description>
+    <pubDate>Wed, 20 May 2026 09:56:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.tianwei/gpt-image2-ai-art-site-kit/versions/0.1.0</guid>
+    <title>[net.clojars.tianwei/gpt-image2-ai-art-site-kit &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.tianwei/gpt-image2-ai-art-site-kit/versions/0.1.0</link>
+    <description>Small URL helpers for GPT Image2 AI Art.</description>
+    <pubDate>Wed, 20 May 2026 09:55:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.tianwei/gpt-image2ai-art-site-kit/versions/0.1.0</guid>
+    <title>[net.clojars.tianwei/gpt-image2ai-art-site-kit &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.tianwei/gpt-image2ai-art-site-kit/versions/0.1.0</link>
+    <description>Small URL helpers for GPT Image2AI Art.</description>
+    <pubDate>Wed, 20 May 2026 09:55:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.tianwei/gpt-image2-ai-online-site-kit/versions/0.1.0</guid>
+    <title>[net.clojars.tianwei/gpt-image2-ai-online-site-kit &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.tianwei/gpt-image2-ai-online-site-kit/versions/0.1.0</link>
+    <description>Small URL helpers for GPT Image2 AI Online.</description>
+    <pubDate>Wed, 20 May 2026 09:55:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.tianwei/gpt-image-2-live-site-kit/versions/0.1.0</guid>
+    <title>[net.clojars.tianwei/gpt-image-2-live-site-kit &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.tianwei/gpt-image-2-live-site-kit/versions/0.1.0</link>
+    <description>Small URL helpers for GPT Image 2 Live.</description>
+    <pubDate>Wed, 20 May 2026 09:55:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.tianwei/ailearnhub-net-site-kit/versions/0.1.0</guid>
+    <title>[net.clojars.tianwei/ailearnhub-net-site-kit &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.tianwei/ailearnhub-net-site-kit/versions/0.1.0</link>
+    <description>Small URL helpers for AI Learn Hub.</description>
+    <pubDate>Wed, 20 May 2026 09:54:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.tianwei/veo4-video-art-site-kit/versions/0.1.0</guid>
+    <title>[net.clojars.tianwei/veo4-video-art-site-kit &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.tianwei/veo4-video-art-site-kit/versions/0.1.0</link>
+    <description>Small URL helpers for Veo4 Video.</description>
+    <pubDate>Wed, 20 May 2026 09:54:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/refactor-nrepl/versions/3.13.0</guid>
+    <title>[refactor-nrepl &quot;3.13.0&quot;]</title>
+    <link>https://clojars.org/refactor-nrepl/versions/3.13.0</link>
+    <description>nREPL middleware to support editor-agnostic refactoring</description>
+    <pubDate>Wed, 20 May 2026 09:44:26 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.monkeyprojects/mailman-nats/versions/0.4.0</guid>
     <title>[com.monkeyprojects/mailman-nats &quot;0.4.0&quot;]</title>
@@ -1684,118 +1796,6 @@
     <link>https://clojars.org/com.thheller/shadow-http/versions/0.1.8</link>
     <description>HTTP Server for shadow-cljs</description>
     <pubDate>Tue, 12 May 2026 06:43:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.mattilsynet/design/versions/3.2.5.41</guid>
-    <title>[io.mattilsynet/design &quot;3.2.5.41&quot;]</title>
-    <link>https://clojars.org/io.mattilsynet/design/versions/3.2.5.41</link>
-    <description>Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.</description>
-    <pubDate>Tue, 12 May 2026 05:57:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.gotocompany/stencil-clj/versions/0.8.9</guid>
-    <title>[com.gotocompany/stencil-clj &quot;0.8.9&quot;]</title>
-    <link>https://clojars.org/com.gotocompany/stencil-clj/versions/0.8.9</link>
-    <description>Stencil client for clojure</description>
-    <pubDate>Tue, 12 May 2026 04:53:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.marksto/clj-tg-bot-api/versions/1.1.255</guid>
-    <title>[com.github.marksto/clj-tg-bot-api &quot;1.1.255&quot;]</title>
-    <link>https://clojars.org/com.github.marksto/clj-tg-bot-api/versions/1.1.255</link>
-    <description>The latest Telegram Bot API specification and client lib for Clojure-based apps.</description>
-    <pubDate>Tue, 12 May 2026 02:37:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/party.donut/generate/versions/1.0.44</guid>
-    <title>[party.donut/generate &quot;1.0.44&quot;]</title>
-    <link>https://clojars.org/party.donut/generate/versions/1.0.44</link>
-    <description>generators for clojure</description>
-    <pubDate>Tue, 12 May 2026 00:26:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/trapperkeeper-scheduler/versions/1.4.0</guid>
-    <title>[org.openvoxproject/trapperkeeper-scheduler &quot;1.4.0&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/trapperkeeper-scheduler/versions/1.4.0</link>
-    <description>Trapperkeeper Scheduler Service</description>
-    <pubDate>Mon, 11 May 2026 19:59:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/clj-shell-utils/versions/2.2.0</guid>
-    <title>[org.openvoxproject/clj-shell-utils &quot;2.2.0&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/clj-shell-utils/versions/2.2.0</link>
-    <description>Clojure shell execution utilities</description>
-    <pubDate>Mon, 11 May 2026 19:57:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/jruby-utils/versions/5.4.0</guid>
-    <title>[org.openvoxproject/jruby-utils &quot;5.4.0&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/jruby-utils/versions/5.4.0</link>
-    <description>A library for working with JRuby</description>
-    <pubDate>Mon, 11 May 2026 19:57:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/trapperkeeper-filesystem-watcher/versions/1.6.0</guid>
-    <title>[org.openvoxproject/trapperkeeper-filesystem-watcher &quot;1.6.0&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/trapperkeeper-filesystem-watcher/versions/1.6.0</link>
-    <description>Trapperkeeper filesystem watcher service</description>
-    <pubDate>Mon, 11 May 2026 19:55:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/typesafe-config/versions/1.0.3</guid>
-    <title>[org.openvoxproject/typesafe-config &quot;1.0.3&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/typesafe-config/versions/1.0.3</link>
-    <description>Thin Clojure wrapper around Typesafe Config library</description>
-    <pubDate>Mon, 11 May 2026 19:53:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/party.donut/generators/versions/0.0.18</guid>
-    <title>[party.donut/generators &quot;0.0.18&quot;]</title>
-    <link>https://clojars.org/party.donut/generators/versions/0.0.18</link>
-    <description>generators for Donut</description>
-    <pubDate>Mon, 11 May 2026 19:16:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1683</guid>
-    <title>[org.replikativ/datahike &quot;0.8.1683&quot;]</title>
-    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1683</link>
-    <description>A durable datalog implementation adaptable for distribution.</description>
-    <pubDate>Mon, 11 May 2026 18:39:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/stratum/versions/0.2.68</guid>
-    <title>[org.replikativ/stratum &quot;0.2.68&quot;]</title>
-    <link>https://clojars.org/org.replikativ/stratum/versions/0.2.68</link>
-    <description>SIMD-accelerated columnar analytics for the JVM</description>
-    <pubDate>Mon, 11 May 2026 17:19:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/party.donut/generate/versions/1.0.43</guid>
-    <title>[party.donut/generate &quot;1.0.43&quot;]</title>
-    <link>https://clojars.org/party.donut/generate/versions/1.0.43</link>
-    <description>generators for clojure</description>
-    <pubDate>Mon, 11 May 2026 17:18:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.idiomattic/easy-onnx/versions/0.1.28</guid>
-    <title>[net.clojars.idiomattic/easy-onnx &quot;0.1.28&quot;]</title>
-    <link>https://clojars.org/net.clojars.idiomattic/easy-onnx/versions/0.1.28</link>
-    <description>A library wrapping com.microsoft.onnxruntime/onnxruntime and ai.djl.huggingface/tokenizers, providing an easy interface for running ML workloads within Clojure applications.</description>
-    <pubDate>Mon, 11 May 2026 15:25:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.mattilsynet/design/versions/3.2.4.41</guid>
-    <title>[io.mattilsynet/design &quot;3.2.4.41&quot;]</title>
-    <link>https://clojars.org/io.mattilsynet/design/versions/3.2.4.41</link>
-    <description>Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.</description>
-    <pubDate>Mon, 11 May 2026 09:49:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.5.0</guid>
-    <title>[com.blockether/svar &quot;0.5.0&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.5.0</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Mon, 11 May 2026 09:35:22 +0000</pubDate>
   </item>
   </channel>
 </rss>

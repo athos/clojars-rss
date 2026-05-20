@@ -1,19 +1,3 @@
-{:created 1778492122903, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.5.0"}
-{:created 1778492993809, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "3.2.4.41"}
-{:created 1778513158529, :description "A library wrapping com.microsoft.onnxruntime/onnxruntime and ai.djl.huggingface/tokenizers, providing an easy interface for running ML workloads within Clojure applications.", :group_name "net.clojars.idiomattic", :jar_name "easy-onnx", :version "0.1.28"}
-{:created 1778519897146, :description "generators for clojure", :group_name "party.donut", :jar_name "generate", :version "1.0.43"}
-{:created 1778519983631, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.2.68"}
-{:created 1778524767009, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1683"}
-{:created 1778526977220, :description "generators for Donut", :group_name "party.donut", :jar_name "generators", :version "0.0.18"}
-{:created 1778529196602, :description "Thin Clojure wrapper around Typesafe Config library", :group_name "org.openvoxproject", :jar_name "typesafe-config", :version "1.0.3"}
-{:created 1778529345732, :description "Trapperkeeper filesystem watcher service", :group_name "org.openvoxproject", :jar_name "trapperkeeper-filesystem-watcher", :version "1.6.0"}
-{:created 1778529449255, :description "A library for working with JRuby", :group_name "org.openvoxproject", :jar_name "jruby-utils", :version "5.4.0"}
-{:created 1778529472443, :description "Clojure shell execution utilities", :group_name "org.openvoxproject", :jar_name "clj-shell-utils", :version "2.2.0"}
-{:created 1778529571080, :description "Trapperkeeper Scheduler Service", :group_name "org.openvoxproject", :jar_name "trapperkeeper-scheduler", :version "1.4.0"}
-{:created 1778545618501, :description "generators for clojure", :group_name "party.donut", :jar_name "generate", :version "1.0.44"}
-{:created 1778553479475, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.1.255"}
-{:created 1778561606075, :description "Stencil client for clojure", :group_name "com.gotocompany", :jar_name "stencil-clj", :version "0.8.9"}
-{:created 1778565446407, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "3.2.5.41"}
 {:created 1778568235916, :description "HTTP Server for shadow-cljs", :group_name "com.thheller", :jar_name "shadow-http", :version "0.1.8"}
 {:created 1778568387021, :description "CLJS development tools", :group_name "thheller", :jar_name "shadow-cljs", :version "3.4.10"}
 {:created 1778574750437, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "3.2.6.41"}
@@ -254,3 +238,19 @@
 {:created 1779267450331, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-manifold", :version "0.4.0"}
 {:created 1779267484158, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-jms", :version "0.4.0"}
 {:created 1779267518699, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-nats", :version "0.4.0"}
+{:created 1779270266109, :description "nREPL middleware to support editor-agnostic refactoring", :group_name "refactor-nrepl", :jar_name "refactor-nrepl", :version "3.13.0"}
+{:created 1779270868198, :description "Small URL helpers for Veo4 Video.", :group_name "net.clojars.tianwei", :jar_name "veo4-video-art-site-kit", :version "0.1.0"}
+{:created 1779270886905, :description "Small URL helpers for AI Learn Hub.", :group_name "net.clojars.tianwei", :jar_name "ailearnhub-net-site-kit", :version "0.1.0"}
+{:created 1779270905722, :description "Small URL helpers for GPT Image 2 Live.", :group_name "net.clojars.tianwei", :jar_name "gpt-image-2-live-site-kit", :version "0.1.0"}
+{:created 1779270923284, :description "Small URL helpers for GPT Image2 AI Online.", :group_name "net.clojars.tianwei", :jar_name "gpt-image2-ai-online-site-kit", :version "0.1.0"}
+{:created 1779270940023, :description "Small URL helpers for GPT Image2AI Art.", :group_name "net.clojars.tianwei", :jar_name "gpt-image2ai-art-site-kit", :version "0.1.0"}
+{:created 1779270957692, :description "Small URL helpers for GPT Image2 AI Art.", :group_name "net.clojars.tianwei", :jar_name "gpt-image2-ai-art-site-kit", :version "0.1.0"}
+{:created 1779270976449, :description "Small URL helpers for GPT Image2AI.", :group_name "net.clojars.tianwei", :jar_name "gpt-image2ai-net-site-kit", :version "0.1.0"}
+{:created 1779271181032, :description "Utils for dealing with MDC", :group_name "de.danjou", :jar_name "clj-mdc", :version "0.2.13"}
+{:created 1779271418566, :description "Terminal logging API's used by kmono", :group_name "com.kepler16", :jar_name "kmono-log", :version "4.12.2"}
+{:created 1779271419881, :description "The core kmono package and graph API's", :group_name "com.kepler16", :jar_name "kmono-core", :version "4.12.2"}
+{:created 1779271424930, :description "Tools for versioning kmono packages", :group_name "com.kepler16", :jar_name "kmono-version", :version "4.12.2"}
+{:created 1779271425463, :description "A suite of tools for use within tools.build", :group_name "com.kepler16", :jar_name "kmono-build", :version "4.12.2"}
+{:created 1779271430710, :description "A tool for working in clojure (mono)repos", :group_name "com.kepler16", :jar_name "kmono", :version "4.12.2"}
+{:created 1779271431085, :description "The kmono CLI interface", :group_name "com.kepler16", :jar_name "kmono-cli", :version "4.12.2"}
+{:created 1779274325336, :description "Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns), VS-15 text-presentation width, and VS-16 terminal width overrides (☑️ wide; 🏷️/❤️ narrow by default). Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.", :group_name "com.blockether", :jar_name "lanterna", :version "3.1.5-vis.4"}
