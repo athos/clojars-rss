@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 20 May 2026 10:58:37 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 12:00:05 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.5</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.5&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.5</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns), VS-15 text-presentation width, and VS-16 terminal width overrides (☑️/🏷️/❤️ narrow by default). Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.</description>
+    <pubDate>Wed, 20 May 2026 11:15:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/svar/versions/0.5.6</guid>
+    <title>[com.blockether/svar &quot;0.5.6&quot;]</title>
+    <link>https://clojars.org/com.blockether/svar/versions/0.5.6</link>
+    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
+    <pubDate>Wed, 20 May 2026 11:07:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/nl.jomco/openapi-v3-validator/versions/0.2.8</guid>
+    <title>[nl.jomco/openapi-v3-validator &quot;0.2.8&quot;]</title>
+    <link>https://clojars.org/nl.jomco/openapi-v3-validator/versions/0.2.8</link>
+    <description></description>
+    <pubDate>Wed, 20 May 2026 11:03:43 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.4</guid>
     <title>[com.blockether/lanterna &quot;3.1.5-vis.4&quot;]</title>
@@ -1775,27 +1796,6 @@
     <link>https://clojars.org/xyz.triplox/triplox/versions/0.1.0-alpha.2</link>
     <description>A triple store built on top of XTDB</description>
     <pubDate>Tue, 12 May 2026 08:48:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.mattilsynet/design/versions/3.2.6.41</guid>
-    <title>[io.mattilsynet/design &quot;3.2.6.41&quot;]</title>
-    <link>https://clojars.org/io.mattilsynet/design/versions/3.2.6.41</link>
-    <description>Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.</description>
-    <pubDate>Tue, 12 May 2026 08:32:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/thheller/shadow-cljs/versions/3.4.10</guid>
-    <title>[thheller/shadow-cljs &quot;3.4.10&quot;]</title>
-    <link>https://clojars.org/thheller/shadow-cljs/versions/3.4.10</link>
-    <description>CLJS development tools</description>
-    <pubDate>Tue, 12 May 2026 06:46:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.thheller/shadow-http/versions/0.1.8</guid>
-    <title>[com.thheller/shadow-http &quot;0.1.8&quot;]</title>
-    <link>https://clojars.org/com.thheller/shadow-http/versions/0.1.8</link>
-    <description>HTTP Server for shadow-cljs</description>
-    <pubDate>Tue, 12 May 2026 06:43:55 +0000</pubDate>
   </item>
   </channel>
 </rss>

@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 20 May 2026 10:58:37 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 12:00:05 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.jepsen/postgres/versions/0.1.2-SNAPSHOT</guid>
+    <title>[io.jepsen/postgres &quot;0.1.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/io.jepsen/postgres/versions/0.1.2-SNAPSHOT</link>
+    <description>Jepsen tests for PostgreSQL.</description>
+    <pubDate>Wed, 20 May 2026 11:58:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/jepsen/versions/0.3.12-SNAPSHOT</guid>
+    <title>[jepsen &quot;0.3.12-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/jepsen/versions/0.3.12-SNAPSHOT</link>
+    <description>Distributed systems testing framework.</description>
+    <pubDate>Wed, 20 May 2026 11:57:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.5</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.5&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.5</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns), VS-15 text-presentation width, and VS-16 terminal width overrides (☑️/🏷️/❤️ narrow by default). Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.</description>
+    <pubDate>Wed, 20 May 2026 11:15:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/svar/versions/0.5.6</guid>
+    <title>[com.blockether/svar &quot;0.5.6&quot;]</title>
+    <link>https://clojars.org/com.blockether/svar/versions/0.5.6</link>
+    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
+    <pubDate>Wed, 20 May 2026 11:07:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/nl.jomco/openapi-v3-validator/versions/0.2.8</guid>
+    <title>[nl.jomco/openapi-v3-validator &quot;0.2.8&quot;]</title>
+    <link>https://clojars.org/nl.jomco/openapi-v3-validator/versions/0.2.8</link>
+    <description></description>
+    <pubDate>Wed, 20 May 2026 11:03:43 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.4</guid>
     <title>[com.blockether/lanterna &quot;3.1.5-vis.4&quot;]</title>
@@ -1761,41 +1796,6 @@
     <link>https://clojars.org/org.typedclojure/typed.lib.spec.alpha/versions/1.4.0-SNAPSHOT</link>
     <description></description>
     <pubDate>Thu, 14 May 2026 04:50:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.clj.analyzer/versions/1.4.0-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.clj.analyzer &quot;1.4.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.clj.analyzer/versions/1.4.0-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Thu, 14 May 2026 04:50:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.cljc.analyzer/versions/1.4.0-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.cljc.analyzer &quot;1.4.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.cljc.analyzer/versions/1.4.0-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Thu, 14 May 2026 04:50:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.marksto/clj-tg-bot-api/versions/1.1.257</guid>
-    <title>[com.github.marksto/clj-tg-bot-api &quot;1.1.257&quot;]</title>
-    <link>https://clojars.org/com.github.marksto/clj-tg-bot-api/versions/1.1.257</link>
-    <description>The latest Telegram Bot API specification and client lib for Clojure-based apps.</description>
-    <pubDate>Thu, 14 May 2026 02:45:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.lisa0802/ray-4/versions/0.1.0</guid>
-    <title>[org.clojars.lisa0802/ray-4 &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.lisa0802/ray-4/versions/0.1.0</link>
-    <description>Minimal Clojars package for Ray 4 AI image generator metadata.</description>
-    <pubDate>Thu, 14 May 2026 02:20:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.typedclojure/typed.java.analyzer/versions/1.4.0-SNAPSHOT</guid>
-    <title>[org.typedclojure/typed.java.analyzer &quot;1.4.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.typedclojure/typed.java.analyzer/versions/1.4.0-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Thu, 14 May 2026 01:16:39 +0000</pubDate>
   </item>
   </channel>
 </rss>
