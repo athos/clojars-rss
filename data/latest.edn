@@ -1,4 +1,3 @@
-{:created 1778734220065, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
 {:created 1778734229166, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
 {:created 1778734238128, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
 {:created 1778734247453, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
@@ -105,7 +104,6 @@
 {:created 1779055747327, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1688"}
 {:created 1779057142410, :description "A library for simple wire-like connectivity semantics.", :group_name "org.replikativ", :jar_name "kabel", :version "0.3.97"}
 {:created 1779064903254, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1689"}
-{:created 1779070615817, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
 {:created 1779071981721, :description "generators for clojure", :group_name "party.donut", :jar_name "generate", :version "1.0.54"}
 {:created 1779072449140, :description "Rephrase exceptions.", :group_name "org.corfield", :jar_name "rephrase", :version "0.1.0-SNAPSHOT"}
 {:created 1779072926004, :description "generators for Donut", :group_name "party.donut", :jar_name "generators", :version "0.0.26"}
@@ -211,7 +209,6 @@
 {:created 1779199301704, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-25"}
 {:created 1779199340680, :description "boundary CLI — project generator and module installer", :group_name "org.boundary-app", :jar_name "boundary-cli", :version "1.0.1-alpha-25"}
 {:created 1779199380684, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.1-alpha-25"}
-{:created 1779199618424, :description nil, :group_name "com.hyperfiddle", :jar_name "hyperfiddle-agent", :version "v0-alpha-SNAPSHOT"}
 {:created 1779201266335, :description "A small Clojure TCP server", :group_name "dev.weavejester", :jar_name "teensyp", :version "0.5.0"}
 {:created 1779201655629, :description "Psi — AI coding agent", :group_name "org.hugoduncan", :jar_name "psi", :version "0.1.2123"}
 {:created 1779204243250, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.04.16-SNAPSHOT"}
@@ -253,4 +250,7 @@
 {:created 1779275279595, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.5.6"}
 {:created 1779275724342, :description "Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns), VS-15 text-presentation width, and VS-16 terminal width overrides (☑️/🏷️/❤️ narrow by default). Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.", :group_name "com.blockether", :jar_name "lanterna", :version "3.1.5-vis.5"}
 {:created 1779278270698, :description "Distributed systems testing framework.", :group_name "jepsen", :jar_name "jepsen", :version "0.3.12-SNAPSHOT"}
-{:created 1779278300348, :description "Jepsen tests for PostgreSQL.", :group_name "io.jepsen", :jar_name "postgres", :version "0.1.2-SNAPSHOT"}
+{:created 1779278697345, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
+{:created 1779280116318, :description nil, :group_name "io.github.supabase-community", :jar_name "core", :version "0.4.0"}
+{:created 1779281816400, :description nil, :group_name "com.hyperfiddle", :jar_name "hyperfiddle-agent", :version "v0-alpha-SNAPSHOT"}
+{:created 1779281826883, :description "Jepsen tests for PostgreSQL.", :group_name "io.jepsen", :jar_name "postgres", :version "0.1.2-SNAPSHOT"}
