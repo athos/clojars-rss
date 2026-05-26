@@ -1,6 +1,3 @@
-{:created 1779123496925, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.62.0"}
-{:created 1779123530429, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.62.0"}
-{:created 1779123710923, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.62.0"}
 {:created 1779123950184, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.62.0"}
 {:created 1779124122861, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.62.0"}
 {:created 1779124172597, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.62.0"}
@@ -183,7 +180,6 @@
 {:created 1779566429705, :description "A 2D game engine based on LWJGL (Light Weight Java Game Library)", :group_name "com.kimbsy", :jar_name "clunk", :version "2.0.1"}
 {:created 1779566484999, :description "A Leiningen template for the clunk game engine", :group_name "com.kimbsy", :jar_name "lein-template.clunk", :version "2.0.1"}
 {:created 1779570016288, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.5.9"}
-{:created 1779570925504, :description "Clojure bindings for the Hegel property-based testing library", :group_name "com.aphyr", :jar_name "hegel-clj", :version "0.1.0-SNAPSHOT"}
 {:created 1779575813034, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
 {:created 1779594696664, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.10"}
 {:created 1779599308066, :description "Core utils library for Clojure/Script", :group_name "com.taoensso", :jar_name "encore", :version "3.161.0"}
@@ -215,7 +211,6 @@
 {:created 1779713969805, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.04.16-SNAPSHOT"}
 {:created 1779714167366, :description "A tool for visualizing the transitive lock graph of a Java jstack thread dump.", :group_name "io.github.mbjarland", :jar_name "jstack-report", :version "1.3.1"}
 {:created 1779717121051, :description "Lein plugin to run clj-kondo", :group_name "com.github.clj-kondo", :jar_name "lein-clj-kondo", :version "2026.05.25"}
-{:created 1779720447011, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.05.26-SNAPSHOT"}
 {:created 1779722006632, :description "A library for function memoization.", :group_name "org.clojars.roklenarcic", :jar_name "memento", :version "2.1.74"}
 {:created 1779725065363, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-engine", :version "0.1.51"}
 {:created 1779727729356, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "skeptic", :version "0.9.0-rc5"}
@@ -254,3 +249,8 @@
 {:created 1779802858433, :description "80 native Web Components with centralised theming — stateless, framework-free, zero runtime. Built with ClojureScript, compiled to tree-shakeable ESM.", :group_name "com.github.avanelsas", :jar_name "baredom", :version "3.3.0"}
 {:created 1779803146207, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.3.0"}
 {:created 1779806753330, :description "A memento cache using Redis", :group_name "org.clojars.roklenarcic", :jar_name "memento-redis", :version "2.0.33"}
+{:created 1779808366903, :description "A small Clojure TCP server", :group_name "dev.weavejester", :jar_name "teensyp", :version "0.5.5"}
+{:created 1779811576641, :description "Clojure bindings for the Hegel property-based testing library", :group_name "com.aphyr", :jar_name "hegel-clj", :version "0.1.0-SNAPSHOT"}
+{:created 1779813268556, :description "A Clojure component framework over Datastar — Seaside-style call/answer over server-rendered SSE patches.", :group_name "dev.zeko", :jar_name "stube", :version "0.1.6"}
+{:created 1779813415945, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.6.1"}
+{:created 1779813502259, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.05.26-SNAPSHOT"}
