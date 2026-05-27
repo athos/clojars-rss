@@ -1,17 +1,3 @@
-{:created 1779119460593, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-23"}
-{:created 1779119538152, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-23"}
-{:created 1779119616348, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-23"}
-{:created 1779119656885, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-23"}
-{:created 1779119696439, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-23"}
-{:created 1779122224133, :description "Common Uncomplicate utilities.", :group_name "uncomplicate", :jar_name "commons", :version "0.20.0"}
-{:created 1779122780572, :description "Clojure native interop through JavaCPP", :group_name "org.uncomplicate", :jar_name "clojure-cpp", :version "0.8.0"}
-{:created 1779122862121, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.28.0"}
-{:created 1779123040792, :description "ClojureCL is a Clojure library for parallel computations with OpenCL.", :group_name "uncomplicate", :jar_name "clojurecl", :version "0.16.3"}
-{:created 1779123496925, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.62.0"}
-{:created 1779123530429, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.62.0"}
-{:created 1779123710923, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.62.0"}
-{:created 1779123950184, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.62.0"}
-{:created 1779124122861, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.62.0"}
 {:created 1779124172597, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.62.0"}
 {:created 1779124243967, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.62.0"}
 {:created 1779124412353, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic Neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.62.0"}
@@ -254,3 +240,17 @@
 {:created 1779845038597, :description "generators for Donut", :group_name "party.donut", :jar_name "generators", :version "0.0.36"}
 {:created 1779855130775, :description "Clojure library for DynamoDB single table design operations", :group_name "com.thoughtsforge", :jar_name "dynamo-db-actions", :version "01.02.004"}
 {:created 1779865870009, :description "A Ring middleware for frontend performance optimization.", :group_name "optimus", :jar_name "optimus", :version "2026.05.27"}
+{:created 1779875991570, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core", :version "1.1093"}
+{:created 1779876000453, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-aws-emf", :version "1.1093"}
+{:created 1779876011933, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-client", :version "1.1093"}
+{:created 1779876021868, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-clj", :version "1.1093"}
+{:created 1779876031906, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-dev", :version "1.1093"}
+{:created 1779876042027, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-import", :version "1.1093"}
+{:created 1779876050877, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-io", :version "1.1093"}
+{:created 1779876059733, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-json", :version "1.1093"}
+{:created 1779876069812, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-nippy", :version "1.1093"}
+{:created 1779876078623, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-parquet", :version "1.1093"}
+{:created 1779876087608, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-view-store-postgres", :version "1.1093"}
+{:created 1779876096597, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-xlsx", :version "1.1093"}
+{:created 1779876105644, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-java-lambda-runtime", :version "1.1093"}
+{:created 1779876113830, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-router", :version "1.1093"}
