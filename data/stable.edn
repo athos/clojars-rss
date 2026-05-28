@@ -1,5 +1,3 @@
-{:created 1779198674687, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-25"}
-{:created 1779198713877, :description "Code generation library for Boundary framework: module scaffolding", :group_name "org.boundary-app", :jar_name "boundary-scaffolder", :version "1.0.1-alpha-25"}
 {:created 1779198752952, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-25"}
 {:created 1779198791766, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-25"}
 {:created 1779198830102, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-25"}
@@ -254,3 +252,5 @@
 {:created 1779920309530, :description "Ring adapter for com.sun.net.httpserver", :group_name "org.clojars.jj", :jar_name "ring-http-exchange", :version "1.4.6"}
 {:created 1779920720483, :description "A Clojure component framework over Datastar — Seaside-style call/answer over server-rendered SSE patches.", :group_name "dev.zeko", :jar_name "stube", :version "0.2.1"}
 {:created 1779929740775, :description "Conceptual is a fast JVM based in-memory concept database that can be used as a feature store, graph database, and more.", :group_name "org.clojars.jekyllislandtours", :jar_name "conceptual", :version "0.1.151"}
+{:created 1779934582625, :description "A simple, fast and versatile Datalog database", :group_name "datalevin", :jar_name "datalevin", :version "0.10.17"}
+{:created 1779934595803, :description "Embedded-only Datalevin runtime with bundled native libraries and remote client support", :group_name "org.datalevin", :jar_name "datalevin-embedded", :version "0.10.17"}
