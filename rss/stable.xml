@@ -4,7 +4,14 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 31 May 2026 22:18:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 31 May 2026 23:20:49 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.7</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.7&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.7</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns), VS-15 text-presentation width, VS-16 terminal width overrides (☑️/🏷️/❤️ narrow by default), and East-Asian-Ambiguous (EAW=A) width: curated text punctuation/letters (·, —, …, λ, quotes, ™, Greek, Cyrillic) counted as two columns to match ambiguous-wide target terminals, while structural chrome (box drawing, blocks, shapes, arrows) stays single-column. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.</description>
+    <pubDate>Sun, 31 May 2026 23:20:38 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.clojars.jj/majavat/versions/2.1.0</guid>
     <title>[org.clojars.jj/majavat &quot;2.1.0&quot;]</title>
@@ -1799,13 +1806,6 @@
     <link>https://clojars.org/info.sunng/ring-jetty9-adapter/versions/0.39.4</link>
     <description>Ring adapter for jetty9, which supports websocket, http/2 and http/3</description>
     <pubDate>Sat, 23 May 2026 18:16:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/info.sunng/ring-jetty9-adapter-http2/versions/0.2.6</guid>
-    <title>[info.sunng/ring-jetty9-adapter-http2 &quot;0.2.6&quot;]</title>
-    <link>https://clojars.org/info.sunng/ring-jetty9-adapter-http2/versions/0.2.6</link>
-    <description>Ring adapter for jetty 9 and above, meta package for http2</description>
-    <pubDate>Sat, 23 May 2026 18:16:19 +0000</pubDate>
   </item>
   </channel>
 </rss>
