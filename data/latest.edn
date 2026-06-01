@@ -1,5 +1,3 @@
-{:created 1779730322977, :description "WebGen/LST Parameter-Driven Web Application Template", :group_name "org.clojars.hector", :jar_name "lein-template.webgen", :version "0.3.66"}
-{:created 1779731781748, :description "GitHub Copilot SDK Supercharged for Clojure", :group_name "net.clojars.jeremiahisaacson", :jar_name "copilot-sdk-supercharged", :version "2.3.0"}
 {:created 1779733355637, :description nil, :group_name "org.clojars.darkleaf", :jar_name "di", :version "3.6.2"}
 {:created 1779733967535, :description nil, :group_name "org.clojars.darkleaf", :jar_name "di", :version "3.6.3"}
 {:created 1779736050995, :description "WebGen/LST Parameter-Driven Web Application Template", :group_name "org.clojars.hector", :jar_name "lein-template.webgen", :version "0.3.68"}
@@ -254,3 +252,5 @@
 {:created 1780260361398, :description nil, :group_name "io.github.mlimotte", :jar_name "gsheetplus", :version "1.1.3"}
 {:created 1780262462881, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "2.1.0"}
 {:created 1780269638368, :description "Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns), VS-15 text-presentation width, VS-16 terminal width overrides (☑️/🏷️/❤️ narrow by default), and East-Asian-Ambiguous (EAW=A) width: curated text punctuation/letters (·, —, …, λ, quotes, ™, Greek, Cyrillic) counted as two columns to match ambiguous-wide target terminals, while structural chrome (box drawing, blocks, shapes, arrows) stays single-column. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.", :group_name "com.blockether", :jar_name "lanterna", :version "3.1.5-vis.7"}
+{:created 1780271901322, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "2.1.23-SNAPSHOT"}
+{:created 1780271933858, :description "Library for generating slim JARs", :group_name "io.core0", :jar_name "slim-build-tools", :version "1.0.0-SNAPSHOT"}
