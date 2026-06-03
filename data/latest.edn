@@ -1,26 +1,3 @@
-{:created 1779902818779, :description "A wrapper for sshj and some CLI tools", :group_name "com.github.redhatqe", :jar_name "ssh-tools", :version "2.2.0"}
-{:created 1779903706768, :description nil, :group_name "io.github.supabase-community", :jar_name "core", :version "0.5.0"}
-{:created 1779904341886, :description "A very thin wrapper around clojure.tools.logging which adds MDC support", :group_name "org.clojars.lukaszkorecki", :jar_name "mokujin", :version "1.0.0.119-SNAPSHOT"}
-{:created 1779904357804, :description "Logback extensions for Mokujin - easy confiugration, pre-configured appenders etc", :group_name "org.clojars.lukaszkorecki", :jar_name "mokujin-logback", :version "1.0.0.119-SNAPSHOT"}
-{:created 1779904539708, :description nil, :group_name "io.github.supabase-community", :jar_name "functions", :version "0.1.0"}
-{:created 1779905005392, :description "", :group_name "org.clojars.kylc", :jar_name "hello_lein", :version "0.1-SNAPSHOT"}
-{:created 1779905460819, :description "A terminal (TUI) rendering target for Fulcro, backed by JLine", :group_name "com.fulcrologic", :jar_name "fulcro-tui", :version "1.0.0-RC2"}
-{:created 1779907874401, :description "", :group_name "org.clojars.kylc", :jar_name "jank-json-test", :version "0.1-SNAPSHOT"}
-{:created 1779916902971, :description "A simple, fast and versatile Datalog database", :group_name "datalevin", :jar_name "datalevin", :version "0.10.16"}
-{:created 1779916918434, :description "Embedded-only Datalevin runtime with bundled native libraries and remote client support", :group_name "org.datalevin", :jar_name "datalevin-embedded", :version "0.10.16"}
-{:created 1779917172424, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-engine", :version "0.1.55"}
-{:created 1779920309530, :description "Ring adapter for com.sun.net.httpserver", :group_name "org.clojars.jj", :jar_name "ring-http-exchange", :version "1.4.6"}
-{:created 1779920720483, :description "A Clojure component framework over Datastar — Seaside-style call/answer over server-rendered SSE patches.", :group_name "dev.zeko", :jar_name "stube", :version "0.2.1"}
-{:created 1779929740775, :description "Conceptual is a fast JVM based in-memory concept database that can be used as a feature store, graph database, and more.", :group_name "org.clojars.jekyllislandtours", :jar_name "conceptual", :version "0.1.151"}
-{:created 1779934582625, :description "A simple, fast and versatile Datalog database", :group_name "datalevin", :jar_name "datalevin", :version "0.10.17"}
-{:created 1779934595803, :description "Embedded-only Datalevin runtime with bundled native libraries and remote client support", :group_name "org.datalevin", :jar_name "datalevin-embedded", :version "0.10.17"}
-{:created 1779944495868, :description "A simple, fast and versatile Datalog database", :group_name "datalevin", :jar_name "datalevin", :version "0.10.18"}
-{:created 1779944511104, :description "Embedded-only Datalevin runtime with bundled native libraries and remote client support", :group_name "org.datalevin", :jar_name "datalevin-embedded", :version "0.10.18"}
-{:created 1779944651399, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1691"}
-{:created 1779968369261, :description "Command line parser with good subcommand and help handling", :group_name "com.lambdaisland", :jar_name "cli", :version "1.30.130"}
-{:created 1779973237943, :description "Email address validation.", :group_name "de.dixieflatline", :jar_name "flimflam", :version "0.1.0-SNAPSHOT"}
-{:created 1779973928915, :description "A terminal (TUI) rendering target for Fulcro, backed by JLine", :group_name "com.fulcrologic", :jar_name "fulcro-tui", :version "1.0.0-RC3"}
-{:created 1779980930546, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.05.26-SNAPSHOT"}
 {:created 1779985099527, :description "FIXME: write description", :group_name "org.clojars.actionho", :jar_name "actionho-commons", :version "0.10-SNAPSHOT"}
 {:created 1779987641524, :description nil, :group_name "io.github.kit-clj", :jar_name "kit-jdk-http", :version "1.0.1"}
 {:created 1779987677384, :description nil, :group_name "io.github.kit-clj", :jar_name "deps-template", :version "0.1.92"}
@@ -254,3 +231,26 @@
 {:created 1780504093537, :description "A statechart-driven autonomous coding agent.", :group_name "com.fulcrologic", :jar_name "escapement", :version "1.0.0-RC4"}
 {:created 1780504138170, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.17"}
 {:created 1780504479475, :description "Thin Clojure wrapper around Typesafe Config library", :group_name "org.openvoxproject", :jar_name "typesafe-config", :version "1.0.4"}
+{:created 1780518090831, :description "Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "org.boundary-app", :jar_name "boundary-tools", :version "1.0.1-alpha-27"}
+{:created 1780518131257, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-27"}
+{:created 1780518171274, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-27"}
+{:created 1780518212028, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-27"}
+{:created 1780518251196, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-27"}
+{:created 1780518291591, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-27"}
+{:created 1780518331051, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-27"}
+{:created 1780518409518, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-27"}
+{:created 1780518448648, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-27"}
+{:created 1780518487862, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-27"}
+{:created 1780518527354, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-27"}
+{:created 1780518566850, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-27"}
+{:created 1780518606550, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-27"}
+{:created 1780518645826, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-27"}
+{:created 1780518684920, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-27"}
+{:created 1780518724009, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-27"}
+{:created 1780518741260, :description nil, :group_name "io.github.noahtheduke", :jar_name "fluent-clj", :version "0.2.0"}
+{:created 1780518763182, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-27"}
+{:created 1780518804152, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-27"}
+{:created 1780518843436, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-27"}
+{:created 1780518882820, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-27"}
+{:created 1780518925379, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-27"}
+{:created 1780518965789, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-27"}
