@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 5 Jun 2026 16:04:32 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 5 Jun 2026 17:33:56 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.10</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.10&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.10</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns), VS-15 text-presentation width, VS-16 terminal width overrides (☑️/🏷️/❤️ narrow by default), and East-Asian-Ambiguous (EAW=A) width: curated text punctuation/letters (·, —, …, λ, quotes, ™, Greek, Cyrillic) counted as two columns to match ambiguous-wide target terminals, while structural chrome (box drawing, blocks, shapes, arrows) stays single-column. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.</description>
+    <pubDate>Fri, 5 Jun 2026 17:26:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.clojure-quant/quanta-blotter/versions/0.1.29</guid>
+    <title>[io.github.clojure-quant/quanta-blotter &quot;0.1.29&quot;]</title>
+    <link>https://clojars.org/io.github.clojure-quant/quanta-blotter/versions/0.1.29</link>
+    <description></description>
+    <pubDate>Fri, 5 Jun 2026 16:43:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.jramosg/reagent-mui-nested-menu/versions/0.0.1-SNAPSHOT</guid>
+    <title>[io.github.jramosg/reagent-mui-nested-menu &quot;0.0.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/io.github.jramosg/reagent-mui-nested-menu/versions/0.0.1-SNAPSHOT</link>
+    <description>Nested MUI menu components for Reagent: dropdown, context menu, icons and keyboard navigation. Compatible with MUI v5 through v9.</description>
+    <pubDate>Fri, 5 Jun 2026 16:26:44 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/yetibot/kroki/versions/20260605.152659.c135d20</guid>
     <title>[yetibot/kroki &quot;20260605.152659.c135d20&quot;]</title>
@@ -1782,29 +1803,6 @@
     <link>https://clojars.org/com.github.igrishaev/pg2-core/versions/0.1.49</link>
     <description>Postgres client in pure Java (no JDBC)</description>
     <pubDate>Sat, 30 May 2026 17:25:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/core/versions/20260530.170716.191dfeb</guid>
-    <title>[yetibot/core &quot;20260530.170716.191dfeb&quot;]</title>
-    <link>https://clojars.org/yetibot/core/versions/20260530.170716.191dfeb</link>
-    <description>Core yetibot utilities, extracted for shared use among yetibot
-                and its various plugins</description>
-    <pubDate>Sat, 30 May 2026 17:07:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.cljfx/ghosttyfx/versions/0.1.169.11</guid>
-    <title>[io.github.cljfx/ghosttyfx &quot;0.1.169.11&quot;]</title>
-    <link>https://clojars.org/io.github.cljfx/ghosttyfx/versions/0.1.169.11</link>
-    <description></description>
-    <pubDate>Sat, 30 May 2026 16:23:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/core/versions/20260530.145143.fd3785e</guid>
-    <title>[yetibot/core &quot;20260530.145143.fd3785e&quot;]</title>
-    <link>https://clojars.org/yetibot/core/versions/20260530.145143.fd3785e</link>
-    <description>Core yetibot utilities, extracted for shared use among yetibot
-                and its various plugins</description>
-    <pubDate>Sat, 30 May 2026 14:52:19 +0000</pubDate>
   </item>
   </channel>
 </rss>

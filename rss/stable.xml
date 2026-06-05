@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 5 Jun 2026 16:04:32 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 5 Jun 2026 17:33:56 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.10</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.10&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.10</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns), VS-15 text-presentation width, VS-16 terminal width overrides (☑️/🏷️/❤️ narrow by default), and East-Asian-Ambiguous (EAW=A) width: curated text punctuation/letters (·, —, …, λ, quotes, ™, Greek, Cyrillic) counted as two columns to match ambiguous-wide target terminals, while structural chrome (box drawing, blocks, shapes, arrows) stays single-column. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.</description>
+    <pubDate>Fri, 5 Jun 2026 17:26:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.clojure-quant/quanta-blotter/versions/0.1.29</guid>
+    <title>[io.github.clojure-quant/quanta-blotter &quot;0.1.29&quot;]</title>
+    <link>https://clojars.org/io.github.clojure-quant/quanta-blotter/versions/0.1.29</link>
+    <description></description>
+    <pubDate>Fri, 5 Jun 2026 16:43:16 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/yetibot/kroki/versions/20260605.152659.c135d20</guid>
     <title>[yetibot/kroki &quot;20260605.152659.c135d20&quot;]</title>
@@ -1795,20 +1809,6 @@
     <description>Core yetibot utilities, extracted for shared use among yetibot
                 and its various plugins</description>
     <pubDate>Sat, 30 May 2026 02:46:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.thoughtsforge/aws-lambda-runtime/versions/0.02.000</guid>
-    <title>[com.thoughtsforge/aws-lambda-runtime &quot;0.02.000&quot;]</title>
-    <link>https://clojars.org/com.thoughtsforge/aws-lambda-runtime/versions/0.02.000</link>
-    <description>A lightweight Clojure library for building AWS Lambda custom runtimes. GraalVM native-image friendly.</description>
-    <pubDate>Sat, 30 May 2026 01:43:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.sstraust/deft/versions/experimental</guid>
-    <title>[org.clojars.sstraust/deft &quot;experimental&quot;]</title>
-    <link>https://clojars.org/org.clojars.sstraust/deft/versions/experimental</link>
-    <description></description>
-    <pubDate>Fri, 29 May 2026 22:33:45 +0000</pubDate>
   </item>
   </channel>
 </rss>
