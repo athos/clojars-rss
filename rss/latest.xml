@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 5 Jun 2026 21:28:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 5 Jun 2026 22:23:25 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/tolitius/grete/versions/0.1.8007</guid>
+    <title>[tolitius/grete &quot;0.1.8007&quot;]</title>
+    <link>https://clojars.org/tolitius/grete/versions/0.1.8007</link>
+    <description>is gregor&#39;s sister that adds a threadpool and a scheduler</description>
+    <pubDate>Fri, 5 Jun 2026 22:01:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.12</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.12&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.12</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.</description>
+    <pubDate>Fri, 5 Jun 2026 21:57:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.kylc/jank-json/versions/0.1-SNAPSHOT</guid>
+    <title>[org.clojars.kylc/jank-json &quot;0.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.kylc/jank-json/versions/0.1-SNAPSHOT</link>
+    <description></description>
+    <pubDate>Fri, 5 Jun 2026 21:31:28 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.clojure-quant/quanta-blotter-cli/versions/0.1.32</guid>
     <title>[io.github.clojure-quant/quanta-blotter-cli &quot;0.1.32&quot;]</title>
@@ -18,13 +39,6 @@
     <link>https://clojars.org/io.github.clojure-quant/quanta-blotter/versions/0.1.32</link>
     <description></description>
     <pubDate>Fri, 5 Jun 2026 21:27:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.kylc/jank-json/versions/0.1-SNAPSHOT</guid>
-    <title>[org.clojars.kylc/jank-json &quot;0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.kylc/jank-json/versions/0.1-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Fri, 5 Jun 2026 20:54:15 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/dev.tomwaddington/still/versions/0.1.40</guid>
@@ -1788,20 +1802,6 @@
     <link>https://clojars.org/org.clojars.jj/boa-core/versions/1.0.12-SNAPSHOT</link>
     <description>Boa SQL core protocols, parser, and lexer</description>
     <pubDate>Sun, 31 May 2026 01:31:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.phronemophobic.cljonda/automerge-c-linux-x86-64/versions/a11222254d2f86ec9df0738e7002f15a930fe9b4-SNAPSHOT</guid>
-    <title>[com.phronemophobic.cljonda/automerge-c-linux-x86-64 &quot;a11222254d2f86ec9df0738e7002f15a930fe9b4-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.phronemophobic.cljonda/automerge-c-linux-x86-64/versions/a11222254d2f86ec9df0738e7002f15a930fe9b4-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Sat, 30 May 2026 23:23:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.phronemophobic.cljonda/automerge-c-darwin-aarch64/versions/a11222254d2f86ec9df0738e7002f15a930fe9b4-SNAPSHOT</guid>
-    <title>[com.phronemophobic.cljonda/automerge-c-darwin-aarch64 &quot;a11222254d2f86ec9df0738e7002f15a930fe9b4-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.phronemophobic.cljonda/automerge-c-darwin-aarch64/versions/a11222254d2f86ec9df0738e7002f15a930fe9b4-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Sat, 30 May 2026 23:23:15 +0000</pubDate>
   </item>
   </channel>
 </rss>
