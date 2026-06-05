@@ -4,7 +4,35 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 5 Jun 2026 22:23:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 5 Jun 2026 23:24:15 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.clojars.kylc/jank-json/versions/0.1-SNAPSHOT</guid>
+    <title>[org.clojars.kylc/jank-json &quot;0.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.kylc/jank-json/versions/0.1-SNAPSHOT</link>
+    <description></description>
+    <pubDate>Fri, 5 Jun 2026 23:10:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.unisoma/nats-cljc/versions/0.1.1</guid>
+    <title>[io.github.unisoma/nats-cljc &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/io.github.unisoma/nats-cljc/versions/0.1.1</link>
+    <description>NATS for Clojure and ClojureScript under one portable .cljc API.</description>
+    <pubDate>Fri, 5 Jun 2026 23:05:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.gfredericks/exact/versions/0.1.12</guid>
+    <title>[com.gfredericks/exact &quot;0.1.12&quot;]</title>
+    <link>https://clojars.org/com.gfredericks/exact/versions/0.1.12</link>
+    <description>Portable exact arithmetic in Clojure</description>
+    <pubDate>Fri, 5 Jun 2026 22:58:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.kylc/jank-json-sys/versions/0.1-SNAPSHOT</guid>
+    <title>[org.clojars.kylc/jank-json-sys &quot;0.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.kylc/jank-json-sys/versions/0.1-SNAPSHOT</link>
+    <description></description>
+    <pubDate>Fri, 5 Jun 2026 22:41:54 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/tolitius/grete/versions/0.1.8007</guid>
     <title>[tolitius/grete &quot;0.1.8007&quot;]</title>
@@ -18,13 +46,6 @@
     <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.12</link>
     <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.</description>
     <pubDate>Fri, 5 Jun 2026 21:57:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.kylc/jank-json/versions/0.1-SNAPSHOT</guid>
-    <title>[org.clojars.kylc/jank-json &quot;0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.kylc/jank-json/versions/0.1-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Fri, 5 Jun 2026 21:31:28 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.github.clojure-quant/quanta-blotter-cli/versions/0.1.32</guid>
@@ -46,13 +67,6 @@
     <link>https://clojars.org/dev.tomwaddington/still/versions/0.1.40</link>
     <description>Self-modifying snapshot testing for Clojure</description>
     <pubDate>Fri, 5 Jun 2026 20:51:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.kylc/jank-json-sys/versions/0.1-SNAPSHOT</guid>
-    <title>[org.clojars.kylc/jank-json-sys &quot;0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.kylc/jank-json-sys/versions/0.1-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Fri, 5 Jun 2026 20:29:11 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/dev.tomwaddington/still/versions/0.1.39</guid>
@@ -1788,20 +1802,6 @@
     <link>https://clojars.org/org.clojars.jj/jdbc-strategy/versions/1.0.12-SNAPSHOT</link>
     <description>Boa SQL JDBC build strategy</description>
     <pubDate>Sun, 31 May 2026 01:31:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.jj/boa-resource-resolver/versions/1.0.12-SNAPSHOT</guid>
-    <title>[org.clojars.jj/boa-resource-resolver &quot;1.0.12-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.jj/boa-resource-resolver/versions/1.0.12-SNAPSHOT</link>
-    <description>Boa SQL resource resolver</description>
-    <pubDate>Sun, 31 May 2026 01:31:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.jj/boa-core/versions/1.0.12-SNAPSHOT</guid>
-    <title>[org.clojars.jj/boa-core &quot;1.0.12-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.jj/boa-core/versions/1.0.12-SNAPSHOT</link>
-    <description>Boa SQL core protocols, parser, and lexer</description>
-    <pubDate>Sun, 31 May 2026 01:31:29 +0000</pubDate>
   </item>
   </channel>
 </rss>
