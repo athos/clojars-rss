@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 5 Jun 2026 17:33:56 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 5 Jun 2026 18:35:02 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/yetibot/versions/20260605.180005.f8b4f4a</guid>
+    <title>[yetibot &quot;20260605.180005.f8b4f4a&quot;]</title>
+    <link>https://clojars.org/yetibot/versions/20260605.180005.f8b4f4a</link>
+    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
+    <pubDate>Fri, 5 Jun 2026 18:00:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.11</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.11&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.11</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns), VS-15 text-presentation width, VS-16 terminal width overrides (☑️/🏷️/❤️ narrow by default), and East-Asian-Ambiguous (EAW=A) width: curated text punctuation/letters (·, —, …, λ, quotes, ™, Greek, Cyrillic) counted as two columns to match ambiguous-wide target terminals, while structural chrome (box drawing, blocks, shapes, arrows) stays single-column. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.</description>
+    <pubDate>Fri, 5 Jun 2026 17:37:21 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.10</guid>
     <title>[com.blockether/lanterna &quot;3.1.5-vis.10&quot;]</title>
@@ -1789,20 +1803,6 @@
     <link>https://clojars.org/com.github.igrishaev/pg2-component/versions/0.1.49</link>
     <description>Component wrapper for PG2</description>
     <pubDate>Sat, 30 May 2026 17:26:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.igrishaev/pg2-honey/versions/0.1.49</guid>
-    <title>[com.github.igrishaev/pg2-honey &quot;0.1.49&quot;]</title>
-    <link>https://clojars.org/com.github.igrishaev/pg2-honey/versions/0.1.49</link>
-    <description>HoneySQL wrapper for PG2</description>
-    <pubDate>Sat, 30 May 2026 17:25:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.igrishaev/pg2-core/versions/0.1.49</guid>
-    <title>[com.github.igrishaev/pg2-core &quot;0.1.49&quot;]</title>
-    <link>https://clojars.org/com.github.igrishaev/pg2-core/versions/0.1.49</link>
-    <description>Postgres client in pure Java (no JDBC)</description>
-    <pubDate>Sat, 30 May 2026 17:25:38 +0000</pubDate>
   </item>
   </channel>
 </rss>
