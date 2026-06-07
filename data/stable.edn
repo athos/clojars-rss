@@ -1,9 +1,3 @@
-{:created 1780221033265, :description "A small recursive language-model compute engine: a model drives a persistent Clojure REPL and decomposes work into deterministic, probabilistic, and recursive transformations.", :group_name "net.clojars.deadmeme5441", :jar_name "fractal-engine", :version "0.1.1"}
-{:created 1780221208497, :description "A Clojure component framework over Datastar — Seaside-style call/answer over server-rendered SSE patches.", :group_name "dev.zeko", :jar_name "stube", :version "0.4.1"}
-{:created 1780225073549, :description "Boa SQL core protocols, parser, and lexer", :group_name "org.clojars.jj", :jar_name "boa-core", :version "1.0.12"}
-{:created 1780225081127, :description "Boa SQL resource resolver", :group_name "org.clojars.jj", :jar_name "boa-resource-resolver", :version "1.0.12"}
-{:created 1780225088705, :description "Boa SQL JDBC build strategy", :group_name "org.clojars.jj", :jar_name "jdbc-strategy", :version "1.0.12"}
-{:created 1780225096233, :description "Boa SQL sequential ($1, $2) build strategy", :group_name "org.clojars.jj", :jar_name "sequential-strategy", :version "1.0.12"}
 {:created 1780225103756, :description "Boa SQL adapter for Next-JDBC", :group_name "org.clojars.jj", :jar_name "next-jdbc-adapter", :version "1.0.12"}
 {:created 1780225111213, :description "Boa SQL async adapter for Next-JDBC", :group_name "org.clojars.jj", :jar_name "next-jdbc-async-adapter", :version "1.0.12"}
 {:created 1780225118837, :description "A library for frictionless SQL", :group_name "org.clojars.jj", :jar_name "boa-sql", :version "1.0.12"}
@@ -254,3 +248,9 @@
 {:created 1780787914825, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.38"}
 {:created 1780787955958, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.38"}
 {:created 1780789735319, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-encoding", :version "0.1.73"}
+{:created 1780792503433, :description "Library for accessing environment variables", :group_name "net.clojars.savya", :jar_name "environ", :version "1.4.0"}
+{:created 1780792519461, :description "Leiningen plugin for Environ", :group_name "net.clojars.savya", :jar_name "lein-environ", :version "1.4.0"}
+{:created 1780794950370, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-engine", :version "0.1.58"}
+{:created 1780796293828, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.39"}
+{:created 1780796346473, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.39"}
+{:created 1780796358956, :description "Reactive terminal UIs for Spindel — render-spin, controller-map, tree component, JLine sink, suspend/resume for child processes", :group_name "org.replikativ", :jar_name "spindel-tui", :version "0.1.10"}
