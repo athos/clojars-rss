@@ -4,7 +4,52 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 8 Jun 2026 13:21:05 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 8 Jun 2026 15:04:32 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/yetibot/versions/20260608.145320.8ee84eb</guid>
+    <title>[yetibot &quot;20260608.145320.8ee84eb&quot;]</title>
+    <link>https://clojars.org/yetibot/versions/20260608.145320.8ee84eb</link>
+    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
+    <pubDate>Mon, 8 Jun 2026 14:53:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/yetibot/core/versions/20260608.145131.6f68ba9</guid>
+    <title>[yetibot/core &quot;20260608.145131.6f68ba9&quot;]</title>
+    <link>https://clojars.org/yetibot/core/versions/20260608.145131.6f68ba9</link>
+    <description>Core yetibot utilities, extracted for shared use among yetibot
+                and its various plugins</description>
+    <pubDate>Mon, 8 Jun 2026 14:52:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.strojure/undertow/versions/1.5.0</guid>
+    <title>[com.github.strojure/undertow &quot;1.5.0&quot;]</title>
+    <link>https://clojars.org/com.github.strojure/undertow/versions/1.5.0</link>
+    <description>Clojure API to Undertow web server.</description>
+    <pubDate>Mon, 8 Jun 2026 14:51:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/svar/versions/0.7.11</guid>
+    <title>[com.blockether/svar &quot;0.7.11&quot;]</title>
+    <link>https://clojars.org/com.blockether/svar/versions/0.7.11</link>
+    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
+    <pubDate>Mon, 8 Jun 2026 14:19:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.yamlscript/clj-yamlscript/versions/0.2.14</guid>
+    <title>[org.yamlscript/clj-yamlscript &quot;0.2.14&quot;]</title>
+    <link>https://clojars.org/org.yamlscript/clj-yamlscript/versions/0.2.14</link>
+    <description>YAMLScript is a functional programming language whose syntax is encoded in
+  YAML.</description>
+    <pubDate>Mon, 8 Jun 2026 13:43:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.yamlscript/yamlscript/versions/0.2.14</guid>
+    <title>[org.yamlscript/yamlscript &quot;0.2.14&quot;]</title>
+    <link>https://clojars.org/org.yamlscript/yamlscript/versions/0.2.14</link>
+    <description>YAMLScript is a functional programming language whose syntax is encoded in
+    YAML.</description>
+    <pubDate>Mon, 8 Jun 2026 13:42:40 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/svar/versions/0.7.10</guid>
     <title>[com.blockether/svar &quot;0.7.10&quot;]</title>
@@ -1765,48 +1810,6 @@
     <link>https://clojars.org/io.pedestal/pedestal.error/versions/0.8.2-beta-7</link>
     <description></description>
     <pubDate>Tue, 2 Jun 2026 17:58:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.interceptor/versions/0.8.2-beta-7</guid>
-    <title>[io.pedestal/pedestal.interceptor &quot;0.8.2-beta-7&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.interceptor/versions/0.8.2-beta-7</link>
-    <description></description>
-    <pubDate>Tue, 2 Jun 2026 17:58:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.log/versions/0.8.2-beta-7</guid>
-    <title>[io.pedestal/pedestal.log &quot;0.8.2-beta-7&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.log/versions/0.8.2-beta-7</link>
-    <description></description>
-    <pubDate>Tue, 2 Jun 2026 17:58:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.telemetry/versions/0.8.2-beta-7</guid>
-    <title>[io.pedestal/pedestal.telemetry &quot;0.8.2-beta-7&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.telemetry/versions/0.8.2-beta-7</link>
-    <description></description>
-    <pubDate>Tue, 2 Jun 2026 17:58:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.common/versions/0.8.2-beta-7</guid>
-    <title>[io.pedestal/pedestal.common &quot;0.8.2-beta-7&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.common/versions/0.8.2-beta-7</link>
-    <description></description>
-    <pubDate>Tue, 2 Jun 2026 17:58:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.taoensso/nippy/versions/3.7.0-RC2</guid>
-    <title>[com.taoensso/nippy &quot;3.7.0-RC2&quot;]</title>
-    <link>https://clojars.org/com.taoensso/nippy/versions/3.7.0-RC2</link>
-    <description>Fast serialization library for Clojure</description>
-    <pubDate>Tue, 2 Jun 2026 17:19:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.domaindrivenarchitecture/c4k-common-clj/versions/12.2.1</guid>
-    <title>[org.domaindrivenarchitecture/c4k-common-clj &quot;12.2.1&quot;]</title>
-    <link>https://clojars.org/org.domaindrivenarchitecture/c4k-common-clj/versions/12.2.1</link>
-    <description>Contains predicates and tools for c4k</description>
-    <pubDate>Tue, 2 Jun 2026 16:57:01 +0000</pubDate>
   </item>
   </channel>
 </rss>

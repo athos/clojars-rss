@@ -4,7 +4,52 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 8 Jun 2026 13:21:05 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 8 Jun 2026 15:04:32 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/yetibot/versions/20260608.145320.8ee84eb</guid>
+    <title>[yetibot &quot;20260608.145320.8ee84eb&quot;]</title>
+    <link>https://clojars.org/yetibot/versions/20260608.145320.8ee84eb</link>
+    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
+    <pubDate>Mon, 8 Jun 2026 14:53:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/yetibot/core/versions/20260608.145131.6f68ba9</guid>
+    <title>[yetibot/core &quot;20260608.145131.6f68ba9&quot;]</title>
+    <link>https://clojars.org/yetibot/core/versions/20260608.145131.6f68ba9</link>
+    <description>Core yetibot utilities, extracted for shared use among yetibot
+                and its various plugins</description>
+    <pubDate>Mon, 8 Jun 2026 14:52:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.strojure/undertow/versions/1.5.0</guid>
+    <title>[com.github.strojure/undertow &quot;1.5.0&quot;]</title>
+    <link>https://clojars.org/com.github.strojure/undertow/versions/1.5.0</link>
+    <description>Clojure API to Undertow web server.</description>
+    <pubDate>Mon, 8 Jun 2026 14:51:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/svar/versions/0.7.11</guid>
+    <title>[com.blockether/svar &quot;0.7.11&quot;]</title>
+    <link>https://clojars.org/com.blockether/svar/versions/0.7.11</link>
+    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
+    <pubDate>Mon, 8 Jun 2026 14:19:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.yamlscript/clj-yamlscript/versions/0.2.14</guid>
+    <title>[org.yamlscript/clj-yamlscript &quot;0.2.14&quot;]</title>
+    <link>https://clojars.org/org.yamlscript/clj-yamlscript/versions/0.2.14</link>
+    <description>YAMLScript is a functional programming language whose syntax is encoded in
+  YAML.</description>
+    <pubDate>Mon, 8 Jun 2026 13:43:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.yamlscript/yamlscript/versions/0.2.14</guid>
+    <title>[org.yamlscript/yamlscript &quot;0.2.14&quot;]</title>
+    <link>https://clojars.org/org.yamlscript/yamlscript/versions/0.2.14</link>
+    <description>YAMLScript is a functional programming language whose syntax is encoded in
+    YAML.</description>
+    <pubDate>Mon, 8 Jun 2026 13:42:40 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/svar/versions/0.7.10</guid>
     <title>[com.blockether/svar &quot;0.7.10&quot;]</title>
@@ -1765,48 +1810,6 @@
     <link>https://clojars.org/com.blockether/spel/versions/0.9.8</link>
     <description>Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen</description>
     <pubDate>Tue, 2 Jun 2026 11:15:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/rift/versions/0.0.8</guid>
-    <title>[com.blockether/rift &quot;0.0.8&quot;]</title>
-    <link>https://clojars.org/com.blockether/rift/versions/0.0.8</link>
-    <description>Clojure binding to rift — copy-on-write workspaces — via the JDK Foreign Function &amp; Memory API.</description>
-    <pubDate>Tue, 2 Jun 2026 10:38:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/trapperkeeper-webserver/versions/12.0.3</guid>
-    <title>[org.openvoxproject/trapperkeeper-webserver &quot;12.0.3&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/trapperkeeper-webserver/versions/12.0.3</link>
-    <description>A jetty-based webserver implementation for use with the org.openvoxproject/trapperkeeper service framework.</description>
-    <pubDate>Tue, 2 Jun 2026 10:29:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.taoensso/nippy/versions/3.7.0-RC1</guid>
-    <title>[com.taoensso/nippy &quot;3.7.0-RC1&quot;]</title>
-    <link>https://clojars.org/com.taoensso/nippy/versions/3.7.0-RC1</link>
-    <description>Fast serialization library for Clojure</description>
-    <pubDate>Tue, 2 Jun 2026 10:13:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.mattilsynet/design/versions/3.3.1.41</guid>
-    <title>[io.mattilsynet/design &quot;3.3.1.41&quot;]</title>
-    <link>https://clojars.org/io.mattilsynet/design/versions/3.3.1.41</link>
-    <description>Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.</description>
-    <pubDate>Tue, 2 Jun 2026 10:10:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/no.cjohansen/dataspex/versions/2026.06.1</guid>
-    <title>[no.cjohansen/dataspex &quot;2026.06.1&quot;]</title>
-    <link>https://clojars.org/no.cjohansen/dataspex/versions/2026.06.1</link>
-    <description></description>
-    <pubDate>Tue, 2 Jun 2026 08:48:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.1.21</guid>
-    <title>[org.replikativ/ansatz &quot;0.1.21&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz/versions/0.1.21</link>
-    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
-    <pubDate>Tue, 2 Jun 2026 07:36:58 +0000</pubDate>
   </item>
   </channel>
 </rss>
