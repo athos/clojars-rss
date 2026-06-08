@@ -4,7 +4,14 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 7 Jun 2026 23:20:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 8 Jun 2026 00:30:40 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.sturdystats/sturdy-numpy/versions/0.1.7</guid>
+    <title>[com.sturdystats/sturdy-numpy &quot;0.1.7&quot;]</title>
+    <link>https://clojars.org/com.sturdystats/sturdy-numpy/versions/0.1.7</link>
+    <description>Read NumPy .npy files into idiomatic Clojure data (sturdy-numpy).</description>
+    <pubDate>Sun, 7 Jun 2026 23:54:45 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/net.clojars.savya/dogstatsd/versions/0.1.0</guid>
     <title>[net.clojars.savya/dogstatsd &quot;0.1.0&quot;]</title>
@@ -1800,13 +1807,6 @@
     <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.7</link>
     <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns), VS-15 text-presentation width, VS-16 terminal width overrides (☑️/🏷️/❤️ narrow by default), and East-Asian-Ambiguous (EAW=A) width: curated text punctuation/letters (·, —, …, λ, quotes, ™, Greek, Cyrillic) counted as two columns to match ambiguous-wide target terminals, while structural chrome (box drawing, blocks, shapes, arrows) stays single-column. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.</description>
     <pubDate>Sun, 31 May 2026 23:20:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.jj/majavat/versions/2.1.0</guid>
-    <title>[org.clojars.jj/majavat &quot;2.1.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.jj/majavat/versions/2.1.0</link>
-    <description>Templating engine for clojure</description>
-    <pubDate>Sun, 31 May 2026 21:21:02 +0000</pubDate>
   </item>
   </channel>
 </rss>
