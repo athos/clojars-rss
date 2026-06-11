@@ -1,21 +1,3 @@
-{:created 1780753795644, :description "Experimental Foreign Function & Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.", :group_name "net.clojars.savya", :jar_name "beckon-ffm", :version "0.1.0"}
-{:created 1780762757801, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260606.161840.21a9121"}
-{:created 1780762816436, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260606.162003.206d4a4"}
-{:created 1780763276859, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260606.162710.a1cb4b5"}
-{:created 1780763324965, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260606.162833.0efc5f3"}
-{:created 1780765303624, :description "Library for accessing environment variables", :group_name "net.clojars.savya", :jar_name "environ", :version "1.3.0"}
-{:created 1780765359564, :description "Leiningen plugin for Environ", :group_name "net.clojars.savya", :jar_name "lein-environ", :version "1.3.0"}
-{:created 1780767195634, :description "A yetibot plugin for https://kroki.io/", :group_name "yetibot", :jar_name "kroki", :version "20260606.173201.a463fc8"}
-{:created 1780770612474, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.219-SNAPSHOT"}
-{:created 1780771185178, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.36"}
-{:created 1780771234455, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.36"}
-{:created 1780773846544, :description "A Clojure component framework over Datastar — Seaside-style call/answer over server-rendered SSE patches.", :group_name "dev.zeko", :jar_name "stube", :version "0.6.0"}
-{:created 1780775544928, :description "FIXME: write description", :group_name "org.clojars.technomancy", :jar_name "test-project", :version "0.1.2"}
-{:created 1780777767977, :description nil, :group_name "com.exidia", :jar_name "bunbushka", :version "2026.06.06"}
-{:created 1780779808753, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.0-rc4"}
-{:created 1780780118655, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.0-rc4"}
-{:created 1780782916608, :description "A Clojure component framework over Datastar — Seaside-style call/answer over server-rendered SSE patches.", :group_name "dev.zeko", :jar_name "stube", :version "0.6.1"}
-{:created 1780786532422, :description nil, :group_name "com.exidia", :jar_name "bushka", :version "2026.06.07"}
 {:created 1780787914825, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.38"}
 {:created 1780787955958, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.38"}
 {:created 1780789735319, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-encoding", :version "0.1.73"}
@@ -254,3 +236,21 @@
 {:created 1781165585079, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-29"}
 {:created 1781165626679, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-29"}
 {:created 1781165668853, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-29"}
+{:created 1781165710134, :description "boundary CLI — project generator and module installer", :group_name "org.boundary-app", :jar_name "boundary-cli", :version "1.0.1-alpha-29"}
+{:created 1781165752124, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.1-alpha-29"}
+{:created 1781174263480, :description "A promise library and concurency toolkit for Clojure and ClojureScript.", :group_name "funcool", :jar_name "promesa", :version "12.0.0"}
+{:created 1781176428892, :description "A recursive language-model compute engine with durable Clojure REPL sessions, child recursion, payload storage, and an agent-operable CLI.", :group_name "net.clojars.deadmeme5441", :jar_name "fractal-engine", :version "0.5.5"}
+{:created 1781176860438, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core", :version "1.1104"}
+{:created 1781176869024, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-aws-emf", :version "1.1104"}
+{:created 1781176877064, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-client", :version "1.1104"}
+{:created 1781176885160, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-clj", :version "1.1104"}
+{:created 1781176893252, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-dev", :version "1.1104"}
+{:created 1781176901375, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-import", :version "1.1104"}
+{:created 1781176909313, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-io", :version "1.1104"}
+{:created 1781176917019, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-json", :version "1.1104"}
+{:created 1781176925128, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-nippy", :version "1.1104"}
+{:created 1781176933252, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-parquet", :version "1.1104"}
+{:created 1781176941614, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-view-store-postgres", :version "1.1104"}
+{:created 1781176949600, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-xlsx", :version "1.1104"}
+{:created 1781176957635, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-java-lambda-runtime", :version "1.1104"}
+{:created 1781176965844, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-router", :version "1.1104"}
