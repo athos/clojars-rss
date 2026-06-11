@@ -1,16 +1,3 @@
-{:created 1780662378599, :description "Nested MUI menu components for Reagent: dropdown, context menu, icons and keyboard navigation. Compatible with MUI v5 through v9.", :group_name "io.github.jramosg", :jar_name "jon-nested-menu", :version "0.1.0"}
-{:created 1780665503200, :description "keycloak c4k-installation package", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-keycloak", :version "2.1.0"}
-{:created 1780667191307, :description "Datastar SDK for Clojure", :group_name "dev.data-star.clojure", :jar_name "sdk", :version "1.0.0-RC11"}
-{:created 1780667198785, :description "Brotli compression helpers for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "brotli", :version "1.0.0-RC11"}
-{:created 1780667206351, :description "Aleph adapter for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "aleph", :version "1.0.0-RC11"}
-{:created 1780667213877, :description "http-kit adapter for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "http-kit", :version "1.0.0-RC11"}
-{:created 1780667221310, :description "Ring adapter for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "ring", :version "1.0.0-RC11"}
-{:created 1780667228577, :description "Malli schemas for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "malli-schemas", :version "1.0.0-RC11"}
-{:created 1780667237971, :description "Malli schemas for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "aleph-malli-schemas", :version "1.0.0-RC11"}
-{:created 1780667245436, :description "Malli schemas for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "http-kit-malli-schemas", :version "1.0.0-RC11"}
-{:created 1780667253008, :description "Malli schemas for the Datastar SDK", :group_name "dev.data-star.clojure", :jar_name "ring-malli-schemas", :version "1.0.0-RC11"}
-{:created 1780670992193, :description "Jepsen tests for PostgreSQL.", :group_name "io.jepsen", :jar_name "postgres", :version "0.1.2-SNAPSHOT"}
-{:created 1780671266859, :description "A yetibot plugin for https://kroki.io/", :group_name "yetibot", :jar_name "kroki", :version "20260605.145216.10332a6"}
 {:created 1780673264217, :description "A yetibot plugin for https://kroki.io/", :group_name "yetibot", :jar_name "kroki", :version "20260605.152659.c135d20"}
 {:created 1780677796240, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.29"}
 {:created 1780680395747, :description "Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original fixes for BMP emoji-presentation width detection (✅, ⭐, ⚡, etc. counted as two terminal columns), VS-15 text-presentation width, VS-16 terminal width overrides (☑️/🏷️/❤️ narrow by default), and East-Asian-Ambiguous (EAW=A) width: curated text punctuation/letters (·, —, …, λ, quotes, ™, Greek, Cyrillic) counted as two columns to match ambiguous-wide target terminals, while structural chrome (box drawing, blocks, shapes, arrows) stays single-column. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 — same packages, same classes. Will be retired when upstream ships equivalent fixes.", :group_name "com.blockether", :jar_name "lanterna", :version "3.1.5-vis.10"}
@@ -95,7 +82,6 @@
 {:created 1780866416933, :description "Minimal, explicit authentication helpers for Clojure Ring applications.", :group_name "com.sturdystats", :jar_name "turvata", :version "0.3.1"}
 {:created 1780869584782, :description "A small Clojure library for managing server-side encryption keys.", :group_name "com.sturdystats", :jar_name "bailey", :version "0.0.6"}
 {:created 1780870829687, :description "", :group_name "org.clojars.kylc", :jar_name "jank-json", :version "0.1-SNAPSHOT"}
-{:created 1780871031872, :description "", :group_name "org.clojars.kylc", :jar_name "jank-json-sys", :version "0.1-SNAPSHOT"}
 {:created 1780871140524, :description "", :group_name "org.clojars.kylc", :jar_name "jank-glfw3", :version "0.1-SNAPSHOT"}
 {:created 1780871972081, :description "File-system utilities for Clojure (sturdy-fs).", :group_name "com.sturdystats", :jar_name "sturdy-fs", :version "0.1.8"}
 {:created 1780872268212, :description "A security-focused Clojure validation library built on Malli.", :group_name "com.sturdystats", :jar_name "sturdy-middleware", :version "0.1.6"}
@@ -254,3 +240,17 @@
 {:created 1781140608560, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-engine", :version "0.1.62"}
 {:created 1781142093997, :description "FIXME: write description", :group_name "org.clojars.kylc", :jar_name "jank-build-cmake", :version "0.1-SNAPSHOT"}
 {:created 1781142333831, :description "managing Clojure and ClojureScript app state since (reset)", :group_name "mount", :jar_name "mount", :version "0.1.24"}
+{:created 1781142848094, :description nil, :group_name "io.pedestal", :jar_name "pedestal.common", :version "0.8.2-beta-8"}
+{:created 1781142856476, :description nil, :group_name "io.pedestal", :jar_name "pedestal.telemetry", :version "0.8.2-beta-8"}
+{:created 1781142864838, :description nil, :group_name "io.pedestal", :jar_name "pedestal.log", :version "0.8.2-beta-8"}
+{:created 1781142873118, :description nil, :group_name "io.pedestal", :jar_name "pedestal.interceptor", :version "0.8.2-beta-8"}
+{:created 1781142881367, :description nil, :group_name "io.pedestal", :jar_name "pedestal.error", :version "0.8.2-beta-8"}
+{:created 1781142889418, :description nil, :group_name "io.pedestal", :jar_name "pedestal.route", :version "0.8.2-beta-8"}
+{:created 1781142897187, :description nil, :group_name "io.pedestal", :jar_name "pedestal.service", :version "0.8.2-beta-8"}
+{:created 1781142905281, :description nil, :group_name "io.pedestal", :jar_name "pedestal.servlet", :version "0.8.2-beta-8"}
+{:created 1781142913203, :description nil, :group_name "io.pedestal", :jar_name "pedestal.jetty", :version "0.8.2-beta-8"}
+{:created 1781142921131, :description nil, :group_name "io.pedestal", :jar_name "pedestal.http-kit", :version "0.8.2-beta-8"}
+{:created 1781142929300, :description nil, :group_name "io.pedestal", :jar_name "pedestal.embedded", :version "0.8.2-beta-8"}
+{:created 1781142933331, :description "", :group_name "org.clojars.kylc", :jar_name "jank-json-sys", :version "0.1-SNAPSHOT"}
+{:created 1781144643390, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.20"}
+{:created 1781146108319, :description "NATS for Clojure and ClojureScript under one portable .cljc API.", :group_name "io.github.unisoma", :jar_name "nats-cljc", :version "0.4.0"}
