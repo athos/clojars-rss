@@ -1,27 +1,3 @@
-{:created 1780871972081, :description "File-system utilities for Clojure (sturdy-fs).", :group_name "com.sturdystats", :jar_name "sturdy-fs", :version "0.1.8"}
-{:created 1780872268212, :description "A security-focused Clojure validation library built on Malli.", :group_name "com.sturdystats", :jar_name "sturdy-middleware", :version "0.1.6"}
-{:created 1780873564982, :description "Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).", :group_name "net.clojars.savya", :jar_name "dogstatsd", :version "0.1.0"}
-{:created 1780876485256, :description "Read NumPy .npy files into idiomatic Clojure data (sturdy-numpy).", :group_name "com.sturdystats", :jar_name "sturdy-numpy", :version "0.1.7"}
-{:created 1780879514172, :description "", :group_name "org.clojars.kylc", :jar_name "jank-glaze-sys", :version "7.7.1"}
-{:created 1780891231359, :description "CLJS development tools", :group_name "org.clojars.teehemkay", :jar_name "shadow-cljs", :version "3.4.11-bun"}
-{:created 1780892875338, :description "Minimal, explicit authentication helpers for Clojure Ring applications.", :group_name "com.sturdystats", :jar_name "turvata", :version "0.3.2"}
-{:created 1780896140821, :description "Clojure implementation of the RoughTime protocol.", :group_name "com.sturdystats", :jar_name "roughtime-protocol", :version "0.2.1"}
-{:created 1780900442652, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core", :version "1.1096"}
-{:created 1780900450935, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-aws-emf", :version "1.1096"}
-{:created 1780900458525, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-client", :version "1.1096"}
-{:created 1780900466828, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-clj", :version "1.1096"}
-{:created 1780900475286, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-dev", :version "1.1096"}
-{:created 1780900483086, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-import", :version "1.1096"}
-{:created 1780900490855, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-io", :version "1.1096"}
-{:created 1780900499383, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-json", :version "1.1096"}
-{:created 1780900507638, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-nippy", :version "1.1096"}
-{:created 1780900516019, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-parquet", :version "1.1096"}
-{:created 1780900524436, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-view-store-postgres", :version "1.1096"}
-{:created 1780900532850, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-xlsx", :version "1.1096"}
-{:created 1780900540943, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-java-lambda-runtime", :version "1.1096"}
-{:created 1780900549079, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-router", :version "1.1096"}
-{:created 1780901327755, :description "A recursive language-model compute engine with durable Clojure REPL sessions, child recursion, payload storage, and an agent-operable CLI.", :group_name "net.clojars.deadmeme5441", :jar_name "fractal-engine", :version "0.5.0"}
-{:created 1780904985850, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.9"}
 {:created 1780909515846, :description "A recursive language-model compute engine with durable Clojure REPL sessions, child recursion, payload storage, and an agent-operable CLI.", :group_name "net.clojars.deadmeme5441", :jar_name "fractal-engine", :version "0.5.1"}
 {:created 1780910185509, :description "Nested MUI menu components for Reagent: dropdown, context menu, icons and keyboard navigation. Compatible with MUI v5 through v9.", :group_name "io.github.jramosg", :jar_name "reagent-mui-nested-menu", :version "0.1.0"}
 {:created 1780923014135, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.10"}
@@ -254,3 +230,27 @@
 {:created 1781235112685, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.2.268"}
 {:created 1781235117629, :description "Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api.updates", :version "1.2.268"}
 {:created 1781237264263, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.1.29"}
+{:created 1781243050394, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-30"}
+{:created 1781243093036, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-30"}
+{:created 1781243135185, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-30"}
+{:created 1781243177907, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-30"}
+{:created 1781243220222, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-30"}
+{:created 1781243262629, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-30"}
+{:created 1781243304514, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-30"}
+{:created 1781243347487, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-30"}
+{:created 1781243389666, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-30"}
+{:created 1781243431777, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-30"}
+{:created 1781243473505, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-30"}
+{:created 1781243516129, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-30"}
+{:created 1781243522624, :description "A library for simple wire-like connectivity semantics.", :group_name "org.replikativ", :jar_name "kabel", :version "0.3.98"}
+{:created 1781247976767, :description "A Telegram Bot Library for Clojure", :group_name "dev.meinside", :jar_name "clogram", :version "0.41.0"}
+{:created 1781249027579, :description "Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "org.boundary-app", :jar_name "boundary-tools", :version "1.0.1-alpha-31"}
+{:created 1781249070130, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-31"}
+{:created 1781249114186, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-31"}
+{:created 1781249158587, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-31"}
+{:created 1781249201341, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-31"}
+{:created 1781249245233, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-31"}
+{:created 1781249289283, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-31"}
+{:created 1781249375342, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-31"}
+{:created 1781249417898, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-31"}
+{:created 1781249460735, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-31"}
