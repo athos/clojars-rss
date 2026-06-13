@@ -1,5 +1,3 @@
-{:created 1781033587856, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-28"}
-{:created 1781033627063, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-28"}
 {:created 1781033667055, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-28"}
 {:created 1781033706931, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-28"}
 {:created 1781033746966, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-28"}
@@ -254,3 +252,5 @@
 {:created 1781335588738, :description nil, :group_name "com.github.thefakelorlyons", :jar_name "clj-colors", :version "0.1.1"}
 {:created 1781340240144, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.1.36"}
 {:created 1781341117018, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.18"}
+{:created 1781345957040, :description nil, :group_name "io.github.borkdude", :jar_name "html", :version "0.2.5"}
+{:created 1781346041412, :description "Core utils library for Clojure/Script", :group_name "com.taoensso", :jar_name "encore", :version "3.165.0"}
