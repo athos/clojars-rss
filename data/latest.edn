@@ -1,9 +1,3 @@
-{:created 1781137985172, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "lein-skeptic", :version "0.9.0-rc8"}
-{:created 1781139323039, :description "Ring adapter for com.sun.net.httpserver", :group_name "org.clojars.jj", :jar_name "ring-http-exchange", :version "1.4.7"}
-{:created 1781140608560, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-engine", :version "0.1.62"}
-{:created 1781142333831, :description "managing Clojure and ClojureScript app state since (reset)", :group_name "mount", :jar_name "mount", :version "0.1.24"}
-{:created 1781142848094, :description nil, :group_name "io.pedestal", :jar_name "pedestal.common", :version "0.8.2-beta-8"}
-{:created 1781142856476, :description nil, :group_name "io.pedestal", :jar_name "pedestal.telemetry", :version "0.8.2-beta-8"}
 {:created 1781142864838, :description nil, :group_name "io.pedestal", :jar_name "pedestal.log", :version "0.8.2-beta-8"}
 {:created 1781142873118, :description nil, :group_name "io.pedestal", :jar_name "pedestal.interceptor", :version "0.8.2-beta-8"}
 {:created 1781142881367, :description nil, :group_name "io.pedestal", :jar_name "pedestal.error", :version "0.8.2-beta-8"}
@@ -254,3 +248,9 @@
 {:created 1781443771449, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-32"}
 {:created 1781443814756, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-32"}
 {:created 1781443858920, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-32"}
+{:created 1781443902317, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-32"}
+{:created 1781443945085, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-32"}
+{:created 1781443987798, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-32"}
+{:created 1781444031049, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-32"}
+{:created 1781444073877, :description "boundary CLI — project generator and module installer", :group_name "org.boundary-app", :jar_name "boundary-cli", :version "1.0.1-alpha-32"}
+{:created 1781444117825, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.1-alpha-32"}
