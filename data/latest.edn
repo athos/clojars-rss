@@ -1,5 +1,3 @@
-{:created 1781165459079, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-29"}
-{:created 1781165501448, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-29"}
 {:created 1781165543435, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-29"}
 {:created 1781165585079, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-29"}
 {:created 1781165626679, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-29"}
@@ -108,7 +106,6 @@
 {:created 1781250024704, :description "boundary CLI — project generator and module installer", :group_name "org.boundary-app", :jar_name "boundary-cli", :version "1.0.1-alpha-31"}
 {:created 1781250068804, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.1-alpha-31"}
 {:created 1781255553988, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.45"}
-{:created 1781270434341, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.05.26-SNAPSHOT"}
 {:created 1781273399960, :description nil, :group_name "com.github.flow-storm", :jar_name "flow-storm-inst", :version "4.6.0"}
 {:created 1781273423138, :description nil, :group_name "com.github.flow-storm", :jar_name "flow-storm-dbg", :version "4.6.0"}
 {:created 1781273424621, :description "Thin Clojure client for Google GenAI / Vertex AI with Malli-driven structured output.", :group_name "org.clojars.lukaszkorecki", :jar_name "vortex", :version "1.0.0.12-SNAPSHOT-true"}
@@ -254,3 +251,6 @@
 {:created 1781516620932, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-manifold", :version "0.4.1-SNAPSHOT"}
 {:created 1781516655694, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-jms", :version "0.4.1-SNAPSHOT"}
 {:created 1781516690998, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-nats", :version "0.4.1-SNAPSHOT"}
+{:created 1781519948697, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.05.26-SNAPSHOT"}
+{:created 1781522679380, :description nil, :group_name "com.github.flow-storm", :jar_name "clofidence", :version "0.5.0"}
+{:created 1781527110467, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.29"}
