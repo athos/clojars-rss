@@ -1,17 +1,3 @@
-{:created 1781206169390, :description "Turn Clojure functions into CLIs!", :group_name "org.babashka", :jar_name "cli", :version "0.11.72"}
-{:created 1781206575106, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-engine", :version "0.1.63"}
-{:created 1781208694784, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-engine", :version "0.1.65"}
-{:created 1781209894827, :description "Unified copy-on-write memory model protocols for heterogeneous storage systems", :group_name "org.replikativ", :jar_name "yggdrasil", :version "0.2.29"}
-{:created 1781210667811, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.21"}
-{:created 1781211396588, :description "Clojure API on top of iRODS's jargon-core.", :group_name "org.cyverse", :jar_name "clj-jargon", :version "3.1.5"}
-{:created 1781211832053, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-engine", :version "0.1.66"}
-{:created 1781212266668, :description "It watches your code like a hawk!", :group_name "io.github.metabase", :jar_name "hawk", :version "1.0.14"}
-{:created 1781218138273, :description "A Clojure library for interacting with the IRODS data system. Wraps clj-jargon and clj-icat-direct for a nicer interface", :group_name "org.cyverse", :jar_name "clj-irods", :version "0.4.1"}
-{:created 1781218619739, :description "Integrant methods for running a Jetty web server", :group_name "org.duct-framework", :jar_name "server.http.jetty", :version "0.3.5"}
-{:created 1781218634929, :description "A simple subcommand parser for Clojure", :group_name "clj-sub-command", :jar_name "clj-sub-command", :version "1.1.0"}
-{:created 1781220107827, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.22"}
-{:created 1781222119512, :description "Duct module for running web applications", :group_name "org.duct-framework", :jar_name "module.web", :version "0.13.5"}
-{:created 1781223096517, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.23"}
 {:created 1781223729445, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-engine", :version "0.1.67"}
 {:created 1781225302953, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.40"}
 {:created 1781225344055, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.40"}
@@ -254,3 +240,17 @@
 {:created 1781647426961, :description "It watches your code like a hawk!", :group_name "io.github.metabase", :jar_name "hawk", :version "1.0.15"}
 {:created 1781649133347, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "skeptic", :version "0.9.0-rc9"}
 {:created 1781649148041, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "lein-skeptic", :version "0.9.0-rc9"}
+{:created 1781649548840, :description "generators for Donut", :group_name "party.donut", :jar_name "generators", :version "0.0.44"}
+{:created 1781649582200, :description "dependency injection lib / framework foundation", :group_name "party.donut", :jar_name "system", :version "1.0.259"}
+{:created 1781649722991, :description "it's for endpoint tests", :group_name "party.donut", :jar_name "endpoint-test", :version "0.0.33"}
+{:created 1781650121149, :description "endpoint helpers for the cute lil framework", :group_name "party.donut", :jar_name "endpoint", :version "0.0.44"}
+{:created 1781650156526, :description "full stack auth", :group_name "party.donut", :jar_name "box.identity", :version "0.0.28"}
+{:created 1781650793789, :description "compose data", :group_name "party.donut", :jar_name "compose", :version "0.0.31"}
+{:created 1781650806344, :description "db fixtures for clojure", :group_name "party.donut", :jar_name "datapotato", :version "1.0.467"}
+{:created 1781650822524, :description "datapotato adapter for next.jdbc", :group_name "party.donut", :jar_name "datapotato-next-jdbc", :version "1.0.467"}
+{:created 1781650839880, :description "datapotato adapter for clojure.java.jdbc", :group_name "party.donut", :jar_name "datapotato-clojure-java-jdbc", :version "1.0.467"}
+{:created 1781650856336, :description "datapotato adapter for xtdb", :group_name "party.donut", :jar_name "datapotato-xtdb", :version "1.0.467"}
+{:created 1781650860740, :description "for oopsies and whoopsiedoodles", :group_name "party.donut", :jar_name "error", :version "0.0.19"}
+{:created 1781650872462, :description "datapotato adapter for fluree", :group_name "party.donut", :jar_name "datapotato-datomic", :version "1.0.467"}
+{:created 1781650886967, :description "datapotato adapter for fluree", :group_name "party.donut", :jar_name "datapotato-fluree", :version "1.0.467"}
+{:created 1781651001059, :description "lil helpers for the cute lil framework", :group_name "party.donut", :jar_name "sugar", :version "0.0.23"}

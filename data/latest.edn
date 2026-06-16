@@ -1,17 +1,3 @@
-{:created 1781232002924, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.1.26"}
-{:created 1781235112685, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.2.268"}
-{:created 1781235117629, :description "Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api.updates", :version "1.2.268"}
-{:created 1781237264263, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.1.29"}
-{:created 1781243050394, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-30"}
-{:created 1781243093036, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-30"}
-{:created 1781243135185, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-30"}
-{:created 1781243177907, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-30"}
-{:created 1781243220222, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-30"}
-{:created 1781243262629, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-30"}
-{:created 1781243304514, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-30"}
-{:created 1781243347487, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-30"}
-{:created 1781243389666, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-30"}
-{:created 1781243431777, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-30"}
 {:created 1781243473505, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-30"}
 {:created 1781243516129, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-30"}
 {:created 1781243522624, :description "A library for simple wire-like connectivity semantics.", :group_name "org.replikativ", :jar_name "kabel", :version "0.3.98"}
@@ -254,3 +240,17 @@
 {:created 1781647426961, :description "It watches your code like a hawk!", :group_name "io.github.metabase", :jar_name "hawk", :version "1.0.15"}
 {:created 1781649133347, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "skeptic", :version "0.9.0-rc9"}
 {:created 1781649148041, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "lein-skeptic", :version "0.9.0-rc9"}
+{:created 1781649548840, :description "generators for Donut", :group_name "party.donut", :jar_name "generators", :version "0.0.44"}
+{:created 1781649582200, :description "dependency injection lib / framework foundation", :group_name "party.donut", :jar_name "system", :version "1.0.259"}
+{:created 1781649722991, :description "it's for endpoint tests", :group_name "party.donut", :jar_name "endpoint-test", :version "0.0.33"}
+{:created 1781650121149, :description "endpoint helpers for the cute lil framework", :group_name "party.donut", :jar_name "endpoint", :version "0.0.44"}
+{:created 1781650156526, :description "full stack auth", :group_name "party.donut", :jar_name "box.identity", :version "0.0.28"}
+{:created 1781650793789, :description "compose data", :group_name "party.donut", :jar_name "compose", :version "0.0.31"}
+{:created 1781650806344, :description "db fixtures for clojure", :group_name "party.donut", :jar_name "datapotato", :version "1.0.467"}
+{:created 1781650822524, :description "datapotato adapter for next.jdbc", :group_name "party.donut", :jar_name "datapotato-next-jdbc", :version "1.0.467"}
+{:created 1781650839880, :description "datapotato adapter for clojure.java.jdbc", :group_name "party.donut", :jar_name "datapotato-clojure-java-jdbc", :version "1.0.467"}
+{:created 1781650856336, :description "datapotato adapter for xtdb", :group_name "party.donut", :jar_name "datapotato-xtdb", :version "1.0.467"}
+{:created 1781650860740, :description "for oopsies and whoopsiedoodles", :group_name "party.donut", :jar_name "error", :version "0.0.19"}
+{:created 1781650872462, :description "datapotato adapter for fluree", :group_name "party.donut", :jar_name "datapotato-datomic", :version "1.0.467"}
+{:created 1781650886967, :description "datapotato adapter for fluree", :group_name "party.donut", :jar_name "datapotato-fluree", :version "1.0.467"}
+{:created 1781651001059, :description "lil helpers for the cute lil framework", :group_name "party.donut", :jar_name "sugar", :version "0.0.23"}
