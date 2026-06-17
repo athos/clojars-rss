@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 17 Jun 2026 09:31:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 17 Jun 2026 11:31:14 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.16</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.16&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.16</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.</description>
+    <pubDate>Wed, 17 Jun 2026 11:11:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.1.4</guid>
+    <title>[org.replikativ/raster &quot;0.1.4&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.1.4</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Wed, 17 Jun 2026 09:41:42 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.eldrix/dmd/versions/1.0.227</guid>
     <title>[com.eldrix/dmd &quot;1.0.227&quot;]</title>
@@ -1794,20 +1808,6 @@
     <link>https://clojars.org/org.replikativ/ansatz/versions/0.1.26</link>
     <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
     <pubDate>Fri, 12 Jun 2026 02:40:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.epiccastle/clojuressh/versions/0.7.0</guid>
-    <title>[io.epiccastle/clojuressh &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/io.epiccastle/clojuressh/versions/0.7.0</link>
-    <description>A Clojure library for using SSH in Clojure that is API compatible with bbssh</description>
-    <pubDate>Fri, 12 Jun 2026 02:39:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.1.25</guid>
-    <title>[org.replikativ/ansatz &quot;0.1.25&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz/versions/0.1.25</link>
-    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
-    <pubDate>Fri, 12 Jun 2026 01:38:17 +0000</pubDate>
   </item>
   </channel>
 </rss>
