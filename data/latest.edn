@@ -1,6 +1,3 @@
-{:created 1781249722592, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-31"}
-{:created 1781249765538, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-31"}
-{:created 1781249809246, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-31"}
 {:created 1781249852740, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-31"}
 {:created 1781249895663, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-31"}
 {:created 1781249937987, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-31"}
@@ -213,7 +210,6 @@
 {:created 1781620352727, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.30"}
 {:created 1781622851570, :description "Small Clojure Interpreter", :group_name "org.babashka", :jar_name "sci", :version "0.13.52"}
 {:created 1781623216905, :description "A Clojure wrapper to HikariCP JDBC connection pool", :group_name "hikari-cp", :jar_name "hikari-cp", :version "4.1.0"}
-{:created 1781632969457, :description "Distributed systems testing framework.", :group_name "jepsen", :jar_name "jepsen", :version "0.3.12-SNAPSHOT"}
 {:created 1781634804548, :description nil, :group_name "org.clojars.sstraust", :jar_name "deft", :version "0.2.0"}
 {:created 1781642731521, :description "Clojure library for JSON Schema validation and generation - Draft-07 compatible", :group_name "luposlip", :jar_name "json-schema", :version "0.4.8"}
 {:created 1781647426961, :description "It watches your code like a hawk!", :group_name "io.github.metabase", :jar_name "hawk", :version "1.0.15"}
@@ -254,3 +250,7 @@
 {:created 1781715376233, :description "Mutation testing for Clojure", :group_name "net.clojars.rtbarreira", :jar_name "mutant-test", :version "0.3.0"}
 {:created 1781720029970, :description "Smile - Statistical Machine Intelligence and Learning Engine", :group_name "org.clojars.haifengl", :jar_name "smile", :version "6.2.1"}
 {:created 1781722847339, :description "A library for writing Jepsen tests of SQL databases", :group_name "io.jepsen", :jar_name "sql", :version "0.1.0-SNAPSHOT"}
+{:created 1781726304184, :description "Distributed systems testing framework.", :group_name "jepsen", :jar_name "jepsen", :version "0.3.12-SNAPSHOT"}
+{:created 1781727264376, :description "Mutation testing for Clojure", :group_name "net.clojars.rtbarreira", :jar_name "mutant-test", :version "0.4.0"}
+{:created 1781727335859, :description "Mutation testing for Leiningen", :group_name "net.clojars.rtbarreira", :jar_name "lein-mutate-test", :version "0.1.0-SNAPSHOT"}
+{:created 1781728154984, :description "Simple 2D charts for Clojure via CljFX/JavaFX", :group_name "net.clojars.synthlord", :jar_name "cartesian", :version "0.1.0"}
