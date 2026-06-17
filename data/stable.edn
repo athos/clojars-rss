@@ -1,6 +1,3 @@
-{:created 1781243093036, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-30"}
-{:created 1781243135185, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-30"}
-{:created 1781243177907, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-30"}
 {:created 1781243220222, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-30"}
 {:created 1781243262629, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-30"}
 {:created 1781243304514, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-30"}
@@ -254,3 +251,6 @@
 {:created 1781704066335, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.2.21"}
 {:created 1781706751613, :description "Production-quality Clojure SDK for canonical LLM provider integration.", :group_name "net.clojars.deadmeme5441", :jar_name "clojure-llm-sdk", :version "0.2.4"}
 {:created 1781706949899, :description "Mutation testing for Clojure", :group_name "net.clojars.rtbarreira", :jar_name "mutant-test", :version "0.1.0"}
+{:created 1781708695766, :description "A Clojure library for using SSH in Clojure that is API compatible with bbssh", :group_name "io.epiccastle", :jar_name "clojuressh", :version "1.0.0"}
+{:created 1781709494571, :description "Clojure data manipulation DSL built on tech.ml.dataset", :group_name "com.github.clojure-finance", :jar_name "datajure", :version "2.1.0"}
+{:created 1781715376233, :description "Mutation testing for Clojure", :group_name "net.clojars.rtbarreira", :jar_name "mutant-test", :version "0.3.0"}
