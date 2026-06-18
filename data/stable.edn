@@ -1,6 +1,3 @@
-{:created 1781249114186, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-31"}
-{:created 1781249158587, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-31"}
-{:created 1781249201341, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-31"}
 {:created 1781249245233, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-31"}
 {:created 1781249289283, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-31"}
 {:created 1781249375342, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-31"}
@@ -254,3 +251,6 @@
 {:created 1781765327910, :description "clojure threagile implementation with additional attack tree modelling", :group_name "org.domaindrivenarchitecture", :jar_name "dda-tara", :version "3.0.2"}
 {:created 1781788584615, :description "ClojureScript / Reagent wrapper around react-map-gl (MapLibre).", :group_name "io.github.perrygeo", :jar_name "cartoj", :version "0.1.0"}
 {:created 1781798862336, :description "A Clojure library for interacting with the github developer API", :group_name "dev.nubank", :jar_name "clj-github", :version "0.9.1-beta1"}
+{:created 1781806470704, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.1.6"}
+{:created 1781807413561, :description "A small Clojure TCP server", :group_name "dev.weavejester", :jar_name "teensyp", :version "0.7.1"}
+{:created 1781809154898, :description "An immutable database", :group_name "io.github.radarroark", :jar_name "xitdb", :version "0.30.0"}
