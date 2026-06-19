@@ -4,20 +4,55 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 19 Jun 2026 16:05:56 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 17:33:45 +0000</lastBuildDate>
   <item>
-    <guid>https://clojars.org/org.yamlstar/yamlstar/versions/0.1.4</guid>
-    <title>[org.yamlstar/yamlstar &quot;0.1.4&quot;]</title>
-    <link>https://clojars.org/org.yamlstar/yamlstar/versions/0.1.4</link>
-    <description>YAMLStar - A pure YAML 1.2 loader for Clojure</description>
-    <pubDate>Fri, 19 Jun 2026 15:30:20 +0000</pubDate>
+    <guid>https://clojars.org/elle/versions/0.2.7-SNAPSHOT</guid>
+    <title>[elle &quot;0.2.7-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/elle/versions/0.2.7-SNAPSHOT</link>
+    <description>Black-box transactional consistency checker based on cycle detection</description>
+    <pubDate>Fri, 19 Jun 2026 17:17:05 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.jepsen/sql/versions/0.1.0-SNAPSHOT</guid>
     <title>[io.jepsen/sql &quot;0.1.0-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/io.jepsen/sql/versions/0.1.0-SNAPSHOT</link>
     <description>A library for writing Jepsen tests of SQL databases</description>
-    <pubDate>Fri, 19 Jun 2026 15:25:32 +0000</pubDate>
+    <pubDate>Fri, 19 Jun 2026 17:16:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.jepsen/postgres/versions/0.1.2-SNAPSHOT</guid>
+    <title>[io.jepsen/postgres &quot;0.1.2-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/io.jepsen/postgres/versions/0.1.2-SNAPSHOT</link>
+    <description>Jepsen tests for PostgreSQL.</description>
+    <pubDate>Fri, 19 Jun 2026 17:16:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.perrygeo/cartoj/versions/0.3.0</guid>
+    <title>[io.github.perrygeo/cartoj &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/io.github.perrygeo/cartoj/versions/0.3.0</link>
+    <description>ClojureScript / Reagent wrapper around react-map-gl (MapLibre).</description>
+    <pubDate>Fri, 19 Jun 2026 17:16:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.6</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.6&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.6</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Fri, 19 Jun 2026 17:01:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.soundhound/clj-oci/versions/1.12.0</guid>
+    <title>[com.soundhound/clj-oci &quot;1.12.0&quot;]</title>
+    <link>https://clojars.org/com.soundhound/clj-oci/versions/1.12.0</link>
+    <description></description>
+    <pubDate>Fri, 19 Jun 2026 16:49:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.yamlstar/yamlstar/versions/0.1.4</guid>
+    <title>[org.yamlstar/yamlstar &quot;0.1.4&quot;]</title>
+    <link>https://clojars.org/org.yamlstar/yamlstar/versions/0.1.4</link>
+    <description>YAMLStar - A pure YAML 1.2 loader for Clojure</description>
+    <pubDate>Fri, 19 Jun 2026 15:30:20 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/rewrite-clj/versions/1.2.55</guid>
@@ -445,13 +480,6 @@
     <link>https://clojars.org/com.github.clojure-finance/datajure/versions/2.1.0</link>
     <description>Clojure data manipulation DSL built on tech.ml.dataset</description>
     <pubDate>Wed, 17 Jun 2026 15:18:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/elle/versions/0.2.7-SNAPSHOT</guid>
-    <title>[elle &quot;0.2.7-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/elle/versions/0.2.7-SNAPSHOT</link>
-    <description>Black-box transactional consistency checker based on cycle detection</description>
-    <pubDate>Wed, 17 Jun 2026 15:09:50 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.epiccastle/clojuressh/versions/1.0.0</guid>
@@ -1774,34 +1802,6 @@
     <link>https://clojars.org/com.github.thefakelorlyons/clj-colors/versions/0.1.1</link>
     <description></description>
     <pubDate>Sat, 13 Jun 2026 07:26:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.1.3</guid>
-    <title>[org.replikativ/raster &quot;0.1.3&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.1.3</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sat, 13 Jun 2026 06:21:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.1.35</guid>
-    <title>[org.replikativ/ansatz &quot;0.1.35&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz/versions/0.1.35</link>
-    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
-    <pubDate>Sat, 13 Jun 2026 04:46:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.sturdystats/sturdy-bulkhead/versions/0.0.5</guid>
-    <title>[com.sturdystats/sturdy-bulkhead &quot;0.0.5&quot;]</title>
-    <link>https://clojars.org/com.sturdystats/sturdy-bulkhead/versions/0.0.5</link>
-    <description>middleware to queue ring requests.</description>
-    <pubDate>Sat, 13 Jun 2026 03:40:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.marksto/clj-tg-bot-api.updates/versions/1.2.269</guid>
-    <title>[com.github.marksto/clj-tg-bot-api.updates &quot;1.2.269&quot;]</title>
-    <link>https://clojars.org/com.github.marksto/clj-tg-bot-api.updates/versions/1.2.269</link>
-    <description>Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.</description>
-    <pubDate>Sat, 13 Jun 2026 02:57:10 +0000</pubDate>
   </item>
   </channel>
 </rss>
