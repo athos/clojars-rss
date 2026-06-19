@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 19 Jun 2026 01:53:40 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 03:03:36 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/raylib-sys/versions/2026.06-1</guid>
+    <title>[org.jank-lang.commons/raylib-sys &quot;2026.06-1&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/raylib-sys/versions/2026.06-1</link>
+    <description>Raw package for raylib.</description>
+    <pubDate>Fri, 19 Jun 2026 02:58:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/jank-build-pkg-config/versions/2026.06-1</guid>
+    <title>[org.jank-lang.commons/jank-build-pkg-config &quot;2026.06-1&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/jank-build-pkg-config/versions/2026.06-1</link>
+    <description>Build script helper for querying libraries via pkg-config.</description>
+    <pubDate>Fri, 19 Jun 2026 02:58:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/jank-build-cmake/versions/2026.06-1</guid>
+    <title>[org.jank-lang.commons/jank-build-cmake &quot;2026.06-1&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/jank-build-cmake/versions/2026.06-1</link>
+    <description>Build script helper for building CMake packages.</description>
+    <pubDate>Fri, 19 Jun 2026 02:57:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/imgui-sys/versions/2026.06-1</guid>
+    <title>[org.jank-lang.commons/imgui-sys &quot;2026.06-1&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/imgui-sys/versions/2026.06-1</link>
+    <description></description>
+    <pubDate>Fri, 19 Jun 2026 02:57:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/glfw-sys/versions/2026.06-1</guid>
+    <title>[org.jank-lang.commons/glfw-sys &quot;2026.06-1&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/glfw-sys/versions/2026.06-1</link>
+    <description>Raw package for glfw3.</description>
+    <pubDate>Fri, 19 Jun 2026 02:55:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/gl-sys/versions/2026.06-1</guid>
+    <title>[org.jank-lang.commons/gl-sys &quot;2026.06-1&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/gl-sys/versions/2026.06-1</link>
+    <description>Raw package for OpenGL.</description>
+    <pubDate>Fri, 19 Jun 2026 02:37:59 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.6.1</guid>
     <title>[net.clojars.savya/anthropic-clj &quot;0.6.1&quot;]</title>
@@ -1766,50 +1808,6 @@
     <link>https://clojars.org/com.github.dgknght/app-lib/versions/0.3.46</link>
     <description>Library of commonly used functions for web app development</description>
     <pubDate>Fri, 12 Jun 2026 19:30:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.yamlscript/clj-yamlscript/versions/0.2.15</guid>
-    <title>[org.yamlscript/clj-yamlscript &quot;0.2.15&quot;]</title>
-    <link>https://clojars.org/org.yamlscript/clj-yamlscript/versions/0.2.15</link>
-    <description>YAMLScript is a functional programming language whose syntax is encoded in
-  YAML.</description>
-    <pubDate>Fri, 12 Jun 2026 19:14:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.yamlscript/yamlscript/versions/0.2.15</guid>
-    <title>[org.yamlscript/yamlscript &quot;0.2.15&quot;]</title>
-    <link>https://clojars.org/org.yamlscript/yamlscript/versions/0.2.15</link>
-    <description>YAMLScript is a functional programming language whose syntax is encoded in
-    YAML.</description>
-    <pubDate>Fri, 12 Jun 2026 19:14:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/lein-ezbake/versions/2.7.9</guid>
-    <title>[org.openvoxproject/lein-ezbake &quot;2.7.9&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/lein-ezbake/versions/2.7.9</link>
-    <description>A system for building packages for trapperkeeper-based applications</description>
-    <pubDate>Fri, 12 Jun 2026 18:41:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.sturdystats/sturdy-throttle/versions/0.0.3</guid>
-    <title>[com.sturdystats/sturdy-throttle &quot;0.0.3&quot;]</title>
-    <link>https://clojars.org/com.sturdystats/sturdy-throttle/versions/0.0.3</link>
-    <description>rate limiting for Clojure Ring apps.</description>
-    <pubDate>Fri, 12 Jun 2026 17:31:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.cnuernber/charred/versions/1.039</guid>
-    <title>[com.cnuernber/charred &quot;1.039&quot;]</title>
-    <link>https://clojars.org/com.cnuernber/charred/versions/1.039</link>
-    <description></description>
-    <pubDate>Fri, 12 Jun 2026 17:12:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.clojure-quant/quanta-blotter-cli/versions/0.1.42</guid>
-    <title>[io.github.clojure-quant/quanta-blotter-cli &quot;0.1.42&quot;]</title>
-    <link>https://clojars.org/io.github.clojure-quant/quanta-blotter-cli/versions/0.1.42</link>
-    <description></description>
-    <pubDate>Fri, 12 Jun 2026 14:54:46 +0000</pubDate>
   </item>
   </channel>
 </rss>

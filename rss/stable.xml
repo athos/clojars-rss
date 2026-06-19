@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 19 Jun 2026 01:53:40 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 03:03:36 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/raylib-sys/versions/2026.06-1</guid>
+    <title>[org.jank-lang.commons/raylib-sys &quot;2026.06-1&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/raylib-sys/versions/2026.06-1</link>
+    <description>Raw package for raylib.</description>
+    <pubDate>Fri, 19 Jun 2026 02:58:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/jank-build-pkg-config/versions/2026.06-1</guid>
+    <title>[org.jank-lang.commons/jank-build-pkg-config &quot;2026.06-1&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/jank-build-pkg-config/versions/2026.06-1</link>
+    <description>Build script helper for querying libraries via pkg-config.</description>
+    <pubDate>Fri, 19 Jun 2026 02:58:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/jank-build-cmake/versions/2026.06-1</guid>
+    <title>[org.jank-lang.commons/jank-build-cmake &quot;2026.06-1&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/jank-build-cmake/versions/2026.06-1</link>
+    <description>Build script helper for building CMake packages.</description>
+    <pubDate>Fri, 19 Jun 2026 02:57:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/imgui-sys/versions/2026.06-1</guid>
+    <title>[org.jank-lang.commons/imgui-sys &quot;2026.06-1&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/imgui-sys/versions/2026.06-1</link>
+    <description></description>
+    <pubDate>Fri, 19 Jun 2026 02:57:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/glfw-sys/versions/2026.06-1</guid>
+    <title>[org.jank-lang.commons/glfw-sys &quot;2026.06-1&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/glfw-sys/versions/2026.06-1</link>
+    <description>Raw package for glfw3.</description>
+    <pubDate>Fri, 19 Jun 2026 02:55:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/gl-sys/versions/2026.06-1</guid>
+    <title>[org.jank-lang.commons/gl-sys &quot;2026.06-1&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/gl-sys/versions/2026.06-1</link>
+    <description>Raw package for OpenGL.</description>
+    <pubDate>Fri, 19 Jun 2026 02:37:59 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.6.1</guid>
     <title>[net.clojars.savya/anthropic-clj &quot;0.6.1&quot;]</title>
@@ -1768,48 +1810,6 @@
     <link>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-31</link>
     <description>PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
     <pubDate>Fri, 12 Jun 2026 07:35:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-31</guid>
-    <title>[org.boundary-app/boundary-external &quot;1.0.1-alpha-31&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-31</link>
-    <description>External service adapters library for Boundary framework</description>
-    <pubDate>Fri, 12 Jun 2026 07:34:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-31</guid>
-    <title>[org.boundary-app/boundary-search &quot;1.0.1-alpha-31&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-31</link>
-    <description>Full-text search library for Boundary framework</description>
-    <pubDate>Fri, 12 Jun 2026 07:33:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-31</guid>
-    <title>[org.boundary-app/boundary-workflow &quot;1.0.1-alpha-31&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-31</link>
-    <description>Workflow orchestration library for Boundary framework</description>
-    <pubDate>Fri, 12 Jun 2026 07:33:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-31</guid>
-    <title>[org.boundary-app/boundary-tenant &quot;1.0.1-alpha-31&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-31</link>
-    <description>Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning</description>
-    <pubDate>Fri, 12 Jun 2026 07:32:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-31</guid>
-    <title>[org.boundary-app/boundary-email &quot;1.0.1-alpha-31&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-31</link>
-    <description>Email sending library for Boundary framework: SMTP support, composition, validation</description>
-    <pubDate>Fri, 12 Jun 2026 07:31:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-31</guid>
-    <title>[org.boundary-app/boundary-realtime &quot;1.0.1-alpha-31&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-31</link>
-    <description>Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication</description>
-    <pubDate>Fri, 12 Jun 2026 07:31:00 +0000</pubDate>
   </item>
   </channel>
 </rss>
