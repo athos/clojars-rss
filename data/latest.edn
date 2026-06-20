@@ -1,4 +1,3 @@
-{:created 1781443209255, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-32"}
 {:created 1781443251856, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-32"}
 {:created 1781443295617, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-32"}
 {:created 1781443339676, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-32"}
@@ -254,3 +253,4 @@
 {:created 1781974059017, :description nil, :group_name "com.bhauman", :jar_name "rebel-readline-nrepl", :version "0.1.10"}
 {:created 1781974059060, :description nil, :group_name "com.bhauman", :jar_name "rebel-readline-cljs", :version "0.1.10"}
 {:created 1781974563649, :description "A Temporal SDK for Clojure", :group_name "io.github.manetu", :jar_name "temporal-sdk", :version "2.1.0"}
+{:created 1781982824600, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.1389"}
