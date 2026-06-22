@@ -1,14 +1,3 @@
-{:created 1781550377554, :description nil, :group_name "io.pedestal", :jar_name "pedestal.servlet", :version "0.8.2-beta-9"}
-{:created 1781550381967, :description nil, :group_name "io.pedestal", :jar_name "pedestal.jetty", :version "0.8.2-beta-9"}
-{:created 1781550386587, :description nil, :group_name "io.pedestal", :jar_name "pedestal.http-kit", :version "0.8.2-beta-9"}
-{:created 1781550391308, :description nil, :group_name "io.pedestal", :jar_name "pedestal.embedded", :version "0.8.2-beta-9"}
-{:created 1781551494249, :description nil, :group_name "com.soundhound", :jar_name "clj-oci", :version "1.11.0"}
-{:created 1781552059394, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.45"}
-{:created 1781552098241, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.45"}
-{:created 1781554364922, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.1.55"}
-{:created 1781556703495, :description "Core Systems Libraries for clj-goog-workspace — shared auth and utilities.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-csl", :version "0.21.1"}
-{:created 1781558598925, :description "Simplify EHR integrations by defining and validating your entire provider connection pipeline using native Clojure data structures.", :group_name "io.github.samuelcarriles", :jar_name "ehr-adapter", :version "1.0.0"}
-{:created 1781558836624, :description "Clojure wrapper for the Google Drive API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-drive", :version "0.21.1"}
 {:created 1781558844109, :description "Clojure wrapper for the Gmail API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-gmail", :version "0.21.1"}
 {:created 1781558851365, :description "Clojure wrapper for the Google Sheets API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-sheets", :version "0.21.1"}
 {:created 1781558858837, :description "Clojure wrapper for the Google Meet API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-meet", :version "0.21.1"}
@@ -133,7 +122,6 @@
 {:created 1781887778435, :description nil, :group_name "com.soundhound", :jar_name "clj-oci", :version "1.12.0"}
 {:created 1781888467343, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.6"}
 {:created 1781889382295, :description "ClojureScript / Reagent wrapper around react-map-gl (MapLibre).", :group_name "io.github.perrygeo", :jar_name "cartoj", :version "0.3.0"}
-{:created 1781889405841, :description "Jepsen tests for PostgreSQL.", :group_name "io.jepsen", :jar_name "postgres", :version "0.1.2-SNAPSHOT"}
 {:created 1781889410479, :description "A library for writing Jepsen tests of SQL databases", :group_name "io.jepsen", :jar_name "sql", :version "0.1.0-SNAPSHOT"}
 {:created 1781889425461, :description "Black-box transactional consistency checker based on cycle detection", :group_name "elle", :jar_name "elle", :version "0.2.7-SNAPSHOT"}
 {:created 1781890429100, :description "Smile - Statistical Machine Intelligence and Learning Engine", :group_name "org.clojars.haifengl", :jar_name "smile", :version "6.2.2"}
@@ -254,3 +242,15 @@
 {:created 1782121952054, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.9.6-3"}
 {:created 1782121969978, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.9.6-3"}
 {:created 1782122004986, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.9.6-3"}
+{:created 1782134889332, :description "A fertile ground for Clojure tooling", :group_name "cider", :jar_name "orchard", :version "0.43.0-alpha1"}
+{:created 1782135213910, :description "Jepsen tests for PostgreSQL.", :group_name "io.jepsen", :jar_name "postgres", :version "0.1.2-SNAPSHOT"}
+{:created 1782135528873, :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :group_name "org.yamlscript", :jar_name "yamlscript", :version "0.2.22"}
+{:created 1782135743869, :description "YAMLStar - A pure YAML 1.2 loader for Clojure", :group_name "org.yamlstar", :jar_name "yamlstar", :version "0.1.9"}
+{:created 1782135753437, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.2.22"}
+{:created 1782137104401, :description "Dependency inlining and shadowing tool.", :group_name "thomasa", :jar_name "mranderson", :version "0.6.0"}
+{:created 1782139128467, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.10.3-blockether.12"}
+{:created 1782139776813, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.10.3-blockether.13"}
+{:created 1782139788223, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.10.3-blockether.13"}
+{:created 1782139799708, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.10.3-blockether.13"}
+{:created 1782139811249, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.10.3-blockether.13"}
+{:created 1782139822783, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.10.3-blockether.13"}
