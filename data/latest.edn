@@ -1,17 +1,3 @@
-{:created 1781522679380, :description nil, :group_name "com.github.flow-storm", :jar_name "clofidence", :version "0.5.0"}
-{:created 1781527110467, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.29"}
-{:created 1781528751522, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.43"}
-{:created 1781528804729, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.43"}
-{:created 1781533684429, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-market", :version "0.7.208"}
-{:created 1781534276332, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
-{:created 1781536888106, :description nil, :group_name "org.clojars.quoll", :jar_name "tiara", :version "0.5.2"}
-{:created 1781550337564, :description nil, :group_name "io.pedestal", :jar_name "pedestal.common", :version "0.8.2-beta-9"}
-{:created 1781550344514, :description nil, :group_name "io.pedestal", :jar_name "pedestal.telemetry", :version "0.8.2-beta-9"}
-{:created 1781550349917, :description nil, :group_name "io.pedestal", :jar_name "pedestal.log", :version "0.8.2-beta-9"}
-{:created 1781550355575, :description nil, :group_name "io.pedestal", :jar_name "pedestal.interceptor", :version "0.8.2-beta-9"}
-{:created 1781550361968, :description nil, :group_name "io.pedestal", :jar_name "pedestal.error", :version "0.8.2-beta-9"}
-{:created 1781550367018, :description nil, :group_name "io.pedestal", :jar_name "pedestal.route", :version "0.8.2-beta-9"}
-{:created 1781550372507, :description nil, :group_name "io.pedestal", :jar_name "pedestal.service", :version "0.8.2-beta-9"}
 {:created 1781550377554, :description nil, :group_name "io.pedestal", :jar_name "pedestal.servlet", :version "0.8.2-beta-9"}
 {:created 1781550381967, :description nil, :group_name "io.pedestal", :jar_name "pedestal.jetty", :version "0.8.2-beta-9"}
 {:created 1781550386587, :description nil, :group_name "io.pedestal", :jar_name "pedestal.http-kit", :version "0.8.2-beta-9"}
@@ -254,3 +240,17 @@
 {:created 1782086914013, :description "A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.", :group_name "org.replikativ", :jar_name "persistent-sorted-set", :version "0.4.124"}
 {:created 1782108159910, :description "FIXME: my new application.", :group_name "io.github.rthadani", :jar_name "clj-pytorch", :version "0.1.0"}
 {:created 1782110313566, :description "Crontab parser for Clojure with plain-English cron explanations", :group_name "org.pilosus", :jar_name "kairos", :version "0.2.9999-SNAPSHOT"}
+{:created 1782115838871, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "3.3.7.42"}
+{:created 1782116757240, :description "Clojure/Script library for making MCP servers and clients", :group_name "io.github.plumce", :jar_name "plumcp.core", :version "0.2.2"}
+{:created 1782116791923, :description "Auth module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-auth", :version "0.2.2"}
+{:created 1782116825140, :description "Dev module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-dev", :version "0.2.2"}
+{:created 1782116880418, :description "JSON (charred library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-charred", :version "0.2.2"}
+{:created 1782116915567, :description "JSON (cheshire library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-cheshire", :version "0.2.2"}
+{:created 1782116959425, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.2.2"}
+{:created 1782117007656, :description "JSON (jsonista library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-jsonista", :version "0.2.2"}
+{:created 1782121712734, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.9.6-3"}
+{:created 1782121722961, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.9.6-3"}
+{:created 1782121851723, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.9.6-3"}
+{:created 1782121952054, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.9.6-3"}
+{:created 1782121969978, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.9.6-3"}
+{:created 1782122004986, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.9.6-3"}
