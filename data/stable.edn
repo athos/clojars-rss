@@ -1,10 +1,3 @@
-{:created 1781558851365, :description "Clojure wrapper for the Google Sheets API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-sheets", :version "0.21.1"}
-{:created 1781558858837, :description "Clojure wrapper for the Google Meet API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-meet", :version "0.21.1"}
-{:created 1781558866264, :description "Clojure wrapper for the Google Forms API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-forms", :version "0.21.1"}
-{:created 1781558873494, :description "Clojure wrapper for the Google Calendar API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-calendar", :version "0.21.1"}
-{:created 1781558880814, :description "Clojure wrapper for the Google Docs API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-docs", :version "0.21.1"}
-{:created 1781558888144, :description "Clojure wrapper for the Google Admin SDK Directory API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-admin", :version "0.21.1"}
-{:created 1781558895441, :description "Clojure wrapper for the Google Tasks API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-tasks", :version "0.21.1"}
 {:created 1781558902441, :description "Clojure wrapper for the Google Classroom API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-classroom", :version "0.21.1"}
 {:created 1781558909933, :description "Clojure wrapper for the Google Keep API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-keep", :version "0.21.1"}
 {:created 1781558917604, :description "Clojure wrapper for the Google Vault API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-vault", :version "0.21.1"}
@@ -254,3 +247,10 @@
 {:created 1782163450618, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.9.6-4"}
 {:created 1782163516581, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.9.6-4"}
 {:created 1782163974560, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.33"}
+{:created 1782165444832, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.10.3-blockether.22"}
+{:created 1782165454514, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.10.3-blockether.22"}
+{:created 1782165464162, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.10.3-blockether.22"}
+{:created 1782165474169, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.10.3-blockether.22"}
+{:created 1782165484089, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.10.3-blockether.22"}
+{:created 1782165495768, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.10.3-blockether.22"}
+{:created 1782167112110, :description "bridge — evidence-driven change & spec-traceability toolkit (CLI + library).", :group_name "com.blockether", :jar_name "bridge", :version "0.1.0"}
