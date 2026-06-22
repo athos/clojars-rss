@@ -1,16 +1,3 @@
-{:created 1781550372507, :description nil, :group_name "io.pedestal", :jar_name "pedestal.service", :version "0.8.2-beta-9"}
-{:created 1781550377554, :description nil, :group_name "io.pedestal", :jar_name "pedestal.servlet", :version "0.8.2-beta-9"}
-{:created 1781550381967, :description nil, :group_name "io.pedestal", :jar_name "pedestal.jetty", :version "0.8.2-beta-9"}
-{:created 1781550386587, :description nil, :group_name "io.pedestal", :jar_name "pedestal.http-kit", :version "0.8.2-beta-9"}
-{:created 1781550391308, :description nil, :group_name "io.pedestal", :jar_name "pedestal.embedded", :version "0.8.2-beta-9"}
-{:created 1781551494249, :description nil, :group_name "com.soundhound", :jar_name "clj-oci", :version "1.11.0"}
-{:created 1781552059394, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.45"}
-{:created 1781552098241, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.45"}
-{:created 1781554364922, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.1.55"}
-{:created 1781556703495, :description "Core Systems Libraries for clj-goog-workspace — shared auth and utilities.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-csl", :version "0.21.1"}
-{:created 1781558598925, :description "Simplify EHR integrations by defining and validating your entire provider connection pipeline using native Clojure data structures.", :group_name "io.github.samuelcarriles", :jar_name "ehr-adapter", :version "1.0.0"}
-{:created 1781558836624, :description "Clojure wrapper for the Google Drive API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-drive", :version "0.21.1"}
-{:created 1781558844109, :description "Clojure wrapper for the Gmail API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-gmail", :version "0.21.1"}
 {:created 1781558851365, :description "Clojure wrapper for the Google Sheets API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-sheets", :version "0.21.1"}
 {:created 1781558858837, :description "Clojure wrapper for the Google Meet API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-meet", :version "0.21.1"}
 {:created 1781558866264, :description "Clojure wrapper for the Google Forms API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-forms", :version "0.21.1"}
@@ -254,3 +241,16 @@
 {:created 1782155366137, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.10.3-blockether.20"}
 {:created 1782155377683, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.10.3-blockether.20"}
 {:created 1782156536470, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.1.63"}
+{:created 1782159980267, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.6.2"}
+{:created 1782163200562, :description "Native rift-ffi library for linux-x64.", :group_name "com.blockether", :jar_name "rift-native-linux-x64", :version "0.0.10-2"}
+{:created 1782163211230, :description "Native rift-ffi library for linux-arm64.", :group_name "com.blockether", :jar_name "rift-native-linux-arm64", :version "0.0.10-2"}
+{:created 1782163221248, :description "Native rift-ffi library for darwin-arm64.", :group_name "com.blockether", :jar_name "rift-native-darwin-arm64", :version "0.0.10-2"}
+{:created 1782163231679, :description "Native rift-ffi library for darwin-x64.", :group_name "com.blockether", :jar_name "rift-native-darwin-x64", :version "0.0.10-2"}
+{:created 1782163241730, :description "Clojure binding to rift — copy-on-write workspaces — via the JDK Foreign Function & Memory API.", :group_name "com.blockether", :jar_name "rift", :version "0.0.10-2"}
+{:created 1782163281448, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.9.6-4"}
+{:created 1782163291742, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.9.6-4"}
+{:created 1782163328001, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.9.6-4"}
+{:created 1782163375088, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.9.6-4"}
+{:created 1782163450618, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.9.6-4"}
+{:created 1782163516581, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.9.6-4"}
+{:created 1782163974560, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.33"}
