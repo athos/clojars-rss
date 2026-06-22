@@ -1,11 +1,3 @@
-{:created 1781558844109, :description "Clojure wrapper for the Gmail API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-gmail", :version "0.21.1"}
-{:created 1781558851365, :description "Clojure wrapper for the Google Sheets API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-sheets", :version "0.21.1"}
-{:created 1781558858837, :description "Clojure wrapper for the Google Meet API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-meet", :version "0.21.1"}
-{:created 1781558866264, :description "Clojure wrapper for the Google Forms API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-forms", :version "0.21.1"}
-{:created 1781558873494, :description "Clojure wrapper for the Google Calendar API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-calendar", :version "0.21.1"}
-{:created 1781558880814, :description "Clojure wrapper for the Google Docs API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-docs", :version "0.21.1"}
-{:created 1781558888144, :description "Clojure wrapper for the Google Admin SDK Directory API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-admin", :version "0.21.1"}
-{:created 1781558895441, :description "Clojure wrapper for the Google Tasks API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-tasks", :version "0.21.1"}
 {:created 1781558902441, :description "Clojure wrapper for the Google Classroom API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-classroom", :version "0.21.1"}
 {:created 1781558909933, :description "Clojure wrapper for the Google Keep API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-keep", :version "0.21.1"}
 {:created 1781558917604, :description "Clojure wrapper for the Google Vault API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-vault", :version "0.21.1"}
@@ -122,8 +114,6 @@
 {:created 1781887778435, :description nil, :group_name "com.soundhound", :jar_name "clj-oci", :version "1.12.0"}
 {:created 1781888467343, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.6"}
 {:created 1781889382295, :description "ClojureScript / Reagent wrapper around react-map-gl (MapLibre).", :group_name "io.github.perrygeo", :jar_name "cartoj", :version "0.3.0"}
-{:created 1781889410479, :description "A library for writing Jepsen tests of SQL databases", :group_name "io.jepsen", :jar_name "sql", :version "0.1.0-SNAPSHOT"}
-{:created 1781889425461, :description "Black-box transactional consistency checker based on cycle detection", :group_name "elle", :jar_name "elle", :version "0.2.7-SNAPSHOT"}
 {:created 1781890429100, :description "Smile - Statistical Machine Intelligence and Learning Engine", :group_name "org.clojars.haifengl", :jar_name "smile", :version "6.2.2"}
 {:created 1781894544490, :description "Simplify EHR integrations by defining and validating your entire provider connection pipeline using native Clojure data structures.", :group_name "io.github.samuelcarriles", :jar_name "ehr-adapter", :version "1.0.1"}
 {:created 1781896693080, :description nil, :group_name "org.clojars.apace", :jar_name "atom-validator", :version "0.1.21"}
@@ -254,3 +244,13 @@
 {:created 1782139799708, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.10.3-blockether.13"}
 {:created 1782139811249, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.10.3-blockether.13"}
 {:created 1782139822783, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.10.3-blockether.13"}
+{:created 1782139974392, :description "Black-box transactional consistency checker based on cycle detection", :group_name "elle", :jar_name "elle", :version "0.2.7-SNAPSHOT"}
+{:created 1782141619095, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-missionary", :version "0.1.15"}
+{:created 1782142214438, :description "A library for writing Jepsen tests of SQL databases", :group_name "io.jepsen", :jar_name "sql", :version "0.1.0-SNAPSHOT"}
+{:created 1782143535729, :description "Core utils library for Clojure/Script", :group_name "com.taoensso", :jar_name "encore", :version "3.167.0"}
+{:created 1782145694627, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.10.3-blockether.15"}
+{:created 1782145704620, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.10.3-blockether.15"}
+{:created 1782145714447, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.10.3-blockether.15"}
+{:created 1782145724597, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.10.3-blockether.15"}
+{:created 1782145734574, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.10.3-blockether.15"}
+{:created 1782145746483, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.10.3-blockether.15"}
