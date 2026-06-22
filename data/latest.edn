@@ -1,5 +1,3 @@
-{:created 1781649722991, :description "it's for endpoint tests", :group_name "party.donut", :jar_name "endpoint-test", :version "0.0.33"}
-{:created 1781650121149, :description "endpoint helpers for the cute lil framework", :group_name "party.donut", :jar_name "endpoint", :version "0.0.44"}
 {:created 1781650156526, :description "full stack auth", :group_name "party.donut", :jar_name "box.identity", :version "0.0.28"}
 {:created 1781650793789, :description "compose data", :group_name "party.donut", :jar_name "compose", :version "0.0.31"}
 {:created 1781650806344, :description "db fixtures for clojure", :group_name "party.donut", :jar_name "datapotato", :version "1.0.467"}
@@ -211,7 +209,6 @@
 {:created 1782139822783, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.10.3-blockether.13"}
 {:created 1782139974392, :description "Black-box transactional consistency checker based on cycle detection", :group_name "elle", :jar_name "elle", :version "0.2.7-SNAPSHOT"}
 {:created 1782141619095, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-missionary", :version "0.1.15"}
-{:created 1782142214438, :description "A library for writing Jepsen tests of SQL databases", :group_name "io.jepsen", :jar_name "sql", :version "0.1.0-SNAPSHOT"}
 {:created 1782143535729, :description "Core utils library for Clojure/Script", :group_name "com.taoensso", :jar_name "encore", :version "3.167.0"}
 {:created 1782145694627, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.10.3-blockether.15"}
 {:created 1782145704620, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.10.3-blockether.15"}
@@ -233,7 +230,6 @@
 {:created 1782155366137, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.10.3-blockether.20"}
 {:created 1782155377683, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.10.3-blockether.20"}
 {:created 1782156536470, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.1.63"}
-{:created 1782158020692, :description "Distributed systems testing framework.", :group_name "jepsen", :jar_name "jepsen", :version "0.3.12-SNAPSHOT"}
 {:created 1782159980267, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.6.2"}
 {:created 1782163200562, :description "Native rift-ffi library for linux-x64.", :group_name "com.blockether", :jar_name "rift-native-linux-x64", :version "0.0.10-2"}
 {:created 1782163211230, :description "Native rift-ffi library for linux-arm64.", :group_name "com.blockether", :jar_name "rift-native-linux-arm64", :version "0.0.10-2"}
@@ -254,3 +250,7 @@
 {:created 1782165484089, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.10.3-blockether.22"}
 {:created 1782165495768, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.10.3-blockether.22"}
 {:created 1782167112110, :description "bridge — evidence-driven change & spec-traceability toolkit (CLI + library).", :group_name "com.blockether", :jar_name "bridge", :version "0.1.0"}
+{:created 1782168036542, :description "Distributed systems testing framework.", :group_name "jepsen", :jar_name "jepsen", :version "0.3.12-SNAPSHOT"}
+{:created 1782168939372, :description "A library for writing Jepsen tests of SQL databases", :group_name "io.jepsen", :jar_name "sql", :version "0.1.0-SNAPSHOT"}
+{:created 1782169031716, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.1.64"}
+{:created 1782169051894, :description "Clojure client library for the MIDAS API", :group_name "energy.grid-coordination", :jar_name "clj-midas", :version "1.0.0"}
