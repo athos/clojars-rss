@@ -4,7 +4,168 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 23 Jun 2026 14:58:54 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Jun 2026 16:02:16 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.clojure-quant/quanta-blotter/versions/0.1.56</guid>
+    <title>[io.github.clojure-quant/quanta-blotter &quot;0.1.56&quot;]</title>
+    <link>https://clojars.org/io.github.clojure-quant/quanta-blotter/versions/0.1.56</link>
+    <description></description>
+    <pubDate>Tue, 23 Jun 2026 15:45:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-admin/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-admin &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-admin/versions/1.0.1-alpha-33</link>
+    <description>Admin interface library for Boundary framework: auto-CRUD, schema introspection</description>
+    <pubDate>Tue, 23 Jun 2026 15:16:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-ui-style/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-ui-style &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-ui-style/versions/1.0.1-alpha-33</link>
+    <description>Shared UI style library for Boundary framework: CSS/JS bundles and assets</description>
+    <pubDate>Tue, 23 Jun 2026 15:15:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-ai/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-ai &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-ai/versions/1.0.1-alpha-33</link>
+    <description>Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama</description>
+    <pubDate>Tue, 23 Jun 2026 15:14:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-calendar &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-33</link>
+    <description>Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components</description>
+    <pubDate>Tue, 23 Jun 2026 15:14:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-reports &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-33</link>
+    <description>PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module</description>
+    <pubDate>Tue, 23 Jun 2026 15:13:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-geo &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-33</link>
+    <description>Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation</description>
+    <pubDate>Tue, 23 Jun 2026 15:12:37 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-payments &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-33</link>
+    <description>PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
+    <pubDate>Tue, 23 Jun 2026 15:11:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-external &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-33</link>
+    <description>External service adapters library for Boundary framework</description>
+    <pubDate>Tue, 23 Jun 2026 15:11:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-search &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-33</link>
+    <description>Full-text search library for Boundary framework</description>
+    <pubDate>Tue, 23 Jun 2026 15:10:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-workflow &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-33</link>
+    <description>Workflow orchestration library for Boundary framework</description>
+    <pubDate>Tue, 23 Jun 2026 15:09:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-tenant &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-33</link>
+    <description>Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning</description>
+    <pubDate>Tue, 23 Jun 2026 15:09:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-email &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-33</link>
+    <description>Email sending library for Boundary framework: SMTP support, composition, validation</description>
+    <pubDate>Tue, 23 Jun 2026 15:08:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-realtime &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-33</link>
+    <description>Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication</description>
+    <pubDate>Tue, 23 Jun 2026 15:07:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-jobs &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.1-alpha-33</link>
+    <description>Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters</description>
+    <pubDate>Tue, 23 Jun 2026 15:07:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-cache/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-cache &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-cache/versions/1.0.1-alpha-33</link>
+    <description>Cache library for Boundary framework: in-memory and Redis cache adapters</description>
+    <pubDate>Tue, 23 Jun 2026 15:06:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-storage &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.1-alpha-33</link>
+    <description>Storage library for Boundary framework: local filesystem and S3 adapters</description>
+    <pubDate>Tue, 23 Jun 2026 15:04:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-user &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.1-alpha-33</link>
+    <description>User management library for Boundary framework: authentication, sessions, MFA</description>
+    <pubDate>Tue, 23 Jun 2026 15:04:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-i18n/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-i18n &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-i18n/versions/1.0.1-alpha-33</link>
+    <description>Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management</description>
+    <pubDate>Tue, 23 Jun 2026 15:03:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-platform &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.1-alpha-33</link>
+    <description>Platform library for Boundary framework: database, HTTP, configuration, modules</description>
+    <pubDate>Tue, 23 Jun 2026 15:02:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-observability &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.1-alpha-33</link>
+    <description>Observability library for Boundary framework: logging, metrics, error reporting</description>
+    <pubDate>Tue, 23 Jun 2026 15:02:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-core/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-core &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-core/versions/1.0.1-alpha-33</link>
+    <description>Foundation library for Boundary framework: validation, utilities, interceptors</description>
+    <pubDate>Tue, 23 Jun 2026 15:01:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-33</guid>
+    <title>[org.boundary-app/boundary-tools &quot;1.0.1-alpha-33&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-33</link>
+    <description>Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities</description>
+    <pubDate>Tue, 23 Jun 2026 15:00:41 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/svar/versions/0.7.36</guid>
     <title>[com.blockether/svar &quot;0.7.36&quot;]</title>
@@ -1637,167 +1798,6 @@
     <link>https://clojars.org/dev.nubank/clj-github/versions/0.9.1</link>
     <description>A Clojure library for interacting with the github developer API</description>
     <pubDate>Fri, 19 Jun 2026 13:27:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.babashka/cli/versions/0.11.73</guid>
-    <title>[org.babashka/cli &quot;0.11.73&quot;]</title>
-    <link>https://clojars.org/org.babashka/cli/versions/0.11.73</link>
-    <description>Turn Clojure functions into CLIs!</description>
-    <pubDate>Fri, 19 Jun 2026 13:20:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.taoensso/encore/versions/3.166.0</guid>
-    <title>[com.taoensso/encore &quot;3.166.0&quot;]</title>
-    <link>https://clojars.org/com.taoensso/encore/versions/3.166.0</link>
-    <description>Core utils library for Clojure/Script</description>
-    <pubDate>Fri, 19 Jun 2026 13:13:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cider/cider-nrepl/versions/0.60.0-alpha1</guid>
-    <title>[cider/cider-nrepl &quot;0.60.0-alpha1&quot;]</title>
-    <link>https://clojars.org/cider/cider-nrepl/versions/0.60.0-alpha1</link>
-    <description>A collection of nREPL middleware designed to enhance Clojure editors.</description>
-    <pubDate>Fri, 19 Jun 2026 13:07:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.julienvincent/msgpack/versions/1.2.3</guid>
-    <title>[io.julienvincent/msgpack &quot;1.2.3&quot;]</title>
-    <link>https://clojars.org/io.julienvincent/msgpack/versions/1.2.3</link>
-    <description>Clojure bindings for msgpack-java</description>
-    <pubDate>Fri, 19 Jun 2026 12:04:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cider/orchard/versions/0.42.0</guid>
-    <title>[cider/orchard &quot;0.42.0&quot;]</title>
-    <link>https://clojars.org/cider/orchard/versions/0.42.0</link>
-    <description>A fertile ground for Clojure tooling</description>
-    <pubDate>Fri, 19 Jun 2026 11:12:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.clojure-finance/datajure/versions/2.3.0</guid>
-    <title>[com.github.clojure-finance/datajure &quot;2.3.0&quot;]</title>
-    <link>https://clojars.org/com.github.clojure-finance/datajure/versions/2.3.0</link>
-    <description>Clojure data manipulation DSL built on tech.ml.dataset</description>
-    <pubDate>Fri, 19 Jun 2026 09:07:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.4.123</guid>
-    <title>[org.replikativ/persistent-sorted-set &quot;0.4.123&quot;]</title>
-    <link>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.4.123</link>
-    <description>A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.</description>
-    <pubDate>Fri, 19 Jun 2026 08:15:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.1.13</guid>
-    <title>[org.replikativ/raster &quot;0.1.13&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.1.13</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Fri, 19 Jun 2026 05:36:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.clojure-finance/datajure/versions/2.2.0</guid>
-    <title>[com.github.clojure-finance/datajure &quot;2.2.0&quot;]</title>
-    <link>https://clojars.org/com.github.clojure-finance/datajure/versions/2.2.0</link>
-    <description>Clojure data manipulation DSL built on tech.ml.dataset</description>
-    <pubDate>Fri, 19 Jun 2026 05:09:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/toyokumo/toyokumo-commons/versions/0.4.225</guid>
-    <title>[toyokumo/toyokumo-commons &quot;0.4.225&quot;]</title>
-    <link>https://clojars.org/toyokumo/toyokumo-commons/versions/0.4.225</link>
-    <description>Utility functions that are used in multiple Toyokumo products</description>
-    <pubDate>Fri, 19 Jun 2026 04:07:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.marksto/clj-tg-bot-api.updates/versions/1.2.271</guid>
-    <title>[com.github.marksto/clj-tg-bot-api.updates &quot;1.2.271&quot;]</title>
-    <link>https://clojars.org/com.github.marksto/clj-tg-bot-api.updates/versions/1.2.271</link>
-    <description>Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.</description>
-    <pubDate>Fri, 19 Jun 2026 03:53:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.marksto/clj-tg-bot-api/versions/1.2.271</guid>
-    <title>[com.github.marksto/clj-tg-bot-api &quot;1.2.271&quot;]</title>
-    <link>https://clojars.org/com.github.marksto/clj-tg-bot-api/versions/1.2.271</link>
-    <description>The latest Telegram Bot API specification and client lib for Clojure-based apps.</description>
-    <pubDate>Fri, 19 Jun 2026 03:53:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang.commons/raylib-sys/versions/2026.06-1</guid>
-    <title>[org.jank-lang.commons/raylib-sys &quot;2026.06-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang.commons/raylib-sys/versions/2026.06-1</link>
-    <description>Raw package for raylib.</description>
-    <pubDate>Fri, 19 Jun 2026 02:58:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang.commons/jank-build-pkg-config/versions/2026.06-1</guid>
-    <title>[org.jank-lang.commons/jank-build-pkg-config &quot;2026.06-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang.commons/jank-build-pkg-config/versions/2026.06-1</link>
-    <description>Build script helper for querying libraries via pkg-config.</description>
-    <pubDate>Fri, 19 Jun 2026 02:58:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang.commons/jank-build-cmake/versions/2026.06-1</guid>
-    <title>[org.jank-lang.commons/jank-build-cmake &quot;2026.06-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang.commons/jank-build-cmake/versions/2026.06-1</link>
-    <description>Build script helper for building CMake packages.</description>
-    <pubDate>Fri, 19 Jun 2026 02:57:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang.commons/imgui-sys/versions/2026.06-1</guid>
-    <title>[org.jank-lang.commons/imgui-sys &quot;2026.06-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang.commons/imgui-sys/versions/2026.06-1</link>
-    <description></description>
-    <pubDate>Fri, 19 Jun 2026 02:57:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang.commons/glfw-sys/versions/2026.06-1</guid>
-    <title>[org.jank-lang.commons/glfw-sys &quot;2026.06-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang.commons/glfw-sys/versions/2026.06-1</link>
-    <description>Raw package for glfw3.</description>
-    <pubDate>Fri, 19 Jun 2026 02:55:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang.commons/gl-sys/versions/2026.06-1</guid>
-    <title>[org.jank-lang.commons/gl-sys &quot;2026.06-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang.commons/gl-sys/versions/2026.06-1</link>
-    <description>Raw package for OpenGL.</description>
-    <pubDate>Fri, 19 Jun 2026 02:37:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.6.1</guid>
-    <title>[net.clojars.savya/anthropic-clj &quot;0.6.1&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.6.1</link>
-    <description>Idiomatic Clojure wrapper over the official Anthropic Java SDK</description>
-    <pubDate>Fri, 19 Jun 2026 01:04:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.1.12</guid>
-    <title>[org.replikativ/raster &quot;0.1.12&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.1.12</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Fri, 19 Jun 2026 00:36:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.1.10</guid>
-    <title>[org.replikativ/raster &quot;0.1.10&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.1.10</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Thu, 18 Jun 2026 21:05:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.1.9</guid>
-    <title>[org.replikativ/raster &quot;0.1.9&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.1.9</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Thu, 18 Jun 2026 20:26:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.radarroark/xitdb/versions/0.30.0</guid>
-    <title>[io.github.radarroark/xitdb &quot;0.30.0&quot;]</title>
-    <link>https://clojars.org/io.github.radarroark/xitdb/versions/0.30.0</link>
-    <description>An immutable database</description>
-    <pubDate>Thu, 18 Jun 2026 18:59:14 +0000</pubDate>
   </item>
   </channel>
 </rss>
