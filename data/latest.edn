@@ -1,22 +1,3 @@
-{:created 1781974563649, :description "A Temporal SDK for Clojure", :group_name "io.github.manetu", :jar_name "temporal-sdk", :version "2.1.0"}
-{:created 1781982824600, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.1389"}
-{:created 1781983815260, :description nil, :group_name "com.bhauman", :jar_name "rebel-readline", :version "0.1.11"}
-{:created 1781983828049, :description nil, :group_name "com.bhauman", :jar_name "rebel-readline-cljs", :version "0.1.11"}
-{:created 1781983828072, :description nil, :group_name "com.bhauman", :jar_name "rebel-readline-nrepl", :version "0.1.11"}
-{:created 1781988118725, :description "Raw package for raylib.", :group_name "org.jank-lang.commons", :jar_name "raylib-sys", :version "2026.06-3"}
-{:created 1781988130402, :description "Raw package for Dear ImGUI GLFW platform backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-glfw-sys", :version "2026.06-1"}
-{:created 1781988141541, :description "Raw package for Dear ImGUI OpenGL2 renderer backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-opengl2-sys", :version "2026.06-1"}
-{:created 1781988152073, :description "Raw package for Dear ImGUI.", :group_name "org.jank-lang.commons", :jar_name "imgui-sys", :version "2026.06-2"}
-{:created 1781988354065, :description "YAMLStar - A pure YAML 1.2 loader for Clojure", :group_name "org.yamlstar", :jar_name "yamlstar", :version "0.1.7"}
-{:created 1781988646763, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.05.26-SNAPSHOT"}
-{:created 1781988897756, :description "A Clojure library for Model Context Protocol Servers", :group_name "org.clojars.roklenarcic", :jar_name "mcp-server", :version "0.3.40"}
-{:created 1782007219166, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.1118"}
-{:created 1782010869452, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
-{:created 1782018263103, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1702"}
-{:created 1782018295402, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.1.61"}
-{:created 1782025545924, :description "Self-modifying snapshot testing for Clojure", :group_name "dev.tomwaddington", :jar_name "still", :version "0.1.42"}
-{:created 1782026187799, :description "Graph library for Clojure and ClojureScript", :group_name "net.clojars.savya", :jar_name "loom", :version "1.1.0"}
-{:created 1782027211967, :description "Graph library for Clojure and ClojureScript", :group_name "net.clojars.savya", :jar_name "loom", :version "1.2.0"}
 {:created 1782027453457, :description "Efficiently render and rerender DOM from immutable data.", :group_name "no.cjohansen", :jar_name "replicant", :version "2026.06.1"}
 {:created 1782030454044, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.1.62"}
 {:created 1782031481264, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.1.15"}
@@ -254,3 +235,22 @@
 {:created 1782288835359, :description "Prebuilt ruff-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "ruff-native-darwin-arm64", :version "0.1.1"}
 {:created 1782288980303, :description "Clojure binding to ruff — Python code formatting — over a first-party cdylib via FFM.", :group_name "com.blockether", :jar_name "ruff", :version "0.1.1"}
 {:created 1782291649233, :description "Library for generating slim JARs", :group_name "io.core0", :jar_name "slim-build-tools", :version "1.0.0-SNAPSHOT"}
+{:created 1782296487269, :description "Prebuilt ruff-c cdylib (FFM) for linux-x64.", :group_name "com.blockether", :jar_name "ruff-native-linux-x64", :version "0.1.2"}
+{:created 1782296515787, :description "Prebuilt ruff-c cdylib (FFM) for linux-arm64.", :group_name "com.blockether", :jar_name "ruff-native-linux-arm64", :version "0.1.2"}
+{:created 1782296521343, :description "Prebuilt ruff-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "ruff-native-darwin-arm64", :version "0.1.2"}
+{:created 1782296552015, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.9.6-7"}
+{:created 1782296571279, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.9.6-7"}
+{:created 1782296578201, :description "Prebuilt ruff-c cdylib (FFM) for darwin-x64.", :group_name "com.blockether", :jar_name "ruff-native-darwin-x64", :version "0.1.2"}
+{:created 1782296641293, :description "Prebuilt ruff-c cdylib (FFM) for windows-x64.", :group_name "com.blockether", :jar_name "ruff-native-windows-x64", :version "0.1.2"}
+{:created 1782296670747, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.9.6-7"}
+{:created 1782296689931, :description "Clojure binding to ruff — Python code formatting — over a first-party cdylib via FFM.", :group_name "com.blockether", :jar_name "ruff", :version "0.1.2"}
+{:created 1782296788502, :description "Native rift-ffi library for linux-x64.", :group_name "com.blockether", :jar_name "rift-native-linux-x64", :version "0.0.10-5"}
+{:created 1782296797244, :description "Native rift-ffi library for linux-arm64.", :group_name "com.blockether", :jar_name "rift-native-linux-arm64", :version "0.0.10-5"}
+{:created 1782296805984, :description "Native rift-ffi library for darwin-arm64.", :group_name "com.blockether", :jar_name "rift-native-darwin-arm64", :version "0.0.10-5"}
+{:created 1782296814380, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.9.6-7"}
+{:created 1782296815361, :description "Native rift-ffi library for darwin-x64.", :group_name "com.blockether", :jar_name "rift-native-darwin-x64", :version "0.0.10-5"}
+{:created 1782296823575, :description "Clojure binding to rift — copy-on-write workspaces — via the JDK Foreign Function & Memory API.", :group_name "com.blockether", :jar_name "rift", :version "0.0.10-5"}
+{:created 1782296881990, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.9.6-7"}
+{:created 1782296923664, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.9.6-7"}
+{:created 1782297301209, :description "A stream processing framework to build stateless applications on kafka", :group_name "tech.gojek", :jar_name "ziggurat", :version "4.12.2"}
+{:created 1782297810373, :description "A fertile ground for Clojure tooling", :group_name "cider", :jar_name "orchard", :version "0.43.0-alpha2"}
