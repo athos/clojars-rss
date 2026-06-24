@@ -1,20 +1,3 @@
-{:created 1781889382295, :description "ClojureScript / Reagent wrapper around react-map-gl (MapLibre).", :group_name "io.github.perrygeo", :jar_name "cartoj", :version "0.3.0"}
-{:created 1781890429100, :description "Smile - Statistical Machine Intelligence and Learning Engine", :group_name "org.clojars.haifengl", :jar_name "smile", :version "6.2.2"}
-{:created 1781894544490, :description "Simplify EHR integrations by defining and validating your entire provider connection pipeline using native Clojure data structures.", :group_name "io.github.samuelcarriles", :jar_name "ehr-adapter", :version "1.0.1"}
-{:created 1781896693080, :description nil, :group_name "org.clojars.apace", :jar_name "atom-validator", :version "0.1.21"}
-{:created 1781897725016, :description "RFC 4287 Atom feed validator for Clojure with property-based testing", :group_name "org.clojars.apace", :jar_name "atom-validator", :version "0.1.27"}
-{:created 1781898534888, :description "Smarter, manageable futures for Clojure: supervised async work with retries, throttling, and REPL-driven recovery.", :group_name "net.clojars.bmillare", :jar_name "dj.concurrency", :version "0.1.0-alpha1"}
-{:created 1781899525465, :description "A small Clojure TCP server", :group_name "dev.weavejester", :jar_name "teensyp", :version "0.7.2"}
-{:created 1781900134792, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.46"}
-{:created 1781900177883, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.46"}
-{:created 1781900868886, :description nil, :group_name "com.bhauman", :jar_name "rebel-readline", :version "0.1.8"}
-{:created 1781900889489, :description nil, :group_name "com.bhauman", :jar_name "rebel-readline-cljs", :version "0.1.8"}
-{:created 1781900962713, :description nil, :group_name "com.bhauman", :jar_name "rebel-readline-nrepl", :version "0.1.9"}
-{:created 1781901122172, :description "RFC 4287 Atom feed validator for Clojure with property-based testing", :group_name "org.clojars.apace", :jar_name "atom-validator", :version "0.1.39"}
-{:created 1781904970655, :description "A library of statistical distribution sampling and transducing functions", :group_name "kixi", :jar_name "stats", :version "0.5.9"}
-{:created 1781905444461, :description nil, :group_name "com.soundhound", :jar_name "clj-oci", :version "1.13.0"}
-{:created 1781907378970, :description "generators for clojure", :group_name "party.donut", :jar_name "generate", :version "1.0.58"}
-{:created 1781932361587, :description "URL helpers and metadata utilities for ProductShot AI — AI product photography generator for ecommerce product photos", :group_name "io.github.bbwdadfg", :jar_name "productshotai-site-kit", :version "0.1.0"}
 {:created 1781957615002, :description "Soala is a dependency injection and lifecycle management library for clojure", :group_name "org.clojars.jj", :jar_name "saola", :version "1.0.3"}
 {:created 1781957658890, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "skeptic", :version "0.9.0-rc10"}
 {:created 1781963760663, :description "Static type checking for Clojure projects that use Plumatic Schema", :group_name "org.clojars.nomicflux", :jar_name "skeptic", :version "0.9.0"}
@@ -254,3 +237,20 @@
 {:created 1782274811244, :description "Build your jank projects using Leiningen.", :group_name "org.jank-lang", :jar_name "lein-jank", :version "2026.06-1"}
 {:created 1782274940238, :description "", :group_name "org.jank-lang", :jar_name "lein-template.jank", :version "2026.06-2"}
 {:created 1782281571574, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.4.0"}
+{:created 1782287544026, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.9.6-6"}
+{:created 1782287546860, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.9.6-6"}
+{:created 1782287609319, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.9.6-6"}
+{:created 1782287685857, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.9.6-6"}
+{:created 1782287693542, :description "Native rift-ffi library for linux-x64.", :group_name "com.blockether", :jar_name "rift-native-linux-x64", :version "0.0.10-4"}
+{:created 1782287703376, :description "Native rift-ffi library for linux-arm64.", :group_name "com.blockether", :jar_name "rift-native-linux-arm64", :version "0.0.10-4"}
+{:created 1782287713505, :description "Native rift-ffi library for darwin-arm64.", :group_name "com.blockether", :jar_name "rift-native-darwin-arm64", :version "0.0.10-4"}
+{:created 1782287717413, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.9.6-6"}
+{:created 1782287723615, :description "Native rift-ffi library for darwin-x64.", :group_name "com.blockether", :jar_name "rift-native-darwin-x64", :version "0.0.10-4"}
+{:created 1782287732917, :description "Clojure binding to rift — copy-on-write workspaces — via the JDK Foreign Function & Memory API.", :group_name "com.blockether", :jar_name "rift", :version "0.0.10-4"}
+{:created 1782287780959, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.9.6-6"}
+{:created 1782287849382, :description "Dependency inlining and shadowing tool.", :group_name "thomasa", :jar_name "mranderson", :version "0.6.1"}
+{:created 1782288789136, :description "Prebuilt ruff-c cdylib (FFM) for linux-arm64.", :group_name "com.blockether", :jar_name "ruff-native-linux-arm64", :version "0.1.1"}
+{:created 1782288799437, :description "Prebuilt ruff-c cdylib (FFM) for linux-x64.", :group_name "com.blockether", :jar_name "ruff-native-linux-x64", :version "0.1.1"}
+{:created 1782288801818, :description "Prebuilt ruff-c cdylib (FFM) for darwin-x64.", :group_name "com.blockether", :jar_name "ruff-native-darwin-x64", :version "0.1.1"}
+{:created 1782288835359, :description "Prebuilt ruff-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "ruff-native-darwin-arm64", :version "0.1.1"}
+{:created 1782288980303, :description "Clojure binding to ruff — Python code formatting — over a first-party cdylib via FFM.", :group_name "com.blockether", :jar_name "ruff", :version "0.1.1"}
