@@ -4,7 +4,35 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 25 Jun 2026 12:42:21 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 13:40:09 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.s-exp/hirundo/versions/1.0.0-alpha214</guid>
+    <title>[com.s-exp/hirundo &quot;1.0.0-alpha214&quot;]</title>
+    <link>https://clojars.org/com.s-exp/hirundo/versions/1.0.0-alpha214</link>
+    <description></description>
+    <pubDate>Thu, 25 Jun 2026 13:24:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.babashka/cli/versions/0.12.75</guid>
+    <title>[org.babashka/cli &quot;0.12.75&quot;]</title>
+    <link>https://clojars.org/org.babashka/cli/versions/0.12.75</link>
+    <description>Turn Clojure functions into CLIs!</description>
+    <pubDate>Thu, 25 Jun 2026 13:20:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.circleci/deps-plus/versions/0.1.0-SNAPSHOT</guid>
+    <title>[com.circleci/deps-plus &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.circleci/deps-plus/versions/0.1.0-SNAPSHOT</link>
+    <description></description>
+    <pubDate>Thu, 25 Jun 2026 12:54:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.17</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.17&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.17</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.</description>
+    <pubDate>Thu, 25 Jun 2026 12:43:47 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.lambdaisland/launchpad/versions/0.51.231-alpha</guid>
     <title>[com.lambdaisland/launchpad &quot;0.51.231-alpha&quot;]</title>
@@ -1772,34 +1800,6 @@
     <link>https://clojars.org/com.blockether/fff/versions/0.9.6-3</link>
     <description>Clojure binding to fff — fast file and content search — via JDK FFM.</description>
     <pubDate>Mon, 22 Jun 2026 09:53:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/fff-native-darwin-x64/versions/0.9.6-3</guid>
-    <title>[com.blockether/fff-native-darwin-x64 &quot;0.9.6-3&quot;]</title>
-    <link>https://clojars.org/com.blockether/fff-native-darwin-x64/versions/0.9.6-3</link>
-    <description>Native fff-c library for darwin-x64.</description>
-    <pubDate>Mon, 22 Jun 2026 09:52:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/fff-native-darwin-arm64/versions/0.9.6-3</guid>
-    <title>[com.blockether/fff-native-darwin-arm64 &quot;0.9.6-3&quot;]</title>
-    <link>https://clojars.org/com.blockether/fff-native-darwin-arm64/versions/0.9.6-3</link>
-    <description>Native fff-c library for darwin-arm64.</description>
-    <pubDate>Mon, 22 Jun 2026 09:52:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/fff-native-windows-x64/versions/0.9.6-3</guid>
-    <title>[com.blockether/fff-native-windows-x64 &quot;0.9.6-3&quot;]</title>
-    <link>https://clojars.org/com.blockether/fff-native-windows-x64/versions/0.9.6-3</link>
-    <description>Native fff-c library for windows-x64.</description>
-    <pubDate>Mon, 22 Jun 2026 09:50:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/fff-native-linux-x64/versions/0.9.6-3</guid>
-    <title>[com.blockether/fff-native-linux-x64 &quot;0.9.6-3&quot;]</title>
-    <link>https://clojars.org/com.blockether/fff-native-linux-x64/versions/0.9.6-3</link>
-    <description>Native fff-c library for linux-x64.</description>
-    <pubDate>Mon, 22 Jun 2026 09:48:42 +0000</pubDate>
   </item>
   </channel>
 </rss>
