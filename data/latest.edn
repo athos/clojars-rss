@@ -1,7 +1,3 @@
-{:created 1782116825140, :description "Dev module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-dev", :version "0.2.2"}
-{:created 1782116880418, :description "JSON (charred library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-charred", :version "0.2.2"}
-{:created 1782116915567, :description "JSON (cheshire library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-cheshire", :version "0.2.2"}
-{:created 1782116959425, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.2.2"}
 {:created 1782117007656, :description "JSON (jsonista library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-jsonista", :version "0.2.2"}
 {:created 1782121712734, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.9.6-3"}
 {:created 1782121722961, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.9.6-3"}
@@ -254,3 +250,7 @@
 {:created 1782360283753, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
 {:created 1782364207669, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.16.0"}
 {:created 1782365938162, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.18.0"}
+{:created 1782372956786, :description "Lightweight Clojure/ClojureScript library for partial continuation-passing style transformations.", :group_name "is.simm", :jar_name "partial-cps", :version "0.1.59"}
+{:created 1782373950439, :description "A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.", :group_name "org.replikativ", :jar_name "persistent-sorted-set", :version "0.4.127"}
+{:created 1782376294850, :description "Utility functions for filling a Hiccup template stored in EDN format with data stored in a Clojure map", :group_name "nl.loudai", :jar_name "hiccup-templating", :version "0.1.3-SNAPSHOT"}
+{:created 1782377550570, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.1.67"}
