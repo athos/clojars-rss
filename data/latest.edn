@@ -1,8 +1,3 @@
-{:created 1782163974560, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.33"}
-{:created 1782165444832, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.10.3-blockether.22"}
-{:created 1782165454514, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.10.3-blockether.22"}
-{:created 1782165464162, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.10.3-blockether.22"}
-{:created 1782165474169, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.10.3-blockether.22"}
 {:created 1782165484089, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.10.3-blockether.22"}
 {:created 1782165495768, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.10.3-blockether.22"}
 {:created 1782167112110, :description "bridge — evidence-driven change & spec-traceability toolkit (CLI + library).", :group_name "com.blockether", :jar_name "bridge", :version "0.1.0"}
@@ -254,3 +249,8 @@
 {:created 1782492514332, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.65"}
 {:created 1782492556635, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.65"}
 {:created 1782492863205, :description "clojure threagile implementation with additional attack tree modelling", :group_name "org.domaindrivenarchitecture", :jar_name "dda-tara", :version "3.1.0"}
+{:created 1782497886924, :description "Build script helper for building CMake packages.", :group_name "org.jank-lang.commons", :jar_name "jank-build-cmake", :version "2026.06-6"}
+{:created 1782497898431, :description "Raw package for Dear ImGUI.", :group_name "org.jank-lang.commons", :jar_name "imgui-sys", :version "2026.06-6"}
+{:created 1782497910938, :description "Raw package for Dear ImGUI GLFW platform backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-glfw-sys", :version "2026.06-6"}
+{:created 1782497922271, :description "Raw package for Dear ImGUI OpenGL2 renderer backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-opengl2-sys", :version "2026.06-6"}
+{:created 1782497933764, :description "Raw package for raylib.", :group_name "org.jank-lang.commons", :jar_name "raylib-sys", :version "2026.06-7"}
