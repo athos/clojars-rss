@@ -1,6 +1,3 @@
-{:created 1782202410467, :description "Native rift-ffi library for darwin-x64.", :group_name "com.blockether", :jar_name "rift-native-darwin-x64", :version "0.0.10-3"}
-{:created 1782202419753, :description "Clojure binding to rift — copy-on-write workspaces — via the JDK Foreign Function & Memory API.", :group_name "com.blockether", :jar_name "rift", :version "0.0.10-3"}
-{:created 1782202472181, :description "A synchronization layer for konserve key-value stores", :group_name "org.replikativ", :jar_name "konserve-sync", :version "0.1.30"}
 {:created 1782203882655, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1703"}
 {:created 1782206119237, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "3.3.8.42"}
 {:created 1782206132361, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.35"}
@@ -254,3 +251,6 @@
 {:created 1782583193269, :description "A simple and extensible web framework for Clojure", :group_name "com.github.brettatoms", :jar_name "zodiac", :version "0.9.100"}
 {:created 1782583318055, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.6"}
 {:created 1782583882284, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.26.0"}
+{:created 1782587582219, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.0.0"}
+{:created 1782587593212, :description "PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.", :group_name "net.clojars.savya", :jar_name "psql-clj-gis", :version "2.0.0"}
+{:created 1782587604283, :description "AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.", :group_name "net.clojars.savya", :jar_name "psql-clj-aws", :version "2.0.0"}

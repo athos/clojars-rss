@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 27 Jun 2026 18:21:05 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 27 Jun 2026 19:28:15 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/2.0.0</guid>
+    <title>[net.clojars.savya/psql-clj-aws &quot;2.0.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/2.0.0</link>
+    <description>AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.</description>
+    <pubDate>Sat, 27 Jun 2026 19:13:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj-gis/versions/2.0.0</guid>
+    <title>[net.clojars.savya/psql-clj-gis &quot;2.0.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj-gis/versions/2.0.0</link>
+    <description>PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.</description>
+    <pubDate>Sat, 27 Jun 2026 19:13:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj/versions/2.0.0</guid>
+    <title>[net.clojars.savya/psql-clj &quot;2.0.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj/versions/2.0.0</link>
+    <description>PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.</description>
+    <pubDate>Sat, 27 Jun 2026 19:13:02 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/net.clojars.savya/stdnum-clj/versions/0.26.0</guid>
     <title>[net.clojars.savya/stdnum-clj &quot;0.26.0&quot;]</title>
@@ -1777,27 +1798,6 @@
     <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1703</link>
     <description>A durable datalog implementation adaptable for distribution.</description>
     <pubDate>Tue, 23 Jun 2026 08:38:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.30</guid>
-    <title>[org.replikativ/konserve-sync &quot;0.1.30&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.30</link>
-    <description>A synchronization layer for konserve key-value stores</description>
-    <pubDate>Tue, 23 Jun 2026 08:14:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/rift/versions/0.0.10-3</guid>
-    <title>[com.blockether/rift &quot;0.0.10-3&quot;]</title>
-    <link>https://clojars.org/com.blockether/rift/versions/0.0.10-3</link>
-    <description>Clojure binding to rift — copy-on-write workspaces — via the JDK Foreign Function &amp; Memory API.</description>
-    <pubDate>Tue, 23 Jun 2026 08:13:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/rift-native-darwin-x64/versions/0.0.10-3</guid>
-    <title>[com.blockether/rift-native-darwin-x64 &quot;0.0.10-3&quot;]</title>
-    <link>https://clojars.org/com.blockether/rift-native-darwin-x64/versions/0.0.10-3</link>
-    <description>Native rift-ffi library for darwin-x64.</description>
-    <pubDate>Tue, 23 Jun 2026 08:13:30 +0000</pubDate>
   </item>
   </channel>
 </rss>
