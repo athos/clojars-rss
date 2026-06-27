@@ -1,9 +1,3 @@
-{:created 1782163231679, :description "Native rift-ffi library for darwin-x64.", :group_name "com.blockether", :jar_name "rift-native-darwin-x64", :version "0.0.10-2"}
-{:created 1782163241730, :description "Clojure binding to rift — copy-on-write workspaces — via the JDK Foreign Function & Memory API.", :group_name "com.blockether", :jar_name "rift", :version "0.0.10-2"}
-{:created 1782163281448, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.9.6-4"}
-{:created 1782163291742, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.9.6-4"}
-{:created 1782163328001, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.9.6-4"}
-{:created 1782163375088, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.9.6-4"}
 {:created 1782163450618, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.9.6-4"}
 {:created 1782163516581, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.9.6-4"}
 {:created 1782163974560, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.33"}
@@ -254,3 +248,9 @@
 {:created 1782515271629, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.70"}
 {:created 1782515312654, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.70"}
 {:created 1782522072362, :description nil, :group_name "com.github.danielsz", :jar_name "bioscoop", :version "1.0.7"}
+{:created 1782535705533, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.24.1"}
+{:created 1782536702036, :description "Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.", :group_name "net.clojars.savya", :jar_name "chunk-clj", :version "0.1.1"}
+{:created 1782536706848, :description "Idiomatic Clojure wrapper over DJL's HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.", :group_name "net.clojars.savya", :jar_name "tokenizers-clj", :version "0.1.1"}
+{:created 1782536716249, :description "Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).", :group_name "net.clojars.savya", :jar_name "dogstatsd", :version "0.1.2"}
+{:created 1782536720498, :description "Experimental Foreign Function & Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.", :group_name "net.clojars.savya", :jar_name "beckon-ffm", :version "0.1.2"}
+{:created 1782536744912, :description nil, :group_name "net.clojars.savya", :jar_name "buddy-auth", :version "3.1.2"}

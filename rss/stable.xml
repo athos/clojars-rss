@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 27 Jun 2026 03:01:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 27 Jun 2026 05:14:48 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/buddy-auth/versions/3.1.2</guid>
+    <title>[net.clojars.savya/buddy-auth &quot;3.1.2&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/buddy-auth/versions/3.1.2</link>
+    <description></description>
+    <pubDate>Sat, 27 Jun 2026 05:05:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/beckon-ffm/versions/0.1.2</guid>
+    <title>[net.clojars.savya/beckon-ffm &quot;0.1.2&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/beckon-ffm/versions/0.1.2</link>
+    <description>Experimental Foreign Function &amp; Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.</description>
+    <pubDate>Sat, 27 Jun 2026 05:05:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/dogstatsd/versions/0.1.2</guid>
+    <title>[net.clojars.savya/dogstatsd &quot;0.1.2&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/dogstatsd/versions/0.1.2</link>
+    <description>Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).</description>
+    <pubDate>Sat, 27 Jun 2026 05:05:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/tokenizers-clj/versions/0.1.1</guid>
+    <title>[net.clojars.savya/tokenizers-clj &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/tokenizers-clj/versions/0.1.1</link>
+    <description>Idiomatic Clojure wrapper over DJL&#39;s HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.</description>
+    <pubDate>Sat, 27 Jun 2026 05:05:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.1.1</guid>
+    <title>[net.clojars.savya/chunk-clj &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.1.1</link>
+    <description>Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.</description>
+    <pubDate>Sat, 27 Jun 2026 05:05:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/stdnum-clj/versions/0.24.1</guid>
+    <title>[net.clojars.savya/stdnum-clj &quot;0.24.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/stdnum-clj/versions/0.24.1</link>
+    <description>Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.</description>
+    <pubDate>Sat, 27 Jun 2026 04:48:25 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.github.danielsz/bioscoop/versions/1.0.7</guid>
     <title>[com.github.danielsz/bioscoop &quot;1.0.7&quot;]</title>
@@ -1756,48 +1798,6 @@
     <link>https://clojars.org/com.blockether/fff-native-windows-x64/versions/0.9.6-4</link>
     <description>Native fff-c library for windows-x64.</description>
     <pubDate>Mon, 22 Jun 2026 21:24:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/fff-native-darwin-x64/versions/0.9.6-4</guid>
-    <title>[com.blockether/fff-native-darwin-x64 &quot;0.9.6-4&quot;]</title>
-    <link>https://clojars.org/com.blockether/fff-native-darwin-x64/versions/0.9.6-4</link>
-    <description>Native fff-c library for darwin-x64.</description>
-    <pubDate>Mon, 22 Jun 2026 21:22:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/fff-native-darwin-arm64/versions/0.9.6-4</guid>
-    <title>[com.blockether/fff-native-darwin-arm64 &quot;0.9.6-4&quot;]</title>
-    <link>https://clojars.org/com.blockether/fff-native-darwin-arm64/versions/0.9.6-4</link>
-    <description>Native fff-c library for darwin-arm64.</description>
-    <pubDate>Mon, 22 Jun 2026 21:22:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/fff-native-linux-x64/versions/0.9.6-4</guid>
-    <title>[com.blockether/fff-native-linux-x64 &quot;0.9.6-4&quot;]</title>
-    <link>https://clojars.org/com.blockether/fff-native-linux-x64/versions/0.9.6-4</link>
-    <description>Native fff-c library for linux-x64.</description>
-    <pubDate>Mon, 22 Jun 2026 21:21:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/fff-native-linux-arm64/versions/0.9.6-4</guid>
-    <title>[com.blockether/fff-native-linux-arm64 &quot;0.9.6-4&quot;]</title>
-    <link>https://clojars.org/com.blockether/fff-native-linux-arm64/versions/0.9.6-4</link>
-    <description>Native fff-c library for linux-arm64.</description>
-    <pubDate>Mon, 22 Jun 2026 21:21:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/rift/versions/0.0.10-2</guid>
-    <title>[com.blockether/rift &quot;0.0.10-2&quot;]</title>
-    <link>https://clojars.org/com.blockether/rift/versions/0.0.10-2</link>
-    <description>Clojure binding to rift — copy-on-write workspaces — via the JDK Foreign Function &amp; Memory API.</description>
-    <pubDate>Mon, 22 Jun 2026 21:20:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/rift-native-darwin-x64/versions/0.0.10-2</guid>
-    <title>[com.blockether/rift-native-darwin-x64 &quot;0.0.10-2&quot;]</title>
-    <link>https://clojars.org/com.blockether/rift-native-darwin-x64/versions/0.0.10-2</link>
-    <description>Native rift-ffi library for darwin-x64.</description>
-    <pubDate>Mon, 22 Jun 2026 21:20:31 +0000</pubDate>
   </item>
   </channel>
 </rss>
