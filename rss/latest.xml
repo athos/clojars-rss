@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 28 Jun 2026 05:27:08 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 28 Jun 2026 07:16:06 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/2.0.1</guid>
+    <title>[net.clojars.savya/psql-clj-aws &quot;2.0.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/2.0.1</link>
+    <description>AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.</description>
+    <pubDate>Sun, 28 Jun 2026 06:21:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj-gis/versions/2.0.1</guid>
+    <title>[net.clojars.savya/psql-clj-gis &quot;2.0.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj-gis/versions/2.0.1</link>
+    <description>PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.</description>
+    <pubDate>Sun, 28 Jun 2026 06:21:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj/versions/2.0.1</guid>
+    <title>[net.clojars.savya/psql-clj &quot;2.0.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj/versions/2.0.1</link>
+    <description>PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.</description>
+    <pubDate>Sun, 28 Jun 2026 06:21:00 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.typedclojure/typed.malli/versions/1.4.0-SNAPSHOT</guid>
     <title>[org.typedclojure/typed.malli &quot;1.4.0-SNAPSHOT&quot;]</title>
@@ -1777,27 +1798,6 @@
     <link>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-33</link>
     <description>Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components</description>
     <pubDate>Tue, 23 Jun 2026 15:14:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-33</guid>
-    <title>[org.boundary-app/boundary-reports &quot;1.0.1-alpha-33&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-33</link>
-    <description>PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module</description>
-    <pubDate>Tue, 23 Jun 2026 15:13:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-33</guid>
-    <title>[org.boundary-app/boundary-geo &quot;1.0.1-alpha-33&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-33</link>
-    <description>Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation</description>
-    <pubDate>Tue, 23 Jun 2026 15:12:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-33</guid>
-    <title>[org.boundary-app/boundary-payments &quot;1.0.1-alpha-33&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-33</link>
-    <description>PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
-    <pubDate>Tue, 23 Jun 2026 15:11:55 +0000</pubDate>
   </item>
   </channel>
 </rss>

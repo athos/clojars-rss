@@ -1,6 +1,3 @@
-{:created 1782215458469, :description "Ring protocols for websockets.", :group_name "org.ring-clojure", :jar_name "ring-websocket-protocols", :version "1.15.5"}
-{:created 1782215571041, :description "Ring Jakarta servlet utilities.", :group_name "org.ring-clojure", :jar_name "ring-jakarta-servlet", :version "1.15.5"}
-{:created 1782216004092, :description "YAMLStar - A pure YAML 1.2 loader for Clojure", :group_name "org.yamlstar", :jar_name "yamlstar", :version "0.1.11"}
 {:created 1782217004773, :description "A small Clojure TCP server", :group_name "dev.weavejester", :jar_name "teensyp", :version "0.7.3"}
 {:created 1782217949383, :description "A comprehensive color manipulation library for Clojure and ClojureScript. Provides utilities for color format conversions, color manipulation, palette generation, accessibility checking, and color analysis.", :group_name "com.github.jramosg", :jar_name "color-tools", :version "1.2.0"}
 {:created 1782218593984, :description "Extended and extensible types for JSON", :group_name "systems.thoughtfull", :jar_name "argus", :version "0.5.0"}
@@ -254,3 +251,6 @@
 {:created 1782605514878, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1705"}
 {:created 1782610152943, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.46"}
 {:created 1782621083081, :description nil, :group_name "com.github.thefakelorlyons", :jar_name "clj-colors", :version "0.2.11"}
+{:created 1782627660461, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.0.1"}
+{:created 1782627670976, :description "PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.", :group_name "net.clojars.savya", :jar_name "psql-clj-gis", :version "2.0.1"}
+{:created 1782627681550, :description "AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.", :group_name "net.clojars.savya", :jar_name "psql-clj-aws", :version "2.0.1"}
