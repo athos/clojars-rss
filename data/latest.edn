@@ -1,5 +1,3 @@
-{:created 1782227640833, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-33"}
-{:created 1782227682445, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-33"}
 {:created 1782227723086, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-33"}
 {:created 1782227765718, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-33"}
 {:created 1782229550249, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.56"}
@@ -254,3 +252,5 @@
 {:created 1782627660461, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.0.1"}
 {:created 1782627670976, :description "PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.", :group_name "net.clojars.savya", :jar_name "psql-clj-gis", :version "2.0.1"}
 {:created 1782627681550, :description "AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.", :group_name "net.clojars.savya", :jar_name "psql-clj-aws", :version "2.0.1"}
+{:created 1782634975093, :description "A library for function memoization.", :group_name "org.clojars.roklenarcic", :jar_name "memento", :version "2.1.79"}
+{:created 1782635565292, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1706"}
