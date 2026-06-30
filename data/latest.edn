@@ -1,14 +1,3 @@
-{:created 1782329883032, :description "An in-process Clojure test runner for AI agents and REPL-driven development.", :group_name "org.hugoduncan", :jar_name "scry", :version "0.1.45"}
-{:created 1782329887860, :description "Optional Kaocha adapter for scry's structured in-process test results.", :group_name "org.hugoduncan", :jar_name "scry-kaocha", :version "0.1.45"}
-{:created 1782332753881, :description nil, :group_name "com.leifericf", :jar_name "clj-zig", :version "2026.06.24-alpha1"}
-{:created 1782333958965, :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :group_name "org.yamlscript", :jar_name "yamlscript", :version "0.2.23"}
-{:created 1782333981341, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.2.23"}
-{:created 1782334687283, :description "OpenVox-integrated catalog and fact storage", :group_name "org.openvoxproject", :jar_name "puppetdb", :version "8.14.1"}
-{:created 1782335979935, :description "OpenVox Server", :group_name "org.openvoxproject", :jar_name "puppetserver", :version "8.14.1"}
-{:created 1782337390050, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.8.0"}
-{:created 1782339019756, :description "A Temporal SDK for Clojure", :group_name "io.github.manetu", :jar_name "temporal-sdk", :version "2.2.0"}
-{:created 1782347415511, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.6.3"}
-{:created 1782350668530, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.11.0"}
 {:created 1782352500423, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.12.0"}
 {:created 1782360283753, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
 {:created 1782364207669, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.16.0"}
@@ -254,3 +243,14 @@
 {:created 1782851350608, :description "BrowserChannel server implementation in Clojure", :group_name "bilus", :jar_name "clj-browserchannel-server", :version "0.1.3"}
 {:created 1782851476276, :description "Jetty async adapter for BrowserChannel", :group_name "bilus", :jar_name "clj-browserchannel-jetty-adapter", :version "0.0.7"}
 {:created 1782851484516, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
+{:created 1782852407655, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.10.3-blockether.25"}
+{:created 1782852418359, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.10.3-blockether.25"}
+{:created 1782852428554, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.10.3-blockether.25"}
+{:created 1782852438567, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.10.3-blockether.25"}
+{:created 1782852449019, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.10.3-blockether.25"}
+{:created 1782852461819, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.10.3-blockether.25"}
+{:created 1782852709170, :description "Unified copy-on-write memory model protocols for heterogeneous storage systems", :group_name "org.replikativ", :jar_name "yggdrasil", :version "0.3.32"}
+{:created 1782852998716, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.352"}
+{:created 1782854092276, :description "Clojure(Script) utility for discerning types of values.", :group_name "io.github.paintparty", :jar_name "lasertag", :version "0.13.0"}
+{:created 1782854548520, :description "Themeable print debugging library for Clojure, ClojureScript, and Babashka", :group_name "io.github.paintparty", :jar_name "fireworks", :version "0.21.0"}
+{:created 1782854839815, :description nil, :group_name "com.leifericf", :jar_name "clj-zig", :version "2026.06.27-alpha1"}
