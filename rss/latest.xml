@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 1 Jul 2026 01:42:42 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 1 Jul 2026 03:02:01 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.uncomplicate/clojure-cpp/versions/0.9.0</guid>
+    <title>[org.uncomplicate/clojure-cpp &quot;0.9.0&quot;]</title>
+    <link>https://clojars.org/org.uncomplicate/clojure-cpp/versions/0.9.0</link>
+    <description>Clojure native interop through JavaCPP</description>
+    <pubDate>Wed, 1 Jul 2026 01:47:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/uncomplicate/commons/versions/0.22.0</guid>
+    <title>[uncomplicate/commons &quot;0.22.0&quot;]</title>
+    <link>https://clojars.org/uncomplicate/commons/versions/0.22.0</link>
+    <description>Common Uncomplicate utilities.</description>
+    <pubDate>Wed, 1 Jul 2026 01:44:23 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.github.seancorfield/next.jdbc/versions/1.3.9999-SNAPSHOT</guid>
     <title>[com.github.seancorfield/next.jdbc &quot;1.3.9999-SNAPSHOT&quot;]</title>
@@ -1782,20 +1796,6 @@
     <link>https://clojars.org/com.circleci/deps-plus/versions/0.1.0-SNAPSHOT</link>
     <description></description>
     <pubDate>Thu, 25 Jun 2026 12:54:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.17</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.17&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.17</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.</description>
-    <pubDate>Thu, 25 Jun 2026 12:43:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.lambdaisland/launchpad/versions/0.51.231-alpha</guid>
-    <title>[com.lambdaisland/launchpad &quot;0.51.231-alpha&quot;]</title>
-    <link>https://clojars.org/com.lambdaisland/launchpad/versions/0.51.231-alpha</link>
-    <description>Clojure dev process launcher</description>
-    <pubDate>Thu, 25 Jun 2026 10:40:57 +0000</pubDate>
   </item>
   </channel>
 </rss>
