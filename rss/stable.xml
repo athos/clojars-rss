@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 1 Jul 2026 07:23:42 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 1 Jul 2026 09:04:00 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.billpiel/sayid/versions/0.4.0</guid>
+    <title>[com.billpiel/sayid &quot;0.4.0&quot;]</title>
+    <link>https://clojars.org/com.billpiel/sayid/versions/0.4.0</link>
+    <description>Sayid is a library for debugging and profiling clojure code.</description>
+    <pubDate>Wed, 1 Jul 2026 08:51:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/mx.cider/sayid/versions/0.4.0</guid>
+    <title>[mx.cider/sayid &quot;0.4.0&quot;]</title>
+    <link>https://clojars.org/mx.cider/sayid/versions/0.4.0</link>
+    <description>Sayid is a library for debugging and profiling clojure code.</description>
+    <pubDate>Wed, 1 Jul 2026 08:50:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.19</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.19&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.19</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.</description>
+    <pubDate>Wed, 1 Jul 2026 08:42:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.mattilsynet/design/versions/3.3.10.42</guid>
+    <title>[io.mattilsynet/design &quot;3.3.10.42&quot;]</title>
+    <link>https://clojars.org/io.mattilsynet/design/versions/3.3.10.42</link>
+    <description>Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.</description>
+    <pubDate>Wed, 1 Jul 2026 08:16:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.fulcrologic/escapement/versions/1.0.0-RC7</guid>
+    <title>[com.fulcrologic/escapement &quot;1.0.0-RC7&quot;]</title>
+    <link>https://clojars.org/com.fulcrologic/escapement/versions/1.0.0-RC7</link>
+    <description>A statechart-driven autonomous coding agent.</description>
+    <pubDate>Wed, 1 Jul 2026 07:59:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.tomwaddington/bytemap/versions/0.1.28</guid>
+    <title>[dev.tomwaddington/bytemap &quot;0.1.28&quot;]</title>
+    <link>https://clojars.org/dev.tomwaddington/bytemap/versions/0.1.28</link>
+    <description>Text-based graphics library for Clojure</description>
+    <pubDate>Wed, 1 Jul 2026 07:27:46 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/dev.tomwaddington/still/versions/0.1.43</guid>
     <title>[dev.tomwaddington/still &quot;0.1.43&quot;]</title>
@@ -1754,48 +1796,6 @@
     <link>https://clojars.org/org.babashka/cli/versions/0.12.75</link>
     <description>Turn Clojure functions into CLIs!</description>
     <pubDate>Thu, 25 Jun 2026 13:20:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.17</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.17&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.17</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.</description>
-    <pubDate>Thu, 25 Jun 2026 12:43:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.lambdaisland/launchpad/versions/0.51.231-alpha</guid>
-    <title>[com.lambdaisland/launchpad &quot;0.51.231-alpha&quot;]</title>
-    <link>https://clojars.org/com.lambdaisland/launchpad/versions/0.51.231-alpha</link>
-    <description>Clojure dev process launcher</description>
-    <pubDate>Thu, 25 Jun 2026 10:40:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/bridge/versions/0.1.2</guid>
-    <title>[com.blockether/bridge &quot;0.1.2&quot;]</title>
-    <link>https://clojars.org/com.blockether/bridge/versions/0.1.2</link>
-    <description>bridge — evidence-driven change &amp; spec-traceability toolkit (CLI + library).</description>
-    <pubDate>Thu, 25 Jun 2026 09:26:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.1.67</guid>
-    <title>[org.replikativ/ansatz &quot;0.1.67&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz/versions/0.1.67</link>
-    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
-    <pubDate>Thu, 25 Jun 2026 08:52:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.4.127</guid>
-    <title>[org.replikativ/persistent-sorted-set &quot;0.4.127&quot;]</title>
-    <link>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.4.127</link>
-    <description>A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.</description>
-    <pubDate>Thu, 25 Jun 2026 07:52:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/is.simm/partial-cps/versions/0.1.59</guid>
-    <title>[is.simm/partial-cps &quot;0.1.59&quot;]</title>
-    <link>https://clojars.org/is.simm/partial-cps/versions/0.1.59</link>
-    <description>Lightweight Clojure/ClojureScript library for partial continuation-passing style transformations.</description>
-    <pubDate>Thu, 25 Jun 2026 07:35:56 +0000</pubDate>
   </item>
   </channel>
 </rss>
