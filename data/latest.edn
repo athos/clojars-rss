@@ -1,18 +1,3 @@
-{:created 1782392067853, :description "", :group_name "com.circleci", :jar_name "deps-plus", :version "0.1.0-SNAPSHOT"}
-{:created 1782393618099, :description "Turn Clojure functions into CLIs!", :group_name "org.babashka", :jar_name "cli", :version "0.12.75"}
-{:created 1782393859106, :description nil, :group_name "com.s-exp", :jar_name "hirundo", :version "1.0.0-alpha214"}
-{:created 1782404438122, :description "A Clojure library for Model Context Protocol Servers", :group_name "org.clojars.roklenarcic", :jar_name "mcp-server", :version "0.3.53"}
-{:created 1782410583063, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-missionary", :version "0.1.17"}
-{:created 1782413698059, :description "A Clojure library for Model Context Protocol Servers", :group_name "org.clojars.roklenarcic", :jar_name "mcp-server", :version "0.3.55"}
-{:created 1782416045470, :description "A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.", :group_name "org.replikativ", :jar_name "persistent-sorted-set", :version "0.4.128"}
-{:created 1782416421820, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.61"}
-{:created 1782416462253, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.61"}
-{:created 1782418106745, :description "A collection of nREPL middleware designed to enhance Clojure editors.", :group_name "cider", :jar_name "cider-nrepl", :version "0.61.0-alpha1"}
-{:created 1782423605044, :description "Unified copy-on-write memory model protocols for heterogeneous storage systems", :group_name "org.replikativ", :jar_name "yggdrasil", :version "0.3.30"}
-{:created 1782424834380, :description nil, :group_name "io.github.borkdude", :jar_name "html", :version "0.2.6"}
-{:created 1782426606448, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "2.1.24"}
-{:created 1782431452578, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.62"}
-{:created 1782431500046, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.62"}
 {:created 1782434290155, :description "A leiningen plugin to set the project version in a Helm Chart.yaml file", :group_name "org.clojars.jj", :jar_name "bump-helm", :version "1.0.0-SNAPSHOT"}
 {:created 1782436905707, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.19.0"}
 {:created 1782437735881, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.63"}
@@ -183,14 +168,6 @@
 {:created 1782774824331, :description "Themeable print debugging library for Clojure, ClojureScript, and Babashka", :group_name "io.github.paintparty", :jar_name "fireworks", :version "0.21.0-SNAPSHOT"}
 {:created 1782778949416, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.17"}
 {:created 1782781483171, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.19"}
-{:created 1782794632742, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1782794641316, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
-{:created 1782794649887, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
-{:created 1782794658377, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
-{:created 1782794666930, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
-{:created 1782794675445, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
-{:created 1782794684023, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
-{:created 1782794692438, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
 {:created 1782797187929, :description nil, :group_name "re-com", :jar_name "re-com", :version "2.29.4"}
 {:created 1782798295359, :description "Middleware adding support for running ClojureScript REPLs over nREPL.", :group_name "cider", :jar_name "piggieback", :version "0.7.0"}
 {:created 1782804425561, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.44"}
@@ -254,3 +231,26 @@
 {:created 1782869883849, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
 {:created 1782870263456, :description "Common Uncomplicate utilities.", :group_name "uncomplicate", :jar_name "commons", :version "0.22.0"}
 {:created 1782870438683, :description "Clojure native interop through JavaCPP", :group_name "org.uncomplicate", :jar_name "clojure-cpp", :version "0.9.0"}
+{:created 1782876242101, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.2.272"}
+{:created 1782879205820, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-35"}
+{:created 1782879248139, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-35"}
+{:created 1782879290805, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-35"}
+{:created 1782879373840, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-35"}
+{:created 1782879499848, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-35"}
+{:created 1782879624873, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-35"}
+{:created 1782879667487, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-35"}
+{:created 1782879709916, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-35"}
+{:created 1782879752225, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-35"}
+{:created 1782879794127, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-35"}
+{:created 1782879836329, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-35"}
+{:created 1782880044642, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-35"}
+{:created 1782880087420, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-35"}
+{:created 1782881990280, :description "Configuration library", :group_name "com.lambdaisland", :jar_name "config", :version "0.11.42"}
+{:created 1782883100302, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1782883108689, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0-SNAPSHOT"}
+{:created 1782883116993, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0-SNAPSHOT"}
+{:created 1782883125391, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0-SNAPSHOT"}
+{:created 1782883133821, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0-SNAPSHOT"}
+{:created 1782883142568, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.0-SNAPSHOT"}
+{:created 1782883150919, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.0-SNAPSHOT"}
+{:created 1782883159284, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.0-SNAPSHOT"}
