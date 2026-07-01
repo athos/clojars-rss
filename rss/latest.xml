@@ -4,7 +4,35 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 1 Jul 2026 14:55:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 1 Jul 2026 15:51:36 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/jtk-dvlp/core.async-helpers/versions/4.0.0-SNAPSHOT</guid>
+    <title>[jtk-dvlp/core.async-helpers &quot;4.0.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/jtk-dvlp/core.async-helpers/versions/4.0.0-SNAPSHOT</link>
+    <description>Helper pack for core.async</description>
+    <pubDate>Wed, 1 Jul 2026 15:41:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.lambdaisland/config/versions/0.12.45</guid>
+    <title>[com.lambdaisland/config &quot;0.12.45&quot;]</title>
+    <link>https://clojars.org/com.lambdaisland/config/versions/0.12.45</link>
+    <description>Configuration library</description>
+    <pubDate>Wed, 1 Jul 2026 15:36:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.corfield/rephrase/versions/1.0.4-SNAPSHOT</guid>
+    <title>[org.corfield/rephrase &quot;1.0.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.corfield/rephrase/versions/1.0.4-SNAPSHOT</link>
+    <description>Rephrase exceptions.</description>
+    <pubDate>Wed, 1 Jul 2026 15:13:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.seancorfield/ring-data-json/versions/0.5.4-SNAPSHOT</guid>
+    <title>[com.github.seancorfield/ring-data-json &quot;0.5.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.seancorfield/ring-data-json/versions/0.5.4-SNAPSHOT</link>
+    <description>Ring middleware for handling JSON, using clojure.data.json.</description>
+    <pubDate>Wed, 1 Jul 2026 15:03:58 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.fulcrologic/escapement/versions/1.0.0-RC9</guid>
     <title>[com.fulcrologic/escapement &quot;1.0.0-RC9&quot;]</title>
@@ -1768,34 +1796,6 @@
     <link>https://clojars.org/com.fulcrologic/statecharts/versions/1.4.0-RC19</link>
     <description>A library for building CLJC statechart machines.</description>
     <pubDate>Fri, 26 Jun 2026 12:57:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/info.sunng/ring-jetty9-adapter/versions/0.40.0-SNAPSHOT</guid>
-    <title>[info.sunng/ring-jetty9-adapter &quot;0.40.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/info.sunng/ring-jetty9-adapter/versions/0.40.0-SNAPSHOT</link>
-    <description>Ring adapter for jetty9, which supports websocket, http/2 and http/3</description>
-    <pubDate>Fri, 26 Jun 2026 12:24:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/systems.thoughtfull/argus/versions/0.7.0</guid>
-    <title>[systems.thoughtfull/argus &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/systems.thoughtfull/argus/versions/0.7.0</link>
-    <description>Extended and extensible types for JSON</description>
-    <pubDate>Fri, 26 Jun 2026 12:12:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.18</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.18&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.18</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.</description>
-    <pubDate>Fri, 26 Jun 2026 10:01:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.10.3-blockether.24</guid>
-    <title>[com.blockether/tree-sitter-language-pack &quot;1.10.3-blockether.24&quot;]</title>
-    <link>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.10.3-blockether.24</link>
-    <description>Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-&lt;rid&gt; jar for your platform&#39;s native library.</description>
-    <pubDate>Fri, 26 Jun 2026 09:19:34 +0000</pubDate>
   </item>
   </channel>
 </rss>
