@@ -1,6 +1,3 @@
-{:created 1782583882284, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.26.0"}
-{:created 1782587582219, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.0.0"}
-{:created 1782587593212, :description "PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.", :group_name "net.clojars.savya", :jar_name "psql-clj-gis", :version "2.0.0"}
 {:created 1782587604283, :description "AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.", :group_name "net.clojars.savya", :jar_name "psql-clj-aws", :version "2.0.0"}
 {:created 1782588575394, :description "", :group_name "org.jank-lang", :jar_name "lein-template.jank", :version "2026.06-3"}
 {:created 1782588607604, :description "Build your jank projects using Leiningen.", :group_name "org.jank-lang", :jar_name "lein-jank", :version "2026.06-2"}
@@ -254,3 +251,6 @@
 {:created 1783005905772, :description nil, :group_name "io.pedestal", :jar_name "pedestal.jetty", :version "0.8.2-beta-10"}
 {:created 1783005911760, :description nil, :group_name "io.pedestal", :jar_name "pedestal.http-kit", :version "0.8.2-beta-10"}
 {:created 1783005917830, :description nil, :group_name "io.pedestal", :jar_name "pedestal.embedded", :version "0.8.2-beta-10"}
+{:created 1783008840301, :description "Babashka file system utilities.", :group_name "babashka", :jar_name "fs", :version "0.5.34"}
+{:created 1783009031694, :description nil, :group_name "com.cnuernber", :jar_name "ham-fisted", :version "3.031"}
+{:created 1783009852038, :description nil, :group_name "cnuernber", :jar_name "dtype-next", :version "11.023"}
