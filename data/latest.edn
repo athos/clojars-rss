@@ -1,9 +1,3 @@
-{:created 1782574274813, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-34"}
-{:created 1782574316887, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-34"}
-{:created 1782574359546, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-34"}
-{:created 1782574401934, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-34"}
-{:created 1782574444548, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-34"}
-{:created 1782574486293, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-34"}
 {:created 1782574528215, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-34"}
 {:created 1782574569978, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-34"}
 {:created 1782574612411, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-34"}
@@ -254,3 +248,9 @@
 {:created 1782973283727, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-37"}
 {:created 1782973327812, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-37"}
 {:created 1782974935845, :description "Unified copy-on-write memory model protocols for heterogeneous storage systems", :group_name "org.replikativ", :jar_name "yggdrasil", :version "0.3.35"}
+{:created 1782975162941, :description nil, :group_name "org.clojars.lispyclouds", :jar_name "claxon", :version "1.1"}
+{:created 1782975633202, :description nil, :group_name "net.clojars.savya", :jar_name "embeddings-clj", :version "0.1.0"}
+{:created 1782977342005, :description nil, :group_name "net.clojars.savya", :jar_name "vector-search-clj", :version "0.1.0"}
+{:created 1782979028667, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.26"}
+{:created 1782980435126, :description "Reactive terminal UIs for Spindel — render-spin, controller-map, tree component, JLine sink, suspend/resume for child processes", :group_name "org.replikativ", :jar_name "spindel-tui", :version "0.1.12"}
+{:created 1782982358499, :description "Unified copy-on-write memory model protocols for heterogeneous storage systems", :group_name "org.replikativ", :jar_name "yggdrasil", :version "0.3.36"}

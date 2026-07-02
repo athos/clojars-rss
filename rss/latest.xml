@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 2 Jul 2026 07:02:31 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 2 Jul 2026 08:59:50 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.36</guid>
+    <title>[org.replikativ/yggdrasil &quot;0.3.36&quot;]</title>
+    <link>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.36</link>
+    <description>Unified copy-on-write memory model protocols for heterogeneous storage systems</description>
+    <pubDate>Thu, 2 Jul 2026 08:52:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/spindel-tui/versions/0.1.12</guid>
+    <title>[org.replikativ/spindel-tui &quot;0.1.12&quot;]</title>
+    <link>https://clojars.org/org.replikativ/spindel-tui/versions/0.1.12</link>
+    <description>Reactive terminal UIs for Spindel — render-spin, controller-map, tree component, JLine sink, suspend/resume for child processes</description>
+    <pubDate>Thu, 2 Jul 2026 08:20:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.26</guid>
+    <title>[org.replikativ/spindel &quot;0.1.26&quot;]</title>
+    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.26</link>
+    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
+    <pubDate>Thu, 2 Jul 2026 07:57:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/vector-search-clj/versions/0.1.0</guid>
+    <title>[net.clojars.savya/vector-search-clj &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/vector-search-clj/versions/0.1.0</link>
+    <description></description>
+    <pubDate>Thu, 2 Jul 2026 07:29:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/embeddings-clj/versions/0.1.0</guid>
+    <title>[net.clojars.savya/embeddings-clj &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/embeddings-clj/versions/0.1.0</link>
+    <description></description>
+    <pubDate>Thu, 2 Jul 2026 07:00:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.lispyclouds/claxon/versions/1.1</guid>
+    <title>[org.clojars.lispyclouds/claxon &quot;1.1&quot;]</title>
+    <link>https://clojars.org/org.clojars.lispyclouds/claxon/versions/1.1</link>
+    <description></description>
+    <pubDate>Thu, 2 Jul 2026 06:52:42 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.35</guid>
     <title>[org.replikativ/yggdrasil &quot;0.3.35&quot;]</title>
@@ -1754,48 +1796,6 @@
     <link>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-34</link>
     <description>PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
     <pubDate>Sat, 27 Jun 2026 15:35:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-34</guid>
-    <title>[org.boundary-app/boundary-external &quot;1.0.1-alpha-34&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-34</link>
-    <description>External service adapters library for Boundary framework</description>
-    <pubDate>Sat, 27 Jun 2026 15:34:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-34</guid>
-    <title>[org.boundary-app/boundary-search &quot;1.0.1-alpha-34&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-34</link>
-    <description>Full-text search library for Boundary framework</description>
-    <pubDate>Sat, 27 Jun 2026 15:34:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-34</guid>
-    <title>[org.boundary-app/boundary-workflow &quot;1.0.1-alpha-34&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-34</link>
-    <description>Workflow orchestration library for Boundary framework</description>
-    <pubDate>Sat, 27 Jun 2026 15:33:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-34</guid>
-    <title>[org.boundary-app/boundary-tenant &quot;1.0.1-alpha-34&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-34</link>
-    <description>Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning</description>
-    <pubDate>Sat, 27 Jun 2026 15:32:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-34</guid>
-    <title>[org.boundary-app/boundary-email &quot;1.0.1-alpha-34&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-34</link>
-    <description>Email sending library for Boundary framework: SMTP support, composition, validation</description>
-    <pubDate>Sat, 27 Jun 2026 15:31:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-34</guid>
-    <title>[org.boundary-app/boundary-realtime &quot;1.0.1-alpha-34&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-34</link>
-    <description>Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication</description>
-    <pubDate>Sat, 27 Jun 2026 15:31:14 +0000</pubDate>
   </item>
   </channel>
 </rss>
