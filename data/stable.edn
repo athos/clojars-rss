@@ -1,9 +1,3 @@
-{:created 1782627660461, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.0.1"}
-{:created 1782627670976, :description "PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.", :group_name "net.clojars.savya", :jar_name "psql-clj-gis", :version "2.0.1"}
-{:created 1782627681550, :description "AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.", :group_name "net.clojars.savya", :jar_name "psql-clj-aws", :version "2.0.1"}
-{:created 1782634975093, :description "A library for function memoization.", :group_name "org.clojars.roklenarcic", :jar_name "memento", :version "2.1.79"}
-{:created 1782635565292, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1706"}
-{:created 1782644909504, :description "Data-driven action dispatch for the UI: Build systems that are easier to test, observe, and extend.", :group_name "no.cjohansen", :jar_name "nexus", :version "2026.06.4"}
 {:created 1782653558663, :description "An immutable database", :group_name "io.github.radarroark", :jar_name "xitdb", :version "0.32.0"}
 {:created 1782664348952, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.42"}
 {:created 1782670035698, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1707"}
@@ -254,3 +248,9 @@
 {:created 1783018316509, :description nil, :group_name "net.clojars.savya", :jar_name "duckdb-clj", :version "0.1.1"}
 {:created 1783018532479, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-encoding", :version "0.1.75"}
 {:created 1783018674486, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-engine", :version "0.1.73"}
+{:created 1783021485513, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-missionary", :version "0.1.18"}
+{:created 1783021563536, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.9"}
+{:created 1783021640119, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.84"}
+{:created 1783021687511, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.84"}
+{:created 1783022551959, :description "Themeable print debugging library for Clojure, ClojureScript, and Babashka", :group_name "io.github.paintparty", :jar_name "fireworks", :version "0.21.2"}
+{:created 1783022966235, :description nil, :group_name "com.leifericf", :jar_name "clj-zig", :version "2026.06.02-alpha1"}
