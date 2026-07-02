@@ -1,15 +1,3 @@
-{:created 1782610152943, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.46"}
-{:created 1782621083081, :description nil, :group_name "com.github.thefakelorlyons", :jar_name "clj-colors", :version "0.2.11"}
-{:created 1782627660461, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.0.1"}
-{:created 1782627670976, :description "PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.", :group_name "net.clojars.savya", :jar_name "psql-clj-gis", :version "2.0.1"}
-{:created 1782627681550, :description "AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.", :group_name "net.clojars.savya", :jar_name "psql-clj-aws", :version "2.0.1"}
-{:created 1782634975093, :description "A library for function memoization.", :group_name "org.clojars.roklenarcic", :jar_name "memento", :version "2.1.79"}
-{:created 1782635565292, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1706"}
-{:created 1782644909504, :description "Data-driven action dispatch for the UI: Build systems that are easier to test, observe, and extend.", :group_name "no.cjohansen", :jar_name "nexus", :version "2026.06.4"}
-{:created 1782653558663, :description "An immutable database", :group_name "io.github.radarroark", :jar_name "xitdb", :version "0.32.0"}
-{:created 1782659477839, :description "A Clojure library designed to wrap OpenTelemetry Java API", :group_name "org.clojars.ejschoen", :jar_name "clj-telemetry", :version "0.5.0-SNAPSHOT"}
-{:created 1782664165180, :description "A simple and extensible web framework for Clojure", :group_name "com.github.brettatoms", :jar_name "zodiac", :version "0.9.9999-SNAPSHOT"}
-{:created 1782664348952, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.42"}
 {:created 1782670035698, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1707"}
 {:created 1782670521283, :description "A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.", :group_name "org.replikativ", :jar_name "persistent-sorted-set", :version "0.4.129"}
 {:created 1782672490848, :description "A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.", :group_name "org.replikativ", :jar_name "persistent-sorted-set", :version "0.4.130"}
@@ -254,3 +242,15 @@
 {:created 1782996411460, :description "Realtime web comms library for Clojure/Script", :group_name "com.taoensso", :jar_name "sente", :version "1.22.0"}
 {:created 1782997257022, :description nil, :group_name "com.magnars", :jar_name "refinery", :version "0.2026.07.02"}
 {:created 1783003144966, :description nil, :group_name "nl.jomco", :jar_name "openapi-v3-validator", :version "0.2.9"}
+{:created 1783004207216, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.8"}
+{:created 1783005858240, :description nil, :group_name "io.pedestal", :jar_name "pedestal.common", :version "0.8.2-beta-10"}
+{:created 1783005864282, :description nil, :group_name "io.pedestal", :jar_name "pedestal.telemetry", :version "0.8.2-beta-10"}
+{:created 1783005870321, :description nil, :group_name "io.pedestal", :jar_name "pedestal.log", :version "0.8.2-beta-10"}
+{:created 1783005876156, :description nil, :group_name "io.pedestal", :jar_name "pedestal.interceptor", :version "0.8.2-beta-10"}
+{:created 1783005882128, :description nil, :group_name "io.pedestal", :jar_name "pedestal.error", :version "0.8.2-beta-10"}
+{:created 1783005887836, :description nil, :group_name "io.pedestal", :jar_name "pedestal.route", :version "0.8.2-beta-10"}
+{:created 1783005893778, :description nil, :group_name "io.pedestal", :jar_name "pedestal.service", :version "0.8.2-beta-10"}
+{:created 1783005899865, :description nil, :group_name "io.pedestal", :jar_name "pedestal.servlet", :version "0.8.2-beta-10"}
+{:created 1783005905772, :description nil, :group_name "io.pedestal", :jar_name "pedestal.jetty", :version "0.8.2-beta-10"}
+{:created 1783005911760, :description nil, :group_name "io.pedestal", :jar_name "pedestal.http-kit", :version "0.8.2-beta-10"}
+{:created 1783005917830, :description nil, :group_name "io.pedestal", :jar_name "pedestal.embedded", :version "0.8.2-beta-10"}
