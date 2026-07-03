@@ -1,12 +1,3 @@
-{:created 1782774824331, :description "Themeable print debugging library for Clojure, ClojureScript, and Babashka", :group_name "io.github.paintparty", :jar_name "fireworks", :version "0.21.0-SNAPSHOT"}
-{:created 1782778949416, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.17"}
-{:created 1782781483171, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.19"}
-{:created 1782797187929, :description nil, :group_name "re-com", :jar_name "re-com", :version "2.29.4"}
-{:created 1782798295359, :description "Middleware adding support for running ClojureScript REPLs over nREPL.", :group_name "cider", :jar_name "piggieback", :version "0.7.0"}
-{:created 1782804425561, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.44"}
-{:created 1782815861043, :description nil, :group_name "com.github.dekelpilli", :jar_name "randy", :version "0.0.39"}
-{:created 1782819759483, :description "An in-process Clojure test runner for AI agents and REPL-driven development.", :group_name "org.hugoduncan", :jar_name "scry", :version "0.1.48"}
-{:created 1782819764965, :description "Optional Kaocha adapter for scry's structured in-process test results.", :group_name "org.hugoduncan", :jar_name "scry-kaocha", :version "0.1.48"}
 {:created 1782830608383, :description "Voxgig Struct — utilities for transforming JSON-like data structures (Clojure port).", :group_name "com.voxgig", :jar_name "struct-clojure", :version "0.1.0"}
 {:created 1782832832510, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.20"}
 {:created 1782834315311, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.1399"}
@@ -254,3 +245,12 @@
 {:created 1783085419809, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.1"}
 {:created 1783085431367, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.1"}
 {:created 1783085444509, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.1"}
+{:created 1783087240218, :description "A collection of nREPL middleware designed to enhance Clojure editors.", :group_name "cider", :jar_name "cider-nrepl", :version "0.62.0-alpha2"}
+{:created 1783088220071, :description "Contains predicates and tools for c4k", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-common-clj", :version "13.0.0"}
+{:created 1783088290853, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.4"}
+{:created 1783088302877, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.4"}
+{:created 1783088315145, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.4"}
+{:created 1783088327118, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.4"}
+{:created 1783088339388, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.4"}
+{:created 1783088352177, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.4"}
+{:created 1783088614132, :description "forgejo c4k-installation package", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-forgejo", :version "9.0.1"}
