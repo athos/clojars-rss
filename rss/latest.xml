@@ -4,7 +4,14 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 4 Jul 2026 10:37:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 4 Jul 2026 11:28:26 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.20</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.20&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.20</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.</description>
+    <pubDate>Sat, 4 Jul 2026 11:17:51 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.lambdaisland/config/versions/0.15.56</guid>
     <title>[com.lambdaisland/config &quot;0.15.56&quot;]</title>
@@ -1791,13 +1798,6 @@
     <link>https://clojars.org/io.github.clojure-quant/quanta-blotter/versions/0.1.80</link>
     <description></description>
     <pubDate>Tue, 30 Jun 2026 18:03:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.clojure-quant/quanta-bybit/versions/0.1.9</guid>
-    <title>[io.github.clojure-quant/quanta-bybit &quot;0.1.9&quot;]</title>
-    <link>https://clojars.org/io.github.clojure-quant/quanta-bybit/versions/0.1.9</link>
-    <description></description>
-    <pubDate>Tue, 30 Jun 2026 17:10:17 +0000</pubDate>
   </item>
   </channel>
 </rss>
