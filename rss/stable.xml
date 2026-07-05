@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 5 Jul 2026 07:01:55 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 5 Jul 2026 08:58:44 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.clojars.bzg/organ/versions/3.0.1</guid>
+    <title>[org.clojars.bzg/organ &quot;3.0.1&quot;]</title>
+    <link>https://clojars.org/org.clojars.bzg/organ/versions/3.0.1</link>
+    <description>Parse Org-mode text into an AST (EDN data)</description>
+    <pubDate>Sun, 5 Jul 2026 08:39:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.14</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.14&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.14</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Sun, 5 Jul 2026 08:26:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.73</guid>
+    <title>[org.replikativ/ansatz &quot;0.2.73&quot;]</title>
+    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.73</link>
+    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
+    <pubDate>Sun, 5 Jul 2026 07:48:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.1.252</guid>
+    <title>[org.replikativ/raster &quot;0.1.252&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.1.252</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Sun, 5 Jul 2026 07:42:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/spindel-tui/versions/0.1.14</guid>
+    <title>[org.replikativ/spindel-tui &quot;0.1.14&quot;]</title>
+    <link>https://clojars.org/org.replikativ/spindel-tui/versions/0.1.14</link>
+    <description>Reactive terminal UIs for Spindel — render-spin, controller-map, tree component, JLine sink, suspend/resume for child processes</description>
+    <pubDate>Sun, 5 Jul 2026 07:21:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1711</guid>
+    <title>[org.replikativ/datahike &quot;0.8.1711&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1711</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Sun, 5 Jul 2026 07:12:37 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.1.251</guid>
     <title>[org.replikativ/raster &quot;0.1.251&quot;]</title>
@@ -1758,48 +1800,6 @@
     <link>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.32</link>
     <description>Unified copy-on-write memory model protocols for heterogeneous storage systems</description>
     <pubDate>Tue, 30 Jun 2026 20:51:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.10.3-blockether.25</guid>
-    <title>[com.blockether/tree-sitter-language-pack &quot;1.10.3-blockether.25&quot;]</title>
-    <link>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.10.3-blockether.25</link>
-    <description>Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-&lt;rid&gt; jar for your platform&#39;s native library.</description>
-    <pubDate>Tue, 30 Jun 2026 20:47:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-windows-x86_64/versions/1.10.3-blockether.25</guid>
-    <title>[com.blockether/tree-sitter-language-pack-native-windows-x86_64 &quot;1.10.3-blockether.25&quot;]</title>
-    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-windows-x86_64/versions/1.10.3-blockether.25</link>
-    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.</description>
-    <pubDate>Tue, 30 Jun 2026 20:47:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-x86_64/versions/1.10.3-blockether.25</guid>
-    <title>[com.blockether/tree-sitter-language-pack-native-macos-x86_64 &quot;1.10.3-blockether.25&quot;]</title>
-    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-x86_64/versions/1.10.3-blockether.25</link>
-    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.</description>
-    <pubDate>Tue, 30 Jun 2026 20:47:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-arm64/versions/1.10.3-blockether.25</guid>
-    <title>[com.blockether/tree-sitter-language-pack-native-macos-arm64 &quot;1.10.3-blockether.25&quot;]</title>
-    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-arm64/versions/1.10.3-blockether.25</link>
-    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.</description>
-    <pubDate>Tue, 30 Jun 2026 20:47:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-aarch64/versions/1.10.3-blockether.25</guid>
-    <title>[com.blockether/tree-sitter-language-pack-native-linux-aarch64 &quot;1.10.3-blockether.25&quot;]</title>
-    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-aarch64/versions/1.10.3-blockether.25</link>
-    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.</description>
-    <pubDate>Tue, 30 Jun 2026 20:46:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.10.3-blockether.25</guid>
-    <title>[com.blockether/tree-sitter-language-pack-native-linux-x86_64 &quot;1.10.3-blockether.25&quot;]</title>
-    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.10.3-blockether.25</link>
-    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.</description>
-    <pubDate>Tue, 30 Jun 2026 20:46:47 +0000</pubDate>
   </item>
   </channel>
 </rss>
