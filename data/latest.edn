@@ -1,10 +1,3 @@
-{:created 1783005917830, :description nil, :group_name "io.pedestal", :jar_name "pedestal.embedded", :version "0.8.2-beta-10"}
-{:created 1783008840301, :description "Babashka file system utilities.", :group_name "babashka", :jar_name "fs", :version "0.5.34"}
-{:created 1783009031694, :description nil, :group_name "com.cnuernber", :jar_name "ham-fisted", :version "3.031"}
-{:created 1783009852038, :description nil, :group_name "cnuernber", :jar_name "dtype-next", :version "11.023"}
-{:created 1783009916785, :description "Library for creating standardized success and error responses.", :group_name "de.dixieflatline", :jar_name "dicho", :version "0.1.0-SNAPSHOT"}
-{:created 1783010498795, :description nil, :group_name "techascent", :jar_name "tech.ml.dataset", :version "8.024"}
-{:created 1783011474299, :description "Automated Scripting Framework for Tawny-OWL", :group_name "uk.org.russet", :jar_name "tawny-bubo", :version "0.4.0"}
 {:created 1783012097377, :description "Themeable print debugging library for Clojure, ClojureScript, and Babashka", :group_name "io.github.paintparty", :jar_name "fireworks", :version "0.21.1"}
 {:created 1783012112639, :description "Fireworks library for production builds", :group_name "io.github.paintparty", :jar_name "fireworks-stubs", :version "0.21.1"}
 {:created 1783012515101, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.6.7"}
@@ -254,3 +247,10 @@
 {:created 1783367091513, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.1-SNAPSHOT"}
 {:created 1783367099822, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.1-SNAPSHOT"}
 {:created 1783367984864, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.49"}
+{:created 1783375425366, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.6"}
+{:created 1783375435495, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.6"}
+{:created 1783375445277, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.6"}
+{:created 1783375455276, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.6"}
+{:created 1783375465371, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.6"}
+{:created 1783375476966, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.6"}
+{:created 1783376451599, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1714"}

@@ -1,10 +1,3 @@
-{:created 1782987387819, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.9.6-8"}
-{:created 1782987492182, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.9.6-8"}
-{:created 1782987552430, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.9.6-8"}
-{:created 1782992413014, :description "Small unofficial metadata and URL helpers for Seed Audio AI at seedaud.io.", :group_name "net.clojars.tianwei", :jar_name "seed-audio-ai-site-kit", :version "0.1.0"}
-{:created 1782995165348, :description "Simple React component DSL for Clojure/Script", :group_name "com.taoensso", :jar_name "tengen", :version "1.2.0"}
-{:created 1782995313048, :description "A library to handle ActivityPub-related crypto needs.", :group_name "social.kitsune", :jar_name "csele", :version "0.7.3"}
-{:created 1782995593805, :description "A library for working with JRuby", :group_name "org.openvoxproject", :jar_name "jruby-utils", :version "5.4.1"}
 {:created 1782995989954, :description "A framework for configuring, composing, and running Clojure services.", :group_name "org.openvoxproject", :jar_name "trapperkeeper", :version "5.0.3"}
 {:created 1782996411460, :description "Realtime web comms library for Clojure/Script", :group_name "com.taoensso", :jar_name "sente", :version "1.22.0"}
 {:created 1782997257022, :description nil, :group_name "com.magnars", :jar_name "refinery", :version "0.2026.07.02"}
@@ -254,3 +247,10 @@
 {:created 1783364495063, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.86"}
 {:created 1783366875913, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.37"}
 {:created 1783367984864, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.49"}
+{:created 1783375425366, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.6"}
+{:created 1783375435495, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.6"}
+{:created 1783375445277, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.6"}
+{:created 1783375455276, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.6"}
+{:created 1783375465371, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.6"}
+{:created 1783375476966, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.6"}
+{:created 1783376451599, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1714"}
