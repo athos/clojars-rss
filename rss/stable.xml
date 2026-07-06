@@ -4,7 +4,140 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 6 Jul 2026 03:01:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 6 Jul 2026 05:23:27 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-external &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-38</link>
+    <description>External service adapters library for Boundary framework</description>
+    <pubDate>Mon, 6 Jul 2026 05:22:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-search &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-38</link>
+    <description>Full-text search library for Boundary framework</description>
+    <pubDate>Mon, 6 Jul 2026 05:22:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-workflow &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-38</link>
+    <description>Workflow orchestration library for Boundary framework</description>
+    <pubDate>Mon, 6 Jul 2026 05:21:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-tenant &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-38</link>
+    <description>Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning</description>
+    <pubDate>Mon, 6 Jul 2026 05:20:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-email &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-38</link>
+    <description>Email sending library for Boundary framework: SMTP support, composition, validation</description>
+    <pubDate>Mon, 6 Jul 2026 05:19:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-realtime &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-38</link>
+    <description>Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication</description>
+    <pubDate>Mon, 6 Jul 2026 05:19:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-jobs &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.1-alpha-38</link>
+    <description>Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters</description>
+    <pubDate>Mon, 6 Jul 2026 05:18:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-cache/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-cache &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-cache/versions/1.0.1-alpha-38</link>
+    <description>Cache library for Boundary framework: in-memory and Redis cache adapters</description>
+    <pubDate>Mon, 6 Jul 2026 05:17:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-scaffolder/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-scaffolder &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-scaffolder/versions/1.0.1-alpha-38</link>
+    <description>Code generation library for Boundary framework: module scaffolding</description>
+    <pubDate>Mon, 6 Jul 2026 05:17:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-storage &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.1-alpha-38</link>
+    <description>Storage library for Boundary framework: local filesystem and S3 adapters</description>
+    <pubDate>Mon, 6 Jul 2026 05:16:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-user &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.1-alpha-38</link>
+    <description>User management library for Boundary framework: authentication, sessions, MFA</description>
+    <pubDate>Mon, 6 Jul 2026 05:15:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-i18n/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-i18n &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-i18n/versions/1.0.1-alpha-38</link>
+    <description>Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management</description>
+    <pubDate>Mon, 6 Jul 2026 05:14:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-platform &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.1-alpha-38</link>
+    <description>Platform library for Boundary framework: database, HTTP, configuration, modules</description>
+    <pubDate>Mon, 6 Jul 2026 05:14:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-observability &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.1-alpha-38</link>
+    <description>Observability library for Boundary framework: logging, metrics, error reporting</description>
+    <pubDate>Mon, 6 Jul 2026 05:13:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-core/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-core &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-core/versions/1.0.1-alpha-38</link>
+    <description>Foundation library for Boundary framework: validation, utilities, interceptors</description>
+    <pubDate>Mon, 6 Jul 2026 05:12:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-38</guid>
+    <title>[org.boundary-app/boundary-tools &quot;1.0.1-alpha-38&quot;]</title>
+    <link>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-38</link>
+    <description>Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities</description>
+    <pubDate>Mon, 6 Jul 2026 05:12:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.rthadani/clj-pytorch/versions/0.3.0</guid>
+    <title>[io.github.rthadani/clj-pytorch &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/io.github.rthadani/clj-pytorch/versions/0.3.0</link>
+    <description>FIXME: my new application.</description>
+    <pubDate>Mon, 6 Jul 2026 04:08:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/evoc-rstr/versions/0.1.4</guid>
+    <title>[org.replikativ/evoc-rstr &quot;0.1.4&quot;]</title>
+    <link>https://clojars.org/org.replikativ/evoc-rstr/versions/0.1.4</link>
+    <description>EVoC (Embedding Vector Oriented Clustering) for Clojure — a port of the Tutte Institute&#39;s evoc, built on the raster typed-dispatch compiler and umap-rstr.</description>
+    <pubDate>Mon, 6 Jul 2026 03:22:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/umap-rstr/versions/0.1.8</guid>
+    <title>[org.replikativ/umap-rstr &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/org.replikativ/umap-rstr/versions/0.1.8</link>
+    <description>UMAP (Uniform Manifold Approximation and Projection) for Clojure — a faithful port of umap-learn built on the raster typed-dispatch compiler.</description>
+    <pubDate>Mon, 6 Jul 2026 03:14:09 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.258</guid>
     <title>[org.replikativ/raster &quot;0.2.258&quot;]</title>
@@ -1670,139 +1803,6 @@
     <link>https://clojars.org/org.boundary-app/boundary-core/versions/1.0.1-alpha-37</link>
     <description>Foundation library for Boundary framework: validation, utilities, interceptors</description>
     <pubDate>Thu, 2 Jul 2026 06:06:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-37</guid>
-    <title>[org.boundary-app/boundary-tools &quot;1.0.1-alpha-37&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-37</link>
-    <description>Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities</description>
-    <pubDate>Thu, 2 Jul 2026 06:05:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.metabase/hawk/versions/1.0.16</guid>
-    <title>[io.github.metabase/hawk &quot;1.0.16&quot;]</title>
-    <link>https://clojars.org/io.github.metabase/hawk/versions/1.0.16</link>
-    <description>It watches your code like a hawk!</description>
-    <pubDate>Thu, 2 Jul 2026 04:26:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.24</guid>
-    <title>[org.replikativ/spindel &quot;0.1.24&quot;]</title>
-    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.24</link>
-    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
-    <pubDate>Thu, 2 Jul 2026 03:25:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.34</guid>
-    <title>[org.replikativ/yggdrasil &quot;0.3.34&quot;]</title>
-    <link>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.34</link>
-    <description>Unified copy-on-write memory model protocols for heterogeneous storage systems</description>
-    <pubDate>Thu, 2 Jul 2026 02:32:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.31</guid>
-    <title>[org.replikativ/konserve-sync &quot;0.1.31&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.31</link>
-    <description>A synchronization layer for konserve key-value stores</description>
-    <pubDate>Thu, 2 Jul 2026 02:10:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/hasch/versions/0.4.99</guid>
-    <title>[org.replikativ/hasch &quot;0.4.99&quot;]</title>
-    <link>https://clojars.org/org.replikativ/hasch/versions/0.4.99</link>
-    <description>A library to consistently crypto-hash edn data structures on Clojure and ClojureScript with SHA-512</description>
-    <pubDate>Wed, 1 Jul 2026 23:41:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/uncomplicate/deep-diamond/versions/0.45.0</guid>
-    <title>[uncomplicate/deep-diamond &quot;0.45.0&quot;]</title>
-    <link>https://clojars.org/uncomplicate/deep-diamond/versions/0.45.0</link>
-    <description>Fast Clojure Deep Learning Library</description>
-    <pubDate>Wed, 1 Jul 2026 21:25:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/deep-diamond-cuda/versions/0.45.0</guid>
-    <title>[org.uncomplicate/deep-diamond-cuda &quot;0.45.0&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/deep-diamond-cuda/versions/0.45.0</link>
-    <description>Fast Clojure Deep Learning Library</description>
-    <pubDate>Wed, 1 Jul 2026 21:19:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/deep-diamond-bnns/versions/0.45.0</guid>
-    <title>[org.uncomplicate/deep-diamond-bnns &quot;0.45.0&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/deep-diamond-bnns/versions/0.45.0</link>
-    <description>Fast Clojure Deep Learning Library</description>
-    <pubDate>Wed, 1 Jul 2026 21:15:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/deep-diamond-dnnl/versions/0.45.0</guid>
-    <title>[org.uncomplicate/deep-diamond-dnnl &quot;0.45.0&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/deep-diamond-dnnl/versions/0.45.0</link>
-    <description>Fast Clojure Deep Learning Library</description>
-    <pubDate>Wed, 1 Jul 2026 21:15:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/deep-diamond-test/versions/0.45.0</guid>
-    <title>[org.uncomplicate/deep-diamond-test &quot;0.45.0&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/deep-diamond-test/versions/0.45.0</link>
-    <description>Fast Clojure Deep Learning Library</description>
-    <pubDate>Wed, 1 Jul 2026 21:13:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/deep-diamond-base/versions/0.45.0</guid>
-    <title>[org.uncomplicate/deep-diamond-base &quot;0.45.0&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/deep-diamond-base/versions/0.45.0</link>
-    <description>Fast Clojure Deep Learning Library</description>
-    <pubDate>Wed, 1 Jul 2026 21:13:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.tomwaddington/still/versions/0.1.44</guid>
-    <title>[dev.tomwaddington/still &quot;0.1.44&quot;]</title>
-    <link>https://clojars.org/dev.tomwaddington/still/versions/0.1.44</link>
-    <description>Self-modifying snapshot testing for Clojure</description>
-    <pubDate>Wed, 1 Jul 2026 20:58:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/uncomplicate/neanderthal/versions/0.63.0</guid>
-    <title>[uncomplicate/neanderthal &quot;0.63.0&quot;]</title>
-    <link>https://clojars.org/uncomplicate/neanderthal/versions/0.63.0</link>
-    <description>Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic Neanderthal uberproject.</description>
-    <pubDate>Wed, 1 Jul 2026 20:20:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/neanderthal-cuda/versions/0.63.0</guid>
-    <title>[org.uncomplicate/neanderthal-cuda &quot;0.63.0&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/neanderthal-cuda/versions/0.63.0</link>
-    <description>Neanderthal&#39;s CUDA backend.</description>
-    <pubDate>Wed, 1 Jul 2026 20:13:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/neanderthal-opencl/versions/0.63.0</guid>
-    <title>[org.uncomplicate/neanderthal-opencl &quot;0.63.0&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/neanderthal-opencl/versions/0.63.0</link>
-    <description>Neanderthal OpenCL backend.</description>
-    <pubDate>Wed, 1 Jul 2026 18:48:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/neanderthal-accelerate/versions/0.63.0</guid>
-    <title>[org.uncomplicate/neanderthal-accelerate &quot;0.63.0&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/neanderthal-accelerate/versions/0.63.0</link>
-    <description>Neanderthal&#39;s Apple Accelerate engine.</description>
-    <pubDate>Wed, 1 Jul 2026 18:47:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/neanderthal-mkl/versions/0.63.0</guid>
-    <title>[org.uncomplicate/neanderthal-mkl &quot;0.63.0&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/neanderthal-mkl/versions/0.63.0</link>
-    <description>Neanderthal&#39;s MKL engine.</description>
-    <pubDate>Wed, 1 Jul 2026 18:44:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.clojure-quant/quanta-blotter-hyper/versions/0.1.27</guid>
-    <title>[io.github.clojure-quant/quanta-blotter-hyper &quot;0.1.27&quot;]</title>
-    <link>https://clojars.org/io.github.clojure-quant/quanta-blotter-hyper/versions/0.1.27</link>
-    <description></description>
-    <pubDate>Wed, 1 Jul 2026 18:44:20 +0000</pubDate>
   </item>
   </channel>
 </rss>
