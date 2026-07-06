@@ -1,14 +1,3 @@
-{:created 1782973022433, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-37"}
-{:created 1782973066099, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-37"}
-{:created 1782973109718, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-37"}
-{:created 1782973153715, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-37"}
-{:created 1782973240403, :description "Configuration library", :group_name "com.lambdaisland", :jar_name "config", :version "0.13.48"}
-{:created 1782973240638, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-37"}
-{:created 1782973283727, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-37"}
-{:created 1782973327812, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-37"}
-{:created 1782974935845, :description "Unified copy-on-write memory model protocols for heterogeneous storage systems", :group_name "org.replikativ", :jar_name "yggdrasil", :version "0.3.35"}
-{:created 1782975162941, :description nil, :group_name "org.clojars.lispyclouds", :jar_name "claxon", :version "1.1"}
-{:created 1782975633202, :description nil, :group_name "net.clojars.savya", :jar_name "embeddings-clj", :version "0.1.0"}
 {:created 1782977342005, :description nil, :group_name "net.clojars.savya", :jar_name "vector-search-clj", :version "0.1.0"}
 {:created 1782979028667, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.26"}
 {:created 1782980435126, :description "Reactive terminal UIs for Spindel — render-spin, controller-map, tree component, JLine sink, suspend/resume for child processes", :group_name "org.replikativ", :jar_name "spindel-tui", :version "0.1.12"}
@@ -254,3 +243,14 @@
 {:created 1783315285332, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-38"}
 {:created 1783315328454, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-38"}
 {:created 1783315372082, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-38"}
+{:created 1783315415793, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-38"}
+{:created 1783315458427, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-38"}
+{:created 1783315501821, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-38"}
+{:created 1783315545246, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-38"}
+{:created 1783315587508, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-38"}
+{:created 1783315629930, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-38"}
+{:created 1783315673714, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-38"}
+{:created 1783315716673, :description "boundary CLI — project generator and module installer", :group_name "org.boundary-app", :jar_name "boundary-cli", :version "1.0.1-alpha-38"}
+{:created 1783315760165, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.1-alpha-38"}
+{:created 1783315805006, :description "Model Context Protocol server for the Boundary framework (stdio transport)", :group_name "org.boundary-app", :jar_name "boundary-mcp", :version "1.0.1-alpha-38"}
+{:created 1783319583367, :description "DIY toolkit for data-driven i18n, theming, and other \"flavor\" content.", :group_name "no.cjohansen", :jar_name "m1p", :version "2026.07.1"}
