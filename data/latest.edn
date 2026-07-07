@@ -1,14 +1,3 @@
-{:created 1783028406952, :description "composable plotting in Clojure", :group_name "org.scicloj", :jar_name "plotje", :version "0.5.0"}
-{:created 1783031147446, :description "EDN parser with location metadata and pluggable dispatch table.", :group_name "borkdude", :jar_name "edamame", :version "1.6.40"}
-{:created 1783031927642, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
-{:created 1783032108262, :description "clipper a high-performance, zero-dependency GeoIP solution for determine country of origin of a  given IP.", :group_name "org.clojars.jj", :jar_name "clipper", :version "1.0.8"}
-{:created 1783033401814, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
-{:created 1783034892879, :description "Simplify EHR integrations by defining and validating your entire provider connection pipeline using native Clojure data structures.", :group_name "io.github.samuelcarriles", :jar_name "ehr-adapter", :version "2.3.0"}
-{:created 1783038688607, :description "A log4j2 alternative to clojure.tools.logging.", :group_name "com.github.seancorfield", :jar_name "logging4j2", :version "1.0.9"}
-{:created 1783043832180, :description nil, :group_name "org.pinkgorilla", :jar_name "permission", :version "0.3.22"}
-{:created 1783045485526, :description "token library", :group_name "org.pinkgorilla", :jar_name "token", :version "0.5.74"}
-{:created 1783048723694, :description "A library for working with Jepsen's histories of concurrent systems.", :group_name "io.jepsen", :jar_name "history", :version "0.1.8-SNAPSHOT"}
-{:created 1783053489015, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.28"}
 {:created 1783055123309, :description "Reactive terminal UIs for Spindel — render-spin, controller-map, tree component, JLine sink, suspend/resume for child processes", :group_name "org.replikativ", :jar_name "spindel-tui", :version "0.1.13"}
 {:created 1783055778466, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.10"}
 {:created 1783055984944, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "2.1.25-SNAPSHOT"}
@@ -254,3 +243,14 @@
 {:created 1783399368467, :description "rate limiting for Clojure Ring apps.", :group_name "com.sturdystats", :jar_name "sturdy-throttle", :version "0.0.4"}
 {:created 1783402375613, :description "middleware to queue ring requests.", :group_name "com.sturdystats", :jar_name "sturdy-bulkhead", :version "0.0.6"}
 {:created 1783405565349, :description "A Clojure library for the Apache Kafka distributed streaming platform.", :group_name "net.clojars.savya", :jar_name "jackdaw", :version "1.3.6"}
+{:created 1783411148081, :description "A leiningen plugin that provides support for importing maven BOMs", :group_name "fi.lupapiste", :jar_name "lein-bom", :version "0.3.1"}
+{:created 1783412014114, :description "Atlas: semantic registry for expressive systems", :group_name "io.github.semantic-namespace", :jar_name "atlas", :version "0.1.11"}
+{:created 1783412026178, :description "Atlas dev tools: source tracking, git history, and dev-time tooling", :group_name "io.github.semantic-namespace", :jar_name "atlas-dev", :version "0.1.11"}
+{:created 1783412073242, :description "Atlas UI: visual explorer for atlas registries (dev tool)", :group_name "io.github.semantic-namespace", :jar_name "atlas-ui", :version "0.1.11"}
+{:created 1783414018994, :description "Clojure/Script library for making MCP servers and clients", :group_name "io.github.plumce", :jar_name "plumcp.core", :version "0.3.0-alpha1"}
+{:created 1783414062581, :description "Auth module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-auth", :version "0.3.0-alpha1"}
+{:created 1783414100078, :description "Dev module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-dev", :version "0.3.0-alpha1"}
+{:created 1783414146816, :description "JSON (charred library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-charred", :version "0.3.0-alpha1"}
+{:created 1783414186925, :description "JSON (cheshire library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-cheshire", :version "0.3.0-alpha1"}
+{:created 1783414225024, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.3.0-alpha1"}
+{:created 1783414265599, :description "JSON (jsonista library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-jsonista", :version "0.3.0-alpha1"}
