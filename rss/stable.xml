@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 8 Jul 2026 13:31:08 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 8 Jul 2026 14:45:39 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/de.active-group/active-logger/versions/0.17.0</guid>
+    <title>[de.active-group/active-logger &quot;0.17.0&quot;]</title>
+    <link>https://clojars.org/de.active-group/active-logger/versions/0.17.0</link>
+    <description>Active Logger: Utilities and DSL for logging on top of Timbre.</description>
+    <pubDate>Wed, 8 Jul 2026 14:13:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cider/cider-nrepl/versions/0.62.0</guid>
+    <title>[cider/cider-nrepl &quot;0.62.0&quot;]</title>
+    <link>https://clojars.org/cider/cider-nrepl/versions/0.62.0</link>
+    <description>A collection of nREPL middleware designed to enhance Clojure editors.</description>
+    <pubDate>Wed, 8 Jul 2026 13:56:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.weavejester/teensyp/versions/0.7.4</guid>
+    <title>[dev.weavejester/teensyp &quot;0.7.4&quot;]</title>
+    <link>https://clojars.org/dev.weavejester/teensyp/versions/0.7.4</link>
+    <description>A small Clojure TCP server</description>
+    <pubDate>Wed, 8 Jul 2026 13:34:36 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.clojars.cinguilherme/d-core/versions/0.13.2</guid>
     <title>[org.clojars.cinguilherme/d-core &quot;0.13.2&quot;]</title>
@@ -1780,27 +1801,6 @@
     <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.20</link>
     <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.</description>
     <pubDate>Sat, 4 Jul 2026 11:17:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.lambdaisland/config/versions/0.15.56</guid>
-    <title>[com.lambdaisland/config &quot;0.15.56&quot;]</title>
-    <link>https://clojars.org/com.lambdaisland/config/versions/0.15.56</link>
-    <description>Configuration library</description>
-    <pubDate>Sat, 4 Jul 2026 08:52:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.1.242</guid>
-    <title>[org.replikativ/raster &quot;0.1.242&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.1.242</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sat, 4 Jul 2026 07:55:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.lambdaisland/config/versions/0.14.53</guid>
-    <title>[com.lambdaisland/config &quot;0.14.53&quot;]</title>
-    <link>https://clojars.org/com.lambdaisland/config/versions/0.14.53</link>
-    <description>Configuration library</description>
-    <pubDate>Sat, 4 Jul 2026 07:36:01 +0000</pubDate>
   </item>
   </channel>
 </rss>
