@@ -1,26 +1,3 @@
-{:created 1783111032073, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.85"}
-{:created 1783113057202, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.31"}
-{:created 1783115259004, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.1.230"}
-{:created 1783122849143, :description nil, :group_name "co.multiply", :jar_name "quiescent", :version "0.4.0"}
-{:created 1783125535248, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.32"}
-{:created 1783127837972, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.1.232"}
-{:created 1783132923287, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.1.235"}
-{:created 1783136550569, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.1.238"}
-{:created 1783139930321, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.33"}
-{:created 1783140212429, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.6.8"}
-{:created 1783143021618, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.1.240"}
-{:created 1783147317532, :description "Classpath utilities", :group_name "com.lambdaisland", :jar_name "classpath", :version "0.8.70"}
-{:created 1783150561625, :description "Configuration library", :group_name "com.lambdaisland", :jar_name "config", :version "0.14.53"}
-{:created 1783151733091, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.1.242"}
-{:created 1783155141895, :description "Configuration library", :group_name "com.lambdaisland", :jar_name "config", :version "0.15.56"}
-{:created 1783163871132, :description "Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.", :group_name "com.blockether", :jar_name "lanterna", :version "3.1.5-vis.20"}
-{:created 1783174165799, :description "A routing library for clojure ring", :group_name "org.clojars.jj", :jar_name "tassu", :version "1.0.5"}
-{:created 1783177018675, :description nil, :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.1.0"}
-{:created 1783180750915, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.8.0"}
-{:created 1783181173438, :description nil, :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.3.0"}
-{:created 1783183953666, :description nil, :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.4.0"}
-{:created 1783184131018, :description nil, :group_name "net.clojars.savya", :jar_name "vector-search-clj", :version "0.2.0"}
-{:created 1783184446362, :description nil, :group_name "net.clojars.savya", :jar_name "embeddings-clj", :version "0.2.0"}
 {:created 1783185045487, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.9.0"}
 {:created 1783188355048, :description "A fertile ground for Clojure tooling", :group_name "cider", :jar_name "orchard", :version "0.44.0"}
 {:created 1783190488852, :description "Clojure API for a more dynamic Google Cloud Dataflow and (hopefully) Apache BEAM", :group_name "datasplash", :jar_name "datasplash", :version "0.7.36"}
@@ -254,3 +231,26 @@
 {:created 1783478995335, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "2.1.26-SNAPSHOT"}
 {:created 1783481185264, :description "A small Clojure library for managing server-side encryption keys.", :group_name "com.sturdystats", :jar_name "bailey", :version "0.0.7"}
 {:created 1783481989801, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1719"}
+{:created 1783485779648, :description "Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "org.boundary-app", :jar_name "boundary-tools", :version "1.0.1-alpha-39"}
+{:created 1783485820755, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-39"}
+{:created 1783485863645, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-39"}
+{:created 1783485907230, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-39"}
+{:created 1783485949151, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-39"}
+{:created 1783485992243, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-39"}
+{:created 1783486035182, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-39"}
+{:created 1783486119365, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-39"}
+{:created 1783486161030, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-39"}
+{:created 1783486203553, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-39"}
+{:created 1783486245947, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-39"}
+{:created 1783486288058, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-39"}
+{:created 1783486330403, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-39"}
+{:created 1783486372926, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-39"}
+{:created 1783486415378, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-39"}
+{:created 1783486457994, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-39"}
+{:created 1783486499549, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-39"}
+{:created 1783486542602, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-39"}
+{:created 1783486627091, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-39"}
+{:created 1783486668257, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-39"}
+{:created 1783486711278, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-39"}
+{:created 1783486795183, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.1-alpha-39"}
+{:created 1783487747190, :description "Minimal background workers for Clojure services.", :group_name "com.sturdystats", :jar_name "agentti", :version "0.2.1"}
