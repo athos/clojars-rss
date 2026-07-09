@@ -1,4 +1,3 @@
-{:created 1783196642696, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.1.244"}
 {:created 1783198916851, :description "Themeable print debugging library for Clojure, ClojureScript, and Babashka", :group_name "io.github.paintparty", :jar_name "fireworks", :version "0.21.3"}
 {:created 1783199542993, :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :group_name "org.yamlscript", :jar_name "yamlscript", :version "0.2.25"}
 {:created 1783199567271, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.2.25"}
@@ -254,3 +253,4 @@
 {:created 1783554746305, :description nil, :group_name "net.clojars.savya", :jar_name "jose-clj", :version "0.1.1"}
 {:created 1783558685275, :description nil, :group_name "net.clojars.savya", :jar_name "buddy-auth", :version "3.2.1"}
 {:created 1783559514609, :description "A reactive server-rendered web framework for Clojure built on Datastar and Reitit.", :group_name "ai.dyal", :jar_name "hyper", :version "0.1.0"}
+{:created 1783561289285, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.1"}
