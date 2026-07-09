@@ -4,7 +4,14 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 9 Jul 2026 22:28:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 9 Jul 2026 23:24:36 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/ai.dyal/hyper/versions/0.1.1</guid>
+    <title>[ai.dyal/hyper &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/ai.dyal/hyper/versions/0.1.1</link>
+    <description>A reactive server-rendered web framework for Clojure built on Datastar and Reitit.</description>
+    <pubDate>Thu, 9 Jul 2026 23:14:31 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.4.132</guid>
     <title>[org.replikativ/persistent-sorted-set &quot;0.4.132&quot;]</title>
@@ -1792,13 +1799,6 @@
     <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.21</link>
     <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.</description>
     <pubDate>Sun, 5 Jul 2026 12:11:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.7.46</guid>
-    <title>[com.blockether/svar &quot;0.7.46&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.7.46</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Sun, 5 Jul 2026 11:02:49 +0000</pubDate>
   </item>
   </channel>
 </rss>
