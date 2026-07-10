@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 9 Jul 2026 23:24:36 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 00:25:50 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.4.133</guid>
+    <title>[org.replikativ/persistent-sorted-set &quot;0.4.133&quot;]</title>
+    <link>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.4.133</link>
+    <description>A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.</description>
+    <pubDate>Fri, 10 Jul 2026 00:07:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.286</guid>
+    <title>[org.replikativ/raster &quot;0.2.286&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.286</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Fri, 10 Jul 2026 00:06:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/lein-ezbake/versions/2.8.0</guid>
+    <title>[org.openvoxproject/lein-ezbake &quot;2.8.0&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/lein-ezbake/versions/2.8.0</link>
+    <description>A system for building packages for trapperkeeper-based applications</description>
+    <pubDate>Thu, 9 Jul 2026 23:30:59 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/ai.dyal/hyper/versions/0.1.1</guid>
     <title>[ai.dyal/hyper &quot;0.1.1&quot;]</title>
@@ -1778,27 +1799,6 @@
     <link>https://clojars.org/io.github.cljfx/ghosttyfx/versions/0.1.185.13</link>
     <description></description>
     <pubDate>Sun, 5 Jul 2026 17:34:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.leifericf/clj-zig/versions/2026.07.05-alpha1</guid>
-    <title>[com.leifericf/clj-zig &quot;2026.07.05-alpha1&quot;]</title>
-    <link>https://clojars.org/com.leifericf/clj-zig/versions/2026.07.05-alpha1</link>
-    <description></description>
-    <pubDate>Sun, 5 Jul 2026 17:29:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.jj/majavat/versions/2.2.1</guid>
-    <title>[org.clojars.jj/majavat &quot;2.2.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.jj/majavat/versions/2.2.1</link>
-    <description>Templating engine for clojure</description>
-    <pubDate>Sun, 5 Jul 2026 14:34:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.21</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.21&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.21</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.</description>
-    <pubDate>Sun, 5 Jul 2026 12:11:38 +0000</pubDate>
   </item>
   </channel>
 </rss>
