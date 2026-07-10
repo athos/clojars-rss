@@ -1,7 +1,3 @@
-{:created 1783315545246, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-38"}
-{:created 1783315587508, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-38"}
-{:created 1783315629930, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-38"}
-{:created 1783315673714, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-38"}
 {:created 1783315716673, :description "boundary CLI — project generator and module installer", :group_name "org.boundary-app", :jar_name "boundary-cli", :version "1.0.1-alpha-38"}
 {:created 1783315760165, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.1-alpha-38"}
 {:created 1783315805006, :description "Model Context Protocol server for the Boundary framework (stdio transport)", :group_name "org.boundary-app", :jar_name "boundary-mcp", :version "1.0.1-alpha-38"}
@@ -254,3 +250,7 @@
 {:created 1783686934358, :description "Pre-generated icon components for Tyrell web components library", :group_name "dev.gersak", :jar_name "tyrell-icons", :version "1.0.0-RC12"}
 {:created 1783686940575, :description "Modern web components library built with ClojureScript", :group_name "dev.gersak", :jar_name "tyrell", :version "1.0.0-RC12"}
 {:created 1783694462854, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.42"}
+{:created 1783695532499, :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :group_name "org.yamlscript", :jar_name "yamlscript", :version "0.2.27"}
+{:created 1783695552406, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.2.27"}
+{:created 1783695741193, :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML. This is the Kotlin binding.", :group_name "org.yamlscript", :jar_name "kotlin-yamlscript", :version "0.2.27"}
+{:created 1783696367887, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.28.0"}
