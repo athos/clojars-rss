@@ -1,26 +1,3 @@
-{:created 1783246424272, :description "4.1.4", :group_name "xyz.zcaudate", :jar_name "std.tailwind", :version "4.1.4"}
-{:created 1783246425794, :description "4.1.4", :group_name "xyz.zcaudate", :jar_name "std.timeseries", :version "4.1.4"}
-{:created 1783246430117, :description "4.1.4", :group_name "xyz.zcaudate", :jar_name "std.vm", :version "4.1.4"}
-{:created 1783246437467, :description "4.1.4", :group_name "xyz.zcaudate", :jar_name "web3.lib.example", :version "4.1.4"}
-{:created 1783246441006, :description "4.1.4", :group_name "xyz.zcaudate", :jar_name "xtalk.db", :version "4.1.4"}
-{:created 1783246441574, :description "4.1.4", :group_name "xyz.zcaudate", :jar_name "xtalk.runtime", :version "4.1.4"}
-{:created 1783247052547, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.74"}
-{:created 1783247307714, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.16"}
-{:created 1783249369740, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.46"}
-{:created 1783253498530, :description "Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Drop-in replacement for com.googlecode.lanterna:lanterna:3.1.5 - same packages, same classes. Retire when upstream ships equivalent fixes.", :group_name "com.blockether", :jar_name "lanterna", :version "3.1.5-vis.21"}
-{:created 1783262060095, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "2.2.1"}
-{:created 1783272541178, :description nil, :group_name "com.leifericf", :jar_name "clj-zig", :version "2026.07.05-alpha1"}
-{:created 1783272888340, :description nil, :group_name "io.github.cljfx", :jar_name "ghosttyfx", :version "0.1.185.13"}
-{:created 1783278739406, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.1.254"}
-{:created 1783281026247, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.1.256"}
-{:created 1783282647025, :description "A Clojure library for Model Context Protocol Servers", :group_name "org.clojars.roklenarcic", :jar_name "mcp-server", :version "0.3.56"}
-{:created 1783283305012, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.47"}
-{:created 1783283339969, :description "A Clojure library for Model Context Protocol Servers", :group_name "org.clojars.roklenarcic", :jar_name "mcp-server", :version "0.3.57"}
-{:created 1783285021611, :description "generators for clojure", :group_name "party.donut", :jar_name "generate", :version "1.0.77"}
-{:created 1783285563506, :description "generators for Donut", :group_name "party.donut", :jar_name "generators", :version "0.0.48"}
-{:created 1783288934934, :description "Raw package for slint.", :group_name "io.github.kylc", :jar_name "slint-sys", :version "2026.07-2"}
-{:created 1783288984027, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.0"}
-{:created 1783288991004, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.0"}
 {:created 1783288997965, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.0"}
 {:created 1783289004904, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.0"}
 {:created 1783289011799, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.0"}
@@ -254,3 +231,26 @@
 {:created 1783651282386, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.5.2"}
 {:created 1783651300340, :description "Local text-embedding inference for Clojure: run sentence-transformers ONNX models in-process.", :group_name "net.clojars.savya", :jar_name "embeddings-clj", :version "0.3.2"}
 {:created 1783674020690, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.56"}
+{:created 1783674368410, :description "iso-countries is a Clojure library designed to provide easy access to comprehensive ISO 3166 1 country data.\n\n  This library aims to simplify the process of retrieving country-specific information, including official names,\n  alpha-2 and alpha-3 codes, numeric codes, regional classifications, and unicode flags.", :group_name "org.clojars.jj", :jar_name "iso-countries", :version "1.2.6"}
+{:created 1783674713313, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.8"}
+{:created 1783674726507, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.8"}
+{:created 1783674738615, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.8"}
+{:created 1783674751153, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.8"}
+{:created 1783674763823, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.8"}
+{:created 1783674778460, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.8"}
+{:created 1783678487797, :description "Telegram bot channel.", :group_name "com.blockether", :jar_name "vis-channel-telegram", :version "0.1.2"}
+{:created 1783678492972, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.2"}
+{:created 1783678498033, :description "com.blockether/vis-channel-web - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-channel-web", :version "0.1.2"}
+{:created 1783678503273, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.2"}
+{:created 1783678508244, :description "com.blockether/vis-foundation-harness - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-harness", :version "0.1.2"}
+{:created 1783678513154, :description "com.blockether/vis-foundation-mcp - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-mcp", :version "0.1.2"}
+{:created 1783678518008, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.2"}
+{:created 1783678522923, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.2"}
+{:created 1783678527908, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.2"}
+{:created 1783678528436, :description "Sayid is a library for debugging and profiling clojure code.", :group_name "mx.cider", :jar_name "sayid", :version "0.7.0"}
+{:created 1783678532895, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.2"}
+{:created 1783678537842, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.2"}
+{:created 1783678543083, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.2"}
+{:created 1783678546821, :description "Sayid is a library for debugging and profiling clojure code.", :group_name "com.billpiel", :jar_name "sayid", :version "0.7.0"}
+{:created 1783678548033, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.2"}
+{:created 1783678553048, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.2"}
