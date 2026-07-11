@@ -4,7 +4,77 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 10 Jul 2026 23:17:40 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 00:20:20 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-s3/versions/0.1.29</guid>
+    <title>[org.replikativ/konserve-s3 &quot;0.1.29&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-s3/versions/0.1.29</link>
+    <description>Konserve S3 Backend</description>
+    <pubDate>Sat, 11 Jul 2026 00:04:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.353</guid>
+    <title>[org.replikativ/konserve &quot;0.9.353&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.353</link>
+    <description>Durable cross-platform key-value store protocol with core.async.</description>
+    <pubDate>Sat, 11 Jul 2026 00:02:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-di/versions/0.3.1</guid>
+    <title>[io.github.hive-agi/hive-di &quot;0.3.1&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-di/versions/0.3.1</link>
+    <description></description>
+    <pubDate>Sat, 11 Jul 2026 00:01:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-weave/versions/0.2.5</guid>
+    <title>[io.github.hive-agi/hive-weave &quot;0.2.5&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-weave/versions/0.2.5</link>
+    <description></description>
+    <pubDate>Sat, 11 Jul 2026 00:00:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-test/versions/0.3.0</guid>
+    <title>[io.github.hive-agi/hive-test &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-test/versions/0.3.0</link>
+    <description></description>
+    <pubDate>Fri, 10 Jul 2026 23:58:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-dsl/versions/0.5.2</guid>
+    <title>[io.github.hive-agi/hive-dsl &quot;0.5.2&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-dsl/versions/0.5.2</link>
+    <description></description>
+    <pubDate>Fri, 10 Jul 2026 23:56:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.4.135</guid>
+    <title>[org.replikativ/persistent-sorted-set &quot;0.4.135&quot;]</title>
+    <link>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.4.135</link>
+    <description>A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.</description>
+    <pubDate>Fri, 10 Jul 2026 23:33:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-help/versions/0.1.0</guid>
+    <title>[io.github.hive-agi/hive-help &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-help/versions/0.1.0</link>
+    <description></description>
+    <pubDate>Fri, 10 Jul 2026 23:29:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.5</guid>
+    <title>[org.replikativ/pretrained-rstr &quot;0.1.5&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.5</link>
+    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
+    <pubDate>Fri, 10 Jul 2026 23:24:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ai.dyal/hyper/versions/0.2.1</guid>
+    <title>[ai.dyal/hyper &quot;0.2.1&quot;]</title>
+    <link>https://clojars.org/ai.dyal/hyper/versions/0.2.1</link>
+    <description>A reactive server-rendered web framework for Clojure built on Datastar and Reitit.</description>
+    <pubDate>Fri, 10 Jul 2026 23:21:32 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.287</guid>
     <title>[org.replikativ/raster &quot;0.2.287&quot;]</title>
@@ -1732,76 +1802,6 @@
     <link>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-38</link>
     <description>Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components</description>
     <pubDate>Mon, 6 Jul 2026 05:25:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-38</guid>
-    <title>[org.boundary-app/boundary-reports &quot;1.0.1-alpha-38&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-38</link>
-    <description>PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module</description>
-    <pubDate>Mon, 6 Jul 2026 05:25:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-38</guid>
-    <title>[org.boundary-app/boundary-geo &quot;1.0.1-alpha-38&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-38</link>
-    <description>Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation</description>
-    <pubDate>Mon, 6 Jul 2026 05:24:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-38</guid>
-    <title>[org.boundary-app/boundary-payments &quot;1.0.1-alpha-38&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-38</link>
-    <description>PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
-    <pubDate>Mon, 6 Jul 2026 05:23:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-38</guid>
-    <title>[org.boundary-app/boundary-external &quot;1.0.1-alpha-38&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-38</link>
-    <description>External service adapters library for Boundary framework</description>
-    <pubDate>Mon, 6 Jul 2026 05:22:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-38</guid>
-    <title>[org.boundary-app/boundary-search &quot;1.0.1-alpha-38&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-search/versions/1.0.1-alpha-38</link>
-    <description>Full-text search library for Boundary framework</description>
-    <pubDate>Mon, 6 Jul 2026 05:22:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-38</guid>
-    <title>[org.boundary-app/boundary-workflow &quot;1.0.1-alpha-38&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-workflow/versions/1.0.1-alpha-38</link>
-    <description>Workflow orchestration library for Boundary framework</description>
-    <pubDate>Mon, 6 Jul 2026 05:21:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-38</guid>
-    <title>[org.boundary-app/boundary-tenant &quot;1.0.1-alpha-38&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-tenant/versions/1.0.1-alpha-38</link>
-    <description>Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning</description>
-    <pubDate>Mon, 6 Jul 2026 05:20:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-38</guid>
-    <title>[org.boundary-app/boundary-email &quot;1.0.1-alpha-38&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-email/versions/1.0.1-alpha-38</link>
-    <description>Email sending library for Boundary framework: SMTP support, composition, validation</description>
-    <pubDate>Mon, 6 Jul 2026 05:19:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-38</guid>
-    <title>[org.boundary-app/boundary-realtime &quot;1.0.1-alpha-38&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-realtime/versions/1.0.1-alpha-38</link>
-    <description>Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication</description>
-    <pubDate>Mon, 6 Jul 2026 05:19:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.1-alpha-38</guid>
-    <title>[org.boundary-app/boundary-jobs &quot;1.0.1-alpha-38&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-jobs/versions/1.0.1-alpha-38</link>
-    <description>Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters</description>
-    <pubDate>Mon, 6 Jul 2026 05:18:31 +0000</pubDate>
   </item>
   </channel>
 </rss>
