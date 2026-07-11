@@ -1,21 +1,8 @@
-{:created 1783354079374, :description "Experimental Foreign Function & Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.", :group_name "net.clojars.savya", :jar_name "beckon-ffm", :version "0.1.3"}
-{:created 1783354213852, :description "Clojure wrappers for the Bifurcan library of high-performance data structures", :group_name "com.aphyr", :jar_name "bifurcan-clj", :version "0.1.4-SNAPSHOT"}
-{:created 1783356205198, :description "FIXME: my new application.", :group_name "io.github.rthadani", :jar_name "clj-pytorch", :version "0.4.0"}
-{:created 1783358582390, :description "Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage: inline image rendering (Kitty graphics protocol / iTerm2), terminal graphics-capability detection (isGraphicalTerminal), intrinsic pixel-dimension sniffing and aspect-preserving cell-box sizing. Superset of com.googlecode.lanterna:lanterna:3.1.5 - same packages and classes, one added package. Retire the width/emoji patches when upstream ships equivalent fixes; the image API is Blockether-original.", :group_name "com.blockether", :jar_name "lanterna", :version "3.1.5-vis.23"}
-{:created 1783362112076, :description "A library for working with JRuby", :group_name "org.openvoxproject", :jar_name "jruby-utils", :version "5.5.0"}
 {:created 1783363401688, :description "Simplify EHR integrations by defining and validating your entire provider connection pipeline using native Clojure data structures.", :group_name "io.github.samuelcarriles", :jar_name "ehr-adapter", :version "3.0.0"}
 {:created 1783363999519, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1713"}
 {:created 1783364444506, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.86"}
 {:created 1783364495063, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.86"}
 {:created 1783366875913, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.37"}
-{:created 1783367041078, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.1-SNAPSHOT"}
-{:created 1783367049640, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.1-SNAPSHOT"}
-{:created 1783367057996, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.1-SNAPSHOT"}
-{:created 1783367066412, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.1-SNAPSHOT"}
-{:created 1783367074691, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.1-SNAPSHOT"}
-{:created 1783367083066, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.1-SNAPSHOT"}
-{:created 1783367091513, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.1-SNAPSHOT"}
-{:created 1783367099822, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.1-SNAPSHOT"}
 {:created 1783367984864, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.49"}
 {:created 1783375425366, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.6"}
 {:created 1783375435495, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.6"}
@@ -254,3 +241,16 @@
 {:created 1783740097618, :description "A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.", :group_name "org.replikativ", :jar_name "persistent-sorted-set", :version "0.4.137"}
 {:created 1783740429680, :description "Konserve S3 Backend", :group_name "org.replikativ", :jar_name "konserve-s3", :version "0.1.30"}
 {:created 1783740639761, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1720"}
+{:created 1783743065463, :description "DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.", :group_name "net.clojars.savya", :jar_name "duckdb-clj", :version "0.2.0"}
+{:created 1783743792323, :description "File-system utilities for Clojure (sturdy-fs).", :group_name "com.sturdystats", :jar_name "sturdy-fs", :version "0.1.9"}
+{:created 1783745409316, :description "Idiomatic Clojure JOSE: JWS, JWE, JWK/JWKS, and JWT (signed, encrypted, nested) over Nimbus JOSE+JWT.", :group_name "net.clojars.savya", :jar_name "jose-clj", :version "0.2.0"}
+{:created 1783746595162, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.288"}
+{:created 1783746646406, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.6.0"}
+{:created 1783747021247, :description nil, :group_name "org.typedclojure", :jar_name "typed.cljc.analyzer", :version "1.4.1-SNAPSHOT"}
+{:created 1783747031383, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.analyzer", :version "1.4.1-SNAPSHOT"}
+{:created 1783747041401, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.spec.alpha", :version "1.4.1-SNAPSHOT"}
+{:created 1783747051776, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.clojure", :version "1.4.1-SNAPSHOT"}
+{:created 1783747061817, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.runtime", :version "1.4.1-SNAPSHOT"}
+{:created 1783747072057, :description nil, :group_name "org.typedclojure", :jar_name "typed.clj.checker", :version "1.4.1-SNAPSHOT"}
+{:created 1783747082058, :description nil, :group_name "org.typedclojure", :jar_name "typed.lib.core.async", :version "1.4.1-SNAPSHOT"}
+{:created 1783747091918, :description nil, :group_name "org.typedclojure", :jar_name "typed.malli", :version "1.4.1-SNAPSHOT"}
