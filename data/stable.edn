@@ -1,9 +1,3 @@
-{:created 1783375465371, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.6"}
-{:created 1783375476966, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.6"}
-{:created 1783376451599, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1714"}
-{:created 1783377655193, :description "JRuby dependencies", :group_name "org.openvoxproject", :jar_name "jruby-deps", :version "10.0.6.0-1"}
-{:created 1783378492372, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.7"}
-{:created 1783378502742, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.7"}
 {:created 1783378513145, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.7"}
 {:created 1783378523564, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.7"}
 {:created 1783378534422, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.7"}
@@ -254,3 +248,9 @@
 {:created 1783807209915, :description "Konserve DynamoDB Backend", :group_name "org.replikativ", :jar_name "konserve-dynamodb", :version "0.1.31"}
 {:created 1783807650370, :description "Konserve Redis Backend", :group_name "org.replikativ", :jar_name "konserve-redis", :version "0.1.27"}
 {:created 1783807728992, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "0.1.1"}
+{:created 1783808758807, :description "A framework for configuring, composing, and running Clojure services.", :group_name "org.openvoxproject", :jar_name "trapperkeeper", :version "5.0.4"}
+{:created 1783809121413, :description "A Clojure-to-Emacs-Lisp compiler: analyzes Clojure-style source into an AST and emits Emacs Lisp, with a self-hosted runtime library.", :group_name "io.github.buddhilw", :jar_name "clojure-elisp", :version "0.6.1"}
+{:created 1783809214797, :description "Konserve GCS Backend", :group_name "org.replikativ", :jar_name "konserve-gcs", :version "0.1.14"}
+{:created 1783809223509, :description "A generic JDBC backend for konserve.", :group_name "org.replikativ", :jar_name "konserve-jdbc", :version "0.2.96"}
+{:created 1783809307357, :description "A jetty-based webserver implementation for use with the org.openvoxproject/trapperkeeper service framework.", :group_name "org.openvoxproject", :jar_name "trapperkeeper-webserver", :version "12.0.4"}
+{:created 1783810040174, :description "Cross-platform cryptography between cljs and clj", :group_name "org.replikativ", :jar_name "geheimnis", :version "0.2.35"}
