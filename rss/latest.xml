@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 12 Jul 2026 01:31:12 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 02:59:45 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.sturdystats/sturdy-bulkhead/versions/0.0.7</guid>
+    <title>[com.sturdystats/sturdy-bulkhead &quot;0.0.7&quot;]</title>
+    <link>https://clojars.org/com.sturdystats/sturdy-bulkhead/versions/0.0.7</link>
+    <description>middleware to queue ring requests.</description>
+    <pubDate>Sun, 12 Jul 2026 02:56:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.32</guid>
+    <title>[org.replikativ/konserve-sync &quot;0.1.32&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.32</link>
+    <description>A synchronization layer for konserve key-value stores</description>
+    <pubDate>Sun, 12 Jul 2026 02:45:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/is.simm/distributed-scope/versions/0.1.8</guid>
+    <title>[is.simm/distributed-scope &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/is.simm/distributed-scope/versions/0.1.8</link>
+    <description>Distributed scope for transparent state synchronization in Clojure/ClojureScript</description>
+    <pubDate>Sun, 12 Jul 2026 02:10:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.17</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.17&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.17</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Sun, 12 Jul 2026 02:03:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.30</guid>
+    <title>[org.replikativ/spindel &quot;0.1.30&quot;]</title>
+    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.30</link>
+    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
+    <pubDate>Sun, 12 Jul 2026 01:32:48 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.290</guid>
     <title>[org.replikativ/raster &quot;0.2.290&quot;]</title>
@@ -1767,41 +1802,6 @@
     <link>https://clojars.org/org.hugoduncan/scry-kaocha/versions/0.1.50</link>
     <description>Optional Kaocha adapter for scry&#39;s structured in-process test results.</description>
     <pubDate>Tue, 7 Jul 2026 17:18:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.hugoduncan/scry/versions/0.1.50</guid>
-    <title>[org.hugoduncan/scry &quot;0.1.50&quot;]</title>
-    <link>https://clojars.org/org.hugoduncan/scry/versions/0.1.50</link>
-    <description>An in-process Clojure test runner for AI agents and REPL-driven development.</description>
-    <pubDate>Tue, 7 Jul 2026 17:18:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.7.53</guid>
-    <title>[com.blockether/svar &quot;0.7.53&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.7.53</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Tue, 7 Jul 2026 15:36:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.bmillare/dj.concurrency/versions/0.1.0-alpha3</guid>
-    <title>[net.clojars.bmillare/dj.concurrency &quot;0.1.0-alpha3&quot;]</title>
-    <link>https://clojars.org/net.clojars.bmillare/dj.concurrency/versions/0.1.0-alpha3</link>
-    <description>Smarter, manageable futures for Clojure: supervised async work with retries, throttling, and REPL-driven recovery.</description>
-    <pubDate>Tue, 7 Jul 2026 15:30:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.darkleaf/di/versions/3.7.0</guid>
-    <title>[org.clojars.darkleaf/di &quot;3.7.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.darkleaf/di/versions/3.7.0</link>
-    <description></description>
-    <pubDate>Tue, 7 Jul 2026 14:47:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.sturdystats/sturdy-sqlite/versions/0.0.9</guid>
-    <title>[com.sturdystats/sturdy-sqlite &quot;0.0.9&quot;]</title>
-    <link>https://clojars.org/com.sturdystats/sturdy-sqlite/versions/0.0.9</link>
-    <description>SQLite utility functions for Clojure apps.</description>
-    <pubDate>Tue, 7 Jul 2026 14:32:20 +0000</pubDate>
   </item>
   </channel>
 </rss>
