@@ -1,22 +1,3 @@
-{:created 1783468595975, :description "FIXME: my new application.", :group_name "io.github.rthadani", :jar_name "clj-pytorch", :version "0.5.0"}
-{:created 1783472762492, :description "GitHub Copilot SDK Supercharged for Clojure", :group_name "net.clojars.jeremiahisaacson", :jar_name "copilot-sdk-supercharged", :version "2.4.0"}
-{:created 1783476882884, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.2.273"}
-{:created 1783476888057, :description "Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api.updates", :version "1.2.273"}
-{:created 1783478995335, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "2.1.26-SNAPSHOT"}
-{:created 1783481185264, :description "A small Clojure library for managing server-side encryption keys.", :group_name "com.sturdystats", :jar_name "bailey", :version "0.0.7"}
-{:created 1783481989801, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1719"}
-{:created 1783485779648, :description "Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "org.boundary-app", :jar_name "boundary-tools", :version "1.0.1-alpha-39"}
-{:created 1783485820755, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-39"}
-{:created 1783485863645, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-39"}
-{:created 1783485907230, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-39"}
-{:created 1783485949151, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-39"}
-{:created 1783485992243, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-39"}
-{:created 1783486035182, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-39"}
-{:created 1783486119365, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-39"}
-{:created 1783486161030, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-39"}
-{:created 1783486203553, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-39"}
-{:created 1783486245947, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-39"}
-{:created 1783486288058, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-39"}
 {:created 1783486330403, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-39"}
 {:created 1783486372926, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-39"}
 {:created 1783486415378, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-39"}
@@ -254,3 +235,22 @@
 {:created 1783863515431, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.219-SNAPSHOT"}
 {:created 1783869179584, :description "Pure Clojure YAML 1.2 reference parser", :group_name "org.yamlstar", :jar_name "yaml-parser", :version "0.2.0"}
 {:created 1783872318883, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.57"}
+{:created 1783875833364, :description "Telegram bot channel.", :group_name "com.blockether", :jar_name "vis-channel-telegram", :version "0.1.3"}
+{:created 1783875840170, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.3"}
+{:created 1783875846977, :description "com.blockether/vis-channel-web - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-channel-web", :version "0.1.3"}
+{:created 1783875853475, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.3"}
+{:created 1783875860084, :description "com.blockether/vis-foundation-harness - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-harness", :version "0.1.3"}
+{:created 1783875866632, :description "com.blockether/vis-foundation-mcp - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-mcp", :version "0.1.3"}
+{:created 1783875873129, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.3"}
+{:created 1783875879602, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.3"}
+{:created 1783875886174, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.3"}
+{:created 1783875892628, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.3"}
+{:created 1783875898799, :description "com.blockether/vis-language-typescript-bun - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-typescript-bun", :version "0.1.3"}
+{:created 1783875905477, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.3"}
+{:created 1783875911844, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.3"}
+{:created 1783875918252, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.3"}
+{:created 1783875924598, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.3"}
+{:created 1783875931357, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.3"}
+{:created 1783875937941, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.3"}
+{:created 1783875944585, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.3"}
+{:created 1783875951647, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.3"}
