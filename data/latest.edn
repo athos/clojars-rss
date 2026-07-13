@@ -1,14 +1,3 @@
-{:created 1783695532499, :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :group_name "org.yamlscript", :jar_name "yamlscript", :version "0.2.27"}
-{:created 1783695552406, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.2.27"}
-{:created 1783695741193, :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML. This is the Kotlin binding.", :group_name "org.yamlscript", :jar_name "kotlin-yamlscript", :version "0.2.27"}
-{:created 1783696367887, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.28.0"}
-{:created 1783701582598, :description "A Clojure interface to freeswitch event socket.", :group_name "freeswitch-clj", :jar_name "freeswitch-clj", :version "1.4.2"}
-{:created 1783704443938, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.29.0"}
-{:created 1783704534351, :description "A reactive server-rendered web framework for Clojure built on Datastar and Reitit.", :group_name "ai.dyal", :jar_name "hyper", :version "0.2.0"}
-{:created 1783706183283, :description "A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.", :group_name "org.replikativ", :jar_name "persistent-sorted-set", :version "0.4.134"}
-{:created 1783709394584, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.30.0"}
-{:created 1783720394284, :description "YAMLStar - A pure YAML 1.2 loader for Clojure", :group_name "org.yamlstar", :jar_name "yamlstar", :version "0.1.12"}
-{:created 1783725439661, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.287"}
 {:created 1783725692970, :description "A reactive server-rendered web framework for Clojure built on Datastar and Reitit.", :group_name "ai.dyal", :jar_name "hyper", :version "0.2.1"}
 {:created 1783725887892, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.5"}
 {:created 1783726195663, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-help", :version "0.1.0"}
@@ -254,3 +243,14 @@
 {:created 1783953468165, :description "Active Clojure: Various Clojure utilities in use at Active Group", :group_name "de.active-group", :jar_name "active-clojure", :version "0.45.2"}
 {:created 1783954197268, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "0.1.3"}
 {:created 1783954369938, :description "Light-weight ClojureScript dialect", :group_name "io.github.squint-cljs", :jar_name "squint", :version "0.14.204"}
+{:created 1783954732889, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-fressian", :version "0.1.0"}
+{:created 1783954752356, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-ansatz", :version "0.1.0"}
+{:created 1783955310805, :description "File-system utilities for Clojure (sturdy-fs).", :group_name "com.sturdystats", :jar_name "sturdy-fs", :version "0.1.10"}
+{:created 1783955536827, :description "SQLite utility functions for Clojure apps.", :group_name "com.sturdystats", :jar_name "sturdy-sqlite", :version "0.1.11"}
+{:created 1783955566019, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-datahike", :version "0.1.0"}
+{:created 1783955856826, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-datalevin", :version "0.1.2"}
+{:created 1783956275714, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-engine", :version "0.1.75"}
+{:created 1783956289991, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-bybit", :version "0.1.11"}
+{:created 1783956608783, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.93"}
+{:created 1783956648826, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.93"}
+{:created 1783957846135, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.49"}
