@@ -1,7 +1,3 @@
-{:created 1783486668257, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-39"}
-{:created 1783486711278, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-39"}
-{:created 1783486795183, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.1-alpha-39"}
-{:created 1783487747190, :description "Minimal background workers for Clojure services.", :group_name "com.sturdystats", :jar_name "agentti", :version "0.2.1"}
 {:created 1783487881647, :description "rate limiting for Clojure Ring apps.", :group_name "com.sturdystats", :jar_name "sturdy-throttle", :version "0.0.5"}
 {:created 1783494977066, :description "Dependency inlining and shadowing tool.", :group_name "thomasa", :jar_name "mranderson", :version "0.7.1"}
 {:created 1783508562543, :description "Sayid is a library for debugging and profiling clojure code.", :group_name "mx.cider", :jar_name "sayid", :version "0.6.0"}
@@ -254,3 +250,7 @@
 {:created 1783896202069, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.12"}
 {:created 1783896703891, :description "Minimal Railway Oriented Programming for Clojure", :group_name "org.clojars.konkon", :jar_name "railway-clj", :version "0.3.0"}
 {:created 1783896967605, :description "Resilience patterns for Clojure — Circuit Breaker & Retry", :group_name "org.clojars.konkon", :jar_name "resilience-clj", :version "0.2.0"}
+{:created 1783898766832, :description "A small Clojure TCP server", :group_name "dev.weavejester", :jar_name "teensyp", :version "0.8.1"}
+{:created 1783900504146, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.19"}
+{:created 1783901865896, :description nil, :group_name "org.replikativ", :jar_name "konserve-lmdb", :version "0.1.16"}
+{:created 1783902012542, :description "TTL Builder is an extension to majavat that allows scheduling cache reloading.", :group_name "org.clojars.jj", :jar_name "majavat-ttl-builder", :version "1.0.4"}
