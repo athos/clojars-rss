@@ -1,13 +1,3 @@
-{:created 1783694462854, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.42"}
-{:created 1783695532499, :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML.", :group_name "org.yamlscript", :jar_name "yamlscript", :version "0.2.27"}
-{:created 1783695552406, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.2.27"}
-{:created 1783695741193, :description "YAMLScript is a functional programming language whose syntax is encoded in\n    YAML. This is the Kotlin binding.", :group_name "org.yamlscript", :jar_name "kotlin-yamlscript", :version "0.2.27"}
-{:created 1783696367887, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.28.0"}
-{:created 1783701582598, :description "A Clojure interface to freeswitch event socket.", :group_name "freeswitch-clj", :jar_name "freeswitch-clj", :version "1.4.2"}
-{:created 1783704443938, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.29.0"}
-{:created 1783704534351, :description "A reactive server-rendered web framework for Clojure built on Datastar and Reitit.", :group_name "ai.dyal", :jar_name "hyper", :version "0.2.0"}
-{:created 1783706183283, :description "A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.", :group_name "org.replikativ", :jar_name "persistent-sorted-set", :version "0.4.134"}
-{:created 1783709394584, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.30.0"}
 {:created 1783720394284, :description "YAMLStar - A pure YAML 1.2 loader for Clojure", :group_name "org.yamlstar", :jar_name "yamlstar", :version "0.1.12"}
 {:created 1783725439661, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.287"}
 {:created 1783725692970, :description "A reactive server-rendered web framework for Clojure built on Datastar and Reitit.", :group_name "ai.dyal", :jar_name "hyper", :version "0.2.1"}
@@ -254,3 +244,13 @@
 {:created 1783956608783, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.93"}
 {:created 1783956648826, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.93"}
 {:created 1783957846135, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.49"}
+{:created 1783960048249, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.64.0"}
+{:created 1783960092302, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.64.0"}
+{:created 1783960232886, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.64.0"}
+{:created 1783960294809, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.64.0"}
+{:created 1783960425539, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.64.0"}
+{:created 1783960453317, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.64.0"}
+{:created 1783960515640, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.64.0"}
+{:created 1783960617664, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic Neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.64.0"}
+{:created 1783961107240, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-base", :version "0.46.0"}
+{:created 1783961140603, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-test", :version "0.46.0"}
