@@ -1,22 +1,3 @@
-{:created 1783515343177, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "3.4.1.42"}
-{:created 1783516492661, :description nil, :group_name "org.clojars.cinguilherme", :jar_name "d-core", :version "0.13.2"}
-{:created 1783517676956, :description "A small Clojure TCP server", :group_name "dev.weavejester", :jar_name "teensyp", :version "0.7.4"}
-{:created 1783519003944, :description "A collection of nREPL middleware designed to enhance Clojure editors.", :group_name "cider", :jar_name "cider-nrepl", :version "0.62.0"}
-{:created 1783520027768, :description "Active Logger: Utilities and DSL for logging on top of Timbre.", :group_name "de.active-group", :jar_name "active-logger", :version "0.17.0"}
-{:created 1783523449270, :description nil, :group_name "cljfx", :jar_name "cljfx", :version "1.10.9"}
-{:created 1783524591685, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.27.1"}
-{:created 1783524621566, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.11.1"}
-{:created 1783524655731, :description nil, :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "0.1.2"}
-{:created 1783527024297, :description nil, :group_name "com.cnuernber", :jar_name "charred", :version "1.041"}
-{:created 1783527110311, :description "Idiomatic Clojure graph library backed by JGraphT: fast algorithms over Clojure-value vertices", :group_name "net.clojars.savya", :jar_name "cljgrapht", :version "0.4.0"}
-{:created 1783534026205, :description "A small Clojure TCP server", :group_name "dev.weavejester", :jar_name "teensyp", :version "0.8.0"}
-{:created 1783535713886, :description "Database modeling library for Clojure and MongoDB", :group_name "com.timezynk", :jar_name "domain", :version "4.0.25"}
-{:created 1783551336634, :description "rate limiting for Clojure Ring apps.", :group_name "com.sturdystats", :jar_name "sturdy-throttle", :version "0.0.6"}
-{:created 1783554743712, :description nil, :group_name "net.clojars.savya", :jar_name "buddy-auth", :version "3.2.0"}
-{:created 1783554746305, :description nil, :group_name "net.clojars.savya", :jar_name "jose-clj", :version "0.1.1"}
-{:created 1783558685275, :description nil, :group_name "net.clojars.savya", :jar_name "buddy-auth", :version "3.2.1"}
-{:created 1783559514609, :description "A reactive server-rendered web framework for Clojure built on Datastar and Reitit.", :group_name "ai.dyal", :jar_name "hyper", :version "0.1.0"}
-{:created 1783561289285, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.1"}
 {:created 1783569926579, :description "A security-focused Clojure validation library built on Malli.", :group_name "com.sturdystats", :jar_name "malli-firewall", :version "0.2.2"}
 {:created 1783570260079, :description "Small, focused Ring middleware for security and observability.", :group_name "com.sturdystats", :jar_name "sturdy-middleware", :version "0.1.7"}
 {:created 1783571676716, :description nil, :group_name "com.github.danielsz", :jar_name "bioscoop", :version "1.0.8"}
@@ -254,3 +235,22 @@
 {:created 1783909439199, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.2.274"}
 {:created 1783909445813, :description "Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api.updates", :version "1.2.274"}
 {:created 1783910525293, :description "Simplify EHR integrations by defining and validating your entire provider connection pipeline using native Clojure data structures.", :group_name "io.github.samuelcarriles", :jar_name "ehr-adapter", :version "3.0.1"}
+{:created 1783912942316, :description "Digest algorithms (MD5, SHA ...) for Clojure", :group_name "net.clojars.savya", :jar_name "digest", :version "1.5.4"}
+{:created 1783912942485, :description "A Clojure hierarchical set.", :group_name "net.clojars.savya", :jar_name "hier-set", :version "1.2.2"}
+{:created 1783912956433, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.30.1"}
+{:created 1783912963767, :description "Manage POSIX signals from Clojure via a small sun.misc.Signal backend.", :group_name "net.clojars.savya", :jar_name "beckon", :version "0.4.2"}
+{:created 1783912970619, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.12.2"}
+{:created 1783912972382, :description "Graph library for Clojure and ClojureScript", :group_name "net.clojars.savya", :jar_name "loom", :version "1.3.1"}
+{:created 1783912973496, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.0.2"}
+{:created 1783912976305, :description "Idiomatic Clojure graph library backed by JGraphT: fast algorithms over Clojure-value vertices", :group_name "net.clojars.savya", :jar_name "cljgrapht", :version "0.4.1"}
+{:created 1783912977769, :description "Experimental Foreign Function & Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.", :group_name "net.clojars.savya", :jar_name "beckon-ffm", :version "0.1.4"}
+{:created 1783912984653, :description "Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).", :group_name "net.clojars.savya", :jar_name "dogstatsd", :version "0.1.3"}
+{:created 1783912986658, :description "Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.", :group_name "net.clojars.savya", :jar_name "chunk-clj", :version "0.2.1"}
+{:created 1783912987056, :description "PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.", :group_name "net.clojars.savya", :jar_name "psql-clj-gis", :version "2.0.2"}
+{:created 1783912987097, :description "Idiomatic Clojure wrapper over DJL's HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.", :group_name "net.clojars.savya", :jar_name "tokenizers-clj", :version "0.1.3"}
+{:created 1783912987141, :description "OAuth support for Clojure", :group_name "net.clojars.savya", :jar_name "clj-oauth", :version "1.6.2"}
+{:created 1783912991599, :description "Represent and manipulate various Internet entities as data.", :group_name "net.clojars.savya", :jar_name "inet.data", :version "0.7.4"}
+{:created 1783912996588, :description "Idiomatic Clojure wrapper for the XChart charting library.", :group_name "net.clojars.savya", :jar_name "clj-xchart", :version "0.3.6"}
+{:created 1783912998640, :description "AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.", :group_name "net.clojars.savya", :jar_name "psql-clj-aws", :version "2.0.2"}
+{:created 1783913975789, :description "A Ring Adapter written in Clojure", :group_name "dev.weavejester", :jar_name "capra", :version "0.1.1"}
+{:created 1783915041410, :description "A Clojure library for the Apache Kafka distributed streaming platform.", :group_name "net.clojars.savya", :jar_name "jackdaw", :version "1.3.7"}
