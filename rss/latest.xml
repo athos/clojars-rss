@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 15 Jul 2026 12:25:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 13:29:38 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.24</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.24&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.24</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage: inline image rendering (Kitty graphics protocol / iTerm2), terminal graphics-capability detection (isGraphicalTerminal), intrinsic pixel-dimension sniffing and aspect-preserving cell-box sizing. Superset of com.googlecode.lanterna:lanterna:3.1.5 - same packages and classes, one added package. Retire the width/emoji patches when upstream ships equivalent fixes; the image API is Blockether-original.</description>
+    <pubDate>Wed, 15 Jul 2026 13:03:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.olecve/react-testing-library-cljs/versions/0.0.20</guid>
+    <title>[org.clojars.olecve/react-testing-library-cljs &quot;0.0.20&quot;]</title>
+    <link>https://clojars.org/org.clojars.olecve/react-testing-library-cljs/versions/0.0.20</link>
+    <description>ClojureScript wrapper for react-testing-library</description>
+    <pubDate>Wed, 15 Jul 2026 13:02:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.kit-clj/lein-template/versions/0.1.96</guid>
+    <title>[io.github.kit-clj/lein-template &quot;0.1.96&quot;]</title>
+    <link>https://clojars.org/io.github.kit-clj/lein-template/versions/0.1.96</link>
+    <description></description>
+    <pubDate>Wed, 15 Jul 2026 13:02:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.kit-clj/deps-template/versions/0.1.96</guid>
+    <title>[io.github.kit-clj/deps-template &quot;0.1.96&quot;]</title>
+    <link>https://clojars.org/io.github.kit-clj/deps-template/versions/0.1.96</link>
+    <description></description>
+    <pubDate>Wed, 15 Jul 2026 13:01:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/puppetserver/versions/9.0.0-beta1</guid>
+    <title>[org.openvoxproject/puppetserver &quot;9.0.0-beta1&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/puppetserver/versions/9.0.0-beta1</link>
+    <description>OpenVox Server</description>
+    <pubDate>Wed, 15 Jul 2026 12:38:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/puppetdb/versions/9.0.0-beta1</guid>
+    <title>[org.openvoxproject/puppetdb &quot;9.0.0-beta1&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/puppetdb/versions/9.0.0-beta1</link>
+    <description>OpenVox-integrated catalog and fact storage</description>
+    <pubDate>Wed, 15 Jul 2026 12:35:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/de.active-group/active-logger/versions/0.17.2</guid>
+    <title>[de.active-group/active-logger &quot;0.17.2&quot;]</title>
+    <link>https://clojars.org/de.active-group/active-logger/versions/0.17.2</link>
+    <description>Active Logger: Utilities and DSL for logging on top of Timbre.</description>
+    <pubDate>Wed, 15 Jul 2026 12:27:24 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.squint-cljs/squint/versions/0.14.205</guid>
     <title>[io.github.squint-cljs/squint &quot;0.14.205&quot;]</title>
@@ -1747,55 +1796,6 @@
     <link>https://clojars.org/com.blockether/vis-foundation-mcp/versions/0.1.3</link>
     <description>com.blockether/vis-foundation-mcp - vis monorepo package.</description>
     <pubDate>Sun, 12 Jul 2026 17:04:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-foundation-harness/versions/0.1.3</guid>
-    <title>[com.blockether/vis-foundation-harness &quot;0.1.3&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-foundation-harness/versions/0.1.3</link>
-    <description>com.blockether/vis-foundation-harness - vis monorepo package.</description>
-    <pubDate>Sun, 12 Jul 2026 17:04:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-foundation-bridge/versions/0.1.3</guid>
-    <title>[com.blockether/vis-foundation-bridge &quot;0.1.3&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-foundation-bridge/versions/0.1.3</link>
-    <description>com.blockether/vis-foundation-bridge - vis monorepo package.</description>
-    <pubDate>Sun, 12 Jul 2026 17:04:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-channel-web/versions/0.1.3</guid>
-    <title>[com.blockether/vis-channel-web &quot;0.1.3&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-channel-web/versions/0.1.3</link>
-    <description>com.blockether/vis-channel-web - vis monorepo package.</description>
-    <pubDate>Sun, 12 Jul 2026 17:04:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-channel-tui/versions/0.1.3</guid>
-    <title>[com.blockether/vis-channel-tui &quot;0.1.3&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-channel-tui/versions/0.1.3</link>
-    <description>Lanterna-based TUI channel.</description>
-    <pubDate>Sun, 12 Jul 2026 17:04:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-channel-telegram/versions/0.1.3</guid>
-    <title>[com.blockether/vis-channel-telegram &quot;0.1.3&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-channel-telegram/versions/0.1.3</link>
-    <description>Telegram bot channel.</description>
-    <pubDate>Sun, 12 Jul 2026 17:03:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.7.57</guid>
-    <title>[com.blockether/svar &quot;0.7.57&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.7.57</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Sun, 12 Jul 2026 16:05:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.yamlstar/yaml-parser/versions/0.2.0</guid>
-    <title>[org.yamlstar/yaml-parser &quot;0.2.0&quot;]</title>
-    <link>https://clojars.org/org.yamlstar/yaml-parser/versions/0.2.0</link>
-    <description>Pure Clojure YAML 1.2 reference parser</description>
-    <pubDate>Sun, 12 Jul 2026 15:12:59 +0000</pubDate>
   </item>
   </channel>
 </rss>

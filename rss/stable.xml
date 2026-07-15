@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 15 Jul 2026 12:25:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 13:29:38 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.24</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.24&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.24</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage: inline image rendering (Kitty graphics protocol / iTerm2), terminal graphics-capability detection (isGraphicalTerminal), intrinsic pixel-dimension sniffing and aspect-preserving cell-box sizing. Superset of com.googlecode.lanterna:lanterna:3.1.5 - same packages and classes, one added package. Retire the width/emoji patches when upstream ships equivalent fixes; the image API is Blockether-original.</description>
+    <pubDate>Wed, 15 Jul 2026 13:03:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.olecve/react-testing-library-cljs/versions/0.0.20</guid>
+    <title>[org.clojars.olecve/react-testing-library-cljs &quot;0.0.20&quot;]</title>
+    <link>https://clojars.org/org.clojars.olecve/react-testing-library-cljs/versions/0.0.20</link>
+    <description>ClojureScript wrapper for react-testing-library</description>
+    <pubDate>Wed, 15 Jul 2026 13:02:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.kit-clj/lein-template/versions/0.1.96</guid>
+    <title>[io.github.kit-clj/lein-template &quot;0.1.96&quot;]</title>
+    <link>https://clojars.org/io.github.kit-clj/lein-template/versions/0.1.96</link>
+    <description></description>
+    <pubDate>Wed, 15 Jul 2026 13:02:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.kit-clj/deps-template/versions/0.1.96</guid>
+    <title>[io.github.kit-clj/deps-template &quot;0.1.96&quot;]</title>
+    <link>https://clojars.org/io.github.kit-clj/deps-template/versions/0.1.96</link>
+    <description></description>
+    <pubDate>Wed, 15 Jul 2026 13:01:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/puppetserver/versions/9.0.0-beta1</guid>
+    <title>[org.openvoxproject/puppetserver &quot;9.0.0-beta1&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/puppetserver/versions/9.0.0-beta1</link>
+    <description>OpenVox Server</description>
+    <pubDate>Wed, 15 Jul 2026 12:38:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/puppetdb/versions/9.0.0-beta1</guid>
+    <title>[org.openvoxproject/puppetdb &quot;9.0.0-beta1&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/puppetdb/versions/9.0.0-beta1</link>
+    <description>OpenVox-integrated catalog and fact storage</description>
+    <pubDate>Wed, 15 Jul 2026 12:35:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/de.active-group/active-logger/versions/0.17.2</guid>
+    <title>[de.active-group/active-logger &quot;0.17.2&quot;]</title>
+    <link>https://clojars.org/de.active-group/active-logger/versions/0.17.2</link>
+    <description>Active Logger: Utilities and DSL for logging on top of Timbre.</description>
+    <pubDate>Wed, 15 Jul 2026 12:27:24 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.squint-cljs/squint/versions/0.14.205</guid>
     <title>[io.github.squint-cljs/squint &quot;0.14.205&quot;]</title>
@@ -1747,55 +1796,6 @@
     <link>https://clojars.org/org.replikativ/konserve/versions/0.9.355</link>
     <description>Durable cross-platform key-value store protocol with core.async.</description>
     <pubDate>Sun, 12 Jul 2026 07:40:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.292</guid>
-    <title>[org.replikativ/raster &quot;0.2.292&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.292</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sun, 12 Jul 2026 07:27:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.rksm/suitable/versions/0.7.0</guid>
-    <title>[org.rksm/suitable &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/org.rksm/suitable/versions/0.7.0</link>
-    <description>ClojureScript completion toolkit providing static and dynamic code completion.</description>
-    <pubDate>Sun, 12 Jul 2026 07:16:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.8.0</guid>
-    <title>[net.clojars.savya/openai-clj &quot;0.8.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.8.0</link>
-    <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
-    <pubDate>Sun, 12 Jul 2026 06:49:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve-lmdb/versions/0.1.15</guid>
-    <title>[org.replikativ/konserve-lmdb &quot;0.1.15&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve-lmdb/versions/0.1.15</link>
-    <description></description>
-    <pubDate>Sun, 12 Jul 2026 05:43:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/datahike-lmdb/versions/0.1.7</guid>
-    <title>[org.replikativ/datahike-lmdb &quot;0.1.7&quot;]</title>
-    <link>https://clojars.org/org.replikativ/datahike-lmdb/versions/0.1.7</link>
-    <description></description>
-    <pubDate>Sun, 12 Jul 2026 05:38:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.291</guid>
-    <title>[org.replikativ/raster &quot;0.2.291&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.291</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sun, 12 Jul 2026 04:38:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.paintparty/lasertag/versions/0.13.2</guid>
-    <title>[io.github.paintparty/lasertag &quot;0.13.2&quot;]</title>
-    <link>https://clojars.org/io.github.paintparty/lasertag/versions/0.13.2</link>
-    <description>Clojure(Script) utility for discerning types of values.</description>
-    <pubDate>Sun, 12 Jul 2026 04:01:49 +0000</pubDate>
   </item>
   </channel>
 </rss>
