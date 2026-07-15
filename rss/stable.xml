@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 15 Jul 2026 19:25:54 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 20:19:41 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff/versions/0.9.6-9</guid>
+    <title>[com.blockether/fff &quot;0.9.6-9&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff/versions/0.9.6-9</link>
+    <description>Clojure binding to fff — fast file and content search — via JDK FFM.</description>
+    <pubDate>Wed, 15 Jul 2026 19:54:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-windows-x64/versions/0.9.6-9</guid>
+    <title>[com.blockether/fff-native-windows-x64 &quot;0.9.6-9&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-windows-x64/versions/0.9.6-9</link>
+    <description>Native fff-c library for windows-x64.</description>
+    <pubDate>Wed, 15 Jul 2026 19:53:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-darwin-x64/versions/0.9.6-9</guid>
+    <title>[com.blockether/fff-native-darwin-x64 &quot;0.9.6-9&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-darwin-x64/versions/0.9.6-9</link>
+    <description>Native fff-c library for darwin-x64.</description>
+    <pubDate>Wed, 15 Jul 2026 19:52:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-linux-arm64/versions/0.9.6-9</guid>
+    <title>[com.blockether/fff-native-linux-arm64 &quot;0.9.6-9&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-linux-arm64/versions/0.9.6-9</link>
+    <description>Native fff-c library for linux-arm64.</description>
+    <pubDate>Wed, 15 Jul 2026 19:50:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-darwin-arm64/versions/0.9.6-9</guid>
+    <title>[com.blockether/fff-native-darwin-arm64 &quot;0.9.6-9&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-darwin-arm64/versions/0.9.6-9</link>
+    <description>Native fff-c library for darwin-arm64.</description>
+    <pubDate>Wed, 15 Jul 2026 19:50:47 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.fulcrologic/fulcro/versions/3.10.0-RC3</guid>
     <title>[com.fulcrologic/fulcro &quot;3.10.0-RC3&quot;]</title>
@@ -1761,41 +1796,6 @@
     <link>https://clojars.org/org.yamlstar/yaml-parser/versions/0.2.0</link>
     <description>Pure Clojure YAML 1.2 reference parser</description>
     <pubDate>Sun, 12 Jul 2026 15:12:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.babashka/babashka.impl.java/versions/0.1.20</guid>
-    <title>[org.babashka/babashka.impl.java &quot;0.1.20&quot;]</title>
-    <link>https://clojars.org/org.babashka/babashka.impl.java/versions/0.1.20</link>
-    <description></description>
-    <pubDate>Sun, 12 Jul 2026 13:04:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.tsirysndr/rockbox-clj-ffi/versions/0.2.0</guid>
-    <title>[io.github.tsirysndr/rockbox-clj-ffi &quot;0.2.0&quot;]</title>
-    <link>https://clojars.org/io.github.tsirysndr/rockbox-clj-ffi/versions/0.2.0</link>
-    <description>Clojure bindings for the Rockbox DSP, metadata, and playback engine (Java FFM over the shared rockbox-ffi C ABI).</description>
-    <pubDate>Sun, 12 Jul 2026 11:23:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1726</guid>
-    <title>[org.replikativ/datahike &quot;0.8.1726&quot;]</title>
-    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1726</link>
-    <description>A durable datalog implementation adaptable for distribution.</description>
-    <pubDate>Sun, 12 Jul 2026 11:08:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/kabel/versions/0.3.100</guid>
-    <title>[org.replikativ/kabel &quot;0.3.100&quot;]</title>
-    <link>https://clojars.org/org.replikativ/kabel/versions/0.3.100</link>
-    <description>A library for simple wire-like connectivity semantics.</description>
-    <pubDate>Sun, 12 Jul 2026 10:59:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.34</guid>
-    <title>[org.replikativ/spindel &quot;0.1.34&quot;]</title>
-    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.34</link>
-    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
-    <pubDate>Sun, 12 Jul 2026 10:58:12 +0000</pubDate>
   </item>
   </channel>
 </rss>
