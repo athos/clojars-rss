@@ -4,7 +4,70 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 16 Jul 2026 07:38:59 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 08:43:16 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.9.0</guid>
+    <title>[net.clojars.savya/openai-clj &quot;0.9.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.9.0</link>
+    <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
+    <pubDate>Thu, 16 Jul 2026 08:35:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/aleph/versions/0.9.10</guid>
+    <title>[aleph &quot;0.9.10&quot;]</title>
+    <link>https://clojars.org/aleph/versions/0.9.10</link>
+    <description>A framework for asynchronous communication</description>
+    <pubDate>Thu, 16 Jul 2026 08:31:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.37</guid>
+    <title>[org.replikativ/konserve-sync &quot;0.1.37&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.37</link>
+    <description>A synchronization layer for konserve key-value stores</description>
+    <pubDate>Thu, 16 Jul 2026 08:11:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/beckon-ffm/versions/0.1.7</guid>
+    <title>[net.clojars.savya/beckon-ffm &quot;0.1.7&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/beckon-ffm/versions/0.1.7</link>
+    <description>Experimental Foreign Function &amp; Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.</description>
+    <pubDate>Thu, 16 Jul 2026 08:01:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/embeddings-clj/versions/0.3.4</guid>
+    <title>[net.clojars.savya/embeddings-clj &quot;0.3.4&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/embeddings-clj/versions/0.3.4</link>
+    <description>Local text-embedding inference for Clojure: run sentence-transformers ONNX models in-process.</description>
+    <pubDate>Thu, 16 Jul 2026 07:51:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/cljgrapht/versions/0.4.2</guid>
+    <title>[net.clojars.savya/cljgrapht &quot;0.4.2&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/cljgrapht/versions/0.4.2</link>
+    <description>Idiomatic Clojure graph library backed by JGraphT: fast algorithms over Clojure-value vertices</description>
+    <pubDate>Thu, 16 Jul 2026 07:42:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/stdnum-clj/versions/0.30.2</guid>
+    <title>[net.clojars.savya/stdnum-clj &quot;0.30.2&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/stdnum-clj/versions/0.30.2</link>
+    <description>Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.</description>
+    <pubDate>Thu, 16 Jul 2026 07:42:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.2.2</guid>
+    <title>[net.clojars.savya/chunk-clj &quot;0.2.2&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.2.2</link>
+    <description>Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.</description>
+    <pubDate>Thu, 16 Jul 2026 07:42:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/jose-clj/versions/0.3.0</guid>
+    <title>[net.clojars.savya/jose-clj &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/jose-clj/versions/0.3.0</link>
+    <description>Idiomatic Clojure JOSE: JWS, JWE, JWK/JWKS, and JWT (signed, encrypted, nested) over Nimbus JOSE+JWT.</description>
+    <pubDate>Thu, 16 Jul 2026 07:42:14 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/net.clojars.savya/beckon-ffm/versions/0.1.5</guid>
     <title>[net.clojars.savya/beckon-ffm &quot;0.1.5&quot;]</title>
@@ -1734,69 +1797,6 @@
     <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1728</link>
     <description>A durable datalog implementation adaptable for distribution.</description>
     <pubDate>Sun, 12 Jul 2026 21:15:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1727</guid>
-    <title>[org.replikativ/datahike &quot;0.8.1727&quot;]</title>
-    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1727</link>
-    <description>A durable datalog implementation adaptable for distribution.</description>
-    <pubDate>Sun, 12 Jul 2026 20:48:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.356</guid>
-    <title>[org.replikativ/konserve &quot;0.9.356&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.356</link>
-    <description>Durable cross-platform key-value store protocol with core.async.</description>
-    <pubDate>Sun, 12 Jul 2026 20:33:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.33</guid>
-    <title>[org.replikativ/konserve-sync &quot;0.1.33&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.33</link>
-    <description>A synchronization layer for konserve key-value stores</description>
-    <pubDate>Sun, 12 Jul 2026 20:31:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.jj/majavat/versions/2.2.2</guid>
-    <title>[org.clojars.jj/majavat &quot;2.2.2&quot;]</title>
-    <link>https://clojars.org/org.clojars.jj/majavat/versions/2.2.2</link>
-    <description>Templating engine for clojure</description>
-    <pubDate>Sun, 12 Jul 2026 20:19:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/milvus-clj/versions/0.2.3</guid>
-    <title>[io.github.hive-agi/milvus-clj &quot;0.2.3&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/milvus-clj/versions/0.2.3</link>
-    <description></description>
-    <pubDate>Sun, 12 Jul 2026 19:53:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.18</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.18&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.18</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Sun, 12 Jul 2026 19:39:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cljfx/versions/1.10.10</guid>
-    <title>[cljfx &quot;1.10.10&quot;]</title>
-    <link>https://clojars.org/cljfx/versions/1.10.10</link>
-    <description></description>
-    <pubDate>Sun, 12 Jul 2026 19:06:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.35</guid>
-    <title>[org.replikativ/spindel &quot;0.1.35&quot;]</title>
-    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.35</link>
-    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
-    <pubDate>Sun, 12 Jul 2026 18:50:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.babashka/sci/versions/0.14.55</guid>
-    <title>[org.babashka/sci &quot;0.14.55&quot;]</title>
-    <link>https://clojars.org/org.babashka/sci/versions/0.14.55</link>
-    <description>Small Clojure Interpreter</description>
-    <pubDate>Sun, 12 Jul 2026 18:35:20 +0000</pubDate>
   </item>
   </channel>
 </rss>
