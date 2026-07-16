@@ -1,25 +1,3 @@
-{:created 1783890928829, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1728"}
-{:created 1783893628144, :description "Majavat file renderer is an extension for Majavat templating engine to save output in a file.", :group_name "org.clojars.jj", :jar_name "majavat-file-renderer", :version "1.0.5"}
-{:created 1783894376976, :description "A synchronization layer for konserve key-value stores", :group_name "org.replikativ", :jar_name "konserve-sync", :version "0.1.35"}
-{:created 1783895285397, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1729"}
-{:created 1783896138050, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.12"}
-{:created 1783896150283, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.12"}
-{:created 1783896162790, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.12"}
-{:created 1783896174903, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.12"}
-{:created 1783896187354, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.12"}
-{:created 1783896202069, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.12"}
-{:created 1783896703891, :description "Minimal Railway Oriented Programming for Clojure", :group_name "org.clojars.konkon", :jar_name "railway-clj", :version "0.3.0"}
-{:created 1783896967605, :description "Resilience patterns for Clojure — Circuit Breaker & Retry", :group_name "org.clojars.konkon", :jar_name "resilience-clj", :version "0.2.0"}
-{:created 1783898766832, :description "A small Clojure TCP server", :group_name "dev.weavejester", :jar_name "teensyp", :version "0.8.1"}
-{:created 1783900504146, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.19"}
-{:created 1783901865896, :description nil, :group_name "org.replikativ", :jar_name "konserve-lmdb", :version "0.1.16"}
-{:created 1783902012542, :description "TTL Builder is an extension to majavat that allows scheduling cache reloading.", :group_name "org.clojars.jj", :jar_name "majavat-ttl-builder", :version "1.0.4"}
-{:created 1783902418179, :description nil, :group_name "org.replikativ", :jar_name "datahike-lmdb", :version "0.1.8"}
-{:created 1783907766468, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "0.1.2"}
-{:created 1783907875233, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-milvus", :version "0.4.4"}
-{:created 1783909439199, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.2.274"}
-{:created 1783909445813, :description "Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api.updates", :version "1.2.274"}
-{:created 1783910525293, :description "Simplify EHR integrations by defining and validating your entire provider connection pipeline using native Clojure data structures.", :group_name "io.github.samuelcarriles", :jar_name "ehr-adapter", :version "3.0.1"}
 {:created 1783912942316, :description "Digest algorithms (MD5, SHA ...) for Clojure", :group_name "net.clojars.savya", :jar_name "digest", :version "1.5.4"}
 {:created 1783912942485, :description "A Clojure hierarchical set.", :group_name "net.clojars.savya", :jar_name "hier-set", :version "1.2.2"}
 {:created 1783912956433, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.30.1"}
@@ -254,3 +232,25 @@
 {:created 1784189501968, :description "A synchronization layer for konserve key-value stores", :group_name "org.replikativ", :jar_name "konserve-sync", :version "0.1.37"}
 {:created 1784190709345, :description "A framework for asynchronous communication", :group_name "aleph", :jar_name "aleph", :version "0.9.10"}
 {:created 1784190901538, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.9.0"}
+{:created 1784192247356, :description "Idiomatic Clojure JOSE: JWS, JWE, JWK/JWKS, and JWT (signed, encrypted, nested) over Nimbus JOSE+JWT.", :group_name "net.clojars.savya", :jar_name "jose-clj", :version "0.4.0"}
+{:created 1784192341706, :description "Telegram bot channel.", :group_name "com.blockether", :jar_name "vis-channel-telegram", :version "0.1.4"}
+{:created 1784192348499, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.4"}
+{:created 1784192355156, :description "com.blockether/vis-channel-web - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-channel-web", :version "0.1.4"}
+{:created 1784192361552, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.4"}
+{:created 1784192368069, :description "com.blockether/vis-foundation-harness - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-harness", :version "0.1.4"}
+{:created 1784192374353, :description "com.blockether/vis-foundation-mcp - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-mcp", :version "0.1.4"}
+{:created 1784192380653, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.4"}
+{:created 1784192386991, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.4"}
+{:created 1784192393412, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.4"}
+{:created 1784192399802, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.4"}
+{:created 1784192406988, :description "com.blockether/vis-language-typescript-bun - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-typescript-bun", :version "0.1.4"}
+{:created 1784192413898, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.4"}
+{:created 1784192420624, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.4"}
+{:created 1784192427206, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.4"}
+{:created 1784192433887, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.4"}
+{:created 1784192440545, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.4"}
+{:created 1784192447086, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.4"}
+{:created 1784192453717, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.4"}
+{:created 1784192460771, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.4"}
+{:created 1784193482677, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.5.0"}
+{:created 1784194058209, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.24"}

@@ -1,25 +1,3 @@
-{:created 1783902418179, :description nil, :group_name "org.replikativ", :jar_name "datahike-lmdb", :version "0.1.8"}
-{:created 1783907766468, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "0.1.2"}
-{:created 1783907875233, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-milvus", :version "0.4.4"}
-{:created 1783909439199, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.2.274"}
-{:created 1783909445813, :description "Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api.updates", :version "1.2.274"}
-{:created 1783910525293, :description "Simplify EHR integrations by defining and validating your entire provider connection pipeline using native Clojure data structures.", :group_name "io.github.samuelcarriles", :jar_name "ehr-adapter", :version "3.0.1"}
-{:created 1783912942316, :description "Digest algorithms (MD5, SHA ...) for Clojure", :group_name "net.clojars.savya", :jar_name "digest", :version "1.5.4"}
-{:created 1783912942485, :description "A Clojure hierarchical set.", :group_name "net.clojars.savya", :jar_name "hier-set", :version "1.2.2"}
-{:created 1783912956433, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.30.1"}
-{:created 1783912963767, :description "Manage POSIX signals from Clojure via a small sun.misc.Signal backend.", :group_name "net.clojars.savya", :jar_name "beckon", :version "0.4.2"}
-{:created 1783912970619, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.12.2"}
-{:created 1783912972382, :description "Graph library for Clojure and ClojureScript", :group_name "net.clojars.savya", :jar_name "loom", :version "1.3.1"}
-{:created 1783912973496, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.0.2"}
-{:created 1783912976305, :description "Idiomatic Clojure graph library backed by JGraphT: fast algorithms over Clojure-value vertices", :group_name "net.clojars.savya", :jar_name "cljgrapht", :version "0.4.1"}
-{:created 1783912977769, :description "Experimental Foreign Function & Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.", :group_name "net.clojars.savya", :jar_name "beckon-ffm", :version "0.1.4"}
-{:created 1783912984653, :description "Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).", :group_name "net.clojars.savya", :jar_name "dogstatsd", :version "0.1.3"}
-{:created 1783912986658, :description "Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.", :group_name "net.clojars.savya", :jar_name "chunk-clj", :version "0.2.1"}
-{:created 1783912987056, :description "PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.", :group_name "net.clojars.savya", :jar_name "psql-clj-gis", :version "2.0.2"}
-{:created 1783912987097, :description "Idiomatic Clojure wrapper over DJL's HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.", :group_name "net.clojars.savya", :jar_name "tokenizers-clj", :version "0.1.3"}
-{:created 1783912987141, :description "OAuth support for Clojure", :group_name "net.clojars.savya", :jar_name "clj-oauth", :version "1.6.2"}
-{:created 1783912991599, :description "Represent and manipulate various Internet entities as data.", :group_name "net.clojars.savya", :jar_name "inet.data", :version "0.7.4"}
-{:created 1783912996588, :description "Idiomatic Clojure wrapper for the XChart charting library.", :group_name "net.clojars.savya", :jar_name "clj-xchart", :version "0.3.6"}
 {:created 1783912998640, :description "AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.", :group_name "net.clojars.savya", :jar_name "psql-clj-aws", :version "2.0.2"}
 {:created 1783913975789, :description "A Ring Adapter written in Clojure", :group_name "dev.weavejester", :jar_name "capra", :version "0.1.1"}
 {:created 1783915041410, :description "A Clojure library for the Apache Kafka distributed streaming platform.", :group_name "net.clojars.savya", :jar_name "jackdaw", :version "1.3.7"}
@@ -254,3 +232,25 @@
 {:created 1784190709345, :description "A framework for asynchronous communication", :group_name "aleph", :jar_name "aleph", :version "0.9.10"}
 {:created 1784190769476, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.05.26-SNAPSHOT"}
 {:created 1784190901538, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.9.0"}
+{:created 1784192247356, :description "Idiomatic Clojure JOSE: JWS, JWE, JWK/JWKS, and JWT (signed, encrypted, nested) over Nimbus JOSE+JWT.", :group_name "net.clojars.savya", :jar_name "jose-clj", :version "0.4.0"}
+{:created 1784192341706, :description "Telegram bot channel.", :group_name "com.blockether", :jar_name "vis-channel-telegram", :version "0.1.4"}
+{:created 1784192348499, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.4"}
+{:created 1784192355156, :description "com.blockether/vis-channel-web - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-channel-web", :version "0.1.4"}
+{:created 1784192361552, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.4"}
+{:created 1784192368069, :description "com.blockether/vis-foundation-harness - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-harness", :version "0.1.4"}
+{:created 1784192374353, :description "com.blockether/vis-foundation-mcp - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-mcp", :version "0.1.4"}
+{:created 1784192380653, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.4"}
+{:created 1784192386991, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.4"}
+{:created 1784192393412, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.4"}
+{:created 1784192399802, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.4"}
+{:created 1784192406988, :description "com.blockether/vis-language-typescript-bun - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-typescript-bun", :version "0.1.4"}
+{:created 1784192413898, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.4"}
+{:created 1784192420624, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.4"}
+{:created 1784192427206, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.4"}
+{:created 1784192433887, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.4"}
+{:created 1784192440545, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.4"}
+{:created 1784192447086, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.4"}
+{:created 1784192453717, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.4"}
+{:created 1784192460771, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.4"}
+{:created 1784193482677, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.5.0"}
+{:created 1784194058209, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.24"}
