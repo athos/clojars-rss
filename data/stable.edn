@@ -1,7 +1,3 @@
-{:created 1783912963767, :description "Manage POSIX signals from Clojure via a small sun.misc.Signal backend.", :group_name "net.clojars.savya", :jar_name "beckon", :version "0.4.2"}
-{:created 1783912970619, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.12.2"}
-{:created 1783912972382, :description "Graph library for Clojure and ClojureScript", :group_name "net.clojars.savya", :jar_name "loom", :version "1.3.1"}
-{:created 1783912973496, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.0.2"}
 {:created 1783912976305, :description "Idiomatic Clojure graph library backed by JGraphT: fast algorithms over Clojure-value vertices", :group_name "net.clojars.savya", :jar_name "cljgrapht", :version "0.4.1"}
 {:created 1783912977769, :description "Experimental Foreign Function & Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.", :group_name "net.clojars.savya", :jar_name "beckon-ffm", :version "0.1.4"}
 {:created 1783912984653, :description "Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).", :group_name "net.clojars.savya", :jar_name "dogstatsd", :version "0.1.3"}
@@ -254,3 +250,7 @@
 {:created 1784195322867, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1733"}
 {:created 1784198897276, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "2.2.4"}
 {:created 1784201546233, :description "Fast serialization library for Clojure", :group_name "com.taoensso", :jar_name "nippy", :version "3.7.0-RC3"}
+{:created 1784205223093, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.108"}
+{:created 1784205263810, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.108"}
+{:created 1784206822321, :description "Embedded approximate-nearest-neighbor vector search for Clojure: an in-process ANN index.", :group_name "net.clojars.savya", :jar_name "vector-search-clj", :version "0.4.0"}
+{:created 1784208555861, :description "Parse Org-mode text into an AST (EDN data)", :group_name "org.clojars.bzg", :jar_name "organ", :version "3.2.0"}
