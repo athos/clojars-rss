@@ -1,7 +1,3 @@
-{:created 1783929390277, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-40"}
-{:created 1783929431839, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-40"}
-{:created 1783929474258, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-40"}
-{:created 1783929517115, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-40"}
 {:created 1783929557922, :description "Code generation library for Boundary framework: module scaffolding", :group_name "org.boundary-app", :jar_name "boundary-scaffolder", :version "1.0.1-alpha-40"}
 {:created 1783929599750, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-40"}
 {:created 1783929641675, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-40"}
@@ -254,3 +250,7 @@
 {:created 1784226367348, :description nil, :group_name "io.github.supabase-community", :jar_name "auth", :version "0.3.0"}
 {:created 1784227991139, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "0.2.0"}
 {:created 1784229262857, :description nil, :group_name "io.github.unisoma", :jar_name "mantine-ui-wrapper", :version "9.4.1.0-SNAPSHOT"}
+{:created 1784231679773, :description "Idiomatic Clojure graph library backed by JGraphT: fast algorithms over Clojure-value vertices", :group_name "net.clojars.savya", :jar_name "cljgrapht", :version "1.0.0"}
+{:created 1784232325503, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "scaffold", :version "2.3.5"}
+{:created 1784232359783, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "apron", :version "3.0.1"}
+{:created 1784232393704, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "bucket", :version "2.13.2"}
