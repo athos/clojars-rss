@@ -1,9 +1,3 @@
-{:created 1783945646902, :description "Turn Clojure functions into CLIs!", :group_name "org.babashka", :jar_name "cli", :version "0.12.76"}
-{:created 1783946915661, :description "Clojure completion library that you deserve", :group_name "compliment", :jar_name "compliment", :version "0.8.1"}
-{:created 1783949533322, :description "EDN parser with location metadata and pluggable dispatch table.", :group_name "borkdude", :jar_name "edamame", :version "1.6.42"}
-{:created 1783949630027, :description "Clojure bindings for the Rockbox DSP, metadata, and playback engine (Java FFM over the shared rockbox-ffi C ABI).", :group_name "io.github.tsirysndr", :jar_name "rockbox-clj-ffi", :version "0.4.0"}
-{:created 1783952108816, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.17"}
-{:created 1783952119512, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.17"}
 {:created 1783952130013, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.17"}
 {:created 1783952140769, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.17"}
 {:created 1783952151673, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.17"}
@@ -51,7 +45,6 @@
 {:created 1783972281580, :description "Jepsen tests for Redis", :group_name "io.jepsen", :jar_name "redis", :version "0.2.0-SNAPSHOT"}
 {:created 1783973942596, :description "Clojure bindings for the Rockbox DSP, metadata, and playback engine (Java FFM over the shared rockbox-ffi C ABI).", :group_name "io.github.tsirysndr", :jar_name "rockbox-clj-ffi", :version "0.5.0"}
 {:created 1783977326326, :description "Minimal, explicit authentication helpers for Clojure Ring applications.", :group_name "com.sturdystats", :jar_name "turvata", :version "0.3.6"}
-{:created 1783982179453, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.219-SNAPSHOT"}
 {:created 1783992626215, :description "Smile - Statistical Machine Intelligence and Learning Engine", :group_name "org.clojars.haifengl", :jar_name "smile", :version "6.2.4"}
 {:created 1783997503490, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-milvus", :version "0.4.6"}
 {:created 1784002724588, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-qdrant", :version "0.1.2"}
@@ -234,7 +227,6 @@
 {:created 1784262603750, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.1.1"}
 {:created 1784265628676, :description "Micro toolkit for Clojure/Script errors.", :group_name "com.taoensso", :jar_name "truss", :version "2.4.0"}
 {:created 1784267414891, :description "Core utils library for Clojure/Script", :group_name "com.taoensso", :jar_name "encore", :version "3.169.1"}
-{:created 1784283193101, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.05.26-SNAPSHOT"}
 {:created 1784287246356, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.33"}
 {:created 1784288436456, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.35"}
 {:created 1784291089932, :description "Contains predicates and tools for c4k", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-common-clj", :version "13.1.1"}
@@ -254,3 +246,11 @@
 {:created 1784311472500, :description "Linearizability checker", :group_name "knossos", :jar_name "knossos", :version "0.3.16"}
 {:created 1784311596138, :description "Clojure wrappers for the Bifurcan library of high-performance data structures", :group_name "com.aphyr", :jar_name "bifurcan-clj", :version "0.1.4"}
 {:created 1784311662696, :description "Clojure client interface for Hashicorp Vault", :group_name "com.amperity", :jar_name "vault-clj", :version "2.3.594"}
+{:created 1784313746972, :description "Library for abstracting data storage from business logic", :group_name "stowaway", :jar_name "stowaway", :version "0.2.14"}
+{:created 1784314216215, :description "Read NumPy .npy files into idiomatic Clojure data (sturdy-numpy).", :group_name "com.sturdystats", :jar_name "sturdy-numpy", :version "0.1.8"}
+{:created 1784314652308, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.219-SNAPSHOT"}
+{:created 1784314861610, :description "Composable concurrent folds for Clojure.", :group_name "tesser.core", :jar_name "tesser.core", :version "1.0.10-SNAPSHOT"}
+{:created 1784315205901, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.05.26-SNAPSHOT"}
+{:created 1784315347505, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.5.3"}
+{:created 1784316165329, :description "Composable concurrent folds for Clojure.", :group_name "com.aphyr", :jar_name "tesser.core", :version "1.0.10"}
+{:created 1784316167443, :description "Concurrent folds for statistical analysis", :group_name "com.aphyr", :jar_name "tesser.math", :version "1.0.10"}
