@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 17 Jul 2026 01:31:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 02:59:09 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1737</guid>
+    <title>[org.replikativ/datahike &quot;0.8.1737&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1737</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Fri, 17 Jul 2026 02:31:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/pdfplumber-clj/versions/0.3.0</guid>
+    <title>[net.clojars.savya/pdfplumber-clj &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/pdfplumber-clj/versions/0.3.0</link>
+    <description>Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.</description>
+    <pubDate>Fri, 17 Jul 2026 02:13:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/tokenizers-clj/versions/0.3.0</guid>
+    <title>[net.clojars.savya/tokenizers-clj &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/tokenizers-clj/versions/0.3.0</link>
+    <description>Idiomatic Clojure wrapper over DJL&#39;s HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.</description>
+    <pubDate>Fri, 17 Jul 2026 02:12:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/dogstatsd/versions/0.3.0</guid>
+    <title>[net.clojars.savya/dogstatsd &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/dogstatsd/versions/0.3.0</link>
+    <description>Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).</description>
+    <pubDate>Fri, 17 Jul 2026 02:11:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.28</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.28&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.28</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Fri, 17 Jul 2026 01:51:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.13.0</guid>
+    <title>[net.clojars.savya/anthropic-clj &quot;0.13.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.13.0</link>
+    <description>Idiomatic Clojure wrapper over the official Anthropic Java SDK</description>
+    <pubDate>Fri, 17 Jul 2026 01:40:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.362</guid>
+    <title>[org.replikativ/konserve &quot;0.9.362&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.362</link>
+    <description>Durable cross-platform key-value store protocol with core.async.</description>
+    <pubDate>Fri, 17 Jul 2026 01:38:11 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.295</guid>
     <title>[org.replikativ/raster &quot;0.2.295&quot;]</title>
@@ -1748,55 +1797,6 @@
     <link>https://clojars.org/org.boundary-app/boundary-storage/versions/1.0.1-alpha-40</link>
     <description>Storage library for Boundary framework: local filesystem and S3 adapters</description>
     <pubDate>Mon, 13 Jul 2026 07:58:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.1-alpha-40</guid>
-    <title>[org.boundary-app/boundary-user &quot;1.0.1-alpha-40&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-user/versions/1.0.1-alpha-40</link>
-    <description>User management library for Boundary framework: authentication, sessions, MFA</description>
-    <pubDate>Mon, 13 Jul 2026 07:57:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-i18n/versions/1.0.1-alpha-40</guid>
-    <title>[org.boundary-app/boundary-i18n &quot;1.0.1-alpha-40&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-i18n/versions/1.0.1-alpha-40</link>
-    <description>Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management</description>
-    <pubDate>Mon, 13 Jul 2026 07:57:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.1-alpha-40</guid>
-    <title>[org.boundary-app/boundary-platform &quot;1.0.1-alpha-40&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-platform/versions/1.0.1-alpha-40</link>
-    <description>Platform library for Boundary framework: database, HTTP, configuration, modules</description>
-    <pubDate>Mon, 13 Jul 2026 07:56:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.1-alpha-40</guid>
-    <title>[org.boundary-app/boundary-observability &quot;1.0.1-alpha-40&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-observability/versions/1.0.1-alpha-40</link>
-    <description>Observability library for Boundary framework: logging, metrics, error reporting</description>
-    <pubDate>Mon, 13 Jul 2026 07:55:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-core/versions/1.0.1-alpha-40</guid>
-    <title>[org.boundary-app/boundary-core &quot;1.0.1-alpha-40&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-core/versions/1.0.1-alpha-40</link>
-    <description>Foundation library for Boundary framework: validation, utilities, interceptors</description>
-    <pubDate>Mon, 13 Jul 2026 07:55:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-40</guid>
-    <title>[org.boundary-app/boundary-tools &quot;1.0.1-alpha-40&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-tools/versions/1.0.1-alpha-40</link>
-    <description>Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities</description>
-    <pubDate>Mon, 13 Jul 2026 07:54:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.12.3-blockether.13</guid>
-    <title>[com.blockether/tree-sitter-language-pack &quot;1.12.3-blockether.13&quot;]</title>
-    <link>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.12.3-blockether.13</link>
-    <description>Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-&lt;rid&gt; jar for your platform&#39;s native library.</description>
-    <pubDate>Mon, 13 Jul 2026 07:46:56 +0000</pubDate>
   </item>
   </channel>
 </rss>
