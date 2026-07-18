@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 18 Jul 2026 19:22:40 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 20:13:18 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-linux-arm64/versions/0.10.0-2</guid>
+    <title>[com.blockether/fff-native-linux-arm64 &quot;0.10.0-2&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-linux-arm64/versions/0.10.0-2</link>
+    <description>Native fff-c library for linux-arm64.</description>
+    <pubDate>Sat, 18 Jul 2026 20:13:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-windows-x64/versions/0.10.0-2</guid>
+    <title>[com.blockether/fff-native-windows-x64 &quot;0.10.0-2&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-windows-x64/versions/0.10.0-2</link>
+    <description>Native fff-c library for windows-x64.</description>
+    <pubDate>Sat, 18 Jul 2026 20:11:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-darwin-x64/versions/0.10.0-2</guid>
+    <title>[com.blockether/fff-native-darwin-x64 &quot;0.10.0-2&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-darwin-x64/versions/0.10.0-2</link>
+    <description>Native fff-c library for darwin-x64.</description>
+    <pubDate>Sat, 18 Jul 2026 20:03:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-linux-x64/versions/0.10.0-2</guid>
+    <title>[com.blockether/fff-native-linux-x64 &quot;0.10.0-2&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-linux-x64/versions/0.10.0-2</link>
+    <description>Native fff-c library for linux-x64.</description>
+    <pubDate>Sat, 18 Jul 2026 20:03:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-darwin-arm64/versions/0.10.0-2</guid>
+    <title>[com.blockether/fff-native-darwin-arm64 &quot;0.10.0-2&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-darwin-arm64/versions/0.10.0-2</link>
+    <description>Native fff-c library for darwin-arm64.</description>
+    <pubDate>Sat, 18 Jul 2026 20:01:31 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.hive-agi/hive-schemas/versions/0.1.5</guid>
     <title>[io.github.hive-agi/hive-schemas &quot;0.1.5&quot;]</title>
@@ -1762,41 +1797,6 @@
     <link>https://clojars.org/net.clojars.deadmeme5441/clojure-llm-sdk/versions/0.3.4</link>
     <description>Production-quality Clojure SDK for canonical LLM provider integration.</description>
     <pubDate>Tue, 14 Jul 2026 11:30:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.weavejester/lein-cljfmt/versions/0.16.5</guid>
-    <title>[dev.weavejester/lein-cljfmt &quot;0.16.5&quot;]</title>
-    <link>https://clojars.org/dev.weavejester/lein-cljfmt/versions/0.16.5</link>
-    <description>A library for formatting Clojure code</description>
-    <pubDate>Tue, 14 Jul 2026 11:11:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.weavejester/cljfmt/versions/0.16.5</guid>
-    <title>[dev.weavejester/cljfmt &quot;0.16.5&quot;]</title>
-    <link>https://clojars.org/dev.weavejester/cljfmt/versions/0.16.5</link>
-    <description>A library for formatting Clojure code</description>
-    <pubDate>Tue, 14 Jul 2026 11:10:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1731</guid>
-    <title>[org.replikativ/datahike &quot;0.8.1731&quot;]</title>
-    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1731</link>
-    <description>A durable datalog implementation adaptable for distribution.</description>
-    <pubDate>Tue, 14 Jul 2026 09:26:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.7.60</guid>
-    <title>[com.blockether/svar &quot;0.7.60&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.7.60</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Tue, 14 Jul 2026 08:42:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.294</guid>
-    <title>[org.replikativ/raster &quot;0.2.294&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.294</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Tue, 14 Jul 2026 08:38:57 +0000</pubDate>
   </item>
   </channel>
 </rss>
