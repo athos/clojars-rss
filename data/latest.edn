@@ -1,27 +1,3 @@
-{:created 1783956648826, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.93"}
-{:created 1783957846135, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.1.49"}
-{:created 1783958867637, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
-{:created 1783960048249, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.64.0"}
-{:created 1783960092302, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.64.0"}
-{:created 1783960232886, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.64.0"}
-{:created 1783960294809, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.64.0"}
-{:created 1783960425539, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.64.0"}
-{:created 1783960453317, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.64.0"}
-{:created 1783960515640, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.64.0"}
-{:created 1783960617664, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic Neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.64.0"}
-{:created 1783961107240, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-base", :version "0.46.0"}
-{:created 1783961140603, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-test", :version "0.46.0"}
-{:created 1783961224093, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-dnnl", :version "0.46.0"}
-{:created 1783961246290, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-bnns", :version "0.46.0"}
-{:created 1783961741964, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-cuda", :version "0.46.0"}
-{:created 1783962453319, :description "Fast Clojure Deep Learning Library", :group_name "uncomplicate", :jar_name "deep-diamond", :version "0.46.0"}
-{:created 1783963574731, :description "Distributed systems testing framework.", :group_name "jepsen", :jar_name "jepsen", :version "0.3.12-SNAPSHOT"}
-{:created 1783963672247, :description "Clojure wrappers for the Bifurcan library of high-performance data structures", :group_name "com.aphyr", :jar_name "bifurcan-clj", :version "0.1.4-SNAPSHOT"}
-{:created 1783963683014, :description "Pure functional generators for Jepsen tests", :group_name "io.jepsen", :jar_name "generator", :version "0.1.2-SNAPSHOT"}
-{:created 1783966420209, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-test", :version "0.3.2"}
-{:created 1783966612498, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "0.1.4"}
-{:created 1783966977541, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-schemas", :version "0.1.2"}
-{:created 1783968431109, :description "A library for working with JRuby", :group_name "org.openvoxproject", :jar_name "jruby-utils", :version "6.0.0"}
 {:created 1783968480888, :description "A small Clojure library for managing server-side encryption keys.", :group_name "com.sturdystats", :jar_name "bailey", :version "0.0.8"}
 {:created 1783968574012, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-yggdrasil-storage", :version "0.1.0"}
 {:created 1783971914907, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.95"}
@@ -254,3 +230,27 @@
 {:created 1784344497163, :description nil, :group_name "com.github.sipmann", :jar_name "common-pg-queue", :version "0.0.7"}
 {:created 1784350974631, :description "JavaScript's async/await and promise APIs ported to Clojure, plus some extra goodies to let you program in an async style.", :group_name "com.xadecimal", :jar_name "async-style", :version "0.2.0"}
 {:created 1784352779504, :description "Idiomatic Clojure wrapper over DJL's HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.", :group_name "net.clojars.savya", :jar_name "tokenizers-clj", :version "0.4.0"}
+{:created 1784364211129, :description "Developer tooling for the Boundary framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "org.boundary-app", :jar_name "boundary-tools", :version "1.0.1-alpha-41"}
+{:created 1784364252435, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.1-alpha-41"}
+{:created 1784364295351, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.1-alpha-41"}
+{:created 1784364338692, :description "Platform library for Boundary framework: database, HTTP, configuration, modules", :group_name "org.boundary-app", :jar_name "boundary-platform", :version "1.0.1-alpha-41"}
+{:created 1784364381142, :description "Internationalisation (i18n) for Boundary framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "org.boundary-app", :jar_name "boundary-i18n", :version "1.0.1-alpha-41"}
+{:created 1784364423654, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.1-alpha-41"}
+{:created 1784364466967, :description "Storage library for Boundary framework: local filesystem and S3 adapters", :group_name "org.boundary-app", :jar_name "boundary-storage", :version "1.0.1-alpha-41"}
+{:created 1784364508471, :description "Code generation library for Boundary framework: module scaffolding", :group_name "org.boundary-app", :jar_name "boundary-scaffolder", :version "1.0.1-alpha-41"}
+{:created 1784364551203, :description "Cache library for Boundary framework: in-memory and Redis cache adapters", :group_name "org.boundary-app", :jar_name "boundary-cache", :version "1.0.1-alpha-41"}
+{:created 1784364593099, :description "Jobs library for Boundary framework: background job queuing with in-memory and Redis adapters", :group_name "org.boundary-app", :jar_name "boundary-jobs", :version "1.0.1-alpha-41"}
+{:created 1784364635226, :description "Realtime library for Boundary framework: WebSocket-based real-time communication with JWT authentication", :group_name "org.boundary-app", :jar_name "boundary-realtime", :version "1.0.1-alpha-41"}
+{:created 1784364677530, :description "Email sending library for Boundary framework: SMTP support, composition, validation", :group_name "org.boundary-app", :jar_name "boundary-email", :version "1.0.1-alpha-41"}
+{:created 1784364719978, :description "Multi-tenancy library for Boundary framework: schema isolation, tenant resolution, provisioning", :group_name "org.boundary-app", :jar_name "boundary-tenant", :version "1.0.1-alpha-41"}
+{:created 1784364762375, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.1-alpha-41"}
+{:created 1784364804388, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.1-alpha-41"}
+{:created 1784364846822, :description "External service adapters library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-external", :version "1.0.1-alpha-41"}
+{:created 1784364889284, :description "PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "org.boundary-app", :jar_name "boundary-payments", :version "1.0.1-alpha-41"}
+{:created 1784364930887, :description "Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "org.boundary-app", :jar_name "boundary-geo", :version "1.0.1-alpha-41"}
+{:created 1784364973833, :description "PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module", :group_name "org.boundary-app", :jar_name "boundary-reports", :version "1.0.1-alpha-41"}
+{:created 1784365015636, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.1-alpha-41"}
+{:created 1784365058027, :description "Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama", :group_name "org.boundary-app", :jar_name "boundary-ai", :version "1.0.1-alpha-41"}
+{:created 1784365099687, :description "Shared UI style library for Boundary framework: CSS/JS bundles and assets", :group_name "org.boundary-app", :jar_name "boundary-ui-style", :version "1.0.1-alpha-41"}
+{:created 1784365141974, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-41"}
+{:created 1784365226865, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.1-alpha-41"}
