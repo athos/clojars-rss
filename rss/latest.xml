@@ -4,7 +4,14 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 19 Jul 2026 22:15:24 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 19 Jul 2026 23:16:25 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.clojars.punit-naik/scholarly-mcp/versions/0.2.0</guid>
+    <title>[org.clojars.punit-naik/scholarly-mcp &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/org.clojars.punit-naik/scholarly-mcp/versions/0.2.0</link>
+    <description>MCP Server for Academic Research &amp; Literature Review</description>
+    <pubDate>Sun, 19 Jul 2026 22:56:40 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.jank-lang/lein-template.jank/versions/2026.07-1</guid>
     <title>[org.jank-lang/lein-template.jank &quot;2026.07-1&quot;]</title>
@@ -1790,13 +1797,6 @@
     <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.26</link>
     <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage: inline image rendering (Kitty graphics protocol / iTerm2), terminal graphics-capability detection (isGraphicalTerminal), intrinsic pixel-dimension sniffing and aspect-preserving cell-box sizing. Superset of com.googlecode.lanterna:lanterna:3.1.5 - same packages and classes, one added package. Retire the width/emoji patches when upstream ships equivalent fixes; the image API is Blockether-original.</description>
     <pubDate>Wed, 15 Jul 2026 14:30:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.24</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.24&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.24</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage: inline image rendering (Kitty graphics protocol / iTerm2), terminal graphics-capability detection (isGraphicalTerminal), intrinsic pixel-dimension sniffing and aspect-preserving cell-box sizing. Superset of com.googlecode.lanterna:lanterna:3.1.5 - same packages and classes, one added package. Retire the width/emoji patches when upstream ships equivalent fixes; the image API is Blockether-original.</description>
-    <pubDate>Wed, 15 Jul 2026 13:03:28 +0000</pubDate>
   </item>
   </channel>
 </rss>
