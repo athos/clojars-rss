@@ -4,13 +4,72 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 20 Jul 2026 18:35:15 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 19:30:09 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1744</guid>
+    <title>[org.replikativ/datahike &quot;0.8.1744&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1744</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Mon, 20 Jul 2026 19:15:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.yamlscript/clj-yamlscript/versions/0.2.29</guid>
+    <title>[org.yamlscript/clj-yamlscript &quot;0.2.29&quot;]</title>
+    <link>https://clojars.org/org.yamlscript/clj-yamlscript/versions/0.2.29</link>
+    <description>YAMLScript is a functional programming language whose syntax is encoded in
+  YAML.</description>
+    <pubDate>Mon, 20 Jul 2026 19:09:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.yamlscript/ys.v0/versions/0.2.29</guid>
+    <title>[org.yamlscript/ys.v0 &quot;0.2.29&quot;]</title>
+    <link>https://clojars.org/org.yamlscript/ys.v0/versions/0.2.29</link>
+    <description>The YS (YAMLScript) v0 standard library for Clojure runtimes.
+  Code compiled with `ys -T bb|clj|jolt|glj` runs on babashka, JVM
+  Clojure, jolt and glojure with this library on the classpath.</description>
+    <pubDate>Mon, 20 Jul 2026 19:08:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/spel/versions/0.9.11</guid>
+    <title>[com.blockether/spel &quot;0.9.11&quot;]</title>
+    <link>https://clojars.org/com.blockether/spel/versions/0.9.11</link>
+    <description>Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen</description>
+    <pubDate>Mon, 20 Jul 2026 19:06:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/hasch/versions/0.4.102</guid>
+    <title>[org.replikativ/hasch &quot;0.4.102&quot;]</title>
+    <link>https://clojars.org/org.replikativ/hasch/versions/0.4.102</link>
+    <description>A library to consistently crypto-hash edn data structures on Clojure and ClojureScript with SHA-512</description>
+    <pubDate>Mon, 20 Jul 2026 19:06:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/trapperkeeper-webserver/versions/12.1.0</guid>
+    <title>[org.openvoxproject/trapperkeeper-webserver &quot;12.1.0&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/trapperkeeper-webserver/versions/12.1.0</link>
+    <description>A jetty-based webserver implementation for use with the org.openvoxproject/trapperkeeper service framework.</description>
+    <pubDate>Mon, 20 Jul 2026 19:01:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/http-client/versions/2.4.0</guid>
+    <title>[org.openvoxproject/http-client &quot;2.4.0&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/http-client/versions/2.4.0</link>
+    <description>HTTP client wrapper</description>
+    <pubDate>Mon, 20 Jul 2026 19:00:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.363</guid>
+    <title>[org.replikativ/konserve &quot;0.9.363&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.363</link>
+    <description>Durable cross-platform key-value store protocol with core.async.</description>
+    <pubDate>Mon, 20 Jul 2026 18:46:30 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/de.dixieflatline/smuk/versions/0.1.0-SNAPSHOT</guid>
     <title>[de.dixieflatline/smuk &quot;0.1.0-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/de.dixieflatline/smuk/versions/0.1.0-SNAPSHOT</link>
     <description>Protocol and Java interface decorators</description>
-    <pubDate>Mon, 20 Jul 2026 18:23:45 +0000</pubDate>
+    <pubDate>Mon, 20 Jul 2026 18:37:49 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.github.pkpkpk/fress/versions/0.4.317</guid>
@@ -1740,63 +1799,6 @@
     <link>https://clojars.org/com.github.marksto/clj-tg-bot-api.updates/versions/1.2.276</link>
     <description>Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.</description>
     <pubDate>Thu, 16 Jul 2026 02:10:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.marksto/clj-tg-bot-api/versions/1.2.276</guid>
-    <title>[com.github.marksto/clj-tg-bot-api &quot;1.2.276&quot;]</title>
-    <link>https://clojars.org/com.github.marksto/clj-tg-bot-api/versions/1.2.276</link>
-    <description>The latest Telegram Bot API specification and client lib for Clojure-based apps.</description>
-    <pubDate>Thu, 16 Jul 2026 02:10:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.yamlscript/clj-yamlscript/versions/0.2.28</guid>
-    <title>[org.yamlscript/clj-yamlscript &quot;0.2.28&quot;]</title>
-    <link>https://clojars.org/org.yamlscript/clj-yamlscript/versions/0.2.28</link>
-    <description>YAMLScript is a functional programming language whose syntax is encoded in
-  YAML.</description>
-    <pubDate>Thu, 16 Jul 2026 01:55:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.23</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.23&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.23</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Thu, 16 Jul 2026 01:52:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.clojure-quant/quanta-blotter-cli/versions/0.1.107</guid>
-    <title>[io.github.clojure-quant/quanta-blotter-cli &quot;0.1.107&quot;]</title>
-    <link>https://clojars.org/io.github.clojure-quant/quanta-blotter-cli/versions/0.1.107</link>
-    <description></description>
-    <pubDate>Thu, 16 Jul 2026 01:49:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.clojure-quant/quanta-blotter/versions/0.1.107</guid>
-    <title>[io.github.clojure-quant/quanta-blotter &quot;0.1.107&quot;]</title>
-    <link>https://clojars.org/io.github.clojure-quant/quanta-blotter/versions/0.1.107</link>
-    <description></description>
-    <pubDate>Thu, 16 Jul 2026 01:48:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.core0/prism/versions/2.1.26-SNAPSHOT</guid>
-    <title>[io.core0/prism &quot;2.1.26-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/io.core0/prism/versions/2.1.26-SNAPSHOT</link>
-    <description>Opinionated library with client namespaces</description>
-    <pubDate>Thu, 16 Jul 2026 00:50:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/party.donut/frontend/versions/0.0.292</guid>
-    <title>[party.donut/frontend &quot;0.0.292&quot;]</title>
-    <link>https://clojars.org/party.donut/frontend/versions/0.0.292</link>
-    <description>dependency injection lib / framework foundation</description>
-    <pubDate>Thu, 16 Jul 2026 00:14:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/party.donut/generators/versions/0.0.50</guid>
-    <title>[party.donut/generators &quot;0.0.50&quot;]</title>
-    <link>https://clojars.org/party.donut/generators/versions/0.0.50</link>
-    <description>generators for Donut</description>
-    <pubDate>Thu, 16 Jul 2026 00:10:48 +0000</pubDate>
   </item>
   </channel>
 </rss>
