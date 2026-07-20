@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 20 Jul 2026 13:31:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 14:42:09 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/net.clojars.tianwei/rewords-site-kit/versions/0.1.1</guid>
+    <title>[net.clojars.tianwei/rewords-site-kit &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.tianwei/rewords-site-kit/versions/0.1.1</link>
+    <description>Small URL helpers for ReWords AI, an AI image text editor for photos and screenshots.</description>
+    <pubDate>Mon, 20 Jul 2026 14:00:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-addon/versions/0.3.1</guid>
+    <title>[io.github.hive-agi/hive-addon &quot;0.3.1&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-addon/versions/0.3.1</link>
+    <description></description>
+    <pubDate>Mon, 20 Jul 2026 13:58:57 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.unisoma/mantine-ui-wrapper/versions/9.4.1.0-SNAPSHOT</guid>
     <title>[io.github.unisoma/mantine-ui-wrapper &quot;9.4.1.0-SNAPSHOT&quot;]</title>
@@ -1783,20 +1797,6 @@
     <link>https://clojars.org/org.clojars.bzg/organ/versions/3.1.0</link>
     <description>Parse Org-mode text into an AST (EDN data)</description>
     <pubDate>Wed, 15 Jul 2026 21:47:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.28</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.28&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.28</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage: inline image rendering (Kitty graphics protocol / iTerm2), terminal graphics-capability detection (isGraphicalTerminal), intrinsic pixel-dimension sniffing and aspect-preserving cell-box sizing. Superset of com.googlecode.lanterna:lanterna:3.1.5 - same packages and classes, one added package. Retire the width/emoji patches when upstream ships equivalent fixes; the image API is Blockether-original.</description>
-    <pubDate>Wed, 15 Jul 2026 20:45:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/fff/versions/0.9.6-9</guid>
-    <title>[com.blockether/fff &quot;0.9.6-9&quot;]</title>
-    <link>https://clojars.org/com.blockether/fff/versions/0.9.6-9</link>
-    <description>Clojure binding to fff — fast file and content search — via JDK FFM.</description>
-    <pubDate>Wed, 15 Jul 2026 19:54:39 +0000</pubDate>
   </item>
   </channel>
 </rss>
