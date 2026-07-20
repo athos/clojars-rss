@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 20 Jul 2026 09:12:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 10:57:59 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.timezynk/domus/versions/2.5.5</guid>
+    <title>[com.timezynk/domus &quot;2.5.5&quot;]</title>
+    <link>https://clojars.org/com.timezynk/domus/versions/2.5.5</link>
+    <description>MongoDB utilities</description>
+    <pubDate>Mon, 20 Jul 2026 10:48:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.34</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.34&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.34</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage: inline image rendering (Kitty graphics protocol / iTerm2), terminal graphics-capability detection (isGraphicalTerminal), intrinsic pixel-dimension sniffing and aspect-preserving cell-box sizing. Superset of com.googlecode.lanterna:lanterna:3.1.5 - same packages and classes, one added package. Retire the width/emoji patches when upstream ships equivalent fixes; the image API is Blockether-original.</description>
+    <pubDate>Mon, 20 Jul 2026 10:42:43 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/tech.gojek/ziggurat/versions/4.13.0</guid>
     <title>[tech.gojek/ziggurat &quot;4.13.0&quot;]</title>
@@ -1783,20 +1797,6 @@
     <link>https://clojars.org/io.github.kit-clj/deps-template/versions/0.1.96</link>
     <description></description>
     <pubDate>Wed, 15 Jul 2026 13:01:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/puppetserver/versions/9.0.0-beta1</guid>
-    <title>[org.openvoxproject/puppetserver &quot;9.0.0-beta1&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/puppetserver/versions/9.0.0-beta1</link>
-    <description>OpenVox Server</description>
-    <pubDate>Wed, 15 Jul 2026 12:38:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/puppetdb/versions/9.0.0-beta1</guid>
-    <title>[org.openvoxproject/puppetdb &quot;9.0.0-beta1&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/puppetdb/versions/9.0.0-beta1</link>
-    <description>OpenVox-integrated catalog and fact storage</description>
-    <pubDate>Wed, 15 Jul 2026 12:35:44 +0000</pubDate>
   </item>
   </channel>
 </rss>
