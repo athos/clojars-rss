@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 20 Jul 2026 20:27:04 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 21:22:52 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.gateless/clara-rules/versions/1.6.8</guid>
+    <title>[com.github.gateless/clara-rules &quot;1.6.8&quot;]</title>
+    <link>https://clojars.org/com.github.gateless/clara-rules/versions/1.6.8</link>
+    <description></description>
+    <pubDate>Mon, 20 Jul 2026 21:05:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.seancorfield/honeysql/versions/2.7.9999-SNAPSHOT</guid>
+    <title>[com.github.seancorfield/honeysql &quot;2.7.9999-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.seancorfield/honeysql/versions/2.7.9999-SNAPSHOT</link>
+    <description>SQL as Clojure data structures.</description>
+    <pubDate>Mon, 20 Jul 2026 21:05:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.6</guid>
+    <title>[org.replikativ/pretrained-rstr &quot;0.1.6&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.6</link>
+    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
+    <pubDate>Mon, 20 Jul 2026 20:51:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/clj-kondo/versions/2026.05.26-SNAPSHOT</guid>
+    <title>[clj-kondo &quot;2026.05.26-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/clj-kondo/versions/2026.05.26-SNAPSHOT</link>
+    <description>A linter for Clojure that sparks joy.</description>
+    <pubDate>Mon, 20 Jul 2026 20:48:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.clojure-quant/quanta-blotter-cli/versions/0.1.109</guid>
+    <title>[io.github.clojure-quant/quanta-blotter-cli &quot;0.1.109&quot;]</title>
+    <link>https://clojars.org/io.github.clojure-quant/quanta-blotter-cli/versions/0.1.109</link>
+    <description></description>
+    <pubDate>Mon, 20 Jul 2026 20:45:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.clojure-quant/quanta-blotter/versions/0.1.109</guid>
+    <title>[io.github.clojure-quant/quanta-blotter &quot;0.1.109&quot;]</title>
+    <link>https://clojars.org/io.github.clojure-quant/quanta-blotter/versions/0.1.109</link>
+    <description></description>
+    <pubDate>Mon, 20 Jul 2026 20:45:00 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/svar/versions/0.7.67</guid>
     <title>[com.blockether/svar &quot;0.7.67&quot;]</title>
@@ -301,13 +343,6 @@
     <link>https://clojars.org/com.omarpolo/gemtext/versions/0.1.10</link>
     <description></description>
     <pubDate>Sun, 19 Jul 2026 16:35:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/clj-kondo/versions/2026.05.26-SNAPSHOT</guid>
-    <title>[clj-kondo &quot;2026.05.26-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/clj-kondo/versions/2026.05.26-SNAPSHOT</link>
-    <description>A linter for Clojure that sparks joy.</description>
-    <pubDate>Sun, 19 Jul 2026 15:56:22 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/org.clojars.punit-naik/scholarly-mcp/versions/0.1.2</guid>
@@ -1764,41 +1799,6 @@
     <link>https://clojars.org/net.clojars.savya/clj-xchart/versions/0.3.7</link>
     <description>Idiomatic Clojure wrapper for the XChart charting library.</description>
     <pubDate>Thu, 16 Jul 2026 06:23:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.7.62</guid>
-    <title>[com.blockether/svar &quot;0.7.62&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.7.62</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Thu, 16 Jul 2026 04:19:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-schemas/versions/0.1.3</guid>
-    <title>[io.github.hive-agi/hive-schemas &quot;0.1.3&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-schemas/versions/0.1.3</link>
-    <description></description>
-    <pubDate>Thu, 16 Jul 2026 03:10:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-spi/versions/0.1.5</guid>
-    <title>[io.github.hive-agi/hive-spi &quot;0.1.5&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-spi/versions/0.1.5</link>
-    <description></description>
-    <pubDate>Thu, 16 Jul 2026 03:08:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.clojure-quant/quanta-missionary/versions/0.2.20</guid>
-    <title>[io.github.clojure-quant/quanta-missionary &quot;0.2.20&quot;]</title>
-    <link>https://clojars.org/io.github.clojure-quant/quanta-missionary/versions/0.2.20</link>
-    <description></description>
-    <pubDate>Thu, 16 Jul 2026 02:55:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/is.simm/distributed-scope/versions/0.1.9</guid>
-    <title>[is.simm/distributed-scope &quot;0.1.9&quot;]</title>
-    <link>https://clojars.org/is.simm/distributed-scope/versions/0.1.9</link>
-    <description>Distributed scope for transparent state synchronization in Clojure/ClojureScript</description>
-    <pubDate>Thu, 16 Jul 2026 02:39:12 +0000</pubDate>
   </item>
   </channel>
 </rss>
