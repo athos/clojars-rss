@@ -1,25 +1,3 @@
-{:created 1784192374353, :description "com.blockether/vis-foundation-mcp - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-mcp", :version "0.1.4"}
-{:created 1784192380653, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.4"}
-{:created 1784192386991, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.4"}
-{:created 1784192393412, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.4"}
-{:created 1784192399802, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.4"}
-{:created 1784192406988, :description "com.blockether/vis-language-typescript-bun - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-typescript-bun", :version "0.1.4"}
-{:created 1784192413898, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.4"}
-{:created 1784192420624, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.4"}
-{:created 1784192427206, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.4"}
-{:created 1784192433887, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.4"}
-{:created 1784192440545, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.4"}
-{:created 1784192447086, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.4"}
-{:created 1784192453717, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.4"}
-{:created 1784192460771, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.4"}
-{:created 1784193482677, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.5.0"}
-{:created 1784194058209, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.24"}
-{:created 1784195322867, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1733"}
-{:created 1784198897276, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "2.2.4"}
-{:created 1784201546233, :description "Fast serialization library for Clojure", :group_name "com.taoensso", :jar_name "nippy", :version "3.7.0-RC3"}
-{:created 1784205223093, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.108"}
-{:created 1784205263810, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.108"}
-{:created 1784206822321, :description "Embedded approximate-nearest-neighbor vector search for Clojure: an in-process ANN index.", :group_name "net.clojars.savya", :jar_name "vector-search-clj", :version "0.4.0"}
 {:created 1784208555861, :description "Parse Org-mode text into an AST (EDN data)", :group_name "org.clojars.bzg", :jar_name "organ", :version "3.2.0"}
 {:created 1784210583503, :description "Clojure bindings for the Rockbox DSP, metadata, and playback engine (Java FFM over the shared rockbox-ffi C ABI).", :group_name "io.github.tsirysndr", :jar_name "rockbox-clj-ffi", :version "0.5.1"}
 {:created 1784214721635, :description nil, :group_name "com.github.flow-storm", :jar_name "hansel", :version "0.1.92"}
@@ -254,3 +232,25 @@
 {:created 1784647551065, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.10.0"}
 {:created 1784647792483, :description nil, :group_name "net.clojars.savya", :jar_name "buddy-auth", :version "4.0.0"}
 {:created 1784648218308, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.11.0"}
+{:created 1784653408926, :description "Core Systems Libraries for clj-goog-workspace — shared auth and utilities.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-csl", :version "0.23.0"}
+{:created 1784653417108, :description "Clojure wrapper for the Google Drive API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-drive", :version "0.23.0"}
+{:created 1784653424978, :description "Clojure wrapper for the Gmail API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-gmail", :version "0.23.0"}
+{:created 1784653434277, :description "Clojure wrapper for the Google Sheets API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-sheets", :version "0.23.0"}
+{:created 1784653442188, :description "Clojure wrapper for the Google Meet API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-meet", :version "0.23.0"}
+{:created 1784653450089, :description "Clojure wrapper for the Google Forms API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-forms", :version "0.23.0"}
+{:created 1784653458642, :description "Clojure wrapper for the Google Calendar API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-calendar", :version "0.23.0"}
+{:created 1784653466551, :description "Clojure wrapper for the Google Docs API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-docs", :version "0.23.0"}
+{:created 1784653474335, :description "Clojure wrapper for the Google Admin SDK Directory API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-admin", :version "0.23.0"}
+{:created 1784653482171, :description "Clojure wrapper for the Google Tasks API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-tasks", :version "0.23.0"}
+{:created 1784653490095, :description "Clojure wrapper for the Google Classroom API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-classroom", :version "0.23.0"}
+{:created 1784653497991, :description "Clojure wrapper for the Google Keep API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-keep", :version "0.23.0"}
+{:created 1784653505880, :description "Clojure wrapper for the Google Vault API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-vault", :version "0.23.0"}
+{:created 1784653513803, :description "Clojure wrapper for the Google Chat API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-chat", :version "0.23.0"}
+{:created 1784653521773, :description "Clojure wrapper for the Google Slides API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-slides", :version "0.23.0"}
+{:created 1784653529942, :description "Clojure wrapper for the Google Admin SDK Reports API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-reports", :version "0.23.0"}
+{:created 1784653538332, :description "Clojure wrapper for the Google Apps Licensing API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-licensing", :version "0.23.0"}
+{:created 1784653546421, :description "Clojure wrapper for the Google Cloud Channel API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-cloudchannel", :version "0.23.0"}
+{:created 1784653554277, :description "Clojure wrapper for the Google Groups Settings API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-groupssettings", :version "0.23.0"}
+{:created 1784653562529, :description "Clojure wrapper for the Google Cloud Identity Groups API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-cloudidentity", :version "0.23.0"}
+{:created 1784653570795, :description "Clojure wrapper for the Google People API v1.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-people", :version "0.23.0"}
+{:created 1784654055446, :description "A Clojure-to-Emacs-Lisp compiler: analyzes Clojure-style source into an AST and emits Emacs Lisp, with a self-hosted runtime library.", :group_name "io.github.buddhilw", :jar_name "clojure-elisp", :version "0.6.2"}
