@@ -1,4 +1,3 @@
-{:created 1784365141974, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.1-alpha-41"}
 {:created 1784365226865, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.1-alpha-41"}
 {:created 1784365271028, :description "Model Context Protocol server for the Boundary framework (stdio transport)", :group_name "org.boundary-app", :jar_name "boundary-mcp", :version "1.0.1-alpha-41"}
 {:created 1784369607929, :description "Light-weight ClojureScript dialect", :group_name "io.github.squint-cljs", :jar_name "squint", :version "0.14.206"}
@@ -254,3 +253,4 @@
 {:created 1784752211600, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.21"}
 {:created 1784752224199, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.21"}
 {:created 1784753224159, :description "Utility functions for filling a Hiccup template stored in EDN format with data stored in a Clojure map", :group_name "nl.loudai", :jar_name "hiccup-templating", :version "0.2.0"}
+{:created 1784755885035, :description "Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.", :group_name "org.replikativ", :jar_name "kontor", :version "0.1.9"}
