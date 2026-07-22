@@ -1,6 +1,3 @@
-{:created 1784397266436, :description "ClojureScript completion toolkit providing static and dynamic code completion.", :group_name "org.rksm", :jar_name "suitable", :version "0.8.0"}
-{:created 1784399470153, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.10.0-1"}
-{:created 1784399538070, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.10.0-1"}
 {:created 1784399569927, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.10.0-1"}
 {:created 1784400049167, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.10.0-1"}
 {:created 1784400085869, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.10.0-1"}
@@ -254,3 +251,6 @@
 {:created 1784752224199, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.21"}
 {:created 1784753224159, :description "Utility functions for filling a Hiccup template stored in EDN format with data stored in a Clojure map", :group_name "nl.loudai", :jar_name "hiccup-templating", :version "0.2.0"}
 {:created 1784755885035, :description "Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.", :group_name "org.replikativ", :jar_name "kontor", :version "0.1.9"}
+{:created 1784761079664, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.74"}
+{:created 1784761642623, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.16.0"}
+{:created 1784761727543, :description "Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.", :group_name "org.replikativ", :jar_name "kontor", :version "0.1.11"}
