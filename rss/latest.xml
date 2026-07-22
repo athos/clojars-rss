@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 22 Jul 2026 20:21:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 21:22:04 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/nl.loudai/hiccup-templating/versions/0.2.0</guid>
+    <title>[nl.loudai/hiccup-templating &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/nl.loudai/hiccup-templating/versions/0.2.0</link>
+    <description>Utility functions for filling a Hiccup template stored in EDN format with data stored in a Clojure map</description>
+    <pubDate>Wed, 22 Jul 2026 20:47:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.12.3-blockether.21</guid>
+    <title>[com.blockether/tree-sitter-language-pack &quot;1.12.3-blockether.21&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.12.3-blockether.21</link>
+    <description>Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-&lt;rid&gt; jar for your platform&#39;s native library.</description>
+    <pubDate>Wed, 22 Jul 2026 20:30:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-windows-x86_64/versions/1.12.3-blockether.21</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-windows-x86_64 &quot;1.12.3-blockether.21&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-windows-x86_64/versions/1.12.3-blockether.21</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.</description>
+    <pubDate>Wed, 22 Jul 2026 20:30:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-x86_64/versions/1.12.3-blockether.21</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-macos-x86_64 &quot;1.12.3-blockether.21&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-x86_64/versions/1.12.3-blockether.21</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.</description>
+    <pubDate>Wed, 22 Jul 2026 20:30:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-arm64/versions/1.12.3-blockether.21</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-macos-arm64 &quot;1.12.3-blockether.21&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-arm64/versions/1.12.3-blockether.21</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.</description>
+    <pubDate>Wed, 22 Jul 2026 20:29:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-aarch64/versions/1.12.3-blockether.21</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-linux-aarch64 &quot;1.12.3-blockether.21&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-aarch64/versions/1.12.3-blockether.21</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.</description>
+    <pubDate>Wed, 22 Jul 2026 20:29:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.12.3-blockether.21</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-linux-x86_64 &quot;1.12.3-blockether.21&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.12.3-blockether.21</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.</description>
+    <pubDate>Wed, 22 Jul 2026 20:29:28 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/kontor/versions/0.1.8</guid>
     <title>[org.replikativ/kontor &quot;0.1.8&quot;]</title>
@@ -1750,55 +1799,6 @@
     <link>https://clojars.org/com.github.brettatoms/zodiac/versions/0.9.9999-SNAPSHOT</link>
     <description>A simple and extensible web framework for Clojure</description>
     <pubDate>Sat, 18 Jul 2026 17:15:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/babashka/versions/1.12.219-SNAPSHOT</guid>
-    <title>[babashka &quot;1.12.219-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/babashka/versions/1.12.219-SNAPSHOT</link>
-    <description>babashka</description>
-    <pubDate>Sat, 18 Jul 2026 14:01:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.lambdaisland/clj-slack/versions/0.3.150</guid>
-    <title>[com.lambdaisland/clj-slack &quot;0.3.150&quot;]</title>
-    <link>https://clojars.org/com.lambdaisland/clj-slack/versions/0.3.150</link>
-    <description>Slack toolbox</description>
-    <pubDate>Sat, 18 Jul 2026 11:52:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.300</guid>
-    <title>[org.replikativ/raster &quot;0.2.300&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.300</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sat, 18 Jul 2026 11:45:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.lambdaisland/makina/versions/0.8.37</guid>
-    <title>[com.lambdaisland/makina &quot;0.8.37&quot;]</title>
-    <link>https://clojars.org/com.lambdaisland/makina/versions/0.8.37</link>
-    <description>System/component lifecycle management</description>
-    <pubDate>Sat, 18 Jul 2026 11:19:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cider/cider-nrepl/versions/0.62.2</guid>
-    <title>[cider/cider-nrepl &quot;0.62.2&quot;]</title>
-    <link>https://clojars.org/cider/cider-nrepl/versions/0.62.2</link>
-    <description>A collection of nREPL middleware designed to enhance Clojure editors.</description>
-    <pubDate>Sat, 18 Jul 2026 11:03:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.299</guid>
-    <title>[org.replikativ/raster &quot;0.2.299&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.299</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sat, 18 Jul 2026 10:37:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.squint-cljs/squint/versions/0.14.206</guid>
-    <title>[io.github.squint-cljs/squint &quot;0.14.206&quot;]</title>
-    <link>https://clojars.org/io.github.squint-cljs/squint/versions/0.14.206</link>
-    <description>Light-weight ClojureScript dialect</description>
-    <pubDate>Sat, 18 Jul 2026 10:13:27 +0000</pubDate>
   </item>
   </channel>
 </rss>

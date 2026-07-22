@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 22 Jul 2026 20:21:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 21:22:04 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/nl.loudai/hiccup-templating/versions/0.2.0</guid>
+    <title>[nl.loudai/hiccup-templating &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/nl.loudai/hiccup-templating/versions/0.2.0</link>
+    <description>Utility functions for filling a Hiccup template stored in EDN format with data stored in a Clojure map</description>
+    <pubDate>Wed, 22 Jul 2026 20:47:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.12.3-blockether.21</guid>
+    <title>[com.blockether/tree-sitter-language-pack &quot;1.12.3-blockether.21&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.12.3-blockether.21</link>
+    <description>Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-&lt;rid&gt; jar for your platform&#39;s native library.</description>
+    <pubDate>Wed, 22 Jul 2026 20:30:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-windows-x86_64/versions/1.12.3-blockether.21</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-windows-x86_64 &quot;1.12.3-blockether.21&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-windows-x86_64/versions/1.12.3-blockether.21</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.</description>
+    <pubDate>Wed, 22 Jul 2026 20:30:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-x86_64/versions/1.12.3-blockether.21</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-macos-x86_64 &quot;1.12.3-blockether.21&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-x86_64/versions/1.12.3-blockether.21</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.</description>
+    <pubDate>Wed, 22 Jul 2026 20:30:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-arm64/versions/1.12.3-blockether.21</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-macos-arm64 &quot;1.12.3-blockether.21&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-arm64/versions/1.12.3-blockether.21</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.</description>
+    <pubDate>Wed, 22 Jul 2026 20:29:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-aarch64/versions/1.12.3-blockether.21</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-linux-aarch64 &quot;1.12.3-blockether.21&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-aarch64/versions/1.12.3-blockether.21</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.</description>
+    <pubDate>Wed, 22 Jul 2026 20:29:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.12.3-blockether.21</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-linux-x86_64 &quot;1.12.3-blockether.21&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.12.3-blockether.21</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.</description>
+    <pubDate>Wed, 22 Jul 2026 20:29:28 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/kontor/versions/0.1.8</guid>
     <title>[org.replikativ/kontor &quot;0.1.8&quot;]</title>
@@ -1750,55 +1799,6 @@
     <link>https://clojars.org/org.boundary-app/boundary-admin/versions/1.0.1-alpha-41</link>
     <description>Admin interface library for Boundary framework: auto-CRUD, schema introspection</description>
     <pubDate>Sat, 18 Jul 2026 08:59:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-ui-style/versions/1.0.1-alpha-41</guid>
-    <title>[org.boundary-app/boundary-ui-style &quot;1.0.1-alpha-41&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-ui-style/versions/1.0.1-alpha-41</link>
-    <description>Shared UI style library for Boundary framework: CSS/JS bundles and assets</description>
-    <pubDate>Sat, 18 Jul 2026 08:58:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-ai/versions/1.0.1-alpha-41</guid>
-    <title>[org.boundary-app/boundary-ai &quot;1.0.1-alpha-41&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-ai/versions/1.0.1-alpha-41</link>
-    <description>Multi-provider AI library for Boundary framework: Anthropic, OpenAI, Ollama</description>
-    <pubDate>Sat, 18 Jul 2026 08:57:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-41</guid>
-    <title>[org.boundary-app/boundary-calendar &quot;1.0.1-alpha-41&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-calendar/versions/1.0.1-alpha-41</link>
-    <description>Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components</description>
-    <pubDate>Sat, 18 Jul 2026 08:56:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-41</guid>
-    <title>[org.boundary-app/boundary-reports &quot;1.0.1-alpha-41&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-reports/versions/1.0.1-alpha-41</link>
-    <description>PDF and Excel report generation for Boundary framework: Hiccup templates, declarative sections, async via jobs module</description>
-    <pubDate>Sat, 18 Jul 2026 08:56:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-41</guid>
-    <title>[org.boundary-app/boundary-geo &quot;1.0.1-alpha-41&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-geo/versions/1.0.1-alpha-41</link>
-    <description>Geocoding abstraction for Boundary framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation</description>
-    <pubDate>Sat, 18 Jul 2026 08:55:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-41</guid>
-    <title>[org.boundary-app/boundary-payments &quot;1.0.1-alpha-41&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-payments/versions/1.0.1-alpha-41</link>
-    <description>PSP abstraction for Boundary framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
-    <pubDate>Sat, 18 Jul 2026 08:54:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-41</guid>
-    <title>[org.boundary-app/boundary-external &quot;1.0.1-alpha-41&quot;]</title>
-    <link>https://clojars.org/org.boundary-app/boundary-external/versions/1.0.1-alpha-41</link>
-    <description>External service adapters library for Boundary framework</description>
-    <pubDate>Sat, 18 Jul 2026 08:54:06 +0000</pubDate>
   </item>
   </channel>
 </rss>
