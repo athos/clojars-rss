@@ -1,6 +1,3 @@
-{:created 1784574401274, :description "A library to consistently crypto-hash edn data structures on Clojure and ClojureScript with SHA-512", :group_name "org.replikativ", :jar_name "hasch", :version "0.4.102"}
-{:created 1784574407413, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.9.11"}
-{:created 1784574528693, :description "The YS (YAMLScript) v0 standard library for Clojure runtimes.\n  Code compiled with `ys -T bb|clj|jolt|glj` runs on babashka, JVM\n  Clojure, jolt and glojure with this library on the classpath.", :group_name "org.yamlscript", :jar_name "ys.v0", :version "0.2.29"}
 {:created 1784574589674, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.2.29"}
 {:created 1784574905701, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1744"}
 {:created 1784577371525, :description "Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.", :group_name "org.replikativ", :jar_name "kontor", :version "0.1.3"}
@@ -254,3 +251,6 @@
 {:created 1784810689783, :description "boundary CLI — project generator and module installer", :group_name "org.boundary-app", :jar_name "boundary-cli", :version "1.0.0-beta-1"}
 {:created 1784810731378, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.0-beta-1"}
 {:created 1784810773524, :description "Model Context Protocol server for the Boundary framework (stdio transport)", :group_name "org.boundary-app", :jar_name "boundary-mcp", :version "1.0.0-beta-1"}
+{:created 1784815492370, :description "Official Clojure gRPC client for ScrivaDB — idiomatic maps and lazy seqs over the Java gRPC stubs.", :group_name "io.github.srjn45", :jar_name "scriva-client-clojure", :version "1.2.1"}
+{:created 1784816200789, :description "A Clojure wrapper for DBOS Transact durable execution.", :group_name "com.shipclojure", :jar_name "dbos-clj", :version "0.1.0"}
+{:created 1784816298809, :description "Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.", :group_name "net.clojars.savya", :jar_name "chunk-clj", :version "0.3.0"}
