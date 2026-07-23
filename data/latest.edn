@@ -1,24 +1,3 @@
-{:created 1784455708942, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.305"}
-{:created 1784456472329, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1743"}
-{:created 1784459784608, :description "Queryable, Datahike-backed version control with Git compatibility.", :group_name "org.replikativ", :jar_name "geschichte", :version "0.1.3"}
-{:created 1784461191644, :description "Queryable, Datahike-backed version control with Git compatibility.", :group_name "org.replikativ", :jar_name "geschichte", :version "0.1.5"}
-{:created 1784462785057, :description nil, :group_name "fm.atradio", :jar_name "sdk", :version "0.1.2"}
-{:created 1784463970337, :description "Simple Bloom Filter", :group_name "blossom", :jar_name "blossom", :version "2.0.0"}
-{:created 1784464793247, :description "One Time Password (TOTP and HOTP) library for Clojure. TOTP/HOTP is widely used for Two factor / Multi Factor Authentication.", :group_name "one-time", :jar_name "one-time", :version "0.9.0"}
-{:created 1784475330862, :description "A small Clojure TCP server", :group_name "dev.weavejester", :jar_name "teensyp", :version "0.8.2"}
-{:created 1784476044179, :description "MCP Server for Academic Research & Literature Review", :group_name "org.clojars.punit-naik", :jar_name "scholarly-mcp", :version "0.1.2"}
-{:created 1784478929415, :description nil, :group_name "com.omarpolo", :jar_name "gemtext", :version "0.1.10"}
-{:created 1784484608859, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.63"}
-{:created 1784488387661, :description "Queryable, Datahike-backed version control with Git compatibility.", :group_name "org.replikativ", :jar_name "geschichte", :version "0.1.8"}
-{:created 1784488821888, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.18"}
-{:created 1784488832116, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.18"}
-{:created 1784488842262, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.18"}
-{:created 1784488852601, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.18"}
-{:created 1784488863063, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.18"}
-{:created 1784488875649, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.18"}
-{:created 1784489440816, :description "Queryable, Datahike-backed version control with Git compatibility.", :group_name "org.replikativ", :jar_name "geschichte", :version "0.1.9"}
-{:created 1784492115610, :description "Build your jank projects using Leiningen.", :group_name "org.jank-lang", :jar_name "lein-jank", :version "2026.07-1"}
-{:created 1784492143906, :description "", :group_name "org.jank-lang", :jar_name "lein-template.jank", :version "2026.07-1"}
 {:created 1784501800416, :description "MCP Server for Academic Research & Literature Review", :group_name "org.clojars.punit-naik", :jar_name "scholarly-mcp", :version "0.2.0"}
 {:created 1784508981150, :description "A Ring Adapter written in Clojure", :group_name "dev.weavejester", :jar_name "capra", :version "0.1.2"}
 {:created 1784511017572, :description nil, :group_name "io.github.supabase-community", :jar_name "auth", :version "0.4.0"}
@@ -251,6 +230,27 @@
 {:created 1784774384734, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "0.1.8"}
 {:created 1784774537184, :description "Rephrase exceptions.", :group_name "org.corfield", :jar_name "rephrase", :version "1.0.4-SNAPSHOT"}
 {:created 1784774780565, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
-{:created 1784774788192, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
 {:created 1784775433927, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.116"}
 {:created 1784775484717, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.116"}
+{:created 1784775570937, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
+{:created 1784775698257, :description nil, :group_name "io.github.hive-agi", :jar_name "basic-tools-mcp", :version "0.3.7"}
+{:created 1784775755369, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-depsolve", :version "0.4.9"}
+{:created 1784775766199, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-claude", :version "0.1.10"}
+{:created 1784775774002, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cppb", :version "0.1.4"}
+{:created 1784775778453, :description nil, :group_name "io.github.unisoma", :jar_name "ag-grid-cljs", :version "0.1.0-SNAPSHOT"}
+{:created 1784775783173, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-emacs-hagent", :version "0.2.4"}
+{:created 1784775798396, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-hot", :version "0.1.5"}
+{:created 1784775804022, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-overarch", :version "0.1.3"}
+{:created 1784775806709, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-events", :version "0.5.6"}
+{:created 1784775810499, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-dsl", :version "0.5.7"}
+{:created 1784775816074, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-qdrant", :version "0.1.6"}
+{:created 1784775816273, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-proximum", :version "0.1.8"}
+{:created 1784775829993, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-recife", :version "0.1.4"}
+{:created 1784775830194, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-schemas", :version "0.1.10"}
+{:created 1784775833979, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-system", :version "0.2.11"}
+{:created 1784775846781, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-ttracking", :version "0.1.8"}
+{:created 1784775855206, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-test", :version "0.3.10"}
+{:created 1784775858542, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "0.1.9"}
+{:created 1784775863969, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-weave", :version "0.2.9"}
+{:created 1784779083532, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "wire-core", :version "4.2.1"}
+{:created 1784779088810, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "wire", :version "4.2.1"}
