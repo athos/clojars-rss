@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 23 Jul 2026 18:23:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 19:27:40 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/kontor/versions/0.1.23</guid>
+    <title>[org.replikativ/kontor &quot;0.1.23&quot;]</title>
+    <link>https://clojars.org/org.replikativ/kontor/versions/0.1.23</link>
+    <description>Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.</description>
+    <pubDate>Thu, 23 Jul 2026 19:02:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.slifin/clj-libui-declarative/versions/0.3.0</guid>
+    <title>[io.github.slifin/clj-libui-declarative &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/io.github.slifin/clj-libui-declarative/versions/0.3.0</link>
+    <description>Declarative Missionary-powered Clojure UI over clj-libui and libui-ng</description>
+    <pubDate>Thu, 23 Jul 2026 18:24:05 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.slifin/clj-libui/versions/0.3.0</guid>
     <title>[io.github.slifin/clj-libui &quot;0.3.0&quot;]</title>
@@ -1782,20 +1796,6 @@
     <link>https://clojars.org/com.blockether/bridge/versions/0.2.1</link>
     <description>bridge — evidence-driven change &amp; spec-traceability toolkit (CLI + library).</description>
     <pubDate>Tue, 21 Jul 2026 08:39:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.danielsz/beeld/versions/1.1.7</guid>
-    <title>[com.github.danielsz/beeld &quot;1.1.7&quot;]</title>
-    <link>https://clojars.org/com.github.danielsz/beeld/versions/1.1.7</link>
-    <description></description>
-    <pubDate>Tue, 21 Jul 2026 07:04:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.35</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.35&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.35</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage: inline image rendering (Kitty graphics protocol / iTerm2), terminal graphics-capability detection (isGraphicalTerminal), intrinsic pixel-dimension sniffing and aspect-preserving cell-box sizing, plus Kitty source-rectangle cropping (encodeKitty crop overload / transcodePng) so an image scrolled partly past the transcript&#39;s top or bottom edge renders its visible slice at native scale instead of vanishing. Superset of com.googlecode.lanterna:lanterna:3.1.5 - same packages and classes, one added package. Retire the width/emoji patches when upstream ships equivalent fixes; the image API is Blockether-original.</description>
-    <pubDate>Tue, 21 Jul 2026 07:02:51 +0000</pubDate>
   </item>
   </channel>
 </rss>
