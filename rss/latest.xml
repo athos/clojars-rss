@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 23 Jul 2026 06:59:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 07:52:55 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/kontor/versions/0.1.17</guid>
+    <title>[org.replikativ/kontor &quot;0.1.17&quot;]</title>
+    <link>https://clojars.org/org.replikativ/kontor/versions/0.1.17</link>
+    <description>Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.</description>
+    <pubDate>Thu, 23 Jul 2026 07:25:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/app.rocksky/sdk/versions/0.6.0-SNAPSHOT</guid>
+    <title>[app.rocksky/sdk &quot;0.6.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/app.rocksky/sdk/versions/0.6.0-SNAPSHOT</link>
+    <description>Clojure SDK for Rocksky — native bindings to the shared Rust core: AppView reads, AT Protocol PDS writes, and identity hashes.</description>
+    <pubDate>Thu, 23 Jul 2026 07:24:33 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.core0/prism/versions/2.1.26-SNAPSHOT</guid>
     <title>[io.core0/prism &quot;2.1.26-SNAPSHOT&quot;]</title>
@@ -1785,20 +1799,6 @@
     <link>https://clojars.org/com.timezynk/domus/versions/2.5.5</link>
     <description>MongoDB utilities</description>
     <pubDate>Mon, 20 Jul 2026 10:48:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.34</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.34&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.34</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage: inline image rendering (Kitty graphics protocol / iTerm2), terminal graphics-capability detection (isGraphicalTerminal), intrinsic pixel-dimension sniffing and aspect-preserving cell-box sizing. Superset of com.googlecode.lanterna:lanterna:3.1.5 - same packages and classes, one added package. Retire the width/emoji patches when upstream ships equivalent fixes; the image API is Blockether-original.</description>
-    <pubDate>Mon, 20 Jul 2026 10:42:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tech.gojek/ziggurat/versions/4.13.0</guid>
-    <title>[tech.gojek/ziggurat &quot;4.13.0&quot;]</title>
-    <link>https://clojars.org/tech.gojek/ziggurat/versions/4.13.0</link>
-    <description>A stream processing framework to build stateless applications on kafka</description>
-    <pubDate>Mon, 20 Jul 2026 07:12:55 +0000</pubDate>
   </item>
   </channel>
 </rss>
