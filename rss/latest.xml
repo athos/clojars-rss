@@ -4,7 +4,63 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 23 Jul 2026 09:45:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 10:41:54 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.avanelsas/barebuild/versions/0.1.0</guid>
+    <title>[com.github.avanelsas/barebuild &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.github.avanelsas/barebuild/versions/0.1.0</link>
+    <description>Server-resource runtime for BareDOM — drives presentational web components from server state without client-side business logic. Reads and writes.</description>
+    <pubDate>Thu, 23 Jul 2026 10:26:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.12.3-blockether.22</guid>
+    <title>[com.blockether/tree-sitter-language-pack &quot;1.12.3-blockether.22&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.12.3-blockether.22</link>
+    <description>Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-&lt;rid&gt; jar for your platform&#39;s native library.</description>
+    <pubDate>Thu, 23 Jul 2026 09:54:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-windows-x86_64/versions/1.12.3-blockether.22</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-windows-x86_64 &quot;1.12.3-blockether.22&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-windows-x86_64/versions/1.12.3-blockether.22</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.</description>
+    <pubDate>Thu, 23 Jul 2026 09:54:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-x86_64/versions/1.12.3-blockether.22</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-macos-x86_64 &quot;1.12.3-blockether.22&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-x86_64/versions/1.12.3-blockether.22</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.</description>
+    <pubDate>Thu, 23 Jul 2026 09:54:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-arm64/versions/1.12.3-blockether.22</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-macos-arm64 &quot;1.12.3-blockether.22&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-arm64/versions/1.12.3-blockether.22</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.</description>
+    <pubDate>Thu, 23 Jul 2026 09:54:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-aarch64/versions/1.12.3-blockether.22</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-linux-aarch64 &quot;1.12.3-blockether.22&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-aarch64/versions/1.12.3-blockether.22</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.</description>
+    <pubDate>Thu, 23 Jul 2026 09:53:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.12.3-blockether.22</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-linux-x86_64 &quot;1.12.3-blockether.22&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.12.3-blockether.22</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.</description>
+    <pubDate>Thu, 23 Jul 2026 09:53:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/kontor/versions/0.1.20</guid>
+    <title>[org.replikativ/kontor &quot;0.1.20&quot;]</title>
+    <link>https://clojars.org/org.replikativ/kontor/versions/0.1.20</link>
+    <description>Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.</description>
+    <pubDate>Thu, 23 Jul 2026 09:52:54 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.babashka/cli/versions/0.12.78</guid>
     <title>[org.babashka/cli &quot;0.12.78&quot;]</title>
@@ -1743,62 +1799,6 @@
     <link>https://clojars.org/org.replikativ/konserve/versions/0.9.363</link>
     <description>Durable cross-platform key-value store protocol with core.async.</description>
     <pubDate>Mon, 20 Jul 2026 18:46:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.pkpkpk/fress/versions/0.4.317</guid>
-    <title>[com.github.pkpkpk/fress &quot;0.4.317&quot;]</title>
-    <link>https://clojars.org/com.github.pkpkpk/fress/versions/0.4.317</link>
-    <description></description>
-    <pubDate>Mon, 20 Jul 2026 18:08:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/jepsen/versions/0.3.12</guid>
-    <title>[jepsen &quot;0.3.12&quot;]</title>
-    <link>https://clojars.org/jepsen/versions/0.3.12</link>
-    <description>Distributed systems testing framework.</description>
-    <pubDate>Mon, 20 Jul 2026 17:47:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.roklenarcic/mcp-server/versions/0.3.59</guid>
-    <title>[org.clojars.roklenarcic/mcp-server &quot;0.3.59&quot;]</title>
-    <link>https://clojars.org/org.clojars.roklenarcic/mcp-server/versions/0.3.59</link>
-    <description>A Clojure library for Model Context Protocol Servers</description>
-    <pubDate>Mon, 20 Jul 2026 17:28:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.unisoma/mantine-ui-wrapper/versions/9.4.1.0-SNAPSHOT</guid>
-    <title>[io.github.unisoma/mantine-ui-wrapper &quot;9.4.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/io.github.unisoma/mantine-ui-wrapper/versions/9.4.1.0-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Mon, 20 Jul 2026 17:08:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.tonsky/clj-simple-stats/versions/1.3.0</guid>
-    <title>[io.github.tonsky/clj-simple-stats &quot;1.3.0&quot;]</title>
-    <link>https://clojars.org/io.github.tonsky/clj-simple-stats/versions/1.3.0</link>
-    <description>Simple statistics for Clojure/Ring web apps</description>
-    <pubDate>Mon, 20 Jul 2026 15:55:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/ssl-utils/versions/3.7.0</guid>
-    <title>[org.openvoxproject/ssl-utils &quot;3.7.0&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/ssl-utils/versions/3.7.0</link>
-    <description>SSL certificate management on the JVM.</description>
-    <pubDate>Mon, 20 Jul 2026 15:44:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.tianwei/rewords-site-kit/versions/0.1.1</guid>
-    <title>[net.clojars.tianwei/rewords-site-kit &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/net.clojars.tianwei/rewords-site-kit/versions/0.1.1</link>
-    <description>Small URL helpers for ReWords AI, an AI image text editor for photos and screenshots.</description>
-    <pubDate>Mon, 20 Jul 2026 14:00:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-addon/versions/0.3.1</guid>
-    <title>[io.github.hive-agi/hive-addon &quot;0.3.1&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-addon/versions/0.3.1</link>
-    <description></description>
-    <pubDate>Mon, 20 Jul 2026 13:58:57 +0000</pubDate>
   </item>
   </channel>
 </rss>

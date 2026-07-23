@@ -4,7 +4,63 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 23 Jul 2026 09:45:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 10:41:54 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.avanelsas/barebuild/versions/0.1.0</guid>
+    <title>[com.github.avanelsas/barebuild &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.github.avanelsas/barebuild/versions/0.1.0</link>
+    <description>Server-resource runtime for BareDOM — drives presentational web components from server state without client-side business logic. Reads and writes.</description>
+    <pubDate>Thu, 23 Jul 2026 10:26:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.12.3-blockether.22</guid>
+    <title>[com.blockether/tree-sitter-language-pack &quot;1.12.3-blockether.22&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.12.3-blockether.22</link>
+    <description>Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-&lt;rid&gt; jar for your platform&#39;s native library.</description>
+    <pubDate>Thu, 23 Jul 2026 09:54:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-windows-x86_64/versions/1.12.3-blockether.22</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-windows-x86_64 &quot;1.12.3-blockether.22&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-windows-x86_64/versions/1.12.3-blockether.22</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.</description>
+    <pubDate>Thu, 23 Jul 2026 09:54:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-x86_64/versions/1.12.3-blockether.22</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-macos-x86_64 &quot;1.12.3-blockether.22&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-x86_64/versions/1.12.3-blockether.22</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.</description>
+    <pubDate>Thu, 23 Jul 2026 09:54:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-arm64/versions/1.12.3-blockether.22</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-macos-arm64 &quot;1.12.3-blockether.22&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-arm64/versions/1.12.3-blockether.22</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.</description>
+    <pubDate>Thu, 23 Jul 2026 09:54:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-aarch64/versions/1.12.3-blockether.22</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-linux-aarch64 &quot;1.12.3-blockether.22&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-aarch64/versions/1.12.3-blockether.22</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.</description>
+    <pubDate>Thu, 23 Jul 2026 09:53:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.12.3-blockether.22</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-linux-x86_64 &quot;1.12.3-blockether.22&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.12.3-blockether.22</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.</description>
+    <pubDate>Thu, 23 Jul 2026 09:53:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/kontor/versions/0.1.20</guid>
+    <title>[org.replikativ/kontor &quot;0.1.20&quot;]</title>
+    <link>https://clojars.org/org.replikativ/kontor/versions/0.1.20</link>
+    <description>Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.</description>
+    <pubDate>Thu, 23 Jul 2026 09:52:54 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.babashka/cli/versions/0.12.78</guid>
     <title>[org.babashka/cli &quot;0.12.78&quot;]</title>
@@ -1743,62 +1799,6 @@
     <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.34</link>
     <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage: inline image rendering (Kitty graphics protocol / iTerm2), terminal graphics-capability detection (isGraphicalTerminal), intrinsic pixel-dimension sniffing and aspect-preserving cell-box sizing. Superset of com.googlecode.lanterna:lanterna:3.1.5 - same packages and classes, one added package. Retire the width/emoji patches when upstream ships equivalent fixes; the image API is Blockether-original.</description>
     <pubDate>Mon, 20 Jul 2026 10:42:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tech.gojek/ziggurat/versions/4.13.0</guid>
-    <title>[tech.gojek/ziggurat &quot;4.13.0&quot;]</title>
-    <link>https://clojars.org/tech.gojek/ziggurat/versions/4.13.0</link>
-    <description>A stream processing framework to build stateless applications on kafka</description>
-    <pubDate>Mon, 20 Jul 2026 07:12:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.sipmann/common-pg-queue/versions/0.0.12</guid>
-    <title>[com.github.sipmann/common-pg-queue &quot;0.0.12&quot;]</title>
-    <link>https://clojars.org/com.github.sipmann/common-pg-queue/versions/0.0.12</link>
-    <description></description>
-    <pubDate>Mon, 20 Jul 2026 04:36:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.supabase-community/auth/versions/0.4.0</guid>
-    <title>[io.github.supabase-community/auth &quot;0.4.0&quot;]</title>
-    <link>https://clojars.org/io.github.supabase-community/auth/versions/0.4.0</link>
-    <description></description>
-    <pubDate>Mon, 20 Jul 2026 01:30:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.weavejester/capra/versions/0.1.2</guid>
-    <title>[dev.weavejester/capra &quot;0.1.2&quot;]</title>
-    <link>https://clojars.org/dev.weavejester/capra/versions/0.1.2</link>
-    <description>A Ring Adapter written in Clojure</description>
-    <pubDate>Mon, 20 Jul 2026 00:56:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.punit-naik/scholarly-mcp/versions/0.2.0</guid>
-    <title>[org.clojars.punit-naik/scholarly-mcp &quot;0.2.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.punit-naik/scholarly-mcp/versions/0.2.0</link>
-    <description>MCP Server for Academic Research &amp; Literature Review</description>
-    <pubDate>Sun, 19 Jul 2026 22:56:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang/lein-template.jank/versions/2026.07-1</guid>
-    <title>[org.jank-lang/lein-template.jank &quot;2026.07-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang/lein-template.jank/versions/2026.07-1</link>
-    <description></description>
-    <pubDate>Sun, 19 Jul 2026 20:15:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang/lein-jank/versions/2026.07-1</guid>
-    <title>[org.jank-lang/lein-jank &quot;2026.07-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang/lein-jank/versions/2026.07-1</link>
-    <description>Build your jank projects using Leiningen.</description>
-    <pubDate>Sun, 19 Jul 2026 20:15:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/geschichte/versions/0.1.9</guid>
-    <title>[org.replikativ/geschichte &quot;0.1.9&quot;]</title>
-    <link>https://clojars.org/org.replikativ/geschichte/versions/0.1.9</link>
-    <description>Queryable, Datahike-backed version control with Git compatibility.</description>
-    <pubDate>Sun, 19 Jul 2026 19:30:40 +0000</pubDate>
   </item>
   </channel>
 </rss>
