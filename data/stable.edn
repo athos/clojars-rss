@@ -1,13 +1,3 @@
-{:created 1784574589674, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.2.29"}
-{:created 1784574905701, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1744"}
-{:created 1784577371525, :description "Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.", :group_name "org.replikativ", :jar_name "kontor", :version "0.1.3"}
-{:created 1784577650938, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.67"}
-{:created 1784580300268, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.109"}
-{:created 1784580341811, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.1.109"}
-{:created 1784580692875, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.6"}
-{:created 1784581547841, :description nil, :group_name "com.github.gateless", :jar_name "clara-rules", :version "1.6.8"}
-{:created 1784584737756, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1745"}
-{:created 1784588832086, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1746"}
 {:created 1784590262235, :description "Queryable, Datahike-backed version control with Git compatibility.", :group_name "org.replikativ", :jar_name "geschichte", :version "0.1.10"}
 {:created 1784591819716, :description "Trapperkeeper authorization system", :group_name "org.openvoxproject", :jar_name "trapperkeeper-authorization", :version "2.4.0"}
 {:created 1784594740289, :description nil, :group_name "com.github.sipmann", :jar_name "common-pg-queue", :version "0.0.14"}
@@ -254,3 +244,13 @@
 {:created 1784815492370, :description "Official Clojure gRPC client for ScrivaDB — idiomatic maps and lazy seqs over the Java gRPC stubs.", :group_name "io.github.srjn45", :jar_name "scriva-client-clojure", :version "1.2.1"}
 {:created 1784816200789, :description "A Clojure wrapper for DBOS Transact durable execution.", :group_name "com.shipclojure", :jar_name "dbos-clj", :version "0.1.0"}
 {:created 1784816298809, :description "Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.", :group_name "net.clojars.savya", :jar_name "chunk-clj", :version "0.3.0"}
+{:created 1784824415591, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "2.4.0"}
+{:created 1784824657791, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.76"}
+{:created 1784825143234, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-missionary", :version "0.2.23"}
+{:created 1784826448734, :description "Declarative Missionary-powered Clojure UI over clj-libui and libui-ng", :group_name "io.github.slifin", :jar_name "clj-libui-declarative", :version "0.1.0"}
+{:created 1784827476710, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-macos-universal", :version "0.2.0"}
+{:created 1784827486178, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-linux-x86-64", :version "0.2.0"}
+{:created 1784827495671, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-linux-aarch64", :version "0.2.0"}
+{:created 1784827505074, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-windows-x86-64", :version "0.2.0"}
+{:created 1784827514323, :description "Platform native dependencies for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-platform", :version "0.2.0"}
+{:created 1784827523683, :description "Clojure bindings for the libui-ng native GUI library", :group_name "io.github.slifin", :jar_name "clj-libui", :version "0.2.0"}
