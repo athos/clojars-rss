@@ -1,10 +1,3 @@
-{:created 1784696171766, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.12.1"}
-{:created 1784699172335, :description "Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.", :group_name "org.replikativ", :jar_name "kontor", :version "0.1.5"}
-{:created 1784703673947, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.0-rc9"}
-{:created 1784703693126, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.0-rc9"}
-{:created 1784703713086, :description nil, :group_name "com.biffweb", :jar_name "fx", :version "2.0.0-rc9"}
-{:created 1784703734501, :description nil, :group_name "com.biffweb", :jar_name "graph", :version "2.0.0-rc9"}
-{:created 1784703754748, :description nil, :group_name "com.biffweb", :jar_name "sqlite", :version "2.0.0-rc9"}
 {:created 1784703775343, :description nil, :group_name "com.biffweb", :jar_name "xtdb", :version "2.0.0-rc9"}
 {:created 1784706118568, :description "Clojure SDK for Rocksky — native bindings to the shared Rust core: AppView reads, AT Protocol PDS writes, and identity hashes.", :group_name "app.rocksky", :jar_name "sdk", :version "0.4.0-SNAPSHOT"}
 {:created 1784707527826, :description "Clojure SDK for Rocksky — native bindings to the shared Rust core: AppView reads, AT Protocol PDS writes, and identity hashes.", :group_name "app.rocksky", :jar_name "sdk", :version "0.4.1-SNAPSHOT"}
@@ -219,7 +212,6 @@
 {:created 1784839525416, :description "Declarative Missionary-powered Clojure UI over clj-libui and libui-ng", :group_name "io.github.slifin", :jar_name "clj-libui-declarative", :version "0.4.1"}
 {:created 1784839626400, :description "Schemaless, low-alloc binary serialization for Clojure (JDK 25 FFM).", :group_name "com.s-exp", :jar_name "hako", :version "1.0.0-alpha19"}
 {:created 1784841399617, :description "Turn Clojure functions into CLIs!", :group_name "org.babashka", :jar_name "cli", :version "0.12.80"}
-{:created 1784843628327, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.05.26-SNAPSHOT"}
 {:created 1784845737409, :description "Turn Clojure functions into CLIs!", :group_name "org.babashka", :jar_name "cli", :version "0.12.81"}
 {:created 1784851163123, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-bybit", :version "0.1.14"}
 {:created 1784851239910, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-asset", :version "0.1.4"}
@@ -254,3 +246,11 @@
 {:created 1784884503822, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.23"}
 {:created 1784885096505, :description "Clojure SDK for Rocksky — native bindings to the shared Rust core: AppView reads, AT Protocol PDS writes, and identity hashes.", :group_name "app.rocksky", :jar_name "sdk", :version "0.7.0-SNAPSHOT"}
 {:created 1784886273020, :description "A library for working with JRuby", :group_name "org.openvoxproject", :jar_name "jruby-utils", :version "7.0.0"}
+{:created 1784887079970, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.25"}
+{:created 1784887089410, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.25"}
+{:created 1784887098379, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.25"}
+{:created 1784887107879, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.25"}
+{:created 1784887117590, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.25"}
+{:created 1784887128076, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.25"}
+{:created 1784887710066, :description "Clojure dev process launcher", :group_name "com.lambdaisland", :jar_name "launchpad", :version "0.54.242-alpha"}
+{:created 1784888421938, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.05.26-SNAPSHOT"}
