@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 24 Jul 2026 20:27:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 21:21:12 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/stowaway/versions/0.2.15</guid>
+    <title>[stowaway &quot;0.2.15&quot;]</title>
+    <link>https://clojars.org/stowaway/versions/0.2.15</link>
+    <description>Library for abstracting data storage from business logic</description>
+    <pubDate>Fri, 24 Jul 2026 21:16:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.avanelsas/barebuild/versions/0.2.0</guid>
+    <title>[com.github.avanelsas/barebuild &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/com.github.avanelsas/barebuild/versions/0.2.0</link>
+    <description>Server-resource runtime for BareDOM — drives presentational web components from server state without client-side business logic. Reads and writes.</description>
+    <pubDate>Fri, 24 Jul 2026 21:13:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/kontor/versions/0.1.29</guid>
+    <title>[org.replikativ/kontor &quot;0.1.29&quot;]</title>
+    <link>https://clojars.org/org.replikativ/kontor/versions/0.1.29</link>
+    <description>Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.</description>
+    <pubDate>Fri, 24 Jul 2026 21:07:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.avanelsas/baredom/versions/3.5.0</guid>
+    <title>[com.github.avanelsas/baredom &quot;3.5.0&quot;]</title>
+    <link>https://clojars.org/com.github.avanelsas/baredom/versions/3.5.0</link>
+    <description>80 native Web Components with centralised theming — stateless, framework-free, zero runtime. Built with ClojureScript, compiled to tree-shakeable ESM.</description>
+    <pubDate>Fri, 24 Jul 2026 21:01:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gethop/pubsub/versions/0.4.3</guid>
+    <title>[dev.gethop/pubsub &quot;0.4.3&quot;]</title>
+    <link>https://clojars.org/dev.gethop/pubsub/versions/0.4.3</link>
+    <description>Duct + Integrant library wrapping MQTT &amp; AQMP publish/subcribe clients with a common boundary protocol</description>
+    <pubDate>Fri, 24 Jul 2026 20:55:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.seancorfield/honeysql/versions/2.7.9999-SNAPSHOT</guid>
+    <title>[com.github.seancorfield/honeysql &quot;2.7.9999-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.seancorfield/honeysql/versions/2.7.9999-SNAPSHOT</link>
+    <description>SQL as Clojure data structures.</description>
+    <pubDate>Fri, 24 Jul 2026 20:50:23 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.19.0</guid>
     <title>[net.clojars.savya/anthropic-clj &quot;0.19.0&quot;]</title>
@@ -1077,13 +1119,6 @@
     <pubDate>Thu, 23 Jul 2026 02:57:13 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/com.github.seancorfield/honeysql/versions/2.7.9999-SNAPSHOT</guid>
-    <title>[com.github.seancorfield/honeysql &quot;2.7.9999-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.seancorfield/honeysql/versions/2.7.9999-SNAPSHOT</link>
-    <description>SQL as Clojure data structures.</description>
-    <pubDate>Thu, 23 Jul 2026 02:46:20 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/org.corfield/rephrase/versions/1.0.4-SNAPSHOT</guid>
     <title>[org.corfield/rephrase &quot;1.0.4-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/org.corfield/rephrase/versions/1.0.4-SNAPSHOT</link>
@@ -1761,41 +1796,6 @@
     <link>https://clojars.org/io.velio/collet-action-jdbc/versions/0.2.8</link>
     <description>JDBC actions for Collet</description>
     <pubDate>Wed, 22 Jul 2026 14:33:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.velio/collet-action-http/versions/0.2.8</guid>
-    <title>[io.velio/collet-action-http &quot;0.2.8&quot;]</title>
-    <link>https://clojars.org/io.velio/collet-action-http/versions/0.2.8</link>
-    <description>HTTP actions for Collet</description>
-    <pubDate>Wed, 22 Jul 2026 14:33:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.velio/collet-core/versions/0.2.8</guid>
-    <title>[io.velio/collet-core &quot;0.2.8&quot;]</title>
-    <link>https://clojars.org/io.velio/collet-core/versions/0.2.8</link>
-    <description>Collet workflow engine core</description>
-    <pubDate>Wed, 22 Jul 2026 14:33:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/rift/versions/0.0.10-6</guid>
-    <title>[com.blockether/rift &quot;0.0.10-6&quot;]</title>
-    <link>https://clojars.org/com.blockether/rift/versions/0.0.10-6</link>
-    <description>Clojure binding to rift — copy-on-write workspaces — via the JDK Foreign Function &amp; Memory API.</description>
-    <pubDate>Wed, 22 Jul 2026 14:19:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/rift-native-darwin-x64/versions/0.0.10-6</guid>
-    <title>[com.blockether/rift-native-darwin-x64 &quot;0.0.10-6&quot;]</title>
-    <link>https://clojars.org/com.blockether/rift-native-darwin-x64/versions/0.0.10-6</link>
-    <description>Native rift-ffi library for darwin-x64.</description>
-    <pubDate>Wed, 22 Jul 2026 14:19:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/rift-native-darwin-arm64/versions/0.0.10-6</guid>
-    <title>[com.blockether/rift-native-darwin-arm64 &quot;0.0.10-6&quot;]</title>
-    <link>https://clojars.org/com.blockether/rift-native-darwin-arm64/versions/0.0.10-6</link>
-    <description>Native rift-ffi library for darwin-arm64.</description>
-    <pubDate>Wed, 22 Jul 2026 14:19:19 +0000</pubDate>
   </item>
   </channel>
 </rss>
