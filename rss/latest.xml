@@ -4,7 +4,63 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 24 Jul 2026 08:48:24 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 09:44:40 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/jruby-utils/versions/7.0.0</guid>
+    <title>[org.openvoxproject/jruby-utils &quot;7.0.0&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/jruby-utils/versions/7.0.0</link>
+    <description>A library for working with JRuby</description>
+    <pubDate>Fri, 24 Jul 2026 09:44:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/app.rocksky/sdk/versions/0.7.0-SNAPSHOT</guid>
+    <title>[app.rocksky/sdk &quot;0.7.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/app.rocksky/sdk/versions/0.7.0-SNAPSHOT</link>
+    <description>Clojure SDK for Rocksky — native bindings to the shared Rust core: AppView reads, AT Protocol PDS writes, and identity hashes.</description>
+    <pubDate>Fri, 24 Jul 2026 09:24:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.12.3-blockether.23</guid>
+    <title>[com.blockether/tree-sitter-language-pack &quot;1.12.3-blockether.23&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack/versions/1.12.3-blockether.23</link>
+    <description>Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-&lt;rid&gt; jar for your platform&#39;s native library.</description>
+    <pubDate>Fri, 24 Jul 2026 09:15:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-windows-x86_64/versions/1.12.3-blockether.23</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-windows-x86_64 &quot;1.12.3-blockether.23&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-windows-x86_64/versions/1.12.3-blockether.23</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.</description>
+    <pubDate>Fri, 24 Jul 2026 09:14:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-x86_64/versions/1.12.3-blockether.23</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-macos-x86_64 &quot;1.12.3-blockether.23&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-x86_64/versions/1.12.3-blockether.23</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.</description>
+    <pubDate>Fri, 24 Jul 2026 09:14:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-arm64/versions/1.12.3-blockether.23</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-macos-arm64 &quot;1.12.3-blockether.23&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-macos-arm64/versions/1.12.3-blockether.23</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.</description>
+    <pubDate>Fri, 24 Jul 2026 09:14:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-aarch64/versions/1.12.3-blockether.23</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-linux-aarch64 &quot;1.12.3-blockether.23&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-aarch64/versions/1.12.3-blockether.23</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.</description>
+    <pubDate>Fri, 24 Jul 2026 09:14:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.12.3-blockether.23</guid>
+    <title>[com.blockether/tree-sitter-language-pack-native-linux-x86_64 &quot;1.12.3-blockether.23&quot;]</title>
+    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.12.3-blockether.23</link>
+    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.</description>
+    <pubDate>Fri, 24 Jul 2026 09:14:02 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.openvoxproject/jruby-deps/versions/10.1.1.0-1</guid>
     <title>[org.openvoxproject/jruby-deps &quot;10.1.1.0-1&quot;]</title>
@@ -1740,62 +1796,6 @@
     <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.12.1</link>
     <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
     <pubDate>Wed, 22 Jul 2026 04:56:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.12.0</guid>
-    <title>[net.clojars.savya/openai-clj &quot;0.12.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.12.0</link>
-    <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
-    <pubDate>Wed, 22 Jul 2026 03:41:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.14.1</guid>
-    <title>[net.clojars.savya/anthropic-clj &quot;0.14.1&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.14.1</link>
-    <description>Idiomatic Clojure wrapper over the official Anthropic Java SDK</description>
-    <pubDate>Wed, 22 Jul 2026 03:22:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.gateless/futurama/versions/1.4.7</guid>
-    <title>[com.github.gateless/futurama &quot;1.4.7&quot;]</title>
-    <link>https://clojars.org/com.github.gateless/futurama/versions/1.4.7</link>
-    <description></description>
-    <pubDate>Wed, 22 Jul 2026 02:44:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.xadecimal/async-style/versions/0.4.0</guid>
-    <title>[com.xadecimal/async-style &quot;0.4.0&quot;]</title>
-    <link>https://clojars.org/com.xadecimal/async-style/versions/0.4.0</link>
-    <description>JavaScript&#39;s async/await and promise APIs ported to Clojure, plus some extra goodies to let you program in an async style.</description>
-    <pubDate>Wed, 22 Jul 2026 00:30:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang.commons/ftxui-sys/versions/2026.07-1</guid>
-    <title>[org.jank-lang.commons/ftxui-sys &quot;2026.07-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang.commons/ftxui-sys/versions/2026.07-1</link>
-    <description>Raw package for FTXUI.</description>
-    <pubDate>Wed, 22 Jul 2026 00:11:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang.commons/raylib-sys/versions/2026.07-1</guid>
-    <title>[org.jank-lang.commons/raylib-sys &quot;2026.07-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang.commons/raylib-sys/versions/2026.07-1</link>
-    <description>Raw package for raylib.</description>
-    <pubDate>Wed, 22 Jul 2026 00:11:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang.commons/imgui-opengl2-sys/versions/2026.07-1</guid>
-    <title>[org.jank-lang.commons/imgui-opengl2-sys &quot;2026.07-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang.commons/imgui-opengl2-sys/versions/2026.07-1</link>
-    <description>Raw package for Dear ImGUI OpenGL2 renderer backend.</description>
-    <pubDate>Wed, 22 Jul 2026 00:11:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang.commons/imgui-sys/versions/2026.07-1</guid>
-    <title>[org.jank-lang.commons/imgui-sys &quot;2026.07-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang.commons/imgui-sys/versions/2026.07-1</link>
-    <description>Raw package for Dear ImGUI.</description>
-    <pubDate>Wed, 22 Jul 2026 00:10:57 +0000</pubDate>
   </item>
   </channel>
 </rss>

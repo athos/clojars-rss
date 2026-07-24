@@ -1,11 +1,3 @@
-{:created 1784679057664, :description "Raw package for Dear ImGUI.", :group_name "org.jank-lang.commons", :jar_name "imgui-sys", :version "2026.07-1"}
-{:created 1784679072406, :description "Raw package for Dear ImGUI OpenGL2 renderer backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-opengl2-sys", :version "2026.07-1"}
-{:created 1784679085236, :description "Raw package for raylib.", :group_name "org.jank-lang.commons", :jar_name "raylib-sys", :version "2026.07-1"}
-{:created 1784679101401, :description "Raw package for FTXUI.", :group_name "org.jank-lang.commons", :jar_name "ftxui-sys", :version "2026.07-1"}
-{:created 1784680207545, :description "JavaScript's async/await and promise APIs ported to Clojure, plus some extra goodies to let you program in an async style.", :group_name "com.xadecimal", :jar_name "async-style", :version "0.4.0"}
-{:created 1784688247549, :description nil, :group_name "com.github.gateless", :jar_name "futurama", :version "1.4.7"}
-{:created 1784690528780, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.14.1"}
-{:created 1784691690167, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.12.0"}
 {:created 1784696171766, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.12.1"}
 {:created 1784699172335, :description "Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.", :group_name "org.replikativ", :jar_name "kontor", :version "0.1.5"}
 {:created 1784703673947, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.0-rc9"}
@@ -254,3 +246,11 @@
 {:created 1784880027479, :description "Core utils library for Clojure/Script", :group_name "com.taoensso", :jar_name "encore", :version "3.170.0-alpha1"}
 {:created 1784880998860, :description "Simple Bloom Filter", :group_name "com.igel-data", :jar_name "blossom", :version "2.0.2"}
 {:created 1784881919067, :description "JRuby dependencies", :group_name "org.openvoxproject", :jar_name "jruby-deps", :version "10.1.1.0-1"}
+{:created 1784884442407, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.23"}
+{:created 1784884454461, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.23"}
+{:created 1784884466506, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.23"}
+{:created 1784884478551, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.23"}
+{:created 1784884490804, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.23"}
+{:created 1784884503822, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.23"}
+{:created 1784885096505, :description "Clojure SDK for Rocksky — native bindings to the shared Rust core: AppView reads, AT Protocol PDS writes, and identity hashes.", :group_name "app.rocksky", :jar_name "sdk", :version "0.7.0-SNAPSHOT"}
+{:created 1784886273020, :description "A library for working with JRuby", :group_name "org.openvoxproject", :jar_name "jruby-utils", :version "7.0.0"}
