@@ -1,10 +1,3 @@
-{:created 1784752201203, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.21"}
-{:created 1784752211600, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.21"}
-{:created 1784752224199, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.21"}
-{:created 1784753224159, :description "Utility functions for filling a Hiccup template stored in EDN format with data stored in a Clojure map", :group_name "nl.loudai", :jar_name "hiccup-templating", :version "0.2.0"}
-{:created 1784755885035, :description "Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.", :group_name "org.replikativ", :jar_name "kontor", :version "0.1.9"}
-{:created 1784761079664, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.74"}
-{:created 1784761642623, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.16.0"}
 {:created 1784761727543, :description "Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.", :group_name "org.replikativ", :jar_name "kontor", :version "0.1.11"}
 {:created 1784762853731, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.12.2"}
 {:created 1784764361785, :description "Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.", :group_name "org.replikativ", :jar_name "kontor", :version "0.1.13"}
@@ -254,3 +247,10 @@
 {:created 1785065509857, :description "Small, focused hot reloading for ClojureScript projects using cljs.main", :group_name "org.clojars.hkjels", :jar_name "cljs-reload", :version "2026.07.26"}
 {:created 1785067025521, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.39"}
 {:created 1785067535314, :description "HTTP client for Clojure and Babashka built on java.net.http", :group_name "org.babashka", :jar_name "http-client", :version "0.4.24"}
+{:created 1785069863871, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.11.0"}
+{:created 1785069979296, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.11.0"}
+{:created 1785069983847, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.11.0"}
+{:created 1785070468805, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.11.0"}
+{:created 1785070496378, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.11.0"}
+{:created 1785070529158, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.11.0"}
+{:created 1785072346247, :description "Small, focused hot reloading for ClojureScript projects using cljs.main", :group_name "org.clojars.hkjels", :jar_name "cljs-reload", :version "2026.07.26-2"}
