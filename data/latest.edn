@@ -1,6 +1,3 @@
-{:created 1784884454461, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.23"}
-{:created 1784884466506, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.23"}
-{:created 1784884478551, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.23"}
 {:created 1784884490804, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.23"}
 {:created 1784884503822, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.23"}
 {:created 1784885096505, :description "Clojure SDK for Rocksky — native bindings to the shared Rust core: AppView reads, AT Protocol PDS writes, and identity hashes.", :group_name "app.rocksky", :jar_name "sdk", :version "0.7.0-SNAPSHOT"}
@@ -150,7 +147,6 @@
 {:created 1785099579729, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.83"}
 {:created 1785099888644, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1748"}
 {:created 1785100860276, :description nil, :group_name "co.multiply", :jar_name "quiescent", :version "0.5.0"}
-{:created 1785101868585, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
 {:created 1785103082011, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1750"}
 {:created 1785105466380, :description "Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.", :group_name "org.replikativ", :jar_name "kontor", :version "0.1.35"}
 {:created 1785105934172, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.317"}
@@ -254,3 +250,7 @@
 {:created 1785162966143, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.13.219"}
 {:created 1785163421106, :description "Pure Clojure YAML 1.2 reference parser", :group_name "org.yamlstar", :jar_name "yaml-parser", :version "0.2.3"}
 {:created 1785163887653, :description "Integrant methods for compiling ClojureScript", :group_name "org.duct-framework", :jar_name "compiler.cljs.simple", :version "0.1.1"}
+{:created 1785164556122, :description "Duct module for developing and compiling ClojureScript", :group_name "org.duct-framework", :jar_name "module.cljs", :version "0.6.1"}
+{:created 1785165510038, :description "80 native Web Components with centralised theming — stateless, framework-free, zero runtime. Built with ClojureScript, compiled to tree-shakeable ESM.", :group_name "com.github.avanelsas", :jar_name "baredom", :version "3.6.0"}
+{:created 1785165562777, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.13.220-SNAPSHOT"}
+{:created 1785166466041, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
