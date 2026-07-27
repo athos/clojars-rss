@@ -1,19 +1,3 @@
-{:created 1784809675709, :description "Foundation library for Boundary framework: validation, utilities, interceptors", :group_name "org.boundary-app", :jar_name "boundary-core", :version "1.0.0-beta-1"}
-{:created 1784809716812, :description "Observability library for Boundary framework: logging, metrics, error reporting", :group_name "org.boundary-app", :jar_name "boundary-observability", :version "1.0.0-beta-1"}
-{:created 1784809756969, :description "Audience segmentation for Boundary framework: declarative segments, hybrid evaluation, composable filters, and visual builder UI", :group_name "org.boundary-app", :jar_name "boundary-audience", :version "1.0.0-beta-1"}
-{:created 1784810161160, :description "Push notification library for Boundary framework: FCM and APNs support, device management, delivery analytics", :group_name "org.boundary-app", :jar_name "boundary-push", :version "1.0.0-beta-1"}
-{:created 1784810485192, :description "User management library for Boundary framework: authentication, sessions, MFA", :group_name "org.boundary-app", :jar_name "boundary-user", :version "1.0.0-beta-1"}
-{:created 1784810525755, :description "Calendar and scheduling for Boundary framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "org.boundary-app", :jar_name "boundary-calendar", :version "1.0.0-beta-1"}
-{:created 1784810567514, :description "Admin interface library for Boundary framework: auto-CRUD, schema introspection", :group_name "org.boundary-app", :jar_name "boundary-admin", :version "1.0.0-beta-1"}
-{:created 1784810609403, :description "Workflow orchestration library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-workflow", :version "1.0.0-beta-1"}
-{:created 1784810649723, :description "Full-text search library for Boundary framework", :group_name "org.boundary-app", :jar_name "boundary-search", :version "1.0.0-beta-1"}
-{:created 1784810689783, :description "boundary CLI — project generator and module installer", :group_name "org.boundary-app", :jar_name "boundary-cli", :version "1.0.0-beta-1"}
-{:created 1784810731378, :description "Development tools and dashboard for the Boundary framework: dev dashboard, REPL utilities, system inspection", :group_name "org.boundary-app", :jar_name "boundary-devtools", :version "1.0.0-beta-1"}
-{:created 1784810773524, :description "Model Context Protocol server for the Boundary framework (stdio transport)", :group_name "org.boundary-app", :jar_name "boundary-mcp", :version "1.0.0-beta-1"}
-{:created 1784815492370, :description "Official Clojure gRPC client for ScrivaDB — idiomatic maps and lazy seqs over the Java gRPC stubs.", :group_name "io.github.srjn45", :jar_name "scriva-client-clojure", :version "1.2.1"}
-{:created 1784816200789, :description "A Clojure wrapper for DBOS Transact durable execution.", :group_name "com.shipclojure", :jar_name "dbos-clj", :version "0.1.0"}
-{:created 1784816298809, :description "Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.", :group_name "net.clojars.savya", :jar_name "chunk-clj", :version "0.3.0"}
-{:created 1784824415591, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "2.4.0"}
 {:created 1784824657791, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.76"}
 {:created 1784825143234, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-missionary", :version "0.2.23"}
 {:created 1784826448734, :description "Declarative Missionary-powered Clojure UI over clj-libui and libui-ng", :group_name "io.github.slifin", :jar_name "clj-libui-declarative", :version "0.1.0"}
@@ -254,3 +238,19 @@
 {:created 1785123228154, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.6"}
 {:created 1785123947596, :description "Paclo is a Clojure library for packet capture (pcap) I/O and filtering.", :group_name "org.clojars.nanto", :jar_name "paclo", :version "1.1.0"}
 {:created 1785125953196, :description "ragtime adaptor for datalevin", :group_name "com.github.crinklywrappr", :jar_name "syncopate", :version "1.0.7"}
+{:created 1785132212401, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.7"}
+{:created 1785132217872, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.7"}
+{:created 1785132223123, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.7"}
+{:created 1785132228478, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.7"}
+{:created 1785132233820, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.7"}
+{:created 1785132239132, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.7"}
+{:created 1785132244646, :description "com.blockether/vis-language-typescript-bun - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-typescript-bun", :version "0.1.7"}
+{:created 1785132249941, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.7"}
+{:created 1785132255135, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.7"}
+{:created 1785132260514, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.7"}
+{:created 1785132265626, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.7"}
+{:created 1785132270832, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.7"}
+{:created 1785132276132, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.7"}
+{:created 1785132281291, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.7"}
+{:created 1785132286829, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.7"}
+{:created 1785132371036, :description "Clay is a small Clojure tool for a dynamic workflow of data visualization and literate programming.", :group_name "org.scicloj", :jar_name "clay", :version "2.0.18"}
