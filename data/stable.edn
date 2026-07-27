@@ -1,20 +1,3 @@
-{:created 1784837362256, :description "Double-entry accounting kernel on datahike — schema, posting/balance/period semantics, tax engine, sealing/audit, bitemporal queries.", :group_name "org.replikativ", :jar_name "kontor", :version "0.1.24"}
-{:created 1784837487334, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-macos-universal", :version "0.4.0"}
-{:created 1784837498534, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-linux-x86-64", :version "0.4.0"}
-{:created 1784837510665, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-linux-aarch64", :version "0.4.0"}
-{:created 1784837520359, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-windows-x86-64", :version "0.4.0"}
-{:created 1784837529852, :description "Platform native dependencies for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-platform", :version "0.4.0"}
-{:created 1784837539450, :description "Clojure bindings for the libui-ng native GUI library", :group_name "io.github.slifin", :jar_name "clj-libui", :version "0.4.0"}
-{:created 1784837632768, :description "Declarative Missionary-powered Clojure UI over clj-libui and libui-ng", :group_name "io.github.slifin", :jar_name "clj-libui-declarative", :version "0.4.0"}
-{:created 1784837839431, :description nil, :group_name "com.github.danielsz", :jar_name "beeld", :version "1.1.8"}
-{:created 1784838424250, :description "Biotz IoT Message schema (and meta-schema) validation and decoding library", :group_name "io.biotz", :jar_name "message-schema", :version "0.1.23"}
-{:created 1784839525416, :description "Declarative Missionary-powered Clojure UI over clj-libui and libui-ng", :group_name "io.github.slifin", :jar_name "clj-libui-declarative", :version "0.4.1"}
-{:created 1784839626400, :description "Schemaless, low-alloc binary serialization for Clojure (JDK 25 FFM).", :group_name "com.s-exp", :jar_name "hako", :version "1.0.0-alpha19"}
-{:created 1784841399617, :description "Turn Clojure functions into CLIs!", :group_name "org.babashka", :jar_name "cli", :version "0.12.80"}
-{:created 1784845737409, :description "Turn Clojure functions into CLIs!", :group_name "org.babashka", :jar_name "cli", :version "0.12.81"}
-{:created 1784851163123, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-bybit", :version "0.1.14"}
-{:created 1784851239910, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-asset", :version "0.1.4"}
-{:created 1784851261124, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-schemas", :version "0.1.11"}
 {:created 1784851267816, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-dsl", :version "0.5.9"}
 {:created 1784851478122, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-weave", :version "0.3.1"}
 {:created 1784852607657, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.1.117"}
@@ -254,3 +237,20 @@
 {:created 1785152448785, :description nil, :group_name "co.multiply", :jar_name "quiescent", :version "0.6.0"}
 {:created 1785152524532, :description "A stream processing framework to build stateless applications on kafka", :group_name "tech.gojek", :jar_name "ziggurat", :version "4.13.2"}
 {:created 1785153202886, :description "OpenVox Server", :group_name "org.openvoxproject", :jar_name "puppetserver", :version "9.0.0-beta2"}
+{:created 1785153761520, :description "Duct module for developing and compiling ClojureScript", :group_name "org.duct-framework", :jar_name "module.cljs", :version "0.6.0"}
+{:created 1785156839660, :description "Turn Clojure functions into CLIs!", :group_name "org.babashka", :jar_name "cli", :version "0.12.85"}
+{:created 1785157816777, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.11"}
+{:created 1785157823013, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.11"}
+{:created 1785157829172, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.11"}
+{:created 1785157835315, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.11"}
+{:created 1785157841621, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.11"}
+{:created 1785157847894, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.11"}
+{:created 1785157854112, :description "com.blockether/vis-language-typescript-bun - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-typescript-bun", :version "0.1.11"}
+{:created 1785157860304, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.11"}
+{:created 1785157866404, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.11"}
+{:created 1785157872542, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.11"}
+{:created 1785157879054, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.11"}
+{:created 1785157885241, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.11"}
+{:created 1785157891369, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.11"}
+{:created 1785157897502, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.11"}
+{:created 1785157904096, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.11"}
