@@ -1,17 +1,3 @@
-{:created 1785041953764, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-test", :version "0.3.11"}
-{:created 1785042233855, :description "Fast serialization library for Clojure", :group_name "com.taoensso", :jar_name "nippy", :version "3.8.0"}
-{:created 1785042628368, :description "A Clojure wrapper for DBOS Transact durable execution.", :group_name "com.shipclojure", :jar_name "dbos-clj", :version "0.4.0"}
-{:created 1785055071524, :description "Unified copy-on-write memory model protocols for heterogeneous storage systems", :group_name "org.replikativ", :jar_name "yggdrasil", :version "0.3.37"}
-{:created 1785056093487, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "2.1.27-SNAPSHOT"}
-{:created 1785059690409, :description nil, :group_name "org.danielsz", :jar_name "kampbell", :version "0.2.3"}
-{:created 1785059953971, :description nil, :group_name "org.danielsz", :jar_name "system", :version "0.5.7"}
-{:created 1785060389657, :description "Clay is a small Clojure tool for a dynamic workflow of data visualization and literate programming.", :group_name "org.scicloj", :jar_name "clay", :version "2.0.17"}
-{:created 1785060826120, :description "Server-resource runtime for BareDOM — drives presentational web components from server state without client-side business logic. Reads and writes.", :group_name "com.github.avanelsas", :jar_name "barebuild", :version "0.3.0"}
-{:created 1785060833892, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.78"}
-{:created 1785061001778, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.38"}
-{:created 1785064304694, :description "Parse bash, gate it with an allow/deny permit, run it through a pluggable host (JVM, Node, browser).", :group_name "org.replikativ", :jar_name "muschel", :version "0.2.18"}
-{:created 1785065509857, :description "Small, focused hot reloading for ClojureScript projects using cljs.main", :group_name "org.clojars.hkjels", :jar_name "cljs-reload", :version "2026.07.26"}
-{:created 1785067025521, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.39"}
 {:created 1785067535314, :description "HTTP client for Clojure and Babashka built on java.net.http", :group_name "org.babashka", :jar_name "http-client", :version "0.4.24"}
 {:created 1785069863871, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.11.0"}
 {:created 1785069979296, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.11.0"}
@@ -254,3 +240,17 @@
 {:created 1785255726047, :description "Clojure bindings for the libui-ng native GUI library", :group_name "io.github.slifin", :jar_name "clj-libui", :version "0.7.0"}
 {:created 1785256434104, :description "Declarative Missionary-powered Clojure UI over clj-libui and libui-ng", :group_name "io.github.slifin", :jar_name "clj-libui-declarative", :version "0.8.0"}
 {:created 1785256488177, :description "Fast serialization library for Clojure", :group_name "com.taoensso", :jar_name "nippy", :version "3.9.0-SNAPSHOT"}
+{:created 1785263743343, :description "Schemaless, low-alloc binary serialization for Clojure (JDK 25 FFM).", :group_name "com.s-exp", :jar_name "hako", :version "1.0.0-alpha31"}
+{:created 1785264582921, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1753"}
+{:created 1785264851415, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.37"}
+{:created 1785264977871, :description "Clojure core environment and runtime library.", :group_name "com.github.flow-storm", :jar_name "clojure", :version "1.13.0-alpha6"}
+{:created 1785265026989, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-auth", :version "0.11.2658"}
+{:created 1785265039476, :description nil, :group_name "systems.bread", :jar_name "bread-core", :version "0.11.2658"}
+{:created 1785265055141, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-datahike", :version "0.11.2658"}
+{:created 1785265068862, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-email", :version "0.11.2658"}
+{:created 1785265084111, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-reitit", :version "0.11.2658"}
+{:created 1785265097179, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-rum", :version "0.11.2658"}
+{:created 1785265112007, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-theme", :version "0.11.2658"}
+{:created 1785265133017, :description nil, :group_name "systems.bread", :jar_name "bread-theme-crust", :version "0.11.2658"}
+{:created 1785265649865, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.1.1"}
+{:created 1785266721888, :description nil, :group_name "io.github.unisoma", :jar_name "mantine-ui-wrapper", :version "9.5.0.0-SNAPSHOT"}
