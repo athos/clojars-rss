@@ -1,8 +1,3 @@
-{:created 1785073019601, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.12.0"}
-{:created 1785073077843, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.12.0"}
-{:created 1785073514460, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.12.0"}
-{:created 1785073539405, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.12.0"}
-{:created 1785073574800, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.12.0"}
 {:created 1785076295991, :description "Turn Clojure functions into CLIs!", :group_name "org.babashka", :jar_name "cli", :version "0.12.84"}
 {:created 1785078776960, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.1425"}
 {:created 1785079181544, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.79"}
@@ -254,3 +249,8 @@
 {:created 1785299830480, :description "composable plotting in Clojure", :group_name "org.scicloj", :jar_name "plotje", :version "0.6.0"}
 {:created 1785307598627, :description "Clojure library for shared code between clojure taps", :group_name "singer-clojure", :jar_name "singer-clojure", :version "1.2.2"}
 {:created 1785307674705, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.3.77"}
+{:created 1785310495203, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1756"}
+{:created 1785311311654, :description "Micro toolkit for Clojure/Script errors.", :group_name "com.taoensso", :jar_name "truss", :version "2.5.1"}
+{:created 1785311762871, :description "Core utils library for Clojure/Script", :group_name "com.taoensso", :jar_name "encore", :version "3.171.1"}
+{:created 1785312140850, :description "Queryable, Datahike-backed version control with Git compatibility.", :group_name "org.replikativ", :jar_name "geschichte", :version "0.1.14"}
+{:created 1785313271710, :description "Unified copy-on-write memory model protocols for heterogeneous storage systems", :group_name "org.replikativ", :jar_name "yggdrasil", :version "0.3.39"}

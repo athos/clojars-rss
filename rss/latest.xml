@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 29 Jul 2026 07:02:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 08:54:30 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.39</guid>
+    <title>[org.replikativ/yggdrasil &quot;0.3.39&quot;]</title>
+    <link>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.39</link>
+    <description>Unified copy-on-write memory model protocols for heterogeneous storage systems</description>
+    <pubDate>Wed, 29 Jul 2026 08:21:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/geschichte/versions/0.1.14</guid>
+    <title>[org.replikativ/geschichte &quot;0.1.14&quot;]</title>
+    <link>https://clojars.org/org.replikativ/geschichte/versions/0.1.14</link>
+    <description>Queryable, Datahike-backed version control with Git compatibility.</description>
+    <pubDate>Wed, 29 Jul 2026 08:02:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.taoensso/encore/versions/3.171.1</guid>
+    <title>[com.taoensso/encore &quot;3.171.1&quot;]</title>
+    <link>https://clojars.org/com.taoensso/encore/versions/3.171.1</link>
+    <description>Core utils library for Clojure/Script</description>
+    <pubDate>Wed, 29 Jul 2026 07:56:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.taoensso/truss/versions/2.5.1</guid>
+    <title>[com.taoensso/truss &quot;2.5.1&quot;]</title>
+    <link>https://clojars.org/com.taoensso/truss/versions/2.5.1</link>
+    <description>Micro toolkit for Clojure/Script errors.</description>
+    <pubDate>Wed, 29 Jul 2026 07:48:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1756</guid>
+    <title>[org.replikativ/datahike &quot;0.8.1756&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1756</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Wed, 29 Jul 2026 07:34:55 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/stratum/versions/0.3.77</guid>
     <title>[org.replikativ/stratum &quot;0.3.77&quot;]</title>
@@ -1762,41 +1797,6 @@
     <link>https://clojars.org/com.blockether/vis-channel-tui/versions/0.1.5</link>
     <description>Lanterna-based TUI channel.</description>
     <pubDate>Sun, 26 Jul 2026 20:52:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.slifin/clj-libui-declarative/versions/0.5.0</guid>
-    <title>[io.github.slifin/clj-libui-declarative &quot;0.5.0&quot;]</title>
-    <link>https://clojars.org/io.github.slifin/clj-libui-declarative/versions/0.5.0</link>
-    <description>Declarative Missionary-powered Clojure UI over clj-libui and libui-ng</description>
-    <pubDate>Sun, 26 Jul 2026 20:02:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.slifin/clj-libui/versions/0.5.0</guid>
-    <title>[io.github.slifin/clj-libui &quot;0.5.0&quot;]</title>
-    <link>https://clojars.org/io.github.slifin/clj-libui/versions/0.5.0</link>
-    <description>Clojure bindings for the libui-ng native GUI library</description>
-    <pubDate>Sun, 26 Jul 2026 20:00:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.slifin/clj-libui-platform/versions/0.5.0</guid>
-    <title>[io.github.slifin/clj-libui-platform &quot;0.5.0&quot;]</title>
-    <link>https://clojars.org/io.github.slifin/clj-libui-platform/versions/0.5.0</link>
-    <description>Platform native dependencies for clj-libui</description>
-    <pubDate>Sun, 26 Jul 2026 20:00:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.slifin/clj-libui-native-windows-x86-64/versions/0.5.0</guid>
-    <title>[io.github.slifin/clj-libui-native-windows-x86-64 &quot;0.5.0&quot;]</title>
-    <link>https://clojars.org/io.github.slifin/clj-libui-native-windows-x86-64/versions/0.5.0</link>
-    <description>Prebuilt libui-ng native library for clj-libui</description>
-    <pubDate>Sun, 26 Jul 2026 20:00:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.slifin/clj-libui-native-linux-aarch64/versions/0.5.0</guid>
-    <title>[io.github.slifin/clj-libui-native-linux-aarch64 &quot;0.5.0&quot;]</title>
-    <link>https://clojars.org/io.github.slifin/clj-libui-native-linux-aarch64/versions/0.5.0</link>
-    <description>Prebuilt libui-ng native library for clj-libui</description>
-    <pubDate>Sun, 26 Jul 2026 20:00:03 +0000</pubDate>
   </item>
   </channel>
 </rss>
