@@ -1,20 +1,3 @@
-{:created 1785132286829, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.7"}
-{:created 1785132371036, :description "Clay is a small Clojure tool for a dynamic workflow of data visualization and literate programming.", :group_name "org.scicloj", :jar_name "clay", :version "2.0.18"}
-{:created 1785133613238, :description nil, :group_name "org.clojars.lispyclouds", :jar_name "claxon", :version "1.4"}
-{:created 1785134310827, :description nil, :group_name "com.monkeyprojects", :jar_name "clj-scw-client", :version "0.2.0"}
-{:created 1785136231818, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.84"}
-{:created 1785138291516, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.8"}
-{:created 1785138296276, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.8"}
-{:created 1785138300993, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.8"}
-{:created 1785138305685, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.8"}
-{:created 1785138310427, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.8"}
-{:created 1785138315072, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.8"}
-{:created 1785138319717, :description "com.blockether/vis-language-typescript-bun - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-typescript-bun", :version "0.1.8"}
-{:created 1785138324380, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.8"}
-{:created 1785138328967, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.8"}
-{:created 1785138333575, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.8"}
-{:created 1785138338276, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.8"}
-{:created 1785138342932, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.8"}
 {:created 1785138347598, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.8"}
 {:created 1785138352319, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.8"}
 {:created 1785138357258, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.8"}
@@ -70,11 +53,6 @@
 {:created 1785169233184, :description "Schemaless, low-alloc binary serialization for Clojure (JDK 25 FFM).", :group_name "com.s-exp", :jar_name "hako", :version "1.0.0-alpha30"}
 {:created 1785169555643, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.9.14"}
 {:created 1785171170179, :description nil, :group_name "io.github.evenmoreirrelevance", :jar_name "testcomments", :version "0.3.2"}
-{:created 1785175293523, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
-{:created 1785175367725, :description "Rephrase exceptions.", :group_name "org.corfield", :jar_name "rephrase", :version "1.0.4-SNAPSHOT"}
-{:created 1785179461471, :description "Enhanced throw, try, leveraging Clojure's capabilities.", :group_name "org.clj-commons", :jar_name "slingshot", :version "0.13.99-SNAPSHOT"}
-{:created 1785179795597, :description "An in-process task-queue that is backed by disk.", :group_name "org.clj-commons", :jar_name "durable-queue", :version "0.2.99-SNAPSHOT"}
-{:created 1785180306609, :description "Ring middleware for handling JSON, using clojure.data.json.", :group_name "com.github.seancorfield", :jar_name "ring-data-json", :version "0.5.4-SNAPSHOT"}
 {:created 1785181208791, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1751"}
 {:created 1785184044055, :description "Spec-driven GraphQL BFF engine for Clojure", :group_name "io.github.rthadani", :jar_name "bff", :version "0.2.0"}
 {:created 1785185273593, :description "A lightweight, scoped-down fault-injection and verification tool built on Jepsen's internals", :group_name "com.igel-data", :jar_name "jepsen-lite", :version "0.1.0"}
@@ -129,7 +107,6 @@
 {:created 1785242264415, :description "Declarative Missionary-powered Clojure UI over clj-libui and libui-ng", :group_name "io.github.slifin", :jar_name "clj-libui-declarative", :version "0.6.0"}
 {:created 1785244313817, :description "Clojure SDK for Rocksky — native bindings to the shared Rust core: AppView reads, AT Protocol PDS writes, and identity hashes.", :group_name "app.rocksky", :jar_name "sdk", :version "0.8.1-SNAPSHOT"}
 {:created 1785245547444, :description "A Clojure library for SEC EDGAR — filings, financials, and XBRL data, ready for research.", :group_name "com.github.clojure-finance", :jar_name "edgarjure", :version "0.3.0"}
-{:created 1785247243317, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
 {:created 1785247717705, :description "Declarative Missionary-powered Clojure UI over clj-libui and libui-ng", :group_name "io.github.slifin", :jar_name "clj-libui-declarative", :version "0.7.0"}
 {:created 1785248361884, :description "It watches your code like a hawk!", :group_name "io.github.metabase", :jar_name "hawk", :version "1.0.17"}
 {:created 1785250647873, :description "Thin Clojure client for Google GenAI / Vertex AI with Malli-driven structured output.", :group_name "org.clojars.lukaszkorecki", :jar_name "vortex", :version "1.0.0.19"}
@@ -254,3 +231,26 @@
 {:created 1785356347435, :description "A terminal (TUI) rendering target for Fulcro, backed by JLine", :group_name "com.fulcrologic", :jar_name "fulcro-tui", :version "1.0.3"}
 {:created 1785363248011, :description "Workflow Engine for Clojure(script)", :group_name "tech.thomascothran", :jar_name "limn", :version "1.0.47"}
 {:created 1785371488867, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1758"}
+{:created 1785375188849, :description "A statechart-driven autonomous coding agent.", :group_name "com.fulcrologic", :jar_name "escapement", :version "1.0.0"}
+{:created 1785377228436, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-encoding", :version "0.1.76"}
+{:created 1785377320469, :description "Ring-based authentication and authorization library for Clojure", :group_name "sg.flybot", :jar_name "oie", :version "0.3.0"}
+{:created 1785377399906, :description "A fast pure-Clojure port of the SnakeYAML Engine parser", :group_name "org.yamlstar", :jar_name "snakeyaml-engine", :version "0.1.1"}
+{:created 1785377551657, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.0-rc10"}
+{:created 1785377570662, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.0-rc10"}
+{:created 1785377588906, :description nil, :group_name "com.biffweb", :jar_name "fx", :version "2.0.0-rc10"}
+{:created 1785377608580, :description nil, :group_name "com.biffweb", :jar_name "graph", :version "2.0.0-rc10"}
+{:created 1785377627302, :description nil, :group_name "com.biffweb", :jar_name "sqlite", :version "2.0.0-rc10"}
+{:created 1785377646996, :description nil, :group_name "com.biffweb", :jar_name "xtdb", :version "2.0.0-rc10"}
+{:created 1785377669496, :description nil, :group_name "com.biffweb", :jar_name "ring", :version "2.0.0-rc10"}
+{:created 1785377814294, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-engine", :version "0.1.78"}
+{:created 1785378025830, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
+{:created 1785378111042, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
+{:created 1785379202075, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.2.126"}
+{:created 1785379239655, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.2.126"}
+{:created 1785379553828, :description "Enhanced throw, try, leveraging Clojure's capabilities.", :group_name "org.clj-commons", :jar_name "slingshot", :version "0.13.99-SNAPSHOT"}
+{:created 1785379831156, :description "Rephrase exceptions.", :group_name "org.corfield", :jar_name "rephrase", :version "1.0.4-SNAPSHOT"}
+{:created 1785379853417, :description "An in-process task-queue that is backed by disk.", :group_name "org.clj-commons", :jar_name "durable-queue", :version "0.2.99-SNAPSHOT"}
+{:created 1785379913994, :description "Ring middleware for handling JSON, using clojure.data.json.", :group_name "com.github.seancorfield", :jar_name "ring-data-json", :version "0.5.4-SNAPSHOT"}
+{:created 1785380215131, :description "Pure functional generators for Jepsen tests", :group_name "io.jepsen", :jar_name "generator", :version "0.1.3-SNAPSHOT"}
+{:created 1785380217393, :description "Distributed systems testing framework.", :group_name "jepsen", :jar_name "jepsen", :version "0.3.13-SNAPSHOT"}
+{:created 1785380224172, :description "A library for writing Jepsen tests of SQL databases", :group_name "io.jepsen", :jar_name "sql", :version "0.1.0-SNAPSHOT"}
