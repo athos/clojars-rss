@@ -1,27 +1,3 @@
-{:created 1785185273593, :description "A lightweight, scoped-down fault-injection and verification tool built on Jepsen's internals", :group_name "com.igel-data", :jar_name "jepsen-lite", :version "0.1.0"}
-{:created 1785185953192, :description "An embeddable key-value store for the Clojure ecosystem", :group_name "com.igel-data", :jar_name "igeldb", :version "1.0.0"}
-{:created 1785186682872, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-auth", :version "0.10.2634"}
-{:created 1785186694244, :description nil, :group_name "systems.bread", :jar_name "bread-core", :version "0.10.2634"}
-{:created 1785186711174, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-datahike", :version "0.10.2634"}
-{:created 1785186724182, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-email", :version "0.10.2634"}
-{:created 1785186739935, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-reitit", :version "0.10.2634"}
-{:created 1785186753081, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-rum", :version "0.10.2634"}
-{:created 1785186766838, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-theme", :version "0.10.2634"}
-{:created 1785186785665, :description nil, :group_name "systems.bread", :jar_name "bread-theme-crust", :version "0.10.2634"}
-{:created 1785187212227, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1752"}
-{:created 1785189104734, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.9.15"}
-{:created 1785201432854, :description "ragtime adaptor for datalevin", :group_name "com.github.crinklywrappr", :jar_name "syncopate", :version "1.0.8"}
-{:created 1785205601171, :description nil, :group_name "io.github.supabase-community", :jar_name "realtime", :version "1.2.0"}
-{:created 1785207633128, :description nil, :group_name "io.github.supabase-community", :jar_name "postgrest", :version "1.2.0"}
-{:created 1785207905242, :description nil, :group_name "io.github.supabase-community", :jar_name "storage", :version "0.4.0"}
-{:created 1785208417619, :description nil, :group_name "io.github.supabase-community", :jar_name "core", :version "0.6.1"}
-{:created 1785212193951, :description "Idiomatic Clojure graph library backed by JGraphT: fast algorithms over Clojure-value vertices", :group_name "net.clojars.savya", :jar_name "cljgrapht", :version "1.1.0"}
-{:created 1785223379941, :description "Probe an operating system and user environment for facts", :group_name "io.epiccastle", :jar_name "eyre", :version "0.1.0"}
-{:created 1785228618586, :description "Time-travel replay debugger for BareBuild apps. Records the event log, reconstructs any state by replaying the pure step, and re-projects it onto live components.", :group_name "com.github.avanelsas", :jar_name "barereplay", :version "0.1.0"}
-{:created 1785228739864, :description "Fast serialization library for Clojure", :group_name "com.taoensso", :jar_name "nippy", :version "3.8.1"}
-{:created 1785233781972, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.41"}
-{:created 1785237074175, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.12"}
-{:created 1785237079410, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.12"}
 {:created 1785237084520, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.12"}
 {:created 1785237089594, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.12"}
 {:created 1785237094716, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.12"}
@@ -254,3 +230,27 @@
 {:created 1785445634073, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.32"}
 {:created 1785446440206, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.2.130"}
 {:created 1785446490823, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.2.130"}
+{:created 1785447822770, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.2.131"}
+{:created 1785447860598, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.2.131"}
+{:created 1785447979249, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-engine", :version "0.1.79"}
+{:created 1785448150968, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.34"}
+{:created 1785448163217, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.34"}
+{:created 1785448175502, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.34"}
+{:created 1785448187803, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.34"}
+{:created 1785448200099, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.34"}
+{:created 1785448213756, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.34"}
+{:created 1785448872257, :description nil, :group_name "com.github.gateless", :jar_name "futurama", :version "1.4.9"}
+{:created 1785449478980, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.14"}
+{:created 1785449483678, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.14"}
+{:created 1785449488406, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.14"}
+{:created 1785449493196, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.14"}
+{:created 1785449497906, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.14"}
+{:created 1785449502667, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.14"}
+{:created 1785449512112, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.14"}
+{:created 1785449516788, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.14"}
+{:created 1785449521466, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.14"}
+{:created 1785449526223, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.14"}
+{:created 1785449535577, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.14"}
+{:created 1785449540354, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.14"}
+{:created 1785449545135, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.14"}
+{:created 1785449549901, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.14"}
