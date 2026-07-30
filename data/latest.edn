@@ -1,10 +1,3 @@
-{:created 1785147295322, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.10"}
-{:created 1785147300201, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.10"}
-{:created 1785147305129, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.10"}
-{:created 1785147310013, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.10"}
-{:created 1785147315193, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.10"}
-{:created 1785148188992, :description "spec2-inspired selection of Malli schemas", :group_name "dk.thinkcreate", :jar_name "malli-select", :version "0.7.1-SNAPSHOT"}
-{:created 1785152448785, :description nil, :group_name "co.multiply", :jar_name "quiescent", :version "0.6.0"}
 {:created 1785152524532, :description "A stream processing framework to build stateless applications on kafka", :group_name "tech.gojek", :jar_name "ziggurat", :version "4.13.2"}
 {:created 1785153202886, :description "OpenVox Server", :group_name "org.openvoxproject", :jar_name "puppetserver", :version "9.0.0-beta2"}
 {:created 1785153761520, :description "Duct module for developing and compiling ClojureScript", :group_name "org.duct-framework", :jar_name "module.cljs", :version "0.6.0"}
@@ -62,10 +55,8 @@
 {:created 1785223379941, :description "Probe an operating system and user environment for facts", :group_name "io.epiccastle", :jar_name "eyre", :version "0.1.0"}
 {:created 1785228608614, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.27.0-SNAPSHOT"}
 {:created 1785228618586, :description "Time-travel replay debugger for BareBuild apps. Records the event log, reconstructs any state by replaying the pure step, and re-projects it onto live components.", :group_name "com.github.avanelsas", :jar_name "barereplay", :version "0.1.0"}
-{:created 1785228650070, :description nil, :group_name "com.monkeyci", :jar_name "core", :version "0.27.0-SNAPSHOT"}
 {:created 1785228739864, :description "Fast serialization library for Clojure", :group_name "com.taoensso", :jar_name "nippy", :version "3.8.1"}
 {:created 1785228891206, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.27.0-SNAPSHOT"}
-{:created 1785230848405, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.0-SNAPSHOT"}
 {:created 1785233781972, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.41"}
 {:created 1785235783072, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.13.220-SNAPSHOT"}
 {:created 1785237074175, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.12"}
@@ -254,3 +245,12 @@
 {:created 1785395162313, :description "bridge — evidence-driven change & spec-traceability toolkit (CLI + library).", :group_name "com.blockether", :jar_name "bridge", :version "0.2.2"}
 {:created 1785395785503, :description "Simple performance monitoring library for Clojure/Script", :group_name "com.taoensso", :jar_name "tufte", :version "3.1.0"}
 {:created 1785396427741, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1759"}
+{:created 1785398172361, :description "Time-travel replay debugger for BareBuild apps. Records the event log, reconstructs any state by replaying the pure step, and re-projects it onto live components.", :group_name "com.github.avanelsas", :jar_name "barereplay", :version "0.2.1"}
+{:created 1785399672496, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.91"}
+{:created 1785399947914, :description "80 native Web Components with centralised theming — stateless, framework-free, zero runtime. Built with ClojureScript, compiled to tree-shakeable ESM.", :group_name "com.github.avanelsas", :jar_name "baredom", :version "3.7.0"}
+{:created 1785400083353, :description nil, :group_name "com.monkeyci", :jar_name "plugin-github", :version "0.3.0-SNAPSHOT"}
+{:created 1785400109434, :description nil, :group_name "com.monkeyci", :jar_name "plugin-kaniko", :version "0.2.2-SNAPSHOT"}
+{:created 1785400130095, :description nil, :group_name "com.monkeyci", :jar_name "plugin-pushover", :version "0.2.0-SNAPSHOT"}
+{:created 1785400316063, :description nil, :group_name "com.monkeyci", :jar_name "core", :version "0.27.0-SNAPSHOT"}
+{:created 1785400339420, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.0-SNAPSHOT"}
+{:created 1785400471783, :description "Schemaless, low-alloc binary serialization for Clojure (JDK 25 FFM).", :group_name "com.s-exp", :jar_name "hako", :version "1.0.0-alpha38"}
