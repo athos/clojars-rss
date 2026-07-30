@@ -1,10 +1,3 @@
-{:created 1785153761520, :description "Duct module for developing and compiling ClojureScript", :group_name "org.duct-framework", :jar_name "module.cljs", :version "0.6.0"}
-{:created 1785156839660, :description "Turn Clojure functions into CLIs!", :group_name "org.babashka", :jar_name "cli", :version "0.12.85"}
-{:created 1785157816777, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.11"}
-{:created 1785157823013, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.11"}
-{:created 1785157829172, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.11"}
-{:created 1785157835315, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.11"}
-{:created 1785157841621, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.11"}
 {:created 1785157847894, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.11"}
 {:created 1785157854112, :description "com.blockether/vis-language-typescript-bun - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-typescript-bun", :version "0.1.11"}
 {:created 1785157860304, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.11"}
@@ -254,3 +247,10 @@
 {:created 1785431459907, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.27"}
 {:created 1785431865150, :description "build script support lib", :group_name "org.domaindrivenarchitecture", :jar_name "dda-build", :version "1.5.0"}
 {:created 1785432107331, :description nil, :group_name "com.leifericf", :jar_name "clj-zig", :version "2026.07.30-alpha1"}
+{:created 1785432600983, :description "It watches your code like a hawk!", :group_name "io.github.metabase", :jar_name "hawk", :version "1.0.18"}
+{:created 1785434272761, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.28"}
+{:created 1785434282903, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.28"}
+{:created 1785434293293, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.28"}
+{:created 1785434303572, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.28"}
+{:created 1785434314110, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.28"}
+{:created 1785434325824, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.28"}
