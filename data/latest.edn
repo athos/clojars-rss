@@ -1,14 +1,3 @@
-{:created 1785157835315, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.11"}
-{:created 1785157841621, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.11"}
-{:created 1785157847894, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.11"}
-{:created 1785157854112, :description "com.blockether/vis-language-typescript-bun - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-typescript-bun", :version "0.1.11"}
-{:created 1785157860304, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.11"}
-{:created 1785157866404, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.11"}
-{:created 1785157872542, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.11"}
-{:created 1785157879054, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.11"}
-{:created 1785157885241, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.11"}
-{:created 1785157891369, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.11"}
-{:created 1785157897502, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.11"}
 {:created 1785157904096, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.11"}
 {:created 1785158794002, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.12.219-SNAPSHOT"}
 {:created 1785160304434, :description "A Clojure wrapper for DBOS Transact durable execution.", :group_name "com.shipclojure", :jar_name "dbos-clj", :version "0.5.0"}
@@ -254,3 +243,14 @@
 {:created 1785422127990, :description nil, :group_name "com.monkeyci", :jar_name "core", :version "0.27.0-SNAPSHOT"}
 {:created 1785423617324, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.0-SNAPSHOT"}
 {:created 1785424990217, :description "Generic protocols for Datomic-like Datalog databases", :group_name "org.duct-framework", :jar_name "database.datalog", :version "0.2.0"}
+{:created 1785426799099, :description "Generic protocols for Datomic-like Datalog databases", :group_name "org.duct-framework", :jar_name "database.datalog", :version "0.2.1"}
+{:created 1785427971638, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.1.4"}
+{:created 1785428217085, :description "build script support lib", :group_name "org.domaindrivenarchitecture", :jar_name "dda-build", :version "1.3.0"}
+{:created 1785428506496, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.26"}
+{:created 1785428517020, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.26"}
+{:created 1785428527715, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.26"}
+{:created 1785428538129, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.26"}
+{:created 1785428548798, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.26"}
+{:created 1785428560956, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.26"}
+{:created 1785428575623, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-bybit", :version "0.1.16"}
+{:created 1785428888577, :description "Integrant methods for Datalevin", :group_name "org.duct-framework", :jar_name "database.datalog.datalevin", :version "0.1.3"}
