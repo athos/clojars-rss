@@ -1,26 +1,3 @@
-{:created 1785264582921, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1753"}
-{:created 1785264851415, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.37"}
-{:created 1785264977871, :description "Clojure core environment and runtime library.", :group_name "com.github.flow-storm", :jar_name "clojure", :version "1.13.0-alpha6"}
-{:created 1785265026989, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-auth", :version "0.11.2658"}
-{:created 1785265039476, :description nil, :group_name "systems.bread", :jar_name "bread-core", :version "0.11.2658"}
-{:created 1785265055141, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-datahike", :version "0.11.2658"}
-{:created 1785265068862, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-email", :version "0.11.2658"}
-{:created 1785265084111, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-reitit", :version "0.11.2658"}
-{:created 1785265097179, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-rum", :version "0.11.2658"}
-{:created 1785265112007, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-theme", :version "0.11.2658"}
-{:created 1785265133017, :description nil, :group_name "systems.bread", :jar_name "bread-theme-crust", :version "0.11.2658"}
-{:created 1785265649865, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.1.1"}
-{:created 1785266721888, :description nil, :group_name "io.github.unisoma", :jar_name "mantine-ui-wrapper", :version "9.5.0.0-SNAPSHOT"}
-{:created 1785270776720, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-auth", :version "0.11.2660"}
-{:created 1785270789856, :description nil, :group_name "systems.bread", :jar_name "bread-core", :version "0.11.2660"}
-{:created 1785270808901, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-datahike", :version "0.11.2660"}
-{:created 1785270823634, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-email", :version "0.11.2660"}
-{:created 1785270839504, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-reitit", :version "0.11.2660"}
-{:created 1785270854412, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-rum", :version "0.11.2660"}
-{:created 1785270871004, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-theme", :version "0.11.2660"}
-{:created 1785270892250, :description nil, :group_name "systems.bread", :jar_name "bread-theme-crust", :version "0.11.2660"}
-{:created 1785270999845, :description "Parse bash, gate it with an allow/deny permit, run it through a pluggable host (JVM, Node, browser).", :group_name "org.replikativ", :jar_name "muschel", :version "0.2.19"}
-{:created 1785271269550, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1754"}
 {:created 1785272116822, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.42"}
 {:created 1785273425498, :description "Queryable, Datahike-backed version control with Git compatibility.", :group_name "org.replikativ", :jar_name "geschichte", :version "0.1.11"}
 {:created 1785274011124, :description "Workflow Engine for Clojure(script)", :group_name "tech.thomascothran", :jar_name "limn", :version "1.0.46"}
@@ -254,3 +231,26 @@
 {:created 1785483611112, :description nil, :group_name "com.leifericf", :jar_name "clj-zig", :version "2026.07.31-alpha1"}
 {:created 1785483830167, :description "Server-resource runtime for BareDOM — drives presentational web components from server state without client-side business logic. Reads and writes.", :group_name "com.github.avanelsas", :jar_name "barebuild", :version "0.4.0"}
 {:created 1785488427633, :description nil, :group_name "io.github.cljfx", :jar_name "ghosttyfx", :version "0.1.206.15"}
+{:created 1785489330695, :description "Developer tooling for the Wagoe framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "com.wagoe", :jar_name "wagoe-tools", :version "1.0.0-beta-2"}
+{:created 1785489372260, :description "Foundation library for Wagoe framework: validation, utilities, interceptors", :group_name "com.wagoe", :jar_name "wagoe-core", :version "1.0.0-beta-2"}
+{:created 1785489415850, :description "Observability library for Wagoe framework: logging, metrics, error reporting", :group_name "com.wagoe", :jar_name "wagoe-observability", :version "1.0.0-beta-2"}
+{:created 1785489458569, :description "Audience segmentation for Wagoe framework: declarative segments, hybrid evaluation, composable filters, and visual builder UI", :group_name "com.wagoe", :jar_name "wagoe-audience", :version "1.0.0-beta-2"}
+{:created 1785489499980, :description "Internationalisation (i18n) for Wagoe framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "com.wagoe", :jar_name "wagoe-i18n", :version "1.0.0-beta-2"}
+{:created 1785489878425, :description "Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication", :group_name "com.wagoe", :jar_name "wagoe-realtime", :version "1.0.0-beta-2"}
+{:created 1785489896126, :description "One tiny seam over the host, so the same .cljc runs on Clojure (JVM) and cljgo.", :group_name "net.clojars.muthuishere", :jar_name "koine", :version "0.4.2"}
+{:created 1785489920109, :description "PSP abstraction for Wagoe framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "com.wagoe", :jar_name "wagoe-payments", :version "1.0.0-beta-2"}
+{:created 1785489963989, :description "Platform library for Wagoe framework: database, HTTP, configuration, modules", :group_name "com.wagoe", :jar_name "wagoe-platform", :version "1.0.0-beta-2"}
+{:created 1785490045767, :description "A promise library and concurency toolkit for Clojure and ClojureScript.", :group_name "funcool", :jar_name "promesa", :version "12.0.1"}
+{:created 1785491103337, :description nil, :group_name "com.monkeyci", :jar_name "plugin-clj", :version "0.5.0-SNAPSHOT"}
+{:created 1785494038666, :description "Prebuilt ruff-c cdylib (FFM) for linux-x64.", :group_name "com.blockether", :jar_name "ruff-native-linux-x64", :version "0.3.3"}
+{:created 1785494051234, :description "Prebuilt ruff-c cdylib (FFM) for linux-arm64.", :group_name "com.blockether", :jar_name "ruff-native-linux-arm64", :version "0.3.3"}
+{:created 1785494062520, :description "Prebuilt ruff-c cdylib (FFM) for darwin-x64.", :group_name "com.blockether", :jar_name "ruff-native-darwin-x64", :version "0.3.3"}
+{:created 1785494235202, :description "Prebuilt ruff-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "ruff-native-darwin-arm64", :version "0.3.3"}
+{:created 1785494390695, :description "Prebuilt ruff-c cdylib (FFM) for windows-x64.", :group_name "com.blockether", :jar_name "ruff-native-windows-x64", :version "0.3.3"}
+{:created 1785494398953, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.12.1"}
+{:created 1785494403458, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.12.1"}
+{:created 1785494441312, :description "Clojure binding to ruff — Python code formatting and linting — over a first-party cdylib via FFM.", :group_name "com.blockether", :jar_name "ruff", :version "0.3.3"}
+{:created 1785494567622, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.12.1"}
+{:created 1785494730726, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.12.1"}
+{:created 1785494898574, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.12.1"}
+{:created 1785494929186, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.12.1"}
