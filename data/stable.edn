@@ -1,12 +1,3 @@
-{:created 1785326418643, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.13"}
-{:created 1785326423935, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.13"}
-{:created 1785326429644, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.13"}
-{:created 1785326434617, :description "com.blockether/vis-language-typescript-bun - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-typescript-bun", :version "0.1.13"}
-{:created 1785326439729, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.13"}
-{:created 1785326444723, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.13"}
-{:created 1785326450081, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.13"}
-{:created 1785326455693, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.13"}
-{:created 1785326461486, :description "com.blockether/vis-provider-openrouter - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openrouter", :version "0.1.13"}
 {:created 1785326467038, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.13"}
 {:created 1785326471961, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.13"}
 {:created 1785326476942, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.13"}
@@ -254,3 +245,12 @@
 {:created 1785529487983, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-hyper", :version "0.2.57"}
 {:created 1785531626634, :description "A Clojure library for SEC EDGAR — filings, financials, and XBRL data, ready for research.", :group_name "com.github.clojure-finance", :jar_name "edgarjure", :version "0.4.0"}
 {:created 1785535926151, :description nil, :group_name "co.multiply", :jar_name "quiescent", :version "0.7.0"}
+{:created 1785537076552, :description "Schemaless, low-alloc binary serialization for Clojure (JDK 25 FFM).", :group_name "com.s-exp", :jar_name "hako", :version "1.0.0-alpha47"}
+{:created 1785539025593, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-dsl", :version "0.5.10"}
+{:created 1785539133819, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.32.0"}
+{:created 1785539467195, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.65.0"}
+{:created 1785539540778, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.65.0"}
+{:created 1785539592122, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.65.0"}
+{:created 1785539691608, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.65.0"}
+{:created 1785539763125, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.65.0"}
+{:created 1785539816054, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.65.0"}
