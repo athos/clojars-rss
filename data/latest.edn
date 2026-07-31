@@ -1,10 +1,3 @@
-{:created 1785272116822, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.42"}
-{:created 1785273425498, :description "Queryable, Datahike-backed version control with Git compatibility.", :group_name "org.replikativ", :jar_name "geschichte", :version "0.1.11"}
-{:created 1785274011124, :description "Workflow Engine for Clojure(script)", :group_name "tech.thomascothran", :jar_name "limn", :version "1.0.46"}
-{:created 1785274660281, :description "Unified copy-on-write memory model protocols for heterogeneous storage systems", :group_name "org.replikativ", :jar_name "yggdrasil", :version "0.3.38"}
-{:created 1785274931587, :description "Queryable, Datahike-backed version control with Git compatibility.", :group_name "org.replikativ", :jar_name "geschichte", :version "0.1.12"}
-{:created 1785275496116, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.43"}
-{:created 1785279496770, :description "Terminal UI library for Clojure", :group_name "de.timokramer", :jar_name "charm.clj", :version "0.2.73"}
 {:created 1785282671499, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-auth", :version "0.11.2673"}
 {:created 1785282696877, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-datahike", :version "0.11.2673"}
 {:created 1785282709847, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-email", :version "0.11.2673"}
@@ -226,7 +219,6 @@
 {:created 1785472533318, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.318"}
 {:created 1785474767651, :description "Parse Org-mode text into an AST (EDN data)", :group_name "org.clojars.bzg", :jar_name "organ", :version "3.2.2"}
 {:created 1785480281466, :description "Schemaless, low-alloc binary serialization for Clojure (JDK 25 FFM).", :group_name "com.s-exp", :jar_name "hako", :version "1.0.0-alpha44"}
-{:created 1785480538871, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.0-SNAPSHOT"}
 {:created 1785482153426, :description "Simple, high-performance event-driven HTTP client+server for Clojure", :group_name "http-kit", :jar_name "http-kit", :version "2.9.0-beta4"}
 {:created 1785483611112, :description nil, :group_name "com.leifericf", :jar_name "clj-zig", :version "2026.07.31-alpha1"}
 {:created 1785483830167, :description "Server-resource runtime for BareDOM — drives presentational web components from server state without client-side business logic. Reads and writes.", :group_name "com.github.avanelsas", :jar_name "barebuild", :version "0.4.0"}
@@ -254,3 +246,11 @@
 {:created 1785494730726, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.12.1"}
 {:created 1785494898574, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.12.1"}
 {:created 1785494929186, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.12.1"}
+{:created 1785495932657, :description "Prebuilt imaging-c cdylib (FFM) for linux-arm64.", :group_name "com.blockether", :jar_name "imaging-native-linux-arm64", :version "0.1.2"}
+{:created 1785495941343, :description "Prebuilt imaging-c cdylib (FFM) for linux-x64.", :group_name "com.blockether", :jar_name "imaging-native-linux-x64", :version "0.1.2"}
+{:created 1785495962973, :description "Prebuilt imaging-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-arm64", :version "0.1.2"}
+{:created 1785495963088, :description "Prebuilt imaging-c cdylib (FFM) for darwin-x64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-x64", :version "0.1.2"}
+{:created 1785496081067, :description "Prebuilt imaging-c cdylib (FFM) for windows-x64.", :group_name "com.blockether", :jar_name "imaging-native-windows-x64", :version "0.1.2"}
+{:created 1785496131116, :description "Imaging for Clojure without java.desktop — decode/encode, transforms, drawing, text, SVG and plotting over a Rust cdylib via FFM.", :group_name "com.blockether", :jar_name "imaging", :version "0.1.2"}
+{:created 1785497606517, :description "One tiny seam over the host, so the same .cljc runs on Clojure (JVM) and cljgo.", :group_name "net.clojars.muthuishere", :jar_name "koine", :version "0.6.0"}
+{:created 1785497794263, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.0-SNAPSHOT"}
