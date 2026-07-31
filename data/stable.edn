@@ -1,8 +1,3 @@
-{:created 1785270839504, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-reitit", :version "0.11.2660"}
-{:created 1785270854412, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-rum", :version "0.11.2660"}
-{:created 1785270871004, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-theme", :version "0.11.2660"}
-{:created 1785270892250, :description nil, :group_name "systems.bread", :jar_name "bread-theme-crust", :version "0.11.2660"}
-{:created 1785270999845, :description "Parse bash, gate it with an allow/deny permit, run it through a pluggable host (JVM, Node, browser).", :group_name "org.replikativ", :jar_name "muschel", :version "0.2.19"}
 {:created 1785271269550, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1754"}
 {:created 1785272116822, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.42"}
 {:created 1785273425498, :description "Queryable, Datahike-backed version control with Git compatibility.", :group_name "org.replikativ", :jar_name "geschichte", :version "0.1.11"}
@@ -254,3 +249,8 @@
 {:created 1785504186790, :description "Prebuilt imaging-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-arm64", :version "0.1.3"}
 {:created 1785504405040, :description "Prebuilt imaging-c cdylib (FFM) for windows-x64.", :group_name "com.blockether", :jar_name "imaging-native-windows-x64", :version "0.1.3"}
 {:created 1785504465369, :description "Imaging for Clojure without java.desktop — decode/encode, transforms, drawing, text, SVG and plotting over a Rust cdylib via FFM.", :group_name "com.blockether", :jar_name "imaging", :version "0.1.3"}
+{:created 1785505990878, :description "Server-resource runtime for BareDOM — drives presentational web components from server state without client-side business logic. Reads and writes.", :group_name "com.github.avanelsas", :jar_name "barebuild", :version "0.5.0"}
+{:created 1785508086167, :description "Time-travel replay debugger for BareBuild apps. Records the event log, reconstructs any state by replaying the pure step, and re-projects it onto live components.", :group_name "com.github.avanelsas", :jar_name "barereplay", :version "0.2.2"}
+{:created 1785508247485, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.2.132"}
+{:created 1785508291477, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.2.132"}
+{:created 1785508365748, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-bybit", :version "0.1.19"}
