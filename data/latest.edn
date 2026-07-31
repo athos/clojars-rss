@@ -1,26 +1,3 @@
-{:created 1785299830480, :description "composable plotting in Clojure", :group_name "org.scicloj", :jar_name "plotje", :version "0.6.0"}
-{:created 1785307598627, :description "Clojure library for shared code between clojure taps", :group_name "singer-clojure", :jar_name "singer-clojure", :version "1.2.2"}
-{:created 1785307674705, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.3.77"}
-{:created 1785310495203, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1756"}
-{:created 1785311311654, :description "Micro toolkit for Clojure/Script errors.", :group_name "com.taoensso", :jar_name "truss", :version "2.5.1"}
-{:created 1785311762871, :description "Core utils library for Clojure/Script", :group_name "com.taoensso", :jar_name "encore", :version "3.171.1"}
-{:created 1785312140850, :description "Queryable, Datahike-backed version control with Git compatibility.", :group_name "org.replikativ", :jar_name "geschichte", :version "0.1.14"}
-{:created 1785313271710, :description "Unified copy-on-write memory model protocols for heterogeneous storage systems", :group_name "org.replikativ", :jar_name "yggdrasil", :version "0.3.39"}
-{:created 1785316441768, :description "Schemaless, low-alloc binary serialization for Clojure (JDK 25 FFM).", :group_name "com.s-exp", :jar_name "hako", :version "1.0.0-alpha32"}
-{:created 1785317390636, :description "Clojure bindings for the Rockbox DSP, metadata, and playback engine (Java FFM over the shared rockbox-ffi C ABI).", :group_name "io.github.tsirysndr", :jar_name "rockbox-clj-ffi", :version "0.6.0"}
-{:created 1785318520534, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1757"}
-{:created 1785320989537, :description "Prebuilt ruff-c cdylib (FFM) for linux-arm64.", :group_name "com.blockether", :jar_name "ruff-native-linux-arm64", :version "0.2.0"}
-{:created 1785320997524, :description "Prebuilt ruff-c cdylib (FFM) for linux-x64.", :group_name "com.blockether", :jar_name "ruff-native-linux-x64", :version "0.2.0"}
-{:created 1785321001133, :description "Prebuilt ruff-c cdylib (FFM) for darwin-x64.", :group_name "com.blockether", :jar_name "ruff-native-darwin-x64", :version "0.2.0"}
-{:created 1785321029234, :description "Prebuilt ruff-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "ruff-native-darwin-arm64", :version "0.2.0"}
-{:created 1785321290198, :description "Prebuilt ruff-c cdylib (FFM) for windows-x64.", :group_name "com.blockether", :jar_name "ruff-native-windows-x64", :version "0.2.0"}
-{:created 1785321332419, :description "Clojure binding to ruff — Python code formatting and linting — over a first-party cdylib via FFM.", :group_name "com.blockether", :jar_name "ruff", :version "0.2.0"}
-{:created 1785321514509, :description nil, :group_name "net.hughpowell", :jar_name "shrapnel", :version "0.1.9"}
-{:created 1785324111084, :description "Prebuilt ruff-c cdylib (FFM) for linux-x64.", :group_name "com.blockether", :jar_name "ruff-native-linux-x64", :version "0.3.2"}
-{:created 1785324114430, :description "Prebuilt ruff-c cdylib (FFM) for darwin-x64.", :group_name "com.blockether", :jar_name "ruff-native-darwin-x64", :version "0.3.2"}
-{:created 1785324139016, :description "Prebuilt ruff-c cdylib (FFM) for linux-arm64.", :group_name "com.blockether", :jar_name "ruff-native-linux-arm64", :version "0.3.2"}
-{:created 1785324181343, :description "Prebuilt ruff-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "ruff-native-darwin-arm64", :version "0.3.2"}
-{:created 1785324460341, :description "Prebuilt ruff-c cdylib (FFM) for windows-x64.", :group_name "com.blockether", :jar_name "ruff-native-windows-x64", :version "0.3.2"}
 {:created 1785324513033, :description "Clojure binding to ruff — Python code formatting and linting — over a first-party cdylib via FFM.", :group_name "com.blockether", :jar_name "ruff", :version "0.3.2"}
 {:created 1785324698931, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.85"}
 {:created 1785325699341, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.86"}
@@ -254,3 +231,26 @@
 {:created 1785508247485, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.2.132"}
 {:created 1785508291477, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.2.132"}
 {:created 1785508365748, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-bybit", :version "0.1.19"}
+{:created 1785510972940, :description "Developer tooling for the Wagoe framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "com.wagoe", :jar_name "wagoe-tools", :version "1.0.0-beta-3"}
+{:created 1785511016115, :description "Foundation library for Wagoe framework: validation, utilities, interceptors", :group_name "com.wagoe", :jar_name "wagoe-core", :version "1.0.0-beta-3"}
+{:created 1785511061177, :description "Observability library for Wagoe framework: logging, metrics, error reporting", :group_name "com.wagoe", :jar_name "wagoe-observability", :version "1.0.0-beta-3"}
+{:created 1785511065443, :description "Library of commonly used functions for web app development", :group_name "com.github.dgknght", :jar_name "app-lib", :version "0.3.50"}
+{:created 1785511103731, :description "Audience segmentation for Wagoe framework: declarative segments, hybrid evaluation, composable filters, and visual builder UI", :group_name "com.wagoe", :jar_name "wagoe-audience", :version "1.0.0-beta-3"}
+{:created 1785511145627, :description "Internationalisation (i18n) for Wagoe framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "com.wagoe", :jar_name "wagoe-i18n", :version "1.0.0-beta-3"}
+{:created 1785511187479, :description "Code generation library for Wagoe framework: module scaffolding", :group_name "com.wagoe", :jar_name "wagoe-scaffolder", :version "1.0.0-beta-3"}
+{:created 1785511230378, :description "Cache library for Wagoe framework: in-memory and Redis cache adapters", :group_name "com.wagoe", :jar_name "wagoe-cache", :version "1.0.0-beta-3"}
+{:created 1785511272894, :description "Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication", :group_name "com.wagoe", :jar_name "wagoe-realtime", :version "1.0.0-beta-3"}
+{:created 1785511315583, :description "PSP abstraction for Wagoe framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "com.wagoe", :jar_name "wagoe-payments", :version "1.0.0-beta-3"}
+{:created 1785511361287, :description "Platform library for Wagoe framework: database, HTTP, configuration, modules", :group_name "com.wagoe", :jar_name "wagoe-platform", :version "1.0.0-beta-3"}
+{:created 1785511406696, :description "Storage library for Wagoe framework: local filesystem and S3 adapters", :group_name "com.wagoe", :jar_name "wagoe-storage", :version "1.0.0-beta-3"}
+{:created 1785511449839, :description "Multi-tenancy library for Wagoe framework: schema isolation, tenant resolution, provisioning", :group_name "com.wagoe", :jar_name "wagoe-tenant", :version "1.0.0-beta-3"}
+{:created 1785511493375, :description "One tiny seam over the host, so the same .cljc runs on Clojure (JVM) and cljgo.", :group_name "net.clojars.muthuishere", :jar_name "koine", :version "0.7.0"}
+{:created 1785511494592, :description "Jobs library for Wagoe framework: background job queuing with in-memory and Redis adapters", :group_name "com.wagoe", :jar_name "wagoe-jobs", :version "1.0.0-beta-3"}
+{:created 1785511539377, :description "Push notification library for Wagoe framework: FCM and APNs support, device management, delivery analytics", :group_name "com.wagoe", :jar_name "wagoe-push", :version "1.0.0-beta-3"}
+{:created 1785511582520, :description "External service adapters library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-external", :version "1.0.0-beta-3"}
+{:created 1785511627155, :description "Email sending library for Wagoe framework: SMTP support, composition, validation", :group_name "com.wagoe", :jar_name "wagoe-email", :version "1.0.0-beta-3"}
+{:created 1785511669699, :description "Geocoding abstraction for Wagoe framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation", :group_name "com.wagoe", :jar_name "wagoe-geo", :version "1.0.0-beta-3"}
+{:created 1785511713284, :description "PDF and Excel report generation for Wagoe framework: Hiccup templates, declarative sections, async via jobs module", :group_name "com.wagoe", :jar_name "wagoe-reports", :version "1.0.0-beta-3"}
+{:created 1785511755344, :description "Multi-provider AI library for Wagoe framework: Anthropic, OpenAI, Ollama", :group_name "com.wagoe", :jar_name "wagoe-ai", :version "1.0.0-beta-3"}
+{:created 1785511842573, :description "Shared UI library for Wagoe framework: layout, components, Hiccup rendering helpers", :group_name "com.wagoe", :jar_name "wagoe-shared-ui", :version "1.0.0-beta-3"}
+{:created 1785511931288, :description "Calendar and scheduling for Wagoe framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "com.wagoe", :jar_name "wagoe-calendar", :version "1.0.0-beta-3"}
