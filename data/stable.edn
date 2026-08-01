@@ -1,14 +1,3 @@
-{:created 1785326467038, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.13"}
-{:created 1785326471961, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.13"}
-{:created 1785326476942, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.13"}
-{:created 1785326482068, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.13"}
-{:created 1785328108547, :description "Swagger UI for Ring apps", :group_name "metosin", :jar_name "ring-swagger-ui", :version "5.32.11"}
-{:created 1785329592419, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.88"}
-{:created 1785331608439, :description "Structured logs and telemetry for Clojure/Script", :group_name "com.taoensso", :jar_name "telemere", :version "1.3.0"}
-{:created 1785331634284, :description "Telemere backend/provider for SLF4J API v2", :group_name "com.taoensso", :jar_name "telemere-slf4j", :version "1.3.0"}
-{:created 1785340187901, :description "Time-travel replay debugger for BareBuild apps. Records the event log, reconstructs any state by replaying the pure step, and re-projects it onto live components.", :group_name "com.github.avanelsas", :jar_name "barereplay", :version "0.2.0"}
-{:created 1785340425918, :description "Structured logs and telemetry for Clojure/Script", :group_name "com.taoensso", :jar_name "telemere", :version "1.4.0"}
-{:created 1785340484610, :description "Telemere backend/provider for SLF4J API v2", :group_name "com.taoensso", :jar_name "telemere-slf4j", :version "1.4.0"}
 {:created 1785345376237, :description "website c4k-installation package", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-website", :version "4.3.1"}
 {:created 1785346020370, :description "website c4k-installation package", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-website", :version "4.3.2"}
 {:created 1785346419043, :description "Spec-driven GraphQL API fronting real REST backends", :group_name "io.github.rthadani", :jar_name "bff", :version "0.3.0"}
@@ -254,3 +243,14 @@
 {:created 1785539691608, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.65.0"}
 {:created 1785539763125, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.65.0"}
 {:created 1785539816054, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.65.0"}
+{:created 1785540752701, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.14.0"}
+{:created 1785541352482, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.65.1"}
+{:created 1785541419589, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.65.0"}
+{:created 1785541491389, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic Neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.65.0"}
+{:created 1785541843522, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-base", :version "0.46.1"}
+{:created 1785541870223, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-test", :version "0.46.1"}
+{:created 1785541959468, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-dnnl", :version "0.46.1"}
+{:created 1785541983940, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-bnns", :version "0.46.1"}
+{:created 1785542103581, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-cuda", :version "0.46.1"}
+{:created 1785542508549, :description "Fast Clojure Deep Learning Library", :group_name "uncomplicate", :jar_name "deep-diamond", :version "0.46.1"}
+{:created 1785543446907, :description "Fast Clojure Machine Learning Model Integration", :group_name "org.uncomplicate", :jar_name "diamond-onnxrt", :version "0.29.0"}

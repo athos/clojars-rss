@@ -1,14 +1,3 @@
-{:created 1785352426365, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.89"}
-{:created 1785354122138, :description "Datastar binding for remuda", :group_name "com.github.brettatoms", :jar_name "darkstar", :version "0.1.21"}
-{:created 1785354272905, :description "Zodiac extension for remuda and darkstar", :group_name "com.github.brettatoms", :jar_name "zodiac-live", :version "0.1.9999-SNAPSHOT"}
-{:created 1785354776515, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-emacs", :version "0.4.8"}
-{:created 1785356347435, :description "A terminal (TUI) rendering target for Fulcro, backed by JLine", :group_name "com.fulcrologic", :jar_name "fulcro-tui", :version "1.0.3"}
-{:created 1785363248011, :description "Workflow Engine for Clojure(script)", :group_name "tech.thomascothran", :jar_name "limn", :version "1.0.47"}
-{:created 1785371488867, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1758"}
-{:created 1785375188849, :description "A statechart-driven autonomous coding agent.", :group_name "com.fulcrologic", :jar_name "escapement", :version "1.0.0"}
-{:created 1785377228436, :description nil, :group_name "io.github.clojure-quant", :jar_name "fix-encoding", :version "0.1.76"}
-{:created 1785377320469, :description "Ring-based authentication and authorization library for Clojure", :group_name "sg.flybot", :jar_name "oie", :version "0.3.0"}
-{:created 1785377399906, :description "A fast pure-Clojure port of the SnakeYAML Engine parser", :group_name "org.yamlstar", :jar_name "snakeyaml-engine", :version "0.1.1"}
 {:created 1785377551657, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.0-rc10"}
 {:created 1785377570662, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.0-rc10"}
 {:created 1785377588906, :description nil, :group_name "com.biffweb", :jar_name "fx", :version "2.0.0-rc10"}
@@ -254,3 +243,14 @@
 {:created 1785539691608, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.65.0"}
 {:created 1785539763125, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.65.0"}
 {:created 1785539816054, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.65.0"}
+{:created 1785540752701, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.14.0"}
+{:created 1785541352482, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.65.1"}
+{:created 1785541419589, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.65.0"}
+{:created 1785541491389, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic Neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.65.0"}
+{:created 1785541843522, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-base", :version "0.46.1"}
+{:created 1785541870223, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-test", :version "0.46.1"}
+{:created 1785541959468, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-dnnl", :version "0.46.1"}
+{:created 1785541983940, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-bnns", :version "0.46.1"}
+{:created 1785542103581, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-cuda", :version "0.46.1"}
+{:created 1785542508549, :description "Fast Clojure Deep Learning Library", :group_name "uncomplicate", :jar_name "deep-diamond", :version "0.46.1"}
+{:created 1785543446907, :description "Fast Clojure Machine Learning Model Integration", :group_name "org.uncomplicate", :jar_name "diamond-onnxrt", :version "0.29.0"}
