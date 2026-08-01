@@ -4,7 +4,98 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 1 Aug 2026 20:16:53 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 1 Aug 2026 21:15:39 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/cc.clojure/grenadine/versions/0.1.1</guid>
+    <title>[cc.clojure/grenadine &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/cc.clojure/grenadine/versions/0.1.1</link>
+    <description>Portable Maven dependency resolution for Clojure dialects</description>
+    <pubDate>Sat, 1 Aug 2026 21:11:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.41</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.41&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.41</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage: inline image rendering (Kitty graphics protocol / iTerm2), terminal graphics-capability detection (isGraphicalTerminal), intrinsic pixel-dimension sniffing and aspect-preserving cell-box sizing, plus Kitty source-rectangle cropping (encodeKitty crop overload / transcodePng) so an image scrolled partly past the transcript&#39;s top or bottom edge renders its visible slice at native scale instead of vanishing. Superset of com.googlecode.lanterna:lanterna:3.1.5 - same packages and classes, one added package. Retire the width/emoji patches when upstream ships equivalent fixes; the image API is Blockether-original.</description>
+    <pubDate>Sat, 1 Aug 2026 21:01:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging/versions/0.1.5</guid>
+    <title>[com.blockether/imaging &quot;0.1.5&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging/versions/0.1.5</link>
+    <description>Imaging for Clojure without java.desktop — decode/encode, transforms, drawing, text, SVG and plotting over a Rust cdylib via FFM.</description>
+    <pubDate>Sat, 1 Aug 2026 20:59:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-windows-x64/versions/0.1.5</guid>
+    <title>[com.blockether/imaging-native-windows-x64 &quot;0.1.5&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-windows-x64/versions/0.1.5</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for windows-x64.</description>
+    <pubDate>Sat, 1 Aug 2026 20:58:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-darwin-x64/versions/0.1.5</guid>
+    <title>[com.blockether/imaging-native-darwin-x64 &quot;0.1.5&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-darwin-x64/versions/0.1.5</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for darwin-x64.</description>
+    <pubDate>Sat, 1 Aug 2026 20:56:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-linux-x64/versions/0.1.5</guid>
+    <title>[com.blockether/imaging-native-linux-x64 &quot;0.1.5&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-linux-x64/versions/0.1.5</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for linux-x64.</description>
+    <pubDate>Sat, 1 Aug 2026 20:56:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-darwin-arm64/versions/0.1.5</guid>
+    <title>[com.blockether/imaging-native-darwin-arm64 &quot;0.1.5&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-darwin-arm64/versions/0.1.5</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for darwin-arm64.</description>
+    <pubDate>Sat, 1 Aug 2026 20:56:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-linux-arm64/versions/0.1.5</guid>
+    <title>[com.blockether/imaging-native-linux-arm64 &quot;0.1.5&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-linux-arm64/versions/0.1.5</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for linux-arm64.</description>
+    <pubDate>Sat, 1 Aug 2026 20:55:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.clojure-finance/edgarjure/versions/0.4.1</guid>
+    <title>[com.github.clojure-finance/edgarjure &quot;0.4.1&quot;]</title>
+    <link>https://clojars.org/com.github.clojure-finance/edgarjure/versions/0.4.1</link>
+    <description>A Clojure library for SEC EDGAR — filings, financials, and XBRL data, ready for research.</description>
+    <pubDate>Sat, 1 Aug 2026 20:51:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.365</guid>
+    <title>[org.replikativ/konserve &quot;0.9.365&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.365</link>
+    <description>Durable cross-platform key-value store protocol with core.async.</description>
+    <pubDate>Sat, 1 Aug 2026 20:45:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ai.intergraph/game-player/versions/0.1.4-SNAPSHOT</guid>
+    <title>[ai.intergraph/game-player &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/ai.intergraph/game-player/versions/0.1.4-SNAPSHOT</link>
+    <description>Reusable player-agent library for Intergraph games</description>
+    <pubDate>Sat, 1 Aug 2026 20:33:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/boring/versions/0.1.6</guid>
+    <title>[org.replikativ/boring &quot;0.1.6&quot;]</title>
+    <link>https://clojars.org/org.replikativ/boring/versions/0.1.6</link>
+    <description>Fast, portable CBOR serialization for Clojure and ClojureScript, in a format other languages can read.</description>
+    <pubDate>Sat, 1 Aug 2026 20:29:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ai.intergraph/game-master/versions/0.1.4-SNAPSHOT</guid>
+    <title>[ai.intergraph/game-master &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/ai.intergraph/game-master/versions/0.1.4-SNAPSHOT</link>
+    <description>Reusable Game Master runtime library for Intergraph</description>
+    <pubDate>Sat, 1 Aug 2026 20:21:11 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/spel/versions/0.9.21</guid>
     <title>[com.blockether/spel &quot;0.9.21&quot;]</title>
@@ -1711,97 +1802,6 @@
     <link>https://clojars.org/com.blockether/ruff-native-windows-x64/versions/0.3.3</link>
     <description>Prebuilt ruff-c cdylib (FFM) for windows-x64.</description>
     <pubDate>Fri, 31 Jul 2026 10:39:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/ruff-native-darwin-arm64/versions/0.3.3</guid>
-    <title>[com.blockether/ruff-native-darwin-arm64 &quot;0.3.3&quot;]</title>
-    <link>https://clojars.org/com.blockether/ruff-native-darwin-arm64/versions/0.3.3</link>
-    <description>Prebuilt ruff-c cdylib (FFM) for darwin-arm64.</description>
-    <pubDate>Fri, 31 Jul 2026 10:37:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/ruff-native-darwin-x64/versions/0.3.3</guid>
-    <title>[com.blockether/ruff-native-darwin-x64 &quot;0.3.3&quot;]</title>
-    <link>https://clojars.org/com.blockether/ruff-native-darwin-x64/versions/0.3.3</link>
-    <description>Prebuilt ruff-c cdylib (FFM) for darwin-x64.</description>
-    <pubDate>Fri, 31 Jul 2026 10:34:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/ruff-native-linux-arm64/versions/0.3.3</guid>
-    <title>[com.blockether/ruff-native-linux-arm64 &quot;0.3.3&quot;]</title>
-    <link>https://clojars.org/com.blockether/ruff-native-linux-arm64/versions/0.3.3</link>
-    <description>Prebuilt ruff-c cdylib (FFM) for linux-arm64.</description>
-    <pubDate>Fri, 31 Jul 2026 10:34:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/ruff-native-linux-x64/versions/0.3.3</guid>
-    <title>[com.blockether/ruff-native-linux-x64 &quot;0.3.3&quot;]</title>
-    <link>https://clojars.org/com.blockether/ruff-native-linux-x64/versions/0.3.3</link>
-    <description>Prebuilt ruff-c cdylib (FFM) for linux-x64.</description>
-    <pubDate>Fri, 31 Jul 2026 10:33:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyci/plugin-clj/versions/0.5.0-SNAPSHOT</guid>
-    <title>[com.monkeyci/plugin-clj &quot;0.5.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.monkeyci/plugin-clj/versions/0.5.0-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Fri, 31 Jul 2026 09:45:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/funcool/promesa/versions/12.0.1</guid>
-    <title>[funcool/promesa &quot;12.0.1&quot;]</title>
-    <link>https://clojars.org/funcool/promesa/versions/12.0.1</link>
-    <description>A promise library and concurency toolkit for Clojure and ClojureScript.</description>
-    <pubDate>Fri, 31 Jul 2026 09:27:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-platform/versions/1.0.0-beta-2</guid>
-    <title>[com.wagoe/wagoe-platform &quot;1.0.0-beta-2&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-platform/versions/1.0.0-beta-2</link>
-    <description>Platform library for Wagoe framework: database, HTTP, configuration, modules</description>
-    <pubDate>Fri, 31 Jul 2026 09:26:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-payments/versions/1.0.0-beta-2</guid>
-    <title>[com.wagoe/wagoe-payments &quot;1.0.0-beta-2&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-payments/versions/1.0.0-beta-2</link>
-    <description>PSP abstraction for Wagoe framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
-    <pubDate>Fri, 31 Jul 2026 09:25:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.muthuishere/koine/versions/0.4.2</guid>
-    <title>[net.clojars.muthuishere/koine &quot;0.4.2&quot;]</title>
-    <link>https://clojars.org/net.clojars.muthuishere/koine/versions/0.4.2</link>
-    <description>One tiny seam over the host, so the same .cljc runs on Clojure (JVM) and cljgo.</description>
-    <pubDate>Fri, 31 Jul 2026 09:24:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-realtime/versions/1.0.0-beta-2</guid>
-    <title>[com.wagoe/wagoe-realtime &quot;1.0.0-beta-2&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-realtime/versions/1.0.0-beta-2</link>
-    <description>Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication</description>
-    <pubDate>Fri, 31 Jul 2026 09:24:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-i18n/versions/1.0.0-beta-2</guid>
-    <title>[com.wagoe/wagoe-i18n &quot;1.0.0-beta-2&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-i18n/versions/1.0.0-beta-2</link>
-    <description>Internationalisation (i18n) for Wagoe framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management</description>
-    <pubDate>Fri, 31 Jul 2026 09:18:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-audience/versions/1.0.0-beta-2</guid>
-    <title>[com.wagoe/wagoe-audience &quot;1.0.0-beta-2&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-audience/versions/1.0.0-beta-2</link>
-    <description>Audience segmentation for Wagoe framework: declarative segments, hybrid evaluation, composable filters, and visual builder UI</description>
-    <pubDate>Fri, 31 Jul 2026 09:17:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-observability/versions/1.0.0-beta-2</guid>
-    <title>[com.wagoe/wagoe-observability &quot;1.0.0-beta-2&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-observability/versions/1.0.0-beta-2</link>
-    <description>Observability library for Wagoe framework: logging, metrics, error reporting</description>
-    <pubDate>Fri, 31 Jul 2026 09:16:55 +0000</pubDate>
   </item>
   </channel>
 </rss>
