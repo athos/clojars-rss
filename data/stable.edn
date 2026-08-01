@@ -1,6 +1,3 @@
-{:created 1785346486924, :description "Integrant methods for Datalevin", :group_name "org.duct-framework", :jar_name "database.datalevin", :version "0.1.1"}
-{:created 1785346843659, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.1.2"}
-{:created 1785351375851, :description "A Fulcro RAD database adapter that uses Git as the persistence layer.", :group_name "us.whitford", :jar_name "fulcro-rad-git", :version "0.2.0-RC1"}
 {:created 1785352237968, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.1.3"}
 {:created 1785352283439, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-mcp", :version "0.18.3"}
 {:created 1785352426365, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.89"}
@@ -254,3 +251,6 @@
 {:created 1785543993050, :description "", :group_name "org.uncomplicate", :jar_name "illamanati-base", :version "0.6.0"}
 {:created 1785544172188, :description "", :group_name "org.uncomplicate", :jar_name "illamanati-cuda", :version "0.6.0"}
 {:created 1785544648103, :description "", :group_name "org.uncomplicate", :jar_name "illamanati-onnxrt", :version "0.6.0"}
+{:created 1785549097313, :description "One tiny seam over the host, so the same .cljc runs on Clojure (JVM) and cljgo.", :group_name "net.clojars.muthuishere", :jar_name "koine", :version "0.7.3"}
+{:created 1785549605217, :description "Vaelii — a contextualized common-sense knowledge base with a\n                flattened count-aware trie index, forward/backward inference,\n                and JTMS truth maintenance, over an in-memory or on-disk store.", :group_name "com.vaelii", :jar_name "vaelii", :version "0.1.0"}
+{:created 1785549613019, :description "Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and\n                ATOMIC, each translated into one corpus format, discovered through\n                vaelii's plugin seam.", :group_name "com.vaelii", :jar_name "vaelii-foreign", :version "0.1.0"}
