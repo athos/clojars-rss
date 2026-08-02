@@ -4,7 +4,71 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 2 Aug 2026 17:19:22 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 2 Aug 2026 18:17:23 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.s-exp/hako/versions/1.0.0-alpha54</guid>
+    <title>[com.s-exp/hako &quot;1.0.0-alpha54&quot;]</title>
+    <link>https://clojars.org/com.s-exp/hako/versions/1.0.0-alpha54</link>
+    <description>Schemaless, low-alloc binary serialization for Clojure (JDK 25 FFM).</description>
+    <pubDate>Sun, 2 Aug 2026 18:04:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging/versions/0.1.6</guid>
+    <title>[com.blockether/imaging &quot;0.1.6&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging/versions/0.1.6</link>
+    <description>Imaging for Clojure without java.desktop — decode/encode, transforms, drawing, text, SVG and plotting over a Rust cdylib via FFM.</description>
+    <pubDate>Sun, 2 Aug 2026 17:44:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-windows-x64/versions/0.1.6</guid>
+    <title>[com.blockether/imaging-native-windows-x64 &quot;0.1.6&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-windows-x64/versions/0.1.6</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for windows-x64.</description>
+    <pubDate>Sun, 2 Aug 2026 17:43:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-darwin-arm64/versions/0.1.6</guid>
+    <title>[com.blockether/imaging-native-darwin-arm64 &quot;0.1.6&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-darwin-arm64/versions/0.1.6</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for darwin-arm64.</description>
+    <pubDate>Sun, 2 Aug 2026 17:40:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-linux-x64/versions/0.1.6</guid>
+    <title>[com.blockether/imaging-native-linux-x64 &quot;0.1.6&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-linux-x64/versions/0.1.6</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for linux-x64.</description>
+    <pubDate>Sun, 2 Aug 2026 17:40:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-darwin-x64/versions/0.1.6</guid>
+    <title>[com.blockether/imaging-native-darwin-x64 &quot;0.1.6&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-darwin-x64/versions/0.1.6</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for darwin-x64.</description>
+    <pubDate>Sun, 2 Aug 2026 17:40:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-linux-arm64/versions/0.1.6</guid>
+    <title>[com.blockether/imaging-native-linux-arm64 &quot;0.1.6&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-linux-arm64/versions/0.1.6</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for linux-arm64.</description>
+    <pubDate>Sun, 2 Aug 2026 17:40:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/yetibot/versions/20260802.173349.3e69b62</guid>
+    <title>[yetibot &quot;20260802.173349.3e69b62&quot;]</title>
+    <link>https://clojars.org/yetibot/versions/20260802.173349.3e69b62</link>
+    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
+    <pubDate>Sun, 2 Aug 2026 17:34:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/yetibot/core/versions/20260802.173229.ab1011a</guid>
+    <title>[yetibot/core &quot;20260802.173229.ab1011a&quot;]</title>
+    <link>https://clojars.org/yetibot/core/versions/20260802.173229.ab1011a</link>
+    <description>Core yetibot utilities, extracted for shared use among yetibot
+                and its various plugins</description>
+    <pubDate>Sun, 2 Aug 2026 17:33:07 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/yetibot/versions/20260802.171453.96d23fb</guid>
     <title>[yetibot &quot;20260802.171453.96d23fb&quot;]</title>
@@ -1741,69 +1805,6 @@
     <link>https://clojars.org/org.uncomplicate/neanderthal-openblas/versions/0.65.0</link>
     <description>Neanderthal&#39;s OpenBLAS engine.</description>
     <pubDate>Fri, 31 Jul 2026 23:13:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/neanderthal-test/versions/0.65.0</guid>
-    <title>[org.uncomplicate/neanderthal-test &quot;0.65.0&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/neanderthal-test/versions/0.65.0</link>
-    <description>Reusable test functions for Neanderthal.</description>
-    <pubDate>Fri, 31 Jul 2026 23:12:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/neanderthal-base/versions/0.65.0</guid>
-    <title>[org.uncomplicate/neanderthal-base &quot;0.65.0&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/neanderthal-base/versions/0.65.0</link>
-    <description>Neanderthal is a Clojure library for fast matrix and linear algebra computations.</description>
-    <pubDate>Fri, 31 Jul 2026 23:11:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/uncomplicate/clojurecuda/versions/0.32.0</guid>
-    <title>[uncomplicate/clojurecuda &quot;0.32.0&quot;]</title>
-    <link>https://clojars.org/uncomplicate/clojurecuda/versions/0.32.0</link>
-    <description>ClojureCUDA is a Clojure library for parallel computations with Nvidia&#39;s CUDA.</description>
-    <pubDate>Fri, 31 Jul 2026 23:05:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-dsl/versions/0.5.10</guid>
-    <title>[io.github.hive-agi/hive-dsl &quot;0.5.10&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-dsl/versions/0.5.10</link>
-    <description></description>
-    <pubDate>Fri, 31 Jul 2026 23:03:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.s-exp/hako/versions/1.0.0-alpha47</guid>
-    <title>[com.s-exp/hako &quot;1.0.0-alpha47&quot;]</title>
-    <link>https://clojars.org/com.s-exp/hako/versions/1.0.0-alpha47</link>
-    <description>Schemaless, low-alloc binary serialization for Clojure (JDK 25 FFM).</description>
-    <pubDate>Fri, 31 Jul 2026 22:31:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/co.multiply/quiescent/versions/0.7.0</guid>
-    <title>[co.multiply/quiescent &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/co.multiply/quiescent/versions/0.7.0</link>
-    <description></description>
-    <pubDate>Fri, 31 Jul 2026 22:12:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.clojure-finance/edgarjure/versions/0.4.0</guid>
-    <title>[com.github.clojure-finance/edgarjure &quot;0.4.0&quot;]</title>
-    <link>https://clojars.org/com.github.clojure-finance/edgarjure/versions/0.4.0</link>
-    <description>A Clojure library for SEC EDGAR — filings, financials, and XBRL data, ready for research.</description>
-    <pubDate>Fri, 31 Jul 2026 21:00:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.clojure-quant/quanta-blotter-hyper/versions/0.2.57</guid>
-    <title>[io.github.clojure-quant/quanta-blotter-hyper &quot;0.2.57&quot;]</title>
-    <link>https://clojars.org/io.github.clojure-quant/quanta-blotter-hyper/versions/0.2.57</link>
-    <description></description>
-    <pubDate>Fri, 31 Jul 2026 20:24:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.camsaul/toucan2-toucan1/versions/1.0.573</guid>
-    <title>[io.github.camsaul/toucan2-toucan1 &quot;1.0.573&quot;]</title>
-    <link>https://clojars.org/io.github.camsaul/toucan2-toucan1/versions/1.0.573</link>
-    <description>Toucan 1 reimplemented in terms of Toucan 2. Compatibility layer for existing projects using Toucan 1.</description>
-    <pubDate>Fri, 31 Jul 2026 20:17:32 +0000</pubDate>
   </item>
   </channel>
 </rss>
