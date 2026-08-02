@@ -1,12 +1,3 @@
-{:created 1785512019981, :description "Workflow orchestration library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-workflow", :version "1.0.0-beta-3"}
-{:created 1785512063590, :description "Full-text search library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-search", :version "1.0.0-beta-3"}
-{:created 1785512106443, :description "wagoe CLI — project generator and module installer", :group_name "com.wagoe", :jar_name "wagoe-cli", :version "1.0.0-beta-3"}
-{:created 1785512151483, :description "Development tools and dashboard for the Wagoe framework: dev dashboard, REPL utilities, system inspection", :group_name "com.wagoe", :jar_name "wagoe-devtools", :version "1.0.0-beta-3"}
-{:created 1785512196357, :description "Model Context Protocol server for the Wagoe framework (stdio transport)", :group_name "com.wagoe", :jar_name "wagoe-mcp", :version "1.0.0-beta-3"}
-{:created 1785512931611, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-missionary", :version "0.2.24"}
-{:created 1785513558448, :description "One tiny seam over the host, so the same .cljc runs on Clojure (JVM) and cljgo.", :group_name "net.clojars.muthuishere", :jar_name "koine", :version "0.7.1"}
-{:created 1785515959790, :description "Integrant methods for managing temporary files", :group_name "org.duct-framework", :jar_name "file.temp", :version "0.1.0"}
-{:created 1785516233144, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.2.1"}
 {:created 1785518040975, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter", :version "0.2.134"}
 {:created 1785518102059, :description nil, :group_name "io.github.clojure-quant", :jar_name "quanta-blotter-cli", :version "0.2.134"}
 {:created 1785518811425, :description nil, :group_name "nubank", :jar_name "matcher-combinators", :version "3.11.0"}
@@ -254,3 +245,12 @@
 {:created 1785675836008, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.24"}
 {:created 1785675843081, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.24"}
 {:created 1785679183034, :description "Portable Maven dependency resolution for Clojure dialects", :group_name "cc.clojure", :jar_name "grenadine", :version "0.1.2"}
+{:created 1785681591918, :description "One tiny seam over the host, so the same .cljc runs on Clojure (JVM) and cljgo.", :group_name "net.clojars.muthuishere", :jar_name "koine", :version "0.10.1"}
+{:created 1785682258832, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260802.145045.c1a5f7b"}
+{:created 1785682838294, :description "A Clojure library for using SSH in Clojure that is API compatible with bbssh", :group_name "io.epiccastle", :jar_name "spire", :version "0.1.2-SNAPSHOT"}
+{:created 1785683422899, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.37"}
+{:created 1785683435641, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.37"}
+{:created 1785683448128, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.37"}
+{:created 1785683460190, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.37"}
+{:created 1785683472615, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.37"}
+{:created 1785683486631, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.37"}
