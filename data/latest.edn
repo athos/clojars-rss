@@ -1,12 +1,3 @@
-{:created 1785539592122, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.65.0"}
-{:created 1785539691608, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.65.0"}
-{:created 1785539763125, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.65.0"}
-{:created 1785539816054, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.65.0"}
-{:created 1785540752701, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.14.0"}
-{:created 1785541352482, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.65.1"}
-{:created 1785541419589, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.65.0"}
-{:created 1785541491389, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic Neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.65.0"}
-{:created 1785541843522, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-base", :version "0.46.1"}
 {:created 1785541870223, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-test", :version "0.46.1"}
 {:created 1785541959468, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-dnnl", :version "0.46.1"}
 {:created 1785541983940, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-bnns", :version "0.46.1"}
@@ -147,7 +138,6 @@
 {:created 1785607781208, :description "", :group_name "org.uncomplicate", :jar_name "illamanati-base", :version "0.9.0"}
 {:created 1785607877991, :description "", :group_name "org.uncomplicate", :jar_name "illamanati-cuda", :version "0.9.0"}
 {:created 1785608086409, :description "", :group_name "org.uncomplicate", :jar_name "illamanati-onnxrt", :version "0.9.0"}
-{:created 1785609523366, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.07.25-SNAPSHOT"}
 {:created 1785611977930, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.12.2"}
 {:created 1785612122154, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.12.2"}
 {:created 1785612296631, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.12.2"}
@@ -254,3 +244,13 @@
 {:created 1785692611551, :description "Prebuilt imaging-c cdylib (FFM) for windows-x64.", :group_name "com.blockether", :jar_name "imaging-native-windows-x64", :version "0.1.6"}
 {:created 1785692659748, :description "Imaging for Clojure without java.desktop — decode/encode, transforms, drawing, text, SVG and plotting over a Rust cdylib via FFM.", :group_name "com.blockether", :jar_name "imaging", :version "0.1.6"}
 {:created 1785693883449, :description "Schemaless, low-alloc binary serialization for Clojure (JDK 25 FFM).", :group_name "com.s-exp", :jar_name "hako", :version "1.0.0-alpha54"}
+{:created 1785695943214, :description "Portable Maven dependency resolution for Clojure dialects", :group_name "cc.clojure", :jar_name "grenadine", :version "0.1.3"}
+{:created 1785697221585, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.1437"}
+{:created 1785697961295, :description "Prebuilt imaging-c cdylib (FFM) for linux-arm64.", :group_name "com.blockether", :jar_name "imaging-native-linux-arm64", :version "0.1.7"}
+{:created 1785697973411, :description "Prebuilt imaging-c cdylib (FFM) for linux-x64.", :group_name "com.blockether", :jar_name "imaging-native-linux-x64", :version "0.1.7"}
+{:created 1785697976536, :description "Prebuilt imaging-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-arm64", :version "0.1.7"}
+{:created 1785697978039, :description "Prebuilt imaging-c cdylib (FFM) for darwin-x64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-x64", :version "0.1.7"}
+{:created 1785698139545, :description "spec2-inspired selection of Malli schemas", :group_name "dk.thinkcreate", :jar_name "malli-select", :version "0.7.1-SNAPSHOT"}
+{:created 1785698154679, :description "Prebuilt imaging-c cdylib (FFM) for windows-x64.", :group_name "com.blockether", :jar_name "imaging-native-windows-x64", :version "0.1.7"}
+{:created 1785698204630, :description "Imaging for Clojure without java.desktop — decode/encode, transforms, drawing, text, SVG and plotting over a Rust cdylib via FFM.", :group_name "com.blockether", :jar_name "imaging", :version "0.1.7"}
+{:created 1785698562881, :description "A linter for Clojure that sparks joy.", :group_name "clj-kondo", :jar_name "clj-kondo", :version "2026.07.25-SNAPSHOT"}
