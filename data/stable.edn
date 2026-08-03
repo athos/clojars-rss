@@ -1,6 +1,3 @@
-{:created 1785596620233, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260801.150259.73fdc4c"}
-{:created 1785596689513, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260801.150436.57f691b"}
-{:created 1785600287791, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.21"}
 {:created 1785600292965, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.21"}
 {:created 1785600298472, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.21"}
 {:created 1785600303986, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.21"}
@@ -254,3 +251,6 @@
 {:created 1785789025431, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "wire-core", :version "4.3.0"}
 {:created 1785789030216, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "wire", :version "4.3.0"}
 {:created 1785789904938, :description "A statechart-driven autonomous coding agent.", :group_name "com.fulcrologic", :jar_name "escapement", :version "1.0.1"}
+{:created 1785797964714, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1771"}
+{:created 1785798438206, :description "Vaelii — a contextualized common-sense knowledge base with a\n                flattened count-aware trie index, forward/backward inference,\n                and JTMS truth maintenance, over an in-memory or on-disk store.", :group_name "com.vaelii", :jar_name "vaelii", :version "0.2.0"}
+{:created 1785798603105, :description "Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and\n                ATOMIC, each translated into one corpus format, discovered through\n                vaelii's plugin seam.", :group_name "com.vaelii", :jar_name "vaelii-foreign", :version "0.2.0"}
