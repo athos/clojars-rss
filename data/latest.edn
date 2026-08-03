@@ -1,8 +1,3 @@
-{:created 1785576349438, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.9.17"}
-{:created 1785576916515, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.36"}
-{:created 1785576927353, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.36"}
-{:created 1785576938155, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.36"}
-{:created 1785576948915, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.36"}
 {:created 1785576959851, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.36"}
 {:created 1785576971544, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.36"}
 {:created 1785579343643, :description nil, :group_name "co.multiply", :jar_name "quiescent", :version "0.8.1"}
@@ -254,3 +249,8 @@
 {:created 1785726497048, :description "com.blockether/vis-workspace-rift - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-workspace-rift", :version "0.1.25"}
 {:created 1785726501747, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.25"}
 {:created 1785727217219, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.9.22"}
+{:created 1785735401673, :description "Native rift-ffi library for linux-x64.", :group_name "com.blockether", :jar_name "rift-native-linux-x64", :version "0.0.10-9"}
+{:created 1785735410116, :description "Native rift-ffi library for linux-arm64.", :group_name "com.blockether", :jar_name "rift-native-linux-arm64", :version "0.0.10-9"}
+{:created 1785735417910, :description "Native rift-ffi library for darwin-arm64.", :group_name "com.blockether", :jar_name "rift-native-darwin-arm64", :version "0.0.10-9"}
+{:created 1785735425901, :description "Native rift-ffi library for darwin-x64.", :group_name "com.blockether", :jar_name "rift-native-darwin-x64", :version "0.0.10-9"}
+{:created 1785735433618, :description "Clojure binding to rift — copy-on-write workspaces — via the JDK Foreign Function & Memory API.", :group_name "com.blockether", :jar_name "rift", :version "0.0.10-9"}
