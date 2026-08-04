@@ -4,7 +4,70 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 4 Aug 2026 10:50:51 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 4 Aug 2026 11:41:44 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.taoensso/sente/versions/1.23.0-alpha2</guid>
+    <title>[com.taoensso/sente &quot;1.23.0-alpha2&quot;]</title>
+    <link>https://clojars.org/com.taoensso/sente/versions/1.23.0-alpha2</link>
+    <description>Realtime web comms library for Clojure/Script</description>
+    <pubDate>Tue, 4 Aug 2026 11:10:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.taoensso/nippy/versions/3.9.0-alpha3</guid>
+    <title>[com.taoensso/nippy &quot;3.9.0-alpha3&quot;]</title>
+    <link>https://clojars.org/com.taoensso/nippy/versions/3.9.0-alpha3</link>
+    <description>Fast serialization library for Clojure</description>
+    <pubDate>Tue, 4 Aug 2026 11:00:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.slifin/clj-libui-declarative/versions/0.10.1</guid>
+    <title>[io.github.slifin/clj-libui-declarative &quot;0.10.1&quot;]</title>
+    <link>https://clojars.org/io.github.slifin/clj-libui-declarative/versions/0.10.1</link>
+    <description>Declarative Missionary-powered Clojure UI over clj-libui and libui-ng</description>
+    <pubDate>Tue, 4 Aug 2026 10:56:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.slifin/clj-libui/versions/0.8.1</guid>
+    <title>[io.github.slifin/clj-libui &quot;0.8.1&quot;]</title>
+    <link>https://clojars.org/io.github.slifin/clj-libui/versions/0.8.1</link>
+    <description>Clojure bindings for the libui-ng native GUI library</description>
+    <pubDate>Tue, 4 Aug 2026 10:53:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.slifin/clj-libui-platform/versions/0.8.1</guid>
+    <title>[io.github.slifin/clj-libui-platform &quot;0.8.1&quot;]</title>
+    <link>https://clojars.org/io.github.slifin/clj-libui-platform/versions/0.8.1</link>
+    <description>Platform native dependencies for clj-libui</description>
+    <pubDate>Tue, 4 Aug 2026 10:53:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.slifin/clj-libui-native-windows-x86-64/versions/0.8.1</guid>
+    <title>[io.github.slifin/clj-libui-native-windows-x86-64 &quot;0.8.1&quot;]</title>
+    <link>https://clojars.org/io.github.slifin/clj-libui-native-windows-x86-64/versions/0.8.1</link>
+    <description>Prebuilt libui-ng native library for clj-libui</description>
+    <pubDate>Tue, 4 Aug 2026 10:53:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.slifin/clj-libui-native-linux-aarch64/versions/0.8.1</guid>
+    <title>[io.github.slifin/clj-libui-native-linux-aarch64 &quot;0.8.1&quot;]</title>
+    <link>https://clojars.org/io.github.slifin/clj-libui-native-linux-aarch64/versions/0.8.1</link>
+    <description>Prebuilt libui-ng native library for clj-libui</description>
+    <pubDate>Tue, 4 Aug 2026 10:52:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.slifin/clj-libui-native-linux-x86-64/versions/0.8.1</guid>
+    <title>[io.github.slifin/clj-libui-native-linux-x86-64 &quot;0.8.1&quot;]</title>
+    <link>https://clojars.org/io.github.slifin/clj-libui-native-linux-x86-64/versions/0.8.1</link>
+    <description>Prebuilt libui-ng native library for clj-libui</description>
+    <pubDate>Tue, 4 Aug 2026 10:52:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.slifin/clj-libui-native-macos-universal/versions/0.8.1</guid>
+    <title>[io.github.slifin/clj-libui-native-macos-universal &quot;0.8.1&quot;]</title>
+    <link>https://clojars.org/io.github.slifin/clj-libui-native-macos-universal/versions/0.8.1</link>
+    <description>Prebuilt libui-ng native library for clj-libui</description>
+    <pubDate>Tue, 4 Aug 2026 10:52:27 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.cljfx/ghosttyfx/versions/0.1.212.16</guid>
     <title>[io.github.cljfx/ghosttyfx &quot;0.1.212.16&quot;]</title>
@@ -1741,69 +1804,6 @@
     <link>https://clojars.org/io.core0/slim-build-tools/versions/1.0.0-SNAPSHOT</link>
     <description>Library for generating slim JARs</description>
     <pubDate>Sun, 2 Aug 2026 03:13:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/inet.data/versions/1.0.0</guid>
-    <title>[net.clojars.savya/inet.data &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/inet.data/versions/1.0.0</link>
-    <description>Represent and manipulate various Internet entities as data.</description>
-    <pubDate>Sun, 2 Aug 2026 02:14:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.haifengl/smile/versions/6.2.5</guid>
-    <title>[org.clojars.haifengl/smile &quot;6.2.5&quot;]</title>
-    <link>https://clojars.org/org.clojars.haifengl/smile/versions/6.2.5</link>
-    <description>Smile - Statistical Machine Intelligence and Learning Engine</description>
-    <pubDate>Sun, 2 Aug 2026 01:54:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/boring/versions/0.1.7</guid>
-    <title>[org.replikativ/boring &quot;0.1.7&quot;]</title>
-    <link>https://clojars.org/org.replikativ/boring/versions/0.1.7</link>
-    <description>Fast, portable CBOR serialization for Clojure and ClojureScript, in a format other languages can read.</description>
-    <pubDate>Sun, 2 Aug 2026 00:52:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.38</guid>
-    <title>[org.replikativ/konserve-sync &quot;0.1.38&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.38</link>
-    <description>A synchronization layer for konserve key-value stores</description>
-    <pubDate>Sun, 2 Aug 2026 00:08:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.4.138</guid>
-    <title>[org.replikativ/persistent-sorted-set &quot;0.4.138&quot;]</title>
-    <link>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.4.138</link>
-    <description>A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.</description>
-    <pubDate>Sat, 1 Aug 2026 23:52:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/kabel/versions/0.3.102</guid>
-    <title>[org.replikativ/kabel &quot;0.3.102&quot;]</title>
-    <link>https://clojars.org/org.replikativ/kabel/versions/0.3.102</link>
-    <description>A library for simple wire-like connectivity semantics.</description>
-    <pubDate>Sat, 1 Aug 2026 22:59:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis/versions/0.1.22</guid>
-    <title>[com.blockether/vis &quot;0.1.22&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis/versions/0.1.22</link>
-    <description>vis - single-namespace SDK + iteration runtime + binary entry point.</description>
-    <pubDate>Sat, 1 Aug 2026 22:51:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-workspace-rift/versions/0.1.22</guid>
-    <title>[com.blockether/vis-workspace-rift &quot;0.1.22&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-workspace-rift/versions/0.1.22</link>
-    <description>com.blockether/vis-workspace-rift - vis monorepo package.</description>
-    <pubDate>Sat, 1 Aug 2026 22:51:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-provider-zai/versions/0.1.22</guid>
-    <title>[com.blockether/vis-provider-zai &quot;0.1.22&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-provider-zai/versions/0.1.22</link>
-    <description>com.blockether/vis-provider-zai - vis monorepo package.</description>
-    <pubDate>Sat, 1 Aug 2026 22:51:43 +0000</pubDate>
   </item>
   </channel>
 </rss>
