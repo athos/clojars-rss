@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 4 Aug 2026 09:51:25 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 4 Aug 2026 10:50:51 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.cljfx/ghosttyfx/versions/0.1.212.16</guid>
+    <title>[io.github.cljfx/ghosttyfx &quot;0.1.212.16&quot;]</title>
+    <link>https://clojars.org/io.github.cljfx/ghosttyfx/versions/0.1.212.16</link>
+    <description></description>
+    <pubDate>Tue, 4 Aug 2026 10:42:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.babashka/cli/versions/0.12.86</guid>
+    <title>[org.babashka/cli &quot;0.12.86&quot;]</title>
+    <link>https://clojars.org/org.babashka/cli/versions/0.12.86</link>
+    <description>Turn Clojure functions into CLIs!</description>
+    <pubDate>Tue, 4 Aug 2026 10:38:40 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.79</guid>
     <title>[org.replikativ/ansatz &quot;0.2.79&quot;]</title>
@@ -1790,20 +1804,6 @@
     <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.42</link>
     <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage: inline image rendering (Kitty graphics protocol / iTerm2), terminal graphics-capability detection (isGraphicalTerminal), intrinsic pixel-dimension sniffing and aspect-preserving cell-box sizing, plus Kitty source-rectangle cropping (encodeKitty crop overload / transcodePng) so an image scrolled partly past the transcript&#39;s top or bottom edge renders its visible slice at native scale instead of vanishing. Superset of com.googlecode.lanterna:lanterna:3.1.5 - same packages and classes, one added package. Retire the width/emoji patches when upstream ships equivalent fixes; the image API is Blockether-original.</description>
     <pubDate>Sat, 1 Aug 2026 21:16:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cc.clojure/grenadine/versions/0.1.1</guid>
-    <title>[cc.clojure/grenadine &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/cc.clojure/grenadine/versions/0.1.1</link>
-    <description>Portable Maven dependency resolution for Clojure dialects</description>
-    <pubDate>Sat, 1 Aug 2026 21:11:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.41</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.41&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.41</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage: inline image rendering (Kitty graphics protocol / iTerm2), terminal graphics-capability detection (isGraphicalTerminal), intrinsic pixel-dimension sniffing and aspect-preserving cell-box sizing, plus Kitty source-rectangle cropping (encodeKitty crop overload / transcodePng) so an image scrolled partly past the transcript&#39;s top or bottom edge renders its visible slice at native scale instead of vanishing. Superset of com.googlecode.lanterna:lanterna:3.1.5 - same packages and classes, one added package. Retire the width/emoji patches when upstream ships equivalent fixes; the image API is Blockether-original.</description>
-    <pubDate>Sat, 1 Aug 2026 21:01:35 +0000</pubDate>
   </item>
   </channel>
 </rss>
