@@ -1,11 +1,3 @@
-{:created 1785683448128, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.37"}
-{:created 1785683460190, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.37"}
-{:created 1785683472615, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.37"}
-{:created 1785683486631, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.37"}
-{:created 1785684770321, :description "One tiny seam over the host, so the same .cljc runs on Clojure (JVM) and cljgo.", :group_name "net.clojars.muthuishere", :jar_name "koine", :version "0.11.0"}
-{:created 1785685349520, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260802.154151.ba99fdd"}
-{:created 1785685418194, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260802.154324.446bf4a"}
-{:created 1785686857648, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-x86_64", :version "1.12.3-blockether.38"}
 {:created 1785686867972, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-linux-aarch64", :version "1.12.3-blockether.38"}
 {:created 1785686877821, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.38"}
 {:created 1785686888153, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.38"}
@@ -254,3 +246,11 @@
 {:created 1785928674174, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.370"}
 {:created 1785928746499, :description "A generic JDBC backend for konserve.", :group_name "org.replikativ", :jar_name "konserve-jdbc", :version "0.2.97"}
 {:created 1785931185723, :description "Fast, portable CBOR serialization for Clojure and ClojureScript, in a format other languages can read.", :group_name "org.replikativ", :jar_name "boring", :version "0.1.14"}
+{:created 1785934516141, :description "Portable Maven dependency resolution for Clojure dialects", :group_name "cc.clojure", :jar_name "grenadine", :version "0.1.5"}
+{:created 1785934901314, :description "Fast JSON parser/writer for Clojure.", :group_name "com.s-exp", :jar_name "oda", :version "1.0.0-alpha27"}
+{:created 1785935301987, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.12.4"}
+{:created 1785935855786, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.12.4"}
+{:created 1785935907939, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.12.4"}
+{:created 1785935926502, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.12.4"}
+{:created 1785935954274, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.12.4"}
+{:created 1785936023424, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.12.4"}

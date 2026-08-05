@@ -1,11 +1,3 @@
-{:created 1785692411286, :description "Prebuilt imaging-c cdylib (FFM) for darwin-x64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-x64", :version "0.1.6"}
-{:created 1785692413363, :description "Prebuilt imaging-c cdylib (FFM) for linux-x64.", :group_name "com.blockether", :jar_name "imaging-native-linux-x64", :version "0.1.6"}
-{:created 1785692430636, :description "Prebuilt imaging-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-arm64", :version "0.1.6"}
-{:created 1785692611551, :description "Prebuilt imaging-c cdylib (FFM) for windows-x64.", :group_name "com.blockether", :jar_name "imaging-native-windows-x64", :version "0.1.6"}
-{:created 1785692659748, :description "Imaging for Clojure without java.desktop — decode/encode, transforms, drawing, text, SVG and plotting over a Rust cdylib via FFM.", :group_name "com.blockether", :jar_name "imaging", :version "0.1.6"}
-{:created 1785693883449, :description "Schemaless, low-alloc binary serialization for Clojure (JDK 25 FFM).", :group_name "com.s-exp", :jar_name "hako", :version "1.0.0-alpha54"}
-{:created 1785695943214, :description "Portable Maven dependency resolution for Clojure dialects", :group_name "cc.clojure", :jar_name "grenadine", :version "0.1.3"}
-{:created 1785697221585, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.1437"}
 {:created 1785697961295, :description "Prebuilt imaging-c cdylib (FFM) for linux-arm64.", :group_name "com.blockether", :jar_name "imaging-native-linux-arm64", :version "0.1.7"}
 {:created 1785697973411, :description "Prebuilt imaging-c cdylib (FFM) for linux-x64.", :group_name "com.blockether", :jar_name "imaging-native-linux-x64", :version "0.1.7"}
 {:created 1785697976536, :description "Prebuilt imaging-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-arm64", :version "0.1.7"}
@@ -254,3 +246,11 @@
 {:created 1785928674174, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.370"}
 {:created 1785928746499, :description "A generic JDBC backend for konserve.", :group_name "org.replikativ", :jar_name "konserve-jdbc", :version "0.2.97"}
 {:created 1785931185723, :description "Fast, portable CBOR serialization for Clojure and ClojureScript, in a format other languages can read.", :group_name "org.replikativ", :jar_name "boring", :version "0.1.14"}
+{:created 1785934516141, :description "Portable Maven dependency resolution for Clojure dialects", :group_name "cc.clojure", :jar_name "grenadine", :version "0.1.5"}
+{:created 1785934901314, :description "Fast JSON parser/writer for Clojure.", :group_name "com.s-exp", :jar_name "oda", :version "1.0.0-alpha27"}
+{:created 1785935301987, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.12.4"}
+{:created 1785935855786, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.12.4"}
+{:created 1785935907939, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.12.4"}
+{:created 1785935926502, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.12.4"}
+{:created 1785935954274, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.12.4"}
+{:created 1785936023424, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.12.4"}
