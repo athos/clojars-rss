@@ -1,5 +1,3 @@
-{:created 1785686877821, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-arm64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-arm64", :version "1.12.3-blockether.38"}
-{:created 1785686888153, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for macos-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-macos-x86_64", :version "1.12.3-blockether.38"}
 {:created 1785686898482, :description "Native tree-sitter FFI library (libts_pack_core_ffi) for windows-x86_64.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack-native-windows-x86_64", :version "1.12.3-blockether.38"}
 {:created 1785686910543, :description "Pre-compiled tree-sitter grammars — JVM binding, consumable from Clojure. Add a com.blockether/tree-sitter-language-pack-native-<rid> jar for your platform's native library.", :group_name "com.blockether", :jar_name "tree-sitter-language-pack", :version "1.12.3-blockether.38"}
 {:created 1785688209422, :description "Dynamic MCP servers, agent skills, native functions, HTTP endpoints and A2A agents as one uniform Tool interface, with a built-in tool-calling client loop.", :group_name "net.clojars.muthuishere", :jar_name "toolnexus", :version "0.13.0"}
@@ -254,3 +252,5 @@
 {:created 1785921429098, :description "Dataset manipulation library built on the top of tech.ml.dataset.", :group_name "scicloj", :jar_name "tablecloth", :version "8.024"}
 {:created 1785921926286, :description "Distributed scheduler lock: instances call dibs on a job, one wins, others skip", :group_name "org.clojars.gyyo", :jar_name "dibs", :version "0.1.3-SNAPSHOT"}
 {:created 1785922383054, :description "Fast JSON parser/writer for Clojure.", :group_name "com.s-exp", :jar_name "oda", :version "1.0.0-alpha26"}
+{:created 1785926229640, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.369"}
+{:created 1785926838152, :description "Konserve RocksDB Backend", :group_name "org.replikativ", :jar_name "konserve-rocksdb", :version "0.2.22"}
