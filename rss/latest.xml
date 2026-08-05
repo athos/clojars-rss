@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 5 Aug 2026 06:49:06 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 5 Aug 2026 07:50:20 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.clojars.gyyo/dibs/versions/0.1.0-SNAPSHOT</guid>
+    <title>[org.clojars.gyyo/dibs &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.gyyo/dibs/versions/0.1.0-SNAPSHOT</link>
+    <description>Distributed scheduler lock: instances call dibs on a job, one wins, others skip</description>
+    <pubDate>Wed, 5 Aug 2026 07:29:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging/versions/0.1.9</guid>
+    <title>[com.blockether/imaging &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging/versions/0.1.9</link>
+    <description>Imaging for Clojure without java.desktop — decode/encode, transforms, drawing, text, SVG and plotting over a Rust cdylib via FFM.</description>
+    <pubDate>Wed, 5 Aug 2026 07:27:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-windows-x64/versions/0.1.9</guid>
+    <title>[com.blockether/imaging-native-windows-x64 &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-windows-x64/versions/0.1.9</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for windows-x64.</description>
+    <pubDate>Wed, 5 Aug 2026 07:26:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-linux-arm64/versions/0.1.9</guid>
+    <title>[com.blockether/imaging-native-linux-arm64 &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-linux-arm64/versions/0.1.9</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for linux-arm64.</description>
+    <pubDate>Wed, 5 Aug 2026 07:20:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-linux-x64/versions/0.1.9</guid>
+    <title>[com.blockether/imaging-native-linux-x64 &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-linux-x64/versions/0.1.9</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for linux-x64.</description>
+    <pubDate>Wed, 5 Aug 2026 07:20:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-darwin-x64/versions/0.1.9</guid>
+    <title>[com.blockether/imaging-native-darwin-x64 &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-darwin-x64/versions/0.1.9</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for darwin-x64.</description>
+    <pubDate>Wed, 5 Aug 2026 07:20:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/imaging-native-darwin-arm64/versions/0.1.9</guid>
+    <title>[com.blockether/imaging-native-darwin-arm64 &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/com.blockether/imaging-native-darwin-arm64/versions/0.1.9</link>
+    <description>Prebuilt imaging-c cdylib (FFM) for darwin-arm64.</description>
+    <pubDate>Wed, 5 Aug 2026 07:20:33 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.clojars.gyyo/clj-sched-lock/versions/0.1.0-SNAPSHOT</guid>
     <title>[org.clojars.gyyo/clj-sched-lock &quot;0.1.0-SNAPSHOT&quot;]</title>
@@ -1761,55 +1810,6 @@
     <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.12.3-blockether.37</link>
     <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.</description>
     <pubDate>Sun, 2 Aug 2026 15:10:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20260802.145045.c1a5f7b</guid>
-    <title>[yetibot &quot;20260802.145045.c1a5f7b&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20260802.145045.c1a5f7b</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Sun, 2 Aug 2026 14:50:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.muthuishere/koine/versions/0.10.1</guid>
-    <title>[net.clojars.muthuishere/koine &quot;0.10.1&quot;]</title>
-    <link>https://clojars.org/net.clojars.muthuishere/koine/versions/0.10.1</link>
-    <description>One tiny seam over the host, so the same .cljc runs on Clojure (JVM) and cljgo.</description>
-    <pubDate>Sun, 2 Aug 2026 14:39:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cc.clojure/grenadine/versions/0.1.2</guid>
-    <title>[cc.clojure/grenadine &quot;0.1.2&quot;]</title>
-    <link>https://clojars.org/cc.clojure/grenadine/versions/0.1.2</link>
-    <description>Portable Maven dependency resolution for Clojure dialects</description>
-    <pubDate>Sun, 2 Aug 2026 13:59:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis/versions/0.1.24</guid>
-    <title>[com.blockether/vis &quot;0.1.24&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis/versions/0.1.24</link>
-    <description>vis - single-namespace SDK + iteration runtime + binary entry point.</description>
-    <pubDate>Sun, 2 Aug 2026 13:04:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-workspace-rift/versions/0.1.24</guid>
-    <title>[com.blockether/vis-workspace-rift &quot;0.1.24&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-workspace-rift/versions/0.1.24</link>
-    <description>com.blockether/vis-workspace-rift - vis monorepo package.</description>
-    <pubDate>Sun, 2 Aug 2026 13:03:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-provider-zai/versions/0.1.24</guid>
-    <title>[com.blockether/vis-provider-zai &quot;0.1.24&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-provider-zai/versions/0.1.24</link>
-    <description>com.blockether/vis-provider-zai - vis monorepo package.</description>
-    <pubDate>Sun, 2 Aug 2026 13:03:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-provider-standard/versions/0.1.24</guid>
-    <title>[com.blockether/vis-provider-standard &quot;0.1.24&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-provider-standard/versions/0.1.24</link>
-    <description>com.blockether/vis-provider-standard - vis monorepo package.</description>
-    <pubDate>Sun, 2 Aug 2026 13:03:43 +0000</pubDate>
   </item>
   </channel>
 </rss>
