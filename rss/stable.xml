@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 5 Aug 2026 10:48:14 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 5 Aug 2026 11:38:58 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.97</guid>
+    <title>[org.replikativ/konserve-jdbc &quot;0.2.97&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.97</link>
+    <description>A generic JDBC backend for konserve.</description>
+    <pubDate>Wed, 5 Aug 2026 11:19:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.370</guid>
+    <title>[org.replikativ/konserve &quot;0.9.370&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.370</link>
+    <description>Durable cross-platform key-value store protocol with core.async.</description>
+    <pubDate>Wed, 5 Aug 2026 11:17:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-gcs/versions/0.1.15</guid>
+    <title>[org.replikativ/konserve-gcs &quot;0.1.15&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-gcs/versions/0.1.15</link>
+    <description>Konserve GCS Backend</description>
+    <pubDate>Wed, 5 Aug 2026 11:06:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-redis/versions/0.1.28</guid>
+    <title>[org.replikativ/konserve-redis &quot;0.1.28&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-redis/versions/0.1.28</link>
+    <description>Konserve Redis Backend</description>
+    <pubDate>Wed, 5 Aug 2026 10:59:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-s3/versions/0.1.36</guid>
+    <title>[org.replikativ/konserve-s3 &quot;0.1.36&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-s3/versions/0.1.36</link>
+    <description>Konserve S3 Backend</description>
+    <pubDate>Wed, 5 Aug 2026 10:58:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-dynamodb/versions/0.1.32</guid>
+    <title>[org.replikativ/konserve-dynamodb &quot;0.1.32&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-dynamodb/versions/0.1.32</link>
+    <description>Konserve DynamoDB Backend</description>
+    <pubDate>Wed, 5 Aug 2026 10:56:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-lmdb/versions/0.1.17</guid>
+    <title>[org.replikativ/konserve-lmdb &quot;0.1.17&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-lmdb/versions/0.1.17</link>
+    <description></description>
+    <pubDate>Wed, 5 Aug 2026 10:49:21 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/konserve-rocksdb/versions/0.2.22</guid>
     <title>[org.replikativ/konserve-rocksdb &quot;0.2.22&quot;]</title>
@@ -1761,55 +1810,6 @@
     <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-aarch64/versions/1.12.3-blockether.37</link>
     <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-aarch64.</description>
     <pubDate>Sun, 2 Aug 2026 15:10:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.12.3-blockether.37</guid>
-    <title>[com.blockether/tree-sitter-language-pack-native-linux-x86_64 &quot;1.12.3-blockether.37&quot;]</title>
-    <link>https://clojars.org/com.blockether/tree-sitter-language-pack-native-linux-x86_64/versions/1.12.3-blockether.37</link>
-    <description>Native tree-sitter FFI library (libts_pack_core_ffi) for linux-x86_64.</description>
-    <pubDate>Sun, 2 Aug 2026 15:10:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20260802.145045.c1a5f7b</guid>
-    <title>[yetibot &quot;20260802.145045.c1a5f7b&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20260802.145045.c1a5f7b</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Sun, 2 Aug 2026 14:50:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.muthuishere/koine/versions/0.10.1</guid>
-    <title>[net.clojars.muthuishere/koine &quot;0.10.1&quot;]</title>
-    <link>https://clojars.org/net.clojars.muthuishere/koine/versions/0.10.1</link>
-    <description>One tiny seam over the host, so the same .cljc runs on Clojure (JVM) and cljgo.</description>
-    <pubDate>Sun, 2 Aug 2026 14:39:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cc.clojure/grenadine/versions/0.1.2</guid>
-    <title>[cc.clojure/grenadine &quot;0.1.2&quot;]</title>
-    <link>https://clojars.org/cc.clojure/grenadine/versions/0.1.2</link>
-    <description>Portable Maven dependency resolution for Clojure dialects</description>
-    <pubDate>Sun, 2 Aug 2026 13:59:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis/versions/0.1.24</guid>
-    <title>[com.blockether/vis &quot;0.1.24&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis/versions/0.1.24</link>
-    <description>vis - single-namespace SDK + iteration runtime + binary entry point.</description>
-    <pubDate>Sun, 2 Aug 2026 13:04:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-workspace-rift/versions/0.1.24</guid>
-    <title>[com.blockether/vis-workspace-rift &quot;0.1.24&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-workspace-rift/versions/0.1.24</link>
-    <description>com.blockether/vis-workspace-rift - vis monorepo package.</description>
-    <pubDate>Sun, 2 Aug 2026 13:03:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-provider-zai/versions/0.1.24</guid>
-    <title>[com.blockether/vis-provider-zai &quot;0.1.24&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-provider-zai/versions/0.1.24</link>
-    <description>com.blockether/vis-provider-zai - vis monorepo package.</description>
-    <pubDate>Sun, 2 Aug 2026 13:03:49 +0000</pubDate>
   </item>
   </channel>
 </rss>
