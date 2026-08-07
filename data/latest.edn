@@ -1,8 +1,3 @@
-{:created 1785777547222, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-elisp", :version "0.1.0"}
-{:created 1785777664655, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-emacs", :version "0.5.3"}
-{:created 1785779890819, :description "A library for natural language generation and parsing", :group_name "menard", :jar_name "menard", :version "1.10.3"}
-{:created 1785781026315, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-mcp", :version "1.2.5"}
-{:created 1785781242840, :description "Portable Maven dependency resolution for Clojure dialects", :group_name "cc.clojure", :jar_name "grenadine", :version "0.1.4"}
 {:created 1785781701312, :description "Ring middleware for handling JSON, using clojure.data.json.", :group_name "com.github.seancorfield", :jar_name "ring-data-json", :version "0.5.4-SNAPSHOT"}
 {:created 1785781736221, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
 {:created 1785781797761, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
@@ -254,3 +249,8 @@
 {:created 1786063102256, :description "composable plotting in Clojure", :group_name "org.scicloj", :jar_name "plotje", :version "0.8.0"}
 {:created 1786063750973, :description "Clojure facade for Cassandra", :group_name "com.danboykis", :jar_name "alicia", :version "0.0.1-SNAPSHOT"}
 {:created 1786074426969, :description "A Clojure wrapper for DBOS Transact durable execution.", :group_name "com.shipclojure", :jar_name "dbos-clj", :version "0.7.0"}
+{:created 1786085778239, :description "Native rift-ffi library for linux-x64.", :group_name "com.blockether", :jar_name "rift-native-linux-x64", :version "0.0.10-11"}
+{:created 1786085787722, :description "Native rift-ffi library for linux-arm64.", :group_name "com.blockether", :jar_name "rift-native-linux-arm64", :version "0.0.10-11"}
+{:created 1786085796559, :description "Native rift-ffi library for darwin-arm64.", :group_name "com.blockether", :jar_name "rift-native-darwin-arm64", :version "0.0.10-11"}
+{:created 1786085805754, :description "Native rift-ffi library for darwin-x64.", :group_name "com.blockether", :jar_name "rift-native-darwin-x64", :version "0.0.10-11"}
+{:created 1786085814283, :description "Clojure binding to rift — copy-on-write workspaces — via the JDK Foreign Function & Memory API.", :group_name "com.blockether", :jar_name "rift", :version "0.0.10-11"}
