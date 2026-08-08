@@ -1,12 +1,3 @@
-{:created 1785840759134, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-linux-x86-64", :version "0.8.1"}
-{:created 1785840770229, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-linux-aarch64", :version "0.8.1"}
-{:created 1785840781398, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-windows-x86-64", :version "0.8.1"}
-{:created 1785840792391, :description "Platform native dependencies for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-platform", :version "0.8.1"}
-{:created 1785840803450, :description "Clojure bindings for the libui-ng native GUI library", :group_name "io.github.slifin", :jar_name "clj-libui", :version "0.8.1"}
-{:created 1785840993768, :description "Declarative Missionary-powered Clojure UI over clj-libui and libui-ng", :group_name "io.github.slifin", :jar_name "clj-libui-declarative", :version "0.10.1"}
-{:created 1785841236439, :description "Fast serialization library for Clojure", :group_name "com.taoensso", :jar_name "nippy", :version "3.9.0-alpha3"}
-{:created 1785841817367, :description "Realtime web comms library for Clojure/Script", :group_name "com.taoensso", :jar_name "sente", :version "1.23.0-alpha2"}
-{:created 1785853800677, :description "Fast JSON parser/writer for Clojure.", :group_name "com.s-exp", :jar_name "oda", :version "1.0.0-alpha22"}
 {:created 1785854066359, :description "Lein plugin to run clj-kondo", :group_name "com.github.clj-kondo", :jar_name "lein-clj-kondo", :version "2026.08.04"}
 {:created 1785855122337, :description "Server-resource runtime for BareDOM — drives presentational web components from server state without client-side business logic. Reads and writes.", :group_name "com.github.avanelsas", :jar_name "barebuild", :version "0.6.0"}
 {:created 1785855700309, :description "Time-travel replay debugger for BareBuild apps. Records the event log, reconstructs any state by replaying the pure step, and re-projects it onto live components.", :group_name "com.github.avanelsas", :jar_name "barereplay", :version "0.3.0"}
@@ -254,3 +245,12 @@
 {:created 1786203733023, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.23.2"}
 {:created 1786205362574, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.24.0"}
 {:created 1786205965915, :description "Django style templates for Clojure", :group_name "selmer", :jar_name "selmer", :version "1.13.5"}
+{:created 1786211639776, :description "Encode permutations to numbers and vice versa.", :group_name "de.dixieflatline", :jar_name "lehmer", :version "0.1.0-SNAPSHOT"}
+{:created 1786211785554, :description "Partition and fold.", :group_name "de.dixieflatline", :jar_name "pold", :version "0.2.0-SNAPSHOT"}
+{:created 1786211811512, :description "Filter expression library", :group_name "de.dixieflatline", :jar_name "zeef", :version "0.1.0-SNAPSHOT"}
+{:created 1786211837270, :description "Email address validation.", :group_name "de.dixieflatline", :jar_name "flimflam", :version "0.1.0-SNAPSHOT"}
+{:created 1786211861657, :description "Library for creating standardized success and error responses.", :group_name "de.dixieflatline", :jar_name "dicho", :version "0.1.0-SNAPSHOT"}
+{:created 1786211882414, :description "Decorators for Clojure types.", :group_name "de.dixieflatline", :jar_name "smuk", :version "0.1.0-SNAPSHOT"}
+{:created 1786212055363, :description "A lightweight hierarchical authorization library", :group_name "de.dixieflatline", :jar_name "persona", :version "0.1.0-SNAPSHOT"}
+{:created 1786212090480, :description "Simple, stupid configuration management.", :group_name "de.dixieflatline", :jar_name "confick", :version "0.3.0-SNAPSHOT"}
+{:created 1786212150193, :description "Event store written in Clojure.", :group_name "de.dixieflatline", :jar_name "coherence", :version "0.1.0-SNAPSHOT"}
