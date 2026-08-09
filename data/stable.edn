@@ -1,6 +1,3 @@
-{:created 1785864051782, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260804.172014.d415288"}
-{:created 1785864122207, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260804.172148.8f85039"}
-{:created 1785866352670, :description "An eclectic set of Clojure utilities that I've found useful enough to keep around.", :group_name "me.fogus", :jar_name "thneed", :version "1.1.10"}
 {:created 1785870165162, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260804.190208.de7d3b5"}
 {:created 1785870229993, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260804.190335.88e0468"}
 {:created 1785872024841, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.9.23"}
@@ -254,3 +251,6 @@
 {:created 1786267712433, :description "Konserve S3 Backend", :group_name "org.replikativ", :jar_name "konserve-s3", :version "0.1.37"}
 {:created 1786267776268, :description nil, :group_name "org.clojars.funkcjonariusze", :jar_name "commando", :version "1.3.0"}
 {:created 1786269380243, :description "Production-quality Clojure SDK for canonical LLM provider integration.", :group_name "net.clojars.deadmeme5441", :jar_name "clojure-llm-sdk", :version "0.4.4"}
+{:created 1786273522878, :description "Persistent vector database with version control for the JVM", :group_name "org.replikativ", :jar_name "proximum", :version "0.1.30"}
+{:created 1786273575274, :description "Spring AI VectorStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-spring-ai", :version "0.1.30"}
+{:created 1786273577333, :description "LangChain4j EmbeddingStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-langchain4j", :version "0.1.30"}
