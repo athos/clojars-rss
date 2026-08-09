@@ -1,8 +1,3 @@
-{:created 1785917584451, :description "Fast, portable CBOR serialization for Clojure and ClojureScript, in a format other languages can read.", :group_name "org.replikativ", :jar_name "boring", :version "0.1.13"}
-{:created 1785918314476, :description "Database modeling library for Clojure and MongoDB", :group_name "com.timezynk", :jar_name "domain", :version "4.0.29"}
-{:created 1785921429098, :description "Dataset manipulation library built on the top of tech.ml.dataset.", :group_name "scicloj", :jar_name "tablecloth", :version "8.024"}
-{:created 1785921926286, :description "Distributed scheduler lock: instances call dibs on a job, one wins, others skip", :group_name "org.clojars.gyyo", :jar_name "dibs", :version "0.1.3-SNAPSHOT"}
-{:created 1785922383054, :description "Fast JSON parser/writer for Clojure.", :group_name "com.s-exp", :jar_name "oda", :version "1.0.0-alpha26"}
 {:created 1785926229640, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.369"}
 {:created 1785926838152, :description "Konserve RocksDB Backend", :group_name "org.replikativ", :jar_name "konserve-rocksdb", :version "0.2.22"}
 {:created 1785926961123, :description nil, :group_name "org.replikativ", :jar_name "konserve-lmdb", :version "0.1.17"}
@@ -254,3 +249,8 @@
 {:created 1786274392443, :description "LangChain4j EmbeddingStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-langchain4j", :version "0.1.31"}
 {:created 1786274392772, :description "Spring AI VectorStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-spring-ai", :version "0.1.31"}
 {:created 1786287105021, :description nil, :group_name "io.github.cljfx", :jar_name "ghosttyfx", :version "0.1.215.18"}
+{:created 1786289889318, :description "Backend-neutral EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl", :version "8.0.0-SNAPSHOT"}
+{:created 1786289896058, :description "Datomic adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datomic", :version "8.0.0-SNAPSHOT"}
+{:created 1786289902703, :description "Datahike adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datahike", :version "8.0.0-SNAPSHOT"}
+{:created 1786289909340, :description "DataScript adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datascript", :version "8.0.0-SNAPSHOT"}
+{:created 1786290912725, :description nil, :group_name "io.github.buddhilw", :jar_name "vtranslate-engine", :version "0.1.1"}
