@@ -1,7 +1,3 @@
-{:created 1785965619194, :description "A small unit-testing library heavily inspired by midje.", :group_name "fudje", :jar_name "fudje", :version "0.9.9"}
-{:created 1785968999565, :description "Light-weight ClojureScript dialect", :group_name "io.github.squint-cljs", :jar_name "squint", :version "0.14.207"}
-{:created 1785971490293, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.40"}
-{:created 1785976042287, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.61"}
 {:created 1785980321767, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.32"}
 {:created 1785980327320, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.32"}
 {:created 1785980332824, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.32"}
@@ -39,7 +35,6 @@
 {:created 1786010485946, :description "JSON (cheshire library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-cheshire", :version "0.3.0-alpha2"}
 {:created 1786010519967, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.3.0-alpha2"}
 {:created 1786010555800, :description "JSON (jsonista library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-jsonista", :version "0.3.0-alpha2"}
-{:created 1786010634645, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.13.220-SNAPSHOT"}
 {:created 1786013395059, :description nil, :group_name "co.multiply", :jar_name "remontoire", :version "0.1.0"}
 {:created 1786014491685, :description "Prebuilt ruff-c cdylib (FFM) for darwin-x64.", :group_name "com.blockether", :jar_name "ruff-native-darwin-x64", :version "0.3.5"}
 {:created 1786014513658, :description "Prebuilt ruff-c cdylib (FFM) for linux-arm64.", :group_name "com.blockether", :jar_name "ruff-native-linux-arm64", :version "0.3.5"}
@@ -254,3 +249,8 @@
 {:created 1786350513266, :description "Atlas: semantic registry for expressive systems", :group_name "io.github.semantic-namespace", :jar_name "atlas", :version "0.1.12"}
 {:created 1786350525565, :description "Atlas dev tools: source tracking, git history, and dev-time tooling", :group_name "io.github.semantic-namespace", :jar_name "atlas-dev", :version "0.1.12"}
 {:created 1786350572961, :description "Atlas UI: visual explorer for atlas registries (dev tool)", :group_name "io.github.semantic-namespace", :jar_name "atlas-ui", :version "0.1.12"}
+{:created 1786354502934, :description "A Clojure client for Rollbar", :group_name "circleci", :jar_name "rollcage", :version "1.0.285"}
+{:created 1786354617674, :description "", :group_name "com.circleci", :jar_name "deps-plus", :version "0.1.0-SNAPSHOT"}
+{:created 1786355485374, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.13.220-SNAPSHOT"}
+{:created 1786357072147, :description "Pre-generated icon components for Tyrell web components library", :group_name "dev.gersak", :jar_name "tyrell-icons", :version "1.0.0-RC13"}
+{:created 1786357078492, :description "Modern web components library built with ClojureScript", :group_name "dev.gersak", :jar_name "tyrell", :version "1.0.0-RC13"}
