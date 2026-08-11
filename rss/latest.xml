@@ -4,7 +4,74 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 11 Aug 2026 19:20:48 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 20:12:01 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/trapperkeeper-filesystem-watcher/versions/1.6.1</guid>
+    <title>[org.openvoxproject/trapperkeeper-filesystem-watcher &quot;1.6.1&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/trapperkeeper-filesystem-watcher/versions/1.6.1</link>
+    <description>Trapperkeeper filesystem watcher service</description>
+    <pubDate>Tue, 11 Aug 2026 20:06:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.s-exp/enso/versions/1.0.0-alpha52</guid>
+    <title>[com.s-exp/enso &quot;1.0.0-alpha52&quot;]</title>
+    <link>https://clojars.org/com.s-exp/enso/versions/1.0.0-alpha52</link>
+    <description>Zero-dep, near 0-alloc, High Performance Ring adapter for Clojure</description>
+    <pubDate>Tue, 11 Aug 2026 20:04:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/trapperkeeper/versions/5.0.5</guid>
+    <title>[org.openvoxproject/trapperkeeper &quot;5.0.5&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/trapperkeeper/versions/5.0.5</link>
+    <description>A framework for configuring, composing, and running Clojure services.</description>
+    <pubDate>Tue, 11 Aug 2026 19:59:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.vaelii/vaelii-foreign/versions/0.5.1</guid>
+    <title>[com.vaelii/vaelii-foreign &quot;0.5.1&quot;]</title>
+    <link>https://clojars.org/com.vaelii/vaelii-foreign/versions/0.5.1</link>
+    <description>Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and
+                ATOMIC, each translated into one corpus format, discovered through
+                vaelii&#39;s plugin seam.</description>
+    <pubDate>Tue, 11 Aug 2026 19:41:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.vaelii/vaelii/versions/0.5.1</guid>
+    <title>[com.vaelii/vaelii &quot;0.5.1&quot;]</title>
+    <link>https://clojars.org/com.vaelii/vaelii/versions/0.5.1</link>
+    <description>Vaelii — a contextualized common-sense knowledge base with a
+                count-aware trie index, forward/backward inference,
+                and JTMS truth maintenance, over an in-memory or on-disk store.</description>
+    <pubDate>Tue, 11 Aug 2026 19:41:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/failjure/versions/2.3.62</guid>
+    <title>[failjure &quot;2.3.62&quot;]</title>
+    <link>https://clojars.org/failjure/versions/2.3.62</link>
+    <description>Simple helpers for treating failures as values.</description>
+    <pubDate>Tue, 11 Aug 2026 19:41:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.datalevin/biff-datalevin/versions/0.2.16</guid>
+    <title>[io.github.datalevin/biff-datalevin &quot;0.2.16&quot;]</title>
+    <link>https://clojars.org/io.github.datalevin/biff-datalevin/versions/0.2.16</link>
+    <description></description>
+    <pubDate>Tue, 11 Aug 2026 19:37:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/ssl-utils/versions/3.7.1</guid>
+    <title>[org.openvoxproject/ssl-utils &quot;3.7.1&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/ssl-utils/versions/3.7.1</link>
+    <description>SSL certificate management on the JVM.</description>
+    <pubDate>Tue, 11 Aug 2026 19:32:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-build/versions/0.1.1</guid>
+    <title>[io.github.hive-agi/hive-build &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-build/versions/0.1.1</link>
+    <description></description>
+    <pubDate>Tue, 11 Aug 2026 19:25:02 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.hive-agi/hive-mcp/versions/0.19.0</guid>
     <title>[io.github.hive-agi/hive-mcp &quot;0.19.0&quot;]</title>
@@ -1737,69 +1804,6 @@
     <link>https://clojars.org/com.s-exp/enso/versions/1.0.0-alpha6</link>
     <description>Zero-dependency Ring-compliant HTTP/1.1 server for Clojure on JDK 25 virtual threads.</description>
     <pubDate>Thu, 6 Aug 2026 21:52:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/boring/versions/0.1.15</guid>
-    <title>[org.replikativ/boring &quot;0.1.15&quot;]</title>
-    <link>https://clojars.org/org.replikativ/boring/versions/0.1.15</link>
-    <description>Fast, portable CBOR serialization for Clojure and ClojureScript, in a format other languages can read.</description>
-    <pubDate>Thu, 6 Aug 2026 20:36:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/geschichte/versions/0.1.15</guid>
-    <title>[org.replikativ/geschichte &quot;0.1.15&quot;]</title>
-    <link>https://clojars.org/org.replikativ/geschichte/versions/0.1.15</link>
-    <description>Queryable, Datahike-backed version control with Git compatibility.</description>
-    <pubDate>Thu, 6 Aug 2026 19:53:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-spi/versions/0.1.18</guid>
-    <title>[io.github.hive-agi/hive-spi &quot;0.1.18&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-spi/versions/0.1.18</link>
-    <description></description>
-    <pubDate>Thu, 6 Aug 2026 19:44:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/failjure/versions/2.3.99-SNAPSHOT</guid>
-    <title>[failjure &quot;2.3.99-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/failjure/versions/2.3.99-SNAPSHOT</link>
-    <description>Simple helpers for treating failures as values.</description>
-    <pubDate>Thu, 6 Aug 2026 19:32:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.cyverse/common-swagger-api/versions/3.4.22</guid>
-    <title>[org.cyverse/common-swagger-api &quot;3.4.22&quot;]</title>
-    <link>https://clojars.org/org.cyverse/common-swagger-api/versions/3.4.22</link>
-    <description>Common library for Swagger documented RESTful APIs</description>
-    <pubDate>Thu, 6 Aug 2026 16:58:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.duct-framework/module.mail/versions/0.1.0</guid>
-    <title>[org.duct-framework/module.mail &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/org.duct-framework/module.mail/versions/0.1.0</link>
-    <description>Duct module for sending emails</description>
-    <pubDate>Thu, 6 Aug 2026 15:42:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/datastar/versions/2.0.0-rc12</guid>
-    <title>[com.biffweb/datastar &quot;2.0.0-rc12&quot;]</title>
-    <link>https://clojars.org/com.biffweb/datastar/versions/2.0.0-rc12</link>
-    <description></description>
-    <pubDate>Thu, 6 Aug 2026 13:52:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/ring/versions/2.0.0-rc12</guid>
-    <title>[com.biffweb/ring &quot;2.0.0-rc12&quot;]</title>
-    <link>https://clojars.org/com.biffweb/ring/versions/2.0.0-rc12</link>
-    <description></description>
-    <pubDate>Thu, 6 Aug 2026 13:51:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/xtdb/versions/2.0.0-rc12</guid>
-    <title>[com.biffweb/xtdb &quot;2.0.0-rc12&quot;]</title>
-    <link>https://clojars.org/com.biffweb/xtdb/versions/2.0.0-rc12</link>
-    <description></description>
-    <pubDate>Thu, 6 Aug 2026 13:51:16 +0000</pubDate>
   </item>
   </channel>
 </rss>
