@@ -1,4 +1,3 @@
-{:created 1786010410920, :description "Dev module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-dev", :version "0.3.0-alpha2"}
 {:created 1786010448631, :description "JSON (charred library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-charred", :version "0.3.0-alpha2"}
 {:created 1786010485946, :description "JSON (cheshire library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-cheshire", :version "0.3.0-alpha2"}
 {:created 1786010519967, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.3.0-alpha2"}
@@ -240,7 +239,6 @@
 {:created 1786394908013, :description "A port of core.memoize to ClojureCLR", :group_name "org.clojure.clr", :jar_name "core.memoize", :version "1.1.281"}
 {:created 1786394971221, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.9.26"}
 {:created 1786395451585, :description "EDN parser with location metadata and pluggable dispatch table.", :group_name "borkdude", :jar_name "edamame", :version "1.6.43"}
-{:created 1786399649154, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.13.220-SNAPSHOT"}
 {:created 1786401561583, :description "Zero-dep, near 0-alloc, High Performance Ring adapter for Clojure", :group_name "com.s-exp", :jar_name "enso", :version "1.0.0-alpha45"}
 {:created 1786404054682, :description "Fast, portable CBOR serialization for Clojure and ClojureScript, in a format other languages can read.", :group_name "org.replikativ", :jar_name "boring", :version "0.1.17"}
 {:created 1786404949942, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.371"}
@@ -254,3 +252,5 @@
 {:created 1786429279776, :description "Embedded-only Datalevin runtime with bundled native libraries and remote client support", :group_name "org.datalevin", :jar_name "datalevin-embedded", :version "1.0.1"}
 {:created 1786431552751, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.112"}
 {:created 1786432762773, :description "Clojure wrapper for com.mongodb.client Java API.", :group_name "com.timezynk", :jar_name "mongo", :version "0.18.10"}
+{:created 1786438432648, :description nil, :group_name "co.multiply", :jar_name "remontoire", :version "0.3.0"}
+{:created 1786438710994, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.13.220-SNAPSHOT"}
