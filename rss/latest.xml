@@ -4,20 +4,48 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 11 Aug 2026 10:16:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 11:14:19 +0000</lastBuildDate>
   <item>
-    <guid>https://clojars.org/com.timezynk/mongo/versions/0.18.12</guid>
-    <title>[com.timezynk/mongo &quot;0.18.12&quot;]</title>
-    <link>https://clojars.org/com.timezynk/mongo/versions/0.18.12</link>
+    <guid>https://clojars.org/com.timezynk/domus/versions/2.6.1</guid>
+    <title>[com.timezynk/domus &quot;2.6.1&quot;]</title>
+    <link>https://clojars.org/com.timezynk/domus/versions/2.6.1</link>
+    <description>MongoDB utilities</description>
+    <pubDate>Tue, 11 Aug 2026 11:06:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.timezynk/mongo/versions/0.18.13</guid>
+    <title>[com.timezynk/mongo &quot;0.18.13&quot;]</title>
+    <link>https://clojars.org/com.timezynk/mongo/versions/0.18.13</link>
     <description>Clojure wrapper for com.mongodb.client Java API.</description>
-    <pubDate>Tue, 11 Aug 2026 09:50:19 +0000</pubDate>
+    <pubDate>Tue, 11 Aug 2026 10:53:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.hden/aws-xray-sdk-clj/versions/1.0.0</guid>
+    <title>[com.github.hden/aws-xray-sdk-clj &quot;1.0.0&quot;]</title>
+    <link>https://clojars.org/com.github.hden/aws-xray-sdk-clj/versions/1.0.0</link>
+    <description>Best-effort trace fact recording with AWS X-Ray integration</description>
+    <pubDate>Tue, 11 Aug 2026 10:45:59 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/babashka/versions/1.13.220-SNAPSHOT</guid>
     <title>[babashka &quot;1.13.220-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/babashka/versions/1.13.220-SNAPSHOT</link>
     <description>babashka</description>
-    <pubDate>Tue, 11 Aug 2026 08:58:30 +0000</pubDate>
+    <pubDate>Tue, 11 Aug 2026 10:32:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.5.140</guid>
+    <title>[org.replikativ/persistent-sorted-set &quot;0.5.140&quot;]</title>
+    <link>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.5.140</link>
+    <description>A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.</description>
+    <pubDate>Tue, 11 Aug 2026 10:19:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.timezynk/mongo/versions/0.18.12</guid>
+    <title>[com.timezynk/mongo &quot;0.18.12&quot;]</title>
+    <link>https://clojars.org/com.timezynk/mongo/versions/0.18.12</link>
+    <description>Clojure wrapper for com.mongodb.client Java API.</description>
+    <pubDate>Tue, 11 Aug 2026 09:50:19 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/co.multiply/remontoire/versions/0.3.0</guid>
@@ -1772,34 +1800,6 @@
     <link>https://clojars.org/com.blockether/ruff-native-darwin-x64/versions/0.3.5</link>
     <description>Prebuilt ruff-c cdylib (FFM) for darwin-x64.</description>
     <pubDate>Thu, 6 Aug 2026 11:08:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/co.multiply/remontoire/versions/0.1.0</guid>
-    <title>[co.multiply/remontoire &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/co.multiply/remontoire/versions/0.1.0</link>
-    <description></description>
-    <pubDate>Thu, 6 Aug 2026 10:49:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.plumce/plumcp.core-json-jsonista/versions/0.3.0-alpha2</guid>
-    <title>[io.github.plumce/plumcp.core-json-jsonista &quot;0.3.0-alpha2&quot;]</title>
-    <link>https://clojars.org/io.github.plumce/plumcp.core-json-jsonista/versions/0.3.0-alpha2</link>
-    <description>JSON (jsonista library) module for PluMCP</description>
-    <pubDate>Thu, 6 Aug 2026 10:02:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.plumce/plumcp.core-json-datajson/versions/0.3.0-alpha2</guid>
-    <title>[io.github.plumce/plumcp.core-json-datajson &quot;0.3.0-alpha2&quot;]</title>
-    <link>https://clojars.org/io.github.plumce/plumcp.core-json-datajson/versions/0.3.0-alpha2</link>
-    <description>JSON (clojure/data.json library) module for PluMCP</description>
-    <pubDate>Thu, 6 Aug 2026 10:01:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.plumce/plumcp.core-json-cheshire/versions/0.3.0-alpha2</guid>
-    <title>[io.github.plumce/plumcp.core-json-cheshire &quot;0.3.0-alpha2&quot;]</title>
-    <link>https://clojars.org/io.github.plumce/plumcp.core-json-cheshire/versions/0.3.0-alpha2</link>
-    <description>JSON (cheshire library) module for PluMCP</description>
-    <pubDate>Thu, 6 Aug 2026 10:01:25 +0000</pubDate>
   </item>
   </channel>
 </rss>
