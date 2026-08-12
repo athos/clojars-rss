@@ -4,7 +4,46 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 12 Aug 2026 21:13:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 22:12:32 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.vaelii/vaelii-foreign/versions/0.7.0</guid>
+    <title>[com.vaelii/vaelii-foreign &quot;0.7.0&quot;]</title>
+    <link>https://clojars.org/com.vaelii/vaelii-foreign/versions/0.7.0</link>
+    <description>Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and
+                ATOMIC, each translated into one corpus format, discovered through
+                vaelii&#39;s plugin seam.</description>
+    <pubDate>Wed, 12 Aug 2026 21:59:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.vaelii/vaelii/versions/0.7.0</guid>
+    <title>[com.vaelii/vaelii &quot;0.7.0&quot;]</title>
+    <link>https://clojars.org/com.vaelii/vaelii/versions/0.7.0</link>
+    <description>Vaelii — a contextualized common-sense knowledge base with a
+                count-aware trie index, forward/backward inference,
+                and JTMS truth maintenance, over an in-memory or on-disk store.</description>
+    <pubDate>Wed, 12 Aug 2026 21:59:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.s-exp/enso/versions/1.0.0-alpha55</guid>
+    <title>[com.s-exp/enso &quot;1.0.0-alpha55&quot;]</title>
+    <link>https://clojars.org/com.s-exp/enso/versions/1.0.0-alpha55</link>
+    <description>Zero-dep, near 0-alloc, High Performance Ring adapter for Clojure</description>
+    <pubDate>Wed, 12 Aug 2026 21:28:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.scicloj/plotje/versions/0.8.1</guid>
+    <title>[org.scicloj/plotje &quot;0.8.1&quot;]</title>
+    <link>https://clojars.org/org.scicloj/plotje/versions/0.8.1</link>
+    <description>composable plotting in Clojure</description>
+    <pubDate>Wed, 12 Aug 2026 21:25:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.372</guid>
+    <title>[org.replikativ/konserve &quot;0.9.372&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.372</link>
+    <description>Durable cross-platform key-value store protocol with core.async.</description>
+    <pubDate>Wed, 12 Aug 2026 21:24:48 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.github.dgknght/app-lib/versions/0.3.52</guid>
     <title>[com.github.dgknght/app-lib &quot;0.3.52&quot;]</title>
@@ -1773,41 +1812,6 @@
     <link>https://clojars.org/com.blockether/svar/versions/0.7.105</link>
     <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
     <pubDate>Fri, 7 Aug 2026 07:35:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/rift/versions/0.0.10-11</guid>
-    <title>[com.blockether/rift &quot;0.0.10-11&quot;]</title>
-    <link>https://clojars.org/com.blockether/rift/versions/0.0.10-11</link>
-    <description>Clojure binding to rift — copy-on-write workspaces — via the JDK Foreign Function &amp; Memory API.</description>
-    <pubDate>Fri, 7 Aug 2026 06:56:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/rift-native-darwin-x64/versions/0.0.10-11</guid>
-    <title>[com.blockether/rift-native-darwin-x64 &quot;0.0.10-11&quot;]</title>
-    <link>https://clojars.org/com.blockether/rift-native-darwin-x64/versions/0.0.10-11</link>
-    <description>Native rift-ffi library for darwin-x64.</description>
-    <pubDate>Fri, 7 Aug 2026 06:56:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/rift-native-darwin-arm64/versions/0.0.10-11</guid>
-    <title>[com.blockether/rift-native-darwin-arm64 &quot;0.0.10-11&quot;]</title>
-    <link>https://clojars.org/com.blockether/rift-native-darwin-arm64/versions/0.0.10-11</link>
-    <description>Native rift-ffi library for darwin-arm64.</description>
-    <pubDate>Fri, 7 Aug 2026 06:56:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/rift-native-linux-arm64/versions/0.0.10-11</guid>
-    <title>[com.blockether/rift-native-linux-arm64 &quot;0.0.10-11&quot;]</title>
-    <link>https://clojars.org/com.blockether/rift-native-linux-arm64/versions/0.0.10-11</link>
-    <description>Native rift-ffi library for linux-arm64.</description>
-    <pubDate>Fri, 7 Aug 2026 06:56:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/rift-native-linux-x64/versions/0.0.10-11</guid>
-    <title>[com.blockether/rift-native-linux-x64 &quot;0.0.10-11&quot;]</title>
-    <link>https://clojars.org/com.blockether/rift-native-linux-x64/versions/0.0.10-11</link>
-    <description>Native rift-ffi library for linux-x64.</description>
-    <pubDate>Fri, 7 Aug 2026 06:56:18 +0000</pubDate>
   </item>
   </channel>
 </rss>
