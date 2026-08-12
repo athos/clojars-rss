@@ -1,4 +1,3 @@
-{:created 1786100210309, :description "Common utilities for Prismatic Schema", :group_name "metosin", :jar_name "schema-tools", :version "0.14.0"}
 {:created 1786101106553, :description "An idiomatic Quartz wrapper for Clojure.", :group_name "com.timezynk", :jar_name "scheduler", :version "1.0.1"}
 {:created 1786101747119, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.107"}
 {:created 1786103224517, :description "Snappy data-driven router for Clojure(Script)", :group_name "metosin", :jar_name "reitit-core", :version "0.11.0-rc1"}
@@ -107,10 +106,6 @@
 {:created 1786274392443, :description "LangChain4j EmbeddingStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-langchain4j", :version "0.1.31"}
 {:created 1786274392772, :description "Spring AI VectorStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-spring-ai", :version "0.1.31"}
 {:created 1786287105021, :description nil, :group_name "io.github.cljfx", :jar_name "ghosttyfx", :version "0.1.215.18"}
-{:created 1786289889318, :description "Backend-neutral EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl", :version "8.0.0-SNAPSHOT"}
-{:created 1786289896058, :description "Datomic adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datomic", :version "8.0.0-SNAPSHOT"}
-{:created 1786289902703, :description "Datahike adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datahike", :version "8.0.0-SNAPSHOT"}
-{:created 1786289909340, :description "DataScript adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datascript", :version "8.0.0-SNAPSHOT"}
 {:created 1786290912725, :description nil, :group_name "io.github.buddhilw", :jar_name "vtranslate-engine", :version "0.1.1"}
 {:created 1786295678400, :description "Command-line tool for running Duct systems", :group_name "org.duct-framework", :jar_name "main", :version "0.4.8"}
 {:created 1786301016910, :description "Poly is Polylith's command line interface for Clojure.", :group_name "polylith", :jar_name "clj-poly", :version "0.3.33-SNAPSHOT"}
@@ -254,3 +249,8 @@
 {:created 1786484123035, :description "Trapperkeeper Scheduler Service", :group_name "org.openvoxproject", :jar_name "trapperkeeper-scheduler", :version "1.4.1"}
 {:created 1786485164852, :description "A trapperkeeper service for getting the status of other trapperkeeper services.", :group_name "org.openvoxproject", :jar_name "trapperkeeper-status", :version "1.5.1"}
 {:created 1786486852006, :description "Trapperkeeper Metrics Service", :group_name "org.openvoxproject", :jar_name "trapperkeeper-metrics", :version "2.3.2"}
+{:created 1786490380600, :description "A thin, idiomatic Clojure wrapper around HttpClient", :group_name "org.clojars.jj", :jar_name "potoroo", :version "0.1.0-SNAPSHOT"}
+{:created 1786493207638, :description "Backend-neutral EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl", :version "8.0.0-SNAPSHOT"}
+{:created 1786493216388, :description "Datomic adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datomic", :version "8.0.0-SNAPSHOT"}
+{:created 1786493224038, :description "Datahike adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datahike", :version "8.0.0-SNAPSHOT"}
+{:created 1786493232508, :description "DataScript adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datascript", :version "8.0.0-SNAPSHOT"}
