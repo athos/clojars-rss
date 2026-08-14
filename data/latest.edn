@@ -105,10 +105,6 @@
 {:created 1786541389007, :description "Simple helpers for treating failures as values.", :group_name "failjure", :jar_name "failjure", :version "2.3.99-SNAPSHOT"}
 {:created 1786541475963, :description "Small Clojure Interpreter", :group_name "org.babashka", :jar_name "sci", :version "0.15.58"}
 {:created 1786542825295, :description "Simple, durable Clojure queuing library", :group_name "org.openvoxproject", :jar_name "stockpile", :version "1.0.3"}
-{:created 1786542975371, :description "Backend-neutral EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl", :version "8.0.0-SNAPSHOT"}
-{:created 1786542981594, :description "Datomic adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datomic", :version "8.0.0-SNAPSHOT"}
-{:created 1786542987549, :description "Datahike adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datahike", :version "8.0.0-SNAPSHOT"}
-{:created 1786542993406, :description "DataScript adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datascript", :version "8.0.0-SNAPSHOT"}
 {:created 1786543116630, :description "Write data structures to your logs from clojure.", :group_name "org.openvoxproject", :jar_name "structured-logging", :version "1.0.3"}
 {:created 1786547436518, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.27.0-SNAPSHOT"}
 {:created 1786547567426, :description nil, :group_name "com.monkeyci", :jar_name "core", :version "0.27.0-SNAPSHOT"}
@@ -254,3 +250,7 @@
 {:created 1786734092989, :description nil, :group_name "com.github.flow-storm", :jar_name "flow-storm-dbg", :version "4.8.1"}
 {:created 1786736419947, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-system", :version "0.3.3"}
 {:created 1786737947165, :description "Spec-driven GraphQL API fronting real REST backends", :group_name "io.github.rthadani", :jar_name "bff", :version "0.9.0"}
+{:created 1786740245091, :description "Backend-neutral EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl", :version "8.0.0-SNAPSHOT"}
+{:created 1786740251091, :description "Datomic adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datomic", :version "8.0.0-SNAPSHOT"}
+{:created 1786740257440, :description "Datahike adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datahike", :version "8.0.0-SNAPSHOT"}
+{:created 1786740263212, :description "DataScript adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datascript", :version "8.0.0-SNAPSHOT"}
