@@ -1,6 +1,3 @@
-{:created 1786321480931, :description "Zero-dep, near 0-alloc, High Performance Ring adapter for Clojure", :group_name "com.s-exp", :jar_name "enso", :version "1.0.0-alpha31"}
-{:created 1786332559401, :description "An experimental, from-scratch, standards-derived PNG decoder and encoder for Clojure and ClojureScript, delegating only zlib to the platform, for runtimes without a platform image API: Babashka, nbb, Node, and browsers without Canvas readback. Implemented against W3C REC-png-3-20250624.", :group_name "com.notnullmakers", :jar_name "clj-png-adapter", :version "0.1.0"}
-{:created 1786334229229, :description "An experimental from-scratch QR Code generator and reader for Clojure and ClojureScript, implemented against ISO/IEC 18004:2015 with a pure core and thin platform pixel adapters. No conformance claim.", :group_name "com.notnullmakers", :jar_name "qrity", :version "0.1.1"}
 {:created 1786343687948, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.0.8"}
 {:created 1786350513266, :description "Atlas: semantic registry for expressive systems", :group_name "io.github.semantic-namespace", :jar_name "atlas", :version "0.1.12"}
 {:created 1786350525565, :description "Atlas dev tools: source tracking, git history, and dev-time tooling", :group_name "io.github.semantic-namespace", :jar_name "atlas-dev", :version "0.1.12"}
@@ -235,7 +232,6 @@
 {:created 1786705043557, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.3.78"}
 {:created 1786707093863, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.3.79"}
 {:created 1786707529922, :description "Declarative data fetching and caching for re-frame, inspired by TanStack Query and RTK Query", :group_name "com.shipclojure", :jar_name "re-frame-query", :version "0.12.0"}
-{:created 1786713691101, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.13.220-SNAPSHOT"}
 {:created 1786717520793, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.2.2"}
 {:created 1786718538643, :description "build script support lib", :group_name "org.domaindrivenarchitecture", :jar_name "dda-build-clj", :version "2.1.0"}
 {:created 1786720982988, :description "build script support lib", :group_name "org.domaindrivenarchitecture", :jar_name "dda-build-clj", :version "2.1.1"}
@@ -254,3 +250,7 @@
 {:created 1786740251091, :description "Datomic adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datomic", :version "8.0.0-SNAPSHOT"}
 {:created 1786740257440, :description "Datahike adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datahike", :version "8.0.0-SNAPSHOT"}
 {:created 1786740263212, :description "DataScript adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datascript", :version "8.0.0-SNAPSHOT"}
+{:created 1786742230961, :description nil, :group_name "io.github.hlship", :jar_name "cli-tools", :version "1.0.1"}
+{:created 1786743773099, :description "Maven wagon for S3 with support for Leiningen, the Clojure build tool.", :group_name "io.github.michalmela", :jar_name "s3-wagon", :version "1.1.0"}
+{:created 1786743839578, :description "An in-app vertical slice through re-frame data flow", :group_name "net.clojars.frknzd", :jar_name "re-frame.vertica", :version "0.3.1"}
+{:created 1786744550574, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.13.220-SNAPSHOT"}
