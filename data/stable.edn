@@ -1,4 +1,3 @@
-{:created 1786332559401, :description "An experimental, from-scratch, standards-derived PNG decoder and encoder for Clojure and ClojureScript, delegating only zlib to the platform, for runtimes without a platform image API: Babashka, nbb, Node, and browsers without Canvas readback. Implemented against W3C REC-png-3-20250624.", :group_name "com.notnullmakers", :jar_name "clj-png-adapter", :version "0.1.0"}
 {:created 1786334229229, :description "An experimental from-scratch QR Code generator and reader for Clojure and ClojureScript, implemented against ISO/IEC 18004:2015 with a pure core and thin platform pixel adapters. No conformance claim.", :group_name "com.notnullmakers", :jar_name "qrity", :version "0.1.1"}
 {:created 1786343687948, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.0.8"}
 {:created 1786350513266, :description "Atlas: semantic registry for expressive systems", :group_name "io.github.semantic-namespace", :jar_name "atlas", :version "0.1.12"}
@@ -254,3 +253,4 @@
 {:created 1786754809875, :description "Library for interacting with backend relational databases.", :group_name "org.cyverse", :jar_name "kameleon", :version "3.0.11"}
 {:created 1786754941690, :description "DE services code for managing configurations.", :group_name "org.cyverse", :jar_name "common-cfg", :version "2.8.4"}
 {:created 1786755048622, :description "Common CLI functions for the DE backend services and tools", :group_name "org.cyverse", :jar_name "common-cli", :version "2.8.3"}
+{:created 1786757482320, :description nil, :group_name "com.github.sipmann", :jar_name "common-pg-queue", :version "0.0.16"}
