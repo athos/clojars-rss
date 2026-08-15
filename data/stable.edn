@@ -1,5 +1,3 @@
-{:created 1786334229229, :description "An experimental from-scratch QR Code generator and reader for Clojure and ClojureScript, implemented against ISO/IEC 18004:2015 with a pure core and thin platform pixel adapters. No conformance claim.", :group_name "com.notnullmakers", :jar_name "qrity", :version "0.1.1"}
-{:created 1786343687948, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.0.8"}
 {:created 1786350513266, :description "Atlas: semantic registry for expressive systems", :group_name "io.github.semantic-namespace", :jar_name "atlas", :version "0.1.12"}
 {:created 1786350525565, :description "Atlas dev tools: source tracking, git history, and dev-time tooling", :group_name "io.github.semantic-namespace", :jar_name "atlas-dev", :version "0.1.12"}
 {:created 1786350572961, :description "Atlas UI: visual explorer for atlas registries (dev tool)", :group_name "io.github.semantic-namespace", :jar_name "atlas-ui", :version "0.1.12"}
@@ -254,3 +252,5 @@
 {:created 1786754941690, :description "DE services code for managing configurations.", :group_name "org.cyverse", :jar_name "common-cfg", :version "2.8.4"}
 {:created 1786755048622, :description "Common CLI functions for the DE backend services and tools", :group_name "org.cyverse", :jar_name "common-cli", :version "2.8.3"}
 {:created 1786757482320, :description nil, :group_name "com.github.sipmann", :jar_name "common-pg-queue", :version "0.0.16"}
+{:created 1786760657419, :description "Vaelii — a contextualized common-sense knowledge base with a\n                count-aware trie index, forward/backward inference,\n                and JTMS truth maintenance, over an in-memory or on-disk store.", :group_name "com.vaelii", :jar_name "vaelii", :version "0.8.0"}
+{:created 1786760695601, :description "Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and\n                ATOMIC, each translated into one corpus format, discovered through\n                vaelii's plugin seam.", :group_name "com.vaelii", :jar_name "vaelii-foreign", :version "0.8.0"}
