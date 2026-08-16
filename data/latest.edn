@@ -1,21 +1,3 @@
-{:created 1786649988056, :description "JSON (cheshire library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-cheshire", :version "0.3.0-beta1"}
-{:created 1786650022524, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.3.0-beta1"}
-{:created 1786650061635, :description "JSON (jsonista library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-jsonista", :version "0.3.0-beta1"}
-{:created 1786651946635, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.16.0"}
-{:created 1786652375144, :description "Create subschemas of malli-schemas using a spec2-inspired select notation. Works on Clojure and ClojureScript.", :group_name "dk.thinkcreate", :jar_name "malli-select", :version "0.8.0-pre.6"}
-{:created 1786653039810, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "1.1.0"}
-{:created 1786654778060, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.25.0"}
-{:created 1786658207161, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "1.2.0"}
-{:created 1786658273932, :description "Standalone passwordless SSH setup for groups of machines that can authenticate over SSH", :group_name "org.clojars.punit-naik", :jar_name "passwordless-ssh", :version "1.0.1"}
-{:created 1786658802858, :description "Malli-Typed interfaces for Clojure", :group_name "io.julienvincent", :jar_name "malt", :version "1.0.0"}
-{:created 1786661855294, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "1.3.0"}
-{:created 1786662967605, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-macos-universal", :version "0.9.0"}
-{:created 1786662977083, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-linux-x86-64", :version "0.9.0"}
-{:created 1786662986387, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-linux-aarch64", :version "0.9.0"}
-{:created 1786662995826, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-windows-x86-64", :version "0.9.0"}
-{:created 1786663005166, :description "Platform native dependencies for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-platform", :version "0.9.0"}
-{:created 1786663014849, :description "Clojure bindings for the libui-ng native GUI library", :group_name "io.github.slifin", :jar_name "clj-libui", :version "0.9.0"}
-{:created 1786663386091, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.373"}
 {:created 1786665383874, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
 {:created 1786668514071, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "1.4.0"}
 {:created 1786671608928, :description nil, :group_name "io.github.hive-agi", :jar_name "cloffeine", :version "1.1.0"}
@@ -254,3 +236,21 @@
 {:created 1786916616035, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.39"}
 {:created 1786916621731, :description "com.blockether/vis-contract - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-contract", :version "0.1.39"}
 {:created 1786916628170, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.39"}
+{:created 1786919385636, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.40"}
+{:created 1786919390484, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.40"}
+{:created 1786919395500, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.40"}
+{:created 1786919400397, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.40"}
+{:created 1786919405339, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.40"}
+{:created 1786919410152, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.40"}
+{:created 1786919414915, :description "com.blockether/vis-language-typescript-bun - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-typescript-bun", :version "0.1.40"}
+{:created 1786919419961, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.40"}
+{:created 1786919424712, :description "com.blockether/vis-provider-alibaba - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-alibaba", :version "0.1.40"}
+{:created 1786919429464, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.40"}
+{:created 1786919434184, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.40"}
+{:created 1786919438908, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.40"}
+{:created 1786919443888, :description "com.blockether/vis-provider-opencode-go - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-opencode-go", :version "0.1.40"}
+{:created 1786919448832, :description "com.blockether/vis-provider-openrouter - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openrouter", :version "0.1.40"}
+{:created 1786919453706, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.40"}
+{:created 1786919458412, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.40"}
+{:created 1786919463065, :description "com.blockether/vis-contract - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-contract", :version "0.1.40"}
+{:created 1786919468263, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.40"}
