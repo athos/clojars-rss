@@ -1,20 +1,3 @@
-{:created 1786570137903, :description "Zero-dep, near 0-alloc, High Performance Ring adapter for Clojure", :group_name "com.s-exp", :jar_name "enso", :version "1.0.0-alpha55"}
-{:created 1786571944476, :description "Vaelii — a contextualized common-sense knowledge base with a\n                count-aware trie index, forward/backward inference,\n                and JTMS truth maintenance, over an in-memory or on-disk store.", :group_name "com.vaelii", :jar_name "vaelii", :version "0.7.0"}
-{:created 1786571953897, :description "Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and\n                ATOMIC, each translated into one corpus format, discovered through\n                vaelii's plugin seam.", :group_name "com.vaelii", :jar_name "vaelii-foreign", :version "0.7.0"}
-{:created 1786573373892, :description "Fast, portable CBOR serialization for Clojure and ClojureScript, in a format other languages can read.", :group_name "org.replikativ", :jar_name "boring", :version "0.1.22"}
-{:created 1786584378751, :description "Unified copy-on-write memory model protocols for heterogeneous storage systems", :group_name "org.replikativ", :jar_name "yggdrasil", :version "0.3.40"}
-{:created 1786586977941, :description "Pavlov: Bthreads for Clojure(Script)", :group_name "tech.thomascothran", :jar_name "pavlov", :version "4.0.263"}
-{:created 1786586987097, :description "Pavlov Devtools", :group_name "tech.thomascothran", :jar_name "pavlov-devtools", :version "4.0.263"}
-{:created 1786586996444, :description "Pavlov Skills", :group_name "tech.thomascothran", :jar_name "pavlov-skills", :version "4.0.263"}
-{:created 1786587005434, :description "Pavlov Web", :group_name "tech.thomascothran", :jar_name "pavlov-web", :version "4.0.263"}
-{:created 1786601408535, :description "In-process Linux sandbox — Clojure SDK (Java FFM over the libcvisor C ABI)", :group_name "io.github.tsirysndr", :jar_name "cvisor", :version "0.1.0"}
-{:created 1786602374546, :description nil, :group_name "com.magnars", :jar_name "refinery", :version "0.2026.08.13"}
-{:created 1786605205116, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "1.0.1"}
-{:created 1786607134418, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "1.0.2"}
-{:created 1786611699087, :description nil, :group_name "co.multiply", :jar_name "remontoire", :version "0.6.0"}
-{:created 1786621363645, :description nil, :group_name "org.replikativ", :jar_name "konserve-lmdb", :version "0.1.19"}
-{:created 1786622044747, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.6.4"}
-{:created 1786627465073, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.6.6"}
 {:created 1786630024303, :description "Library for interacting with various payment providers", :group_name "com.github.dgknght", :jar_name "payments", :version "0.1.7"}
 {:created 1786640402766, :description "Malli-Typed interfaces for Clojure", :group_name "io.julienvincent", :jar_name "malt", :version "1.0.0-alpha.14"}
 {:created 1786641703706, :description "Prebuilt libui-ng native library for clj-libui", :group_name "io.github.slifin", :jar_name "clj-libui-native-macos-universal", :version "0.8.2"}
@@ -254,3 +237,20 @@
 {:created 1786893614749, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-router", :version "1.1118"}
 {:created 1786894942526, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.9.27"}
 {:created 1786897082729, :description "Utilities extending clojure.core/cond", :group_name "org.clojars.kingnuscodus", :jar_name "omni.cond-utils", :version "0.1.0-PATCH"}
+{:created 1786907987031, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.66"}
+{:created 1786909204584, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core", :version "1.1120"}
+{:created 1786909212715, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-aws-emf", :version "1.1120"}
+{:created 1786909220551, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-client", :version "1.1120"}
+{:created 1786909228138, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-clj", :version "1.1120"}
+{:created 1786909236277, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-dev", :version "1.1120"}
+{:created 1786909244391, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-import", :version "1.1120"}
+{:created 1786909252089, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-io", :version "1.1120"}
+{:created 1786909260451, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-json", :version "1.1120"}
+{:created 1786909268452, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-nippy", :version "1.1120"}
+{:created 1786909276553, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-parquet", :version "1.1120"}
+{:created 1786909284225, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-security", :version "1.1120"}
+{:created 1786909292348, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-view-store-postgres", :version "1.1120"}
+{:created 1786909299930, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-xlsx", :version "1.1120"}
+{:created 1786909308069, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-java-lambda-runtime", :version "1.1120"}
+{:created 1786909315561, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-router", :version "1.1120"}
+{:created 1786910333316, :description "A library for natural language generation and parsing", :group_name "menard", :jar_name "menard", :version "1.10.4"}
