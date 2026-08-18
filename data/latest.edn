@@ -1,7 +1,3 @@
-{:created 1786749658100, :description "Spec-driven GraphQL API fronting real REST backends", :group_name "io.github.rthadani", :jar_name "bff", :version "0.10.0"}
-{:created 1786751832613, :description "A Clojure wrapper for the debezium-embedded engine.", :group_name "hden", :jar_name "debezium-embedded", :version "4.0.0-SNAPSHOT"}
-{:created 1786753842937, :description "clj-kondo configuration and macro expansons for third-party libraries", :group_name "org.cyverse", :jar_name "clj-kondo-exports", :version "0.1.1"}
-{:created 1786754002201, :description "A Clojure client library for the CyVerse permissions service.", :group_name "org.cyverse", :jar_name "permissions-client", :version "2.8.6"}
 {:created 1786754105983, :description "A Clojure client library for the CyVerse groups service.", :group_name "org.cyverse", :jar_name "cyverse-groups-client", :version "0.1.10"}
 {:created 1786754221013, :description "A Clojure library for accessing the iRODS ICAT database directly.", :group_name "org.cyverse", :jar_name "clj-icat-direct", :version "2.9.8"}
 {:created 1786754534566, :description "Library for generating metadata files.", :group_name "org.cyverse", :jar_name "metadata-files", :version "2.1.2"}
@@ -254,3 +250,7 @@
 {:created 1787003419422, :description "Model-based testing for Clojure, driven by Quint specifications.", :group_name "org.clojars.aldebogdanov", :jar_name "quint-connect", :version "0.1.0"}
 {:created 1787004920429, :description "Model-based testing for Clojure, driven by Quint specifications.", :group_name "org.clojars.aldebogdanov", :jar_name "quint-connect", :version "0.3.0"}
 {:created 1787007112465, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.77"}
+{:created 1787010031557, :description "Clojure API on top of iRODS's jargon-core.", :group_name "org.cyverse", :jar_name "clj-jargon", :version "3.1.6"}
+{:created 1787010339087, :description "Common library for Swagger documented RESTful APIs", :group_name "org.cyverse", :jar_name "common-swagger-api", :version "3.4.23"}
+{:created 1787010548154, :description "A Clojure client library for the Tapis API.", :group_name "org.cyverse", :jar_name "mescal", :version "4.1.1"}
+{:created 1787011193786, :description "A Clojure library for interacting with the IRODS data system. Wraps clj-jargon and clj-icat-direct for a nicer interface", :group_name "org.cyverse", :jar_name "clj-irods", :version "0.4.2"}
