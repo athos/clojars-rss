@@ -1,17 +1,3 @@
-{:created 1786754105983, :description "A Clojure client library for the CyVerse groups service.", :group_name "org.cyverse", :jar_name "cyverse-groups-client", :version "0.1.10"}
-{:created 1786754221013, :description "A Clojure library for accessing the iRODS ICAT database directly.", :group_name "org.cyverse", :jar_name "clj-icat-direct", :version "2.9.8"}
-{:created 1786754534566, :description "Library for generating metadata files.", :group_name "org.cyverse", :jar_name "metadata-files", :version "2.1.2"}
-{:created 1786754629124, :description "An OAuth 2.0 client clibrary written in Clojure.", :group_name "org.cyverse", :jar_name "authy", :version "3.0.2"}
-{:created 1786754727553, :description "Clojure library for attempting to guess file types.", :group_name "org.cyverse", :jar_name "heuristomancer", :version "2.8.8"}
-{:created 1786754809875, :description "Library for interacting with backend relational databases.", :group_name "org.cyverse", :jar_name "kameleon", :version "3.0.11"}
-{:created 1786754941690, :description "DE services code for managing configurations.", :group_name "org.cyverse", :jar_name "common-cfg", :version "2.8.4"}
-{:created 1786755048622, :description "Common CLI functions for the DE backend services and tools", :group_name "org.cyverse", :jar_name "common-cli", :version "2.8.3"}
-{:created 1786755400571, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "2.5.3-SNAPSHOT"}
-{:created 1786757482320, :description nil, :group_name "com.github.sipmann", :jar_name "common-pg-queue", :version "0.0.16"}
-{:created 1786760657419, :description "Vaelii — a contextualized common-sense knowledge base with a\n                count-aware trie index, forward/backward inference,\n                and JTMS truth maintenance, over an in-memory or on-disk store.", :group_name "com.vaelii", :jar_name "vaelii", :version "0.8.0"}
-{:created 1786760695601, :description "Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and\n                ATOMIC, each translated into one corpus format, discovered through\n                vaelii's plugin seam.", :group_name "com.vaelii", :jar_name "vaelii-foreign", :version "0.8.0"}
-{:created 1786768325662, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1777"}
-{:created 1786769383920, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.17.0"}
 {:created 1786769576665, :description nil, :group_name "org.replikativ", :jar_name "datahike-lmdb", :version "0.1.9"}
 {:created 1786772354573, :description "In-process Linux sandbox — Clojure SDK (Java FFM over the libcvisor C ABI)", :group_name "io.github.tsirysndr", :jar_name "cvisor", :version "0.2.0"}
 {:created 1786773712350, :description "Fast, portable CBOR serialization for Clojure and ClojureScript, in a format other languages can read.", :group_name "org.replikativ", :jar_name "boring", :version "0.1.24"}
@@ -254,3 +240,17 @@
 {:created 1787010339087, :description "Common library for Swagger documented RESTful APIs", :group_name "org.cyverse", :jar_name "common-swagger-api", :version "3.4.23"}
 {:created 1787010548154, :description "A Clojure client library for the Tapis API.", :group_name "org.cyverse", :jar_name "mescal", :version "4.1.1"}
 {:created 1787011193786, :description "A Clojure library for interacting with the IRODS data system. Wraps clj-jargon and clj-icat-direct for a nicer interface", :group_name "org.cyverse", :jar_name "clj-irods", :version "0.4.2"}
+{:created 1787012150661, :description nil, :group_name "com.biffweb", :jar_name "stuff", :version "2.0.0-rc16"}
+{:created 1787012162992, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.0-rc16"}
+{:created 1787012175433, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.0-rc16"}
+{:created 1787012187383, :description nil, :group_name "com.biffweb", :jar_name "fx", :version "2.0.0-rc16"}
+{:created 1787012199899, :description nil, :group_name "com.biffweb", :jar_name "graph", :version "2.0.0-rc16"}
+{:created 1787012216228, :description nil, :group_name "com.biffweb", :jar_name "sqlite", :version "2.0.0-rc16"}
+{:created 1787012229896, :description nil, :group_name "com.biffweb", :jar_name "xtdb", :version "2.0.0-rc16"}
+{:created 1787012242674, :description nil, :group_name "com.biffweb", :jar_name "ring", :version "2.0.0-rc16"}
+{:created 1787012255129, :description nil, :group_name "com.biffweb", :jar_name "datastar", :version "2.0.0-rc16"}
+{:created 1787012267156, :description nil, :group_name "com.biffweb", :jar_name "run", :version "2.0.0-rc16"}
+{:created 1787012280177, :description nil, :group_name "com.biffweb", :jar_name "tasks", :version "2.0.0-rc16"}
+{:created 1787012293327, :description nil, :group_name "com.biffweb", :jar_name "background", :version "2.0.0-rc16"}
+{:created 1787015037690, :description "Frink-inspired exact unit conversion and dimensional arithmetic for Clojure.", :group_name "com.github.crinklywrappr", :jar_name "commensura", :version "1.0.37"}
+{:created 1787015122949, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
