@@ -1,14 +1,3 @@
-{:created 1786890463434, :description "External service adapters library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-external", :version "1.0.0-beta-5"}
-{:created 1786890509274, :description "Email sending library for Wagoe framework: SMTP support, composition, validation", :group_name "com.wagoe", :jar_name "wagoe-email", :version "1.0.0-beta-5"}
-{:created 1786890553422, :description "PSP abstraction for Wagoe framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "com.wagoe", :jar_name "wagoe-payments", :version "1.0.0-beta-5"}
-{:created 1786890641440, :description "PDF and Excel report generation for Wagoe framework: Hiccup templates, declarative sections, async via jobs module", :group_name "com.wagoe", :jar_name "wagoe-reports", :version "1.0.0-beta-5"}
-{:created 1786890684898, :description "Multi-provider AI library for Wagoe framework: Anthropic, OpenAI, Ollama", :group_name "com.wagoe", :jar_name "wagoe-ai", :version "1.0.0-beta-5"}
-{:created 1786890728534, :description "Shared UI style library for Wagoe framework: CSS/JS bundles and assets", :group_name "com.wagoe", :jar_name "wagoe-ui-style", :version "1.0.0-beta-5"}
-{:created 1786890774738, :description "Shared UI library for Wagoe framework: layout, components, Hiccup rendering helpers", :group_name "com.wagoe", :jar_name "wagoe-shared-ui", :version "1.0.0-beta-5"}
-{:created 1786890820082, :description "User management library for Wagoe framework: authentication, sessions, MFA", :group_name "com.wagoe", :jar_name "wagoe-user", :version "1.0.0-beta-5"}
-{:created 1786890911257, :description "Admin interface library for Wagoe framework: auto-CRUD, schema introspection", :group_name "com.wagoe", :jar_name "wagoe-admin", :version "1.0.0-beta-5"}
-{:created 1786890957363, :description "Workflow orchestration library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-workflow", :version "1.0.0-beta-5"}
-{:created 1786891001176, :description "Full-text search library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-search", :version "1.0.0-beta-5"}
 {:created 1786891091466, :description "Development tools and dashboard for the Wagoe framework: dev dashboard, REPL utilities, system inspection", :group_name "com.wagoe", :jar_name "wagoe-devtools", :version "1.0.0-beta-5"}
 {:created 1786891138006, :description "Model Context Protocol server for the Wagoe framework (stdio transport)", :group_name "com.wagoe", :jar_name "wagoe-mcp", :version "1.0.0-beta-5"}
 {:created 1786893503429, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core", :version "1.1118"}
@@ -154,10 +143,6 @@
 {:created 1786999094118, :description "Client for the async-tasks service", :group_name "org.cyverse", :jar_name "async-tasks-client", :version "0.0.6"}
 {:created 1786999153442, :description nil, :group_name "net.clojars.savya", :jar_name "buddy-auth", :version "4.0.2"}
 {:created 1786999381658, :description "Port of clojure.org/tools.analyzer.clr to ClojureCLR", :group_name "org.clojure.clr", :jar_name "tools.analyzer.clr", :version "1.4.0"}
-{:created 1787000571737, :description "Backend-neutral EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl", :version "8.0.0-SNAPSHOT"}
-{:created 1787000578667, :description "Datomic adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datomic", :version "8.0.0-SNAPSHOT"}
-{:created 1787000585368, :description "Datahike adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datahike", :version "8.0.0-SNAPSHOT"}
-{:created 1787000592151, :description "DataScript adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datascript", :version "8.0.0-SNAPSHOT"}
 {:created 1787000599819, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.72"}
 {:created 1787000720990, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.74"}
 {:created 1787001271680, :description "Portable Maven dependency resolution for Clojure dialects", :group_name "cc.clojure", :jar_name "grenadine", :version "0.1.7"}
@@ -254,3 +239,18 @@
 {:created 1787086277898, :description "A safe, data-oriented Clojure connector for Binance Spot REST and WebSocket APIs.", :group_name "io.github.ugurbay", :jar_name "binance-clj", :version "1.0.1"}
 {:created 1787088743891, :description "Terminal UI library for Clojure", :group_name "de.timokramer", :jar_name "charm.clj", :version "0.2.74"}
 {:created 1787089330610, :description "Library of commonly used functions for web app development", :group_name "com.github.dgknght", :jar_name "app-lib", :version "0.3.55"}
+{:created 1787091184489, :description "Library for interacting with various payment providers", :group_name "com.github.dgknght", :jar_name "payments", :version "0.1.8"}
+{:created 1787091811012, :description "Backend-neutral EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl", :version "8.0.0-SNAPSHOT"}
+{:created 1787091817241, :description "Datomic adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datomic", :version "8.0.0-SNAPSHOT"}
+{:created 1787091823075, :description "Datahike adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datahike", :version "8.0.0-SNAPSHOT"}
+{:created 1787091828839, :description "DataScript adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datascript", :version "8.0.0-SNAPSHOT"}
+{:created 1787092850982, :description "Raw package for glfw3.", :group_name "org.jank-lang.commons", :jar_name "glfw-sys", :version "2026.08-1"}
+{:created 1787092863525, :description "Raw package for Dear ImGUI GLFW platform backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-glfw-sys", :version "2026.08-1"}
+{:created 1787092875356, :description "Raw package for box2d.", :group_name "org.jank-lang.commons", :jar_name "box2d-sys", :version "2026.08-1"}
+{:created 1787092886049, :description "Raw package for OpenGL.", :group_name "org.jank-lang.commons", :jar_name "gl-sys", :version "2026.08-1"}
+{:created 1787092897334, :description "Raw package for Dear ImGUI.", :group_name "org.jank-lang.commons", :jar_name "imgui-sys", :version "2026.08-1"}
+{:created 1787092908153, :description "Raw package for sqlite3.", :group_name "org.jank-lang.commons", :jar_name "sqlite3-sys", :version "2026.08-1"}
+{:created 1787092920395, :description "Raw package for Dear ImGUI OpenGL2 renderer backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-opengl2-sys", :version "2026.08-1"}
+{:created 1787092931780, :description "Raw package for box3d.", :group_name "org.jank-lang.commons", :jar_name "box3d-sys", :version "2026.08-1"}
+{:created 1787093812019, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.83"}
+{:created 1787093880810, :description "Raw package for FTXUI.", :group_name "org.jank-lang.commons", :jar_name "ftxui-sys", :version "2026.08-2"}
