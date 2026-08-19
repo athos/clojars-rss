@@ -1,7 +1,3 @@
-{:created 1786891091466, :description "Development tools and dashboard for the Wagoe framework: dev dashboard, REPL utilities, system inspection", :group_name "com.wagoe", :jar_name "wagoe-devtools", :version "1.0.0-beta-5"}
-{:created 1786891138006, :description "Model Context Protocol server for the Wagoe framework (stdio transport)", :group_name "com.wagoe", :jar_name "wagoe-mcp", :version "1.0.0-beta-5"}
-{:created 1786893503429, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core", :version "1.1118"}
-{:created 1786893511223, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-aws-emf", :version "1.1118"}
 {:created 1786893519356, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-client", :version "1.1118"}
 {:created 1786893526844, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-clj", :version "1.1118"}
 {:created 1786893534587, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-dev", :version "1.1118"}
@@ -240,10 +236,6 @@
 {:created 1787088743891, :description "Terminal UI library for Clojure", :group_name "de.timokramer", :jar_name "charm.clj", :version "0.2.74"}
 {:created 1787089330610, :description "Library of commonly used functions for web app development", :group_name "com.github.dgknght", :jar_name "app-lib", :version "0.3.55"}
 {:created 1787091184489, :description "Library for interacting with various payment providers", :group_name "com.github.dgknght", :jar_name "payments", :version "0.1.8"}
-{:created 1787091811012, :description "Backend-neutral EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl", :version "8.0.0-SNAPSHOT"}
-{:created 1787091817241, :description "Datomic adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datomic", :version "8.0.0-SNAPSHOT"}
-{:created 1787091823075, :description "Datahike adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datahike", :version "8.0.0-SNAPSHOT"}
-{:created 1787091828839, :description "DataScript adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datascript", :version "8.0.0-SNAPSHOT"}
 {:created 1787092850982, :description "Raw package for glfw3.", :group_name "org.jank-lang.commons", :jar_name "glfw-sys", :version "2026.08-1"}
 {:created 1787092863525, :description "Raw package for Dear ImGUI GLFW platform backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-glfw-sys", :version "2026.08-1"}
 {:created 1787092875356, :description "Raw package for box2d.", :group_name "org.jank-lang.commons", :jar_name "box2d-sys", :version "2026.08-1"}
@@ -254,3 +246,11 @@
 {:created 1787092931780, :description "Raw package for box3d.", :group_name "org.jank-lang.commons", :jar_name "box3d-sys", :version "2026.08-1"}
 {:created 1787093812019, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.83"}
 {:created 1787093880810, :description "Raw package for FTXUI.", :group_name "org.jank-lang.commons", :jar_name "ftxui-sys", :version "2026.08-2"}
+{:created 1787095656111, :description "Portable Maven dependency resolution for Clojure dialects", :group_name "cc.clojure", :jar_name "grenadine", :version "0.1.8"}
+{:created 1787095885716, :description "Backend-neutral EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl", :version "8.0.0-SNAPSHOT"}
+{:created 1787095893160, :description "Datomic adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datomic", :version "8.0.0-SNAPSHOT"}
+{:created 1787095900428, :description "Datahike adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datahike", :version "8.0.0-SNAPSHOT"}
+{:created 1787095907739, :description "DataScript adapter for the EACL authorization engine", :group_name "dev.eacl", :jar_name "eacl-datascript", :version "8.0.0-SNAPSHOT"}
+{:created 1787096331153, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.84"}
+{:created 1787096853654, :description "composable plotting in Clojure", :group_name "org.scicloj", :jar_name "plotje", :version "0.9.0"}
+{:created 1787097141529, :description "Raw package for raylib.", :group_name "org.jank-lang.commons", :jar_name "raylib-sys", :version "2026.08-2"}
