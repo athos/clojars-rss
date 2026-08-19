@@ -1,13 +1,3 @@
-{:created 1786919414915, :description "com.blockether/vis-language-typescript-bun - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-typescript-bun", :version "0.1.40"}
-{:created 1786919419961, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.40"}
-{:created 1786919424712, :description "com.blockether/vis-provider-alibaba - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-alibaba", :version "0.1.40"}
-{:created 1786919429464, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.40"}
-{:created 1786919434184, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.40"}
-{:created 1786919438908, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.40"}
-{:created 1786919443888, :description "com.blockether/vis-provider-opencode-go - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-opencode-go", :version "0.1.40"}
-{:created 1786919448832, :description "com.blockether/vis-provider-openrouter - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openrouter", :version "0.1.40"}
-{:created 1786919453706, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.40"}
-{:created 1786919458412, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.40"}
 {:created 1786919463065, :description "com.blockether/vis-contract - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-contract", :version "0.1.40"}
 {:created 1786919468263, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.40"}
 {:created 1786923603782, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "2.1.27-SNAPSHOT"}
@@ -147,7 +137,6 @@
 {:created 1787048232004, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.27.0-SNAPSHOT"}
 {:created 1787048834310, :description "A Ring Adapter written in Clojure", :group_name "dev.weavejester", :jar_name "capra", :version "0.1.4"}
 {:created 1787050741918, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.82"}
-{:created 1787050870544, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.13.220-SNAPSHOT"}
 {:created 1787052289355, :description "A library for simple wire-like connectivity semantics.", :group_name "org.replikativ", :jar_name "kabel", :version "0.3.108"}
 {:created 1787052631856, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.27.0"}
 {:created 1787052720797, :description nil, :group_name "com.monkeyci", :jar_name "core", :version "0.27.0"}
@@ -254,3 +243,14 @@
 {:created 1787151767838, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.66.1"}
 {:created 1787151886087, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.66.2"}
 {:created 1787151943119, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.66.1"}
+{:created 1787152011430, :description "babashka", :group_name "babashka", :jar_name "babashka", :version "1.13.220-SNAPSHOT"}
+{:created 1787152716102, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.66.1"}
+{:created 1787153155408, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.66.1"}
+{:created 1787153235441, :description nil, :group_name "org.uncomplicate", :jar_name "accelerate", :version "0.3.0-1.5.14"}
+{:created 1787153282160, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.66.1"}
+{:created 1787153809352, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.26.0"}
+{:created 1787154412622, :description nil, :group_name "org.uncomplicate", :jar_name "accelerate-platform", :version "0.3.0-1.5.14"}
+{:created 1787154471351, :description "Neanderthal's Apple Accelerate engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-accelerate", :version "0.66.1"}
+{:created 1787154534158, :description "Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic Neanderthal uberproject.", :group_name "uncomplicate", :jar_name "neanderthal", :version "0.66.1"}
+{:created 1787155343631, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-base", :version "0.47.0"}
+{:created 1787155368771, :description "Fast Clojure Deep Learning Library", :group_name "org.uncomplicate", :jar_name "deep-diamond-test", :version "0.47.0"}
