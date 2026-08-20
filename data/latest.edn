@@ -1,4 +1,3 @@
-{:created 1786983759181, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.32.0"}
 {:created 1786983765024, :description "Idiomatic Clojure wrapper over DJL's HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.", :group_name "net.clojars.savya", :jar_name "tokenizers-clj", :version "0.5.0"}
 {:created 1786983940104, :description "Call shell from within Leiningen.", :group_name "net.clojars.savya", :jar_name "lein-shell", :version "1.0.3"}
 {:created 1786984350739, :description "Parinfer for Clojure source, in pure Java — a linear-time rewrite of parinferish.", :group_name "com.blockether", :jar_name "parinferish", :version "0.1.0"}
@@ -102,7 +101,6 @@
 {:created 1787069970159, :description "It watches your code like a hawk!", :group_name "io.github.metabase", :jar_name "hawk", :version "1.0.19"}
 {:created 1787071707116, :description "kitchen-sink of micro-libs commonly used by bloom", :group_name "io.bloomventures", :jar_name "commons", :version "0.17.2"}
 {:created 1787074606341, :description nil, :group_name "io.github.supabase-community", :jar_name "core", :version "0.7.0"}
-{:created 1787076762790, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
 {:created 1787078171207, :description "Library for abstracting data storage from business logic", :group_name "stowaway", :jar_name "stowaway", :version "0.2.17"}
 {:created 1787078712839, :description nil, :group_name "io.github.tsirysndr", :jar_name "bsdkrun", :version "0.5.0"}
 {:created 1787079527810, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
@@ -240,8 +238,6 @@
 {:created 1787195235252, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.99"}
 {:created 1787197820140, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1785"}
 {:created 1787198348309, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.101"}
-{:created 1787201788972, :description "Pre-generated icon components for Tyrell web components library", :group_name "dev.gersak", :jar_name "tyrell-icons", :version "1.0.0-RC14-SNAPSHOT"}
-{:created 1787201798983, :description "Modern web components library built with ClojureScript", :group_name "dev.gersak", :jar_name "tyrell", :version "1.0.0-RC14-SNAPSHOT"}
 {:created 1787204649627, :description nil, :group_name "com.biffweb", :jar_name "stuff", :version "2.0.0-rc19"}
 {:created 1787204788272, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.0-rc19"}
 {:created 1787204811173, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.0-rc19"}
@@ -254,3 +250,7 @@
 {:created 1787205062195, :description nil, :group_name "com.biffweb", :jar_name "run", :version "2.0.0-rc19"}
 {:created 1787205079529, :description nil, :group_name "com.biffweb", :jar_name "tasks", :version "2.0.0-rc19"}
 {:created 1787205095243, :description nil, :group_name "com.biffweb", :jar_name "background", :version "2.0.0-rc19"}
+{:created 1787207343119, :description "Pre-generated icon components for Tyrell web components library", :group_name "dev.gersak", :jar_name "tyrell-icons", :version "1.0.0-RC14-SNAPSHOT"}
+{:created 1787207352423, :description "Modern web components library built with ClojureScript", :group_name "dev.gersak", :jar_name "tyrell", :version "1.0.0-RC14-SNAPSHOT"}
+{:created 1787208492536, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
+{:created 1787209654911, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "2.1.27-SNAPSHOT"}

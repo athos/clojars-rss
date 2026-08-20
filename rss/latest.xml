@@ -4,7 +4,35 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 20 Aug 2026 06:05:47 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 07:14:59 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.core0/prism/versions/2.1.27-SNAPSHOT</guid>
+    <title>[io.core0/prism &quot;2.1.27-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/io.core0/prism/versions/2.1.27-SNAPSHOT</link>
+    <description>Opinionated library with client namespaces</description>
+    <pubDate>Thu, 20 Aug 2026 07:07:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ai.intergraph/game-master/versions/0.1.4-SNAPSHOT</guid>
+    <title>[ai.intergraph/game-master &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/ai.intergraph/game-master/versions/0.1.4-SNAPSHOT</link>
+    <description>Reusable Game Master runtime library for Intergraph</description>
+    <pubDate>Thu, 20 Aug 2026 06:48:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gersak/tyrell/versions/1.0.0-RC14-SNAPSHOT</guid>
+    <title>[dev.gersak/tyrell &quot;1.0.0-RC14-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/dev.gersak/tyrell/versions/1.0.0-RC14-SNAPSHOT</link>
+    <description>Modern web components library built with ClojureScript</description>
+    <pubDate>Thu, 20 Aug 2026 06:29:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gersak/tyrell-icons/versions/1.0.0-RC14-SNAPSHOT</guid>
+    <title>[dev.gersak/tyrell-icons &quot;1.0.0-RC14-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/dev.gersak/tyrell-icons/versions/1.0.0-RC14-SNAPSHOT</link>
+    <description>Pre-generated icon components for Tyrell web components library</description>
+    <pubDate>Thu, 20 Aug 2026 06:29:03 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.biffweb/background/versions/2.0.0-rc19</guid>
     <title>[com.biffweb/background &quot;2.0.0-rc19&quot;]</title>
@@ -88,20 +116,6 @@
     <link>https://clojars.org/com.biffweb/stuff/versions/2.0.0-rc19</link>
     <description></description>
     <pubDate>Thu, 20 Aug 2026 05:44:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.gersak/tyrell/versions/1.0.0-RC14-SNAPSHOT</guid>
-    <title>[dev.gersak/tyrell &quot;1.0.0-RC14-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/dev.gersak/tyrell/versions/1.0.0-RC14-SNAPSHOT</link>
-    <description>Modern web components library built with ClojureScript</description>
-    <pubDate>Thu, 20 Aug 2026 04:56:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.gersak/tyrell-icons/versions/1.0.0-RC14-SNAPSHOT</guid>
-    <title>[dev.gersak/tyrell-icons &quot;1.0.0-RC14-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/dev.gersak/tyrell-icons/versions/1.0.0-RC14-SNAPSHOT</link>
-    <description>Pre-generated icon components for Tyrell web components library</description>
-    <pubDate>Thu, 20 Aug 2026 04:56:28 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.101</guid>
@@ -1069,13 +1083,6 @@
     <pubDate>Tue, 18 Aug 2026 18:36:11 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/ai.intergraph/game-master/versions/0.1.4-SNAPSHOT</guid>
-    <title>[ai.intergraph/game-master &quot;0.1.4-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/ai.intergraph/game-master/versions/0.1.4-SNAPSHOT</link>
-    <description>Reusable Game Master runtime library for Intergraph</description>
-    <pubDate>Tue, 18 Aug 2026 18:12:42 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/io.github.supabase-community/core/versions/0.7.0</guid>
     <title>[io.github.supabase-community/core &quot;0.7.0&quot;]</title>
     <link>https://clojars.org/io.github.supabase-community/core/versions/0.7.0</link>
@@ -1802,13 +1809,6 @@
     <link>https://clojars.org/net.clojars.savya/tokenizers-clj/versions/0.5.0</link>
     <description>Idiomatic Clojure wrapper over DJL&#39;s HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.</description>
     <pubDate>Mon, 17 Aug 2026 16:22:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/stdnum-clj/versions/0.32.0</guid>
-    <title>[net.clojars.savya/stdnum-clj &quot;0.32.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/stdnum-clj/versions/0.32.0</link>
-    <description>Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.</description>
-    <pubDate>Mon, 17 Aug 2026 16:22:39 +0000</pubDate>
   </item>
   </channel>
 </rss>
