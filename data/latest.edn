@@ -1,21 +1,3 @@
-{:created 1787012187383, :description nil, :group_name "com.biffweb", :jar_name "fx", :version "2.0.0-rc16"}
-{:created 1787012199899, :description nil, :group_name "com.biffweb", :jar_name "graph", :version "2.0.0-rc16"}
-{:created 1787012216228, :description nil, :group_name "com.biffweb", :jar_name "sqlite", :version "2.0.0-rc16"}
-{:created 1787012229896, :description nil, :group_name "com.biffweb", :jar_name "xtdb", :version "2.0.0-rc16"}
-{:created 1787012242674, :description nil, :group_name "com.biffweb", :jar_name "ring", :version "2.0.0-rc16"}
-{:created 1787012255129, :description nil, :group_name "com.biffweb", :jar_name "datastar", :version "2.0.0-rc16"}
-{:created 1787012267156, :description nil, :group_name "com.biffweb", :jar_name "run", :version "2.0.0-rc16"}
-{:created 1787012280177, :description nil, :group_name "com.biffweb", :jar_name "tasks", :version "2.0.0-rc16"}
-{:created 1787012293327, :description nil, :group_name "com.biffweb", :jar_name "background", :version "2.0.0-rc16"}
-{:created 1787015037690, :description "Frink-inspired exact unit conversion and dimensional arithmetic for Clojure.", :group_name "com.github.crinklywrappr", :jar_name "commensura", :version "1.0.37"}
-{:created 1787017120066, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.78"}
-{:created 1787017456171, :description "Library for accessing environment variables", :group_name "net.clojars.savya", :jar_name "environ", :version "1.4.3"}
-{:created 1787018213384, :description "Idiomatic Clojure JOSE: JWS, JWE, JWK/JWKS, and JWT (signed, encrypted, nested) over Nimbus JOSE+JWT.", :group_name "net.clojars.savya", :jar_name "jose-clj", :version "0.5.1"}
-{:created 1787018687371, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.18.2"}
-{:created 1787019100128, :description "Copy-on-write branching for Apache Lucene with Git-like semantics", :group_name "org.replikativ", :jar_name "scriptum", :version "0.1.29"}
-{:created 1787020946742, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260818.024146.8bd8738"}
-{:created 1787021004244, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260818.024310.8c480be"}
-{:created 1787021490643, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.0.14"}
 {:created 1787023621827, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260818.032624.e8001f2"}
 {:created 1787023683008, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260818.032751.b61c1d5"}
 {:created 1787024152760, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-mcp", :version "0.20.0"}
@@ -254,3 +236,21 @@
 {:created 1787265312449, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260820.223428.763a457"}
 {:created 1787265380529, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260820.223608.ef27b95"}
 {:created 1787268687107, :description "Common library for Swagger documented RESTful APIs", :group_name "org.cyverse", :jar_name "common-swagger-api", :version "3.4.24"}
+{:created 1787277004275, :description "Lanterna-based TUI channel.", :group_name "com.blockether", :jar_name "vis-channel-tui", :version "0.1.41"}
+{:created 1787277010551, :description "com.blockether/vis-foundation-bridge - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-bridge", :version "0.1.41"}
+{:created 1787277016760, :description "com.blockether/vis-foundation-search - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-search", :version "0.1.41"}
+{:created 1787277022981, :description "com.blockether/vis-foundation-voice - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-foundation-voice", :version "0.1.41"}
+{:created 1787277029192, :description "com.blockether/vis-language-clojure - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-clojure", :version "0.1.41"}
+{:created 1787277035496, :description "com.blockether/vis-language-python - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-python", :version "0.1.41"}
+{:created 1787277041703, :description "com.blockether/vis-language-typescript-bun - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-language-typescript-bun", :version "0.1.41"}
+{:created 1787277047976, :description "SQLite backend for the vis persistence facade.", :group_name "com.blockether", :jar_name "vis-persistance-sqlite", :version "0.1.41"}
+{:created 1787277054294, :description "com.blockether/vis-provider-alibaba - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-alibaba", :version "0.1.41"}
+{:created 1787277060419, :description "com.blockether/vis-provider-anthropic - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-anthropic", :version "0.1.41"}
+{:created 1787277066967, :description "GitHub Copilot OAuth device-flow provider.", :group_name "com.blockether", :jar_name "vis-provider-github-copilot", :version "0.1.41"}
+{:created 1787277073134, :description "com.blockether/vis-provider-openai-codex - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openai-codex", :version "0.1.41"}
+{:created 1787277079398, :description "com.blockether/vis-provider-opencode-go - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-opencode-go", :version "0.1.41"}
+{:created 1787277085557, :description "com.blockether/vis-provider-openrouter - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-openrouter", :version "0.1.41"}
+{:created 1787277091712, :description "com.blockether/vis-provider-standard - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-standard", :version "0.1.41"}
+{:created 1787277097888, :description "com.blockether/vis-provider-zai - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-provider-zai", :version "0.1.41"}
+{:created 1787277104044, :description "com.blockether/vis-contract - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-contract", :version "0.1.41"}
+{:created 1787277110728, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.1.41"}
