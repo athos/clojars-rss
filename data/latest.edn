@@ -1,7 +1,3 @@
-{:created 1787028521807, :description "Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and\n                ATOMIC, each translated into one corpus format, discovered through\n                vaelii's plugin seam.", :group_name "com.vaelii", :jar_name "vaelii-foreign", :version "0.9.0"}
-{:created 1787030167410, :description nil, :group_name "com.biffweb", :jar_name "stuff", :version "2.0.0-rc17"}
-{:created 1787030182542, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.0-rc17"}
-{:created 1787030198512, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.0-rc17"}
 {:created 1787030214091, :description nil, :group_name "com.biffweb", :jar_name "fx", :version "2.0.0-rc17"}
 {:created 1787030230077, :description nil, :group_name "com.biffweb", :jar_name "graph", :version "2.0.0-rc17"}
 {:created 1787030245764, :description nil, :group_name "com.biffweb", :jar_name "sqlite", :version "2.0.0-rc17"}
@@ -110,8 +106,6 @@
 {:created 1787134858030, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.93"}
 {:created 1787134910096, :description nil, :group_name "com.monkeyci", :jar_name "mod-oci", :version "0.27.0-SNAPSHOT"}
 {:created 1787136098183, :description "Common GCP Pub/Sub utils for Lupapiste", :group_name "fi.lupapiste", :jar_name "pubsub-client", :version "3.0.0"}
-{:created 1787141459666, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.27.1-SNAPSHOT"}
-{:created 1787141504844, :description nil, :group_name "com.monkeyci", :jar_name "core", :version "0.27.1-SNAPSHOT"}
 {:created 1787147375541, :description "Clojure native interop through JavaCPP", :group_name "org.uncomplicate", :jar_name "clojure-cpp", :version "0.11.0"}
 {:created 1787147542571, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.33.0"}
 {:created 1787147643317, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.66.0"}
@@ -199,7 +193,6 @@
 {:created 1787219127174, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1788"}
 {:created 1787221810014, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.104"}
 {:created 1787223929884, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.125"}
-{:created 1787227025642, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.27.1-SNAPSHOT"}
 {:created 1787228309939, :description nil, :group_name "com.monkeyci", :jar_name "plugin-clj", :version "0.5.2-SNAPSHOT"}
 {:created 1787231271254, :description "Firebase from Clojure. Basically Charmander 2.0", :group_name "alekcz", :jar_name "fire", :version "0.7.0-RC1"}
 {:created 1787235823602, :description nil, :group_name "io.github.buddhilw", :jar_name "vtranslate-fetch", :version "0.1.9"}
@@ -253,4 +246,11 @@
 {:created 1787300195212, :description "Frink-inspired exact unit conversion and dimensional arithmetic for Clojure.", :group_name "com.github.crinklywrappr", :jar_name "commensura", :version "1.0.38"}
 {:created 1787300563177, :description nil, :group_name "com.monkeyci", :jar_name "plugin-junit", :version "0.3.1-SNAPSHOT"}
 {:created 1787303050164, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.9.32"}
-{:created 1787303211979, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.1-SNAPSHOT"}
+{:created 1787303474268, :description "Fast, portable CBOR serialization for Clojure and ClojureScript, in a format other languages can read.", :group_name "org.replikativ", :jar_name "boring", :version "0.1.28"}
+{:created 1787303947897, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.2.278"}
+{:created 1787303963174, :description "Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api.updates", :version "1.2.278"}
+{:created 1787304380085, :description "Firebase from Clojure. Basically Charmander 2.0", :group_name "alekcz", :jar_name "fire", :version "0.7.0-RC3"}
+{:created 1787306364382, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.27.1-SNAPSHOT"}
+{:created 1787306493296, :description nil, :group_name "com.monkeyci", :jar_name "core", :version "0.27.1-SNAPSHOT"}
+{:created 1787306660941, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.27.1-SNAPSHOT"}
+{:created 1787306696229, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.1-SNAPSHOT"}
