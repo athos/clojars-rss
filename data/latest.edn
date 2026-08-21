@@ -1,5 +1,3 @@
-{:created 1787027603682, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.0.15"}
-{:created 1787028458743, :description "Vaelii — a contextualized common-sense knowledge base with a\n                count-aware trie index, forward/backward inference,\n                and JTMS truth maintenance, over an in-memory or on-disk store.", :group_name "com.vaelii", :jar_name "vaelii", :version "0.9.0"}
 {:created 1787028521807, :description "Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and\n                ATOMIC, each translated into one corpus format, discovered through\n                vaelii's plugin seam.", :group_name "com.vaelii", :jar_name "vaelii-foreign", :version "0.9.0"}
 {:created 1787030167410, :description nil, :group_name "com.biffweb", :jar_name "stuff", :version "2.0.0-rc17"}
 {:created 1787030182542, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.0-rc17"}
@@ -114,7 +112,6 @@
 {:created 1787136098183, :description "Common GCP Pub/Sub utils for Lupapiste", :group_name "fi.lupapiste", :jar_name "pubsub-client", :version "3.0.0"}
 {:created 1787141459666, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.27.1-SNAPSHOT"}
 {:created 1787141504844, :description nil, :group_name "com.monkeyci", :jar_name "core", :version "0.27.1-SNAPSHOT"}
-{:created 1787142947236, :description nil, :group_name "com.monkeyci", :jar_name "plugin-junit", :version "0.3.1-SNAPSHOT"}
 {:created 1787147375541, :description "Clojure native interop through JavaCPP", :group_name "org.uncomplicate", :jar_name "clojure-cpp", :version "0.11.0"}
 {:created 1787147542571, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.33.0"}
 {:created 1787147643317, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.66.0"}
@@ -253,4 +250,7 @@
 {:created 1787288728009, :description "GitHub Copilot SDK Supercharged for Clojure", :group_name "net.clojars.jeremiahisaacson", :jar_name "copilot-sdk-supercharged", :version "2.5.0"}
 {:created 1787289275330, :description "Fast serialization library for Clojure", :group_name "com.taoensso", :jar_name "nippy", :version "3.9.0-RC1"}
 {:created 1787289337258, :description "Realtime web comms library for Clojure/Script", :group_name "com.taoensso", :jar_name "sente", :version "1.23.0-RC1"}
-{:created 1787297831880, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.1-SNAPSHOT"}
+{:created 1787300195212, :description "Frink-inspired exact unit conversion and dimensional arithmetic for Clojure.", :group_name "com.github.crinklywrappr", :jar_name "commensura", :version "1.0.38"}
+{:created 1787300563177, :description nil, :group_name "com.monkeyci", :jar_name "plugin-junit", :version "0.3.1-SNAPSHOT"}
+{:created 1787303050164, :description "Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen", :group_name "com.blockether", :jar_name "spel", :version "0.9.32"}
+{:created 1787303211979, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.1-SNAPSHOT"}
