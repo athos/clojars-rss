@@ -1,7 +1,3 @@
-{:created 1787150716445, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260819.144440.5b6a576"}
-{:created 1787150771256, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260819.144600.3b51518"}
-{:created 1787151767838, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.66.1"}
-{:created 1787151886087, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.66.2"}
 {:created 1787151943119, :description "Neanderthal's OpenBLAS engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-openblas", :version "0.66.1"}
 {:created 1787152716102, :description "Neanderthal's MKL engine.", :group_name "org.uncomplicate", :jar_name "neanderthal-mkl", :version "0.66.1"}
 {:created 1787153155408, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.66.1"}
@@ -254,3 +250,7 @@
 {:created 1787413593025, :description "The YS (YAMLScript) v0 standard library for Clojure runtimes.\n  Code compiled with `ys -T bb|clj|jolt|glj` runs on babashka, JVM\n  Clojure, jolt and glojure with this library on the classpath.", :group_name "org.yamlscript", :jar_name "ys.v0", :version "0.2.31"}
 {:created 1787413673349, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.2.31"}
 {:created 1787414126003, :description "A simple genetic algorithms library for Clojure(Script)", :group_name "org.clojars.btezergil", :jar_name "nature", :version "1.1.0"}
+{:created 1787414515971, :description nil, :group_name "io.github.hive-agi", :jar_name "mcp-clojure-sdk", :version "0.2.6"}
+{:created 1787414521254, :description nil, :group_name "io.github.hive-agi", :jar_name "clojure-chroma-client", :version "0.1.3"}
+{:created 1787414534236, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-schemas", :version "0.1.20"}
+{:created 1787417514674, :description "Data-driven action dispatch for the UI: Build systems that are easier to test, observe, and extend.", :group_name "no.cjohansen", :jar_name "nexus", :version "2026.08.1"}
