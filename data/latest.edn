@@ -1,26 +1,3 @@
-{:created 1787120855406, :description nil, :group_name "com.monkeyci", :jar_name "plugin-junit", :version "0.3.0"}
-{:created 1787122828211, :description nil, :group_name "com.monkeyci", :jar_name "plugin-clj", :version "0.5.1"}
-{:created 1787123664386, :description nil, :group_name "com.monkeyci", :jar_name "plugin-github", :version "0.3.0-SNAPSHOT"}
-{:created 1787124090246, :description nil, :group_name "com.monkeyci", :jar_name "plugin-kaniko", :version "0.2.2"}
-{:created 1787125149263, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.91"}
-{:created 1787128044147, :description nil, :group_name "com.monkeyprojects", :jar_name "pushover-clj", :version "0.2.0"}
-{:created 1787128742782, :description "Prebuilt imaging-c cdylib (FFM) for linux-x64.", :group_name "com.blockether", :jar_name "imaging-native-linux-x64", :version "0.1.10"}
-{:created 1787128776547, :description "Prebuilt imaging-c cdylib (FFM) for linux-arm64.", :group_name "com.blockether", :jar_name "imaging-native-linux-arm64", :version "0.1.10"}
-{:created 1787129116442, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.124"}
-{:created 1787129130799, :description "Prebuilt imaging-c cdylib (FFM) for windows-x64.", :group_name "com.blockether", :jar_name "imaging-native-windows-x64", :version "0.1.10"}
-{:created 1787129153214, :description nil, :group_name "com.monkeyci", :jar_name "plugin-pushover", :version "0.2.0"}
-{:created 1787129232702, :description "Prebuilt imaging-c cdylib (FFM) for darwin-x64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-x64", :version "0.1.10"}
-{:created 1787129614174, :description "Prebuilt imaging-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-arm64", :version "0.1.10"}
-{:created 1787129672301, :description "Imaging for Clojure without java.desktop — decode/encode, transforms, drawing, text, SVG and plotting over a Rust cdylib via FFM.", :group_name "com.blockether", :jar_name "imaging", :version "0.1.10"}
-{:created 1787130122271, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.92"}
-{:created 1787130345720, :description nil, :group_name "net.clojars.zhaoyul", :jar_name "license-core", :version "1.0.1"}
-{:created 1787134676433, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.27.0-SNAPSHOT"}
-{:created 1787134858030, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.93"}
-{:created 1787136098183, :description "Common GCP Pub/Sub utils for Lupapiste", :group_name "fi.lupapiste", :jar_name "pubsub-client", :version "3.0.0"}
-{:created 1787147375541, :description "Clojure native interop through JavaCPP", :group_name "org.uncomplicate", :jar_name "clojure-cpp", :version "0.11.0"}
-{:created 1787147542571, :description "ClojureCUDA is a Clojure library for parallel computations with Nvidia's CUDA.", :group_name "uncomplicate", :jar_name "clojurecuda", :version "0.33.0"}
-{:created 1787147643317, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.66.0"}
-{:created 1787147711798, :description "Reusable test functions for Neanderthal.", :group_name "org.uncomplicate", :jar_name "neanderthal-test", :version "0.66.0"}
 {:created 1787150716445, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260819.144440.5b6a576"}
 {:created 1787150771256, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260819.144600.3b51518"}
 {:created 1787151767838, :description "Neanderthal is a Clojure library for fast matrix and linear algebra computations.", :group_name "org.uncomplicate", :jar_name "neanderthal-base", :version "0.66.1"}
@@ -254,3 +231,26 @@
 {:created 1787400129709, :description "Clojure SDK for Rocksky — native bindings to the shared Rust core: AppView reads, AT Protocol PDS writes, and identity hashes.", :group_name "app.rocksky", :jar_name "sdk", :version "0.9.0-SNAPSHOT"}
 {:created 1787403487904, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.133"}
 {:created 1787407299352, :description "A library for working with JRuby", :group_name "org.openvoxproject", :jar_name "jruby-utils", :version "7.0.3"}
+{:created 1787412344066, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-schemas", :version "0.1.19"}
+{:created 1787412417519, :description nil, :group_name "io.github.hive-agi", :jar_name "basic-tools-mcp", :version "0.3.9"}
+{:created 1787412424178, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-depsolve", :version "0.4.19"}
+{:created 1787412436034, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-mcp", :version "1.2.13"}
+{:created 1787412452759, :description nil, :group_name "io.github.hive-agi", :jar_name "clj-kondo-mcp", :version "0.2.4"}
+{:created 1787412480143, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-claude", :version "0.1.12"}
+{:created 1787412491837, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.2.5"}
+{:created 1787412500391, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-connectors", :version "0.1.3"}
+{:created 1787412542490, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-emacs-hagent", :version "0.2.6"}
+{:created 1787412566208, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-events", :version "0.5.8"}
+{:created 1787412575836, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-hot", :version "0.1.7"}
+{:created 1787412594677, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-milvus", :version "0.4.11"}
+{:created 1787412600729, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-opencode", :version "0.2.3"}
+{:created 1787412615274, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-overarch", :version "0.1.5"}
+{:created 1787412628290, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-proximum", :version "0.1.14"}
+{:created 1787412635257, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-qdrant", :version "0.1.10"}
+{:created 1787412651599, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-recife", :version "0.1.7"}
+{:created 1787412724210, :description nil, :group_name "io.github.hive-agi", :jar_name "scc-mcp", :version "0.1.6"}
+{:created 1787412978091, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
+{:created 1787413005829, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-license", :version "0.2.5"}
+{:created 1787413593025, :description "The YS (YAMLScript) v0 standard library for Clojure runtimes.\n  Code compiled with `ys -T bb|clj|jolt|glj` runs on babashka, JVM\n  Clojure, jolt and glojure with this library on the classpath.", :group_name "org.yamlscript", :jar_name "ys.v0", :version "0.2.31"}
+{:created 1787413673349, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.2.31"}
+{:created 1787414126003, :description "A simple genetic algorithms library for Clojure(Script)", :group_name "org.clojars.btezergil", :jar_name "nature", :version "1.1.0"}
