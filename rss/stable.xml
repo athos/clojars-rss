@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 23 Aug 2026 08:04:05 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 09:05:12 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.7</guid>
+    <title>[org.replikativ/pretrained-rstr &quot;0.1.7&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.7</link>
+    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
+    <pubDate>Sun, 23 Aug 2026 08:51:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.99</guid>
+    <title>[org.replikativ/konserve-jdbc &quot;0.2.99&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.99</link>
+    <description>A generic JDBC backend for konserve.</description>
+    <pubDate>Sun, 23 Aug 2026 08:32:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.378</guid>
+    <title>[org.replikativ/konserve &quot;0.9.378&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.378</link>
+    <description>Durable cross-platform key-value store protocol with core.async.</description>
+    <pubDate>Sun, 23 Aug 2026 08:13:09 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.98</guid>
     <title>[org.replikativ/konserve-jdbc &quot;0.2.98&quot;]</title>
@@ -1793,27 +1814,6 @@
     <link>https://clojars.org/org.uncomplicate/neanderthal-opencl/versions/0.66.1</link>
     <description>Neanderthal OpenCL backend.</description>
     <pubDate>Wed, 19 Aug 2026 15:25:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/neanderthal-mkl/versions/0.66.1</guid>
-    <title>[org.uncomplicate/neanderthal-mkl &quot;0.66.1&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/neanderthal-mkl/versions/0.66.1</link>
-    <description>Neanderthal&#39;s MKL engine.</description>
-    <pubDate>Wed, 19 Aug 2026 15:18:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/neanderthal-openblas/versions/0.66.1</guid>
-    <title>[org.uncomplicate/neanderthal-openblas &quot;0.66.1&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/neanderthal-openblas/versions/0.66.1</link>
-    <description>Neanderthal&#39;s OpenBLAS engine.</description>
-    <pubDate>Wed, 19 Aug 2026 15:05:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/neanderthal-test/versions/0.66.2</guid>
-    <title>[org.uncomplicate/neanderthal-test &quot;0.66.2&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/neanderthal-test/versions/0.66.2</link>
-    <description>Reusable test functions for Neanderthal.</description>
-    <pubDate>Wed, 19 Aug 2026 15:04:46 +0000</pubDate>
   </item>
   </channel>
 </rss>
