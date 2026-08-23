@@ -4,7 +4,35 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 23 Aug 2026 10:03:11 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 11:03:23 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.327</guid>
+    <title>[org.replikativ/raster &quot;0.2.327&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.327</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Sun, 23 Aug 2026 10:57:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.128</guid>
+    <title>[org.replikativ/pg-datahike &quot;0.1.128&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.128</link>
+    <description></description>
+    <pubDate>Sun, 23 Aug 2026 10:50:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.9</guid>
+    <title>[org.replikativ/pretrained-rstr &quot;0.1.9&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.9</link>
+    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
+    <pubDate>Sun, 23 Aug 2026 10:42:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/svar/versions/0.7.134</guid>
+    <title>[com.blockether/svar &quot;0.7.134&quot;]</title>
+    <link>https://clojars.org/com.blockether/svar/versions/0.7.134</link>
+    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
+    <pubDate>Sun, 23 Aug 2026 10:29:50 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.8</guid>
     <title>[org.replikativ/pretrained-rstr &quot;0.1.8&quot;]</title>
@@ -1786,34 +1814,6 @@
     <link>https://clojars.org/uncomplicate/neanderthal/versions/0.66.1</link>
     <description>Convenience project to pull Ahead-Of-Time compiled neanderthal dependencies compatible with the classic Neanderthal uberproject.</description>
     <pubDate>Wed, 19 Aug 2026 15:48:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/neanderthal-accelerate/versions/0.66.1</guid>
-    <title>[org.uncomplicate/neanderthal-accelerate &quot;0.66.1&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/neanderthal-accelerate/versions/0.66.1</link>
-    <description>Neanderthal&#39;s Apple Accelerate engine.</description>
-    <pubDate>Wed, 19 Aug 2026 15:47:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/accelerate-platform/versions/0.3.0-1.5.14</guid>
-    <title>[org.uncomplicate/accelerate-platform &quot;0.3.0-1.5.14&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/accelerate-platform/versions/0.3.0-1.5.14</link>
-    <description></description>
-    <pubDate>Wed, 19 Aug 2026 15:46:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.26.0</guid>
-    <title>[net.clojars.savya/anthropic-clj &quot;0.26.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.26.0</link>
-    <description>Idiomatic Clojure wrapper over the official Anthropic Java SDK</description>
-    <pubDate>Wed, 19 Aug 2026 15:36:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.uncomplicate/neanderthal-cuda/versions/0.66.1</guid>
-    <title>[org.uncomplicate/neanderthal-cuda &quot;0.66.1&quot;]</title>
-    <link>https://clojars.org/org.uncomplicate/neanderthal-cuda/versions/0.66.1</link>
-    <description>Neanderthal&#39;s CUDA backend.</description>
-    <pubDate>Wed, 19 Aug 2026 15:28:02 +0000</pubDate>
   </item>
   </channel>
 </rss>
