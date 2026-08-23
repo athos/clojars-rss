@@ -1,5 +1,3 @@
-{:created 1787153155408, :description "Neanderthal OpenCL backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-opencl", :version "0.66.1"}
-{:created 1787153235441, :description nil, :group_name "org.uncomplicate", :jar_name "accelerate", :version "0.3.0-1.5.14"}
 {:created 1787153282160, :description "Neanderthal's CUDA backend.", :group_name "org.uncomplicate", :jar_name "neanderthal-cuda", :version "0.66.1"}
 {:created 1787153809352, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.26.0"}
 {:created 1787154412622, :description nil, :group_name "org.uncomplicate", :jar_name "accelerate-platform", :version "0.3.0-1.5.14"}
@@ -254,3 +252,5 @@
 {:created 1787472789760, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.378"}
 {:created 1787473939769, :description "A generic JDBC backend for konserve.", :group_name "org.replikativ", :jar_name "konserve-jdbc", :version "0.2.99"}
 {:created 1787475114756, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.7"}
+{:created 1787476498945, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.325"}
+{:created 1787477037346, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.8"}
