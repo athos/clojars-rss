@@ -1,21 +1,3 @@
-{:created 1787169344174, :description nil, :group_name "io.github.hive-agi", :jar_name "lsp-mcp", :version "0.6.3"}
-{:created 1787169611998, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-datalevin", :version "0.1.6"}
-{:created 1787170493397, :description "Fast Clojure Machine Learning Model Integration", :group_name "org.uncomplicate", :jar_name "diamond-onnxrt", :version "0.30.0"}
-{:created 1787171103223, :description "", :group_name "org.uncomplicate", :jar_name "illamanati-base", :version "0.10.0"}
-{:created 1787171524856, :description "", :group_name "org.uncomplicate", :jar_name "illamanati-cuda", :version "0.10.0"}
-{:created 1787171847252, :description "", :group_name "org.uncomplicate", :jar_name "illamanati-onnxrt", :version "0.10.0"}
-{:created 1787176925568, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260819.220131.3268617"}
-{:created 1787177003600, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260819.220257.3c59c64"}
-{:created 1787185695792, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.97"}
-{:created 1787189799960, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-build", :version "0.1.3"}
-{:created 1787189881001, :description "The YS (YAMLScript) v0 standard library for Clojure runtimes.\n  Code compiled with `ys -T bb|clj|jolt|glj` runs on babashka, JVM\n  Clojure, jolt and glojure with this library on the classpath.", :group_name "org.yamlscript", :jar_name "ys.v0", :version "0.2.30"}
-{:created 1787189905133, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-license", :version "0.2.2"}
-{:created 1787189979206, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.2.30"}
-{:created 1787191441807, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.29.0"}
-{:created 1787191539257, :description "Pavlov: Bthreads for Clojure(Script)", :group_name "tech.thomascothran", :jar_name "pavlov", :version "4.0.270"}
-{:created 1787191549127, :description "Pavlov Devtools", :group_name "tech.thomascothran", :jar_name "pavlov-devtools", :version "4.0.270"}
-{:created 1787191558274, :description "Pavlov Skills", :group_name "tech.thomascothran", :jar_name "pavlov-skills", :version "4.0.270"}
-{:created 1787191566757, :description "Pavlov Web", :group_name "tech.thomascothran", :jar_name "pavlov-web", :version "4.0.270"}
 {:created 1787194896553, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-build", :version "0.1.8"}
 {:created 1787195235252, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.99"}
 {:created 1787197820140, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1785"}
@@ -254,3 +236,21 @@
 {:created 1787520651074, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.331"}
 {:created 1787521339282, :description "A simple Ajax library for ClojureScript", :group_name "cljs-ajax", :jar_name "cljs-ajax", :version "0.9.0-beta2"}
 {:created 1787521511930, :description "gRPC for Clojure on non-shaded Netty, over clj-protobuf: dynamic services from generated code, Unix domain sockets, epoll, and Knative presets.", :group_name "com.github.bpalermo", :jar_name "clj-grpc", :version "0.1.2"}
+{:created 1787522947779, :description nil, :group_name "io.github.hive-agi", :jar_name "basic-tools-mcp", :version "0.3.10"}
+{:created 1787522977177, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-system", :version "0.3.7"}
+{:created 1787523477167, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.332"}
+{:created 1787523527742, :description "gRPC for Clojure on non-shaded Netty, over clj-protobuf: dynamic services from generated code, Unix domain sockets, epoll, and Knative presets.", :group_name "com.github.bpalermo", :jar_name "clj-grpc", :version "0.1.3"}
+{:created 1787524294758, :description nil, :group_name "com.biffweb", :jar_name "stuff", :version "2.0.0-rc20"}
+{:created 1787524310060, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.0-rc20"}
+{:created 1787524325524, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.0-rc20"}
+{:created 1787524341217, :description nil, :group_name "com.biffweb", :jar_name "fx", :version "2.0.0-rc20"}
+{:created 1787524357423, :description nil, :group_name "com.biffweb", :jar_name "graph", :version "2.0.0-rc20"}
+{:created 1787524374037, :description nil, :group_name "com.biffweb", :jar_name "sqlite", :version "2.0.0-rc20"}
+{:created 1787524391925, :description nil, :group_name "com.biffweb", :jar_name "xtdb", :version "2.0.0-rc20"}
+{:created 1787524408549, :description nil, :group_name "com.biffweb", :jar_name "ring", :version "2.0.0-rc20"}
+{:created 1787524425484, :description nil, :group_name "com.biffweb", :jar_name "datastar", :version "2.0.0-rc20"}
+{:created 1787524441346, :description nil, :group_name "com.biffweb", :jar_name "run", :version "2.0.0-rc20"}
+{:created 1787524457019, :description nil, :group_name "com.biffweb", :jar_name "tasks", :version "2.0.0-rc20"}
+{:created 1787524473473, :description nil, :group_name "com.biffweb", :jar_name "background", :version "2.0.0-rc20"}
+{:created 1787524493004, :description nil, :group_name "com.biffweb", :jar_name "authenticate", :version "2.0.0-rc20"}
+{:created 1787525906615, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1793"}
