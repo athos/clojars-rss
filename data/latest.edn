@@ -1,8 +1,3 @@
-{:created 1787309372816, :description "Shared utilities for tech.ml.dataset + Smile SVM/SVR workflows. Requires Java 25+ (smile-core 6.3.0).", :group_name "net.clojars.alex314159", :jar_name "svm-techml-smile", :version "0.1.0-SNAPSHOT"}
-{:created 1787312412240, :description "Functional reactive programing for legacy applications. Supports Java Swing, uses Clojure as the main language, and considers the view as a function of state.", :group_name "com.insilicalabs", :jar_name "retroact", :version "0.5.4"}
-{:created 1787312766104, :description nil, :group_name "com.monkeyprojects", :jar_name "clompress", :version "0.2.1-SNAPSHOT"}
-{:created 1787313371769, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.27.1"}
-{:created 1787313503010, :description nil, :group_name "com.monkeyci", :jar_name "core", :version "0.27.1"}
 {:created 1787313701365, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.27.1"}
 {:created 1787313707008, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.1"}
 {:created 1787313780571, :description nil, :group_name "com.monkeyprojects", :jar_name "pushover-clj", :version "0.2.1-SNAPSHOT"}
@@ -254,3 +249,8 @@
 {:created 1787593438545, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.12"}
 {:created 1787593531621, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.345"}
 {:created 1787593672176, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1803"}
+{:created 1787594989015, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "2.5.5"}
+{:created 1787597032894, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.12.6"}
+{:created 1787597197415, :description "This project provides a native (or transpiled) version of PROJ for both the JVM and JS ecosystems.", :group_name "net.willcohen", :jar_name "proj", :version "0.1.0-alpha9"}
+{:created 1787597546352, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.12.6"}
+{:created 1787597591840, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.12.6"}
