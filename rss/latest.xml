@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 24 Aug 2026 17:09:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 18:05:38 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1803</guid>
+    <title>[org.replikativ/datahike &quot;0.8.1803&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1803</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Mon, 24 Aug 2026 17:47:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.345</guid>
+    <title>[org.replikativ/raster &quot;0.2.345&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.345</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Mon, 24 Aug 2026 17:45:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.12</guid>
+    <title>[org.replikativ/pretrained-rstr &quot;0.1.12&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.12</link>
+    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
+    <pubDate>Mon, 24 Aug 2026 17:43:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/beat-carabiner/versions/8.1.0-SNAPSHOT</guid>
+    <title>[beat-carabiner &quot;8.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/beat-carabiner/versions/8.1.0-SNAPSHOT</link>
+    <description>A minimal tempo bridge between Beat Link and Ableton Link.</description>
+    <pubDate>Mon, 24 Aug 2026 17:43:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.timezynk/domus/versions/2.7.6</guid>
+    <title>[com.timezynk/domus &quot;2.7.6&quot;]</title>
+    <link>https://clojars.org/com.timezynk/domus/versions/2.7.6</link>
+    <description>MongoDB utilities</description>
+    <pubDate>Mon, 24 Aug 2026 17:14:45 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.timezynk/domus/versions/2.7.5</guid>
     <title>[com.timezynk/domus &quot;2.7.5&quot;]</title>
@@ -301,13 +336,6 @@
     <link>https://clojars.org/org.replikativ/raster/versions/0.2.341</link>
     <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
     <pubDate>Mon, 24 Aug 2026 04:54:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/beat-carabiner/versions/8.1.0-SNAPSHOT</guid>
-    <title>[beat-carabiner &quot;8.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/beat-carabiner/versions/8.1.0-SNAPSHOT</link>
-    <description>A minimal tempo bridge between Beat Link and Ableton Link.</description>
-    <pubDate>Mon, 24 Aug 2026 04:53:08 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1799</guid>
@@ -1797,34 +1825,6 @@
     <link>https://clojars.org/net.clojars.alex314159/svm-techml-smile/versions/0.1.0-SNAPSHOT</link>
     <description>Shared utilities for tech.ml.dataset + Smile SVM/SVR workflows. Requires Java 25+ (smile-core 6.3.0).</description>
     <pubDate>Fri, 21 Aug 2026 10:49:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.timezynk/domus/versions/2.7.1</guid>
-    <title>[com.timezynk/domus &quot;2.7.1&quot;]</title>
-    <link>https://clojars.org/com.timezynk/domus/versions/2.7.1</link>
-    <description>MongoDB utilities</description>
-    <pubDate>Fri, 21 Aug 2026 10:35:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyci/test/versions/0.27.1-SNAPSHOT</guid>
-    <title>[com.monkeyci/test &quot;0.27.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.monkeyci/test/versions/0.27.1-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Fri, 21 Aug 2026 10:08:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyci/mod-oci/versions/0.27.0-SNAPSHOT</guid>
-    <title>[com.monkeyci/mod-oci &quot;0.27.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.monkeyci/mod-oci/versions/0.27.0-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Fri, 21 Aug 2026 10:07:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyci/script/versions/0.27.1-SNAPSHOT</guid>
-    <title>[com.monkeyci/script &quot;0.27.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.monkeyci/script/versions/0.27.1-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Fri, 21 Aug 2026 10:04:56 +0000</pubDate>
   </item>
   </channel>
 </rss>
