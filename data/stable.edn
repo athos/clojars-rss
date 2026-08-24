@@ -1,8 +1,3 @@
-{:created 1787231271254, :description "Firebase from Clojure. Basically Charmander 2.0", :group_name "alekcz", :jar_name "fire", :version "0.7.0-RC1"}
-{:created 1787235823602, :description nil, :group_name "io.github.buddhilw", :jar_name "vtranslate-fetch", :version "0.1.9"}
-{:created 1787235981027, :description "Parinfer for Clojure source, in pure Java — a linear-time rewrite of parinferish.", :group_name "com.blockether", :jar_name "parinferish", :version "0.1.1"}
-{:created 1787237592070, :description nil, :group_name "io.github.buddhilw", :jar_name "vtranslate-engine", :version "0.1.2"}
-{:created 1787241165255, :description "A 2D game engine based on LWJGL (Light Weight Java Game Library)", :group_name "com.kimbsy", :jar_name "clunk", :version "2.0.2"}
 {:created 1787241283524, :description "A Leiningen template for the clunk game engine", :group_name "com.kimbsy", :jar_name "lein-template.clunk", :version "2.0.2"}
 {:created 1787242214445, :description nil, :group_name "com.cnuernber", :jar_name "charred", :version "1.042"}
 {:created 1787242324432, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260820.161126.24fc272"}
@@ -254,3 +249,8 @@
 {:created 1787545907491, :description "SQLite targets for vaelii's storage seams. The first is the\n                snapshot sink (vaelii.sqlite.snapshot): a SnapshotSink /\n                SnapshotSource over a single SQLite file, so a KB image — the index\n                projection today, any of io.snapshot's named sections — lands in a\n                zero-configuration file as a few bulk transactions and reads back\n                the same way. An Apache-2.0 adapter on the SSPL engine, depending on\n                core, never depended on by it.", :group_name "com.vaelii", :jar_name "sqlite", :version "0.12.0"}
 {:created 1787547055310, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1799"}
 {:created 1787547259676, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.341"}
+{:created 1787548957541, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1801"}
+{:created 1787549982721, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.342"}
+{:created 1787550002946, :description "Represent and manipulate various Internet entities as data.", :group_name "net.clojars.savya", :jar_name "inet.data", :version "2.1.0"}
+{:created 1787550224087, :description "Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).", :group_name "net.clojars.savya", :jar_name "dogstatsd", :version "0.5.0"}
+{:created 1787551388029, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.130"}
