@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 25 Aug 2026 02:23:03 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 03:16:52 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.rthadani/bff/versions/0.11.1</guid>
+    <title>[io.github.rthadani/bff &quot;0.11.1&quot;]</title>
+    <link>https://clojars.org/io.github.rthadani/bff/versions/0.11.1</link>
+    <description>Spec-driven GraphQL API fronting real REST backends</description>
+    <pubDate>Tue, 25 Aug 2026 03:10:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.41</guid>
+    <title>[org.replikativ/yggdrasil &quot;0.3.41&quot;]</title>
+    <link>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.41</link>
+    <description>Unified copy-on-write memory model protocols for heterogeneous storage systems</description>
+    <pubDate>Tue, 25 Aug 2026 03:06:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.40</guid>
+    <title>[org.replikativ/konserve-sync &quot;0.1.40&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-sync/versions/0.1.40</link>
+    <description>A synchronization layer for konserve key-value stores</description>
+    <pubDate>Tue, 25 Aug 2026 03:05:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.356</guid>
+    <title>[org.replikativ/raster &quot;0.2.356&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.356</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Tue, 25 Aug 2026 02:25:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.15</guid>
+    <title>[org.replikativ/pretrained-rstr &quot;0.1.15&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.15</link>
+    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
+    <pubDate>Tue, 25 Aug 2026 02:23:43 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.rthadani/bff/versions/0.11.0</guid>
     <title>[io.github.rthadani/bff &quot;0.11.0&quot;]</title>
@@ -1790,41 +1825,6 @@
     <link>https://clojars.org/io.github.hive-agi/bb-depsolve/versions/0.4.17</link>
     <description></description>
     <pubDate>Fri, 21 Aug 2026 19:06:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-test/versions/0.3.13</guid>
-    <title>[io.github.hive-agi/hive-test &quot;0.3.13&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-test/versions/0.3.13</link>
-    <description></description>
-    <pubDate>Fri, 21 Aug 2026 19:03:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-milvus/versions/0.4.9</guid>
-    <title>[io.github.hive-agi/hive-milvus &quot;0.4.9&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-milvus/versions/0.4.9</link>
-    <description></description>
-    <pubDate>Fri, 21 Aug 2026 19:03:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-system/versions/0.3.5</guid>
-    <title>[io.github.hive-agi/hive-system &quot;0.3.5&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-system/versions/0.3.5</link>
-    <description></description>
-    <pubDate>Fri, 21 Aug 2026 19:01:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-qdrant/versions/0.1.8</guid>
-    <title>[io.github.hive-agi/hive-qdrant &quot;0.1.8&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-qdrant/versions/0.1.8</link>
-    <description></description>
-    <pubDate>Fri, 21 Aug 2026 19:00:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-proximum/versions/0.1.12</guid>
-    <title>[io.github.hive-agi/hive-proximum &quot;0.1.12&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-proximum/versions/0.1.12</link>
-    <description></description>
-    <pubDate>Fri, 21 Aug 2026 19:00:06 +0000</pubDate>
   </item>
   </channel>
 </rss>
