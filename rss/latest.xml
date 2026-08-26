@@ -4,7 +4,68 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 26 Aug 2026 01:28:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 02:27:32 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.366</guid>
+    <title>[org.replikativ/raster &quot;0.2.366&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.366</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Wed, 26 Aug 2026 02:12:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.vaelii/sqlite/versions/0.13.0</guid>
+    <title>[com.vaelii/sqlite &quot;0.13.0&quot;]</title>
+    <link>https://clojars.org/com.vaelii/sqlite/versions/0.13.0</link>
+    <description>SQLite targets for vaelii&#39;s storage seams. The first is the
+                snapshot sink (vaelii.sqlite.snapshot): a SnapshotSink /
+                SnapshotSource over a single SQLite file, so a KB image — the index
+                projection today, any of io.snapshot&#39;s named sections — lands in a
+                zero-configuration file as a few bulk transactions and reads back
+                the same way. An Apache-2.0 adapter on the SSPL engine, depending on
+                core, never depended on by it.</description>
+    <pubDate>Wed, 26 Aug 2026 02:04:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.vaelii/postgres/versions/0.13.0</guid>
+    <title>[com.vaelii/postgres &quot;0.13.0&quot;]</title>
+    <link>https://clojars.org/com.vaelii/postgres/versions/0.13.0</link>
+    <description>Postgres targets for vaelii&#39;s storage seams, in two independent
+                lanes. The record store (vaelii.postgres.record-store) puts a KB&#39;s
+                durable ground truth in a database — core selects it as :pg-memory
+                or :pg-disk-log — with COPY on the bulk path, a fetch LRU in front of a
+                round-trip point read, and cursor-streamed enumerations. The
+                snapshot sink (vaelii.postgres.snapshot) is a SnapshotSink /
+                SnapshotSource, so a KB image — the index projection today, any of
+                io.snapshot&#39;s named sections — lands in a database as a few bulk
+                transactions and reads back the same way. An Apache-2.0 adapter on
+                the SSPL engine, depending on core, never depended on by it.</description>
+    <pubDate>Wed, 26 Aug 2026 02:03:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.vaelii/vaelii-foreign/versions/0.13.0</guid>
+    <title>[com.vaelii/vaelii-foreign &quot;0.13.0&quot;]</title>
+    <link>https://clojars.org/com.vaelii/vaelii-foreign/versions/0.13.0</link>
+    <description>Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and
+                ATOMIC, each translated into one corpus format, discovered through
+                vaelii&#39;s plugin seam.</description>
+    <pubDate>Wed, 26 Aug 2026 02:01:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.vaelii/vaelii/versions/0.13.0</guid>
+    <title>[com.vaelii/vaelii &quot;0.13.0&quot;]</title>
+    <link>https://clojars.org/com.vaelii/vaelii/versions/0.13.0</link>
+    <description>Vaelii — a contextualized common-sense knowledge base with a
+                count-aware trie index, forward/backward inference,
+                and JTMS truth maintenance, over an in-memory or on-disk store.</description>
+    <pubDate>Wed, 26 Aug 2026 02:00:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.corium/corium-clojure/versions/0.1.85</guid>
+    <title>[dev.corium/corium-clojure &quot;0.1.85&quot;]</title>
+    <link>https://clojars.org/dev.corium/corium-clojure/versions/0.1.85</link>
+    <description>Synchronous and core.async JVM Clojure APIs for Corium</description>
+    <pubDate>Wed, 26 Aug 2026 01:40:05 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.vinarytree/libdictenstein-clojure/versions/4.0.0-rc.4</guid>
     <title>[io.vinarytree/libdictenstein-clojure &quot;4.0.0-rc.4&quot;]</title>
@@ -1782,50 +1843,6 @@
     <link>https://clojars.org/app.rocksky/sdk/versions/0.9.0-SNAPSHOT</link>
     <description>Clojure SDK for Rocksky — native bindings to the shared Rust core: AppView reads, AT Protocol PDS writes, and identity hashes.</description>
     <pubDate>Sat, 22 Aug 2026 12:02:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.7.132</guid>
-    <title>[com.blockether/svar &quot;0.7.132&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.7.132</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Sat, 22 Aug 2026 10:33:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.7.131</guid>
-    <title>[com.blockether/svar &quot;0.7.131&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.7.131</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Sat, 22 Aug 2026 09:35:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.7.130</guid>
-    <title>[com.blockether/svar &quot;0.7.130&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.7.130</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Sat, 22 Aug 2026 08:53:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.jeremiahisaacson/copilot-sdk-supercharged/versions/2.5.3</guid>
-    <title>[net.clojars.jeremiahisaacson/copilot-sdk-supercharged &quot;2.5.3&quot;]</title>
-    <link>https://clojars.org/net.clojars.jeremiahisaacson/copilot-sdk-supercharged/versions/2.5.3</link>
-    <description>GitHub Copilot SDK Supercharged for Clojure</description>
-    <pubDate>Sat, 22 Aug 2026 08:25:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cljfx/versions/1.10.361</guid>
-    <title>[cljfx &quot;1.10.361&quot;]</title>
-    <link>https://clojars.org/cljfx/versions/1.10.361</link>
-    <description></description>
-    <pubDate>Sat, 22 Aug 2026 07:48:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.vaelii/vaelii-foreign/versions/0.11.0</guid>
-    <title>[com.vaelii/vaelii-foreign &quot;0.11.0&quot;]</title>
-    <link>https://clojars.org/com.vaelii/vaelii-foreign/versions/0.11.0</link>
-    <description>Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and
-                ATOMIC, each translated into one corpus format, discovered through
-                vaelii&#39;s plugin seam.</description>
-    <pubDate>Sat, 22 Aug 2026 05:54:40 +0000</pubDate>
   </item>
   </channel>
 </rss>
