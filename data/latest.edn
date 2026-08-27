@@ -1,26 +1,3 @@
-{:created 1787532598110, :description "LangChain4j EmbeddingStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-langchain4j", :version "0.1.36"}
-{:created 1787532601880, :description "Spring AI VectorStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-spring-ai", :version "0.1.36"}
-{:created 1787532821237, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.336"}
-{:created 1787532884440, :description "Copy-on-write branching for Apache Lucene with Git-like semantics", :group_name "org.replikativ", :jar_name "scriptum", :version "0.1.30"}
-{:created 1787534155051, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1794"}
-{:created 1787536405365, :description "A generic JDBC backend for konserve.", :group_name "org.replikativ", :jar_name "konserve-jdbc", :version "0.2.100"}
-{:created 1787537153290, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1796"}
-{:created 1787537694908, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.338"}
-{:created 1787538284592, :description "Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).", :group_name "net.clojars.savya", :jar_name "dogstatsd", :version "0.4.0"}
-{:created 1787540256758, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.339"}
-{:created 1787544507021, :description nil, :group_name "org.akvo.flow", :jar_name "akvo-flow", :version "20260824-040751.8f2f462b"}
-{:created 1787545307876, :description "Vaelii — a contextualized common-sense knowledge base with a\n                count-aware trie index, forward/backward inference,\n                and JTMS truth maintenance, over an in-memory or on-disk store.", :group_name "com.vaelii", :jar_name "vaelii", :version "0.12.0"}
-{:created 1787545318641, :description "Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and\n                ATOMIC, each translated into one corpus format, discovered through\n                vaelii's plugin seam.", :group_name "com.vaelii", :jar_name "vaelii-foreign", :version "0.12.0"}
-{:created 1787545895768, :description "Postgres targets for vaelii's storage seams, in two independent\n                lanes. The record store (vaelii.postgres.record-store) puts a KB's\n                durable ground truth in a database — core selects it as :pg-memory\n                or :pg-disk — with COPY on the bulk path, a fetch LRU in front of a\n                round-trip point read, and cursor-streamed enumerations. The\n                snapshot sink (vaelii.postgres.snapshot) is a SnapshotSink /\n                SnapshotSource, so a KB image — the index projection today, any of\n                io.snapshot's named sections — lands in a database as a few bulk\n                transactions and reads back the same way. An Apache-2.0 adapter on\n                the SSPL engine, depending on core, never depended on by it.", :group_name "com.vaelii", :jar_name "postgres", :version "0.12.0"}
-{:created 1787545907491, :description "SQLite targets for vaelii's storage seams. The first is the\n                snapshot sink (vaelii.sqlite.snapshot): a SnapshotSink /\n                SnapshotSource over a single SQLite file, so a KB image — the index\n                projection today, any of io.snapshot's named sections — lands in a\n                zero-configuration file as a few bulk transactions and reads back\n                the same way. An Apache-2.0 adapter on the SSPL engine, depending on\n                core, never depended on by it.", :group_name "com.vaelii", :jar_name "sqlite", :version "0.12.0"}
-{:created 1787547055310, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1799"}
-{:created 1787547259676, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.341"}
-{:created 1787548957541, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1801"}
-{:created 1787549982721, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.342"}
-{:created 1787550002946, :description "Represent and manipulate various Internet entities as data.", :group_name "net.clojars.savya", :jar_name "inet.data", :version "2.1.0"}
-{:created 1787550224087, :description "Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).", :group_name "net.clojars.savya", :jar_name "dogstatsd", :version "0.5.0"}
-{:created 1787551388029, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.130"}
-{:created 1787555799572, :description "A safe, data-oriented Clojure connector for Binance Spot REST and WebSocket APIs.", :group_name "io.github.ugurbay", :jar_name "binance-clj", :version "1.0.3"}
 {:created 1787556127700, :description "Classpath utilities", :group_name "com.lambdaisland", :jar_name "classpath", :version "0.9.74"}
 {:created 1787556598126, :description "Clojure dev process launcher", :group_name "com.lambdaisland", :jar_name "launchpad", :version "0.55.248-alpha"}
 {:created 1787557956508, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.136"}
@@ -242,7 +219,6 @@
 {:created 1787847013827, :description "DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.", :group_name "net.clojars.savya", :jar_name "duckdb-clj", :version "0.6.0"}
 {:created 1787847220138, :description "Pure functional generators for Jepsen tests", :group_name "io.jepsen", :jar_name "generator", :version "0.1.4-SNAPSHOT"}
 {:created 1787847240711, :description "Black-box transactional consistency checker based on cycle detection", :group_name "elle", :jar_name "elle", :version "0.2.8-SNAPSHOT"}
-{:created 1787847243160, :description "Distributed systems testing framework.", :group_name "jepsen", :jar_name "jepsen", :version "0.3.14-SNAPSHOT"}
 {:created 1787847355824, :description "A library for writing Jepsen tests of SQL databases", :group_name "io.jepsen", :jar_name "sql", :version "0.1.1-SNAPSHOT"}
 {:created 1787848530350, :description "A library for delightful database interaction.", :group_name "io.github.camsaul", :jar_name "toucan2", :version "1.0.575"}
 {:created 1787848540082, :description "Toucan 1 reimplemented in terms of Toucan 2. Compatibility layer for existing projects using Toucan 1.", :group_name "io.github.camsaul", :jar_name "toucan2-toucan1", :version "1.0.575"}
@@ -254,3 +230,27 @@
 {:created 1787857279967, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.2.6"}
 {:created 1787857494659, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-mcp", :version "0.21.0"}
 {:created 1787858711720, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1815"}
+{:created 1787859337840, :description nil, :group_name "io.github.hive-agi", :jar_name "clj-qdrant", :version "0.1.5"}
+{:created 1787860069090, :description "Common library for Swagger documented RESTful APIs", :group_name "org.cyverse", :jar_name "common-swagger-api", :version "3.4.25-SNAPSHOT"}
+{:created 1787860077377, :description "Distributed systems testing framework.", :group_name "jepsen", :jar_name "jepsen", :version "0.3.14-SNAPSHOT"}
+{:created 1787860078681, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cppb", :version "0.1.7"}
+{:created 1787860113494, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-di", :version "0.4.6"}
+{:created 1787860161093, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-dsl", :version "0.5.18"}
+{:created 1787860194693, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-events", :version "0.5.9"}
+{:created 1787860739026, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-weave", :version "0.3.4"}
+{:created 1787860740353, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-ttracking", :version "0.1.11"}
+{:created 1787860741000, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-test", :version "0.3.16"}
+{:created 1787860973237, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.2.7"}
+{:created 1787861015386, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-depsolve", :version "0.4.20"}
+{:created 1787861052788, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-milvus", :version "0.4.12"}
+{:created 1787861065403, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-qdrant", :version "0.1.11"}
+{:created 1787861104192, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-system", :version "0.3.8"}
+{:created 1787861202948, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-schemas", :version "0.1.27"}
+{:created 1787861264097, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-proximum", :version "0.1.15"}
+{:created 1787861289008, :description nil, :group_name "io.github.hive-agi", :jar_name "basic-tools-mcp", :version "0.3.11"}
+{:created 1787861447921, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-license", :version "0.2.6"}
+{:created 1787866268397, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.157"}
+{:created 1787869597421, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.394"}
+{:created 1787870187519, :description "Experimental Foreign Function & Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.", :group_name "net.clojars.savya", :jar_name "beckon-ffm", :version "0.3.0"}
+{:created 1787871460879, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.31.0"}
+{:created 1787871712644, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1819"}
