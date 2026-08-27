@@ -1,12 +1,3 @@
-{:created 1787520651074, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.331"}
-{:created 1787521339282, :description "A simple Ajax library for ClojureScript", :group_name "cljs-ajax", :jar_name "cljs-ajax", :version "0.9.0-beta2"}
-{:created 1787521511930, :description "gRPC for Clojure on non-shaded Netty, over clj-protobuf: dynamic services from generated code, Unix domain sockets, epoll, and Knative presets.", :group_name "com.github.bpalermo", :jar_name "clj-grpc", :version "0.1.2"}
-{:created 1787522947779, :description nil, :group_name "io.github.hive-agi", :jar_name "basic-tools-mcp", :version "0.3.10"}
-{:created 1787522977177, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-system", :version "0.3.7"}
-{:created 1787523477167, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.332"}
-{:created 1787523527742, :description "gRPC for Clojure on non-shaded Netty, over clj-protobuf: dynamic services from generated code, Unix domain sockets, epoll, and Knative presets.", :group_name "com.github.bpalermo", :jar_name "clj-grpc", :version "0.1.3"}
-{:created 1787524294758, :description nil, :group_name "com.biffweb", :jar_name "stuff", :version "2.0.0-rc20"}
-{:created 1787524310060, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.0-rc20"}
 {:created 1787524325524, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.0-rc20"}
 {:created 1787524341217, :description nil, :group_name "com.biffweb", :jar_name "fx", :version "2.0.0-rc20"}
 {:created 1787524357423, :description nil, :group_name "com.biffweb", :jar_name "graph", :version "2.0.0-rc20"}
@@ -124,7 +115,6 @@
 {:created 1787641863534, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.132"}
 {:created 1787641993423, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.361"}
 {:created 1787646353293, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.139"}
-{:created 1787646925194, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.27.2-SNAPSHOT"}
 {:created 1787647270973, :description "A Telegram Bot Library for Clojure", :group_name "dev.meinside", :jar_name "clogram", :version "0.43.0"}
 {:created 1787648381127, :description nil, :group_name "org.akvo.flow", :jar_name "akvo-flow", :version "20260825-085906.3e6e6f04"}
 {:created 1787649095819, :description "HTTP Server for shadow-cljs", :group_name "com.thheller", :jar_name "shadow-http", :version "0.1.9"}
@@ -230,7 +220,6 @@
 {:created 1787801115899, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.3.0"}
 {:created 1787803850395, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.385"}
 {:created 1787804302736, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.22"}
-{:created 1787804708167, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
 {:created 1787807792261, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.4.0"}
 {:created 1787808727075, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.19.0"}
 {:created 1787808985264, :description "Embedded approximate-nearest-neighbor vector search for Clojure: an in-process ANN index.", :group_name "net.clojars.savya", :jar_name "vector-search-clj", :version "0.5.0"}
@@ -249,8 +238,19 @@
 {:created 1787813696955, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "1.11.0"}
 {:created 1787813747050, :description "Idiomatic Clojure wrapper for the XChart charting library.", :group_name "net.clojars.savya", :jar_name "clj-xchart", :version "0.5.0"}
 {:created 1787816203801, :description "Clojure helpers for Faceless Reels product metadata and canonical public URLs.", :group_name "org.clojars.allen", :jar_name "faceless-reels", :version "0.1.0"}
-{:created 1787816703688, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.2-SNAPSHOT"}
 {:created 1787822401973, :description "Fast JSON parser/writer for Clojure.", :group_name "com.s-exp", :jar_name "oda", :version "1.0.0-alpha41"}
 {:created 1787826451982, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.389"}
 {:created 1787826867668, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.153"}
 {:created 1787828221715, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1813"}
+{:created 1787836292233, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.2-SNAPSHOT"}
+{:created 1787836546887, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.27.2-SNAPSHOT"}
+{:created 1787837368417, :description nil, :group_name "com.monkeyci", :jar_name "plugin-pushover", :version "0.2.2-SNAPSHOT"}
+{:created 1787839259298, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
+{:created 1787843250244, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core", :version "0.4.1"}
+{:created 1787843431146, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core-async", :version "0.4.1"}
+{:created 1787843445587, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-manifold", :version "0.4.1"}
+{:created 1787843464439, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-pedestal", :version "0.4.1"}
+{:created 1787843464718, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-sieppari", :version "0.4.1"}
+{:created 1787843490181, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-nats", :version "0.4.1"}
+{:created 1787843805989, :description nil, :group_name "com.monkeyprojects", :jar_name "monkey-jms", :version "0.4.0"}
+{:created 1787843828090, :description nil, :group_name "com.monkeyprojects", :jar_name "monkey-jms-artemis", :version "0.4.0"}
