@@ -4,7 +4,126 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 27 Aug 2026 04:43:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2026 07:30:13 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/clj-xchart/versions/0.5.0</guid>
+    <title>[net.clojars.savya/clj-xchart &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/clj-xchart/versions/0.5.0</link>
+    <description>Idiomatic Clojure wrapper for the XChart charting library.</description>
+    <pubDate>Thu, 27 Aug 2026 06:55:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/pdfplumber-clj/versions/1.11.0</guid>
+    <title>[net.clojars.savya/pdfplumber-clj &quot;1.11.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/pdfplumber-clj/versions/1.11.0</link>
+    <description>Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.</description>
+    <pubDate>Thu, 27 Aug 2026 06:54:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.149</guid>
+    <title>[org.replikativ/pg-datahike &quot;0.1.149&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.149</link>
+    <description></description>
+    <pubDate>Thu, 27 Aug 2026 06:54:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/cljgrapht/versions/1.2.0</guid>
+    <title>[net.clojars.savya/cljgrapht &quot;1.2.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/cljgrapht/versions/1.2.0</link>
+    <description>Idiomatic Clojure graph library backed by JGraphT: fast algorithms over Clojure-value vertices</description>
+    <pubDate>Thu, 27 Aug 2026 06:51:37 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.23</guid>
+    <title>[org.replikativ/pretrained-rstr &quot;0.1.23&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.23</link>
+    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
+    <pubDate>Thu, 27 Aug 2026 06:49:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/clj-oauth/versions/1.7.0</guid>
+    <title>[net.clojars.savya/clj-oauth &quot;1.7.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/clj-oauth/versions/1.7.0</link>
+    <description>OAuth support for Clojure</description>
+    <pubDate>Thu, 27 Aug 2026 06:39:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/loom/versions/1.4.0</guid>
+    <title>[net.clojars.savya/loom &quot;1.4.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/loom/versions/1.4.0</link>
+    <description>Graph library for Clojure and ClojureScript</description>
+    <pubDate>Thu, 27 Aug 2026 06:32:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.386</guid>
+    <title>[org.replikativ/raster &quot;0.2.386&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.386</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Thu, 27 Aug 2026 06:01:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/duckdb-clj/versions/0.5.0</guid>
+    <title>[net.clojars.savya/duckdb-clj &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/duckdb-clj/versions/0.5.0</link>
+    <description>DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.</description>
+    <pubDate>Thu, 27 Aug 2026 05:48:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/beckon/versions/0.5.0</guid>
+    <title>[net.clojars.savya/beckon &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/beckon/versions/0.5.0</link>
+    <description>Manage POSIX signals from Clojure via a small sun.misc.Signal backend.</description>
+    <pubDate>Thu, 27 Aug 2026 05:45:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.4.0</guid>
+    <title>[net.clojars.savya/chunk-clj &quot;0.4.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.4.0</link>
+    <description>Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.</description>
+    <pubDate>Thu, 27 Aug 2026 05:45:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.hden/ulid/versions/0.1.0</guid>
+    <title>[com.github.hden/ulid &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.github.hden/ulid/versions/0.1.0</link>
+    <description>A small monotonic ULID generator for Clojure</description>
+    <pubDate>Thu, 27 Aug 2026 05:38:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/dogstatsd/versions/0.6.0</guid>
+    <title>[net.clojars.savya/dogstatsd &quot;0.6.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/dogstatsd/versions/0.6.0</link>
+    <description>Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).</description>
+    <pubDate>Thu, 27 Aug 2026 05:37:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/tokenizers-clj/versions/0.6.0</guid>
+    <title>[net.clojars.savya/tokenizers-clj &quot;0.6.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/tokenizers-clj/versions/0.6.0</link>
+    <description>Idiomatic Clojure wrapper over DJL&#39;s HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.</description>
+    <pubDate>Thu, 27 Aug 2026 05:37:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/vector-search-clj/versions/0.5.0</guid>
+    <title>[net.clojars.savya/vector-search-clj &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/vector-search-clj/versions/0.5.0</link>
+    <description>Embedded approximate-nearest-neighbor vector search for Clojure: an in-process ANN index.</description>
+    <pubDate>Thu, 27 Aug 2026 05:36:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.19.0</guid>
+    <title>[net.clojars.savya/openai-clj &quot;0.19.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.19.0</link>
+    <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
+    <pubDate>Thu, 27 Aug 2026 05:32:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.0</guid>
+    <title>[net.clojars.savya/psql-clj &quot;2.4.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.0</link>
+    <description>PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.</description>
+    <pubDate>Thu, 27 Aug 2026 05:16:32 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.22</guid>
     <title>[org.replikativ/pretrained-rstr &quot;0.1.22&quot;]</title>
@@ -1721,125 +1840,6 @@
     <link>https://clojars.org/com.blockether/svar/versions/0.7.134</link>
     <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
     <pubDate>Sun, 23 Aug 2026 10:29:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.8</guid>
-    <title>[org.replikativ/pretrained-rstr &quot;0.1.8&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.8</link>
-    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
-    <pubDate>Sun, 23 Aug 2026 09:23:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.325</guid>
-    <title>[org.replikativ/raster &quot;0.2.325&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.325</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sun, 23 Aug 2026 09:14:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.7</guid>
-    <title>[org.replikativ/pretrained-rstr &quot;0.1.7&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.7</link>
-    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
-    <pubDate>Sun, 23 Aug 2026 08:51:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.99</guid>
-    <title>[org.replikativ/konserve-jdbc &quot;0.2.99&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.99</link>
-    <description>A generic JDBC backend for konserve.</description>
-    <pubDate>Sun, 23 Aug 2026 08:32:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.378</guid>
-    <title>[org.replikativ/konserve &quot;0.9.378&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.378</link>
-    <description>Durable cross-platform key-value store protocol with core.async.</description>
-    <pubDate>Sun, 23 Aug 2026 08:13:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.98</guid>
-    <title>[org.replikativ/konserve-jdbc &quot;0.2.98&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.98</link>
-    <description>A generic JDBC backend for konserve.</description>
-    <pubDate>Sun, 23 Aug 2026 07:51:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.324</guid>
-    <title>[org.replikativ/raster &quot;0.2.324&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.324</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sun, 23 Aug 2026 07:43:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.323</guid>
-    <title>[org.replikativ/raster &quot;0.2.323&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.323</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sun, 23 Aug 2026 06:53:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.377</guid>
-    <title>[org.replikativ/konserve &quot;0.9.377&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.377</link>
-    <description>Durable cross-platform key-value store protocol with core.async.</description>
-    <pubDate>Sun, 23 Aug 2026 06:11:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve-rocksdb/versions/0.2.23</guid>
-    <title>[org.replikativ/konserve-rocksdb &quot;0.2.23&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve-rocksdb/versions/0.2.23</link>
-    <description>Konserve RocksDB Backend</description>
-    <pubDate>Sun, 23 Aug 2026 04:53:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1790</guid>
-    <title>[org.replikativ/datahike &quot;0.8.1790&quot;]</title>
-    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1790</link>
-    <description>A durable datalog implementation adaptable for distribution.</description>
-    <pubDate>Sun, 23 Aug 2026 04:52:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/clj-rocksdb/versions/0.1.36</guid>
-    <title>[org.replikativ/clj-rocksdb &quot;0.1.36&quot;]</title>
-    <link>https://clojars.org/org.replikativ/clj-rocksdb/versions/0.1.36</link>
-    <description>Clojure bindings for RocksDB</description>
-    <pubDate>Sun, 23 Aug 2026 04:47:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.322</guid>
-    <title>[org.replikativ/raster &quot;0.2.322&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.322</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sun, 23 Aug 2026 04:29:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve-gcs/versions/0.1.17</guid>
-    <title>[org.replikativ/konserve-gcs &quot;0.1.17&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve-gcs/versions/0.1.17</link>
-    <description>Konserve GCS Backend</description>
-    <pubDate>Sun, 23 Aug 2026 04:03:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve-lmdb/versions/0.1.20</guid>
-    <title>[org.replikativ/konserve-lmdb &quot;0.1.20&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve-lmdb/versions/0.1.20</link>
-    <description></description>
-    <pubDate>Sun, 23 Aug 2026 03:56:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve-dynamodb/versions/0.1.33</guid>
-    <title>[org.replikativ/konserve-dynamodb &quot;0.1.33&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve-dynamodb/versions/0.1.33</link>
-    <description>Konserve DynamoDB Backend</description>
-    <pubDate>Sun, 23 Aug 2026 03:52:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.321</guid>
-    <title>[org.replikativ/raster &quot;0.2.321&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.321</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sun, 23 Aug 2026 01:01:32 +0000</pubDate>
   </item>
   </channel>
 </rss>
