@@ -1,20 +1,3 @@
-{:created 1787524325524, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.0-rc20"}
-{:created 1787524341217, :description nil, :group_name "com.biffweb", :jar_name "fx", :version "2.0.0-rc20"}
-{:created 1787524357423, :description nil, :group_name "com.biffweb", :jar_name "graph", :version "2.0.0-rc20"}
-{:created 1787524374037, :description nil, :group_name "com.biffweb", :jar_name "sqlite", :version "2.0.0-rc20"}
-{:created 1787524391925, :description nil, :group_name "com.biffweb", :jar_name "xtdb", :version "2.0.0-rc20"}
-{:created 1787524408549, :description nil, :group_name "com.biffweb", :jar_name "ring", :version "2.0.0-rc20"}
-{:created 1787524425484, :description nil, :group_name "com.biffweb", :jar_name "datastar", :version "2.0.0-rc20"}
-{:created 1787524441346, :description nil, :group_name "com.biffweb", :jar_name "run", :version "2.0.0-rc20"}
-{:created 1787524457019, :description nil, :group_name "com.biffweb", :jar_name "tasks", :version "2.0.0-rc20"}
-{:created 1787524473473, :description nil, :group_name "com.biffweb", :jar_name "background", :version "2.0.0-rc20"}
-{:created 1787524493004, :description nil, :group_name "com.biffweb", :jar_name "authenticate", :version "2.0.0-rc20"}
-{:created 1787525906615, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1793"}
-{:created 1787528534065, :description "A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.", :group_name "org.replikativ", :jar_name "persistent-sorted-set", :version "0.5.142"}
-{:created 1787529394684, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.334"}
-{:created 1787529845124, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "2.5.4"}
-{:created 1787529920827, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.3.82"}
-{:created 1787532540685, :description "Persistent vector database with version control for the JVM", :group_name "org.replikativ", :jar_name "proximum", :version "0.1.36"}
 {:created 1787532598110, :description "LangChain4j EmbeddingStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-langchain4j", :version "0.1.36"}
 {:created 1787532601880, :description "Spring AI VectorStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-spring-ai", :version "0.1.36"}
 {:created 1787532821237, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.336"}
@@ -245,7 +228,6 @@
 {:created 1787836292233, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.2-SNAPSHOT"}
 {:created 1787836546887, :description nil, :group_name "com.monkeyci", :jar_name "app", :version "0.27.2-SNAPSHOT"}
 {:created 1787837368417, :description nil, :group_name "com.monkeyci", :jar_name "plugin-pushover", :version "0.2.2-SNAPSHOT"}
-{:created 1787839259298, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
 {:created 1787843250244, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core", :version "0.4.1"}
 {:created 1787843431146, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core-async", :version "0.4.1"}
 {:created 1787843445587, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-manifold", :version "0.4.1"}
@@ -254,3 +236,21 @@
 {:created 1787843490181, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-nats", :version "0.4.1"}
 {:created 1787843805989, :description nil, :group_name "com.monkeyprojects", :jar_name "monkey-jms", :version "0.4.0"}
 {:created 1787843828090, :description nil, :group_name "com.monkeyprojects", :jar_name "monkey-jms-artemis", :version "0.4.0"}
+{:created 1787845788268, :description nil, :group_name "org.danielsz", :jar_name "kryptos", :version "0.1.9"}
+{:created 1787845903738, :description "Experimental Foreign Function & Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.", :group_name "net.clojars.savya", :jar_name "beckon-ffm", :version "0.2.0"}
+{:created 1787846966000, :description "Idiomatic Clojure wrapper over DJL's HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.", :group_name "net.clojars.savya", :jar_name "tokenizers-clj", :version "0.7.0"}
+{:created 1787847013827, :description "DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.", :group_name "net.clojars.savya", :jar_name "duckdb-clj", :version "0.6.0"}
+{:created 1787847220138, :description "Pure functional generators for Jepsen tests", :group_name "io.jepsen", :jar_name "generator", :version "0.1.4-SNAPSHOT"}
+{:created 1787847240711, :description "Black-box transactional consistency checker based on cycle detection", :group_name "elle", :jar_name "elle", :version "0.2.8-SNAPSHOT"}
+{:created 1787847243160, :description "Distributed systems testing framework.", :group_name "jepsen", :jar_name "jepsen", :version "0.3.14-SNAPSHOT"}
+{:created 1787847355824, :description "A library for writing Jepsen tests of SQL databases", :group_name "io.jepsen", :jar_name "sql", :version "0.1.1-SNAPSHOT"}
+{:created 1787848530350, :description "A library for delightful database interaction.", :group_name "io.github.camsaul", :jar_name "toucan2", :version "1.0.575"}
+{:created 1787848540082, :description "Toucan 1 reimplemented in terms of Toucan 2. Compatibility layer for existing projects using Toucan 1.", :group_name "io.github.camsaul", :jar_name "toucan2-toucan1", :version "1.0.575"}
+{:created 1787849493082, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-mcp", :version "1.2.14"}
+{:created 1787854441976, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
+{:created 1787854703270, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "0.2.0"}
+{:created 1787856481730, :description "A library to consistently crypto-hash edn data structures on Clojure and ClojureScript with SHA-512", :group_name "org.replikativ", :jar_name "hasch", :version "0.4.103"}
+{:created 1787857103952, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.390"}
+{:created 1787857279967, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.2.6"}
+{:created 1787857494659, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-mcp", :version "0.21.0"}
+{:created 1787858711720, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1815"}
