@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 27 Aug 2026 07:30:13 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2026 11:18:19 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1813</guid>
+    <title>[org.replikativ/datahike &quot;0.8.1813&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1813</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Thu, 27 Aug 2026 10:57:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.153</guid>
+    <title>[org.replikativ/pg-datahike &quot;0.1.153&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.153</link>
+    <description></description>
+    <pubDate>Thu, 27 Aug 2026 10:34:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.389</guid>
+    <title>[org.replikativ/raster &quot;0.2.389&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.389</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Thu, 27 Aug 2026 10:27:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.s-exp/oda/versions/1.0.0-alpha41</guid>
+    <title>[com.s-exp/oda &quot;1.0.0-alpha41&quot;]</title>
+    <link>https://clojars.org/com.s-exp/oda/versions/1.0.0-alpha41</link>
+    <description>Fast JSON parser/writer for Clojure.</description>
+    <pubDate>Thu, 27 Aug 2026 09:20:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.allen/faceless-reels/versions/0.1.0</guid>
+    <title>[org.clojars.allen/faceless-reels &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/org.clojars.allen/faceless-reels/versions/0.1.0</link>
+    <description>Clojure helpers for Faceless Reels product metadata and canonical public URLs.</description>
+    <pubDate>Thu, 27 Aug 2026 07:36:43 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/net.clojars.savya/clj-xchart/versions/0.5.0</guid>
     <title>[net.clojars.savya/clj-xchart &quot;0.5.0&quot;]</title>
@@ -1805,41 +1840,6 @@
     <link>https://clojars.org/dk.emcken/aws-simple-sign/versions/2.3.4</link>
     <description>A library to sign HTTP requests &amp; generate presigned URL&#39;s for AWS</description>
     <pubDate>Sun, 23 Aug 2026 14:36:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.379</guid>
-    <title>[org.replikativ/konserve &quot;0.9.379&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.379</link>
-    <description>Durable cross-platform key-value store protocol with core.async.</description>
-    <pubDate>Sun, 23 Aug 2026 11:18:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.327</guid>
-    <title>[org.replikativ/raster &quot;0.2.327&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.327</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sun, 23 Aug 2026 10:57:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.128</guid>
-    <title>[org.replikativ/pg-datahike &quot;0.1.128&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.128</link>
-    <description></description>
-    <pubDate>Sun, 23 Aug 2026 10:50:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.9</guid>
-    <title>[org.replikativ/pretrained-rstr &quot;0.1.9&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.9</link>
-    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
-    <pubDate>Sun, 23 Aug 2026 10:42:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.7.134</guid>
-    <title>[com.blockether/svar &quot;0.7.134&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.7.134</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Sun, 23 Aug 2026 10:29:50 +0000</pubDate>
   </item>
   </channel>
 </rss>
