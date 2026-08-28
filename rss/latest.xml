@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 28 Aug 2026 13:59:15 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 28 Aug 2026 18:05:48 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/imgui-opengl2-sys/versions/2026.08-2</guid>
+    <title>[org.jank-lang.commons/imgui-opengl2-sys &quot;2026.08-2&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/imgui-opengl2-sys/versions/2026.08-2</link>
+    <description>Raw package for Dear ImGUI OpenGL2 renderer backend.</description>
+    <pubDate>Fri, 28 Aug 2026 17:25:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/imgui-glfw-sys/versions/2026.08-2</guid>
+    <title>[org.jank-lang.commons/imgui-glfw-sys &quot;2026.08-2&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/imgui-glfw-sys/versions/2026.08-2</link>
+    <description>Raw package for Dear ImGUI GLFW platform backend.</description>
+    <pubDate>Fri, 28 Aug 2026 17:25:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/imgui-sys/versions/2026.08-2</guid>
+    <title>[org.jank-lang.commons/imgui-sys &quot;2026.08-2&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/imgui-sys/versions/2026.08-2</link>
+    <description>Raw package for Dear ImGUI.</description>
+    <pubDate>Fri, 28 Aug 2026 17:25:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.radarroark/xitdb/versions/0.33.0</guid>
+    <title>[io.github.radarroark/xitdb &quot;0.33.0&quot;]</title>
+    <link>https://clojars.org/io.github.radarroark/xitdb/versions/0.33.0</link>
+    <description>An immutable database</description>
+    <pubDate>Fri, 28 Aug 2026 16:13:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/jepsen/versions/0.3.14-SNAPSHOT</guid>
+    <title>[jepsen &quot;0.3.14-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/jepsen/versions/0.3.14-SNAPSHOT</link>
+    <description>Distributed systems testing framework.</description>
+    <pubDate>Fri, 28 Aug 2026 14:51:00 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.jepsen/generator/versions/0.1.4-SNAPSHOT</guid>
     <title>[io.jepsen/generator &quot;0.1.4-SNAPSHOT&quot;]</title>
@@ -641,13 +676,6 @@
     <link>https://clojars.org/io.github.hive-agi/hive-cppb/versions/0.1.7</link>
     <description></description>
     <pubDate>Thu, 27 Aug 2026 19:47:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/jepsen/versions/0.3.14-SNAPSHOT</guid>
-    <title>[jepsen &quot;0.3.14-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/jepsen/versions/0.3.14-SNAPSHOT</link>
-    <description>Distributed systems testing framework.</description>
-    <pubDate>Thu, 27 Aug 2026 19:47:57 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/org.cyverse/common-swagger-api/versions/3.4.25-SNAPSHOT</guid>
@@ -1790,34 +1818,6 @@
     <link>https://clojars.org/org.replikativ/raster/versions/0.2.360</link>
     <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
     <pubDate>Tue, 25 Aug 2026 05:58:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20260825-054903.a387a3ee</guid>
-    <title>[org.akvo.flow/akvo-flow &quot;20260825-054903.a387a3ee&quot;]</title>
-    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20260825-054903.a387a3ee</link>
-    <description></description>
-    <pubDate>Tue, 25 Aug 2026 05:49:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1804</guid>
-    <title>[org.replikativ/datahike &quot;0.8.1804&quot;]</title>
-    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1804</link>
-    <description>A durable datalog implementation adaptable for distribution.</description>
-    <pubDate>Tue, 25 Aug 2026 05:29:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.16</guid>
-    <title>[org.replikativ/pretrained-rstr &quot;0.1.16&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.16</link>
-    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
-    <pubDate>Tue, 25 Aug 2026 05:07:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.rthadani/bff/versions/0.11.4</guid>
-    <title>[io.github.rthadani/bff &quot;0.11.4&quot;]</title>
-    <link>https://clojars.org/io.github.rthadani/bff/versions/0.11.4</link>
-    <description>Spec-driven GraphQL API fronting real REST backends</description>
-    <pubDate>Tue, 25 Aug 2026 04:59:13 +0000</pubDate>
   </item>
   </channel>
 </rss>
