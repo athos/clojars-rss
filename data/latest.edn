@@ -1,26 +1,3 @@
-{:created 1787556127700, :description "Classpath utilities", :group_name "com.lambdaisland", :jar_name "classpath", :version "0.9.74"}
-{:created 1787556598126, :description "Clojure dev process launcher", :group_name "com.lambdaisland", :jar_name "launchpad", :version "0.55.248-alpha"}
-{:created 1787557956508, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.136"}
-{:created 1787558486954, :description "Zero-dep, near 0-alloc, High Performance Ring adapter for Clojure", :group_name "com.s-exp", :jar_name "enso", :version "1.0.0-alpha56"}
-{:created 1787558491859, :description nil, :group_name "com.monkeyprojects", :jar_name "monkey-jms", :version "0.4.1-SNAPSHOT"}
-{:created 1787558517075, :description nil, :group_name "com.monkeyprojects", :jar_name "monkey-jms-artemis", :version "0.4.1-SNAPSHOT"}
-{:created 1787559593880, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core", :version "0.4.1-SNAPSHOT"}
-{:created 1787559775943, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core-async", :version "0.4.1-SNAPSHOT"}
-{:created 1787559785306, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-manifold", :version "0.4.1-SNAPSHOT"}
-{:created 1787559808890, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-pedestal", :version "0.4.1-SNAPSHOT"}
-{:created 1787559810156, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-sieppari", :version "0.4.1-SNAPSHOT"}
-{:created 1787559832536, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-jms", :version "0.4.1-SNAPSHOT"}
-{:created 1787559833608, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-nats", :version "0.4.1-SNAPSHOT"}
-{:created 1787561765206, :description "A framework for asynchronous communication", :group_name "aleph", :jar_name "aleph", :version "0.9.11"}
-{:created 1787562578141, :description "Command line parser with good subcommand and help handling", :group_name "com.lambdaisland", :jar_name "cli", :version "1.31.133"}
-{:created 1787562978437, :description "Malli-Typed interfaces for Clojure", :group_name "io.julienvincent", :jar_name "malt", :version "1.2.0"}
-{:created 1787567562636, :description "Pre-generated icon components for Tyrell web components library", :group_name "dev.gersak", :jar_name "tyrell-icons", :version "1.0.0-RC14"}
-{:created 1787567569532, :description "Modern web components library built with ClojureScript", :group_name "dev.gersak", :jar_name "tyrell", :version "1.0.0-RC14"}
-{:created 1787568364541, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.343"}
-{:created 1787568897241, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.380"}
-{:created 1787569815192, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.344"}
-{:created 1787575792672, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.138"}
-{:created 1787576672160, :description nil, :group_name "com.monkeyci", :jar_name "core", :version "0.27.2-SNAPSHOT"}
 {:created 1787582046404, :description "Development-time REPL surface over BareBuild's recorded log. Reads what each step asked, sent, answered and handed to consumers, and what the page shows, as data.", :group_name "com.github.avanelsas", :jar_name "bareprobe", :version "0.1.0"}
 {:created 1787582904975, :description "Unified validation, parsing, and formatting of standard identifier numbers (credit cards, IBAN/BIC, ISBN, ISIN, bank routing, and more) for Clojure - an idiomatic facade over Apache Commons Validator and iban4j.", :group_name "net.clojars.savya", :jar_name "stdnum-clj", :version "0.33.0"}
 {:created 1787582914613, :description nil, :group_name "net.clojars.savya", :jar_name "buddy-auth", :version "4.1.0"}
@@ -223,7 +200,6 @@
 {:created 1787848530350, :description "A library for delightful database interaction.", :group_name "io.github.camsaul", :jar_name "toucan2", :version "1.0.575"}
 {:created 1787848540082, :description "Toucan 1 reimplemented in terms of Toucan 2. Compatibility layer for existing projects using Toucan 1.", :group_name "io.github.camsaul", :jar_name "toucan2-toucan1", :version "1.0.575"}
 {:created 1787849493082, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-mcp", :version "1.2.14"}
-{:created 1787854441976, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
 {:created 1787854703270, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "0.2.0"}
 {:created 1787856481730, :description "A library to consistently crypto-hash edn data structures on Clojure and ClojureScript with SHA-512", :group_name "org.replikativ", :jar_name "hasch", :version "0.4.103"}
 {:created 1787857103952, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.390"}
@@ -254,3 +230,27 @@
 {:created 1787870187519, :description "Experimental Foreign Function & Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.", :group_name "net.clojars.savya", :jar_name "beckon-ffm", :version "0.3.0"}
 {:created 1787871460879, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.31.0"}
 {:created 1787871712644, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1819"}
+{:created 1787873643319, :description "Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.", :group_name "net.clojars.savya", :jar_name "chunk-clj", :version "0.5.0"}
+{:created 1787875427237, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.46"}
+{:created 1787876934038, :description "A DNA Sequence Alignment/Map (SAM) library for Clojure", :group_name "cljam", :jar_name "cljam", :version "0.9.0-SNAPSHOT"}
+{:created 1787878590592, :description "Manage POSIX signals from Clojure via a small sun.misc.Signal backend.", :group_name "net.clojars.savya", :jar_name "beckon", :version "0.7.0"}
+{:created 1787878643371, :description "DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.", :group_name "net.clojars.savya", :jar_name "duckdb-clj", :version "0.7.0"}
+{:created 1787879015920, :description "Idiomatic Clojure graph library backed by JGraphT: fast algorithms over Clojure-value vertices", :group_name "net.clojars.savya", :jar_name "cljgrapht", :version "1.3.0"}
+{:created 1787879029853, :description "Idiomatic Clojure wrapper over DJL's HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.", :group_name "net.clojars.savya", :jar_name "tokenizers-clj", :version "0.9.0"}
+{:created 1787879033804, :description "Idiomatic Clojure wrapper for the XChart charting library.", :group_name "net.clojars.savya", :jar_name "clj-xchart", :version "0.6.0"}
+{:created 1787879041514, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "1.13.0"}
+{:created 1787879138834, :description "Experimental Foreign Function & Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.", :group_name "net.clojars.savya", :jar_name "beckon-ffm", :version "0.5.0"}
+{:created 1787882310583, :description "Copy-on-write branching for Apache Lucene with Git-like semantics", :group_name "org.replikativ", :jar_name "scriptum", :version "0.1.31"}
+{:created 1787882563395, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.159"}
+{:created 1787882592202, :description "Persistent vector database with version control for the JVM", :group_name "org.replikativ", :jar_name "proximum", :version "0.1.37"}
+{:created 1787882619198, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
+{:created 1787882650629, :description "LangChain4j EmbeddingStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-langchain4j", :version "0.1.37"}
+{:created 1787882656464, :description "Spring AI VectorStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-spring-ai", :version "0.1.37"}
+{:created 1787883086705, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.26"}
+{:created 1787883166494, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.398"}
+{:created 1787883234364, :description "Konserve GCS Backend", :group_name "org.replikativ", :jar_name "konserve-gcs", :version "0.1.18"}
+{:created 1787883251878, :description "Safe transport of unknown record types in distributed systems.", :group_name "org.replikativ", :jar_name "incognito", :version "0.3.71"}
+{:created 1787883331713, :description "A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.", :group_name "org.replikativ", :jar_name "persistent-sorted-set", :version "0.5.144"}
+{:created 1787883358487, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.386"}
+{:created 1787883364409, :description "Konserve S3 Backend", :group_name "org.replikativ", :jar_name "konserve-s3", :version "0.1.39"}
+{:created 1787883373594, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1821"}
