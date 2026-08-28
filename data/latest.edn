@@ -1,27 +1,6 @@
-{:created 1787593531621, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.345"}
-{:created 1787593672176, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1803"}
-{:created 1787594989015, :description "Templating engine for clojure", :group_name "org.clojars.jj", :jar_name "majavat", :version "2.5.5"}
-{:created 1787597032894, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.12.6"}
-{:created 1787597197415, :description "This project provides a native (or transpiled) version of PROJ for both the JVM and JS ecosystems.", :group_name "net.willcohen", :jar_name "proj", :version "0.1.0-alpha9"}
-{:created 1787597546352, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.12.6"}
-{:created 1787597591840, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.12.6"}
-{:created 1787600174405, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.346"}
-{:created 1787604899390, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.348"}
-{:created 1787608304609, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.12.6"}
-{:created 1787609293143, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.12.6"}
-{:created 1787609339291, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.12.6"}
-{:created 1787611299781, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.350"}
-{:created 1787614189771, :description "composable plotting in Clojure", :group_name "org.scicloj", :jar_name "plotje", :version "0.10.0"}
-{:created 1787614520320, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.13"}
-{:created 1787615047591, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.381"}
-{:created 1787615818501, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.352"}
-{:created 1787619627262, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.2.280"}
-{:created 1787619634631, :description "Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api.updates", :version "1.2.280"}
-{:created 1787619891925, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.14"}
 {:created 1787620599179, :description "Ring-based authentication and authorization library for Clojure", :group_name "sg.flybot", :jar_name "oie", :version "0.4.0"}
 {:created 1787621223679, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.354"}
 {:created 1787621811129, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.355"}
-{:created 1787623823547, :description "A minimal tempo bridge between Beat Link and Ableton Link.", :group_name "beat-carabiner", :jar_name "beat-carabiner", :version "8.1.0-SNAPSHOT"}
 {:created 1787624339911, :description "Spec-driven GraphQL API fronting real REST backends", :group_name "io.github.rthadani", :jar_name "bff", :version "0.11.0"}
 {:created 1787624623912, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.15"}
 {:created 1787624734857, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.356"}
@@ -254,3 +233,24 @@
 {:created 1787892807334, :description "Experimental Foreign Function & Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.", :group_name "net.clojars.savya", :jar_name "beckon-ffm", :version "0.6.0"}
 {:created 1787894998098, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1824"}
 {:created 1787895087928, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.401"}
+{:created 1787895748631, :description "High-performance dictionaries and trie-maps for approximate string matching", :group_name "io.vinarytree", :jar_name "libdictenstein-clojure", :version "4.0.0-rc.5"}
+{:created 1787895753094, :description "A high-performance library for spelling correction, fuzzy dictionary search, and phonetic matching using Levenshtein and related finite-state automata.", :group_name "io.vinarytree", :jar_name "liblevenshtein-clojure", :version "4.0.0-rc.5"}
+{:created 1787898372889, :description "A minimal tempo bridge between Beat Link and Ableton Link.", :group_name "beat-carabiner", :jar_name "beat-carabiner", :version "8.1.0-SNAPSHOT"}
+{:created 1787900348891, :description "build script support lib", :group_name "org.domaindrivenarchitecture", :jar_name "dda-build-clj", :version "2.1.2-SNAPSHOT"}
+{:created 1787901010269, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core", :version "0.4.2"}
+{:created 1787901199485, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-core-async", :version "0.4.2"}
+{:created 1787901202788, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-manifold", :version "0.4.2"}
+{:created 1787901223985, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-pedestal", :version "0.4.2"}
+{:created 1787901225458, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-sieppari", :version "0.4.2"}
+{:created 1787901247139, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-jms", :version "0.4.2"}
+{:created 1787901248465, :description nil, :group_name "com.monkeyprojects", :jar_name "mailman-nats", :version "0.4.2"}
+{:created 1787902193216, :description nil, :group_name "com.monkeyci", :jar_name "common", :version "0.27.2"}
+{:created 1787902238950, :description nil, :group_name "com.monkeyci", :jar_name "core", :version "0.27.2"}
+{:created 1787902309221, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.2"}
+{:created 1787902413252, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.27.2"}
+{:created 1787903484263, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.50"}
+{:created 1787903921604, :description "Konserve S3 Backend", :group_name "org.replikativ", :jar_name "konserve-s3", :version "0.1.40"}
+{:created 1787904944007, :description "Pattern matching and term rewriting for Clojure (replikativ fork of pangloss/pattern).", :group_name "org.replikativ", :jar_name "pattern", :version "1.0.452"}
+{:created 1787905302311, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1827"}
+{:created 1787906004935, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "3.5.0.42"}
+{:created 1787907598022, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.403"}
