@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 29 Aug 2026 11:02:13 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 29 Aug 2026 12:04:15 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1845</guid>
+    <title>[org.replikativ/datahike &quot;0.8.1845&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1845</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Sat, 29 Aug 2026 12:03:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.58</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.58&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.58</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Sat, 29 Aug 2026 11:29:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.weavejester/teensyp/versions/0.9.2</guid>
+    <title>[dev.weavejester/teensyp &quot;0.9.2&quot;]</title>
+    <link>https://clojars.org/dev.weavejester/teensyp/versions/0.9.2</link>
+    <description>A small Clojure TCP server</description>
+    <pubDate>Sat, 29 Aug 2026 11:23:28 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1843</guid>
     <title>[org.replikativ/datahike &quot;0.8.1843&quot;]</title>
@@ -1776,33 +1797,6 @@
     <link>https://clojars.org/io.vinarytree/liblevenshtein-clojure/versions/4.0.0-rc.4</link>
     <description>Idiomatic Clojure facade for snapshot-consistent liblevenshtein FFM bindings</description>
     <pubDate>Wed, 26 Aug 2026 02:46:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.rthadani/bff/versions/0.11.5</guid>
-    <title>[io.github.rthadani/bff &quot;0.11.5&quot;]</title>
-    <link>https://clojars.org/io.github.rthadani/bff/versions/0.11.5</link>
-    <description>Spec-driven GraphQL API fronting real REST backends</description>
-    <pubDate>Wed, 26 Aug 2026 02:38:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.366</guid>
-    <title>[org.replikativ/raster &quot;0.2.366&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.366</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Wed, 26 Aug 2026 02:12:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.vaelii/sqlite/versions/0.13.0</guid>
-    <title>[com.vaelii/sqlite &quot;0.13.0&quot;]</title>
-    <link>https://clojars.org/com.vaelii/sqlite/versions/0.13.0</link>
-    <description>SQLite targets for vaelii&#39;s storage seams. The first is the
-                snapshot sink (vaelii.sqlite.snapshot): a SnapshotSink /
-                SnapshotSource over a single SQLite file, so a KB image — the index
-                projection today, any of io.snapshot&#39;s named sections — lands in a
-                zero-configuration file as a few bulk transactions and reads back
-                the same way. An Apache-2.0 adapter on the SSPL engine, depending on
-                core, never depended on by it.</description>
-    <pubDate>Wed, 26 Aug 2026 02:04:01 +0000</pubDate>
   </item>
   </channel>
 </rss>
