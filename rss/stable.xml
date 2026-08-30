@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 30 Aug 2026 04:03:35 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 30 Aug 2026 05:02:53 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.414</guid>
+    <title>[org.replikativ/raster &quot;0.2.414&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.414</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Sun, 30 Aug 2026 04:58:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/kabel/versions/0.3.111</guid>
+    <title>[org.replikativ/kabel &quot;0.3.111&quot;]</title>
+    <link>https://clojars.org/org.replikativ/kabel/versions/0.3.111</link>
+    <description>A library for simple wire-like connectivity semantics.</description>
+    <pubDate>Sun, 30 Aug 2026 04:37:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1861</guid>
+    <title>[org.replikativ/datahike-http-server &quot;0.8.1861&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1861</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Sun, 30 Aug 2026 04:35:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1861</guid>
+    <title>[org.replikativ/datahike &quot;0.8.1861&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1861</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Sun, 30 Aug 2026 04:34:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-cljs/versions/0.2.8</guid>
+    <title>[io.github.hive-agi/hive-cljs &quot;0.2.8&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-cljs/versions/0.2.8</link>
+    <description></description>
+    <pubDate>Sun, 30 Aug 2026 04:31:24 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/kabel/versions/0.3.110</guid>
     <title>[org.replikativ/kabel &quot;0.3.110&quot;]</title>
@@ -1764,41 +1799,6 @@
     <link>https://clojars.org/org.replikativ/raster/versions/0.2.386</link>
     <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
     <pubDate>Thu, 27 Aug 2026 06:01:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/duckdb-clj/versions/0.5.0</guid>
-    <title>[net.clojars.savya/duckdb-clj &quot;0.5.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/duckdb-clj/versions/0.5.0</link>
-    <description>DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.</description>
-    <pubDate>Thu, 27 Aug 2026 05:48:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/beckon/versions/0.5.0</guid>
-    <title>[net.clojars.savya/beckon &quot;0.5.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/beckon/versions/0.5.0</link>
-    <description>Manage POSIX signals from Clojure via a small sun.misc.Signal backend.</description>
-    <pubDate>Thu, 27 Aug 2026 05:45:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.4.0</guid>
-    <title>[net.clojars.savya/chunk-clj &quot;0.4.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.4.0</link>
-    <description>Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.</description>
-    <pubDate>Thu, 27 Aug 2026 05:45:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.hden/ulid/versions/0.1.0</guid>
-    <title>[com.github.hden/ulid &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/com.github.hden/ulid/versions/0.1.0</link>
-    <description>A small monotonic ULID generator for Clojure</description>
-    <pubDate>Thu, 27 Aug 2026 05:38:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/dogstatsd/versions/0.6.0</guid>
-    <title>[net.clojars.savya/dogstatsd &quot;0.6.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/dogstatsd/versions/0.6.0</link>
-    <description>Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).</description>
-    <pubDate>Thu, 27 Aug 2026 05:37:55 +0000</pubDate>
   </item>
   </channel>
 </rss>
