@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 30 Aug 2026 03:04:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 30 Aug 2026 04:03:35 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/kabel/versions/0.3.110</guid>
+    <title>[org.replikativ/kabel &quot;0.3.110&quot;]</title>
+    <link>https://clojars.org/org.replikativ/kabel/versions/0.3.110</link>
+    <description>A library for simple wire-like connectivity semantics.</description>
+    <pubDate>Sun, 30 Aug 2026 04:01:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-gcs/versions/0.1.19</guid>
+    <title>[org.replikativ/konserve-gcs &quot;0.1.19&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-gcs/versions/0.1.19</link>
+    <description>Konserve GCS Backend</description>
+    <pubDate>Sun, 30 Aug 2026 03:59:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-azure-blob/versions/0.1.5</guid>
+    <title>[org.replikativ/konserve-azure-blob &quot;0.1.5&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-azure-blob/versions/0.1.5</link>
+    <description>Azure Blob Storage backend for konserve</description>
+    <pubDate>Sun, 30 Aug 2026 03:59:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-milvus/versions/0.4.13</guid>
+    <title>[io.github.hive-agi/hive-milvus &quot;0.4.13&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-milvus/versions/0.4.13</link>
+    <description></description>
+    <pubDate>Sun, 30 Aug 2026 03:21:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.413</guid>
+    <title>[org.replikativ/raster &quot;0.2.413&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.413</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Sun, 30 Aug 2026 03:07:00 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1858</guid>
     <title>[org.replikativ/datahike-http-server &quot;0.8.1858&quot;]</title>
@@ -1764,41 +1799,6 @@
     <link>https://clojars.org/net.clojars.savya/dogstatsd/versions/0.6.0</link>
     <description>Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).</description>
     <pubDate>Thu, 27 Aug 2026 05:37:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/tokenizers-clj/versions/0.6.0</guid>
-    <title>[net.clojars.savya/tokenizers-clj &quot;0.6.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/tokenizers-clj/versions/0.6.0</link>
-    <description>Idiomatic Clojure wrapper over DJL&#39;s HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.</description>
-    <pubDate>Thu, 27 Aug 2026 05:37:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/vector-search-clj/versions/0.5.0</guid>
-    <title>[net.clojars.savya/vector-search-clj &quot;0.5.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/vector-search-clj/versions/0.5.0</link>
-    <description>Embedded approximate-nearest-neighbor vector search for Clojure: an in-process ANN index.</description>
-    <pubDate>Thu, 27 Aug 2026 05:36:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.19.0</guid>
-    <title>[net.clojars.savya/openai-clj &quot;0.19.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.19.0</link>
-    <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
-    <pubDate>Thu, 27 Aug 2026 05:32:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.0</guid>
-    <title>[net.clojars.savya/psql-clj &quot;2.4.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.0</link>
-    <description>PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.</description>
-    <pubDate>Thu, 27 Aug 2026 05:16:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.22</guid>
-    <title>[org.replikativ/pretrained-rstr &quot;0.1.22&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.22</link>
-    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
-    <pubDate>Thu, 27 Aug 2026 04:18:22 +0000</pubDate>
   </item>
   </channel>
 </rss>
