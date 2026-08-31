@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 31 Aug 2026 07:09:56 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 08:05:05 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/svar/versions/0.7.149</guid>
+    <title>[com.blockether/svar &quot;0.7.149&quot;]</title>
+    <link>https://clojars.org/com.blockether/svar/versions/0.7.149</link>
+    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
+    <pubDate>Mon, 31 Aug 2026 07:26:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.45</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.45&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.45</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Mon, 31 Aug 2026 07:23:55 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.factorhouse/slipway-jetty12/versions/2.1.1</guid>
     <title>[io.factorhouse/slipway-jetty12 &quot;2.1.1&quot;]</title>
@@ -1790,20 +1804,6 @@
     <link>https://clojars.org/org.replikativ/konserve/versions/0.9.386</link>
     <description>Durable cross-platform key-value store protocol with core.async.</description>
     <pubDate>Fri, 28 Aug 2026 02:15:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.5.144</guid>
-    <title>[org.replikativ/persistent-sorted-set &quot;0.5.144&quot;]</title>
-    <link>https://clojars.org/org.replikativ/persistent-sorted-set/versions/0.5.144</link>
-    <description>A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.</description>
-    <pubDate>Fri, 28 Aug 2026 02:15:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/incognito/versions/0.3.71</guid>
-    <title>[org.replikativ/incognito &quot;0.3.71&quot;]</title>
-    <link>https://clojars.org/org.replikativ/incognito/versions/0.3.71</link>
-    <description>Safe transport of unknown record types in distributed systems.</description>
-    <pubDate>Fri, 28 Aug 2026 02:14:11 +0000</pubDate>
   </item>
   </channel>
 </rss>
