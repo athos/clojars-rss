@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 31 Aug 2026 20:03:08 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 21:02:49 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.436</guid>
+    <title>[org.replikativ/raster &quot;0.2.436&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.436</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Mon, 31 Aug 2026 21:02:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/skjema/versions/0.1.0</guid>
+    <title>[com.blockether/skjema &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.blockether/skjema/versions/0.1.0</link>
+    <description>JSON Schema 2020-12 validation for Clojure. No dependencies, no reflection, native-image safe.</description>
+    <pubDate>Mon, 31 Aug 2026 20:50:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/stratum/versions/0.3.84</guid>
+    <title>[org.replikativ/stratum &quot;0.3.84&quot;]</title>
+    <link>https://clojars.org/org.replikativ/stratum/versions/0.3.84</link>
+    <description>SIMD-accelerated columnar analytics for the JVM</description>
+    <pubDate>Mon, 31 Aug 2026 20:35:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.32.0</guid>
+    <title>[net.clojars.savya/anthropic-clj &quot;0.32.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.32.0</link>
+    <description>Idiomatic Clojure wrapper over the official Anthropic Java SDK</description>
+    <pubDate>Mon, 31 Aug 2026 20:32:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.8.0</guid>
+    <title>[net.clojars.savya/chunk-clj &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.8.0</link>
+    <description>Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.</description>
+    <pubDate>Mon, 31 Aug 2026 20:32:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/duckdb-clj/versions/0.9.0</guid>
+    <title>[net.clojars.savya/duckdb-clj &quot;0.9.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/duckdb-clj/versions/0.9.0</link>
+    <description>DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.</description>
+    <pubDate>Mon, 31 Aug 2026 20:32:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.27</guid>
+    <title>[org.replikativ/pretrained-rstr &quot;0.1.27&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.27</link>
+    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
+    <pubDate>Mon, 31 Aug 2026 20:21:45 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.21.0</guid>
     <title>[net.clojars.savya/openai-clj &quot;0.21.0&quot;]</title>
@@ -1755,55 +1804,6 @@
     <link>https://clojars.org/com.github.gateless/futurama/versions/1.5.0</link>
     <description></description>
     <pubDate>Fri, 28 Aug 2026 21:34:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-claude/versions/0.1.14</guid>
-    <title>[io.github.hive-agi/hive-claude &quot;0.1.14&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-claude/versions/0.1.14</link>
-    <description></description>
-    <pubDate>Fri, 28 Aug 2026 21:17:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.54</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.54&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.54</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Fri, 28 Aug 2026 21:00:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve/versions/0.9.389</guid>
-    <title>[org.replikativ/konserve &quot;0.9.389&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve/versions/0.9.389</link>
-    <description>Durable cross-platform key-value store protocol with core.async.</description>
-    <pubDate>Fri, 28 Aug 2026 20:30:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang/lein-template.jank/versions/2026.08-1</guid>
-    <title>[org.jank-lang/lein-template.jank &quot;2026.08-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang/lein-template.jank/versions/2026.08-1</link>
-    <description></description>
-    <pubDate>Fri, 28 Aug 2026 20:23:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang/lein-jank/versions/2026.08-1</guid>
-    <title>[org.jank-lang/lein-jank &quot;2026.08-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang/lein-jank/versions/2026.08-1</link>
-    <description>Build your jank projects using Leiningen.</description>
-    <pubDate>Fri, 28 Aug 2026 20:23:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.407</guid>
-    <title>[org.replikativ/raster &quot;0.2.407&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.407</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Fri, 28 Aug 2026 20:17:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/background/versions/2.0.0-rc21</guid>
-    <title>[com.biffweb/background &quot;2.0.0-rc21&quot;]</title>
-    <link>https://clojars.org/com.biffweb/background/versions/2.0.0-rc21</link>
-    <description></description>
-    <pubDate>Fri, 28 Aug 2026 19:45:04 +0000</pubDate>
   </item>
   </channel>
 </rss>
