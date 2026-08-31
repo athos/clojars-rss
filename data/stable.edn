@@ -1,4 +1,3 @@
-{:created 1787883234364, :description "Konserve GCS Backend", :group_name "org.replikativ", :jar_name "konserve-gcs", :version "0.1.18"}
 {:created 1787883251878, :description "Safe transport of unknown record types in distributed systems.", :group_name "org.replikativ", :jar_name "incognito", :version "0.3.71"}
 {:created 1787883331713, :description "A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.", :group_name "org.replikativ", :jar_name "persistent-sorted-set", :version "0.5.144"}
 {:created 1787883358487, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.386"}
@@ -254,3 +253,4 @@
 {:created 1788154065413, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.4.1"}
 {:created 1788154076405, :description "PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.", :group_name "net.clojars.savya", :jar_name "psql-clj-gis", :version "3.0.0"}
 {:created 1788154088367, :description "AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.", :group_name "net.clojars.savya", :jar_name "psql-clj-aws", :version "3.0.0"}
+{:created 1788158961527, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.1.1"}
