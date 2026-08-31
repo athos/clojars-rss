@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 31 Aug 2026 04:04:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 05:03:33 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.44</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.44&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.44</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Mon, 31 Aug 2026 04:43:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/kabel/versions/0.3.124</guid>
+    <title>[org.replikativ/kabel &quot;0.3.124&quot;]</title>
+    <link>https://clojars.org/org.replikativ/kabel/versions/0.3.124</link>
+    <description>A library for simple wire-like connectivity semantics.</description>
+    <pubDate>Mon, 31 Aug 2026 04:13:35 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.github.clojure-finance/datajure/versions/2.7.4</guid>
     <title>[com.github.clojure-finance/datajure &quot;2.7.4&quot;]</title>
@@ -1790,20 +1804,6 @@
     <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.159</link>
     <description></description>
     <pubDate>Fri, 28 Aug 2026 02:02:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/scriptum/versions/0.1.31</guid>
-    <title>[org.replikativ/scriptum &quot;0.1.31&quot;]</title>
-    <link>https://clojars.org/org.replikativ/scriptum/versions/0.1.31</link>
-    <description>Copy-on-write branching for Apache Lucene with Git-like semantics</description>
-    <pubDate>Fri, 28 Aug 2026 01:58:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/beckon-ffm/versions/0.5.0</guid>
-    <title>[net.clojars.savya/beckon-ffm &quot;0.5.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/beckon-ffm/versions/0.5.0</link>
-    <description>Experimental Foreign Function &amp; Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.</description>
-    <pubDate>Fri, 28 Aug 2026 01:05:38 +0000</pubDate>
   </item>
   </channel>
 </rss>
