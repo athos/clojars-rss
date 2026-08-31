@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 31 Aug 2026 05:03:33 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 06:07:33 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/net.clojars.lacinia-dev/lacinia-graphql/versions/1.3.0-SNAPSHOT</guid>
+    <title>[net.clojars.lacinia-dev/lacinia-graphql &quot;1.3.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/net.clojars.lacinia-dev/lacinia-graphql/versions/1.3.0-SNAPSHOT</link>
+    <description></description>
+    <pubDate>Mon, 31 Aug 2026 05:51:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.0</guid>
+    <title>[net.clojars.savya/psql-clj-aws &quot;3.0.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.0</link>
+    <description>AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.</description>
+    <pubDate>Mon, 31 Aug 2026 05:28:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj-gis/versions/3.0.0</guid>
+    <title>[net.clojars.savya/psql-clj-gis &quot;3.0.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj-gis/versions/3.0.0</link>
+    <description>PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.</description>
+    <pubDate>Mon, 31 Aug 2026 05:27:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.1</guid>
+    <title>[net.clojars.savya/psql-clj &quot;2.4.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.1</link>
+    <description>PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.</description>
+    <pubDate>Mon, 31 Aug 2026 05:27:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/vector-search-clj/versions/0.8.0</guid>
+    <title>[net.clojars.savya/vector-search-clj &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/vector-search-clj/versions/0.8.0</link>
+    <description>Embedded approximate-nearest-neighbor vector search for Clojure: an in-process ANN index.</description>
+    <pubDate>Mon, 31 Aug 2026 05:25:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.20.0</guid>
+    <title>[net.clojars.savya/openai-clj &quot;0.20.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.20.0</link>
+    <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
+    <pubDate>Mon, 31 Aug 2026 05:25:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20260831-051136.1da61c61</guid>
+    <title>[org.akvo.flow/akvo-flow &quot;20260831-051136.1da61c61&quot;]</title>
+    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20260831-051136.1da61c61</link>
+    <description></description>
+    <pubDate>Mon, 31 Aug 2026 05:12:06 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.44</guid>
     <title>[com.blockether/lanterna &quot;3.1.5-vis.44&quot;]</title>
@@ -1755,55 +1804,6 @@
     <link>https://clojars.org/com.monkeyci/common/versions/0.27.2</link>
     <description></description>
     <pubDate>Fri, 28 Aug 2026 07:29:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyprojects/mailman-nats/versions/0.4.2</guid>
-    <title>[com.monkeyprojects/mailman-nats &quot;0.4.2&quot;]</title>
-    <link>https://clojars.org/com.monkeyprojects/mailman-nats/versions/0.4.2</link>
-    <description></description>
-    <pubDate>Fri, 28 Aug 2026 07:14:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyprojects/mailman-jms/versions/0.4.2</guid>
-    <title>[com.monkeyprojects/mailman-jms &quot;0.4.2&quot;]</title>
-    <link>https://clojars.org/com.monkeyprojects/mailman-jms/versions/0.4.2</link>
-    <description></description>
-    <pubDate>Fri, 28 Aug 2026 07:14:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyprojects/mailman-sieppari/versions/0.4.2</guid>
-    <title>[com.monkeyprojects/mailman-sieppari &quot;0.4.2&quot;]</title>
-    <link>https://clojars.org/com.monkeyprojects/mailman-sieppari/versions/0.4.2</link>
-    <description></description>
-    <pubDate>Fri, 28 Aug 2026 07:13:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyprojects/mailman-pedestal/versions/0.4.2</guid>
-    <title>[com.monkeyprojects/mailman-pedestal &quot;0.4.2&quot;]</title>
-    <link>https://clojars.org/com.monkeyprojects/mailman-pedestal/versions/0.4.2</link>
-    <description></description>
-    <pubDate>Fri, 28 Aug 2026 07:13:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyprojects/mailman-manifold/versions/0.4.2</guid>
-    <title>[com.monkeyprojects/mailman-manifold &quot;0.4.2&quot;]</title>
-    <link>https://clojars.org/com.monkeyprojects/mailman-manifold/versions/0.4.2</link>
-    <description></description>
-    <pubDate>Fri, 28 Aug 2026 07:13:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyprojects/mailman-core-async/versions/0.4.2</guid>
-    <title>[com.monkeyprojects/mailman-core-async &quot;0.4.2&quot;]</title>
-    <link>https://clojars.org/com.monkeyprojects/mailman-core-async/versions/0.4.2</link>
-    <description></description>
-    <pubDate>Fri, 28 Aug 2026 07:13:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.monkeyprojects/mailman-core/versions/0.4.2</guid>
-    <title>[com.monkeyprojects/mailman-core &quot;0.4.2&quot;]</title>
-    <link>https://clojars.org/com.monkeyprojects/mailman-core/versions/0.4.2</link>
-    <description></description>
-    <pubDate>Fri, 28 Aug 2026 07:10:10 +0000</pubDate>
   </item>
   </channel>
 </rss>
