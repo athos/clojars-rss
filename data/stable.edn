@@ -1,9 +1,3 @@
-{:created 1787878590592, :description "Manage POSIX signals from Clojure via a small sun.misc.Signal backend.", :group_name "net.clojars.savya", :jar_name "beckon", :version "0.7.0"}
-{:created 1787878643371, :description "DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.", :group_name "net.clojars.savya", :jar_name "duckdb-clj", :version "0.7.0"}
-{:created 1787879015920, :description "Idiomatic Clojure graph library backed by JGraphT: fast algorithms over Clojure-value vertices", :group_name "net.clojars.savya", :jar_name "cljgrapht", :version "1.3.0"}
-{:created 1787879029853, :description "Idiomatic Clojure wrapper over DJL's HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.", :group_name "net.clojars.savya", :jar_name "tokenizers-clj", :version "0.9.0"}
-{:created 1787879033804, :description "Idiomatic Clojure wrapper for the XChart charting library.", :group_name "net.clojars.savya", :jar_name "clj-xchart", :version "0.6.0"}
-{:created 1787879041514, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "1.13.0"}
 {:created 1787879138834, :description "Experimental Foreign Function & Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.", :group_name "net.clojars.savya", :jar_name "beckon-ffm", :version "0.5.0"}
 {:created 1787882310583, :description "Copy-on-write branching for Apache Lucene with Git-like semantics", :group_name "org.replikativ", :jar_name "scriptum", :version "0.1.31"}
 {:created 1787882563395, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.159"}
@@ -254,3 +248,9 @@
 {:created 1788136610545, :description "Idiomatic Clojure JOSE: JWS, JWE, JWK/JWKS, and JWT (signed, encrypted, nested) over Nimbus JOSE+JWT.", :group_name "net.clojars.savya", :jar_name "jose-clj", :version "0.9.0"}
 {:created 1788136667602, :description nil, :group_name "net.clojars.savya", :jar_name "buddy-auth", :version "6.0.0"}
 {:created 1788143236030, :description nil, :group_name "org.akvo.flow", :jar_name "akvo-flow", :version "20260831-022648.ce32e8b3"}
+{:created 1788147362541, :description "Native dependency of Datalevin on Apple Silicon", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-arm64", :version "0.19.4"}
+{:created 1788147488427, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "0.19.4"}
+{:created 1788147550146, :description "Native dependency of Datalevin database on Windows", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-windows-x86_64", :version "0.19.4"}
+{:created 1788147562362, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.421"}
+{:created 1788147589261, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "0.19.4"}
+{:created 1788147674980, :description "Clojure data manipulation DSL built on tech.ml.dataset", :group_name "com.github.clojure-finance", :jar_name "datajure", :version "2.7.4"}
