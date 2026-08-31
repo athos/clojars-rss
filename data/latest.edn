@@ -1,26 +1,3 @@
-{:created 1787878643371, :description "DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.", :group_name "net.clojars.savya", :jar_name "duckdb-clj", :version "0.7.0"}
-{:created 1787879015920, :description "Idiomatic Clojure graph library backed by JGraphT: fast algorithms over Clojure-value vertices", :group_name "net.clojars.savya", :jar_name "cljgrapht", :version "1.3.0"}
-{:created 1787879029853, :description "Idiomatic Clojure wrapper over DJL's HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.", :group_name "net.clojars.savya", :jar_name "tokenizers-clj", :version "0.9.0"}
-{:created 1787879033804, :description "Idiomatic Clojure wrapper for the XChart charting library.", :group_name "net.clojars.savya", :jar_name "clj-xchart", :version "0.6.0"}
-{:created 1787879041514, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "1.13.0"}
-{:created 1787879138834, :description "Experimental Foreign Function & Memory signal backends for beckon: Linux signalfd and macOS/BSD kqueue.", :group_name "net.clojars.savya", :jar_name "beckon-ffm", :version "0.5.0"}
-{:created 1787882310583, :description "Copy-on-write branching for Apache Lucene with Git-like semantics", :group_name "org.replikativ", :jar_name "scriptum", :version "0.1.31"}
-{:created 1787882563395, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.159"}
-{:created 1787882592202, :description "Persistent vector database with version control for the JVM", :group_name "org.replikativ", :jar_name "proximum", :version "0.1.37"}
-{:created 1787882619198, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.4-SNAPSHOT"}
-{:created 1787882650629, :description "LangChain4j EmbeddingStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-langchain4j", :version "0.1.37"}
-{:created 1787882656464, :description "Spring AI VectorStore adapter for proximum", :group_name "org.replikativ", :jar_name "proximum-spring-ai", :version "0.1.37"}
-{:created 1787883086705, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.26"}
-{:created 1787883166494, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.398"}
-{:created 1787883234364, :description "Konserve GCS Backend", :group_name "org.replikativ", :jar_name "konserve-gcs", :version "0.1.18"}
-{:created 1787883251878, :description "Safe transport of unknown record types in distributed systems.", :group_name "org.replikativ", :jar_name "incognito", :version "0.3.71"}
-{:created 1787883331713, :description "A B-tree based persistent sorted set for Clojure and ClojureScript. Supports transients, custom comparators, fast iteration, efficient slices and reverse slices.", :group_name "org.replikativ", :jar_name "persistent-sorted-set", :version "0.5.144"}
-{:created 1787883358487, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.386"}
-{:created 1787883364409, :description "Konserve S3 Backend", :group_name "org.replikativ", :jar_name "konserve-s3", :version "0.1.39"}
-{:created 1787883373594, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1821"}
-{:created 1787885504616, :description "A library to consistently crypto-hash edn data structures on Clojure and ClojureScript with SHA-512", :group_name "org.replikativ", :jar_name "hasch", :version "0.4.104"}
-{:created 1787885617589, :description "Durable cross-platform key-value store protocol with core.async.", :group_name "org.replikativ", :jar_name "konserve", :version "0.9.387"}
-{:created 1787889645045, :description "SIMD-accelerated columnar analytics for the JVM", :group_name "org.replikativ", :jar_name "stratum", :version "0.3.83"}
 {:created 1787889864696, :description "Spec-driven GraphQL API fronting real REST backends", :group_name "io.github.rthadani", :jar_name "bff", :version "0.13.1"}
 {:created 1787892215863, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.48"}
 {:created 1787892686422, :description "Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.", :group_name "net.clojars.savya", :jar_name "chunk-clj", :version "0.7.0"}
@@ -254,3 +231,26 @@
 {:created 1788124223681, :description "Async query and data fetching extension for relm", :group_name "io.github.conjurernix", :jar_name "relm.query", :version "0.1.0-alpha5"}
 {:created 1788124232139, :description "Reitit router integration for relm", :group_name "io.github.conjurernix", :jar_name "relm.reitit", :version "0.1.0-alpha5"}
 {:created 1788128165018, :description "Helper pack for core.async", :group_name "jtk-dvlp", :jar_name "core.async-helpers", :version "3.6.1"}
+{:created 1788133418837, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.19.1"}
+{:created 1788133429667, :description "Idiomatic Clojure wrapper for the XChart charting library.", :group_name "net.clojars.savya", :jar_name "clj-xchart", :version "0.6.1"}
+{:created 1788133454354, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "1.13.1"}
+{:created 1788133483468, :description "A Clojure library for the Apache Kafka distributed streaming platform.", :group_name "net.clojars.savya", :jar_name "jackdaw", :version "1.4.1"}
+{:created 1788133677119, :description nil, :group_name "com.biffweb", :jar_name "stuff", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133686826, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133696035, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133705353, :description nil, :group_name "com.biffweb", :jar_name "fx", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133714606, :description nil, :group_name "com.biffweb", :jar_name "graph", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133723917, :description nil, :group_name "com.biffweb", :jar_name "sqlite", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133724874, :description "Idiomatic Clojure wrapper over DJL's HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.", :group_name "net.clojars.savya", :jar_name "tokenizers-clj", :version "0.11.0"}
+{:created 1788133733790, :description nil, :group_name "com.biffweb", :jar_name "xtdb", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133744011, :description nil, :group_name "com.biffweb", :jar_name "ring", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133753444, :description nil, :group_name "com.biffweb", :jar_name "datastar", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133762808, :description nil, :group_name "com.biffweb", :jar_name "run", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133772249, :description nil, :group_name "com.biffweb", :jar_name "tasks", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133781432, :description nil, :group_name "com.biffweb", :jar_name "background", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133790777, :description nil, :group_name "com.biffweb", :jar_name "authenticate", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133800121, :description nil, :group_name "com.biffweb", :jar_name "admin", :version "2.0.0-rc24-SNAPSHOT"}
+{:created 1788133907285, :description "Local text-embedding inference for Clojure: run sentence-transformers ONNX models in-process.", :group_name "net.clojars.savya", :jar_name "embeddings-clj", :version "0.7.0"}
+{:created 1788133939278, :description nil, :group_name "io.github.buddhilw", :jar_name "monero-store", :version "0.7.0"}
+{:created 1788133983239, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260830.235226.58b1b82"}
+{:created 1788134043434, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260830.235350.8db5384"}
