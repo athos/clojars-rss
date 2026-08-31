@@ -4,7 +4,14 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 31 Aug 2026 10:03:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 11:02:46 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.49</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.49&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.49</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Mon, 31 Aug 2026 10:41:11 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/geheimnis/versions/0.2.39</guid>
     <title>[org.replikativ/geheimnis &quot;0.2.39&quot;]</title>
@@ -1797,13 +1804,6 @@
     <link>https://clojars.org/net.clojars.savya/duckdb-clj/versions/0.8.0</link>
     <description>DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.</description>
     <pubDate>Fri, 28 Aug 2026 04:51:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.7.0</guid>
-    <title>[net.clojars.savya/chunk-clj &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.7.0</link>
-    <description>Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.</description>
-    <pubDate>Fri, 28 Aug 2026 04:51:26 +0000</pubDate>
   </item>
   </channel>
 </rss>
