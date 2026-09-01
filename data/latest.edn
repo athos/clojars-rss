@@ -1,18 +1,3 @@
-{:created 1788032294019, :description nil, :group_name "io.github.buddhilw", :jar_name "monero-store", :version "0.5.4"}
-{:created 1788032298504, :description nil, :group_name "com.biffweb", :jar_name "sqlite", :version "2.0.0-rc22"}
-{:created 1788032306964, :description nil, :group_name "com.biffweb", :jar_name "xtdb", :version "2.0.0-rc22"}
-{:created 1788032314759, :description nil, :group_name "com.biffweb", :jar_name "ring", :version "2.0.0-rc22"}
-{:created 1788032322537, :description nil, :group_name "com.biffweb", :jar_name "datastar", :version "2.0.0-rc22"}
-{:created 1788032330112, :description nil, :group_name "com.biffweb", :jar_name "run", :version "2.0.0-rc22"}
-{:created 1788032338040, :description nil, :group_name "com.biffweb", :jar_name "tasks", :version "2.0.0-rc22"}
-{:created 1788032345692, :description nil, :group_name "com.biffweb", :jar_name "background", :version "2.0.0-rc22"}
-{:created 1788032353267, :description nil, :group_name "com.biffweb", :jar_name "authenticate", :version "2.0.0-rc22"}
-{:created 1788032360791, :description nil, :group_name "com.biffweb", :jar_name "admin", :version "2.0.0-rc22"}
-{:created 1788032368588, :description nil, :group_name "com.biffweb", :jar_name "defaults", :version "2.0.0-rc22"}
-{:created 1788033442253, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1848"}
-{:created 1788035767926, :description "Distributed systems testing framework.", :group_name "jepsen", :jar_name "jepsen", :version "0.3.14-SNAPSHOT"}
-{:created 1788037263327, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1850"}
-{:created 1788037822462, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.61"}
 {:created 1788041602896, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.410"}
 {:created 1788042080790, :description nil, :group_name "com.biffweb", :jar_name "stuff", :version "2.0.0-rc23"}
 {:created 1788042088494, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.0-rc23"}
@@ -254,3 +239,18 @@
 {:created 1788282476865, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.495"}
 {:created 1788284185624, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.35"}
 {:created 1788284780738, :description "Replikativ compatibility distribution of SCI with forkable interpreter worlds", :group_name "org.replikativ", :jar_name "sci", :version "0.15.59-replikativ.1"}
+{:created 1788287598829, :description "Raw package for glfw3.", :group_name "org.jank-lang.commons", :jar_name "glfw-sys", :version "2026.09-1"}
+{:created 1788287613021, :description "Raw package for Dear ImGUI GLFW platform backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-glfw-sys", :version "2026.09-1"}
+{:created 1788287627625, :description "Raw package for box2d.", :group_name "org.jank-lang.commons", :jar_name "box2d-sys", :version "2026.09-1"}
+{:created 1788287640456, :description "Raw package for OpenGL.", :group_name "org.jank-lang.commons", :jar_name "gl-sys", :version "2026.09-1"}
+{:created 1788287654190, :description "Raw package for Dear ImGUI.", :group_name "org.jank-lang.commons", :jar_name "imgui-sys", :version "2026.09-1"}
+{:created 1788287667063, :description "Raw package for sqlite3.", :group_name "org.jank-lang.commons", :jar_name "sqlite3-sys", :version "2026.09-1"}
+{:created 1788287681189, :description "Raw package for Dear ImGUI OpenGL2 renderer backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-opengl2-sys", :version "2026.09-1"}
+{:created 1788287695094, :description "Raw package for box3d.", :group_name "org.jank-lang.commons", :jar_name "box3d-sys", :version "2026.09-1"}
+{:created 1788287709011, :description "Raw package for raylib.", :group_name "org.jank-lang.commons", :jar_name "raylib-sys", :version "2026.09-1"}
+{:created 1788287722391, :description "Raw package for FTXUI.", :group_name "org.jank-lang.commons", :jar_name "ftxui-sys", :version "2026.09-1"}
+{:created 1788288600373, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.500"}
+{:created 1788288906171, :description "Vaelii — a contextualized common-sense knowledge base with a\n                count-aware trie index, forward/backward inference,\n                and JTMS truth maintenance, over an in-memory or on-disk store.", :group_name "com.vaelii", :jar_name "vaelii", :version "0.15.0"}
+{:created 1788288945302, :description "Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and\n                ATOMIC, each translated into one corpus format, discovered through\n                vaelii's plugin seam.", :group_name "com.vaelii", :jar_name "vaelii-foreign", :version "0.15.0"}
+{:created 1788288996125, :description "Postgres targets for vaelii's storage seams, in two independent\n                lanes. The record store (vaelii.postgres.record-store) puts a KB's\n                durable ground truth in a database — core selects it as :pg-memory\n                or :pg-disk-log — with COPY on the bulk path, a fetch LRU in front of a\n                round-trip point read, and cursor-streamed enumerations. The\n                snapshot sink (vaelii.postgres.snapshot) is a SnapshotSink /\n                SnapshotSource, so a KB image — the index projection today, any of\n                io.snapshot's named sections — lands in a database as a few bulk\n                transactions and reads back the same way. An Apache-2.0 adapter on\n                the SSPL engine, depending on core, never depended on by it.", :group_name "com.vaelii", :jar_name "postgres", :version "0.15.0"}
+{:created 1788289033360, :description "SQLite targets for vaelii's storage seams. The first is the\n                snapshot sink (vaelii.sqlite.snapshot): a SnapshotSink /\n                SnapshotSource over a single SQLite file, so a KB image — the index\n                projection today, any of io.snapshot's named sections — lands in a\n                zero-configuration file as a few bulk transactions and reads back\n                the same way. An Apache-2.0 adapter on the SSPL engine, depending on\n                core, never depended on by it.", :group_name "com.vaelii", :jar_name "sqlite", :version "0.15.0"}
