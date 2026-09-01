@@ -1,6 +1,3 @@
-{:created 1787984693500, :description "A 0-dependency Clojure library for parsing and generating Structured Field Values for HTTP (RFC 9651/8941)", :group_name "com.outskirtslabs", :jar_name "sfv", :version "0.2.0"}
-{:created 1787984853512, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1840"}
-{:created 1787990297126, :description "A generic JDBC backend for konserve.", :group_name "org.replikativ", :jar_name "konserve-jdbc", :version "0.2.101"}
 {:created 1787990325342, :description "Konserve S3 Backend", :group_name "org.replikativ", :jar_name "konserve-s3", :version "0.1.42"}
 {:created 1787990395601, :description "A library and microservice implementing the health and care terminology SNOMED CT with support for cross-maps, inference, fast full-text search, autocompletion, compositional grammar and the expression constraint language.", :group_name "com.eldrix", :jar_name "hermes", :version "1.4.1627"}
 {:created 1787991639956, :description "Surface syntax for Clojure — bidirectional renderer for readable code exposition", :group_name "org.replikativ", :jar_name "superficie", :version "0.2.30"}
@@ -254,3 +251,6 @@
 {:created 1788249525667, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.459"}
 {:created 1788249874067, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.164"}
 {:created 1788249882032, :description "JSON Schema 2020-12 validation for Clojure.", :group_name "com.blockether", :jar_name "skjema", :version "0.3.0"}
+{:created 1788250776112, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.32"}
+{:created 1788251919663, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.464"}
+{:created 1788252800007, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.166"}
