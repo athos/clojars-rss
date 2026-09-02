@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 2 Sep 2026 22:03:04 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 2 Sep 2026 23:02:44 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.538</guid>
+    <title>[org.replikativ/raster &quot;0.2.538&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.538</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Wed, 2 Sep 2026 23:00:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.chaploud/pgmalli/versions/0.2.42</guid>
+    <title>[io.github.chaploud/pgmalli &quot;0.2.42&quot;]</title>
+    <link>https://clojars.org/io.github.chaploud/pgmalli/versions/0.2.42</link>
+    <description>Generate malli schemas from an applied PostgreSQL schema</description>
+    <pubDate>Wed, 2 Sep 2026 22:24:24 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.535</guid>
     <title>[org.replikativ/raster &quot;0.2.535&quot;]</title>
@@ -1801,20 +1815,6 @@
     <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20260831-051136.1da61c61</link>
     <description></description>
     <pubDate>Mon, 31 Aug 2026 05:12:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.44</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.44&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.44</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
-    <pubDate>Mon, 31 Aug 2026 04:43:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/kabel/versions/0.3.124</guid>
-    <title>[org.replikativ/kabel &quot;0.3.124&quot;]</title>
-    <link>https://clojars.org/org.replikativ/kabel/versions/0.3.124</link>
-    <description>A library for simple wire-like connectivity semantics.</description>
-    <pubDate>Mon, 31 Aug 2026 04:13:35 +0000</pubDate>
   </item>
   </channel>
 </rss>
