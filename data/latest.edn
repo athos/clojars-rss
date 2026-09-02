@@ -1,14 +1,3 @@
-{:created 1788117054171, :description "Idiomatic Clojure JOSE: JWS, JWE, JWK/JWKS, and JWT (signed, encrypted, nested) over Nimbus JOSE+JWT.", :group_name "net.clojars.savya", :jar_name "jose-clj", :version "0.8.0"}
-{:created 1788117088550, :description nil, :group_name "net.clojars.savya", :jar_name "buddy-auth", :version "5.0.0"}
-{:created 1788117115083, :description "Call shell from within Leiningen.", :group_name "net.clojars.savya", :jar_name "lein-shell", :version "1.1.0"}
-{:created 1788122667744, :description "Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.", :group_name "com.blockether", :jar_name "lanterna", :version "3.1.5-vis.43"}
-{:created 1788124206752, :description "Declarative state management for ClojureScript", :group_name "io.github.conjurernix", :jar_name "relm.core", :version "0.1.0-alpha5"}
-{:created 1788124215091, :description "Form state management extension for relm", :group_name "io.github.conjurernix", :jar_name "relm.form", :version "0.1.0-alpha5"}
-{:created 1788124223681, :description "Async query and data fetching extension for relm", :group_name "io.github.conjurernix", :jar_name "relm.query", :version "0.1.0-alpha5"}
-{:created 1788124232139, :description "Reitit router integration for relm", :group_name "io.github.conjurernix", :jar_name "relm.reitit", :version "0.1.0-alpha5"}
-{:created 1788128165018, :description "Helper pack for core.async", :group_name "jtk-dvlp", :jar_name "core.async-helpers", :version "3.6.1"}
-{:created 1788133418837, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.19.1"}
-{:created 1788133429667, :description "Idiomatic Clojure wrapper for the XChart charting library.", :group_name "net.clojars.savya", :jar_name "clj-xchart", :version "0.6.1"}
 {:created 1788133454354, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "1.13.1"}
 {:created 1788133483468, :description "A Clojure library for the Apache Kafka distributed streaming platform.", :group_name "net.clojars.savya", :jar_name "jackdaw", :version "1.4.1"}
 {:created 1788133724874, :description "Idiomatic Clojure wrapper over DJL's HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.", :group_name "net.clojars.savya", :jar_name "tokenizers-clj", :version "0.11.0"}
@@ -254,3 +243,14 @@
 {:created 1788358730820, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-fressian", :version "0.1.3"}
 {:created 1788359166921, :description nil, :group_name "io.github.hive-agi", :jar_name "lsp-mcp", :version "0.6.5"}
 {:created 1788361493042, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.514"}
+{:created 1788361836830, :description "Dynamic MCP servers, agent skills, native functions, HTTP endpoints and A2A agents as one uniform Tool interface, with a built-in tool-calling client loop.", :group_name "net.clojars.muthuishere", :jar_name "toolnexus", :version "0.17.0"}
+{:created 1788362366693, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-tmux", :version "0.1.1"}
+{:created 1788362528781, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-ansatz", :version "0.1.1"}
+{:created 1788362560270, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "0.2.1"}
+{:created 1788362720169, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.515"}
+{:created 1788362797348, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.170"}
+{:created 1788362804277, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-claude", :version "0.1.19"}
+{:created 1788362966605, :description "Port of github.com/clojure/test.check to ClojureCLR", :group_name "org.clojure.clr", :jar_name "test.check", :version "1.1.4"}
+{:created 1788363382791, :description "Port of clojure.org/spec.alpha to ClojureCLR", :group_name "org.clojure.clr", :jar_name "spec.alpha", :version "0.6.250"}
+{:created 1788363823508, :description "Port of clojure.org/core.specs.alpha to ClojureCLR", :group_name "org.clojure.clr", :jar_name "core.specs.alpha", :version "0.5.82"}
+{:created 1788364406767, :description "Shared VaR/beta/regression primitives for tech.ml.dataset + Neanderthal workflows.", :group_name "net.clojars.alex314159", :jar_name "var-techml-neanderthal", :version "0.1.0-SNAPSHOT"}
