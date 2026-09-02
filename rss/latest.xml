@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 2 Sep 2026 16:03:44 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 2 Sep 2026 17:02:43 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.521</guid>
+    <title>[org.replikativ/raster &quot;0.2.521&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.521</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Wed, 2 Sep 2026 17:00:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-events/versions/0.5.10</guid>
+    <title>[io.github.hive-agi/hive-events &quot;0.5.10&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-events/versions/0.5.10</link>
+    <description></description>
+    <pubDate>Wed, 2 Sep 2026 16:50:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.chaploud/pgmalli/versions/0.2.40</guid>
+    <title>[io.github.chaploud/pgmalli &quot;0.2.40&quot;]</title>
+    <link>https://clojars.org/io.github.chaploud/pgmalli/versions/0.2.40</link>
+    <description>Generate malli schemas from an applied PostgreSQL schema</description>
+    <pubDate>Wed, 2 Sep 2026 16:39:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.seancorfield/honeysql/versions/2.7.9999-SNAPSHOT</guid>
+    <title>[com.github.seancorfield/honeysql &quot;2.7.9999-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.seancorfield/honeysql/versions/2.7.9999-SNAPSHOT</link>
+    <description>SQL as Clojure data structures.</description>
+    <pubDate>Wed, 2 Sep 2026 16:37:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.66</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.66&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.66</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Wed, 2 Sep 2026 16:11:52 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/net.clojars.alex314159/var-techml-neanderthal/versions/0.1.0-SNAPSHOT</guid>
     <title>[net.clojars.alex314159/var-techml-neanderthal &quot;0.1.0-SNAPSHOT&quot;]</title>
@@ -1781,41 +1816,6 @@
     <description>Core yetibot utilities, extracted for shared use among yetibot
                 and its various plugins</description>
     <pubDate>Sun, 30 Aug 2026 23:53:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.buddhilw/monero-store/versions/0.7.0</guid>
-    <title>[io.github.buddhilw/monero-store &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/io.github.buddhilw/monero-store/versions/0.7.0</link>
-    <description></description>
-    <pubDate>Sun, 30 Aug 2026 23:52:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/embeddings-clj/versions/0.7.0</guid>
-    <title>[net.clojars.savya/embeddings-clj &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/embeddings-clj/versions/0.7.0</link>
-    <description>Local text-embedding inference for Clojure: run sentence-transformers ONNX models in-process.</description>
-    <pubDate>Sun, 30 Aug 2026 23:51:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/tokenizers-clj/versions/0.11.0</guid>
-    <title>[net.clojars.savya/tokenizers-clj &quot;0.11.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/tokenizers-clj/versions/0.11.0</link>
-    <description>Idiomatic Clojure wrapper over DJL&#39;s HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.</description>
-    <pubDate>Sun, 30 Aug 2026 23:48:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/jackdaw/versions/1.4.1</guid>
-    <title>[net.clojars.savya/jackdaw &quot;1.4.1&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/jackdaw/versions/1.4.1</link>
-    <description>A Clojure library for the Apache Kafka distributed streaming platform.</description>
-    <pubDate>Sun, 30 Aug 2026 23:44:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/pdfplumber-clj/versions/1.13.1</guid>
-    <title>[net.clojars.savya/pdfplumber-clj &quot;1.13.1&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/pdfplumber-clj/versions/1.13.1</link>
-    <description>Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.</description>
-    <pubDate>Sun, 30 Aug 2026 23:44:14 +0000</pubDate>
   </item>
   </channel>
 </rss>
