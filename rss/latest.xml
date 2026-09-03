@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 3 Sep 2026 08:04:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 3 Sep 2026 09:03:44 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.domaindrivenarchitecture/c4k-nextcloud/versions/11.2.1</guid>
+    <title>[org.domaindrivenarchitecture/c4k-nextcloud &quot;11.2.1&quot;]</title>
+    <link>https://clojars.org/org.domaindrivenarchitecture/c4k-nextcloud/versions/11.2.1</link>
+    <description>nextcloud c4k-installation package</description>
+    <pubDate>Thu, 3 Sep 2026 08:43:37 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.datalevin/biff-datalevin/versions/0.2.17</guid>
+    <title>[io.github.datalevin/biff-datalevin &quot;0.2.17&quot;]</title>
+    <link>https://clojars.org/io.github.datalevin/biff-datalevin/versions/0.2.17</link>
+    <description></description>
+    <pubDate>Thu, 3 Sep 2026 08:32:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.171</guid>
+    <title>[org.replikativ/pg-datahike &quot;0.1.171&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.171</link>
+    <description></description>
+    <pubDate>Thu, 3 Sep 2026 08:14:41 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.clojars.simenmorch-mattilsynet/design-kotlin/versions/3.5.0.1282-SNAPSHOT</guid>
     <title>[org.clojars.simenmorch-mattilsynet/design-kotlin &quot;3.5.0.1282-SNAPSHOT&quot;]</title>
@@ -1794,27 +1815,6 @@
     <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.45</link>
     <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
     <pubDate>Mon, 31 Aug 2026 07:23:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.core0/prism/versions/2.1.27-SNAPSHOT</guid>
-    <title>[io.core0/prism &quot;2.1.27-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/io.core0/prism/versions/2.1.27-SNAPSHOT</link>
-    <description>Opinionated library with client namespaces</description>
-    <pubDate>Mon, 31 Aug 2026 07:20:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.core0/slim-build-tools/versions/1.0.0-SNAPSHOT</guid>
-    <title>[io.core0/slim-build-tools &quot;1.0.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/io.core0/slim-build-tools/versions/1.0.0-SNAPSHOT</link>
-    <description>Library for generating slim JARs</description>
-    <pubDate>Mon, 31 Aug 2026 07:19:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.factorhouse/slipway-jetty12/versions/2.1.1</guid>
-    <title>[io.factorhouse/slipway-jetty12 &quot;2.1.1&quot;]</title>
-    <link>https://clojars.org/io.factorhouse/slipway-jetty12/versions/2.1.1</link>
-    <description>A Clojure Companion for Jetty 12.1</description>
-    <pubDate>Mon, 31 Aug 2026 06:49:21 +0000</pubDate>
   </item>
   </channel>
 </rss>
