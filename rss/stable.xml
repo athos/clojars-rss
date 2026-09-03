@@ -4,7 +4,14 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 3 Sep 2026 12:05:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 3 Sep 2026 13:03:07 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/svar/versions/0.7.152</guid>
+    <title>[com.blockether/svar &quot;0.7.152&quot;]</title>
+    <link>https://clojars.org/com.blockether/svar/versions/0.7.152</link>
+    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
+    <pubDate>Thu, 3 Sep 2026 12:19:27 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/kabel/versions/0.3.128</guid>
     <title>[org.replikativ/kabel &quot;0.3.128&quot;]</title>
@@ -1808,13 +1815,6 @@
     <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.47</link>
     <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
     <pubDate>Mon, 31 Aug 2026 09:34:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.babashka/cli/versions/0.12.88</guid>
-    <title>[org.babashka/cli &quot;0.12.88&quot;]</title>
-    <link>https://clojars.org/org.babashka/cli/versions/0.12.88</link>
-    <description>Turn Clojure functions into CLIs!</description>
-    <pubDate>Mon, 31 Aug 2026 09:01:48 +0000</pubDate>
   </item>
   </channel>
 </rss>
