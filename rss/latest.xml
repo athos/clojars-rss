@@ -4,7 +4,35 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 3 Sep 2026 15:03:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 3 Sep 2026 16:03:43 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.jepsen/generator/versions/0.1.4-SNAPSHOT</guid>
+    <title>[io.jepsen/generator &quot;0.1.4-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/io.jepsen/generator/versions/0.1.4-SNAPSHOT</link>
+    <description>Pure functional generators for Jepsen tests</description>
+    <pubDate>Thu, 3 Sep 2026 15:48:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.chaploud/pgmalli/versions/0.2.44</guid>
+    <title>[io.github.chaploud/pgmalli &quot;0.2.44&quot;]</title>
+    <link>https://clojars.org/io.github.chaploud/pgmalli/versions/0.2.44</link>
+    <description>Generate malli schemas from an applied PostgreSQL schema</description>
+    <pubDate>Thu, 3 Sep 2026 15:30:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.bolivier/tram/versions/0.2.0-SNAPSHOT</guid>
+    <title>[org.clojars.bolivier/tram &quot;0.2.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/org.clojars.bolivier/tram/versions/0.2.0-SNAPSHOT</link>
+    <description></description>
+    <pubDate>Thu, 3 Sep 2026 15:24:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/kabel/versions/0.3.129</guid>
+    <title>[org.replikativ/kabel &quot;0.3.129&quot;]</title>
+    <link>https://clojars.org/org.replikativ/kabel/versions/0.3.129</link>
+    <description>A library for simple wire-like connectivity semantics.</description>
+    <pubDate>Thu, 3 Sep 2026 15:09:22 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.hive-agi/hive-mcp/versions/1.0.0</guid>
     <title>[io.github.hive-agi/hive-mcp &quot;1.0.0&quot;]</title>
@@ -1787,34 +1815,6 @@
     <link>https://clojars.org/org.replikativ/stratum/versions/0.3.84</link>
     <description>SIMD-accelerated columnar analytics for the JVM</description>
     <pubDate>Mon, 31 Aug 2026 20:35:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.32.0</guid>
-    <title>[net.clojars.savya/anthropic-clj &quot;0.32.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.32.0</link>
-    <description>Idiomatic Clojure wrapper over the official Anthropic Java SDK</description>
-    <pubDate>Mon, 31 Aug 2026 20:32:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.8.0</guid>
-    <title>[net.clojars.savya/chunk-clj &quot;0.8.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/chunk-clj/versions/0.8.0</link>
-    <description>Recursive text splitting (chunking) for RAG and LLM pipelines: pluggable length (characters or tokens), configurable overlap, and ordered separators.</description>
-    <pubDate>Mon, 31 Aug 2026 20:32:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/duckdb-clj/versions/0.9.0</guid>
-    <title>[net.clojars.savya/duckdb-clj &quot;0.9.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/duckdb-clj/versions/0.9.0</link>
-    <description>DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.</description>
-    <pubDate>Mon, 31 Aug 2026 20:32:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.27</guid>
-    <title>[org.replikativ/pretrained-rstr &quot;0.1.27&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.27</link>
-    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
-    <pubDate>Mon, 31 Aug 2026 20:21:45 +0000</pubDate>
   </item>
   </channel>
 </rss>
