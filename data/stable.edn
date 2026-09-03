@@ -1,4 +1,3 @@
-{:created 1788133429667, :description "Idiomatic Clojure wrapper for the XChart charting library.", :group_name "net.clojars.savya", :jar_name "clj-xchart", :version "0.6.1"}
 {:created 1788133454354, :description "Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.", :group_name "net.clojars.savya", :jar_name "pdfplumber-clj", :version "1.13.1"}
 {:created 1788133483468, :description "A Clojure library for the Apache Kafka distributed streaming platform.", :group_name "net.clojars.savya", :jar_name "jackdaw", :version "1.4.1"}
 {:created 1788133724874, :description "Idiomatic Clojure wrapper over DJL's HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.", :group_name "net.clojars.savya", :jar_name "tokenizers-clj", :version "0.11.0"}
@@ -254,3 +253,4 @@
 {:created 1788396054814, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.41"}
 {:created 1788418250105, :description "A simple, fast and versatile Datalog database", :group_name "datalevin", :jar_name "datalevin", :version "1.1.0"}
 {:created 1788418266859, :description "Embedded-only Datalevin runtime with bundled native libraries and remote client support", :group_name "org.datalevin", :jar_name "datalevin-embedded", :version "1.1.0"}
+{:created 1788420076462, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.151"}
