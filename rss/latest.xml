@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 3 Sep 2026 06:06:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 3 Sep 2026 07:03:50 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.datalevin/datalevin-embedded/versions/1.1.0</guid>
+    <title>[org.datalevin/datalevin-embedded &quot;1.1.0&quot;]</title>
+    <link>https://clojars.org/org.datalevin/datalevin-embedded/versions/1.1.0</link>
+    <description>Embedded-only Datalevin runtime with bundled native libraries and remote client support</description>
+    <pubDate>Thu, 3 Sep 2026 06:51:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/datalevin/versions/1.1.0</guid>
+    <title>[datalevin &quot;1.1.0&quot;]</title>
+    <link>https://clojars.org/datalevin/versions/1.1.0</link>
+    <description>A simple, fast and versatile Datalog database</description>
+    <pubDate>Thu, 3 Sep 2026 06:50:50 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/app.rocksky/sdk/versions/0.11.1-SNAPSHOT</guid>
     <title>[app.rocksky/sdk &quot;0.11.1-SNAPSHOT&quot;]</title>
@@ -1801,20 +1815,6 @@
     <link>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.0</link>
     <description>AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.</description>
     <pubDate>Mon, 31 Aug 2026 05:28:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/psql-clj-gis/versions/3.0.0</guid>
-    <title>[net.clojars.savya/psql-clj-gis &quot;3.0.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/psql-clj-gis/versions/3.0.0</link>
-    <description>PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.</description>
-    <pubDate>Mon, 31 Aug 2026 05:27:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.1</guid>
-    <title>[net.clojars.savya/psql-clj &quot;2.4.1&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.1</link>
-    <description>PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.</description>
-    <pubDate>Mon, 31 Aug 2026 05:27:45 +0000</pubDate>
   </item>
   </channel>
 </rss>
