@@ -4,7 +4,161 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 3 Sep 2026 09:03:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 3 Sep 2026 10:03:20 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-admin/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-admin &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-admin/versions/1.0.0-beta-6</link>
+    <description>Admin interface library for Wagoe framework: auto-CRUD, schema introspection</description>
+    <pubDate>Thu, 3 Sep 2026 10:03:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-calendar/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-calendar &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-calendar/versions/1.0.0-beta-6</link>
+    <description>Calendar and scheduling for Wagoe framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components</description>
+    <pubDate>Thu, 3 Sep 2026 10:02:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-user/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-user &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-user/versions/1.0.0-beta-6</link>
+    <description>User management library for Wagoe framework: authentication, sessions, MFA</description>
+    <pubDate>Thu, 3 Sep 2026 10:01:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-shared-ui/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-shared-ui &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-shared-ui/versions/1.0.0-beta-6</link>
+    <description>Shared UI library for Wagoe framework: layout, components, Hiccup rendering helpers</description>
+    <pubDate>Thu, 3 Sep 2026 10:00:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-ui-style/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-ui-style &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-ui-style/versions/1.0.0-beta-6</link>
+    <description>Shared UI style library for Wagoe framework: CSS/JS bundles and assets</description>
+    <pubDate>Thu, 3 Sep 2026 10:00:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-ai/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-ai &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-ai/versions/1.0.0-beta-6</link>
+    <description>Multi-provider AI library for Wagoe framework: Anthropic, OpenAI, Ollama</description>
+    <pubDate>Thu, 3 Sep 2026 09:59:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-reports/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-reports &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-reports/versions/1.0.0-beta-6</link>
+    <description>PDF and Excel report generation for Wagoe framework: Hiccup templates, declarative sections, async via jobs module</description>
+    <pubDate>Thu, 3 Sep 2026 09:58:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-geo/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-geo &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-geo/versions/1.0.0-beta-6</link>
+    <description>Geocoding abstraction for Wagoe framework: multi-provider geocoding (OSM/Google/Mapbox), DB-backed caching, rate limiting, and Haversine distance calculation</description>
+    <pubDate>Thu, 3 Sep 2026 09:57:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-payments/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-payments &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-payments/versions/1.0.0-beta-6</link>
+    <description>PSP abstraction for Wagoe framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
+    <pubDate>Thu, 3 Sep 2026 09:57:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-email/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-email &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-email/versions/1.0.0-beta-6</link>
+    <description>Email sending library for Wagoe framework: SMTP support, composition, validation</description>
+    <pubDate>Thu, 3 Sep 2026 09:56:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-external/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-external &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-external/versions/1.0.0-beta-6</link>
+    <description>External service adapters library for Wagoe framework</description>
+    <pubDate>Thu, 3 Sep 2026 09:55:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-jobs/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-jobs &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-jobs/versions/1.0.0-beta-6</link>
+    <description>Jobs library for Wagoe framework: background job queuing with in-memory and Redis adapters</description>
+    <pubDate>Thu, 3 Sep 2026 09:54:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-tenant/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-tenant &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-tenant/versions/1.0.0-beta-6</link>
+    <description>Multi-tenancy library for Wagoe framework: schema isolation, tenant resolution, provisioning</description>
+    <pubDate>Thu, 3 Sep 2026 09:53:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-realtime/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-realtime &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-realtime/versions/1.0.0-beta-6</link>
+    <description>Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication</description>
+    <pubDate>Thu, 3 Sep 2026 09:52:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-storage/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-storage &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-storage/versions/1.0.0-beta-6</link>
+    <description>Storage library for Wagoe framework: local filesystem and S3 adapters</description>
+    <pubDate>Thu, 3 Sep 2026 09:51:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-platform/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-platform &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-platform/versions/1.0.0-beta-6</link>
+    <description>Platform library for Wagoe framework: database, HTTP, configuration, modules</description>
+    <pubDate>Thu, 3 Sep 2026 09:50:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-cache/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-cache &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-cache/versions/1.0.0-beta-6</link>
+    <description>Cache library for Wagoe framework: in-memory and Redis cache adapters</description>
+    <pubDate>Thu, 3 Sep 2026 09:49:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-scaffolder/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-scaffolder &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-scaffolder/versions/1.0.0-beta-6</link>
+    <description>Code generation library for Wagoe framework: module scaffolding</description>
+    <pubDate>Thu, 3 Sep 2026 09:48:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-i18n/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-i18n &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-i18n/versions/1.0.0-beta-6</link>
+    <description>Internationalisation (i18n) for Wagoe framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management</description>
+    <pubDate>Thu, 3 Sep 2026 09:48:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-observability/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-observability &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-observability/versions/1.0.0-beta-6</link>
+    <description>Observability library for Wagoe framework: logging, metrics, error reporting</description>
+    <pubDate>Thu, 3 Sep 2026 09:46:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-core/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-core &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-core/versions/1.0.0-beta-6</link>
+    <description>Foundation library for Wagoe framework: validation, utilities, interceptors</description>
+    <pubDate>Thu, 3 Sep 2026 09:45:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-tools/versions/1.0.0-beta-6</guid>
+    <title>[com.wagoe/wagoe-tools &quot;1.0.0-beta-6&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-tools/versions/1.0.0-beta-6</link>
+    <description>Developer tooling for the Wagoe framework: scaffolding, AI assistance, i18n management, deployment and development utilities</description>
+    <pubDate>Thu, 3 Sep 2026 09:44:27 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.domaindrivenarchitecture/c4k-nextcloud/versions/11.2.1</guid>
     <title>[org.domaindrivenarchitecture/c4k-nextcloud &quot;11.2.1&quot;]</title>
@@ -1661,161 +1815,6 @@
     <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.45</link>
     <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
     <pubDate>Mon, 31 Aug 2026 07:23:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.factorhouse/slipway-jetty12/versions/2.1.1</guid>
-    <title>[io.factorhouse/slipway-jetty12 &quot;2.1.1&quot;]</title>
-    <link>https://clojars.org/io.factorhouse/slipway-jetty12/versions/2.1.1</link>
-    <description>A Clojure Companion for Jetty 12.1</description>
-    <pubDate>Mon, 31 Aug 2026 06:49:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.0</guid>
-    <title>[net.clojars.savya/psql-clj-aws &quot;3.0.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.0</link>
-    <description>AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.</description>
-    <pubDate>Mon, 31 Aug 2026 05:28:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/psql-clj-gis/versions/3.0.0</guid>
-    <title>[net.clojars.savya/psql-clj-gis &quot;3.0.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/psql-clj-gis/versions/3.0.0</link>
-    <description>PostGIS geometry and geography support for psql-clj: spatial constructors, GeoJSON coercion, and next.jdbc column/parameter extensions.</description>
-    <pubDate>Mon, 31 Aug 2026 05:27:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.1</guid>
-    <title>[net.clojars.savya/psql-clj &quot;2.4.1&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.1</link>
-    <description>PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.</description>
-    <pubDate>Mon, 31 Aug 2026 05:27:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/vector-search-clj/versions/0.8.0</guid>
-    <title>[net.clojars.savya/vector-search-clj &quot;0.8.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/vector-search-clj/versions/0.8.0</link>
-    <description>Embedded approximate-nearest-neighbor vector search for Clojure: an in-process ANN index.</description>
-    <pubDate>Mon, 31 Aug 2026 05:25:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.20.0</guid>
-    <title>[net.clojars.savya/openai-clj &quot;0.20.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.20.0</link>
-    <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
-    <pubDate>Mon, 31 Aug 2026 05:25:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20260831-051136.1da61c61</guid>
-    <title>[org.akvo.flow/akvo-flow &quot;20260831-051136.1da61c61&quot;]</title>
-    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20260831-051136.1da61c61</link>
-    <description></description>
-    <pubDate>Mon, 31 Aug 2026 05:12:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.44</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.44&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.44</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
-    <pubDate>Mon, 31 Aug 2026 04:43:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/kabel/versions/0.3.124</guid>
-    <title>[org.replikativ/kabel &quot;0.3.124&quot;]</title>
-    <link>https://clojars.org/org.replikativ/kabel/versions/0.3.124</link>
-    <description>A library for simple wire-like connectivity semantics.</description>
-    <pubDate>Mon, 31 Aug 2026 04:13:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.clojure-finance/datajure/versions/2.7.4</guid>
-    <title>[com.github.clojure-finance/datajure &quot;2.7.4&quot;]</title>
-    <link>https://clojars.org/com.github.clojure-finance/datajure/versions/2.7.4</link>
-    <description>Clojure data manipulation DSL built on tech.ml.dataset</description>
-    <pubDate>Mon, 31 Aug 2026 03:41:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-arm64/versions/0.19.4</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-linux-arm64 &quot;0.19.4&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-arm64/versions/0.19.4</link>
-    <description>Native dependency of Datalevin on Linux Arm64</description>
-    <pubDate>Mon, 31 Aug 2026 03:39:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.421</guid>
-    <title>[org.replikativ/raster &quot;0.2.421&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.421</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Mon, 31 Aug 2026 03:39:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/0.19.4</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-windows-x86_64 &quot;0.19.4&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/0.19.4</link>
-    <description>Native dependency of Datalevin database on Windows</description>
-    <pubDate>Mon, 31 Aug 2026 03:39:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/0.19.4</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-linux-x86_64 &quot;0.19.4&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/0.19.4</link>
-    <description>Native dependency of Datalevin on Linux x86-64</description>
-    <pubDate>Mon, 31 Aug 2026 03:38:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/0.19.4</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-macosx-arm64 &quot;0.19.4&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/0.19.4</link>
-    <description>Native dependency of Datalevin on Apple Silicon</description>
-    <pubDate>Mon, 31 Aug 2026 03:36:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.akvo.flow/akvo-flow/versions/20260831-022648.ce32e8b3</guid>
-    <title>[org.akvo.flow/akvo-flow &quot;20260831-022648.ce32e8b3&quot;]</title>
-    <link>https://clojars.org/org.akvo.flow/akvo-flow/versions/20260831-022648.ce32e8b3</link>
-    <description></description>
-    <pubDate>Mon, 31 Aug 2026 02:27:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/buddy-auth/versions/6.0.0</guid>
-    <title>[net.clojars.savya/buddy-auth &quot;6.0.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/buddy-auth/versions/6.0.0</link>
-    <description></description>
-    <pubDate>Mon, 31 Aug 2026 00:37:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/jose-clj/versions/0.9.0</guid>
-    <title>[net.clojars.savya/jose-clj &quot;0.9.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/jose-clj/versions/0.9.0</link>
-    <description>Idiomatic Clojure JOSE: JWS, JWE, JWK/JWKS, and JWT (signed, encrypted, nested) over Nimbus JOSE+JWT.</description>
-    <pubDate>Mon, 31 Aug 2026 00:36:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20260830.235350.8db5384</guid>
-    <title>[yetibot &quot;20260830.235350.8db5384&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20260830.235350.8db5384</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Sun, 30 Aug 2026 23:54:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/core/versions/20260830.235226.58b1b82</guid>
-    <title>[yetibot/core &quot;20260830.235226.58b1b82&quot;]</title>
-    <link>https://clojars.org/yetibot/core/versions/20260830.235226.58b1b82</link>
-    <description>Core yetibot utilities, extracted for shared use among yetibot
-                and its various plugins</description>
-    <pubDate>Sun, 30 Aug 2026 23:53:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.buddhilw/monero-store/versions/0.7.0</guid>
-    <title>[io.github.buddhilw/monero-store &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/io.github.buddhilw/monero-store/versions/0.7.0</link>
-    <description></description>
-    <pubDate>Sun, 30 Aug 2026 23:52:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/embeddings-clj/versions/0.7.0</guid>
-    <title>[net.clojars.savya/embeddings-clj &quot;0.7.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/embeddings-clj/versions/0.7.0</link>
-    <description>Local text-embedding inference for Clojure: run sentence-transformers ONNX models in-process.</description>
-    <pubDate>Sun, 30 Aug 2026 23:51:47 +0000</pubDate>
   </item>
   </channel>
 </rss>
