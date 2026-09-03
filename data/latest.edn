@@ -1,10 +1,3 @@
-{:created 1788251919663, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.464"}
-{:created 1788252800007, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.166"}
-{:created 1788255485692, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.34"}
-{:created 1788256752257, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1864"}
-{:created 1788256804582, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike-http-server", :version "0.8.1864"}
-{:created 1788256982637, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.470"}
-{:created 1788257686493, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.167"}
 {:created 1788258742175, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.473"}
 {:created 1788258772600, :description "A library and microservice implementing the health and care terminology SNOMED CT with support for cross-maps, inference, fast full-text search, autocompletion, compositional grammar and the expression constraint language.", :group_name "com.eldrix", :jar_name "hermes", :version "1.4.1629"}
 {:created 1788259674865, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1865"}
@@ -254,3 +247,10 @@
 {:created 1788472231566, :description "Raw package for OpenGL.", :group_name "org.jank-lang.commons", :jar_name "gl-sys", :version "2026.09-3"}
 {:created 1788472241706, :description "Raw package for sqlite3.", :group_name "org.jank-lang.commons", :jar_name "sqlite3-sys", :version "2026.09-3"}
 {:created 1788472252896, :description "Raw package for Dear ImGUI OpenGL2 renderer backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-opengl2-sys", :version "2026.09-5"}
+{:created 1788474013511, :description "Build script helper for querying libraries via pkg-config.", :group_name "org.jank-lang.commons", :jar_name "jank-build-pkg-config", :version "2026.09-3"}
+{:created 1788474026958, :description "Raw package for glfw3.", :group_name "org.jank-lang.commons", :jar_name "glfw-sys", :version "2026.09-4"}
+{:created 1788474040107, :description "Raw package for Dear ImGUI GLFW platform backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-glfw-sys", :version "2026.09-9"}
+{:created 1788474051708, :description "Raw package for OpenGL.", :group_name "org.jank-lang.commons", :jar_name "gl-sys", :version "2026.09-4"}
+{:created 1788474063505, :description "Raw package for sqlite3.", :group_name "org.jank-lang.commons", :jar_name "sqlite3-sys", :version "2026.09-4"}
+{:created 1788474076832, :description "Raw package for Dear ImGUI OpenGL2 renderer backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-opengl2-sys", :version "2026.09-6"}
+{:created 1788475860307, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.155"}
