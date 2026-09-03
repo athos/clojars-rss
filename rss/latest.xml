@@ -4,7 +4,63 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 3 Sep 2026 21:03:03 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 3 Sep 2026 22:02:55 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/imgui-opengl2-sys/versions/2026.09-5</guid>
+    <title>[org.jank-lang.commons/imgui-opengl2-sys &quot;2026.09-5&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/imgui-opengl2-sys/versions/2026.09-5</link>
+    <description>Raw package for Dear ImGUI OpenGL2 renderer backend.</description>
+    <pubDate>Thu, 3 Sep 2026 21:50:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/sqlite3-sys/versions/2026.09-3</guid>
+    <title>[org.jank-lang.commons/sqlite3-sys &quot;2026.09-3&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/sqlite3-sys/versions/2026.09-3</link>
+    <description>Raw package for sqlite3.</description>
+    <pubDate>Thu, 3 Sep 2026 21:50:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/gl-sys/versions/2026.09-3</guid>
+    <title>[org.jank-lang.commons/gl-sys &quot;2026.09-3&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/gl-sys/versions/2026.09-3</link>
+    <description>Raw package for OpenGL.</description>
+    <pubDate>Thu, 3 Sep 2026 21:50:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/imgui-glfw-sys/versions/2026.09-8</guid>
+    <title>[org.jank-lang.commons/imgui-glfw-sys &quot;2026.09-8&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/imgui-glfw-sys/versions/2026.09-8</link>
+    <description>Raw package for Dear ImGUI GLFW platform backend.</description>
+    <pubDate>Thu, 3 Sep 2026 21:50:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/glfw-sys/versions/2026.09-3</guid>
+    <title>[org.jank-lang.commons/glfw-sys &quot;2026.09-3&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/glfw-sys/versions/2026.09-3</link>
+    <description>Raw package for glfw3.</description>
+    <pubDate>Thu, 3 Sep 2026 21:50:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.jank-lang.commons/jank-build-pkg-config/versions/2026.09-2</guid>
+    <title>[org.jank-lang.commons/jank-build-pkg-config &quot;2026.09-2&quot;]</title>
+    <link>https://clojars.org/org.jank-lang.commons/jank-build-pkg-config/versions/2026.09-2</link>
+    <description>Build script helper for querying libraries via pkg-config.</description>
+    <pubDate>Thu, 3 Sep 2026 21:49:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.openvoxproject/lein-ezbake/versions/4.0.1</guid>
+    <title>[org.openvoxproject/lein-ezbake &quot;4.0.1&quot;]</title>
+    <link>https://clojars.org/org.openvoxproject/lein-ezbake/versions/4.0.1</link>
+    <description>A system for building packages for trapperkeeper-based applications</description>
+    <pubDate>Thu, 3 Sep 2026 21:44:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/jepsen/versions/0.3.14-SNAPSHOT</guid>
+    <title>[jepsen &quot;0.3.14-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/jepsen/versions/0.3.14-SNAPSHOT</link>
+    <description>Distributed systems testing framework.</description>
+    <pubDate>Thu, 3 Sep 2026 21:42:26 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.openvoxproject/trapperkeeper/versions/5.0.6</guid>
     <title>[org.openvoxproject/trapperkeeper &quot;5.0.6&quot;]</title>
@@ -123,13 +179,6 @@
     <link>https://clojars.org/org.jank-lang/lein-jank/versions/2026.09-5</link>
     <description>Build your jank projects using Leiningen.</description>
     <pubDate>Thu, 3 Sep 2026 18:53:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/jepsen/versions/0.3.14-SNAPSHOT</guid>
-    <title>[jepsen &quot;0.3.14-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/jepsen/versions/0.3.14-SNAPSHOT</link>
-    <description>Distributed systems testing framework.</description>
-    <pubDate>Thu, 3 Sep 2026 18:47:23 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.jepsen/generator/versions/0.1.4-SNAPSHOT</guid>
@@ -1766,55 +1815,6 @@
     <link>https://clojars.org/org.replikativ/raster/versions/0.2.464</link>
     <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
     <pubDate>Tue, 1 Sep 2026 08:38:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.32</guid>
-    <title>[org.replikativ/pretrained-rstr &quot;0.1.32&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.32</link>
-    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
-    <pubDate>Tue, 1 Sep 2026 08:19:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/skjema/versions/0.3.0</guid>
-    <title>[com.blockether/skjema &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/com.blockether/skjema/versions/0.3.0</link>
-    <description>JSON Schema 2020-12 validation for Clojure.</description>
-    <pubDate>Tue, 1 Sep 2026 08:04:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.164</guid>
-    <title>[org.replikativ/pg-datahike &quot;0.1.164&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.164</link>
-    <description></description>
-    <pubDate>Tue, 1 Sep 2026 08:04:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.459</guid>
-    <title>[org.replikativ/raster &quot;0.2.459&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.459</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Tue, 1 Sep 2026 07:58:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.456</guid>
-    <title>[org.replikativ/raster &quot;0.2.456&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.456</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Tue, 1 Sep 2026 06:55:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.timezynk/scheduler/versions/1.0.7</guid>
-    <title>[com.timezynk/scheduler &quot;1.0.7&quot;]</title>
-    <link>https://clojars.org/com.timezynk/scheduler/versions/1.0.7</link>
-    <description>An idiomatic Quartz wrapper for Clojure.</description>
-    <pubDate>Tue, 1 Sep 2026 06:51:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.31</guid>
-    <title>[org.replikativ/pretrained-rstr &quot;0.1.31&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.31</link>
-    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
-    <pubDate>Tue, 1 Sep 2026 06:49:15 +0000</pubDate>
   </item>
   </channel>
 </rss>
