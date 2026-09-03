@@ -4,7 +4,35 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 3 Sep 2026 13:03:07 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 3 Sep 2026 14:03:28 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.bangmodcloud/reagent-router/versions/0.1.0</guid>
+    <title>[io.github.bangmodcloud/reagent-router &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/io.github.bangmodcloud/reagent-router/versions/0.1.0</link>
+    <description>bidi + pushy routing for Reagent/re-frame single-page apps.</description>
+    <pubDate>Thu, 3 Sep 2026 13:51:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.bangmodcloud/reagent-http-api/versions/0.1.0</guid>
+    <title>[io.github.bangmodcloud/reagent-http-api &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/io.github.bangmodcloud/reagent-http-api/versions/0.1.0</link>
+    <description>Declarative HTTP/SSE API client for ClojureScript, with re-frame integration.</description>
+    <pubDate>Thu, 3 Sep 2026 13:51:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.bangmodcloud/reagent-form/versions/0.1.0</guid>
+    <title>[io.github.bangmodcloud/reagent-form &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/io.github.bangmodcloud/reagent-form/versions/0.1.0</link>
+    <description>Form state, validation and field arrays for Reagent.</description>
+    <pubDate>Thu, 3 Sep 2026 13:51:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/is.simm/distributed-scope/versions/0.1.11</guid>
+    <title>[is.simm/distributed-scope &quot;0.1.11&quot;]</title>
+    <link>https://clojars.org/is.simm/distributed-scope/versions/0.1.11</link>
+    <description>Distributed scope for transparent state synchronization in Clojure/ClojureScript</description>
+    <pubDate>Thu, 3 Sep 2026 13:09:25 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/svar/versions/0.7.152</guid>
     <title>[com.blockether/svar &quot;0.7.152&quot;]</title>
@@ -1787,34 +1815,6 @@
     <link>https://clojars.org/metosin/jsonista/versions/1.0.1</link>
     <description>Clojure library for fast JSON encoding and decoding.</description>
     <pubDate>Mon, 31 Aug 2026 11:52:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.49</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.49&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.49</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
-    <pubDate>Mon, 31 Aug 2026 10:41:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/geheimnis/versions/0.2.39</guid>
-    <title>[org.replikativ/geheimnis &quot;0.2.39&quot;]</title>
-    <link>https://clojars.org/org.replikativ/geheimnis/versions/0.2.39</link>
-    <description>Cross-platform cryptography between cljs and clj</description>
-    <pubDate>Mon, 31 Aug 2026 09:44:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.425</guid>
-    <title>[org.replikativ/raster &quot;0.2.425&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.425</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Mon, 31 Aug 2026 09:36:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.47</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.47&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.47</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
-    <pubDate>Mon, 31 Aug 2026 09:34:39 +0000</pubDate>
   </item>
   </channel>
 </rss>
