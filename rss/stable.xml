@@ -4,7 +4,58 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 4 Sep 2026 14:03:09 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 4 Sep 2026 15:03:02 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/svar/versions/0.7.156</guid>
+    <title>[com.blockether/svar &quot;0.7.156&quot;]</title>
+    <link>https://clojars.org/com.blockether/svar/versions/0.7.156</link>
+    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
+    <pubDate>Fri, 4 Sep 2026 14:57:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.548</guid>
+    <title>[org.replikativ/raster &quot;0.2.548&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.548</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Fri, 4 Sep 2026 14:52:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1871</guid>
+    <title>[org.replikativ/datahike-http-server &quot;0.8.1871&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1871</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Fri, 4 Sep 2026 14:51:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1871</guid>
+    <title>[org.replikativ/datahike &quot;0.8.1871&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1871</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Fri, 4 Sep 2026 14:50:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.roklenarcic/mcp-server/versions/0.3.61</guid>
+    <title>[org.clojars.roklenarcic/mcp-server &quot;0.3.61&quot;]</title>
+    <link>https://clojars.org/org.clojars.roklenarcic/mcp-server/versions/0.3.61</link>
+    <description>A Clojure library for Model Context Protocol Servers</description>
+    <pubDate>Fri, 4 Sep 2026 14:36:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.theparanoidtimes/defns/versions/0.1.0</guid>
+    <title>[org.theparanoidtimes/defns &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/org.theparanoidtimes/defns/versions/0.1.0</link>
+    <description>A library that provides a way for defining functions
+                with type signatures for which pre and post conditions are
+                generated using spec.</description>
+    <pubDate>Fri, 4 Sep 2026 14:28:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.185</guid>
+    <title>[org.replikativ/pg-datahike &quot;0.1.185&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.185</link>
+    <description></description>
+    <pubDate>Fri, 4 Sep 2026 14:23:25 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.183</guid>
     <title>[org.replikativ/pg-datahike &quot;0.1.183&quot;]</title>
@@ -1766,55 +1817,6 @@
     <link>https://clojars.org/org.jank-lang.commons/gl-sys/versions/2026.09-1</link>
     <description>Raw package for OpenGL.</description>
     <pubDate>Tue, 1 Sep 2026 18:34:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang.commons/box2d-sys/versions/2026.09-1</guid>
-    <title>[org.jank-lang.commons/box2d-sys &quot;2026.09-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang.commons/box2d-sys/versions/2026.09-1</link>
-    <description>Raw package for box2d.</description>
-    <pubDate>Tue, 1 Sep 2026 18:33:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang.commons/imgui-glfw-sys/versions/2026.09-1</guid>
-    <title>[org.jank-lang.commons/imgui-glfw-sys &quot;2026.09-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang.commons/imgui-glfw-sys/versions/2026.09-1</link>
-    <description>Raw package for Dear ImGUI GLFW platform backend.</description>
-    <pubDate>Tue, 1 Sep 2026 18:33:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang.commons/glfw-sys/versions/2026.09-1</guid>
-    <title>[org.jank-lang.commons/glfw-sys &quot;2026.09-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang.commons/glfw-sys/versions/2026.09-1</link>
-    <description>Raw package for glfw3.</description>
-    <pubDate>Tue, 1 Sep 2026 18:33:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/sci/versions/0.15.59-replikativ.1</guid>
-    <title>[org.replikativ/sci &quot;0.15.59-replikativ.1&quot;]</title>
-    <link>https://clojars.org/org.replikativ/sci/versions/0.15.59-replikativ.1</link>
-    <description>Replikativ compatibility distribution of SCI with forkable interpreter worlds</description>
-    <pubDate>Tue, 1 Sep 2026 17:46:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.35</guid>
-    <title>[org.replikativ/pretrained-rstr &quot;0.1.35&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.35</link>
-    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
-    <pubDate>Tue, 1 Sep 2026 17:36:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.495</guid>
-    <title>[org.replikativ/raster &quot;0.2.495&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.495</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Tue, 1 Sep 2026 17:07:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.493</guid>
-    <title>[org.replikativ/raster &quot;0.2.493&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.493</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Tue, 1 Sep 2026 16:39:06 +0000</pubDate>
   </item>
   </channel>
 </rss>
