@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 4 Sep 2026 13:02:44 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 4 Sep 2026 14:03:09 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.183</guid>
+    <title>[org.replikativ/pg-datahike &quot;0.1.183&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.183</link>
+    <description></description>
+    <pubDate>Fri, 4 Sep 2026 14:01:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.45</guid>
+    <title>[org.replikativ/pretrained-rstr &quot;0.1.45&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.45</link>
+    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
+    <pubDate>Fri, 4 Sep 2026 13:22:39 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.179</guid>
     <title>[org.replikativ/pg-datahike &quot;0.1.179&quot;]</title>
@@ -1782,26 +1796,6 @@
     <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.37</link>
     <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
     <pubDate>Tue, 1 Sep 2026 19:42:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang/lein-jank/versions/2026.09-1</guid>
-    <title>[org.jank-lang/lein-jank &quot;2026.09-1&quot;]</title>
-    <link>https://clojars.org/org.jank-lang/lein-jank/versions/2026.09-1</link>
-    <description>Build your jank projects using Leiningen.</description>
-    <pubDate>Tue, 1 Sep 2026 19:15:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.vaelii/sqlite/versions/0.15.0</guid>
-    <title>[com.vaelii/sqlite &quot;0.15.0&quot;]</title>
-    <link>https://clojars.org/com.vaelii/sqlite/versions/0.15.0</link>
-    <description>SQLite targets for vaelii&#39;s storage seams. The first is the
-                snapshot sink (vaelii.sqlite.snapshot): a SnapshotSink /
-                SnapshotSource over a single SQLite file, so a KB image — the index
-                projection today, any of io.snapshot&#39;s named sections — lands in a
-                zero-configuration file as a few bulk transactions and reads back
-                the same way. An Apache-2.0 adapter on the SSPL engine, depending on
-                core, never depended on by it.</description>
-    <pubDate>Tue, 1 Sep 2026 18:57:13 +0000</pubDate>
   </item>
   </channel>
 </rss>
