@@ -1,7 +1,3 @@
-{:created 1788297394609, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-addon", :version "0.3.9"}
-{:created 1788297397983, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.40"}
-{:created 1788297480167, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-claude", :version "0.1.17"}
-{:created 1788297528044, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cppb", :version "0.1.8"}
 {:created 1788297551160, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-di", :version "0.4.7"}
 {:created 1788297605458, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-dsl", :version "0.5.20"}
 {:created 1788297676222, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-emacs-hagent", :version "0.2.8"}
@@ -254,3 +250,7 @@
 {:created 1788539740398, :description nil, :group_name "techascent", :jar_name "tech.ml.dataset", :version "8.026"}
 {:created 1788540272056, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.188"}
 {:created 1788541153176, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.554"}
+{:created 1788543620197, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-test", :version "0.4.0"}
+{:created 1788544172103, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.189"}
+{:created 1788544463109, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.558"}
+{:created 1788544699277, :description "A library for writing Jepsen tests of SQL databases", :group_name "io.jepsen", :jar_name "sql", :version "0.1.1-SNAPSHOT"}
