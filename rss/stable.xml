@@ -4,7 +4,14 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 4 Sep 2026 04:04:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 4 Sep 2026 05:03:14 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.544</guid>
+    <title>[org.replikativ/raster &quot;0.2.544&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.544</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Fri, 4 Sep 2026 04:43:37 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.24.0</guid>
     <title>[net.clojars.savya/openai-clj &quot;0.24.0&quot;]</title>
@@ -1808,13 +1815,6 @@
     <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1863</link>
     <description>A durable datalog implementation adaptable for distribution.</description>
     <pubDate>Tue, 1 Sep 2026 05:49:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.30</guid>
-    <title>[org.replikativ/pretrained-rstr &quot;0.1.30&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.30</link>
-    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
-    <pubDate>Tue, 1 Sep 2026 05:47:01 +0000</pubDate>
   </item>
   </channel>
 </rss>
