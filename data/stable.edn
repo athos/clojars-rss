@@ -1,5 +1,3 @@
-{:created 1788429649048, :description "Shared UI library for Wagoe framework: layout, components, Hiccup rendering helpers", :group_name "com.wagoe", :jar_name "wagoe-shared-ui", :version "1.0.0-beta-6"}
-{:created 1788429695904, :description "User management library for Wagoe framework: authentication, sessions, MFA", :group_name "com.wagoe", :jar_name "wagoe-user", :version "1.0.0-beta-6"}
 {:created 1788429741135, :description "Calendar and scheduling for Wagoe framework: recurring events, conflict detection, iCal export/import, and Hiccup UI components", :group_name "com.wagoe", :jar_name "wagoe-calendar", :version "1.0.0-beta-6"}
 {:created 1788429787344, :description "Admin interface library for Wagoe framework: auto-CRUD, schema introspection", :group_name "com.wagoe", :jar_name "wagoe-admin", :version "1.0.0-beta-6"}
 {:created 1788429833219, :description "Workflow orchestration library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-workflow", :version "1.0.0-beta-6"}
@@ -254,3 +252,5 @@
 {:created 1788613213162, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.580"}
 {:created 1788613330376, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.79"}
 {:created 1788613572986, :description "Clojure bindings for the Rockbox DSP, metadata, and playback engine (Java FFM over the shared rockbox-ffi C ABI).", :group_name "io.github.tsirysndr", :jar_name "rockbox-clj-ffi", :version "0.7.0"}
+{:created 1788625178055, :description "Machine learning functions for tech.ml.dataset", :group_name "org.scicloj", :jar_name "metamorph.ml", :version "1.7.1"}
+{:created 1788626963825, :description "A Clojure-to-Emacs-Lisp compiler: analyzes Clojure-style source into an AST and emits Emacs Lisp, with a self-hosted runtime library.", :group_name "io.github.buddhilw", :jar_name "clojure-elisp", :version "0.7.0"}
