@@ -1,26 +1,3 @@
-{:created 1788358423922, :description nil, :group_name "io.github.hive-agi", :jar_name "scc-mcp", :version "0.1.7"}
-{:created 1788358426997, :description nil, :group_name "io.github.hive-agi", :jar_name "clj-kondo-mcp", :version "0.2.5"}
-{:created 1788358443887, :description nil, :group_name "io.github.hive-agi", :jar_name "basic-tools-mcp", :version "0.3.14"}
-{:created 1788358456176, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-overarch", :version "0.1.9"}
-{:created 1788358466977, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-proximum", :version "0.1.18"}
-{:created 1788358730820, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-fressian", :version "0.1.3"}
-{:created 1788359166921, :description nil, :group_name "io.github.hive-agi", :jar_name "lsp-mcp", :version "0.6.5"}
-{:created 1788361493042, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.514"}
-{:created 1788361836830, :description "Dynamic MCP servers, agent skills, native functions, HTTP endpoints and A2A agents as one uniform Tool interface, with a built-in tool-calling client loop.", :group_name "net.clojars.muthuishere", :jar_name "toolnexus", :version "0.17.0"}
-{:created 1788362366693, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-tmux", :version "0.1.1"}
-{:created 1788362528781, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-ansatz", :version "0.1.1"}
-{:created 1788362560270, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "0.2.1"}
-{:created 1788362720169, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.515"}
-{:created 1788362797348, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.170"}
-{:created 1788362804277, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-claude", :version "0.1.19"}
-{:created 1788362966605, :description "Port of github.com/clojure/test.check to ClojureCLR", :group_name "org.clojure.clr", :jar_name "test.check", :version "1.1.4"}
-{:created 1788363382791, :description "Port of clojure.org/spec.alpha to ClojureCLR", :group_name "org.clojure.clr", :jar_name "spec.alpha", :version "0.6.250"}
-{:created 1788363823508, :description "Port of clojure.org/core.specs.alpha to ClojureCLR", :group_name "org.clojure.clr", :jar_name "core.specs.alpha", :version "0.5.82"}
-{:created 1788364406767, :description "Shared VaR/beta/regression primitives for tech.ml.dataset + Neanderthal workflows.", :group_name "net.clojars.alex314159", :jar_name "var-techml-neanderthal", :version "0.1.0-SNAPSHOT"}
-{:created 1788365512153, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.66"}
-{:created 1788367033451, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
-{:created 1788367150490, :description "Generate malli schemas from an applied PostgreSQL schema", :group_name "io.github.chaploud", :jar_name "pgmalli", :version "0.2.40"}
-{:created 1788367844155, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-events", :version "0.5.10"}
 {:created 1788368419760, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.521"}
 {:created 1788369768001, :description "A Clojure library for the Apache Kafka distributed streaming platform.", :group_name "fundingcircle", :jar_name "jackdaw", :version "0.9.13-SNAPSHOT"}
 {:created 1788370621042, :description "Build your jank projects using Leiningen.", :group_name "org.jank-lang", :jar_name "lein-jank", :version "2026.09-4"}
@@ -254,3 +231,26 @@
 {:created 1788572517733, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-overarch", :version "0.1.10"}
 {:created 1788572621339, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.2.9"}
 {:created 1788572704629, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-emacs", :version "0.5.5"}
+{:created 1788576397028, :description "Core Systems Libraries for clj-goog-workspace — shared auth and utilities.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-csl", :version "0.24.0"}
+{:created 1788576404391, :description "Clojure wrapper for the Google Drive API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-drive", :version "0.24.0"}
+{:created 1788576411775, :description "Clojure wrapper for the Gmail API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-gmail", :version "0.24.0"}
+{:created 1788576420047, :description "Clojure wrapper for the Google Sheets API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-sheets", :version "0.24.0"}
+{:created 1788576427467, :description "Clojure wrapper for the Google Meet API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-meet", :version "0.24.0"}
+{:created 1788576434921, :description "Clojure wrapper for the Google Forms API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-forms", :version "0.24.0"}
+{:created 1788576442283, :description "Clojure wrapper for the Google Calendar API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-calendar", :version "0.24.0"}
+{:created 1788576449725, :description "Clojure wrapper for the Google Docs API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-docs", :version "0.24.0"}
+{:created 1788576456857, :description "Clojure wrapper for the Google Admin SDK Directory API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-admin", :version "0.24.0"}
+{:created 1788576464330, :description "Clojure wrapper for the Google Tasks API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-tasks", :version "0.24.0"}
+{:created 1788576471851, :description "Clojure wrapper for the Google Classroom API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-classroom", :version "0.24.0"}
+{:created 1788576479391, :description "Clojure wrapper for the Google Keep API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-keep", :version "0.24.0"}
+{:created 1788576486831, :description "Clojure wrapper for the Google Vault API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-vault", :version "0.24.0"}
+{:created 1788576494073, :description "Clojure wrapper for the Google Chat API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-chat", :version "0.24.0"}
+{:created 1788576501165, :description "Clojure wrapper for the Google Slides API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-slides", :version "0.24.0"}
+{:created 1788576508565, :description "Clojure wrapper for the Google Admin SDK Reports API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-reports", :version "0.24.0"}
+{:created 1788576516005, :description "Clojure wrapper for the Google Apps Licensing API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-licensing", :version "0.24.0"}
+{:created 1788576523498, :description "Clojure wrapper for the Google Cloud Channel API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-cloudchannel", :version "0.24.0"}
+{:created 1788576530786, :description "Clojure wrapper for the Google Groups Settings API.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-groupssettings", :version "0.24.0"}
+{:created 1788576545883, :description "Clojure wrapper for the Google People API v1.", :group_name "com.soundhound", :jar_name "clj-goog-workspace-people", :version "0.24.0"}
+{:created 1788576801595, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-build", :version "0.1.11"}
+{:created 1788577275702, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.575"}
+{:created 1788577295265, :description "Frink-inspired exact unit conversion and dimensional arithmetic for Clojure.", :group_name "com.github.crinklywrappr", :jar_name "commensura", :version "1.0.40"}
