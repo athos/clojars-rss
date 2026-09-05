@@ -1,26 +1,3 @@
-{:created 1788375759566, :description "Raw package for Dear ImGUI GLFW platform backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-glfw-sys", :version "2026.09-2"}
-{:created 1788375770746, :description "Raw package for box2d.", :group_name "org.jank-lang.commons", :jar_name "box2d-sys", :version "2026.09-2"}
-{:created 1788375782407, :description "Raw package for Dear ImGUI.", :group_name "org.jank-lang.commons", :jar_name "imgui-sys", :version "2026.09-2"}
-{:created 1788375793871, :description "Raw package for Dear ImGUI OpenGL2 renderer backend.", :group_name "org.jank-lang.commons", :jar_name "imgui-opengl2-sys", :version "2026.09-2"}
-{:created 1788375805447, :description "Raw package for box3d.", :group_name "org.jank-lang.commons", :jar_name "box3d-sys", :version "2026.09-2"}
-{:created 1788375816693, :description "Raw package for raygui.", :group_name "org.jank-lang.commons", :jar_name "raygui-sys", :version "2026.09-3"}
-{:created 1788375828121, :description "Raw package for raylib.", :group_name "org.jank-lang.commons", :jar_name "raylib-sys", :version "2026.09-2"}
-{:created 1788375838992, :description "Raw package for FTXUI.", :group_name "org.jank-lang.commons", :jar_name "ftxui-sys", :version "2026.09-2"}
-{:created 1788376360392, :description "YAMLStar - A pure YAML 1.2 loader for Clojure", :group_name "org.yamlstar", :jar_name "yamlstar", :version "0.1.19"}
-{:created 1788376614699, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-test", :version "0.3.19"}
-{:created 1788379229392, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.529"}
-{:created 1788382157980, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.533"}
-{:created 1788385591659, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.535"}
-{:created 1788387864708, :description "Generate malli schemas from an applied PostgreSQL schema", :group_name "io.github.chaploud", :jar_name "pgmalli", :version "0.2.42"}
-{:created 1788390016828, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.538"}
-{:created 1788392312179, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.541"}
-{:created 1788396054814, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.41"}
-{:created 1788418250105, :description "A simple, fast and versatile Datalog database", :group_name "datalevin", :jar_name "datalevin", :version "1.1.0"}
-{:created 1788418266859, :description "Embedded-only Datalevin runtime with bundled native libraries and remote client support", :group_name "org.datalevin", :jar_name "datalevin-embedded", :version "1.1.0"}
-{:created 1788420076462, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.151"}
-{:created 1788423281301, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.171"}
-{:created 1788424327617, :description nil, :group_name "io.github.datalevin", :jar_name "biff-datalevin", :version "0.2.17"}
-{:created 1788425017045, :description "nextcloud c4k-installation package", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-nextcloud", :version "11.2.1"}
 {:created 1788428667784, :description "Developer tooling for the Wagoe framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "com.wagoe", :jar_name "wagoe-tools", :version "1.0.0-beta-6"}
 {:created 1788428754374, :description "Foundation library for Wagoe framework: validation, utilities, interceptors", :group_name "com.wagoe", :jar_name "wagoe-core", :version "1.0.0-beta-6"}
 {:created 1788428799597, :description "Observability library for Wagoe framework: logging, metrics, error reporting", :group_name "com.wagoe", :jar_name "wagoe-observability", :version "1.0.0-beta-6"}
@@ -254,3 +231,26 @@
 {:created 1788581422120, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.2.10"}
 {:created 1788581430515, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-addon", :version "1.0.2"}
 {:created 1788582020385, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.34.0"}
+{:created 1788589265147, :description "Supervised channel management for core.async.", :group_name "org.replikativ", :jar_name "superv.async", :version "0.3.53"}
+{:created 1788590230605, :description "Developer tooling for the Wagoe framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "com.wagoe", :jar_name "wagoe-tools", :version "1.0.0-beta-7"}
+{:created 1788590312132, :description "Foundation library for Wagoe framework: validation, utilities, interceptors", :group_name "com.wagoe", :jar_name "wagoe-core", :version "1.0.0-beta-7"}
+{:created 1788590354521, :description "Observability library for Wagoe framework: logging, metrics, error reporting", :group_name "com.wagoe", :jar_name "wagoe-observability", :version "1.0.0-beta-7"}
+{:created 1788590437118, :description "Internationalisation (i18n) for Wagoe framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "com.wagoe", :jar_name "wagoe-i18n", :version "1.0.0-beta-7"}
+{:created 1788590478395, :description "Code generation library for Wagoe framework: module scaffolding", :group_name "com.wagoe", :jar_name "wagoe-scaffolder", :version "1.0.0-beta-7"}
+{:created 1788590520054, :description "Cache library for Wagoe framework: in-memory and Redis cache adapters", :group_name "com.wagoe", :jar_name "wagoe-cache", :version "1.0.0-beta-7"}
+{:created 1788590562773, :description "Platform library for Wagoe framework: database, HTTP, configuration, modules", :group_name "com.wagoe", :jar_name "wagoe-platform", :version "1.0.0-beta-7"}
+{:created 1788590605915, :description "Storage library for Wagoe framework: local filesystem and S3 adapters", :group_name "com.wagoe", :jar_name "wagoe-storage", :version "1.0.0-beta-7"}
+{:created 1788590688776, :description "Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication", :group_name "com.wagoe", :jar_name "wagoe-realtime", :version "1.0.0-beta-7"}
+{:created 1788590730159, :description "Multi-tenancy library for Wagoe framework: schema isolation, tenant resolution, provisioning", :group_name "com.wagoe", :jar_name "wagoe-tenant", :version "1.0.0-beta-7"}
+{:created 1788590773032, :description "Jobs library for Wagoe framework: background job queuing with in-memory and Redis adapters", :group_name "com.wagoe", :jar_name "wagoe-jobs", :version "1.0.0-beta-7"}
+{:created 1788590857419, :description "External service adapters library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-external", :version "1.0.0-beta-7"}
+{:created 1788590899961, :description "Email sending library for Wagoe framework: SMTP support, composition, validation", :group_name "com.wagoe", :jar_name "wagoe-email", :version "1.0.0-beta-7"}
+{:created 1788590941231, :description "PSP abstraction for Wagoe framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "com.wagoe", :jar_name "wagoe-payments", :version "1.0.0-beta-7"}
+{:created 1788591024247, :description "PDF and Excel report generation for Wagoe framework: Hiccup templates, declarative sections, async via jobs module", :group_name "com.wagoe", :jar_name "wagoe-reports", :version "1.0.0-beta-7"}
+{:created 1788591106359, :description "Shared UI style library for Wagoe framework: CSS/JS bundles and assets", :group_name "com.wagoe", :jar_name "wagoe-ui-style", :version "1.0.0-beta-7"}
+{:created 1788591148776, :description "Shared UI library for Wagoe framework: layout, components, Hiccup rendering helpers", :group_name "com.wagoe", :jar_name "wagoe-shared-ui", :version "1.0.0-beta-7"}
+{:created 1788591191828, :description "User management library for Wagoe framework: authentication, sessions, MFA", :group_name "com.wagoe", :jar_name "wagoe-user", :version "1.0.0-beta-7"}
+{:created 1788591276527, :description "Admin interface library for Wagoe framework: auto-CRUD, schema introspection", :group_name "com.wagoe", :jar_name "wagoe-admin", :version "1.0.0-beta-7"}
+{:created 1788591318831, :description "Workflow orchestration library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-workflow", :version "1.0.0-beta-7"}
+{:created 1788591361016, :description "Full-text search library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-search", :version "1.0.0-beta-7"}
+{:created 1788591445192, :description "Development tools and dashboard for the Wagoe framework: dev dashboard, REPL utilities, system inspection", :group_name "com.wagoe", :jar_name "wagoe-devtools", :version "1.0.0-beta-7"}
