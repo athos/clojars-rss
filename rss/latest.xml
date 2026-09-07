@@ -4,7 +4,168 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 7 Sep 2026 06:07:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 7 Sep 2026 07:11:21 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/info.sunng/ring-jetty9-adapter/versions/0.40.4</guid>
+    <title>[info.sunng/ring-jetty9-adapter &quot;0.40.4&quot;]</title>
+    <link>https://clojars.org/info.sunng/ring-jetty9-adapter/versions/0.40.4</link>
+    <description>Ring adapter for jetty9, which supports websocket, http/2 and http/3</description>
+    <pubDate>Mon, 7 Sep 2026 07:09:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/info.sunng/ring-jetty9-adapter-http2/versions/0.2.10</guid>
+    <title>[info.sunng/ring-jetty9-adapter-http2 &quot;0.2.10&quot;]</title>
+    <link>https://clojars.org/info.sunng/ring-jetty9-adapter-http2/versions/0.2.10</link>
+    <description>Ring adapter for jetty 9 and above, meta package for http2</description>
+    <pubDate>Mon, 7 Sep 2026 07:08:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/info.sunng/ring-jetty9-adapter-http3/versions/0.7.10</guid>
+    <title>[info.sunng/ring-jetty9-adapter-http3 &quot;0.7.10&quot;]</title>
+    <link>https://clojars.org/info.sunng/ring-jetty9-adapter-http3/versions/0.7.10</link>
+    <description>Ring adapter for jetty 9 and above, meta package for http3</description>
+    <pubDate>Mon, 7 Sep 2026 07:08:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-search/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-search &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-search/versions/1.0.0-beta-8</link>
+    <description>Full-text search library for Wagoe framework</description>
+    <pubDate>Mon, 7 Sep 2026 06:33:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-workflow/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-workflow &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-workflow/versions/1.0.0-beta-8</link>
+    <description>Workflow orchestration library for Wagoe framework</description>
+    <pubDate>Mon, 7 Sep 2026 06:32:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-admin/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-admin &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-admin/versions/1.0.0-beta-8</link>
+    <description>Admin interface library for Wagoe framework: auto-CRUD, schema introspection</description>
+    <pubDate>Mon, 7 Sep 2026 06:32:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.taoensso/encore/versions/3.172.0</guid>
+    <title>[com.taoensso/encore &quot;3.172.0&quot;]</title>
+    <link>https://clojars.org/com.taoensso/encore/versions/3.172.0</link>
+    <description>Core utils library for Clojure/Script</description>
+    <pubDate>Mon, 7 Sep 2026 06:30:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-user/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-user &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-user/versions/1.0.0-beta-8</link>
+    <description>User management library for Wagoe framework: authentication, sessions, MFA</description>
+    <pubDate>Mon, 7 Sep 2026 06:30:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-shared-ui/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-shared-ui &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-shared-ui/versions/1.0.0-beta-8</link>
+    <description>Shared UI library for Wagoe framework: layout, components, Hiccup rendering helpers</description>
+    <pubDate>Mon, 7 Sep 2026 06:29:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-ui-style/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-ui-style &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-ui-style/versions/1.0.0-beta-8</link>
+    <description>Shared UI style library for Wagoe framework: CSS/JS bundles and assets</description>
+    <pubDate>Mon, 7 Sep 2026 06:29:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-reports/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-reports &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-reports/versions/1.0.0-beta-8</link>
+    <description>PDF and Excel report generation for Wagoe framework: Hiccup templates, declarative sections, async via jobs module</description>
+    <pubDate>Mon, 7 Sep 2026 06:27:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-payments/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-payments &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-payments/versions/1.0.0-beta-8</link>
+    <description>PSP abstraction for Wagoe framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
+    <pubDate>Mon, 7 Sep 2026 06:26:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-email/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-email &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-email/versions/1.0.0-beta-8</link>
+    <description>Email sending library for Wagoe framework: SMTP support, composition, validation</description>
+    <pubDate>Mon, 7 Sep 2026 06:25:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-external/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-external &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-external/versions/1.0.0-beta-8</link>
+    <description>External service adapters library for Wagoe framework</description>
+    <pubDate>Mon, 7 Sep 2026 06:24:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-tenant/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-tenant &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-tenant/versions/1.0.0-beta-8</link>
+    <description>Multi-tenancy library for Wagoe framework: schema isolation, tenant resolution, provisioning</description>
+    <pubDate>Mon, 7 Sep 2026 06:22:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-realtime/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-realtime &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-realtime/versions/1.0.0-beta-8</link>
+    <description>Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication</description>
+    <pubDate>Mon, 7 Sep 2026 06:21:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-storage/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-storage &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-storage/versions/1.0.0-beta-8</link>
+    <description>Storage library for Wagoe framework: local filesystem and S3 adapters</description>
+    <pubDate>Mon, 7 Sep 2026 06:20:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-platform/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-platform &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-platform/versions/1.0.0-beta-8</link>
+    <description>Platform library for Wagoe framework: database, HTTP, configuration, modules</description>
+    <pubDate>Mon, 7 Sep 2026 06:19:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-cache/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-cache &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-cache/versions/1.0.0-beta-8</link>
+    <description>Cache library for Wagoe framework: in-memory and Redis cache adapters</description>
+    <pubDate>Mon, 7 Sep 2026 06:18:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-scaffolder/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-scaffolder &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-scaffolder/versions/1.0.0-beta-8</link>
+    <description>Code generation library for Wagoe framework: module scaffolding</description>
+    <pubDate>Mon, 7 Sep 2026 06:18:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-i18n/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-i18n &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-i18n/versions/1.0.0-beta-8</link>
+    <description>Internationalisation (i18n) for Wagoe framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management</description>
+    <pubDate>Mon, 7 Sep 2026 06:17:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-observability/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-observability &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-observability/versions/1.0.0-beta-8</link>
+    <description>Observability library for Wagoe framework: logging, metrics, error reporting</description>
+    <pubDate>Mon, 7 Sep 2026 06:16:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.wagoe/wagoe-core/versions/1.0.0-beta-8</guid>
+    <title>[com.wagoe/wagoe-core &quot;1.0.0-beta-8&quot;]</title>
+    <link>https://clojars.org/com.wagoe/wagoe-core/versions/1.0.0-beta-8</link>
+    <description>Foundation library for Wagoe framework: validation, utilities, interceptors</description>
+    <pubDate>Mon, 7 Sep 2026 06:15:19 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.621</guid>
     <title>[org.replikativ/raster &quot;0.2.621&quot;]</title>
@@ -1635,167 +1796,6 @@
     <link>https://clojars.org/io.github.hive-agi/hive-cppb/versions/0.1.10</link>
     <description></description>
     <pubDate>Sat, 5 Sep 2026 01:39:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-test/versions/0.4.1</guid>
-    <title>[io.github.hive-agi/hive-test &quot;0.4.1&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-test/versions/0.4.1</link>
-    <description></description>
-    <pubDate>Sat, 5 Sep 2026 01:39:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-events/versions/0.5.11</guid>
-    <title>[io.github.hive-agi/hive-events &quot;0.5.11&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-events/versions/0.5.11</link>
-    <description></description>
-    <pubDate>Sat, 5 Sep 2026 01:39:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-dsl/versions/0.5.22</guid>
-    <title>[io.github.hive-agi/hive-dsl &quot;0.5.22&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-dsl/versions/0.5.22</link>
-    <description></description>
-    <pubDate>Sat, 5 Sep 2026 01:39:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.573</guid>
-    <title>[org.replikativ/raster &quot;0.2.573&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.573</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sat, 5 Sep 2026 00:42:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/1.0.1</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-linux-x86_64 &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/1.0.1</link>
-    <description>Native dependency of Datalevin on Linux x86-64</description>
-    <pubDate>Sat, 5 Sep 2026 00:25:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-arm64/versions/1.0.1</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-linux-arm64 &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-arm64/versions/1.0.1</link>
-    <description>Native dependency of Datalevin on Linux Arm64</description>
-    <pubDate>Sat, 5 Sep 2026 00:25:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/1.0.1</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-windows-x86_64 &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/1.0.1</link>
-    <description>Native dependency of Datalevin database on Windows</description>
-    <pubDate>Sat, 5 Sep 2026 00:24:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/1.0.1</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-macosx-arm64 &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/1.0.1</link>
-    <description>Native dependency of Datalevin on Apple Silicon</description>
-    <pubDate>Sat, 5 Sep 2026 00:22:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.571</guid>
-    <title>[org.replikativ/raster &quot;0.2.571&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.571</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Fri, 4 Sep 2026 23:59:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.569</guid>
-    <title>[org.replikativ/raster &quot;0.2.569&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.569</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Fri, 4 Sep 2026 22:50:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.568</guid>
-    <title>[org.replikativ/raster &quot;0.2.568&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.568</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Fri, 4 Sep 2026 22:01:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.567</guid>
-    <title>[org.replikativ/raster &quot;0.2.567&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.567</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Fri, 4 Sep 2026 21:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang/lein-template.jank/versions/2026.09-7</guid>
-    <title>[org.jank-lang/lein-template.jank &quot;2026.09-7&quot;]</title>
-    <link>https://clojars.org/org.jank-lang/lein-template.jank/versions/2026.09-7</link>
-    <description></description>
-    <pubDate>Fri, 4 Sep 2026 20:21:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.jank-lang/lein-jank/versions/2026.09-7</guid>
-    <title>[org.jank-lang/lein-jank &quot;2026.09-7&quot;]</title>
-    <link>https://clojars.org/org.jank-lang/lein-jank/versions/2026.09-7</link>
-    <description>Build your jank projects using Leiningen.</description>
-    <pubDate>Fri, 4 Sep 2026 20:21:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.192</guid>
-    <title>[org.replikativ/pg-datahike &quot;0.1.192&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.192</link>
-    <description></description>
-    <pubDate>Fri, 4 Sep 2026 20:18:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.griffin/test.contract/versions/0.0.2</guid>
-    <title>[com.griffin/test.contract &quot;0.0.2&quot;]</title>
-    <link>https://clojars.org/com.griffin/test.contract/versions/0.0.2</link>
-    <description></description>
-    <pubDate>Fri, 4 Sep 2026 19:59:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.566</guid>
-    <title>[org.replikativ/raster &quot;0.2.566&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.566</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Fri, 4 Sep 2026 19:39:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.191</guid>
-    <title>[org.replikativ/pg-datahike &quot;0.1.191&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.191</link>
-    <description></description>
-    <pubDate>Fri, 4 Sep 2026 19:29:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.562</guid>
-    <title>[org.replikativ/raster &quot;0.2.562&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.562</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Fri, 4 Sep 2026 18:54:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.embedded/versions/0.8.2-beta-11</guid>
-    <title>[io.pedestal/pedestal.embedded &quot;0.8.2-beta-11&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.embedded/versions/0.8.2-beta-11</link>
-    <description></description>
-    <pubDate>Fri, 4 Sep 2026 18:49:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.http-kit/versions/0.8.2-beta-11</guid>
-    <title>[io.pedestal/pedestal.http-kit &quot;0.8.2-beta-11&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.http-kit/versions/0.8.2-beta-11</link>
-    <description></description>
-    <pubDate>Fri, 4 Sep 2026 18:49:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.jetty/versions/0.8.2-beta-11</guid>
-    <title>[io.pedestal/pedestal.jetty &quot;0.8.2-beta-11&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.jetty/versions/0.8.2-beta-11</link>
-    <description></description>
-    <pubDate>Fri, 4 Sep 2026 18:49:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1872</guid>
-    <title>[org.replikativ/datahike-http-server &quot;0.8.1872&quot;]</title>
-    <link>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1872</link>
-    <description>A durable datalog implementation adaptable for distribution.</description>
-    <pubDate>Fri, 4 Sep 2026 18:49:03 +0000</pubDate>
   </item>
   </channel>
 </rss>
