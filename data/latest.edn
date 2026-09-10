@@ -1,7 +1,3 @@
-{:created 1788768852485, :description "Core utils library for Clojure/Script", :group_name "com.taoensso", :jar_name "encore", :version "3.172.1"}
-{:created 1788769402223, :description nil, :group_name "org.akvo.flow", :jar_name "akvo-flow", :version "20260907-082251.390e4d02"}
-{:created 1788770471860, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.160"}
-{:created 1788772376269, :description "Utility functions that are used in multiple Toyokumo products", :group_name "toyokumo", :jar_name "toyokumo-commons", :version "0.4.240"}
 {:created 1788773531943, :description "Shared utilities for tech.ml.dataset + Smile SVM/SVR workflows. Requires Java 25+ (smile-core 6.3.0).", :group_name "net.clojars.alex314159", :jar_name "svm-techml-smile", :version "0.1.0"}
 {:created 1788773578008, :description "Shared VaR/beta/regression primitives for tech.ml.dataset + Neanderthal workflows.", :group_name "net.clojars.alex314159", :jar_name "var-techml-neanderthal", :version "0.1.0"}
 {:created 1788773607340, :description "Generic linear-programming portfolio optimiser: an item universe + composable constraint builders over Apache Commons Math 3's simplex solver.", :group_name "net.clojars.alex314159", :jar_name "linopt-commons-math3", :version "0.1.0"}
@@ -254,3 +250,7 @@
 {:created 1789003618892, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.101"}
 {:created 1789004241293, :description "An immutable database", :group_name "io.github.radarroark", :jar_name "xitdb", :version "0.37.0"}
 {:created 1789008011348, :description "Port of clojure.org/core.specs.alpha to ClojureCLR", :group_name "org.clojure.clr", :jar_name "core.specs.alpha", :version "0.6.133-alpha10"}
+{:created 1789010644890, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-test", :version "0.4.3"}
+{:created 1789011475261, :description "Vaelii — a contextualized common-sense knowledge base with a\n                count-aware trie index, forward/backward inference,\n                and JTMS truth maintenance, over an in-memory or on-disk store.", :group_name "com.vaelii", :jar_name "vaelii", :version "0.18.0"}
+{:created 1789011519230, :description "Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and\n                ATOMIC, each translated into one corpus format, discovered through\n                vaelii's plugin seam.", :group_name "com.vaelii", :jar_name "vaelii-foreign", :version "0.18.0"}
+{:created 1789012227427, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.1.6"}

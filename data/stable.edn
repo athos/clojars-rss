@@ -1,7 +1,3 @@
-{:created 1788762112453, :description "Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication", :group_name "com.wagoe", :jar_name "wagoe-realtime", :version "1.0.0-beta-8"}
-{:created 1788762155931, :description "Multi-tenancy library for Wagoe framework: schema isolation, tenant resolution, provisioning", :group_name "com.wagoe", :jar_name "wagoe-tenant", :version "1.0.0-beta-8"}
-{:created 1788762289703, :description "External service adapters library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-external", :version "1.0.0-beta-8"}
-{:created 1788762334606, :description "Email sending library for Wagoe framework: SMTP support, composition, validation", :group_name "com.wagoe", :jar_name "wagoe-email", :version "1.0.0-beta-8"}
 {:created 1788762377699, :description "PSP abstraction for Wagoe framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "com.wagoe", :jar_name "wagoe-payments", :version "1.0.0-beta-8"}
 {:created 1788762464778, :description "PDF and Excel report generation for Wagoe framework: Hiccup templates, declarative sections, async via jobs module", :group_name "com.wagoe", :jar_name "wagoe-reports", :version "1.0.0-beta-8"}
 {:created 1788762550516, :description "Shared UI style library for Wagoe framework: CSS/JS bundles and assets", :group_name "com.wagoe", :jar_name "wagoe-ui-style", :version "1.0.0-beta-8"}
@@ -254,3 +250,7 @@
 {:created 1789003618892, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.101"}
 {:created 1789004241293, :description "An immutable database", :group_name "io.github.radarroark", :jar_name "xitdb", :version "0.37.0"}
 {:created 1789008011348, :description "Port of clojure.org/core.specs.alpha to ClojureCLR", :group_name "org.clojure.clr", :jar_name "core.specs.alpha", :version "0.6.133-alpha10"}
+{:created 1789010644890, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-test", :version "0.4.3"}
+{:created 1789011475261, :description "Vaelii — a contextualized common-sense knowledge base with a\n                count-aware trie index, forward/backward inference,\n                and JTMS truth maintenance, over an in-memory or on-disk store.", :group_name "com.vaelii", :jar_name "vaelii", :version "0.18.0"}
+{:created 1789011519230, :description "Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and\n                ATOMIC, each translated into one corpus format, discovered through\n                vaelii's plugin seam.", :group_name "com.vaelii", :jar_name "vaelii-foreign", :version "0.18.0"}
+{:created 1789012227427, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.1.6"}
