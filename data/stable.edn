@@ -1,7 +1,3 @@
-{:created 1788768852485, :description "Core utils library for Clojure/Script", :group_name "com.taoensso", :jar_name "encore", :version "3.172.1"}
-{:created 1788769402223, :description nil, :group_name "org.akvo.flow", :jar_name "akvo-flow", :version "20260907-082251.390e4d02"}
-{:created 1788770471860, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.160"}
-{:created 1788772376269, :description "Utility functions that are used in multiple Toyokumo products", :group_name "toyokumo", :jar_name "toyokumo-commons", :version "0.4.240"}
 {:created 1788773531943, :description "Shared utilities for tech.ml.dataset + Smile SVM/SVR workflows. Requires Java 25+ (smile-core 6.3.0).", :group_name "net.clojars.alex314159", :jar_name "svm-techml-smile", :version "0.1.0"}
 {:created 1788773578008, :description "Shared VaR/beta/regression primitives for tech.ml.dataset + Neanderthal workflows.", :group_name "net.clojars.alex314159", :jar_name "var-techml-neanderthal", :version "0.1.0"}
 {:created 1788773607340, :description "Generic linear-programming portfolio optimiser: an item universe + composable constraint builders over Apache Commons Math 3's simplex solver.", :group_name "net.clojars.alex314159", :jar_name "linopt-commons-math3", :version "0.1.0"}
@@ -254,3 +250,7 @@
 {:created 1789025194359, :description nil, :group_name "com.monkeyci", :jar_name "script", :version "0.27.4"}
 {:created 1789025310585, :description nil, :group_name "com.monkeyci", :jar_name "mod-oci", :version "0.27.4"}
 {:created 1789025450746, :description nil, :group_name "com.monkeyci", :jar_name "test", :version "0.27.4"}
+{:created 1789028414758, :description nil, :group_name "com.monkeyci", :jar_name "core", :version "0.27.5"}
+{:created 1789028460176, :description "Konserve S3 Backend", :group_name "org.replikativ", :jar_name "konserve-s3", :version "0.1.44"}
+{:created 1789028785494, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.102"}
+{:created 1789030277501, :description "An idiomatic Quartz wrapper for Clojure.", :group_name "com.timezynk", :jar_name "scheduler", :version "1.1.0"}
