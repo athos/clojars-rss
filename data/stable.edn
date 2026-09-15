@@ -1,5 +1,3 @@
-{:created 1789277498718, :description "Auth module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-auth", :version "0.3.0-beta2"}
-{:created 1789277526149, :description "Dev module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-dev", :version "0.3.0-beta2"}
 {:created 1789277561458, :description "JSON (charred library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-charred", :version "0.3.0-beta2"}
 {:created 1789277594279, :description "JSON (cheshire library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-cheshire", :version "0.3.0-beta2"}
 {:created 1789277625228, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.3.0-beta2"}
@@ -254,3 +252,5 @@
 {:created 1789501816553, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-weave", :version "0.3.13"}
 {:created 1789501867018, :description nil, :group_name "io.github.hive-agi", :jar_name "scc-mcp", :version "0.1.13"}
 {:created 1789504466071, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.113"}
+{:created 1789512752932, :description "The YS (YAMLScript) v0 standard library for Clojure runtimes.\n  Code compiled with `ys -T bb|clj|jolt|glj` runs on babashka, JVM\n  Clojure, jolt and glojure with this library on the classpath.", :group_name "org.yamlscript", :jar_name "ys.v0", :version "0.3.1"}
+{:created 1789512815796, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.3.1"}
