@@ -1,26 +1,3 @@
-{:created 1789277467541, :description "Clojure/Script library for making MCP servers and clients", :group_name "io.github.plumce", :jar_name "plumcp.core", :version "0.3.0-beta2"}
-{:created 1789277498718, :description "Auth module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-auth", :version "0.3.0-beta2"}
-{:created 1789277526149, :description "Dev module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-dev", :version "0.3.0-beta2"}
-{:created 1789277561458, :description "JSON (charred library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-charred", :version "0.3.0-beta2"}
-{:created 1789277594279, :description "JSON (cheshire library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-cheshire", :version "0.3.0-beta2"}
-{:created 1789277625228, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.3.0-beta2"}
-{:created 1789277658194, :description "JSON (jsonista library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-jsonista", :version "0.3.0-beta2"}
-{:created 1789278921916, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.736"}
-{:created 1789284648691, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.29.0"}
-{:created 1789286608700, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.742"}
-{:created 1789288966286, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.745"}
-{:created 1789293513977, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.747"}
-{:created 1789296441254, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.750"}
-{:created 1789297469366, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.105"}
-{:created 1789301033752, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.752"}
-{:created 1789302621765, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.106"}
-{:created 1789303577164, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.756"}
-{:created 1789303584422, :description "gRPC for Clojure on non-shaded Netty, over clj-protobuf: dynamic services from generated code, Unix domain sockets, epoll, and Knative presets.", :group_name "com.github.bpalermo", :jar_name "clj-grpc", :version "0.1.11"}
-{:created 1789304085441, :description nil, :group_name "io.github.hive-agi", :jar_name "clj-kondo-mcp", :version "0.2.9"}
-{:created 1789304086277, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-mcp", :version "1.2.17"}
-{:created 1789304099340, :description nil, :group_name "io.github.hive-agi", :jar_name "clj-qdrant", :version "0.1.7"}
-{:created 1789304147107, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-build", :version "0.1.15"}
-{:created 1789304156557, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cppb", :version "0.1.12"}
 {:created 1789304166266, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-di", :version "0.4.11"}
 {:created 1789304193876, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-emacs-hagent", :version "0.2.11"}
 {:created 1789304209577, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-dsl", :version "0.5.24"}
@@ -254,3 +231,26 @@
 {:created 1789493977293, :description nil, :group_name "com.noahbogart", :jar_name "cond-plus", :version "1.4.1"}
 {:created 1789495573970, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.111"}
 {:created 1789498050698, :description "An immutable database", :group_name "io.github.radarroark", :jar_name "xitdb", :version "0.40.0"}
+{:created 1789499027039, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.112"}
+{:created 1789499766603, :description "HTTP Server for shadow-cljs", :group_name "com.thheller", :jar_name "shadow-http", :version "0.1.10"}
+{:created 1789500152231, :description "CLJS development tools", :group_name "thheller", :jar_name "shadow-cljs", :version "3.5.2"}
+{:created 1789500351511, :description "MirthSync is an open source DevOps tool for Mirth Connect and\n  Open Integration Engine version control and CI/CD automation. This command line\n  tool enables healthcare integration DevOps workflows by keeping a local copy of\n  Mirth Connect configurations (channels, code templates, global scripts) that can\n  be tracked with Git or other version control systems. MirthSync supports\n  multi-environment deployments (dev, test, prod) with automated channel promotion\n  between servers, making it ideal for interface engine CI/CD pipelines and GitOps\n  workflows. The tool provides infrastructure as code capabilities for HL7, FHIR,\n  and DICOM integration engine deployments with built-in Git integration, channel\n  versioning, and continuous deployment support for healthcare environments.\n\n  The only requirements are having credentials for the server that is being synced\n  and ensuring that the server is configured to allow access to its REST API.", :group_name "com.saga-it", :jar_name "mirthsync", :version "3.7.0"}
+{:created 1789501145318, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-mcp", :version "1.2.22"}
+{:created 1789501163604, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-depsolve", :version "0.4.27"}
+{:created 1789501173368, :description nil, :group_name "io.github.hive-agi", :jar_name "clj-kondo-mcp", :version "0.2.11"}
+{:created 1789501181830, :description nil, :group_name "io.github.hive-agi", :jar_name "clj-qdrant", :version "0.1.9"}
+{:created 1789501249567, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-build", :version "0.1.18"}
+{:created 1789501331332, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cppb", :version "0.1.14"}
+{:created 1789501366848, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-di", :version "0.4.13"}
+{:created 1789501395989, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-emacs-hagent", :version "0.2.13"}
+{:created 1789501399145, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-dsl", :version "0.5.28"}
+{:created 1789501597297, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-overarch", :version "0.1.16"}
+{:created 1789501609105, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-qdrant", :version "0.1.18"}
+{:created 1789501615730, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-addon", :version "1.0.11"}
+{:created 1789501649938, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-recife", :version "0.1.15"}
+{:created 1789501736881, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-test", :version "0.4.6"}
+{:created 1789501743711, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-tmux", :version "0.1.8"}
+{:created 1789501753194, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-ttracking", :version "0.1.19"}
+{:created 1789501768180, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-vessel", :version "0.1.5"}
+{:created 1789501816553, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-weave", :version "0.3.13"}
+{:created 1789501867018, :description nil, :group_name "io.github.hive-agi", :jar_name "scc-mcp", :version "0.1.13"}
