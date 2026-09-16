@@ -1,5 +1,3 @@
-{:created 1789277625228, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.3.0-beta2"}
-{:created 1789277658194, :description "JSON (jsonista library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-jsonista", :version "0.3.0-beta2"}
 {:created 1789278921916, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.736"}
 {:created 1789284648691, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.29.0"}
 {:created 1789286608700, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.742"}
@@ -254,3 +252,5 @@
 {:created 1789512815796, :description "YAMLScript is a functional programming language whose syntax is encoded in\n  YAML.", :group_name "org.yamlscript", :jar_name "clj-yamlscript", :version "0.3.1"}
 {:created 1789515916528, :description nil, :group_name "com.heavycomputation", :jar_name "cloudflare", :version "0.1.3"}
 {:created 1789516237077, :description "Thin Clojure/ClojureScript client for the Synthigy /data endpoint.", :group_name "com.synthigy", :jar_name "sdk", :version "0.1.2"}
+{:created 1789517517857, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.114"}
+{:created 1789519700386, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.46"}
