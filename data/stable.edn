@@ -1,20 +1,3 @@
-{:created 1789367724298, :description nil, :group_name "org.akvo.flow", :jar_name "akvo-flow", :version "20260914-063454.28b9b7df"}
-{:created 1789367788271, :description "Data analysis and manipulation library with parallel computing for larger-than-memory datasets", :group_name "com.github.clojure-finance", :jar_name "clojask", :version "2.0.5"}
-{:created 1789367992201, :description "Useful functions", :group_name "com.timezynk", :jar_name "useful", :version "4.23.4"}
-{:created 1789370620886, :description "Release of noprompt/garden master to clojars", :group_name "org.clojars.sandudorogan", :jar_name "garden", :version "1.14.639"}
-{:created 1789373153382, :description "Useful functions", :group_name "com.timezynk", :jar_name "useful", :version "4.23.5"}
-{:created 1789377950574, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.763"}
-{:created 1789381199857, :description "Heavy Computation's Agent-o-rama fork with native LLM provider integrations", :group_name "com.heavycomputation", :jar_name "agent-o-rama", :version "0.1.0"}
-{:created 1789382770818, :description "Turn Clojure functions into CLIs!", :group_name "org.babashka", :jar_name "cli", :version "0.12.91"}
-{:created 1789383301103, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.764"}
-{:created 1789384644264, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.196"}
-{:created 1789386715963, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.765"}
-{:created 1789389590807, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.197"}
-{:created 1789390912815, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.774"}
-{:created 1789391611159, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.1.7"}
-{:created 1789392107742, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "1.1.1"}
-{:created 1789392227412, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-vessel", :version "0.1.4"}
-{:created 1789392399874, :description "Active Data: Support data modelling in Clojure", :group_name "de.active-group", :jar_name "active-data", :version "0.4.0"}
 {:created 1789392539607, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.198"}
 {:created 1789392888120, :description "", :group_name "de.active-group", :jar_name "active-data-translate", :version "0.2.0"}
 {:created 1789394455520, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.777"}
@@ -254,3 +237,20 @@
 {:created 1789705576781, :description "Postgres targets for vaelii's storage protocols, in two independent\n                lanes. The record store (vaelii.postgres.record-store) puts a KB's\n                durable ground truth in a database — core selects it as :pg-memory\n                or :pg-disk-log — with COPY on the bulk path, a fetch LRU in front of a\n                round-trip point read, and cursor-streamed enumerations. The\n                snapshot sink (vaelii.postgres.snapshot) is a SnapshotSink /\n                SnapshotSource, so a KB image — the index projection today, any of\n                io.snapshot's named sections — lands in a database as a few bulk\n                transactions and reads back the same way. An Apache-2.0 adapter on\n                the SSPL engine, depending on core, never depended on by it.", :group_name "com.vaelii", :jar_name "postgres", :version "0.20.0"}
 {:created 1789705927485, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-mcp", :version "1.6.1"}
 {:created 1789706192841, :description "SQLite targets for vaelii's storage protocols. The first is the\n                snapshot sink (vaelii.sqlite.snapshot): a SnapshotSink /\n                SnapshotSource over a single SQLite file, so a KB image — the index\n                projection today, any of io.snapshot's named sections — lands in a\n                zero-configuration file as a few bulk transactions and reads back\n                the same way. An Apache-2.0 adapter on the SSPL engine, depending on\n                core, never depended on by it.", :group_name "com.vaelii", :jar_name "sqlite", :version "0.20.0"}
+{:created 1789708409626, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.2.21"}
+{:created 1789709510474, :description "Snappy data-driven router for Clojure(Script)", :group_name "metosin", :jar_name "reitit-core", :version "0.11.0"}
+{:created 1789709518728, :description "Snappy data-driven router for Clojure(Script)", :group_name "metosin", :jar_name "reitit-dev", :version "0.11.0"}
+{:created 1789709525785, :description "Reitit: clojure.spec coercion", :group_name "metosin", :jar_name "reitit-spec", :version "0.11.0"}
+{:created 1789709533000, :description "Reitit: Malli coercion", :group_name "metosin", :jar_name "reitit-malli", :version "0.11.0"}
+{:created 1789709539455, :description "Reitit: Plumatic Schema coercion", :group_name "metosin", :jar_name "reitit-schema", :version "0.11.0"}
+{:created 1789709547613, :description "Reitit: Ring routing", :group_name "metosin", :jar_name "reitit-ring", :version "0.11.0"}
+{:created 1789709556694, :description "Reitit, common middleware bundled", :group_name "metosin", :jar_name "reitit-middleware", :version "0.11.0"}
+{:created 1789709563133, :description "Reitit: HTTP routing with interceptors", :group_name "metosin", :jar_name "reitit-http", :version "0.11.0"}
+{:created 1789709569563, :description "Reitit, common interceptors bundled", :group_name "metosin", :jar_name "reitit-interceptors", :version "0.11.0"}
+{:created 1789709575779, :description "Reitit: Swagger-support", :group_name "metosin", :jar_name "reitit-swagger", :version "0.11.0"}
+{:created 1789709582049, :description "Reitit: OpenAPI-support", :group_name "fi.metosin", :jar_name "reitit-openapi", :version "0.11.0"}
+{:created 1789709588700, :description "Reitit: Swagger-ui support", :group_name "metosin", :jar_name "reitit-swagger-ui", :version "0.11.0"}
+{:created 1789709594893, :description "Reitit: Clojurescript frontend routing core", :group_name "metosin", :jar_name "reitit-frontend", :version "0.11.0"}
+{:created 1789709601210, :description "Reitit: Sieppari Interceptors", :group_name "metosin", :jar_name "reitit-sieppari", :version "0.11.0"}
+{:created 1789709611947, :description "Reitit + Pedestal Integration", :group_name "metosin", :jar_name "reitit-pedestal", :version "0.11.0"}
+{:created 1789709623159, :description "Snappy data-driven router for Clojure(Script)", :group_name "metosin", :jar_name "reitit", :version "0.11.0"}
