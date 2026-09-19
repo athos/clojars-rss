@@ -1,7 +1,3 @@
-{:created 1789473238055, :description "Admin interface library for Wagoe framework: auto-CRUD, schema introspection", :group_name "com.wagoe", :jar_name "wagoe-admin", :version "1.0.0-rc-1"}
-{:created 1789473257250, :description "Workflow orchestration library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-workflow", :version "1.0.0-rc-1"}
-{:created 1789473276827, :description "Full-text search library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-search", :version "1.0.0-rc-1"}
-{:created 1789473314846, :description "Development tools and dashboard for the Wagoe framework: dev dashboard, REPL utilities, system inspection", :group_name "com.wagoe", :jar_name "wagoe-devtools", :version "1.0.0-rc-1"}
 {:created 1789473334262, :description "Model Context Protocol server for the Wagoe framework (stdio transport)", :group_name "com.wagoe", :jar_name "wagoe-mcp", :version "1.0.0-rc-1"}
 {:created 1789474637425, :description "80 native Web Components with centralised theming — stateless, framework-free, zero runtime. Built with ClojureScript, compiled to tree-shakeable ESM.", :group_name "com.github.avanelsas", :jar_name "baredom", :version "3.12.0"}
 {:created 1789475995650, :description "The YS (YAMLScript) v0 standard library for Clojure runtimes.\n  Code compiled with `ys -T bb|clj|jolt|glj` runs on babashka, JVM\n  Clojure, jolt and glojure with this library on the classpath.", :group_name "org.yamlscript", :jar_name "ys.v0", :version "0.3.0"}
@@ -254,3 +250,7 @@
 {:created 1789833202816, :description "Purely functional, event-driven game state engine for Clojure", :group_name "io.github.conjurernix", :jar_name "morphe.core", :version "0.2.0-SNAPSHOT"}
 {:created 1789833213632, :description "Quil adapter for the Morphe game state engine", :group_name "io.github.conjurernix", :jar_name "morphe.quil", :version "0.2.0-SNAPSHOT"}
 {:created 1789833224656, :description "LWJGL adapter for the Morphe game state engine", :group_name "io.github.conjurernix", :jar_name "morphe.lwjgl", :version "0.2.0-SNAPSHOT"}
+{:created 1789836323213, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.211"}
+{:created 1789836414995, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260919.164611.90918ab"}
+{:created 1789836485474, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20260919.164749.0a36492"}
+{:created 1789836921908, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.6-SNAPSHOT"}
