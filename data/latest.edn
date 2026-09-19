@@ -1,19 +1,3 @@
-{:created 1789431451202, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.29.1"}
-{:created 1789432233851, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-weave", :version "0.3.12"}
-{:created 1789434655588, :description "FIXME: my new application.", :group_name "io.github.rthadani", :jar_name "clj-pytorch", :version "0.8.1"}
-{:created 1789438787623, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-mcp", :version "1.2.21"}
-{:created 1789440764023, :description "Rich comment test", :group_name "io.github.robertluo", :jar_name "rich-comment-tests", :version "1.1.82"}
-{:created 1789449814639, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.1.8"}
-{:created 1789453009514, :description "Form state, validation and field arrays for Reagent.", :group_name "io.github.bangmodcloud", :jar_name "reagent-form", :version "0.3.0"}
-{:created 1789453014683, :description "Declarative HTTP/SSE API client for ClojureScript, with re-frame integration.", :group_name "io.github.bangmodcloud", :jar_name "reagent-http-api", :version "0.3.0"}
-{:created 1789453019636, :description "bidi + pushy routing for Reagent/re-frame single-page apps.", :group_name "io.github.bangmodcloud", :jar_name "reagent-router", :version "0.3.0"}
-{:created 1789455956335, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.1.9"}
-{:created 1789457951990, :description nil, :group_name "org.akvo.flow", :jar_name "akvo-flow", :version "20260915-073840.3d039749"}
-{:created 1789465851385, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.171"}
-{:created 1789472763002, :description "Developer tooling for the Wagoe framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "com.wagoe", :jar_name "wagoe-tools", :version "1.0.0-rc-1"}
-{:created 1789472781127, :description "Configuration loading and typed accessors for the Wagoe framework: Aero-based profile resolution and the accessors libraries read settings through", :group_name "com.wagoe", :jar_name "wagoe-config", :version "1.0.0-rc-1"}
-{:created 1789472798997, :description "Foundation library for Wagoe framework: validation, utilities, interceptors", :group_name "com.wagoe", :jar_name "wagoe-core", :version "1.0.0-rc-1"}
-{:created 1789472817600, :description "Observability library for Wagoe framework: logging, metrics, error reporting", :group_name "com.wagoe", :jar_name "wagoe-observability", :version "1.0.0-rc-1"}
 {:created 1789472853545, :description "Internationalisation (i18n) for Wagoe framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "com.wagoe", :jar_name "wagoe-i18n", :version "1.0.0-rc-1"}
 {:created 1789472871683, :description "Code generation library for Wagoe framework: module scaffolding", :group_name "com.wagoe", :jar_name "wagoe-scaffolder", :version "1.0.0-rc-1"}
 {:created 1789472890153, :description "Cache library for Wagoe framework: in-memory and Redis cache adapters", :group_name "com.wagoe", :jar_name "wagoe-cache", :version "1.0.0-rc-1"}
@@ -254,3 +238,19 @@
 {:created 1789776485295, :description "", :group_name "org.jank-lang", :jar_name "lein-template.jank", :version "2026.09-8"}
 {:created 1789779948435, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.37.0"}
 {:created 1789780105425, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.31.0"}
+{:created 1789783931795, :description nil, :group_name "com.biffweb", :jar_name "stuff", :version "2.0.1-SNAPSHOT"}
+{:created 1789783940958, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.1-SNAPSHOT"}
+{:created 1789783950089, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.1-SNAPSHOT"}
+{:created 1789783959196, :description nil, :group_name "com.biffweb", :jar_name "fx", :version "2.0.1-SNAPSHOT"}
+{:created 1789783968582, :description nil, :group_name "com.biffweb", :jar_name "graph", :version "2.0.1-SNAPSHOT"}
+{:created 1789783977763, :description nil, :group_name "com.biffweb", :jar_name "sqlite", :version "2.0.1-SNAPSHOT"}
+{:created 1789783987639, :description nil, :group_name "com.biffweb", :jar_name "xtdb", :version "2.0.1-SNAPSHOT"}
+{:created 1789783997094, :description nil, :group_name "com.biffweb", :jar_name "ring", :version "2.0.1-SNAPSHOT"}
+{:created 1789784006484, :description nil, :group_name "com.biffweb", :jar_name "datastar", :version "2.0.1-SNAPSHOT"}
+{:created 1789784016061, :description nil, :group_name "com.biffweb", :jar_name "run", :version "2.0.1-SNAPSHOT"}
+{:created 1789784025825, :description nil, :group_name "com.biffweb", :jar_name "tasks", :version "2.0.1-SNAPSHOT"}
+{:created 1789784034828, :description nil, :group_name "com.biffweb", :jar_name "background", :version "2.0.1-SNAPSHOT"}
+{:created 1789784043783, :description nil, :group_name "com.biffweb", :jar_name "authenticate", :version "2.0.1-SNAPSHOT"}
+{:created 1789784052731, :description nil, :group_name "com.biffweb", :jar_name "admin", :version "2.0.1-SNAPSHOT"}
+{:created 1789784061788, :description nil, :group_name "com.biffweb", :jar_name "defaults", :version "2.0.1-SNAPSHOT"}
+{:created 1789786120095, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "1.2.0"}
