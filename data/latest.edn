@@ -1,7 +1,3 @@
-{:created 1789706192841, :description "SQLite targets for vaelii's storage protocols. The first is the\n                snapshot sink (vaelii.sqlite.snapshot): a SnapshotSink /\n                SnapshotSource over a single SQLite file, so a KB image — the index\n                projection today, any of io.snapshot's named sections — lands in a\n                zero-configuration file as a few bulk transactions and reads back\n                the same way. An Apache-2.0 adapter on the SSPL engine, depending on\n                core, never depended on by it.", :group_name "com.vaelii", :jar_name "sqlite", :version "0.20.0"}
-{:created 1789708409626, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.2.21"}
-{:created 1789709510474, :description "Snappy data-driven router for Clojure(Script)", :group_name "metosin", :jar_name "reitit-core", :version "0.11.0"}
-{:created 1789709518728, :description "Snappy data-driven router for Clojure(Script)", :group_name "metosin", :jar_name "reitit-dev", :version "0.11.0"}
 {:created 1789709525785, :description "Reitit: clojure.spec coercion", :group_name "metosin", :jar_name "reitit-spec", :version "0.11.0"}
 {:created 1789709533000, :description "Reitit: Malli coercion", :group_name "metosin", :jar_name "reitit-malli", :version "0.11.0"}
 {:created 1789709539455, :description "Reitit: Plumatic Schema coercion", :group_name "metosin", :jar_name "reitit-schema", :version "0.11.0"}
@@ -252,5 +248,9 @@
 {:created 1789937375910, :description "com.blockether/vis-contract - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-contract", :version "0.2.13"}
 {:created 1789937382868, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.2.13"}
 {:created 1789938615081, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.17-SNAPSHOT"}
-{:created 1789940501443, :description "Fast and primitive math library", :group_name "generateme", :jar_name "fastmath", :version "3.0.0-alpha10-SNAPSHOT"}
 {:created 1789941030428, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.825"}
+{:created 1789942226484, :description "Fast and primitive math library", :group_name "generateme", :jar_name "fastmath", :version "3.0.0-alpha10-SNAPSHOT"}
+{:created 1789943287615, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.827"}
+{:created 1789943574713, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.227"}
+{:created 1789943746995, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.2.285"}
+{:created 1789943762283, :description "Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api.updates", :version "1.2.285"}
