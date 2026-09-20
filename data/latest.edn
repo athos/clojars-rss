@@ -1,27 +1,3 @@
-{:created 1789543773392, :description "Some thread wrapper functions for Clojure.", :group_name "com.timezynk", :jar_name "thread", :version "1.0.0"}
-{:created 1789544940946, :description nil, :group_name "org.domaindrivenarchitecture", :jar_name "dda-backup", :version "5.8.1"}
-{:created 1789545333984, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.8.3"}
-{:created 1789546818607, :description "Templating engine for OOXML DOCX and PPTX files", :group_name "io.github.erdos", :jar_name "stencil-core", :version "0.6.7"}
-{:created 1789547897714, :description "Generic linear-programming portfolio optimiser: an item universe + composable constraint builders over Apache Commons Math 3's simplex solver.", :group_name "net.clojars.alex314159", :jar_name "linopt-commons-math3", :version "0.1.1"}
-{:created 1789548990492, :description nil, :group_name "io.trosa", :jar_name "toolbox", :version "1.1.10"}
-{:created 1789549747984, :description nil, :group_name "org.akvo.flow", :jar_name "akvo-flow", :version "20260916-090835.06ca470d"}
-{:created 1789551232332, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.29.2"}
-{:created 1789551737566, :description "HTTP Server for shadow-cljs", :group_name "com.thheller", :jar_name "shadow-http", :version "0.1.11"}
-{:created 1789551862387, :description "CLJS development tools", :group_name "thheller", :jar_name "shadow-cljs", :version "3.5.3"}
-{:created 1789553775734, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.36.0"}
-{:created 1789557745365, :description "An experimental from-scratch QR Code generator and reader for Clojure and ClojureScript, implemented against ISO/IEC 18004:2015 with a pure core and thin platform pixel adapters. No conformance claim.", :group_name "com.notnullmakers", :jar_name "qrity", :version "0.1.2"}
-{:created 1789562042019, :description "Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.", :group_name "com.blockether", :jar_name "lanterna", :version "3.1.5-vis.51"}
-{:created 1789565155879, :description "A mocking library for Clojure.", :group_name "me.pmatiello", :jar_name "mockfn", :version "0.12.0"}
-{:created 1789566416480, :description "A Clojure library for the Apache Kafka distributed streaming platform.", :group_name "fundingcircle", :jar_name "jackdaw", :version "0.10.1-SNAPSHOT"}
-{:created 1789567331421, :description "The next generation of clojure.java.jdbc: a new low-level Clojure wrapper for JDBC-based access to databases.", :group_name "com.github.seancorfield", :jar_name "next.jdbc", :version "1.3.9999-SNAPSHOT"}
-{:created 1789573515259, :description "Pure Clojure SDK for the Model Context Protocol (MCP)", :group_name "org.clojars.pooriayousefi", :jar_name "mcp.clj", :version "0.1.4"}
-{:created 1789576555312, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-hot", :version "0.1.16"}
-{:created 1789576563361, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-events", :version "0.5.16"}
-{:created 1789577997759, :description "Clojure SDK for canonical LLM provider integration.", :group_name "net.clojars.deadmeme5441", :jar_name "clojure-llm-sdk", :version "0.6.1"}
-{:created 1789578313504, :description "Native dependency of Datalevin on Apple Silicon", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-arm64", :version "1.1.3"}
-{:created 1789578330569, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "1.1.3"}
-{:created 1789578416111, :description "Native dependency of Datalevin database on Windows", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-windows-x86_64", :version "1.1.3"}
-{:created 1789578473081, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "1.1.3"}
 {:created 1789578761727, :description "Clojure SDK for canonical LLM provider integration.", :group_name "net.clojars.deadmeme5441", :jar_name "clojure-llm-sdk", :version "0.6.2"}
 {:created 1789580278788, :description "Pure Clojure SDK for the Model Context Protocol (MCP)", :group_name "org.clojars.pooriayousefi", :jar_name "mcp.clj", :version "0.1.5"}
 {:created 1789582758355, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-mcp", :version "1.6.0"}
@@ -254,3 +230,27 @@
 {:created 1789887158707, :description "web3 example libraries", :group_name "xyz.zcaudate", :jar_name "web3.lib.example", :version "4.1.6"}
 {:created 1789887162474, :description "xtalk language", :group_name "xyz.zcaudate", :jar_name "xtalk.runtime", :version "4.1.6"}
 {:created 1789887323175, :description "base libraries for foundation", :group_name "xyz.zcaudate", :jar_name "foundation-base", :version "4.1.6"}
+{:created 1789897960677, :description "Developer tooling for the Wagoe framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "com.wagoe", :jar_name "wagoe-tools", :version "1.0.0-rc-2"}
+{:created 1789897977085, :description "Configuration loading and typed accessors for the Wagoe framework: Aero-based profile resolution and the accessors libraries read settings through", :group_name "com.wagoe", :jar_name "wagoe-config", :version "1.0.0-rc-2"}
+{:created 1789897993465, :description "Foundation library for Wagoe framework: validation, utilities, interceptors", :group_name "com.wagoe", :jar_name "wagoe-core", :version "1.0.0-rc-2"}
+{:created 1789898009660, :description "Observability library for Wagoe framework: logging, metrics, error reporting", :group_name "com.wagoe", :jar_name "wagoe-observability", :version "1.0.0-rc-2"}
+{:created 1789898040955, :description "Internationalisation (i18n) for Wagoe framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "com.wagoe", :jar_name "wagoe-i18n", :version "1.0.0-rc-2"}
+{:created 1789898056327, :description "Code generation library for Wagoe framework: module scaffolding", :group_name "com.wagoe", :jar_name "wagoe-scaffolder", :version "1.0.0-rc-2"}
+{:created 1789898071651, :description "Cache library for Wagoe framework: in-memory and Redis cache adapters", :group_name "com.wagoe", :jar_name "wagoe-cache", :version "1.0.0-rc-2"}
+{:created 1789898088427, :description "Platform library for Wagoe framework: database, HTTP, configuration, modules", :group_name "com.wagoe", :jar_name "wagoe-platform", :version "1.0.0-rc-2"}
+{:created 1789898106466, :description "Storage library for Wagoe framework: local filesystem and S3 adapters", :group_name "com.wagoe", :jar_name "wagoe-storage", :version "1.0.0-rc-2"}
+{:created 1789898139265, :description "Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication", :group_name "com.wagoe", :jar_name "wagoe-realtime", :version "1.0.0-rc-2"}
+{:created 1789898155751, :description "Multi-tenancy library for Wagoe framework: schema isolation, tenant resolution, provisioning", :group_name "com.wagoe", :jar_name "wagoe-tenant", :version "1.0.0-rc-2"}
+{:created 1789898173131, :description "Jobs library for Wagoe framework: background job queuing with in-memory and Redis adapters", :group_name "com.wagoe", :jar_name "wagoe-jobs", :version "1.0.0-rc-2"}
+{:created 1789898206480, :description "External service adapters library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-external", :version "1.0.0-rc-2"}
+{:created 1789898222864, :description "Email sending library for Wagoe framework: SMTP support, composition, validation", :group_name "com.wagoe", :jar_name "wagoe-email", :version "1.0.0-rc-2"}
+{:created 1789898238820, :description "PSP abstraction for Wagoe framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "com.wagoe", :jar_name "wagoe-payments", :version "1.0.0-rc-2"}
+{:created 1789898271078, :description "PDF and Excel report generation for Wagoe framework: Hiccup templates, declarative sections, async via jobs module", :group_name "com.wagoe", :jar_name "wagoe-reports", :version "1.0.0-rc-2"}
+{:created 1789898287188, :description "Multi-provider AI library for Wagoe framework: Anthropic, OpenAI, Ollama", :group_name "com.wagoe", :jar_name "wagoe-ai", :version "1.0.0-rc-2"}
+{:created 1789898303186, :description "Shared UI style library for Wagoe framework: CSS/JS bundles and assets", :group_name "com.wagoe", :jar_name "wagoe-ui-style", :version "1.0.0-rc-2"}
+{:created 1789898320174, :description "Shared UI library for Wagoe framework: layout, components, Hiccup rendering helpers", :group_name "com.wagoe", :jar_name "wagoe-shared-ui", :version "1.0.0-rc-2"}
+{:created 1789898337476, :description "User management library for Wagoe framework: authentication, sessions, MFA", :group_name "com.wagoe", :jar_name "wagoe-user", :version "1.0.0-rc-2"}
+{:created 1789898371063, :description "Admin interface library for Wagoe framework: auto-CRUD, schema introspection", :group_name "com.wagoe", :jar_name "wagoe-admin", :version "1.0.0-rc-2"}
+{:created 1789898387646, :description "Workflow orchestration library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-workflow", :version "1.0.0-rc-2"}
+{:created 1789898405784, :description "Full-text search library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-search", :version "1.0.0-rc-2"}
+{:created 1789898441244, :description "Development tools and dashboard for the Wagoe framework: dev dashboard, REPL utilities, system inspection", :group_name "com.wagoe", :jar_name "wagoe-devtools", :version "1.0.0-rc-2"}
