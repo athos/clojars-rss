@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 20 Sep 2026 07:03:33 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 08:04:18 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/xyz.zcaudate/foundation-base/versions/4.1.6</guid>
+    <title>[xyz.zcaudate/foundation-base &quot;4.1.6&quot;]</title>
+    <link>https://clojars.org/xyz.zcaudate/foundation-base/versions/4.1.6</link>
+    <description>base libraries for foundation</description>
+    <pubDate>Sun, 20 Sep 2026 06:55:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/xyz.zcaudate/xtalk.runtime/versions/4.1.6</guid>
+    <title>[xyz.zcaudate/xtalk.runtime &quot;4.1.6&quot;]</title>
+    <link>https://clojars.org/xyz.zcaudate/xtalk.runtime/versions/4.1.6</link>
+    <description>xtalk language</description>
+    <pubDate>Sun, 20 Sep 2026 06:52:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/xyz.zcaudate/web3.lib.example/versions/4.1.6</guid>
+    <title>[xyz.zcaudate/web3.lib.example &quot;4.1.6&quot;]</title>
+    <link>https://clojars.org/xyz.zcaudate/web3.lib.example/versions/4.1.6</link>
+    <description>web3 example libraries</description>
+    <pubDate>Sun, 20 Sep 2026 06:52:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/xyz.zcaudate/xtalk.db/versions/4.1.6</guid>
+    <title>[xyz.zcaudate/xtalk.db &quot;4.1.6&quot;]</title>
+    <link>https://clojars.org/xyz.zcaudate/xtalk.db/versions/4.1.6</link>
+    <description>xtalk language</description>
+    <pubDate>Sun, 20 Sep 2026 06:52:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/xyz.zcaudate/verilog/versions/4.1.6</guid>
+    <title>[xyz.zcaudate/verilog &quot;4.1.6&quot;]</title>
+    <link>https://clojars.org/xyz.zcaudate/verilog/versions/4.1.6</link>
+    <description>verilog language and runtime support</description>
+    <pubDate>Sun, 20 Sep 2026 06:52:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/xyz.zcaudate/std.time/versions/4.1.6</guid>
+    <title>[xyz.zcaudate/std.time &quot;4.1.6&quot;]</title>
+    <link>https://clojars.org/xyz.zcaudate/std.time/versions/4.1.6</link>
+    <description>time library</description>
+    <pubDate>Sun, 20 Sep 2026 06:52:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/xyz.zcaudate/std.scheduler/versions/4.1.6</guid>
+    <title>[xyz.zcaudate/std.scheduler &quot;4.1.6&quot;]</title>
+    <link>https://clojars.org/xyz.zcaudate/std.scheduler/versions/4.1.6</link>
+    <description>scheduled runner for timebound execution</description>
+    <pubDate>Sun, 20 Sep 2026 06:52:37 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/xyz.zcaudate/std.text/versions/4.1.6</guid>
     <title>[xyz.zcaudate/std.text &quot;4.1.6&quot;]</title>
@@ -1769,57 +1818,6 @@
     <description>YAMLScript is a functional programming language whose syntax is encoded in
   YAML.</description>
     <pubDate>Tue, 15 Sep 2026 22:53:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.yamlscript/ys.v0/versions/0.3.1</guid>
-    <title>[org.yamlscript/ys.v0 &quot;0.3.1&quot;]</title>
-    <link>https://clojars.org/org.yamlscript/ys.v0/versions/0.3.1</link>
-    <description>The YS (YAMLScript) v0 standard library for Clojure runtimes.
-  Code compiled with `ys -T bb|clj|jolt|glj` runs on babashka, JVM
-  Clojure, jolt and glojure with this library on the classpath.</description>
-    <pubDate>Tue, 15 Sep 2026 22:52:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.113</guid>
-    <title>[org.replikativ/ansatz &quot;0.2.113&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.113</link>
-    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
-    <pubDate>Tue, 15 Sep 2026 20:34:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/scc-mcp/versions/0.1.13</guid>
-    <title>[io.github.hive-agi/scc-mcp &quot;0.1.13&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/scc-mcp/versions/0.1.13</link>
-    <description></description>
-    <pubDate>Tue, 15 Sep 2026 19:51:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-weave/versions/0.3.13</guid>
-    <title>[io.github.hive-agi/hive-weave &quot;0.3.13&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-weave/versions/0.3.13</link>
-    <description></description>
-    <pubDate>Tue, 15 Sep 2026 19:50:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-vessel/versions/0.1.5</guid>
-    <title>[io.github.hive-agi/hive-vessel &quot;0.1.5&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-vessel/versions/0.1.5</link>
-    <description></description>
-    <pubDate>Tue, 15 Sep 2026 19:49:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-ttracking/versions/0.1.19</guid>
-    <title>[io.github.hive-agi/hive-ttracking &quot;0.1.19&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-ttracking/versions/0.1.19</link>
-    <description></description>
-    <pubDate>Tue, 15 Sep 2026 19:49:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-tmux/versions/0.1.8</guid>
-    <title>[io.github.hive-agi/hive-tmux &quot;0.1.8&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-tmux/versions/0.1.8</link>
-    <description></description>
-    <pubDate>Tue, 15 Sep 2026 19:49:03 +0000</pubDate>
   </item>
   </channel>
 </rss>
