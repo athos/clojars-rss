@@ -1,27 +1,3 @@
-{:created 1789516237077, :description "Thin Clojure/ClojureScript client for the Synthigy /data endpoint.", :group_name "com.synthigy", :jar_name "sdk", :version "0.1.2"}
-{:created 1789517517857, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.114"}
-{:created 1789519700386, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.46"}
-{:created 1789523041710, :description "Rephrase exceptions.", :group_name "org.corfield", :jar_name "rephrase", :version "1.0.7-SNAPSHOT"}
-{:created 1789533185445, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-mcp", :version "1.2.23"}
-{:created 1789533195132, :description nil, :group_name "io.github.hive-agi", :jar_name "clj-kondo-mcp", :version "0.2.12"}
-{:created 1789533203008, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-depsolve", :version "0.4.28"}
-{:created 1789533238153, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-build", :version "0.1.19"}
-{:created 1789533257041, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cppb", :version "0.1.15"}
-{:created 1789533278688, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-di", :version "0.4.14"}
-{:created 1789533301866, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-hot", :version "0.1.15"}
-{:created 1789533305347, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-events", :version "0.5.15"}
-{:created 1789533309252, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-dsl", :version "0.5.29"}
-{:created 1789533342059, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-license", :version "0.2.9"}
-{:created 1789533391046, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.1.10"}
-{:created 1789533397927, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-schemas", :version "0.1.35"}
-{:created 1789533407032, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-test", :version "0.4.7"}
-{:created 1789533409992, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-ttracking", :version "0.1.20"}
-{:created 1789533432203, :description nil, :group_name "io.github.hive-agi", :jar_name "scc-mcp", :version "0.1.14"}
-{:created 1789533433676, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-tmux", :version "0.1.9"}
-{:created 1789533451207, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-weave", :version "0.3.14"}
-{:created 1789533453072, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-cljs", :version "0.2.19"}
-{:created 1789533613157, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-addon", :version "1.0.12"}
-{:created 1789534274010, :description "Native dependency of Datalevin on Apple Silicon", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-arm64", :version "1.1.2"}
 {:created 1789534402977, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "1.1.2"}
 {:created 1789534472692, :description "Native dependency of Datalevin database on Windows", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-windows-x86_64", :version "1.1.2"}
 {:created 1789534544460, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "1.1.2"}
@@ -254,3 +230,27 @@
 {:created 1789866795096, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.49"}
 {:created 1789868942018, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.217"}
 {:created 1789870664650, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.218"}
+{:created 1789886937194, :description "source and test management", :group_name "xyz.zcaudate", :jar_name "code.framework", :version "4.1.6"}
+{:created 1789886941769, :description "generate documentation from code", :group_name "xyz.zcaudate", :jar_name "code.doc", :version "4.1.6"}
+{:created 1789886974700, :description "js core submodules, module scaffolding and webpack helpers", :group_name "xyz.zcaudate", :jar_name "js.core", :version "4.1.6"}
+{:created 1789887030195, :description "js valtio libraries", :group_name "xyz.zcaudate", :jar_name "js.lib.valtio", :version "4.1.6"}
+{:created 1789887030385, :description "js react libraries", :group_name "xyz.zcaudate", :jar_name "js.react", :version "4.1.6"}
+{:created 1789887033445, :description "js core libraries", :group_name "xyz.zcaudate", :jar_name "js.react-ext", :version "4.1.6"}
+{:created 1789887043526, :description "jvm library", :group_name "xyz.zcaudate", :jar_name "jvm", :version "4.1.6"}
+{:created 1789887059791, :description "wrapper for docker", :group_name "xyz.zcaudate", :jar_name "lib.docker", :version "4.1.6"}
+{:created 1789887060446, :description "wrapper for org.eclipse.aether", :group_name "xyz.zcaudate", :jar_name "lib.aether", :version "4.1.6"}
+{:created 1789887093416, :description "network and http programming", :group_name "xyz.zcaudate", :jar_name "net.http", :version "4.1.6"}
+{:created 1789887101897, :description "scripts for sql", :group_name "xyz.zcaudate", :jar_name "script.sql", :version "4.1.6"}
+{:created 1789887102371, :description "wrapper for toml4j", :group_name "xyz.zcaudate", :jar_name "script.toml", :version "4.1.6"}
+{:created 1789887106275, :description "wrapper for scribe", :group_name "xyz.zcaudate", :jar_name "script.yaml", :version "4.1.6"}
+{:created 1789887127382, :description "secure configuration", :group_name "xyz.zcaudate", :jar_name "std.config", :version "4.1.6"}
+{:created 1789887127386, :description "blocks for code unit representation", :group_name "xyz.zcaudate", :jar_name "std.block", :version "4.1.6"}
+{:created 1789887131111, :description "wrapper for org.jsoup", :group_name "xyz.zcaudate", :jar_name "std.html", :version "4.1.6"}
+{:created 1789887132225, :description "file library", :group_name "xyz.zcaudate", :jar_name "std.fs", :version "4.1.6"}
+{:created 1789887133501, :description "wrapper for com.fasterxml.jackson", :group_name "xyz.zcaudate", :jar_name "std.json", :version "4.1.6"}
+{:created 1789887133875, :description "foundation math library", :group_name "xyz.zcaudate", :jar_name "std.math", :version "4.1.6"}
+{:created 1789887134479, :description "make + tmux", :group_name "xyz.zcaudate", :jar_name "std.make", :version "4.1.6"}
+{:created 1789887135006, :description "foundation logging library", :group_name "xyz.zcaudate", :jar_name "std.log", :version "4.1.6"}
+{:created 1789887135341, :description "foundation reflection library", :group_name "xyz.zcaudate", :jar_name "std.object", :version "4.1.6"}
+{:created 1789887154923, :description "pretty print library", :group_name "xyz.zcaudate", :jar_name "std.pretty", :version "4.1.6"}
+{:created 1789887154974, :description "text diffing and search", :group_name "xyz.zcaudate", :jar_name "std.text", :version "4.1.6"}
