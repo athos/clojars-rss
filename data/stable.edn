@@ -1,8 +1,3 @@
-{:created 1789534402977, :description "Native dependency of Datalevin on Linux x86-64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-x86_64", :version "1.1.2"}
-{:created 1789534472692, :description "Native dependency of Datalevin database on Windows", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-windows-x86_64", :version "1.1.2"}
-{:created 1789534544460, :description "Native dependency of Datalevin on Linux Arm64", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-linux-arm64", :version "1.1.2"}
-{:created 1789537719912, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.1.11"}
-{:created 1789541739469, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.8.2"}
 {:created 1789542057965, :description "An idiomatic Quartz wrapper for Clojure.", :group_name "com.timezynk", :jar_name "scheduler", :version "1.1.2"}
 {:created 1789543688059, :description "Generates CLR-compatible test files from Rich Comment Tests blocks", :group_name "sg.flybot", :jar_name "rct-clr", :version "0.1.0"}
 {:created 1789543773392, :description "Some thread wrapper functions for Clojure.", :group_name "com.timezynk", :jar_name "thread", :version "1.0.0"}
@@ -254,3 +249,8 @@
 {:created 1789898387646, :description "Workflow orchestration library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-workflow", :version "1.0.0-rc-2"}
 {:created 1789898405784, :description "Full-text search library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-search", :version "1.0.0-rc-2"}
 {:created 1789898441244, :description "Development tools and dashboard for the Wagoe framework: dev dashboard, REPL utilities, system inspection", :group_name "com.wagoe", :jar_name "wagoe-devtools", :version "1.0.0-rc-2"}
+{:created 1789898459174, :description "Model Context Protocol server for the Wagoe framework (stdio transport)", :group_name "com.wagoe", :jar_name "wagoe-mcp", :version "1.0.0-rc-2"}
+{:created 1789900748742, :description "Clojure tools for Vis: format, lint, tests, managed nREPL and an add-only delimiter repair.", :group_name "com.blockether", :jar_name "vis-lang-clojure", :version "1.0.0"}
+{:created 1789900814969, :description "Fast and primitive math library", :group_name "generateme", :jar_name "fastmath", :version "3.0.0-alpha9"}
+{:created 1789901263619, :description "Clojure wrapper for Structured Concurrency (JDK 25+).", :group_name "com.github.marksto", :jar_name "con-struct", :version "0.8.17"}
+{:created 1789901506870, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.52"}
