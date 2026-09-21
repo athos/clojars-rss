@@ -1,27 +1,3 @@
-{:created 1789750067187, :description "aJent: Agentic AI Framework with unified offline + online LLM provider support", :group_name "org.clojars.pooriayousefi", :jar_name "ajent", :version "2.1.0"}
-{:created 1789751537439, :description "Library of commonly used functions for web app development", :group_name "com.github.dgknght", :jar_name "app-lib", :version "0.3.57"}
-{:created 1789757612172, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.200"}
-{:created 1789760608473, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.203"}
-{:created 1789761645475, :description "Unified multi-provider LLM client library", :group_name "com.hyperphor", :jar_name "ellum", :version "0.1.3"}
-{:created 1789768783669, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.204"}
-{:created 1789772867326, :description "Hyperphor utility library", :group_name "com.hyperphor", :jar_name "multitool", :version "0.3.3"}
-{:created 1789773383150, :description "Unified multi-provider LLM client library", :group_name "com.hyperphor", :jar_name "ellum", :version "0.1.4"}
-{:created 1789776455684, :description "Build your jank projects using Leiningen.", :group_name "org.jank-lang", :jar_name "lein-jank", :version "2026.09-8"}
-{:created 1789776485295, :description "", :group_name "org.jank-lang", :jar_name "lein-template.jank", :version "2026.09-8"}
-{:created 1789779948435, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.37.0"}
-{:created 1789780105425, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.31.0"}
-{:created 1789783931795, :description nil, :group_name "com.biffweb", :jar_name "stuff", :version "2.0.1-SNAPSHOT"}
-{:created 1789783940958, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.1-SNAPSHOT"}
-{:created 1789783950089, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.1-SNAPSHOT"}
-{:created 1789783959196, :description nil, :group_name "com.biffweb", :jar_name "fx", :version "2.0.1-SNAPSHOT"}
-{:created 1789783968582, :description nil, :group_name "com.biffweb", :jar_name "graph", :version "2.0.1-SNAPSHOT"}
-{:created 1789783977763, :description nil, :group_name "com.biffweb", :jar_name "sqlite", :version "2.0.1-SNAPSHOT"}
-{:created 1789783987639, :description nil, :group_name "com.biffweb", :jar_name "xtdb", :version "2.0.1-SNAPSHOT"}
-{:created 1789783997094, :description nil, :group_name "com.biffweb", :jar_name "ring", :version "2.0.1-SNAPSHOT"}
-{:created 1789784006484, :description nil, :group_name "com.biffweb", :jar_name "datastar", :version "2.0.1-SNAPSHOT"}
-{:created 1789784016061, :description nil, :group_name "com.biffweb", :jar_name "run", :version "2.0.1-SNAPSHOT"}
-{:created 1789784025825, :description nil, :group_name "com.biffweb", :jar_name "tasks", :version "2.0.1-SNAPSHOT"}
-{:created 1789784034828, :description nil, :group_name "com.biffweb", :jar_name "background", :version "2.0.1-SNAPSHOT"}
 {:created 1789784043783, :description nil, :group_name "com.biffweb", :jar_name "authenticate", :version "2.0.1-SNAPSHOT"}
 {:created 1789784052731, :description nil, :group_name "com.biffweb", :jar_name "admin", :version "2.0.1-SNAPSHOT"}
 {:created 1789784061788, :description nil, :group_name "com.biffweb", :jar_name "defaults", :version "2.0.1-SNAPSHOT"}
@@ -254,3 +230,27 @@
 {:created 1789949111371, :description "simple string methods for searching", :group_name "xyz.zcaudate", :jar_name "std.lib", :version "4.1.7"}
 {:created 1789949115265, :description "pretty print library", :group_name "xyz.zcaudate", :jar_name "std.pretty", :version "4.1.7"}
 {:created 1789949120149, :description "text diffing and search", :group_name "xyz.zcaudate", :jar_name "std.text", :version "4.1.7"}
+{:created 1789949597733, :description "query for code", :group_name "xyz.zcaudate", :jar_name "code.query", :version "4.1.8"}
+{:created 1789949597919, :description "working with projects", :group_name "xyz.zcaudate", :jar_name "code.project", :version "4.1.8"}
+{:created 1789949597925, :description "source and test management", :group_name "xyz.zcaudate", :jar_name "code.framework", :version "4.1.8"}
+{:created 1789949598057, :description "generate documentation from code", :group_name "xyz.zcaudate", :jar_name "code.doc", :version "4.1.8"}
+{:created 1789949598966, :description "source code utils and workflow", :group_name "xyz.zcaudate", :jar_name "code.manage", :version "4.1.8"}
+{:created 1789949603146, :description "easy test framework", :group_name "xyz.zcaudate", :jar_name "code.test", :version "4.1.8"}
+{:created 1789949685374, :description "jvm library", :group_name "xyz.zcaudate", :jar_name "jvm", :version "4.1.8"}
+{:created 1789949707622, :description "wrapper for docker", :group_name "xyz.zcaudate", :jar_name "lib.docker", :version "4.1.8"}
+{:created 1789949734141, :description "openpgp that makes sense", :group_name "xyz.zcaudate", :jar_name "lib.openpgp", :version "4.1.8"}
+{:created 1789949757430, :description "network and http programming", :group_name "xyz.zcaudate", :jar_name "net.http", :version "4.1.8"}
+{:created 1789949767747, :description "wrapper for scribe", :group_name "xyz.zcaudate", :jar_name "script.yaml", :version "4.1.8"}
+{:created 1789949767889, :description "wrapper for toml4j", :group_name "xyz.zcaudate", :jar_name "script.toml", :version "4.1.8"}
+{:created 1789949787252, :description "secure configuration", :group_name "xyz.zcaudate", :jar_name "std.config", :version "4.1.8"}
+{:created 1789949787704, :description "blocks for code unit representation", :group_name "xyz.zcaudate", :jar_name "std.block", :version "4.1.8"}
+{:created 1789949789605, :description "file library", :group_name "xyz.zcaudate", :jar_name "std.fs", :version "4.1.8"}
+{:created 1789949793720, :description "foundation logging library", :group_name "xyz.zcaudate", :jar_name "std.log", :version "4.1.8"}
+{:created 1789949793722, :description "make + tmux", :group_name "xyz.zcaudate", :jar_name "std.make", :version "4.1.8"}
+{:created 1789949793735, :description "wrapper for org.jsoup", :group_name "xyz.zcaudate", :jar_name "std.html", :version "4.1.8"}
+{:created 1789949793758, :description "simple string methods for searching", :group_name "xyz.zcaudate", :jar_name "std.lib", :version "4.1.8"}
+{:created 1789949793861, :description "foundation math library", :group_name "xyz.zcaudate", :jar_name "std.math", :version "4.1.8"}
+{:created 1789949793887, :description "wrapper for com.fasterxml.jackson", :group_name "xyz.zcaudate", :jar_name "std.json", :version "4.1.8"}
+{:created 1789949815529, :description "foundation reflection library", :group_name "xyz.zcaudate", :jar_name "std.object", :version "4.1.8"}
+{:created 1789949815614, :description "pretty print library", :group_name "xyz.zcaudate", :jar_name "std.pretty", :version "4.1.8"}
+{:created 1789949815767, :description "text diffing and search", :group_name "xyz.zcaudate", :jar_name "std.text", :version "4.1.8"}
