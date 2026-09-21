@@ -1,20 +1,3 @@
-{:created 1789751537439, :description "Library of commonly used functions for web app development", :group_name "com.github.dgknght", :jar_name "app-lib", :version "0.3.57"}
-{:created 1789757612172, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.200"}
-{:created 1789760608473, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.203"}
-{:created 1789761645475, :description "Unified multi-provider LLM client library", :group_name "com.hyperphor", :jar_name "ellum", :version "0.1.3"}
-{:created 1789768783669, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.204"}
-{:created 1789772867326, :description "Hyperphor utility library", :group_name "com.hyperphor", :jar_name "multitool", :version "0.3.3"}
-{:created 1789773383150, :description "Unified multi-provider LLM client library", :group_name "com.hyperphor", :jar_name "ellum", :version "0.1.4"}
-{:created 1789776455684, :description "Build your jank projects using Leiningen.", :group_name "org.jank-lang", :jar_name "lein-jank", :version "2026.09-8"}
-{:created 1789776485295, :description "", :group_name "org.jank-lang", :jar_name "lein-template.jank", :version "2026.09-8"}
-{:created 1789779948435, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.37.0"}
-{:created 1789780105425, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.31.0"}
-{:created 1789786120095, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "1.2.0"}
-{:created 1789790452882, :description "Way", :group_name "com.hyperphor", :jar_name "way", :version "0.2.8"}
-{:created 1789803668626, :description "Firebase from Clojure. Basically Charmander 2.0", :group_name "alekcz", :jar_name "fire", :version "0.7.0-RC4"}
-{:created 1789809632706, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.205"}
-{:created 1789820007123, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.802"}
-{:created 1789821392654, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.207"}
 {:created 1789821912983, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1895"}
 {:created 1789821975599, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike-http-server", :version "0.8.1895"}
 {:created 1789828527780, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20260919.143455.82d6f17"}
@@ -254,3 +237,20 @@
 {:created 1789949815529, :description "foundation reflection library", :group_name "xyz.zcaudate", :jar_name "std.object", :version "4.1.8"}
 {:created 1789949815614, :description "pretty print library", :group_name "xyz.zcaudate", :jar_name "std.pretty", :version "4.1.8"}
 {:created 1789949815767, :description "text diffing and search", :group_name "xyz.zcaudate", :jar_name "std.text", :version "4.1.8"}
+{:created 1789949815868, :description "time library", :group_name "xyz.zcaudate", :jar_name "std.time", :version "4.1.8"}
+{:created 1789949820141, :description "timeseries manipulation", :group_name "xyz.zcaudate", :jar_name "std.timeseries", :version "4.1.8"}
+{:created 1789949820141, :description "web3 example libraries", :group_name "xyz.zcaudate", :jar_name "web3.lib.example", :version "4.1.8"}
+{:created 1789949820786, :description "xtalk language", :group_name "xyz.zcaudate", :jar_name "xtalk.runtime", :version "4.1.8"}
+{:created 1789949821243, :description "xtalk language", :group_name "xyz.zcaudate", :jar_name "xtalk.db", :version "4.1.8"}
+{:created 1789949821296, :description "virtual machine interpreters", :group_name "xyz.zcaudate", :jar_name "std.vm", :version "4.1.8"}
+{:created 1789949821486, :description "verilog language and runtime support", :group_name "xyz.zcaudate", :jar_name "verilog", :version "4.1.8"}
+{:created 1789950170530, :description "base libraries for foundation", :group_name "xyz.zcaudate", :jar_name "foundation-base", :version "4.1.8"}
+{:created 1789952376937, :description nil, :group_name "energy.grid-coordination", :jar_name "clj-urpx", :version "0.11.0"}
+{:created 1789953320223, :description "Build your jank projects using Leiningen.", :group_name "org.jank-lang", :jar_name "lein-jank", :version "2026.09-9"}
+{:created 1789953347437, :description "", :group_name "org.jank-lang", :jar_name "lein-template.jank", :version "2026.09-9"}
+{:created 1789953917359, :description "com.blockether/vis-contract - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-contract", :version "0.2.15"}
+{:created 1789953922781, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.2.15"}
+{:created 1789954534747, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.830"}
+{:created 1789955095168, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.230"}
+{:created 1789955292981, :description "Clojure tools for Vis: format, lint, tests, managed nREPL and an add-only delimiter repair.", :group_name "com.blockether", :jar_name "vis-lang-clojure", :version "1.3.0"}
+{:created 1789955385098, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.1479"}
