@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 23 Sep 2026 10:03:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 11:03:03 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.51</guid>
+    <title>[org.replikativ/pretrained-rstr &quot;0.1.51&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.51</link>
+    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
+    <pubDate>Wed, 23 Sep 2026 10:57:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.921</guid>
+    <title>[org.replikativ/raster &quot;0.2.921&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.921</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Wed, 23 Sep 2026 10:38:03 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.5.2</guid>
     <title>[com.blockether/vis-lang-clojure &quot;1.5.2&quot;]</title>
@@ -1797,20 +1811,6 @@
     <link>https://clojars.org/com.blockether/vis-contract/versions/0.2.13</link>
     <description>com.blockether/vis-contract - vis monorepo package.</description>
     <pubDate>Sun, 20 Sep 2026 20:49:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.225</guid>
-    <title>[org.replikativ/pg-datahike &quot;0.1.225&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.225</link>
-    <description></description>
-    <pubDate>Sun, 20 Sep 2026 20:24:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.824</guid>
-    <title>[org.replikativ/raster &quot;0.2.824&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.824</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sun, 20 Sep 2026 20:17:51 +0000</pubDate>
   </item>
   </channel>
 </rss>
