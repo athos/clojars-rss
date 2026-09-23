@@ -1,6 +1,3 @@
-{:created 1789949793722, :description "make + tmux", :group_name "xyz.zcaudate", :jar_name "std.make", :version "4.1.8"}
-{:created 1789949793735, :description "wrapper for org.jsoup", :group_name "xyz.zcaudate", :jar_name "std.html", :version "4.1.8"}
-{:created 1789949793758, :description "simple string methods for searching", :group_name "xyz.zcaudate", :jar_name "std.lib", :version "4.1.8"}
 {:created 1789949793861, :description "foundation math library", :group_name "xyz.zcaudate", :jar_name "std.math", :version "4.1.8"}
 {:created 1789949793887, :description "wrapper for com.fasterxml.jackson", :group_name "xyz.zcaudate", :jar_name "std.json", :version "4.1.8"}
 {:created 1789949815529, :description "foundation reflection library", :group_name "xyz.zcaudate", :jar_name "std.object", :version "4.1.8"}
@@ -254,3 +251,6 @@
 {:created 1790198185082, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.110"}
 {:created 1790198378285, :description "Recurring task scheduler for Clojure on the JVM, that just keeps on ticking.", :group_name "org.clojars.lukaszkorecki", :jar_name "on-and-on", :version "0.1.0.9-SNAPSHOT"}
 {:created 1790199761251, :description "Light-weight ClojureScript dialect", :group_name "io.github.squint-cljs", :jar_name "squint", :version "0.14.209"}
+{:created 1790201968902, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.55"}
+{:created 1790203022337, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.111"}
+{:created 1790203037920, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.111"}
