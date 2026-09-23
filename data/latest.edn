@@ -1,7 +1,3 @@
-{:created 1789949734141, :description "openpgp that makes sense", :group_name "xyz.zcaudate", :jar_name "lib.openpgp", :version "4.1.8"}
-{:created 1789949757430, :description "network and http programming", :group_name "xyz.zcaudate", :jar_name "net.http", :version "4.1.8"}
-{:created 1789949767747, :description "wrapper for scribe", :group_name "xyz.zcaudate", :jar_name "script.yaml", :version "4.1.8"}
-{:created 1789949767889, :description "wrapper for toml4j", :group_name "xyz.zcaudate", :jar_name "script.toml", :version "4.1.8"}
 {:created 1789949787252, :description "secure configuration", :group_name "xyz.zcaudate", :jar_name "std.config", :version "4.1.8"}
 {:created 1789949787704, :description "blocks for code unit representation", :group_name "xyz.zcaudate", :jar_name "std.block", :version "4.1.8"}
 {:created 1789949789605, :description "file library", :group_name "xyz.zcaudate", :jar_name "std.fs", :version "4.1.8"}
@@ -254,3 +250,7 @@
 {:created 1790186875208, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.108"}
 {:created 1790186891193, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.108"}
 {:created 1790189573364, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.54"}
+{:created 1790192192652, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.109"}
+{:created 1790192206792, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.109"}
+{:created 1790192762516, :description "Leiningen plugin for managing subrojects within a monorepo.", :group_name "lein-monolith", :jar_name "lein-monolith", :version "1.11.1"}
+{:created 1790196792877, :description "libsodium for Clojure on the JVM, babashka and nbb via babashka.ffi, hardened at the C boundary. NaCl-aligned, not NaCl.", :group_name "com.github.franks42", :jar_name "nacljc", :version "0.1.0"}
