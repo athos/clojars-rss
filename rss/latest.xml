@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 25 Sep 2026 19:04:28 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 20:02:34 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/coreagile/defenv/versions/3.0.3</guid>
+    <title>[coreagile/defenv &quot;3.0.3&quot;]</title>
+    <link>https://clojars.org/coreagile/defenv/versions/3.0.3</link>
+    <description>A library for managing environment variables in Clojure</description>
+    <pubDate>Fri, 25 Sep 2026 20:00:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/svar/versions/0.7.179</guid>
+    <title>[com.blockether/svar &quot;0.7.179&quot;]</title>
+    <link>https://clojars.org/com.blockether/svar/versions/0.7.179</link>
+    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
+    <pubDate>Fri, 25 Sep 2026 19:24:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.54</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.54&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.54</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Fri, 25 Sep 2026 19:13:26 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.github.seancorfield/honeysql/versions/2.7.9999-SNAPSHOT</guid>
     <title>[com.github.seancorfield/honeysql &quot;2.7.9999-SNAPSHOT&quot;]</title>
@@ -1777,27 +1798,6 @@
     <link>https://clojars.org/com.wagoe/wagoe-jobs/versions/1.0.0-rc-3</link>
     <description>Jobs library for Wagoe framework: background job queuing with in-memory and Redis adapters</description>
     <pubDate>Tue, 22 Sep 2026 05:24:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-tenant/versions/1.0.0-rc-3</guid>
-    <title>[com.wagoe/wagoe-tenant &quot;1.0.0-rc-3&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-tenant/versions/1.0.0-rc-3</link>
-    <description>Multi-tenancy library for Wagoe framework: schema isolation, tenant resolution, provisioning</description>
-    <pubDate>Tue, 22 Sep 2026 05:23:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-realtime/versions/1.0.0-rc-3</guid>
-    <title>[com.wagoe/wagoe-realtime &quot;1.0.0-rc-3&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-realtime/versions/1.0.0-rc-3</link>
-    <description>Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication</description>
-    <pubDate>Tue, 22 Sep 2026 05:23:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-storage/versions/1.0.0-rc-3</guid>
-    <title>[com.wagoe/wagoe-storage &quot;1.0.0-rc-3&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-storage/versions/1.0.0-rc-3</link>
-    <description>Storage library for Wagoe framework: local filesystem and S3 adapters</description>
-    <pubDate>Tue, 22 Sep 2026 05:22:48 +0000</pubDate>
   </item>
   </channel>
 </rss>
