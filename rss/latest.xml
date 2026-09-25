@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 25 Sep 2026 16:04:04 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 17:02:34 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/auth-base/versions/0.2.0</guid>
+    <title>[dev.arkaitz/auth-base &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/auth-base/versions/0.2.0</link>
+    <description>Authentication as a liftable module: issue a challenge, redeem it once, hand back a subject. Depends on ring-core, and on Integrant only for the one optional namespace that ships its key.</description>
+    <pubDate>Fri, 25 Sep 2026 17:00:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/web-base/versions/0.3.0</guid>
+    <title>[dev.arkaitz/web-base &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/web-base/versions/0.3.0</link>
+    <description>A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.</description>
+    <pubDate>Fri, 25 Sep 2026 16:52:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-web-widgets/versions/1.426</guid>
+    <title>[com.alpha-prosoft/edd-web-widgets &quot;1.426&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-web-widgets/versions/1.426</link>
+    <description></description>
+    <pubDate>Fri, 25 Sep 2026 16:18:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-web-frame/versions/1.426</guid>
+    <title>[com.alpha-prosoft/edd-web-frame &quot;1.426&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-web-frame/versions/1.426</link>
+    <description></description>
+    <pubDate>Fri, 25 Sep 2026 16:18:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-core-web/versions/1.426</guid>
+    <title>[com.alpha-prosoft/edd-core-web &quot;1.426&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-core-web/versions/1.426</link>
+    <description></description>
+    <pubDate>Fri, 25 Sep 2026 16:17:57 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.122</guid>
     <title>[org.replikativ/dvergr-benchmarks &quot;0.1.122&quot;]</title>
@@ -1763,41 +1798,6 @@
     <link>https://clojars.org/com.wagoe/wagoe-platform/versions/1.0.0-rc-3</link>
     <description>Platform library for Wagoe framework: database, HTTP, configuration, modules</description>
     <pubDate>Tue, 22 Sep 2026 05:22:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-cache/versions/1.0.0-rc-3</guid>
-    <title>[com.wagoe/wagoe-cache &quot;1.0.0-rc-3&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-cache/versions/1.0.0-rc-3</link>
-    <description>Cache library for Wagoe framework: in-memory and Redis cache adapters</description>
-    <pubDate>Tue, 22 Sep 2026 05:22:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-scaffolder/versions/1.0.0-rc-3</guid>
-    <title>[com.wagoe/wagoe-scaffolder &quot;1.0.0-rc-3&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-scaffolder/versions/1.0.0-rc-3</link>
-    <description>Code generation library for Wagoe framework: module scaffolding</description>
-    <pubDate>Tue, 22 Sep 2026 05:21:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-i18n/versions/1.0.0-rc-3</guid>
-    <title>[com.wagoe/wagoe-i18n &quot;1.0.0-rc-3&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-i18n/versions/1.0.0-rc-3</link>
-    <description>Internationalisation (i18n) for Wagoe framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management</description>
-    <pubDate>Tue, 22 Sep 2026 05:21:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-observability/versions/1.0.0-rc-3</guid>
-    <title>[com.wagoe/wagoe-observability &quot;1.0.0-rc-3&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-observability/versions/1.0.0-rc-3</link>
-    <description>Observability library for Wagoe framework: logging, metrics, error reporting</description>
-    <pubDate>Tue, 22 Sep 2026 05:20:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-core/versions/1.0.0-rc-3</guid>
-    <title>[com.wagoe/wagoe-core &quot;1.0.0-rc-3&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-core/versions/1.0.0-rc-3</link>
-    <description>Foundation library for Wagoe framework: validation, utilities, interceptors</description>
-    <pubDate>Tue, 22 Sep 2026 05:20:35 +0000</pubDate>
   </item>
   </channel>
 </rss>
