@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 26 Sep 2026 09:03:13 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 10:02:47 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/db-base/versions/0.1.0</guid>
+    <title>[dev.arkaitz/db-base &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/db-base/versions/0.1.0</link>
+    <description>A pooled connection with a lifecycle, migrations that run before anything serves, and a Ring session store that never upserts. Any JDBC database; HikariCP and ragtime underneath, Integrant only for the one optional namespace that ships its key.</description>
+    <pubDate>Sat, 26 Sep 2026 09:15:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/web-base/versions/0.4.0</guid>
+    <title>[dev.arkaitz/web-base &quot;0.4.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/web-base/versions/0.4.0</link>
+    <description>A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.</description>
+    <pubDate>Sat, 26 Sep 2026 09:14:40 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/svar/versions/0.7.182</guid>
     <title>[com.blockether/svar &quot;0.7.182&quot;]</title>
@@ -1784,20 +1798,6 @@
     <link>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.28.0</link>
     <description></description>
     <pubDate>Tue, 22 Sep 2026 15:19:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/typesafe-config/versions/1.0.5</guid>
-    <title>[org.openvoxproject/typesafe-config &quot;1.0.5&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/typesafe-config/versions/1.0.5</link>
-    <description>Thin Clojure wrapper around Typesafe Config library</description>
-    <pubDate>Tue, 22 Sep 2026 15:01:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.jepsen/sql/versions/0.1.1</guid>
-    <title>[io.jepsen/sql &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/io.jepsen/sql/versions/0.1.1</link>
-    <description>A library for writing Jepsen tests of SQL databases</description>
-    <pubDate>Tue, 22 Sep 2026 14:45:04 +0000</pubDate>
   </item>
   </channel>
 </rss>
