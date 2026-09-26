@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 26 Sep 2026 14:02:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 15:02:48 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.seancorfield/honeysql/versions/2.7.9999-SNAPSHOT</guid>
+    <title>[com.github.seancorfield/honeysql &quot;2.7.9999-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.seancorfield/honeysql/versions/2.7.9999-SNAPSHOT</link>
+    <description>SQL as Clojure data structures.</description>
+    <pubDate>Sat, 26 Sep 2026 14:11:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.134</guid>
+    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.134&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.134</link>
+    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
+    <pubDate>Sat, 26 Sep 2026 14:04:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.134</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.134&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.134</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Sat, 26 Sep 2026 14:04:24 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.133</guid>
     <title>[org.replikativ/dvergr-benchmarks &quot;0.1.133&quot;]</title>
@@ -389,13 +410,6 @@
     <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.54</link>
     <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
     <pubDate>Fri, 25 Sep 2026 19:13:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.seancorfield/honeysql/versions/2.7.9999-SNAPSHOT</guid>
-    <title>[com.github.seancorfield/honeysql &quot;2.7.9999-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.seancorfield/honeysql/versions/2.7.9999-SNAPSHOT</link>
-    <description>SQL as Clojure data structures.</description>
-    <pubDate>Fri, 25 Sep 2026 18:18:31 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.53</guid>
@@ -1784,20 +1798,6 @@
     <link>https://clojars.org/com.github.franks42/cedn/versions/1.4.0</link>
     <description>Canonical EDN — deterministic serialization of EDN values to UTF-8 bytes</description>
     <pubDate>Tue, 22 Sep 2026 22:23:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.47</guid>
-    <title>[org.replikativ/pretrained-rstr &quot;0.1.47&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.47</link>
-    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
-    <pubDate>Tue, 22 Sep 2026 22:11:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.7.177</guid>
-    <title>[com.blockether/svar &quot;0.7.177&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.7.177</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Tue, 22 Sep 2026 22:07:48 +0000</pubDate>
   </item>
   </channel>
 </rss>
