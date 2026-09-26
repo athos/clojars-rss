@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 26 Sep 2026 19:02:45 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 20:02:42 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/aysylu/loom/versions/1.2.2</guid>
+    <title>[aysylu/loom &quot;1.2.2&quot;]</title>
+    <link>https://clojars.org/aysylu/loom/versions/1.2.2</link>
+    <description>Graph library for Clojure</description>
+    <pubDate>Sat, 26 Sep 2026 19:38:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.140</guid>
+    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.140&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.140</link>
+    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
+    <pubDate>Sat, 26 Sep 2026 19:35:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.140</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.140&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.140</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Sat, 26 Sep 2026 19:34:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.plooney81/nectar-sql/versions/1.0.34</guid>
+    <title>[com.github.plooney81/nectar-sql &quot;1.0.34&quot;]</title>
+    <link>https://clojars.org/com.github.plooney81/nectar-sql/versions/1.0.34</link>
+    <description>Converts raw sql strings into honey sql.</description>
+    <pubDate>Sat, 26 Sep 2026 19:29:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.matlux/jvm-breakglass/versions/0.1.0</guid>
+    <title>[net.matlux/jvm-breakglass &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/net.matlux/jvm-breakglass/versions/0.1.0</link>
+    <description>Setting up an nrepl can be useful to introspect into the JVM for troubleshouting/investigation or testing of regular Java applications. You can connect onto a process and use a Clojure prompt interactivelly or have client application that sends and execute Java code dynamically. It works because the code injected is Clojure and that the Clojure run-time allows to evaluate code at run-time. Furthermore Clojure interops very easily with Java i.e. you can translate pretty much any Java code into Clojure and access all your Java object from the injected Clojure code. This is the perfect tool to access the inside of your JVM process live after it has been deployed. To run any fancy change of code scenario, any data structure or call any method you don&#39;t need to redeploy your java code. You can see what your process sees in real time. This is an unvaluable tool to use to develop and maintain a java application.</description>
+    <pubDate>Sat, 26 Sep 2026 19:07:26 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.138</guid>
     <title>[org.replikativ/dvergr-benchmarks &quot;0.1.138&quot;]</title>
@@ -1763,41 +1798,6 @@
     <link>https://clojars.org/io.github.supabase-community/auth/versions/0.6.0</link>
     <description></description>
     <pubDate>Tue, 22 Sep 2026 21:18:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.scicloj/clay/versions/2.0.23</guid>
-    <title>[org.scicloj/clay &quot;2.0.23&quot;]</title>
-    <link>https://clojars.org/org.scicloj/clay/versions/2.0.23</link>
-    <description>Clay is a small Clojure tool for a dynamic workflow of data visualization and literate programming.</description>
-    <pubDate>Tue, 22 Sep 2026 21:15:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tolitius/grete/versions/0.1.8008</guid>
-    <title>[tolitius/grete &quot;0.1.8008&quot;]</title>
-    <link>https://clojars.org/tolitius/grete/versions/0.1.8008</link>
-    <description>is gregor&#39;s sister that adds a threadpool and a scheduler</description>
-    <pubDate>Tue, 22 Sep 2026 20:57:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.30.0</guid>
-    <title>[energy.grid-coordination/clj-urpx &quot;0.30.0&quot;]</title>
-    <link>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.30.0</link>
-    <description></description>
-    <pubDate>Tue, 22 Sep 2026 20:03:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-system/versions/0.3.11</guid>
-    <title>[io.github.hive-agi/hive-system &quot;0.3.11&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-system/versions/0.3.11</link>
-    <description></description>
-    <pubDate>Tue, 22 Sep 2026 19:57:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-weave/versions/0.4.0</guid>
-    <title>[io.github.hive-agi/hive-weave &quot;0.4.0&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-weave/versions/0.4.0</link>
-    <description></description>
-    <pubDate>Tue, 22 Sep 2026 19:49:05 +0000</pubDate>
   </item>
   </channel>
 </rss>
