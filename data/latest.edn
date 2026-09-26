@@ -1,8 +1,3 @@
-{:created 1790139746592, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.18-SNAPSHOT"}
-{:created 1790140717515, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.908"}
-{:created 1790141698996, :description "com.blockether/vis-contract - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-contract", :version "0.2.25"}
-{:created 1790141705091, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.2.25"}
-{:created 1790141953288, :description "Portable UUIDv7 generator for Clojure, ClojureScript, Babashka, nbb, and scittle", :group_name "com.github.franks42", :jar_name "uuidv7", :version "0.7.1"}
 {:created 1790142127861, :description "Build Three.js apps in a reagent-like fashion", :group_name "doughamil", :jar_name "threeagent", :version "2.0.5-SNAPSHOT"}
 {:created 1790144736301, :description "Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster's CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.", :group_name "org.replikativ", :jar_name "pretrained-rstr", :version "0.1.48"}
 {:created 1790146623699, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.911"}
@@ -254,3 +249,8 @@
 {:created 1790459673225, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.141"}
 {:created 1790459723779, :description "SQL as Clojure data structures.", :group_name "com.github.seancorfield", :jar_name "honeysql", :version "2.7.9999-SNAPSHOT"}
 {:created 1790459997107, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-mcp", :version "1.6.4"}
+{:created 1790462573113, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.255"}
+{:created 1790462815514, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.143"}
+{:created 1790462829737, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.143"}
+{:created 1790462973876, :description "Canonical EDN — deterministic serialization of EDN values to UTF-8 bytes", :group_name "com.github.franks42", :jar_name "cedn", :version "1.6.1"}
+{:created 1790463267451, :description "Ed25519/X25519/secp256k1 crypto primitives, authenticated encryption, capability chains, and SSH key import for Clojure", :group_name "com.github.franks42", :jar_name "signet", :version "0.9.2"}
