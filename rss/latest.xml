@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 27 Sep 2026 12:04:58 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 13:02:38 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/spel/versions/0.9.40</guid>
+    <title>[com.blockether/spel &quot;0.9.40&quot;]</title>
+    <link>https://clojars.org/com.blockether/spel/versions/0.9.40</link>
+    <description>Clojure wrapper for Microsoft Playwright - browser automation, testing, and codegen</description>
+    <pubDate>Sun, 27 Sep 2026 12:48:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hiram-madelaine/clornichon/versions/0.1.7</guid>
+    <title>[io.github.hiram-madelaine/clornichon &quot;0.1.7&quot;]</title>
+    <link>https://clojars.org/io.github.hiram-madelaine/clornichon/versions/0.1.7</link>
+    <description></description>
+    <pubDate>Sun, 27 Sep 2026 12:34:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.bangmodcloud/reagent-router/versions/0.6.0</guid>
+    <title>[io.github.bangmodcloud/reagent-router &quot;0.6.0&quot;]</title>
+    <link>https://clojars.org/io.github.bangmodcloud/reagent-router/versions/0.6.0</link>
+    <description>bidi + pushy routing for Reagent/re-frame single-page apps.</description>
+    <pubDate>Sun, 27 Sep 2026 12:33:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.bangmodcloud/reagent-http-api/versions/0.6.0</guid>
+    <title>[io.github.bangmodcloud/reagent-http-api &quot;0.6.0&quot;]</title>
+    <link>https://clojars.org/io.github.bangmodcloud/reagent-http-api/versions/0.6.0</link>
+    <description>Declarative HTTP/SSE API client for ClojureScript, with re-frame integration.</description>
+    <pubDate>Sun, 27 Sep 2026 12:33:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.bangmodcloud/reagent-form/versions/0.6.0</guid>
+    <title>[io.github.bangmodcloud/reagent-form &quot;0.6.0&quot;]</title>
+    <link>https://clojars.org/io.github.bangmodcloud/reagent-form/versions/0.6.0</link>
+    <description>Form state, validation and field arrays for Reagent.</description>
+    <pubDate>Sun, 27 Sep 2026 12:33:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1009</guid>
+    <title>[org.replikativ/raster &quot;0.2.1009&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1009</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Sun, 27 Sep 2026 12:16:23 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1008</guid>
     <title>[org.replikativ/raster &quot;0.2.1008&quot;]</title>
@@ -1754,48 +1796,6 @@
     <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.55</link>
     <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
     <pubDate>Wed, 23 Sep 2026 22:19:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.squint-cljs/squint/versions/0.14.209</guid>
-    <title>[io.github.squint-cljs/squint &quot;0.14.209&quot;]</title>
-    <link>https://clojars.org/io.github.squint-cljs/squint/versions/0.14.209</link>
-    <description>Light-weight ClojureScript dialect</description>
-    <pubDate>Wed, 23 Sep 2026 21:42:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.lukaszkorecki/on-and-on/versions/0.1.0.9-SNAPSHOT</guid>
-    <title>[org.clojars.lukaszkorecki/on-and-on &quot;0.1.0.9-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.clojars.lukaszkorecki/on-and-on/versions/0.1.0.9-SNAPSHOT</link>
-    <description>Recurring task scheduler for Clojure on the JVM, that just keeps on ticking.</description>
-    <pubDate>Wed, 23 Sep 2026 21:19:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.110</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.110&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.110</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Wed, 23 Sep 2026 21:16:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.110</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.110&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.110</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Wed, 23 Sep 2026 21:16:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.franks42/nacljc/versions/0.1.0</guid>
-    <title>[com.github.franks42/nacljc &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/com.github.franks42/nacljc/versions/0.1.0</link>
-    <description>libsodium for Clojure on the JVM, babashka and nbb via babashka.ffi, hardened at the C boundary. NaCl-aligned, not NaCl.</description>
-    <pubDate>Wed, 23 Sep 2026 20:53:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/lein-monolith/versions/1.11.1</guid>
-    <title>[lein-monolith &quot;1.11.1&quot;]</title>
-    <link>https://clojars.org/lein-monolith/versions/1.11.1</link>
-    <description>Leiningen plugin for managing subrojects within a monorepo.</description>
-    <pubDate>Wed, 23 Sep 2026 19:46:02 +0000</pubDate>
   </item>
   </channel>
 </rss>
