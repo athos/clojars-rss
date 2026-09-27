@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 27 Sep 2026 11:02:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 12:04:58 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1008</guid>
+    <title>[org.replikativ/raster &quot;0.2.1008&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1008</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Sun, 27 Sep 2026 11:58:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hiram-madelaine/clornichon/versions/0.1.5</guid>
+    <title>[io.github.hiram-madelaine/clornichon &quot;0.1.5&quot;]</title>
+    <link>https://clojars.org/io.github.hiram-madelaine/clornichon/versions/0.1.5</link>
+    <description></description>
+    <pubDate>Sun, 27 Sep 2026 11:55:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.161</guid>
+    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.161&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.161</link>
+    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
+    <pubDate>Sun, 27 Sep 2026 11:21:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.161</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.161&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.161</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Sun, 27 Sep 2026 11:21:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/auth-base/versions/0.4.0</guid>
+    <title>[dev.arkaitz/auth-base &quot;0.4.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/auth-base/versions/0.4.0</link>
+    <description>Authentication as a liftable module: issue a challenge, redeem it once, hand back a subject. Depends on ring-core, and on Integrant only for the one optional namespace that ships its key.</description>
+    <pubDate>Sun, 27 Sep 2026 11:18:13 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1004</guid>
     <title>[org.replikativ/raster &quot;0.2.1004&quot;]</title>
@@ -1761,41 +1796,6 @@
     <link>https://clojars.org/lein-monolith/versions/1.11.1</link>
     <description>Leiningen plugin for managing subrojects within a monorepo.</description>
     <pubDate>Wed, 23 Sep 2026 19:46:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.109</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.109&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.109</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Wed, 23 Sep 2026 19:36:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.109</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.109&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.109</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Wed, 23 Sep 2026 19:36:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.54</guid>
-    <title>[org.replikativ/pretrained-rstr &quot;0.1.54&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.54</link>
-    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
-    <pubDate>Wed, 23 Sep 2026 18:52:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.108</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.108&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.108</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Wed, 23 Sep 2026 18:08:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.108</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.108&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.108</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Wed, 23 Sep 2026 18:07:55 +0000</pubDate>
   </item>
   </channel>
 </rss>
