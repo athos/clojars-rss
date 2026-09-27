@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 26 Sep 2026 23:02:58 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 00:10:52 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.franks42/signet/versions/0.9.3</guid>
+    <title>[com.github.franks42/signet &quot;0.9.3&quot;]</title>
+    <link>https://clojars.org/com.github.franks42/signet/versions/0.9.3</link>
+    <description>Ed25519/X25519/secp256k1 crypto primitives, authenticated encryption, capability chains, and SSH key import for Clojure</description>
+    <pubDate>Sat, 26 Sep 2026 23:48:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.145</guid>
+    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.145&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.145</link>
+    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
+    <pubDate>Sat, 26 Sep 2026 23:45:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.145</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.145&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.145</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Sat, 26 Sep 2026 23:45:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.franks42/nacljc/versions/0.3.2</guid>
+    <title>[com.github.franks42/nacljc &quot;0.3.2&quot;]</title>
+    <link>https://clojars.org/com.github.franks42/nacljc/versions/0.3.2</link>
+    <description>libsodium for Clojure on the JVM, babashka and nbb via babashka.ffi, hardened at the C boundary. NaCl-aligned, not NaCl.</description>
+    <pubDate>Sat, 26 Sep 2026 23:43:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.957</guid>
+    <title>[org.replikativ/raster &quot;0.2.957&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.957</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Sat, 26 Sep 2026 23:40:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.franks42/uuidv7/versions/0.7.3</guid>
+    <title>[com.github.franks42/uuidv7 &quot;0.7.3&quot;]</title>
+    <link>https://clojars.org/com.github.franks42/uuidv7/versions/0.7.3</link>
+    <description>Portable UUIDv7 generator for Clojure, ClojureScript, Babashka, nbb, and scittle</description>
+    <pubDate>Sat, 26 Sep 2026 23:15:14 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.github.franks42/signet/versions/0.9.2</guid>
     <title>[com.github.franks42/signet &quot;0.9.2&quot;]</title>
@@ -1756,48 +1798,6 @@
     <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.49</link>
     <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
     <pubDate>Wed, 23 Sep 2026 08:44:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis/versions/0.2.26</guid>
-    <title>[com.blockether/vis &quot;0.2.26&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis/versions/0.2.26</link>
-    <description>vis - single-namespace SDK + iteration runtime + binary entry point.</description>
-    <pubDate>Wed, 23 Sep 2026 08:00:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-contract/versions/0.2.26</guid>
-    <title>[com.blockether/vis-contract &quot;0.2.26&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-contract/versions/0.2.26</link>
-    <description>com.blockether/vis-contract - vis monorepo package.</description>
-    <pubDate>Wed, 23 Sep 2026 08:00:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ai.intergraph/game-master/versions/0.1.19-SNAPSHOT</guid>
-    <title>[ai.intergraph/game-master &quot;0.1.19-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/ai.intergraph/game-master/versions/0.1.19-SNAPSHOT</link>
-    <description>Reusable Game Master runtime library for Intergraph</description>
-    <pubDate>Wed, 23 Sep 2026 07:15:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.911</guid>
-    <title>[org.replikativ/raster &quot;0.2.911&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.911</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Wed, 23 Sep 2026 06:57:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.48</guid>
-    <title>[org.replikativ/pretrained-rstr &quot;0.1.48&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pretrained-rstr/versions/0.1.48</link>
-    <description>Run pretrained HuggingFace models — text embeddings, speech-to-text, and decoder LLMs — natively on the JVM on the raster typed-dispatch compiler. No Python, no ONNX runtime: weights load from safetensors, quantize to int8/int4, and run on raster&#39;s CPU int8-MAC kernels and Intel-GPU (Level Zero/OpenCL) programs.</description>
-    <pubDate>Wed, 23 Sep 2026 06:25:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/doughamil/threeagent/versions/2.0.5-SNAPSHOT</guid>
-    <title>[doughamil/threeagent &quot;2.0.5-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/doughamil/threeagent/versions/2.0.5-SNAPSHOT</link>
-    <description>Build Three.js apps in a reagent-like fashion</description>
-    <pubDate>Wed, 23 Sep 2026 05:42:07 +0000</pubDate>
   </item>
   </channel>
 </rss>
