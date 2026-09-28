@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 28 Sep 2026 10:04:22 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 11:03:11 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/svar/versions/0.7.186</guid>
+    <title>[com.blockether/svar &quot;0.7.186&quot;]</title>
+    <link>https://clojars.org/com.blockether/svar/versions/0.7.186</link>
+    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
+    <pubDate>Mon, 28 Sep 2026 10:59:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.264</guid>
+    <title>[org.replikativ/pg-datahike &quot;0.1.264&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.264</link>
+    <description></description>
+    <pubDate>Mon, 28 Sep 2026 10:41:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.176</guid>
+    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.176&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.176</link>
+    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
+    <pubDate>Mon, 28 Sep 2026 10:39:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.176</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.176&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.176</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Mon, 28 Sep 2026 10:38:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/auth-base/versions/0.5.1</guid>
+    <title>[dev.arkaitz/auth-base &quot;0.5.1&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/auth-base/versions/0.5.1</link>
+    <description>Authentication as a liftable module: issue a challenge, redeem it once, hand back a subject. Depends on ring-core, and on Integrant only for the one optional namespace that ships its key.</description>
+    <pubDate>Mon, 28 Sep 2026 10:38:23 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/svar/versions/0.7.185</guid>
     <title>[com.blockether/svar &quot;0.7.185&quot;]</title>
@@ -1761,41 +1796,6 @@
     <link>https://clojars.org/com.outskirtslabs/vips-native-win32-x86-64/versions/1.3.3-1</link>
     <description>Platform-native bundle for com.outskirtslabs/vips (win32-x86-64)</description>
     <pubDate>Fri, 25 Sep 2026 07:56:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.outskirtslabs/vips-native-macos-x86-64/versions/1.3.3-1</guid>
-    <title>[com.outskirtslabs/vips-native-macos-x86-64 &quot;1.3.3-1&quot;]</title>
-    <link>https://clojars.org/com.outskirtslabs/vips-native-macos-x86-64/versions/1.3.3-1</link>
-    <description>Platform-native bundle for com.outskirtslabs/vips (macos-x86-64)</description>
-    <pubDate>Fri, 25 Sep 2026 07:56:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.outskirtslabs/vips-native-macos-aarch64/versions/1.3.3-1</guid>
-    <title>[com.outskirtslabs/vips-native-macos-aarch64 &quot;1.3.3-1&quot;]</title>
-    <link>https://clojars.org/com.outskirtslabs/vips-native-macos-aarch64/versions/1.3.3-1</link>
-    <description>Platform-native bundle for com.outskirtslabs/vips (macos-aarch64)</description>
-    <pubDate>Fri, 25 Sep 2026 07:56:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.outskirtslabs/vips-native-linux-x86-64-musl/versions/1.3.3-1</guid>
-    <title>[com.outskirtslabs/vips-native-linux-x86-64-musl &quot;1.3.3-1&quot;]</title>
-    <link>https://clojars.org/com.outskirtslabs/vips-native-linux-x86-64-musl/versions/1.3.3-1</link>
-    <description>Platform-native bundle for com.outskirtslabs/vips (linux-x86-64-musl)</description>
-    <pubDate>Fri, 25 Sep 2026 07:55:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.outskirtslabs/vips-native-linux-x86-64-gnu/versions/1.3.3-1</guid>
-    <title>[com.outskirtslabs/vips-native-linux-x86-64-gnu &quot;1.3.3-1&quot;]</title>
-    <link>https://clojars.org/com.outskirtslabs/vips-native-linux-x86-64-gnu/versions/1.3.3-1</link>
-    <description>Platform-native bundle for com.outskirtslabs/vips (linux-x86-64-gnu)</description>
-    <pubDate>Fri, 25 Sep 2026 07:55:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.outskirtslabs/vips-native-linux-aarch64-musl/versions/1.3.3-1</guid>
-    <title>[com.outskirtslabs/vips-native-linux-aarch64-musl &quot;1.3.3-1&quot;]</title>
-    <link>https://clojars.org/com.outskirtslabs/vips-native-linux-aarch64-musl/versions/1.3.3-1</link>
-    <description>Platform-native bundle for com.outskirtslabs/vips (linux-aarch64-musl)</description>
-    <pubDate>Fri, 25 Sep 2026 07:55:24 +0000</pubDate>
   </item>
   </channel>
 </rss>
