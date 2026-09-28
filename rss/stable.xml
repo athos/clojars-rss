@@ -4,7 +4,52 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 28 Sep 2026 14:03:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 15:03:25 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.83</guid>
+    <title>[org.replikativ/spindel &quot;0.1.83&quot;]</title>
+    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.83</link>
+    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
+    <pubDate>Mon, 28 Sep 2026 15:03:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1044</guid>
+    <title>[org.replikativ/raster &quot;0.2.1044&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1044</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Mon, 28 Sep 2026 14:43:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.yamlscript/clj-yamlscript/versions/0.3.2</guid>
+    <title>[org.yamlscript/clj-yamlscript &quot;0.3.2&quot;]</title>
+    <link>https://clojars.org/org.yamlscript/clj-yamlscript/versions/0.3.2</link>
+    <description>YAMLScript is a functional programming language whose syntax is encoded in
+  YAML.</description>
+    <pubDate>Mon, 28 Sep 2026 14:32:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.yamlscript/ys.v0/versions/0.3.2</guid>
+    <title>[org.yamlscript/ys.v0 &quot;0.3.2&quot;]</title>
+    <link>https://clojars.org/org.yamlscript/ys.v0/versions/0.3.2</link>
+    <description>The YS (YAMLScript) v0 standard library for Clojure runtimes.
+  Code compiled with `ys -T bb|clj|jolt|glj` runs on babashka, JVM
+  Clojure, jolt and glojure with this library on the classpath.</description>
+    <pubDate>Mon, 28 Sep 2026 14:30:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.6.2</guid>
+    <title>[com.blockether/vis-lang-clojure &quot;1.6.2&quot;]</title>
+    <link>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.6.2</link>
+    <description>Clojure tools for Vis: format, lint, tests, managed nREPL and an add-only delimiter repair.</description>
+    <pubDate>Mon, 28 Sep 2026 14:29:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-milvus/versions/0.4.23</guid>
+    <title>[io.github.hive-agi/hive-milvus &quot;0.4.23&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-milvus/versions/0.4.23</link>
+    <description></description>
+    <pubDate>Mon, 28 Sep 2026 14:12:48 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.enajski/sparse-layout/versions/0.1.0</guid>
     <title>[io.github.enajski/sparse-layout &quot;0.1.0&quot;]</title>
@@ -1754,48 +1799,6 @@
     <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.129</link>
     <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
     <pubDate>Sat, 26 Sep 2026 01:53:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.129</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.129&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.129</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Sat, 26 Sep 2026 01:52:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.127</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.127&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.127</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Fri, 25 Sep 2026 22:53:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.127</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.127&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.127</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Fri, 25 Sep 2026 22:52:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.jimpil/bass/versions/0.1.4</guid>
-    <title>[com.github.jimpil/bass &quot;0.1.4&quot;]</title>
-    <link>https://clojars.org/com.github.jimpil/bass/versions/0.1.4</link>
-    <description>Clojure facilities for encoding/decoding to/from various numerical bases</description>
-    <pubDate>Fri, 25 Sep 2026 21:28:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.124</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.124&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.124</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Fri, 25 Sep 2026 21:10:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.124</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.124&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.124</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Fri, 25 Sep 2026 21:09:52 +0000</pubDate>
   </item>
   </channel>
 </rss>
