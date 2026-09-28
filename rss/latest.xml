@@ -4,7 +4,63 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 28 Sep 2026 17:02:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 18:04:43 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.hiram-madelaine/clornichon/versions/0.2.1</guid>
+    <title>[io.github.hiram-madelaine/clornichon &quot;0.2.1&quot;]</title>
+    <link>https://clojars.org/io.github.hiram-madelaine/clornichon/versions/0.2.1</link>
+    <description>BDD for Clojure: Gherkin specifications executed by Clojure, with Cucumber&#39;s parser and expressions, clojure.test and Kaocha.</description>
+    <pubDate>Mon, 28 Sep 2026 17:56:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/db-base/versions/0.2.1</guid>
+    <title>[dev.arkaitz/db-base &quot;0.2.1&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/db-base/versions/0.2.1</link>
+    <description>A pooled connection with a lifecycle, migrations that run before anything serves, and a Ring session store that never upserts. Any JDBC database; HikariCP and ragtime underneath, Integrant only for the one optional namespace that ships its key.</description>
+    <pubDate>Mon, 28 Sep 2026 17:51:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/auth-base/versions/0.6.0</guid>
+    <title>[dev.arkaitz/auth-base &quot;0.6.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/auth-base/versions/0.6.0</link>
+    <description>Authentication as a liftable module: issue a challenge, redeem it once, hand back a subject. Depends on ring-core, and on Integrant only for the one optional namespace that ships its key.</description>
+    <pubDate>Mon, 28 Sep 2026 17:51:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/web-base/versions/0.8.0</guid>
+    <title>[dev.arkaitz/web-base &quot;0.8.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/web-base/versions/0.8.0</link>
+    <description>A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.</description>
+    <pubDate>Mon, 28 Sep 2026 17:50:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/superficie/versions/0.2.40</guid>
+    <title>[org.replikativ/superficie &quot;0.2.40&quot;]</title>
+    <link>https://clojars.org/org.replikativ/superficie/versions/0.2.40</link>
+    <description>Surface syntax for Clojure — bidirectional renderer for readable code exposition</description>
+    <pubDate>Mon, 28 Sep 2026 17:40:47 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1050</guid>
+    <title>[org.replikativ/raster &quot;0.2.1050&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1050</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Mon, 28 Sep 2026 17:11:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.178</guid>
+    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.178&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.178</link>
+    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
+    <pubDate>Mon, 28 Sep 2026 17:08:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.178</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.178&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.178</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Mon, 28 Sep 2026 17:07:45 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.hiram-madelaine/clornichon/versions/0.2.0</guid>
     <title>[io.github.hiram-madelaine/clornichon &quot;0.2.0&quot;]</title>
@@ -1743,62 +1799,6 @@
     <link>https://clojars.org/org.babashka/babashka.impl.java/versions/0.1.22</link>
     <description></description>
     <pubDate>Sat, 26 Sep 2026 08:19:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/parinferish/versions/0.2.1</guid>
-    <title>[com.blockether/parinferish &quot;0.2.1&quot;]</title>
-    <link>https://clojars.org/com.blockether/parinferish/versions/0.2.1</link>
-    <description>Parinfer for Clojure source, in pure Java — a linear-time rewrite of parinferish.</description>
-    <pubDate>Sat, 26 Sep 2026 07:59:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hyperfocusdisordered/defn-typed/versions/0.3.1</guid>
-    <title>[io.github.hyperfocusdisordered/defn-typed &quot;0.3.1&quot;]</title>
-    <link>https://clojars.org/io.github.hyperfocusdisordered/defn-typed/versions/0.3.1</link>
-    <description>A function&#39;s input/output contract and its examples, written next to the function.</description>
-    <pubDate>Sat, 26 Sep 2026 05:36:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/parinferish/versions/0.2.0</guid>
-    <title>[com.blockether/parinferish &quot;0.2.0&quot;]</title>
-    <link>https://clojars.org/com.blockether/parinferish/versions/0.2.0</link>
-    <description>Parinfer for Clojure source, in pure Java — a linear-time rewrite of parinferish.</description>
-    <pubDate>Sat, 26 Sep 2026 04:30:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/lsp-mcp/versions/0.6.7</guid>
-    <title>[io.github.hive-agi/lsp-mcp &quot;0.6.7&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/lsp-mcp/versions/0.6.7</link>
-    <description></description>
-    <pubDate>Sat, 26 Sep 2026 04:27:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-help/versions/0.1.5</guid>
-    <title>[io.github.hive-agi/hive-help &quot;0.1.5&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-help/versions/0.1.5</link>
-    <description></description>
-    <pubDate>Sat, 26 Sep 2026 04:26:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/bb-depsolve/versions/0.6.1</guid>
-    <title>[io.github.hive-agi/bb-depsolve &quot;0.6.1&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/bb-depsolve/versions/0.6.1</link>
-    <description></description>
-    <pubDate>Sat, 26 Sep 2026 04:26:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-weave/versions/0.4.1</guid>
-    <title>[io.github.hive-agi/hive-weave &quot;0.4.1&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-weave/versions/0.4.1</link>
-    <description></description>
-    <pubDate>Sat, 26 Sep 2026 04:25:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/scc-mcp/versions/0.1.18</guid>
-    <title>[io.github.hive-agi/scc-mcp &quot;0.1.18&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/scc-mcp/versions/0.1.18</link>
-    <description></description>
-    <pubDate>Sat, 26 Sep 2026 04:25:32 +0000</pubDate>
   </item>
   </channel>
 </rss>
