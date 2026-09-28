@@ -1,16 +1,3 @@
-{:created 1790323002811, :description "Platform-native bundle for com.outskirtslabs/vips (win32-x86-64)", :group_name "com.outskirtslabs", :jar_name "vips-native-win32-x86-64", :version "1.3.3-1"}
-{:created 1790323013763, :description "Clojure bindings for libvips image processing library", :group_name "com.outskirtslabs", :jar_name "vips", :version "0.1.0"}
-{:created 1790323403152, :description "Mattilsynets designsystem, pakket og klart for folk som driver med Clojure.", :group_name "io.mattilsynet", :jar_name "design", :version "3.6.1.42"}
-{:created 1790323467727, :description "Typesikre CSS-klassekonstanter for Mattilsynets designsystem", :group_name "io.mattilsynet", :jar_name "design-kotlin", :version "3.6.1.1301"}
-{:created 1790326111154, :description "Official client SDK and metadata helper for GPT images 2.5 (https://images25.art)", :group_name "org.clojars.ryanellis42675", :jar_name "gpt-images-25", :version "0.1.1"}
-{:created 1790327918496, :description "Light-weight ClojureScript dialect", :group_name "io.github.squint-cljs", :jar_name "squint", :version "0.14.210"}
-{:created 1790330109061, :description "One Clojure API for managing DNS records across providers", :group_name "com.outskirtslabs", :jar_name "protocol53", :version "0.0.1"}
-{:created 1790330302588, :description "Cloudflare provider implementation for protocol53.", :group_name "com.outskirtslabs", :jar_name "protocol53-cloudflare", :version "0.0.1"}
-{:created 1790330310247, :description "deSEC provider implementation for protocol53.", :group_name "com.outskirtslabs", :jar_name "protocol53-desec", :version "0.0.1"}
-{:created 1790330317953, :description "GoDaddy provider implementation for protocol53.", :group_name "com.outskirtslabs", :jar_name "protocol53-godaddy", :version "0.0.1"}
-{:created 1790330325763, :description "Porkbun provider implementation for protocol53.", :group_name "com.outskirtslabs", :jar_name "protocol53-porkbun", :version "0.0.1"}
-{:created 1790331297605, :description "A simple genetic algorithms library for Clojure(Script)", :group_name "org.clojars.btezergil", :jar_name "nature", :version "1.3.0"}
-{:created 1790331989930, :description "Terminal UI library for Clojure", :group_name "de.timokramer", :jar_name "charm.clj", :version "0.2.123"}
 {:created 1790333251110, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.178"}
 {:created 1790334657537, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.121"}
 {:created 1790334672566, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.121"}
@@ -254,3 +241,16 @@
 {:created 1790591946760, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.176"}
 {:created 1790592086475, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.264"}
 {:created 1790593182478, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.186"}
+{:created 1790595371072, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.76"}
+{:created 1790596687928, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1041"}
+{:created 1790596939515, :description "Configuration loading and typed accessors for the Wagoe framework: Aero-based profile resolution and the accessors libraries read settings through", :group_name "com.wagoe", :jar_name "wagoe-config", :version "1.0.0"}
+{:created 1790596957260, :description "Foundation library for Wagoe framework: validation, utilities, interceptors", :group_name "com.wagoe", :jar_name "wagoe-core", :version "1.0.0"}
+{:created 1790596975312, :description "Observability library for Wagoe framework: logging, metrics, error reporting", :group_name "com.wagoe", :jar_name "wagoe-observability", :version "1.0.0"}
+{:created 1790596993495, :description "Audience segmentation for Wagoe framework: declarative segments, hybrid evaluation, composable filters, and visual builder UI", :group_name "com.wagoe", :jar_name "wagoe-audience", :version "1.0.0"}
+{:created 1790597011478, :description "Internationalisation (i18n) for Wagoe framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "com.wagoe", :jar_name "wagoe-i18n", :version "1.0.0"}
+{:created 1790597030369, :description "Code generation library for Wagoe framework: module scaffolding", :group_name "com.wagoe", :jar_name "wagoe-scaffolder", :version "1.0.0"}
+{:created 1790597048729, :description "Cache library for Wagoe framework: in-memory and Redis cache adapters", :group_name "com.wagoe", :jar_name "wagoe-cache", :version "1.0.0"}
+{:created 1790597068549, :description "Platform library for Wagoe framework: database, HTTP, configuration, modules", :group_name "com.wagoe", :jar_name "wagoe-platform", :version "1.0.0"}
+{:created 1790597089535, :description "Storage library for Wagoe framework: local filesystem and S3 adapters", :group_name "com.wagoe", :jar_name "wagoe-storage", :version "1.0.0"}
+{:created 1790597109642, :description "Event bus for Wagoe framework: in-memory and Redis Streams adapters for cross-process events", :group_name "com.wagoe", :jar_name "wagoe-events", :version "1.0.0"}
+{:created 1790597128902, :description "Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication", :group_name "com.wagoe", :jar_name "wagoe-realtime", :version "1.0.0"}
