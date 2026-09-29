@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 29 Sep 2026 21:03:12 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 22:03:24 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/auth-base/versions/0.9.1</guid>
+    <title>[dev.arkaitz/auth-base &quot;0.9.1&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/auth-base/versions/0.9.1</link>
+    <description>Magic-link authentication as a web-base plugin: issue a challenge, redeem it once, hand back a subject, with a standard, brandable sign-in. The ceremony itself runs under any Ring host.</description>
+    <pubDate>Tue, 29 Sep 2026 21:54:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/web-base/versions/0.12.0</guid>
+    <title>[dev.arkaitz/web-base &quot;0.12.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/web-base/versions/0.12.0</link>
+    <description>A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.</description>
+    <pubDate>Tue, 29 Sep 2026 21:51:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/db-base/versions/0.3.0</guid>
+    <title>[dev.arkaitz/db-base &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/db-base/versions/0.3.0</link>
+    <description>A pooled connection with a lifecycle, migrations that run before anything serves, and a Ring session store that never upserts. Any JDBC database; HikariCP and ragtime underneath, Integrant only for the one optional namespace that ships its key.</description>
+    <pubDate>Tue, 29 Sep 2026 21:23:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.191</guid>
+    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.191&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.191</link>
+    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
+    <pubDate>Tue, 29 Sep 2026 21:14:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.191</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.191&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.191</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Tue, 29 Sep 2026 21:14:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1094</guid>
+    <title>[org.replikativ/raster &quot;0.2.1094&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1094</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Tue, 29 Sep 2026 21:04:27 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1093</guid>
     <title>[org.replikativ/raster &quot;0.2.1093&quot;]</title>
@@ -1777,48 +1819,6 @@
     <link>https://clojars.org/com.biffweb/ring/versions/2.0.1-SNAPSHOT</link>
     <description></description>
     <pubDate>Sun, 27 Sep 2026 21:10:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/xtdb/versions/2.0.1-SNAPSHOT</guid>
-    <title>[com.biffweb/xtdb &quot;2.0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.biffweb/xtdb/versions/2.0.1-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Sun, 27 Sep 2026 21:10:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/sqlite/versions/2.0.1-SNAPSHOT</guid>
-    <title>[com.biffweb/sqlite &quot;2.0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.biffweb/sqlite/versions/2.0.1-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Sun, 27 Sep 2026 21:10:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/graph/versions/2.0.1-SNAPSHOT</guid>
-    <title>[com.biffweb/graph &quot;2.0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.biffweb/graph/versions/2.0.1-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Sun, 27 Sep 2026 21:10:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/fx/versions/2.0.1-SNAPSHOT</guid>
-    <title>[com.biffweb/fx &quot;2.0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.biffweb/fx/versions/2.0.1-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Sun, 27 Sep 2026 21:09:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/config/versions/2.0.1-SNAPSHOT</guid>
-    <title>[com.biffweb/config &quot;2.0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.biffweb/config/versions/2.0.1-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Sun, 27 Sep 2026 21:09:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/core/versions/2.0.1-SNAPSHOT</guid>
-    <title>[com.biffweb/core &quot;2.0.1-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.biffweb/core/versions/2.0.1-SNAPSHOT</link>
-    <description></description>
-    <pubDate>Sun, 27 Sep 2026 21:09:33 +0000</pubDate>
   </item>
   </channel>
 </rss>
