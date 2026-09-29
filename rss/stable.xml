@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 29 Sep 2026 04:03:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 05:03:36 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.github.franks42/signet/versions/0.10.0</guid>
+    <title>[com.github.franks42/signet &quot;0.10.0&quot;]</title>
+    <link>https://clojars.org/com.github.franks42/signet/versions/0.10.0</link>
+    <description>Ed25519/X25519/secp256k1 crypto primitives, authenticated encryption, capability chains, and SSH key import for Clojure</description>
+    <pubDate>Tue, 29 Sep 2026 04:28:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.franks42/nacljc/versions/0.6.0</guid>
+    <title>[com.github.franks42/nacljc &quot;0.6.0&quot;]</title>
+    <link>https://clojars.org/com.github.franks42/nacljc/versions/0.6.0</link>
+    <description>libsodium for Clojure on the JVM, babashka and nbb via babashka.ffi, hardened at the C boundary. NaCl-aligned, not NaCl.</description>
+    <pubDate>Tue, 29 Sep 2026 04:23:26 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/1.1.6</guid>
     <title>[org.clojars.huahaiy/dtlvnative-windows-x86_64 &quot;1.1.6&quot;]</title>
@@ -1785,20 +1799,6 @@
     <link>https://clojars.org/net.matlux/jvm-breakglass/versions/0.1.0</link>
     <description>Setting up an nrepl can be useful to introspect into the JVM for troubleshouting/investigation or testing of regular Java applications. You can connect onto a process and use a Clojure prompt interactivelly or have client application that sends and execute Java code dynamically. It works because the code injected is Clojure and that the Clojure run-time allows to evaluate code at run-time. Furthermore Clojure interops very easily with Java i.e. you can translate pretty much any Java code into Clojure and access all your Java object from the injected Clojure code. This is the perfect tool to access the inside of your JVM process live after it has been deployed. To run any fancy change of code scenario, any data structure or call any method you don&#39;t need to redeploy your java code. You can see what your process sees in real time. This is an unvaluable tool to use to develop and maintain a java application.</description>
     <pubDate>Sat, 26 Sep 2026 19:07:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.138</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.138&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.138</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Sat, 26 Sep 2026 18:39:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.138</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.138&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.138</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Sat, 26 Sep 2026 18:39:24 +0000</pubDate>
   </item>
   </channel>
 </rss>
