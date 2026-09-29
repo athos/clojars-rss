@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 29 Sep 2026 06:06:11 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 07:10:39 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.85</guid>
+    <title>[org.replikativ/spindel &quot;0.1.85&quot;]</title>
+    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.85</link>
+    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
+    <pubDate>Tue, 29 Sep 2026 07:09:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1064</guid>
+    <title>[org.replikativ/raster &quot;0.2.1064&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1064</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Tue, 29 Sep 2026 07:07:29 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.github.franks42/signet/versions/0.10.0</guid>
     <title>[com.github.franks42/signet &quot;0.10.0&quot;]</title>
@@ -1785,20 +1799,6 @@
     <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.140</link>
     <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
     <pubDate>Sat, 26 Sep 2026 19:34:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.plooney81/nectar-sql/versions/1.0.34</guid>
-    <title>[com.github.plooney81/nectar-sql &quot;1.0.34&quot;]</title>
-    <link>https://clojars.org/com.github.plooney81/nectar-sql/versions/1.0.34</link>
-    <description>Converts raw sql strings into honey sql.</description>
-    <pubDate>Sat, 26 Sep 2026 19:29:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.matlux/jvm-breakglass/versions/0.1.0</guid>
-    <title>[net.matlux/jvm-breakglass &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/net.matlux/jvm-breakglass/versions/0.1.0</link>
-    <description>Setting up an nrepl can be useful to introspect into the JVM for troubleshouting/investigation or testing of regular Java applications. You can connect onto a process and use a Clojure prompt interactivelly or have client application that sends and execute Java code dynamically. It works because the code injected is Clojure and that the Clojure run-time allows to evaluate code at run-time. Furthermore Clojure interops very easily with Java i.e. you can translate pretty much any Java code into Clojure and access all your Java object from the injected Clojure code. This is the perfect tool to access the inside of your JVM process live after it has been deployed. To run any fancy change of code scenario, any data structure or call any method you don&#39;t need to redeploy your java code. You can see what your process sees in real time. This is an unvaluable tool to use to develop and maintain a java application.</description>
-    <pubDate>Sat, 26 Sep 2026 19:07:26 +0000</pubDate>
   </item>
   </channel>
 </rss>
