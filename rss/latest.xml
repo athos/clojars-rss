@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 29 Sep 2026 09:04:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 10:03:38 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/web-base/versions/0.10.0</guid>
+    <title>[dev.arkaitz/web-base &quot;0.10.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/web-base/versions/0.10.0</link>
+    <description>A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.</description>
+    <pubDate>Tue, 29 Sep 2026 10:02:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.186</guid>
+    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.186&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.186</link>
+    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
+    <pubDate>Tue, 29 Sep 2026 09:43:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.186</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.186&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.186</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Tue, 29 Sep 2026 09:42:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.87</guid>
+    <title>[org.replikativ/spindel &quot;0.1.87&quot;]</title>
+    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.87</link>
+    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
+    <pubDate>Tue, 29 Sep 2026 09:40:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.55</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.55&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.55</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus Blockether-original width fixes using STANDARD Unicode widths: BMP Emoji_Presentation=Yes glyphs and genuine astral/surrogate emoji count as two columns; VS-15 text-presentation stays one column; VS-16 on text-default BMP symbols (warning sign, ballot box, heart) and bare geometric/symbol glyphs (circles, media triangles) stay ONE column so they do not over-count and shove following cells / borders out of alignment; East-Asian-Ambiguous (EAW=A) is one column by default (opt in with -Dlanterna.eastAsianAmbiguousWide=true); control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Tue, 29 Sep 2026 09:05:34 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.185</guid>
     <title>[org.replikativ/dvergr-benchmarks &quot;0.1.185&quot;]</title>
@@ -1764,41 +1799,6 @@
     <link>https://clojars.org/org.replikativ/raster/versions/0.2.986</link>
     <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
     <pubDate>Sun, 27 Sep 2026 05:56:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.981</guid>
-    <title>[org.replikativ/raster &quot;0.2.981&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.981</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sun, 27 Sep 2026 04:46:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.977</guid>
-    <title>[org.replikativ/raster &quot;0.2.977&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.977</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sun, 27 Sep 2026 03:56:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.972</guid>
-    <title>[org.replikativ/raster &quot;0.2.972&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.972</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sun, 27 Sep 2026 03:03:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.154</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.154&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.154</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Sun, 27 Sep 2026 02:30:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.154</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.154&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.154</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Sun, 27 Sep 2026 02:30:23 +0000</pubDate>
   </item>
   </channel>
 </rss>
