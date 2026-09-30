@@ -1,8 +1,3 @@
-{:created 1790543440330, :description nil, :group_name "com.biffweb", :jar_name "datastar", :version "2.0.1-SNAPSHOT"}
-{:created 1790543449590, :description nil, :group_name "com.biffweb", :jar_name "run", :version "2.0.1-SNAPSHOT"}
-{:created 1790543458727, :description nil, :group_name "com.biffweb", :jar_name "tasks", :version "2.0.1-SNAPSHOT"}
-{:created 1790543468066, :description nil, :group_name "com.biffweb", :jar_name "background", :version "2.0.1-SNAPSHOT"}
-{:created 1790543477353, :description nil, :group_name "com.biffweb", :jar_name "authenticate", :version "2.0.1-SNAPSHOT"}
 {:created 1790543486602, :description nil, :group_name "com.biffweb", :jar_name "admin", :version "2.0.1-SNAPSHOT"}
 {:created 1790543495779, :description nil, :group_name "com.biffweb", :jar_name "defaults", :version "2.0.1-SNAPSHOT"}
 {:created 1790545437545, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.72"}
@@ -254,3 +249,8 @@
 {:created 1790718681364, :description "A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.", :group_name "dev.arkaitz", :jar_name "web-base", :version "0.12.0"}
 {:created 1790718897240, :description "Magic-link authentication as a web-base plugin: issue a challenge, redeem it once, hand back a subject, with a standard, brandable sign-in. The ceremony itself runs under any Ring host.", :group_name "dev.arkaitz", :jar_name "auth-base", :version "0.9.1"}
 {:created 1790719710117, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.194"}
+{:created 1790722976229, :description "OpenVox Server", :group_name "org.openvoxproject", :jar_name "puppetserver", :version "9.0.0-rc2"}
+{:created 1790723082924, :description "OpenVox-integrated catalog and fact storage", :group_name "org.openvoxproject", :jar_name "puppetdb", :version "9.0.0-rc2"}
+{:created 1790725478305, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1096"}
+{:created 1790725496717, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.274"}
+{:created 1790725744078, :description "Probabilistic inference in forkable worlds: SMC, particle MCMC, MCMC over traces, HMC blocks, variational inference and counterfactuals on spindel savepoints.", :group_name "org.replikativ", :jar_name "foerster", :version "0.1.41"}
