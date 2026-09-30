@@ -1,6 +1,3 @@
-{:created 1790573580422, :description "Cache library for Wagoe framework: in-memory and Redis cache adapters", :group_name "com.wagoe", :jar_name "wagoe-cache", :version "1.0.0-rc-4"}
-{:created 1790573599188, :description "Platform library for Wagoe framework: database, HTTP, configuration, modules", :group_name "com.wagoe", :jar_name "wagoe-platform", :version "1.0.0-rc-4"}
-{:created 1790573618648, :description "Storage library for Wagoe framework: local filesystem and S3 adapters", :group_name "com.wagoe", :jar_name "wagoe-storage", :version "1.0.0-rc-4"}
 {:created 1790573653514, :description "Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication", :group_name "com.wagoe", :jar_name "wagoe-realtime", :version "1.0.0-rc-4"}
 {:created 1790573671503, :description "Multi-tenancy library for Wagoe framework: schema isolation, tenant resolution, provisioning", :group_name "com.wagoe", :jar_name "wagoe-tenant", :version "1.0.0-rc-4"}
 {:created 1790573690002, :description "Jobs library for Wagoe framework: background job queuing with in-memory and Redis adapters", :group_name "com.wagoe", :jar_name "wagoe-jobs", :version "1.0.0-rc-4"}
@@ -254,3 +251,6 @@
 {:created 1790754993450, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1122"}
 {:created 1790757752147, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.95"}
 {:created 1790758142210, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.277"}
+{:created 1790759790749, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1903"}
+{:created 1790759836105, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike-http-server", :version "0.8.1903"}
+{:created 1790761864295, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1124"}
