@@ -4,7 +4,82 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 1 Oct 2026 16:03:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 1 Oct 2026 17:03:10 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.saga-it/mirthsync/versions/3.8.0</guid>
+    <title>[com.saga-it/mirthsync &quot;3.8.0&quot;]</title>
+    <link>https://clojars.org/com.saga-it/mirthsync/versions/3.8.0</link>
+    <description>MirthSync is an open source DevOps tool for Mirth Connect and
+  Open Integration Engine version control and CI/CD automation. This command line
+  tool enables healthcare integration DevOps workflows by keeping a local copy of
+  Mirth Connect configurations (channels, code templates, global scripts) that can
+  be tracked with Git or other version control systems. MirthSync supports
+  multi-environment deployments (dev, test, prod) with automated channel promotion
+  between servers, making it ideal for interface engine CI/CD pipelines and GitOps
+  workflows. The tool provides infrastructure as code capabilities for HL7, FHIR,
+  and DICOM integration engine deployments with built-in Git integration, channel
+  versioning, and continuous deployment support for healthcare environments.
+
+  The only requirements are having credentials for the server that is being synced
+  and ensuring that the server is configured to allow access to its REST API.</description>
+    <pubDate>Thu, 1 Oct 2026 16:58:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-addon/versions/1.1.1</guid>
+    <title>[io.github.hive-agi/hive-addon &quot;1.1.1&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-addon/versions/1.1.1</link>
+    <description></description>
+    <pubDate>Thu, 1 Oct 2026 16:57:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-carto-flow-vim/versions/0.1.17</guid>
+    <title>[io.github.hive-agi/hive-carto-flow-vim &quot;0.1.17&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-carto-flow-vim/versions/0.1.17</link>
+    <description></description>
+    <pubDate>Thu, 1 Oct 2026 16:22:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.290</guid>
+    <title>[org.replikativ/pg-datahike &quot;0.1.290&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.290</link>
+    <description></description>
+    <pubDate>Thu, 1 Oct 2026 16:20:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.208</guid>
+    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.208&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.208</link>
+    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
+    <pubDate>Thu, 1 Oct 2026 16:18:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.208</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.208&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.208</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Thu, 1 Oct 2026 16:18:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/foerster/versions/0.1.50</guid>
+    <title>[org.replikativ/foerster &quot;0.1.50&quot;]</title>
+    <link>https://clojars.org/org.replikativ/foerster/versions/0.1.50</link>
+    <description>Probabilistic inference in forkable worlds: SMC, particle MCMC, MCMC over traces, HMC blocks, variational inference and counterfactuals on spindel savepoints.</description>
+    <pubDate>Thu, 1 Oct 2026 16:17:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-hot/versions/0.1.22</guid>
+    <title>[io.github.hive-agi/hive-hot &quot;0.1.22&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-hot/versions/0.1.22</link>
+    <description></description>
+    <pubDate>Thu, 1 Oct 2026 16:14:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1144</guid>
+    <title>[org.replikativ/raster &quot;0.2.1144&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1144</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Thu, 1 Oct 2026 16:09:49 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.hoffresearch/hoffresearch/versions/0.0.1</guid>
     <title>[com.hoffresearch/hoffresearch &quot;0.0.1&quot;]</title>
@@ -1753,69 +1828,6 @@
     <link>https://clojars.org/com.github.franks42/signet/versions/0.10.0</link>
     <description>Ed25519/X25519/secp256k1 crypto primitives, authenticated encryption, capability chains, and SSH key import for Clojure</description>
     <pubDate>Tue, 29 Sep 2026 04:28:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.franks42/nacljc/versions/0.6.0</guid>
-    <title>[com.github.franks42/nacljc &quot;0.6.0&quot;]</title>
-    <link>https://clojars.org/com.github.franks42/nacljc/versions/0.6.0</link>
-    <description>libsodium for Clojure on the JVM, babashka and nbb via babashka.ffi, hardened at the C boundary. NaCl-aligned, not NaCl.</description>
-    <pubDate>Tue, 29 Sep 2026 04:23:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/1.1.6</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-windows-x86_64 &quot;1.1.6&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-windows-x86_64/versions/1.1.6</link>
-    <description>Native dependency of Datalevin database on Windows</description>
-    <pubDate>Tue, 29 Sep 2026 02:53:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/1.1.6</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-linux-x86_64 &quot;1.1.6&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/1.1.6</link>
-    <description>Native dependency of Datalevin on Linux x86-64</description>
-    <pubDate>Tue, 29 Sep 2026 02:52:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-arm64/versions/1.1.6</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-linux-arm64 &quot;1.1.6&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-arm64/versions/1.1.6</link>
-    <description>Native dependency of Datalevin on Linux Arm64</description>
-    <pubDate>Tue, 29 Sep 2026 02:52:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/1.1.6</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-macosx-arm64 &quot;1.1.6&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-macosx-arm64/versions/1.1.6</link>
-    <description>Native dependency of Datalevin on Apple Silicon</description>
-    <pubDate>Tue, 29 Sep 2026 02:47:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.supabase-community/core/versions/0.8.0</guid>
-    <title>[io.github.supabase-community/core &quot;0.8.0&quot;]</title>
-    <link>https://clojars.org/io.github.supabase-community/core/versions/0.8.0</link>
-    <description></description>
-    <pubDate>Tue, 29 Sep 2026 02:27:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.39.0</guid>
-    <title>[net.clojars.savya/anthropic-clj &quot;0.39.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.39.0</link>
-    <description>Idiomatic Clojure wrapper over the official Anthropic Java SDK</description>
-    <pubDate>Tue, 29 Sep 2026 02:16:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.34.0</guid>
-    <title>[net.clojars.savya/openai-clj &quot;0.34.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.34.0</link>
-    <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
-    <pubDate>Tue, 29 Sep 2026 02:16:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.182</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.182&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.182</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Tue, 29 Sep 2026 01:39:35 +0000</pubDate>
   </item>
   </channel>
 </rss>
