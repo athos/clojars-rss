@@ -4,7 +4,63 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 1 Oct 2026 01:30:59 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 1 Oct 2026 02:16:22 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.buddhilw/clojure-elisp/versions/0.8.3</guid>
+    <title>[io.github.buddhilw/clojure-elisp &quot;0.8.3&quot;]</title>
+    <link>https://clojars.org/io.github.buddhilw/clojure-elisp/versions/0.8.3</link>
+    <description>A Clojure-to-Emacs-Lisp compiler: analyzes Clojure-style source into an AST and emits Emacs Lisp, with a self-hosted runtime library.</description>
+    <pubDate>Thu, 1 Oct 2026 02:15:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-addon/versions/1.0.16</guid>
+    <title>[io.github.hive-agi/hive-addon &quot;1.0.16&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-addon/versions/1.0.16</link>
+    <description></description>
+    <pubDate>Thu, 1 Oct 2026 02:10:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-build/versions/0.1.26</guid>
+    <title>[io.github.hive-agi/hive-build &quot;0.1.26&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-build/versions/0.1.26</link>
+    <description></description>
+    <pubDate>Thu, 1 Oct 2026 02:10:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/web-base/versions/0.13.0</guid>
+    <title>[dev.arkaitz/web-base &quot;0.13.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/web-base/versions/0.13.0</link>
+    <description>A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.</description>
+    <pubDate>Thu, 1 Oct 2026 02:05:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/auth-base/versions/0.10.0</guid>
+    <title>[dev.arkaitz/auth-base &quot;0.10.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/auth-base/versions/0.10.0</link>
+    <description>Magic-link authentication as a web-base plugin: issue a challenge, redeem it once, hand back a subject, with a standard, brandable sign-in. The ceremony itself runs under any Ring host.</description>
+    <pubDate>Thu, 1 Oct 2026 02:05:19 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/db-base/versions/0.4.0</guid>
+    <title>[dev.arkaitz/db-base &quot;0.4.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/db-base/versions/0.4.0</link>
+    <description>A pooled connection with a lifecycle, migrations that run before anything serves, and a Ring session store that never upserts. Any JDBC database; HikariCP and ragtime underneath, Integrant only for the one optional namespace that ships its key.</description>
+    <pubDate>Thu, 1 Oct 2026 02:04:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-dirge/versions/0.1.8</guid>
+    <title>[io.github.hive-agi/hive-dirge &quot;0.1.8&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-dirge/versions/0.1.8</link>
+    <description></description>
+    <pubDate>Thu, 1 Oct 2026 01:58:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-olympus/versions/0.1.12</guid>
+    <title>[io.github.hive-agi/hive-olympus &quot;0.1.12&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-olympus/versions/0.1.12</link>
+    <description></description>
+    <pubDate>Thu, 1 Oct 2026 01:46:49 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/net.willcohen/native/versions/0.0.3</guid>
     <title>[net.willcohen/native &quot;0.0.3&quot;]</title>
@@ -1763,62 +1819,6 @@
     <link>https://clojars.org/com.wagoe/wagoe-payments/versions/1.0.0</link>
     <description>PSP abstraction for Wagoe framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification</description>
     <pubDate>Mon, 28 Sep 2026 12:07:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-email/versions/1.0.0</guid>
-    <title>[com.wagoe/wagoe-email &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-email/versions/1.0.0</link>
-    <description>Email sending library for Wagoe framework: SMTP support, composition, validation</description>
-    <pubDate>Mon, 28 Sep 2026 12:07:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-external/versions/1.0.0</guid>
-    <title>[com.wagoe/wagoe-external &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-external/versions/1.0.0</link>
-    <description>External service adapters library for Wagoe framework</description>
-    <pubDate>Mon, 28 Sep 2026 12:06:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-push/versions/1.0.0</guid>
-    <title>[com.wagoe/wagoe-push &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-push/versions/1.0.0</link>
-    <description>Push notification library for Wagoe framework: FCM and APNs support, device management, delivery analytics</description>
-    <pubDate>Mon, 28 Sep 2026 12:06:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-jobs/versions/1.0.0</guid>
-    <title>[com.wagoe/wagoe-jobs &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-jobs/versions/1.0.0</link>
-    <description>Jobs library for Wagoe framework: background job queuing with in-memory and Redis adapters</description>
-    <pubDate>Mon, 28 Sep 2026 12:06:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-tenant/versions/1.0.0</guid>
-    <title>[com.wagoe/wagoe-tenant &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-tenant/versions/1.0.0</link>
-    <description>Multi-tenancy library for Wagoe framework: schema isolation, tenant resolution, provisioning</description>
-    <pubDate>Mon, 28 Sep 2026 12:05:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-realtime/versions/1.0.0</guid>
-    <title>[com.wagoe/wagoe-realtime &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-realtime/versions/1.0.0</link>
-    <description>Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication</description>
-    <pubDate>Mon, 28 Sep 2026 12:05:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-events/versions/1.0.0</guid>
-    <title>[com.wagoe/wagoe-events &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-events/versions/1.0.0</link>
-    <description>Event bus for Wagoe framework: in-memory and Redis Streams adapters for cross-process events</description>
-    <pubDate>Mon, 28 Sep 2026 12:05:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-storage/versions/1.0.0</guid>
-    <title>[com.wagoe/wagoe-storage &quot;1.0.0&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-storage/versions/1.0.0</link>
-    <description>Storage library for Wagoe framework: local filesystem and S3 adapters</description>
-    <pubDate>Mon, 28 Sep 2026 12:04:49 +0000</pubDate>
   </item>
   </channel>
 </rss>
