@@ -1,18 +1,3 @@
-{:created 1790634139827, :description "Authentication as a liftable module: issue a challenge, redeem it once, hand back a subject. Depends on ring-core, and on Integrant only for the one optional namespace that ships its key.", :group_name "dev.arkaitz", :jar_name "auth-base", :version "0.7.0"}
-{:created 1790634758121, :description "Pure-Clojure spreadsheet interpreter — formulas, dynamic arrays, LET/LAMBDA, tables, 3D refs. Cross-platform (Clojure + ClojureScript).", :group_name "org.replikativ", :jar_name "rechentafel", :version "0.1.6"}
-{:created 1790635718278, :description nil, :group_name "io.github.supabase-community", :jar_name "storage", :version "0.6.0"}
-{:created 1790636405491, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1059"}
-{:created 1790637427902, :description "Thread-safe Common Lisp style conditions and restarts for Clojure(Script).", :group_name "org.suskalo", :jar_name "farolero", :version "1.5.1"}
-{:created 1790638003865, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.84"}
-{:created 1790638951987, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.181"}
-{:created 1790638969819, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.181"}
-{:created 1790639593143, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.266"}
-{:created 1790639628793, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1061"}
-{:created 1790642700353, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1063"}
-{:created 1790643115931, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-dirge", :version "0.1.3"}
-{:created 1790645957271, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.182"}
-{:created 1790645975067, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.182"}
-{:created 1790648212621, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.34.0"}
 {:created 1790648219198, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.39.0"}
 {:created 1790648867520, :description nil, :group_name "io.github.supabase-community", :jar_name "core", :version "0.8.0"}
 {:created 1790650051953, :description "Native dependency of Datalevin on Apple Silicon", :group_name "org.clojars.huahaiy", :jar_name "dtlvnative-macosx-arm64", :version "1.1.6"}
@@ -254,3 +239,18 @@
 {:created 1790866971158, :description nil, :group_name "com.biffweb", :jar_name "graph", :version "2.0.1"}
 {:created 1790866979601, :description nil, :group_name "com.biffweb", :jar_name "sqlite", :version "2.0.1"}
 {:created 1790866988435, :description nil, :group_name "com.biffweb", :jar_name "xtdb", :version "2.0.1"}
+{:created 1790866996953, :description nil, :group_name "com.biffweb", :jar_name "ring", :version "2.0.1"}
+{:created 1790867005489, :description nil, :group_name "com.biffweb", :jar_name "datastar", :version "2.0.1"}
+{:created 1790867014117, :description nil, :group_name "com.biffweb", :jar_name "run", :version "2.0.1"}
+{:created 1790867023061, :description nil, :group_name "com.biffweb", :jar_name "tasks", :version "2.0.1"}
+{:created 1790867031418, :description nil, :group_name "com.biffweb", :jar_name "background", :version "2.0.1"}
+{:created 1790867039653, :description nil, :group_name "com.biffweb", :jar_name "authenticate", :version "2.0.1"}
+{:created 1790867048179, :description nil, :group_name "com.biffweb", :jar_name "admin", :version "2.0.1"}
+{:created 1790867056915, :description nil, :group_name "com.biffweb", :jar_name "defaults", :version "2.0.1"}
+{:created 1790868455826, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-dirge", :version "0.1.10"}
+{:created 1790868676685, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-mcp", :version "1.2.31"}
+{:created 1790869716616, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1143"}
+{:created 1790869925060, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-carto-flow-vim", :version "0.1.16"}
+{:created 1790870190127, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.207"}
+{:created 1790870205622, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.207"}
+{:created 1790870555389, :description "Hoff Research namespace. Placeholder package, the real thing lands here later.", :group_name "com.hoffresearch", :jar_name "hoffresearch", :version "0.0.1"}
