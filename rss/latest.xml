@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 2 Oct 2026 06:06:10 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 2 Oct 2026 07:09:45 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.scicloj/plotje/versions/0.16.0</guid>
+    <title>[org.scicloj/plotje &quot;0.16.0&quot;]</title>
+    <link>https://clojars.org/org.scicloj/plotje/versions/0.16.0</link>
+    <description>composable plotting in Clojure</description>
+    <pubDate>Fri, 2 Oct 2026 07:03:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.tamizhvendan/honeyeql/versions/1.0.8</guid>
+    <title>[com.github.tamizhvendan/honeyeql &quot;1.0.8&quot;]</title>
+    <link>https://clojars.org/com.github.tamizhvendan/honeyeql/versions/1.0.8</link>
+    <description>HoneyEQL enables you to query database using the EQL.</description>
+    <pubDate>Fri, 2 Oct 2026 06:17:51 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.yamlscript/clj-yamlscript/versions/0.3.4</guid>
     <title>[org.yamlscript/clj-yamlscript &quot;0.3.4&quot;]</title>
@@ -1797,26 +1811,6 @@
     <link>https://clojars.org/org.replikativ/spindel/versions/0.1.93</link>
     <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
     <pubDate>Tue, 29 Sep 2026 20:10:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-dirge/versions/0.1.5</guid>
-    <title>[io.github.hive-agi/hive-dirge &quot;0.1.5&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-dirge/versions/0.1.5</link>
-    <description></description>
-    <pubDate>Tue, 29 Sep 2026 20:08:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.vaelii/sqlite/versions/0.22.0</guid>
-    <title>[com.vaelii/sqlite &quot;0.22.0&quot;]</title>
-    <link>https://clojars.org/com.vaelii/sqlite/versions/0.22.0</link>
-    <description>SQLite targets for vaelii&#39;s storage protocols. The first is the
-                snapshot sink (vaelii.sqlite.snapshot): a SnapshotSink /
-                SnapshotSource over a single SQLite file, so a KB image — the index
-                projection today, any of io.snapshot&#39;s named sections — lands in a
-                zero-configuration file as a few bulk transactions and reads back
-                the same way. An Apache-2.0 adapter on the SSPL engine, depending on
-                core, never depended on by it.</description>
-    <pubDate>Tue, 29 Sep 2026 20:03:39 +0000</pubDate>
   </item>
   </channel>
 </rss>
