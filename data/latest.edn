@@ -1,5 +1,3 @@
-{:created 1790819209738, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-olympus", :version "0.1.12"}
-{:created 1790819934937, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-dirge", :version "0.1.8"}
 {:created 1790820288725, :description "A pooled connection with a lifecycle, migrations that run before anything serves, and a Ring session store that never upserts. Any JDBC database; HikariCP and ragtime underneath, Integrant only for the one optional namespace that ships its key.", :group_name "dev.arkaitz", :jar_name "db-base", :version "0.4.0"}
 {:created 1790820319829, :description "Magic-link authentication as a web-base plugin: issue a challenge, redeem it once, hand back a subject, with a standard, brandable sign-in. The ceremony itself runs under any Ring host.", :group_name "dev.arkaitz", :jar_name "auth-base", :version "0.10.0"}
 {:created 1790820352334, :description "A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.", :group_name "dev.arkaitz", :jar_name "web-base", :version "0.13.0"}
@@ -254,3 +252,5 @@
 {:created 1791008182256, :description "Pure Clojure implementations of wcwidth/wcswidth.", :group_name "com.github.pmonks", :jar_name "clj-wcwidth", :version "1.0.159"}
 {:created 1791008364989, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1190"}
 {:created 1791010248234, :description "Probabilistic inference in forkable worlds: SMC, particle MCMC, MCMC over traces, HMC blocks, variational inference and counterfactuals on spindel savepoints.", :group_name "org.replikativ", :jar_name "foerster", :version "0.1.68"}
+{:created 1791013921139, :description "French editorial calendar (marronniers) from September 2026 to December 2027: public holidays, celebrations, retail dates, world days, school holidays and sales, with sectors, source and a post idea for each date.", :group_name "net.clojars.lescreavores", :jar_name "marronniers", :version "0.1.0"}
+{:created 1791014249459, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1192"}
