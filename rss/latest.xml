@@ -4,7 +4,91 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 4 Oct 2026 17:18:10 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 4 Oct 2026 18:29:52 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.1</guid>
+    <title>[net.clojars.savya/psql-clj-aws &quot;3.0.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.1</link>
+    <description>AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.</description>
+    <pubDate>Sun, 4 Oct 2026 18:26:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.2</guid>
+    <title>[net.clojars.savya/psql-clj &quot;2.4.2&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.2</link>
+    <description>PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.</description>
+    <pubDate>Sun, 4 Oct 2026 18:26:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.41.0</guid>
+    <title>[net.clojars.savya/anthropic-clj &quot;0.41.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.41.0</link>
+    <description>Idiomatic Clojure wrapper over the official Anthropic Java SDK</description>
+    <pubDate>Sun, 4 Oct 2026 18:20:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/tokenizers-clj/versions/0.11.1</guid>
+    <title>[net.clojars.savya/tokenizers-clj &quot;0.11.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/tokenizers-clj/versions/0.11.1</link>
+    <description>Idiomatic Clojure wrapper over DJL&#39;s HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.</description>
+    <pubDate>Sun, 4 Oct 2026 18:19:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/jose-clj/versions/0.9.1</guid>
+    <title>[net.clojars.savya/jose-clj &quot;0.9.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/jose-clj/versions/0.9.1</link>
+    <description>Idiomatic Clojure JOSE: JWS, JWE, JWK/JWKS, and JWT (signed, encrypted, nested) over Nimbus JOSE+JWT.</description>
+    <pubDate>Sun, 4 Oct 2026 18:16:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/inet.data/versions/3.0.1</guid>
+    <title>[net.clojars.savya/inet.data &quot;3.0.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/inet.data/versions/3.0.1</link>
+    <description>Represent and manipulate various Internet entities as data.</description>
+    <pubDate>Sun, 4 Oct 2026 18:16:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/pdfplumber-clj/versions/2.0.1</guid>
+    <title>[net.clojars.savya/pdfplumber-clj &quot;2.0.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/pdfplumber-clj/versions/2.0.1</link>
+    <description>Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.</description>
+    <pubDate>Sun, 4 Oct 2026 18:16:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/embeddings-clj/versions/0.7.1</guid>
+    <title>[net.clojars.savya/embeddings-clj &quot;0.7.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/embeddings-clj/versions/0.7.1</link>
+    <description>Local text-embedding inference for Clojure: run sentence-transformers ONNX models in-process.</description>
+    <pubDate>Sun, 4 Oct 2026 18:16:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/duckdb-clj/versions/0.9.1</guid>
+    <title>[net.clojars.savya/duckdb-clj &quot;0.9.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/duckdb-clj/versions/0.9.1</link>
+    <description>DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.</description>
+    <pubDate>Sun, 4 Oct 2026 18:16:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/cljgrapht/versions/1.4.2</guid>
+    <title>[net.clojars.savya/cljgrapht &quot;1.4.2&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/cljgrapht/versions/1.4.2</link>
+    <description>Idiomatic Clojure graph library backed by JGraphT: fast algorithms over Clojure-value vertices</description>
+    <pubDate>Sun, 4 Oct 2026 18:15:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/clj-oauth/versions/1.10.1</guid>
+    <title>[net.clojars.savya/clj-oauth &quot;1.10.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/clj-oauth/versions/1.10.1</link>
+    <description>OAuth support for Clojure</description>
+    <pubDate>Sun, 4 Oct 2026 18:15:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.37.0</guid>
+    <title>[net.clojars.savya/openai-clj &quot;0.37.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.37.0</link>
+    <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
+    <pubDate>Sun, 4 Oct 2026 18:08:22 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/onaio/milia/versions/0.10.0-rc1</guid>
     <title>[onaio/milia &quot;0.10.0-rc1&quot;]</title>
@@ -1729,90 +1813,6 @@
     <link>https://clojars.org/io.github.hive-agi/hive-carto-flow-vim/versions/0.1.17</link>
     <description></description>
     <pubDate>Thu, 1 Oct 2026 16:22:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.290</guid>
-    <title>[org.replikativ/pg-datahike &quot;0.1.290&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.290</link>
-    <description></description>
-    <pubDate>Thu, 1 Oct 2026 16:20:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.208</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.208&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.208</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Thu, 1 Oct 2026 16:18:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.208</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.208&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.208</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Thu, 1 Oct 2026 16:18:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/foerster/versions/0.1.50</guid>
-    <title>[org.replikativ/foerster &quot;0.1.50&quot;]</title>
-    <link>https://clojars.org/org.replikativ/foerster/versions/0.1.50</link>
-    <description>Probabilistic inference in forkable worlds: SMC, particle MCMC, MCMC over traces, HMC blocks, variational inference and counterfactuals on spindel savepoints.</description>
-    <pubDate>Thu, 1 Oct 2026 16:17:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-hot/versions/0.1.22</guid>
-    <title>[io.github.hive-agi/hive-hot &quot;0.1.22&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-hot/versions/0.1.22</link>
-    <description></description>
-    <pubDate>Thu, 1 Oct 2026 16:14:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1144</guid>
-    <title>[org.replikativ/raster &quot;0.2.1144&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1144</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Thu, 1 Oct 2026 16:09:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.hoffresearch/hoffresearch/versions/0.0.1</guid>
-    <title>[com.hoffresearch/hoffresearch &quot;0.0.1&quot;]</title>
-    <link>https://clojars.org/com.hoffresearch/hoffresearch/versions/0.0.1</link>
-    <description>Hoff Research namespace. Placeholder package, the real thing lands here later.</description>
-    <pubDate>Thu, 1 Oct 2026 16:02:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.207</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.207&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.207</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Thu, 1 Oct 2026 15:56:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.207</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.207&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.207</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Thu, 1 Oct 2026 15:56:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-carto-flow-vim/versions/0.1.16</guid>
-    <title>[io.github.hive-agi/hive-carto-flow-vim &quot;0.1.16&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-carto-flow-vim/versions/0.1.16</link>
-    <description></description>
-    <pubDate>Thu, 1 Oct 2026 15:52:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1143</guid>
-    <title>[org.replikativ/raster &quot;0.2.1143&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1143</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Thu, 1 Oct 2026 15:48:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/bb-mcp/versions/1.2.31</guid>
-    <title>[io.github.hive-agi/bb-mcp &quot;1.2.31&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/bb-mcp/versions/1.2.31</link>
-    <description></description>
-    <pubDate>Thu, 1 Oct 2026 15:31:16 +0000</pubDate>
   </item>
   </channel>
 </rss>
