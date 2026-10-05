@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 5 Oct 2026 19:05:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 5 Oct 2026 21:03:21 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1234</guid>
+    <title>[org.replikativ/raster &quot;0.2.1234&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1234</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Mon, 5 Oct 2026 20:59:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.papachan/montalivet/versions/0.1.1</guid>
+    <title>[io.github.papachan/montalivet &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/io.github.papachan/montalivet/versions/0.1.1</link>
+    <description>A Clojure library for parsing, sanitising and escaping HTML, built on jsoup.</description>
+    <pubDate>Mon, 5 Oct 2026 20:55:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/ib-re-actor-976-plus/versions/0.3.10.51.01-SNAPSHOT</guid>
+    <title>[ib-re-actor-976-plus &quot;0.3.10.51.01-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/ib-re-actor-976-plus/versions/0.3.10.51.01-SNAPSHOT</link>
+    <description>Clojure friendly wrapper for the Interactive Brokers Java API</description>
+    <pubDate>Mon, 5 Oct 2026 20:33:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.alex314159/twsapi/versions/10.51.01</guid>
+    <title>[net.clojars.alex314159/twsapi &quot;10.51.01&quot;]</title>
+    <link>https://clojars.org/net.clojars.alex314159/twsapi/versions/10.51.01</link>
+    <description>Interactive Brokers TWS API Java client (TwsApi.jar), repackaged for Clojars.</description>
+    <pubDate>Mon, 5 Oct 2026 20:32:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.316</guid>
+    <title>[org.replikativ/pg-datahike &quot;0.1.316&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.316</link>
+    <description></description>
+    <pubDate>Mon, 5 Oct 2026 20:30:32 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/net.clojars.mateopedersen/calendar-query/versions/0.1.0</guid>
     <title>[net.clojars.mateopedersen/calendar-query &quot;0.1.0&quot;]</title>
@@ -1766,41 +1801,6 @@
     <link>https://clojars.org/com.blockether/svar/versions/0.7.196</link>
     <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
     <pubDate>Thu, 1 Oct 2026 23:04:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.97</guid>
-    <title>[org.replikativ/spindel &quot;0.1.97&quot;]</title>
-    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.97</link>
-    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
-    <pubDate>Thu, 1 Oct 2026 22:58:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/foerster/versions/0.1.53</guid>
-    <title>[org.replikativ/foerster &quot;0.1.53&quot;]</title>
-    <link>https://clojars.org/org.replikativ/foerster/versions/0.1.53</link>
-    <description>Probabilistic inference in forkable worlds: SMC, particle MCMC, MCMC over traces, HMC blocks, variational inference and counterfactuals on spindel savepoints.</description>
-    <pubDate>Thu, 1 Oct 2026 22:57:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/foerster-raster/versions/0.1.9</guid>
-    <title>[org.replikativ/foerster-raster &quot;0.1.9&quot;]</title>
-    <link>https://clojars.org/org.replikativ/foerster-raster/versions/0.1.9</link>
-    <description>raster-compiled blocks for foerster: log densities and gradients of model blocks compiled by raster, for HMC and other gradient-based inference.</description>
-    <pubDate>Thu, 1 Oct 2026 22:53:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.216</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.216&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.216</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Thu, 1 Oct 2026 22:50:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.294</guid>
-    <title>[org.replikativ/pg-datahike &quot;0.1.294&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.294</link>
-    <description></description>
-    <pubDate>Thu, 1 Oct 2026 22:50:43 +0000</pubDate>
   </item>
   </channel>
 </rss>
