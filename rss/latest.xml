@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 8 Oct 2026 08:06:29 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 8 Oct 2026 09:06:39 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1247</guid>
+    <title>[org.replikativ/raster &quot;0.2.1247&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1247</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Thu, 8 Oct 2026 08:54:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/web-base/versions/0.16.0</guid>
+    <title>[dev.arkaitz/web-base &quot;0.16.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/web-base/versions/0.16.0</link>
+    <description>A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.</description>
+    <pubDate>Thu, 8 Oct 2026 08:26:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.56</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.56&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.56</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Thu, 8 Oct 2026 08:09:07 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.whimsical/clojurific/versions/0.12.3</guid>
     <title>[com.whimsical/clojurific &quot;0.12.3&quot;]</title>
@@ -1777,27 +1798,6 @@
     <link>https://clojars.org/tech.thomascothran/pavlov-ai/versions/4.0.37</link>
     <description>Pavlov AI</description>
     <pubDate>Sat, 3 Oct 2026 19:19:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/foerster-raster/versions/0.1.11</guid>
-    <title>[org.replikativ/foerster-raster &quot;0.1.11&quot;]</title>
-    <link>https://clojars.org/org.replikativ/foerster-raster/versions/0.1.11</link>
-    <description>raster-compiled blocks for foerster: log densities and gradients of model blocks compiled by raster, for HMC and other gradient-based inference.</description>
-    <pubDate>Sat, 3 Oct 2026 19:14:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-mcp/versions/1.9.2</guid>
-    <title>[io.github.hive-agi/hive-mcp &quot;1.9.2&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-mcp/versions/1.9.2</link>
-    <description></description>
-    <pubDate>Sat, 3 Oct 2026 19:01:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-hot/versions/0.1.24</guid>
-    <title>[io.github.hive-agi/hive-hot &quot;0.1.24&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-hot/versions/0.1.24</link>
-    <description></description>
-    <pubDate>Sat, 3 Oct 2026 18:57:43 +0000</pubDate>
   </item>
   </channel>
 </rss>
