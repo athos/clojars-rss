@@ -4,7 +4,49 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 8 Oct 2026 09:06:39 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 8 Oct 2026 10:04:02 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1250</guid>
+    <title>[org.replikativ/raster &quot;0.2.1250&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1250</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Thu, 8 Oct 2026 09:36:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/cljfx/versions/1.10.363</guid>
+    <title>[cljfx &quot;1.10.363&quot;]</title>
+    <link>https://clojars.org/cljfx/versions/1.10.363</link>
+    <description></description>
+    <pubDate>Thu, 8 Oct 2026 09:28:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/sendmail-base/versions/0.3.0</guid>
+    <title>[dev.arkaitz/sendmail-base &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/sendmail-base/versions/0.3.0</link>
+    <description>Email for a Clojure application: one function, an SMTP client with a deadline on every send, and a console transport that prints the whole message in development.</description>
+    <pubDate>Thu, 8 Oct 2026 09:26:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/db-base/versions/0.6.0</guid>
+    <title>[dev.arkaitz/db-base &quot;0.6.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/db-base/versions/0.6.0</link>
+    <description>A pooled connection with a lifecycle, migrations that run before anything serves, and a Ring session store that never upserts. Any JDBC database; HikariCP and ragtime underneath, Integrant only for the one optional namespace that ships its key.</description>
+    <pubDate>Thu, 8 Oct 2026 09:26:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/auth-base/versions/0.15.0</guid>
+    <title>[dev.arkaitz/auth-base &quot;0.15.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/auth-base/versions/0.15.0</link>
+    <description>Magic-link authentication as a web-base plugin: issue a challenge, redeem it once, hand back a subject, with a standard, brandable sign-in. The ceremony itself runs under any Ring host.</description>
+    <pubDate>Thu, 8 Oct 2026 09:25:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.317</guid>
+    <title>[org.replikativ/pg-datahike &quot;0.1.317&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.317</link>
+    <description></description>
+    <pubDate>Thu, 8 Oct 2026 09:16:26 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1247</guid>
     <title>[org.replikativ/raster &quot;0.2.1247&quot;]</title>
@@ -1756,48 +1798,6 @@
     <link>https://clojars.org/io.github.plumce/plumcp.core-json-cheshire/versions/0.3.0</link>
     <description>JSON (cheshire library) module for PluMCP</description>
     <pubDate>Sat, 3 Oct 2026 14:29:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.plumce/plumcp.core-json-charred/versions/0.3.0</guid>
-    <title>[io.github.plumce/plumcp.core-json-charred &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/io.github.plumce/plumcp.core-json-charred/versions/0.3.0</link>
-    <description>JSON (charred library) module for PluMCP</description>
-    <pubDate>Sat, 3 Oct 2026 14:28:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.plumce/plumcp.core-auth/versions/0.3.0</guid>
-    <title>[io.github.plumce/plumcp.core-auth &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/io.github.plumce/plumcp.core-auth/versions/0.3.0</link>
-    <description>Auth module for PluMCP</description>
-    <pubDate>Sat, 3 Oct 2026 14:28:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.plumce/plumcp.core-dev/versions/0.3.0</guid>
-    <title>[io.github.plumce/plumcp.core-dev &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/io.github.plumce/plumcp.core-dev/versions/0.3.0</link>
-    <description>Dev module for PluMCP</description>
-    <pubDate>Sat, 3 Oct 2026 14:27:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.plumce/plumcp.core/versions/0.3.0</guid>
-    <title>[io.github.plumce/plumcp.core &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/io.github.plumce/plumcp.core/versions/0.3.0</link>
-    <description>Clojure/Script library for making MCP servers and clients</description>
-    <pubDate>Sat, 3 Oct 2026 14:27:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1206</guid>
-    <title>[org.replikativ/raster &quot;0.2.1206&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1206</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sat, 3 Oct 2026 13:45:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1204</guid>
-    <title>[org.replikativ/raster &quot;0.2.1204&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1204</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sat, 3 Oct 2026 12:28:14 +0000</pubDate>
   </item>
   </channel>
 </rss>
