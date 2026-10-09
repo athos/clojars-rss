@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 9 Oct 2026 16:03:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 9 Oct 2026 17:02:55 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/ai.intergraph/game-master/versions/0.1.20-SNAPSHOT</guid>
+    <title>[ai.intergraph/game-master &quot;0.1.20-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/ai.intergraph/game-master/versions/0.1.20-SNAPSHOT</link>
+    <description>Reusable Game Master runtime library for Intergraph</description>
+    <pubDate>Fri, 9 Oct 2026 17:00:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1320</guid>
+    <title>[org.replikativ/raster &quot;0.2.1320&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1320</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Fri, 9 Oct 2026 16:37:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/db-base/versions/0.7.0</guid>
+    <title>[dev.arkaitz/db-base &quot;0.7.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/db-base/versions/0.7.0</link>
+    <description>A pooled connection with a lifecycle, migrations that run before anything serves, and a Ring session store that never upserts. Any JDBC database; HikariCP and ragtime underneath, Integrant only for the one optional namespace that ships its key.</description>
+    <pubDate>Fri, 9 Oct 2026 16:33:46 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/auth-base/versions/0.16.0</guid>
+    <title>[dev.arkaitz/auth-base &quot;0.16.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/auth-base/versions/0.16.0</link>
+    <description>Magic-link authentication as a web-base plugin: issue a challenge, redeem it once, hand back a subject, with a standard, brandable sign-in. The ceremony itself runs under any Ring host.</description>
+    <pubDate>Fri, 9 Oct 2026 16:30:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/web-base/versions/0.17.0</guid>
+    <title>[dev.arkaitz/web-base &quot;0.17.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/web-base/versions/0.17.0</link>
+    <description>A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.</description>
+    <pubDate>Fri, 9 Oct 2026 16:29:33 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/foerster/versions/0.1.89</guid>
     <title>[org.replikativ/foerster &quot;0.1.89&quot;]</title>
@@ -1763,41 +1798,6 @@
     <link>https://clojars.org/org.replikativ/spindel/versions/0.1.103</link>
     <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
     <pubDate>Mon, 5 Oct 2026 16:32:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.230</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.230&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.230</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Mon, 5 Oct 2026 16:29:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.230</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.230&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.230</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Mon, 5 Oct 2026 16:29:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis/versions/0.2.31</guid>
-    <title>[com.blockether/vis &quot;0.2.31&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis/versions/0.2.31</link>
-    <description>vis - single-namespace SDK + iteration runtime + binary entry point.</description>
-    <pubDate>Mon, 5 Oct 2026 16:01:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-python-presentation/versions/0.2.31</guid>
-    <title>[com.blockether/vis-python-presentation &quot;0.2.31&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-python-presentation/versions/0.2.31</link>
-    <description>com.blockether/vis-python-presentation - vis monorepo package.</description>
-    <pubDate>Mon, 5 Oct 2026 16:01:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-contract/versions/0.2.31</guid>
-    <title>[com.blockether/vis-contract &quot;0.2.31&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-contract/versions/0.2.31</link>
-    <description>com.blockether/vis-contract - vis monorepo package.</description>
-    <pubDate>Mon, 5 Oct 2026 16:01:19 +0000</pubDate>
   </item>
   </channel>
 </rss>
