@@ -1,9 +1,3 @@
-{:created 1791409980111, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "1.4.4"}
-{:created 1791410761881, :description "Magic-link authentication as a web-base plugin: issue a challenge, redeem it once, hand back a subject, with a standard, brandable sign-in. The ceremony itself runs under any Ring host.", :group_name "dev.arkaitz", :jar_name "auth-base", :version "0.14.0"}
-{:created 1791410795379, :description "Email for a Clojure application: one function, an SMTP client with a deadline on every send, and a console transport that prints the whole message in development.", :group_name "dev.arkaitz", :jar_name "sendmail-base", :version "0.2.0"}
-{:created 1791413003681, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-blender", :version "0.1.0"}
-{:created 1791413035898, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-photocraft", :version "0.1.0"}
-{:created 1791415648112, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-blender", :version "0.1.1"}
 {:created 1791417966544, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-bambu", :version "0.1.0"}
 {:created 1791421750381, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-bambu", :version "0.1.1"}
 {:created 1791423303195, :description "Vaelii — a contextualized common-sense knowledge base with a\n                count-aware trie index, forward/backward inference,\n                and JTMS truth maintenance, over an in-memory or on-disk store.", :group_name "com.vaelii", :jar_name "vaelii", :version "0.24.0"}
@@ -254,3 +248,9 @@
 {:created 1791729844743, :description "Probabilistic inference in forkable worlds: SMC, particle MCMC, MCMC over traces, HMC blocks, variational inference and counterfactuals on spindel savepoints.", :group_name "org.replikativ", :jar_name "foerster", :version "0.1.97"}
 {:created 1791729995595, :description "A microformats2 parser for Clojure and ClojureScript.", :group_name "dk.simongray", :jar_name "microformats-clj", :version "0.2.0"}
 {:created 1791730613786, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1450"}
+{:created 1791731728492, :description "A Clojure(Script) library for working with embedded pieces of HTML.", :group_name "dk.simongray", :jar_name "html-pieces", :version "0.4.1"}
+{:created 1791732645955, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.253"}
+{:created 1791732661126, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.253"}
+{:created 1791732893656, :description "A Clojure(Script) implementation of IndieAuth: client and server.", :group_name "dk.simongray", :jar_name "indieauth-clj", :version "0.1.0"}
+{:created 1791733259092, :description "A Clojure(Script) implementation of RelMeAuth: signing in as a website through GitHub or Mastodon.", :group_name "dk.simongray", :jar_name "relmeauth-clj", :version "0.1.0"}
+{:created 1791734458376, :description "A Clojure(Script) implementation of Webmention: sending, receiving and verifying.", :group_name "dk.simongray", :jar_name "webmention-clj", :version "0.1.0"}
