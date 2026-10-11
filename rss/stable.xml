@@ -4,7 +4,77 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 11 Oct 2026 13:04:27 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 14:03:11 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/dk.simongray/like-minded/versions/0.1.0</guid>
+    <title>[dk.simongray/like-minded &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/dk.simongray/like-minded/versions/0.1.0</link>
+    <description>A Clojure(Script) library for local-first sync through storage the user already has.</description>
+    <pubDate>Sun, 11 Oct 2026 14:02:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dk.simongray/mind-meld/versions/0.1.0</guid>
+    <title>[dk.simongray/mind-meld &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/dk.simongray/mind-meld/versions/0.1.0</link>
+    <description>A Clojure(Script) CRDT for keeping an app&#39;s data the same on all of a user&#39;s devices.</description>
+    <pubDate>Sun, 11 Oct 2026 14:01:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dk.simongray/wary-fetch/versions/0.3.0</guid>
+    <title>[dk.simongray/wary-fetch &quot;0.3.0&quot;]</title>
+    <link>https://clojars.org/dk.simongray/wary-fetch/versions/0.3.0</link>
+    <description>A Clojure(Script) library for fetching URLs that strangers give you.</description>
+    <pubDate>Sun, 11 Oct 2026 13:53:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dk.simongray/qname-hiccup/versions/0.2.0</guid>
+    <title>[dk.simongray/qname-hiccup &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/dk.simongray/qname-hiccup/versions/0.2.0</link>
+    <description>A Clojure(Script) library for reading XML into Hiccup and writing it back.</description>
+    <pubDate>Sun, 11 Oct 2026 13:53:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.251</guid>
+    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.251&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.251</link>
+    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
+    <pubDate>Sun, 11 Oct 2026 13:41:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.251</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.251&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.251</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Sun, 11 Oct 2026 13:41:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1447</guid>
+    <title>[org.replikativ/raster &quot;0.2.1447&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1447</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Sun, 11 Oct 2026 13:25:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dk.simongray/drop-in-search/versions/0.1.1</guid>
+    <title>[dk.simongray/drop-in-search &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/dk.simongray/drop-in-search/versions/0.1.1</link>
+    <description>A Clojure(Script) library for adding full-text search to your app.</description>
+    <pubDate>Sun, 11 Oct 2026 13:22:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.111</guid>
+    <title>[org.replikativ/spindel &quot;0.1.111&quot;]</title>
+    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.111</link>
+    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
+    <pubDate>Sun, 11 Oct 2026 13:15:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.stratus-db/client/versions/0.1.0</guid>
+    <title>[com.stratus-db/client &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/com.stratus-db/client/versions/0.1.0</link>
+    <description>The stratus-db service from ClojureScript (Node): transit-json over fetch.</description>
+    <pubDate>Sun, 11 Oct 2026 13:11:51 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1445</guid>
     <title>[org.replikativ/raster &quot;0.2.1445&quot;]</title>
@@ -1730,76 +1800,6 @@
     <link>https://clojars.org/com.wagoe/wagoe-tenant/versions/1.0.1</link>
     <description>Multi-tenancy library for Wagoe framework: schema isolation, tenant resolution, provisioning</description>
     <pubDate>Wed, 7 Oct 2026 20:28:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-realtime/versions/1.0.1</guid>
-    <title>[com.wagoe/wagoe-realtime &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-realtime/versions/1.0.1</link>
-    <description>Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication</description>
-    <pubDate>Wed, 7 Oct 2026 20:28:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-storage/versions/1.0.1</guid>
-    <title>[com.wagoe/wagoe-storage &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-storage/versions/1.0.1</link>
-    <description>Storage library for Wagoe framework: local filesystem and S3 adapters</description>
-    <pubDate>Wed, 7 Oct 2026 20:28:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-platform/versions/1.0.1</guid>
-    <title>[com.wagoe/wagoe-platform &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-platform/versions/1.0.1</link>
-    <description>Platform library for Wagoe framework: database, HTTP, configuration, modules</description>
-    <pubDate>Wed, 7 Oct 2026 20:27:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-cache/versions/1.0.1</guid>
-    <title>[com.wagoe/wagoe-cache &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-cache/versions/1.0.1</link>
-    <description>Cache library for Wagoe framework: in-memory and Redis cache adapters</description>
-    <pubDate>Wed, 7 Oct 2026 20:27:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-scaffolder/versions/1.0.1</guid>
-    <title>[com.wagoe/wagoe-scaffolder &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-scaffolder/versions/1.0.1</link>
-    <description>Code generation library for Wagoe framework: module scaffolding</description>
-    <pubDate>Wed, 7 Oct 2026 20:27:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-i18n/versions/1.0.1</guid>
-    <title>[com.wagoe/wagoe-i18n &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-i18n/versions/1.0.1</link>
-    <description>Internationalisation (i18n) for Wagoe framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management</description>
-    <pubDate>Wed, 7 Oct 2026 20:27:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-observability/versions/1.0.1</guid>
-    <title>[com.wagoe/wagoe-observability &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-observability/versions/1.0.1</link>
-    <description>Observability library for Wagoe framework: logging, metrics, error reporting</description>
-    <pubDate>Wed, 7 Oct 2026 20:26:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-core/versions/1.0.1</guid>
-    <title>[com.wagoe/wagoe-core &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-core/versions/1.0.1</link>
-    <description>Foundation library for Wagoe framework: validation, utilities, interceptors</description>
-    <pubDate>Wed, 7 Oct 2026 20:26:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-config/versions/1.0.1</guid>
-    <title>[com.wagoe/wagoe-config &quot;1.0.1&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-config/versions/1.0.1</link>
-    <description>Configuration loading and typed accessors for the Wagoe framework: Aero-based profile resolution and the accessors libraries read settings through</description>
-    <pubDate>Wed, 7 Oct 2026 20:25:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-vectorcraft/versions/0.1.0</guid>
-    <title>[io.github.hive-agi/hive-vectorcraft &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-vectorcraft/versions/0.1.0</link>
-    <description></description>
-    <pubDate>Wed, 7 Oct 2026 19:57:27 +0000</pubDate>
   </item>
   </channel>
 </rss>
