@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 12 Oct 2026 02:21:35 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 03:14:33 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1474</guid>
+    <title>[org.replikativ/raster &quot;0.2.1474&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1474</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Mon, 12 Oct 2026 02:59:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.haifengl/smile/versions/7.0.0</guid>
+    <title>[org.clojars.haifengl/smile &quot;7.0.0&quot;]</title>
+    <link>https://clojars.org/org.clojars.haifengl/smile/versions/7.0.0</link>
+    <description>SMILE - Statistical Machine Intelligence and Learning Engine</description>
+    <pubDate>Mon, 12 Oct 2026 02:31:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.15.1</guid>
+    <title>[com.blockether/vis-lang-clojure &quot;1.15.1&quot;]</title>
+    <link>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.15.1</link>
+    <description>Clojure tools for Vis: format, lint, tests, managed nREPL and reader validation.</description>
+    <pubDate>Mon, 12 Oct 2026 02:31:16 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1471</guid>
     <title>[org.replikativ/raster &quot;0.2.1471&quot;]</title>
@@ -1777,27 +1798,6 @@
     <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.56</link>
     <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
     <pubDate>Thu, 8 Oct 2026 08:09:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.whimsical/clojurific/versions/0.12.3</guid>
-    <title>[com.whimsical/clojurific &quot;0.12.3&quot;]</title>
-    <link>https://clojars.org/com.whimsical/clojurific/versions/0.12.3</link>
-    <description>ClojureScript compiled to ES modules, bundled by Vite</description>
-    <pubDate>Thu, 8 Oct 2026 08:03:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/info.sunng/ring-jetty9-adapter/versions/0.40.5</guid>
-    <title>[info.sunng/ring-jetty9-adapter &quot;0.40.5&quot;]</title>
-    <link>https://clojars.org/info.sunng/ring-jetty9-adapter/versions/0.40.5</link>
-    <description>Ring adapter for jetty9, which supports websocket, http/2 and http/3</description>
-    <pubDate>Thu, 8 Oct 2026 07:38:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/info.sunng/ring-jetty9-adapter-http2/versions/0.2.11</guid>
-    <title>[info.sunng/ring-jetty9-adapter-http2 &quot;0.2.11&quot;]</title>
-    <link>https://clojars.org/info.sunng/ring-jetty9-adapter-http2/versions/0.2.11</link>
-    <description>Ring adapter for jetty 9 and above, meta package for http2</description>
-    <pubDate>Thu, 8 Oct 2026 07:38:09 +0000</pubDate>
   </item>
   </channel>
 </rss>
