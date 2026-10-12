@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 12 Oct 2026 07:27:55 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 08:18:35 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.256</guid>
+    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.256&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.256</link>
+    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
+    <pubDate>Mon, 12 Oct 2026 08:12:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.256</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.256&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.256</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Mon, 12 Oct 2026 08:12:34 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.57</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.57&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.57</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Mon, 12 Oct 2026 07:39:04 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.s-exp/enso/versions/1.0.0-alpha85</guid>
     <title>[com.s-exp/enso &quot;1.0.0-alpha85&quot;]</title>
@@ -1777,27 +1798,6 @@
     <link>https://clojars.org/org.replikativ/raster/versions/0.2.1256</link>
     <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
     <pubDate>Thu, 8 Oct 2026 13:14:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/me.calmabiding/simple-messaging/versions/0.2.0</guid>
-    <title>[me.calmabiding/simple-messaging &quot;0.2.0&quot;]</title>
-    <link>https://clojars.org/me.calmabiding/simple-messaging/versions/0.2.0</link>
-    <description>A simple TCP messaging server library</description>
-    <pubDate>Thu, 8 Oct 2026 13:10:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.318</guid>
-    <title>[org.replikativ/pg-datahike &quot;0.1.318&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.318</link>
-    <description></description>
-    <pubDate>Thu, 8 Oct 2026 13:10:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1255</guid>
-    <title>[org.replikativ/raster &quot;0.2.1255&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1255</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Thu, 8 Oct 2026 12:48:52 +0000</pubDate>
   </item>
   </channel>
 </rss>
