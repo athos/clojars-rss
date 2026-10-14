@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 14 Oct 2026 00:08:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 01:15:31 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1522</guid>
+    <title>[org.replikativ/raster &quot;0.2.1522&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1522</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Wed, 14 Oct 2026 01:07:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.2</guid>
+    <title>[net.clojars.savya/psql-clj-aws &quot;3.0.2&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.2</link>
+    <description>AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.</description>
+    <pubDate>Wed, 14 Oct 2026 00:58:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.3</guid>
+    <title>[net.clojars.savya/psql-clj &quot;2.4.3&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.3</link>
+    <description>PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.</description>
+    <pubDate>Wed, 14 Oct 2026 00:58:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.42.0</guid>
+    <title>[net.clojars.savya/openai-clj &quot;0.42.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.42.0</link>
+    <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
+    <pubDate>Wed, 14 Oct 2026 00:55:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.57.0</guid>
+    <title>[energy.grid-coordination/clj-urpx &quot;0.57.0&quot;]</title>
+    <link>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.57.0</link>
+    <description>Clojure library for URPX utility rate plan exchange</description>
+    <pubDate>Wed, 14 Oct 2026 00:53:15 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1519</guid>
     <title>[org.replikativ/raster &quot;0.2.1519&quot;]</title>
@@ -1763,41 +1798,6 @@
     <link>https://clojars.org/dk.simongray/relmeauth-clj/versions/0.1.0</link>
     <description>A Clojure(Script) implementation of RelMeAuth: signing in as a website through GitHub or Mastodon.</description>
     <pubDate>Sun, 11 Oct 2026 15:40:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dk.simongray/indieauth-clj/versions/0.1.0</guid>
-    <title>[dk.simongray/indieauth-clj &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/dk.simongray/indieauth-clj/versions/0.1.0</link>
-    <description>A Clojure(Script) implementation of IndieAuth: client and server.</description>
-    <pubDate>Sun, 11 Oct 2026 15:34:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.253</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.253&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.253</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Sun, 11 Oct 2026 15:31:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.253</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.253&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.253</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Sun, 11 Oct 2026 15:30:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dk.simongray/html-pieces/versions/0.4.1</guid>
-    <title>[dk.simongray/html-pieces &quot;0.4.1&quot;]</title>
-    <link>https://clojars.org/dk.simongray/html-pieces/versions/0.4.1</link>
-    <description>A Clojure(Script) library for working with embedded pieces of HTML.</description>
-    <pubDate>Sun, 11 Oct 2026 15:15:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1450</guid>
-    <title>[org.replikativ/raster &quot;0.2.1450&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1450</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Sun, 11 Oct 2026 14:56:53 +0000</pubDate>
   </item>
   </channel>
 </rss>
