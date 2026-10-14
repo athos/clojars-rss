@@ -4,7 +4,35 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 14 Oct 2026 12:05:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 13:02:50 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.15.4</guid>
+    <title>[com.blockether/vis-lang-clojure &quot;1.15.4&quot;]</title>
+    <link>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.15.4</link>
+    <description>Clojure tools for Vis: format, lint, tests, managed nREPL and reader validation.</description>
+    <pubDate>Wed, 14 Oct 2026 12:39:37 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/vis/versions/0.2.45</guid>
+    <title>[com.blockether/vis &quot;0.2.45&quot;]</title>
+    <link>https://clojars.org/com.blockether/vis/versions/0.2.45</link>
+    <description>vis - single-namespace SDK + iteration runtime + binary entry point.</description>
+    <pubDate>Wed, 14 Oct 2026 12:11:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/vis-python-presentation/versions/0.2.45</guid>
+    <title>[com.blockether/vis-python-presentation &quot;0.2.45&quot;]</title>
+    <link>https://clojars.org/com.blockether/vis-python-presentation/versions/0.2.45</link>
+    <description>com.blockether/vis-python-presentation - vis monorepo package.</description>
+    <pubDate>Wed, 14 Oct 2026 12:11:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/vis-contract/versions/0.2.45</guid>
+    <title>[com.blockether/vis-contract &quot;0.2.45&quot;]</title>
+    <link>https://clojars.org/com.blockether/vis-contract/versions/0.2.45</link>
+    <description>com.blockether/vis-contract - vis monorepo package.</description>
+    <pubDate>Wed, 14 Oct 2026 12:11:42 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/dk.simongray/webvtt-clj/versions/0.1.0</guid>
     <title>[dk.simongray/webvtt-clj &quot;0.1.0&quot;]</title>
@@ -1770,34 +1798,6 @@
     <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.256</link>
     <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
     <pubDate>Mon, 12 Oct 2026 08:12:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.256</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.256&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.256</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Mon, 12 Oct 2026 08:12:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.57</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.57&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.57</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
-    <pubDate>Mon, 12 Oct 2026 07:39:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.s-exp/enso/versions/1.0.0-alpha85</guid>
-    <title>[com.s-exp/enso &quot;1.0.0-alpha85&quot;]</title>
-    <link>https://clojars.org/com.s-exp/enso/versions/1.0.0-alpha85</link>
-    <description>Zero-dep, near 0-alloc, High Performance Ring adapter for Clojure</description>
-    <pubDate>Mon, 12 Oct 2026 05:41:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.datalevin/datalevin-embedded/versions/1.2.0</guid>
-    <title>[org.datalevin/datalevin-embedded &quot;1.2.0&quot;]</title>
-    <link>https://clojars.org/org.datalevin/datalevin-embedded/versions/1.2.0</link>
-    <description>Embedded-only Datalevin runtime with bundled native libraries and remote client support</description>
-    <pubDate>Mon, 12 Oct 2026 05:17:17 +0000</pubDate>
   </item>
   </channel>
 </rss>
