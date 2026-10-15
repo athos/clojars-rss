@@ -4,7 +4,70 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 15 Oct 2026 09:03:37 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 10:03:11 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1554</guid>
+    <title>[org.replikativ/raster &quot;0.2.1554&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1554</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Thu, 15 Oct 2026 09:59:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff/versions/0.12.12</guid>
+    <title>[com.blockether/fff &quot;0.12.12&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff/versions/0.12.12</link>
+    <description>Clojure binding to fff — fast file and content search — via JDK FFM.</description>
+    <pubDate>Thu, 15 Oct 2026 09:55:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-windows-x64/versions/0.12.12</guid>
+    <title>[com.blockether/fff-native-windows-x64 &quot;0.12.12&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-windows-x64/versions/0.12.12</link>
+    <description>Native fff-c library for windows-x64.</description>
+    <pubDate>Thu, 15 Oct 2026 09:54:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-linux-x64/versions/0.12.12</guid>
+    <title>[com.blockether/fff-native-linux-x64 &quot;0.12.12&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-linux-x64/versions/0.12.12</link>
+    <description>Native fff-c library for linux-x64.</description>
+    <pubDate>Thu, 15 Oct 2026 09:50:24 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-darwin-x64/versions/0.12.12</guid>
+    <title>[com.blockether/fff-native-darwin-x64 &quot;0.12.12&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-darwin-x64/versions/0.12.12</link>
+    <description>Native fff-c library for darwin-x64.</description>
+    <pubDate>Thu, 15 Oct 2026 09:49:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-darwin-arm64/versions/0.12.12</guid>
+    <title>[com.blockether/fff-native-darwin-arm64 &quot;0.12.12&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-darwin-arm64/versions/0.12.12</link>
+    <description>Native fff-c library for darwin-arm64.</description>
+    <pubDate>Thu, 15 Oct 2026 09:48:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-linux-arm64/versions/0.12.12</guid>
+    <title>[com.blockether/fff-native-linux-arm64 &quot;0.12.12&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-linux-arm64/versions/0.12.12</link>
+    <description>Native fff-c library for linux-arm64.</description>
+    <pubDate>Thu, 15 Oct 2026 09:46:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.116</guid>
+    <title>[org.replikativ/spindel &quot;0.1.116&quot;]</title>
+    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.116</link>
+    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
+    <pubDate>Thu, 15 Oct 2026 09:21:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.clojure-finance/edgarjure/versions/0.5.0</guid>
+    <title>[com.github.clojure-finance/edgarjure &quot;0.5.0&quot;]</title>
+    <link>https://clojars.org/com.github.clojure-finance/edgarjure/versions/0.5.0</link>
+    <description>A Clojure library for SEC EDGAR — filings, financials, and XBRL data, ready for research.</description>
+    <pubDate>Thu, 15 Oct 2026 09:05:23 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.273</guid>
     <title>[org.replikativ/dvergr-benchmarks &quot;0.1.273&quot;]</title>
@@ -1738,69 +1801,6 @@
     <link>https://clojars.org/io.github.hive-agi/hive-system/versions/0.3.22</link>
     <description></description>
     <pubDate>Mon, 12 Oct 2026 21:39:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/foerster/versions/0.1.101</guid>
-    <title>[org.replikativ/foerster &quot;0.1.101&quot;]</title>
-    <link>https://clojars.org/org.replikativ/foerster/versions/0.1.101</link>
-    <description>Probabilistic inference in forkable worlds: SMC, particle MCMC, MCMC over traces, HMC blocks, variational inference and counterfactuals on spindel savepoints.</description>
-    <pubDate>Mon, 12 Oct 2026 21:34:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dk.simongray/qname-hiccup/versions/0.3.0</guid>
-    <title>[dk.simongray/qname-hiccup &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/dk.simongray/qname-hiccup/versions/0.3.0</link>
-    <description>A Clojure(Script) library for reading XML into Hiccup and writing it back.</description>
-    <pubDate>Mon, 12 Oct 2026 21:23:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.112</guid>
-    <title>[org.replikativ/spindel &quot;0.1.112&quot;]</title>
-    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.112</link>
-    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
-    <pubDate>Mon, 12 Oct 2026 21:06:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.263</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.263&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.263</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Mon, 12 Oct 2026 21:02:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.263</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.263&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.263</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Mon, 12 Oct 2026 21:02:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dk.simongray/wary-fetch/versions/0.5.0</guid>
-    <title>[dk.simongray/wary-fetch &quot;0.5.0&quot;]</title>
-    <link>https://clojars.org/dk.simongray/wary-fetch/versions/0.5.0</link>
-    <description>A Clojure(Script) library for fetching URLs that strangers give you.</description>
-    <pubDate>Mon, 12 Oct 2026 21:02:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/rs.shaffe/sys-ext/versions/0.4.0</guid>
-    <title>[rs.shaffe/sys-ext &quot;0.4.0&quot;]</title>
-    <link>https://clojars.org/rs.shaffe/sys-ext/versions/0.4.0</link>
-    <description>Extensions for donut.system.</description>
-    <pubDate>Mon, 12 Oct 2026 20:57:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis/versions/0.2.39</guid>
-    <title>[com.blockether/vis &quot;0.2.39&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis/versions/0.2.39</link>
-    <description>vis - single-namespace SDK + iteration runtime + binary entry point.</description>
-    <pubDate>Mon, 12 Oct 2026 20:00:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-python-presentation/versions/0.2.39</guid>
-    <title>[com.blockether/vis-python-presentation &quot;0.2.39&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-python-presentation/versions/0.2.39</link>
-    <description>com.blockether/vis-python-presentation - vis monorepo package.</description>
-    <pubDate>Mon, 12 Oct 2026 20:00:36 +0000</pubDate>
   </item>
   </channel>
 </rss>
