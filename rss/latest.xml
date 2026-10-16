@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 16 Oct 2026 07:07:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 08:04:07 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.anusornc/kala/versions/0.2.0</guid>
+    <title>[io.github.anusornc/kala &quot;0.2.0&quot;]</title>
+    <link>https://clojars.org/io.github.anusornc/kala/versions/0.2.0</link>
+    <description>An independent, clean-room, open-source reimplementation of Datomic&#39;s architecture in Clojure: transactor, embedded peer, remote client, Datalog, pull, time travel.</description>
+    <pubDate>Fri, 16 Oct 2026 08:00:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.126</guid>
+    <title>[org.replikativ/spindel &quot;0.1.126&quot;]</title>
+    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.126</link>
+    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
+    <pubDate>Fri, 16 Oct 2026 07:44:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/lambdaisland/garden-watcher/versions/1.1.50</guid>
+    <title>[lambdaisland/garden-watcher &quot;1.1.50&quot;]</title>
+    <link>https://clojars.org/lambdaisland/garden-watcher/versions/1.1.50</link>
+    <description>Hot-reload your Garden stylesheets</description>
+    <pubDate>Fri, 16 Oct 2026 07:43:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.lambdaisland/garden/versions/1.10.609</guid>
+    <title>[com.lambdaisland/garden &quot;1.10.609&quot;]</title>
+    <link>https://clojars.org/com.lambdaisland/garden/versions/1.10.609</link>
+    <description>Release of noprompt/garden master to clojars</description>
+    <pubDate>Fri, 16 Oct 2026 07:41:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.49</guid>
+    <title>[org.replikativ/yggdrasil &quot;0.3.49&quot;]</title>
+    <link>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.49</link>
+    <description>Unified copy-on-write memory model protocols for heterogeneous storage systems</description>
+    <pubDate>Fri, 16 Oct 2026 07:26:00 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1586</guid>
+    <title>[org.replikativ/raster &quot;0.2.1586&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1586</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Fri, 16 Oct 2026 07:23:37 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.15.5</guid>
+    <title>[com.blockether/vis-lang-clojure &quot;1.15.5&quot;]</title>
+    <link>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.15.5</link>
+    <description>Clojure tools for Vis: format, lint, tests, managed nREPL and reader validation.</description>
+    <pubDate>Fri, 16 Oct 2026 07:16:26 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/vis/versions/0.2.49</guid>
     <title>[com.blockether/vis &quot;0.2.49&quot;]</title>
@@ -1750,57 +1799,6 @@
     <link>https://clojars.org/dk.simongray/wary-fetch/versions/0.11.0</link>
     <description>A Clojure(Script) library for fetching URLs that strangers give you.</description>
     <pubDate>Tue, 13 Oct 2026 19:41:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.52.0</guid>
-    <title>[energy.grid-coordination/clj-urpx &quot;0.52.0&quot;]</title>
-    <link>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.52.0</link>
-    <description>Clojure library for URPX utility rate plan exchange</description>
-    <pubDate>Tue, 13 Oct 2026 19:41:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dk.simongray/webcrypto-clj/versions/0.1.0</guid>
-    <title>[dk.simongray/webcrypto-clj &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/dk.simongray/webcrypto-clj/versions/0.1.0</link>
-    <description>Bytes, their encodings and the Web Cryptography API in Clojure(Script).</description>
-    <pubDate>Tue, 13 Oct 2026 19:26:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dk.simongray/qname-hiccup/versions/0.6.0</guid>
-    <title>[dk.simongray/qname-hiccup &quot;0.6.0&quot;]</title>
-    <link>https://clojars.org/dk.simongray/qname-hiccup/versions/0.6.0</link>
-    <description>A Clojure(Script) library for reading XML into Hiccup and writing it back.</description>
-    <pubDate>Tue, 13 Oct 2026 19:24:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dk.simongray/micropub-clj/versions/0.2.0</guid>
-    <title>[dk.simongray/micropub-clj &quot;0.2.0&quot;]</title>
-    <link>https://clojars.org/dk.simongray/micropub-clj/versions/0.2.0</link>
-    <description>A Clojure(Script) implementation of Micropub: the endpoint, the media endpoint and a client.</description>
-    <pubDate>Tue, 13 Oct 2026 19:22:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.vaelii/vaelii/versions/0.26.0</guid>
-    <title>[com.vaelii/vaelii &quot;0.26.0&quot;]</title>
-    <link>https://clojars.org/com.vaelii/vaelii/versions/0.26.0</link>
-    <description>Vaelii — a contextualized common-sense knowledge base with a
-                count-aware trie index, forward/backward inference,
-                and JTMS truth maintenance, over an in-memory or on-disk store.</description>
-    <pubDate>Tue, 13 Oct 2026 19:02:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.stratus-db/client/versions/0.4.0</guid>
-    <title>[com.stratus-db/client &quot;0.4.0&quot;]</title>
-    <link>https://clojars.org/com.stratus-db/client/versions/0.4.0</link>
-    <description>The stratus-db service from ClojureScript (Node): transit-json over fetch.</description>
-    <pubDate>Tue, 13 Oct 2026 19:02:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.datalevin/datalevin-embedded/versions/1.2.3</guid>
-    <title>[org.datalevin/datalevin-embedded &quot;1.2.3&quot;]</title>
-    <link>https://clojars.org/org.datalevin/datalevin-embedded/versions/1.2.3</link>
-    <description>Embedded-only Datalevin runtime with bundled native libraries and remote client support</description>
-    <pubDate>Tue, 13 Oct 2026 18:41:41 +0000</pubDate>
   </item>
   </channel>
 </rss>
