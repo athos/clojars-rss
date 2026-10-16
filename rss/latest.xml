@@ -4,7 +4,74 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 16 Oct 2026 15:02:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 16:03:39 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1601</guid>
+    <title>[org.replikativ/raster &quot;0.2.1601&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1601</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Fri, 16 Oct 2026 15:45:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.vaelii/postgres/versions/0.27.0</guid>
+    <title>[com.vaelii/postgres &quot;0.27.0&quot;]</title>
+    <link>https://clojars.org/com.vaelii/postgres/versions/0.27.0</link>
+    <description>Postgres targets for vaelii&#39;s storage protocols, in two independent
+                lanes. The record store (vaelii.postgres.record-store) puts a KB&#39;s
+                durable ground truth in a database — core selects it as :pg-memory
+                or :pg-disk-log — with COPY on the bulk path, a fetch LRU in front of a
+                round-trip point read, and cursor-streamed enumerations. The
+                snapshot sink (vaelii.postgres.snapshot) is a SnapshotSink /
+                SnapshotSource, so a KB image — the index projection today, any of
+                io.snapshot&#39;s named sections — lands in a database as a few bulk
+                transactions and reads back the same way. An Apache-2.0 adapter on
+                the SSPL engine, depending on core, never depended on by it.</description>
+    <pubDate>Fri, 16 Oct 2026 15:36:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.vaelii/vaelii/versions/0.27.0</guid>
+    <title>[com.vaelii/vaelii &quot;0.27.0&quot;]</title>
+    <link>https://clojars.org/com.vaelii/vaelii/versions/0.27.0</link>
+    <description>Vaelii — a contextualized common-sense knowledge base with a
+                count-aware trie index, forward/backward inference,
+                and JTMS truth maintenance, over an in-memory or on-disk store.</description>
+    <pubDate>Fri, 16 Oct 2026 15:35:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-mcp/versions/1.12.0</guid>
+    <title>[io.github.hive-agi/hive-mcp &quot;1.12.0&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-mcp/versions/1.12.0</link>
+    <description></description>
+    <pubDate>Fri, 16 Oct 2026 15:33:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.yetanalytics/lrs/versions/1.5.2</guid>
+    <title>[com.yetanalytics/lrs &quot;1.5.2&quot;]</title>
+    <link>https://clojars.org/com.yetanalytics/lrs/versions/1.5.2</link>
+    <description></description>
+    <pubDate>Fri, 16 Oct 2026 15:25:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/basic-tools-mcp/versions/0.4.1</guid>
+    <title>[io.github.hive-agi/basic-tools-mcp &quot;0.4.1&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/basic-tools-mcp/versions/0.4.1</link>
+    <description></description>
+    <pubDate>Fri, 16 Oct 2026 15:08:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-ingestor-web/versions/0.2.1</guid>
+    <title>[io.github.hive-agi/hive-ingestor-web &quot;0.2.1&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-ingestor-web/versions/0.2.1</link>
+    <description></description>
+    <pubDate>Fri, 16 Oct 2026 15:07:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/bb-mcp/versions/1.3.1</guid>
+    <title>[io.github.hive-agi/bb-mcp &quot;1.3.1&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/bb-mcp/versions/1.3.1</link>
+    <description></description>
+    <pubDate>Fri, 16 Oct 2026 15:07:24 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1599</guid>
     <title>[org.replikativ/raster &quot;0.2.1599&quot;]</title>
@@ -1743,62 +1810,6 @@
     <link>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.2</link>
     <description>AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.</description>
     <pubDate>Wed, 14 Oct 2026 00:58:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.3</guid>
-    <title>[net.clojars.savya/psql-clj &quot;2.4.3&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.3</link>
-    <description>PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.</description>
-    <pubDate>Wed, 14 Oct 2026 00:58:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.42.0</guid>
-    <title>[net.clojars.savya/openai-clj &quot;0.42.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.42.0</link>
-    <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
-    <pubDate>Wed, 14 Oct 2026 00:55:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.57.0</guid>
-    <title>[energy.grid-coordination/clj-urpx &quot;0.57.0&quot;]</title>
-    <link>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.57.0</link>
-    <description>Clojure library for URPX utility rate plan exchange</description>
-    <pubDate>Wed, 14 Oct 2026 00:53:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1519</guid>
-    <title>[org.replikativ/raster &quot;0.2.1519&quot;]</title>
-    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1519</link>
-    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
-    <pubDate>Wed, 14 Oct 2026 00:01:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.55.0</guid>
-    <title>[energy.grid-coordination/clj-urpx &quot;0.55.0&quot;]</title>
-    <link>https://clojars.org/energy.grid-coordination/clj-urpx/versions/0.55.0</link>
-    <description>Clojure library for URPX utility rate plan exchange</description>
-    <pubDate>Tue, 13 Oct 2026 23:27:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dk.simongray/like-minded/versions/0.4.2</guid>
-    <title>[dk.simongray/like-minded &quot;0.4.2&quot;]</title>
-    <link>https://clojars.org/dk.simongray/like-minded/versions/0.4.2</link>
-    <description>A Clojure(Script) library for local-first sync through storage the user already has.</description>
-    <pubDate>Tue, 13 Oct 2026 22:42:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dk.simongray/drop-in-search/versions/0.2.1</guid>
-    <title>[dk.simongray/drop-in-search &quot;0.2.1&quot;]</title>
-    <link>https://clojars.org/dk.simongray/drop-in-search/versions/0.2.1</link>
-    <description>A Clojure(Script) library for adding full-text search to your app.</description>
-    <pubDate>Tue, 13 Oct 2026 22:41:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dk.simongray/mind-meld/versions/0.4.0</guid>
-    <title>[dk.simongray/mind-meld &quot;0.4.0&quot;]</title>
-    <link>https://clojars.org/dk.simongray/mind-meld/versions/0.4.0</link>
-    <description>A Clojure(Script) CRDT for keeping an app&#39;s data the same on all of a user&#39;s devices.</description>
-    <pubDate>Tue, 13 Oct 2026 22:41:33 +0000</pubDate>
   </item>
   </channel>
 </rss>
