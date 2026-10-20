@@ -1,13 +1,3 @@
-{:created 1792164977764, :description "Postgres targets for vaelii's storage protocols, in two independent\n                lanes. The record store (vaelii.postgres.record-store) puts a KB's\n                durable ground truth in a database — core selects it as :pg-memory\n                or :pg-disk-log — with COPY on the bulk path, a fetch LRU in front of a\n                round-trip point read, and cursor-streamed enumerations. The\n                snapshot sink (vaelii.postgres.snapshot) is a SnapshotSink /\n                SnapshotSource, so a KB image — the index projection today, any of\n                io.snapshot's named sections — lands in a database as a few bulk\n                transactions and reads back the same way. An Apache-2.0 adapter on\n                the SSPL engine, depending on core, never depended on by it.", :group_name "com.vaelii", :jar_name "postgres", :version "0.27.0"}
-{:created 1792165549494, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1601"}
-{:created 1792167888407, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.128"}
-{:created 1792167998223, :description "YAMLStar - A pure YAML 1.2 loader for Clojure", :group_name "org.yamlstar", :jar_name "yamlstar", :version "0.1.25"}
-{:created 1792168196259, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-spi", :version "1.4.6"}
-{:created 1792169130975, :description "com.blockether/vis-contract - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-contract", :version "0.2.51"}
-{:created 1792169136420, :description "com.blockether/vis-python-presentation - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-python-presentation", :version "0.2.51"}
-{:created 1792169142802, :description "vis - single-namespace SDK + iteration runtime + binary entry point.", :group_name "com.blockether", :jar_name "vis", :version "0.2.51"}
-{:created 1792169370119, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1606"}
-{:created 1792169483056, :description "impure functional data structures", :group_name "com.aphyr", :jar_name "bifurcan", :version "0.2.0-rc4"}
 {:created 1792169572198, :description "HoneyEQL enables you to query database using the EQL.", :group_name "com.github.tamizhvendan", :jar_name "honeyeql", :version "2.0.4"}
 {:created 1792169808655, :description "Clojure wrappers for the Bifurcan library of high-performance data structures", :group_name "com.aphyr", :jar_name "bifurcan-clj", :version "0.1.6"}
 {:created 1792170011225, :description "Generates Jepsen histories from simulated databases, for testing safety checkers", :group_name "io.jepsen", :jar_name "history.sim", :version "0.1.4"}
@@ -254,3 +244,13 @@
 {:created 1792499967941, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.336"}
 {:created 1792499981682, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.336"}
 {:created 1792503624200, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1694"}
+{:created 1792506807056, :description nil, :group_name "com.adgoji", :jar_name "google-maps-clj", :version "2.7.1"}
+{:created 1792506808180, :description nil, :group_name "com.adgoji", :jar_name "google-displayvideo-clj", :version "2.7.1"}
+{:created 1792506809048, :description nil, :group_name "com.adgoji", :jar_name "google-campaign-manager-clj", :version "2.7.1"}
+{:created 1792506811359, :description nil, :group_name "com.adgoji", :jar_name "google-ad-manager-clj", :version "2.7.1"}
+{:created 1792506814349, :description nil, :group_name "com.adgoji", :jar_name "google-doubleclick-bid-manager-clj", :version "2.7.1"}
+{:created 1792508306749, :description "80 native Web Components with centralised theming — stateless, framework-free, zero runtime. Built with ClojureScript, compiled to tree-shakeable ESM.", :group_name "com.github.avanelsas", :jar_name "baredom", :version "4.11.0"}
+{:created 1792508382388, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-dsl", :version "0.5.37"}
+{:created 1792508540493, :description "Postgres client in pure Java (no JDBC)", :group_name "com.github.igrishaev", :jar_name "pg2-core", :version "0.1.50"}
+{:created 1792508554286, :description "HoneySQL wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-honey", :version "0.1.50"}
+{:created 1792508568750, :description "Component wrapper for PG2", :group_name "com.github.igrishaev", :jar_name "pg2-component", :version "0.1.50"}
