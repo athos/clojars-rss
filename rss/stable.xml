@@ -4,7 +4,82 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 21 Oct 2026 23:02:23 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 00:08:07 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/yetibot/versions/20261022.000018.72f71a5</guid>
+    <title>[yetibot &quot;20261022.000018.72f71a5&quot;]</title>
+    <link>https://clojars.org/yetibot/versions/20261022.000018.72f71a5</link>
+    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
+    <pubDate>Thu, 22 Oct 2026 00:02:43 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.51</guid>
+    <title>[org.replikativ/yggdrasil &quot;0.3.51&quot;]</title>
+    <link>https://clojars.org/org.replikativ/yggdrasil/versions/0.3.51</link>
+    <description>Unified copy-on-write memory model protocols for heterogeneous storage systems</description>
+    <pubDate>Wed, 21 Oct 2026 23:54:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.saga-it/mirthsync/versions/3.8.1</guid>
+    <title>[com.saga-it/mirthsync &quot;3.8.1&quot;]</title>
+    <link>https://clojars.org/com.saga-it/mirthsync/versions/3.8.1</link>
+    <description>MirthSync is an open source DevOps tool for Mirth Connect and
+  Open Integration Engine version control and CI/CD automation. This command line
+  tool enables healthcare integration DevOps workflows by keeping a local copy of
+  Mirth Connect configurations (channels, code templates, global scripts) that can
+  be tracked with Git or other version control systems. MirthSync supports
+  multi-environment deployments (dev, test, prod) with automated channel promotion
+  between servers, making it ideal for interface engine CI/CD pipelines and GitOps
+  workflows. The tool provides infrastructure as code capabilities for HL7, FHIR,
+  and DICOM integration engine deployments with built-in Git integration, channel
+  versioning, and continuous deployment support for healthcare environments.
+
+  The only requirements are having credentials for the server that is being synced
+  and ensuring that the server is configured to allow access to its REST API.</description>
+    <pubDate>Wed, 21 Oct 2026 23:41:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.343</guid>
+    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.343&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.343</link>
+    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
+    <pubDate>Wed, 21 Oct 2026 23:25:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.343</guid>
+    <title>[org.replikativ/dvergr &quot;0.1.343&quot;]</title>
+    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.343</link>
+    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
+    <pubDate>Wed, 21 Oct 2026 23:25:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.227</guid>
+    <title>[org.replikativ/ansatz &quot;0.2.227&quot;]</title>
+    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.227</link>
+    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
+    <pubDate>Wed, 21 Oct 2026 23:25:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1706</guid>
+    <title>[org.replikativ/raster &quot;0.2.1706&quot;]</title>
+    <link>https://clojars.org/org.replikativ/raster/versions/0.2.1706</link>
+    <description>Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.</description>
+    <pubDate>Wed, 21 Oct 2026 23:20:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-spi/versions/1.4.11</guid>
+    <title>[io.github.hive-agi/hive-spi &quot;1.4.11&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-spi/versions/1.4.11</link>
+    <description></description>
+    <pubDate>Wed, 21 Oct 2026 23:10:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-claude/versions/0.2.3</guid>
+    <title>[io.github.hive-agi/hive-claude &quot;0.2.3&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-claude/versions/0.2.3</link>
+    <description></description>
+    <pubDate>Wed, 21 Oct 2026 23:08:28 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/raster/versions/0.2.1704</guid>
     <title>[org.replikativ/raster &quot;0.2.1704&quot;]</title>
@@ -1736,69 +1811,6 @@
     <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.316</link>
     <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
     <pubDate>Mon, 19 Oct 2026 18:05:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.316</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.316&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.316</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Mon, 19 Oct 2026 18:04:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.133</guid>
-    <title>[org.replikativ/spindel &quot;0.1.133&quot;]</title>
-    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.133</link>
-    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
-    <pubDate>Mon, 19 Oct 2026 18:00:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/geschichte/versions/0.1.21</guid>
-    <title>[org.replikativ/geschichte &quot;0.1.21&quot;]</title>
-    <link>https://clojars.org/org.replikativ/geschichte/versions/0.1.21</link>
-    <description>Queryable, Datahike-backed version control with Git compatibility.</description>
-    <pubDate>Mon, 19 Oct 2026 17:58:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.315</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.315&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.315</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Mon, 19 Oct 2026 17:48:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.315</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.315&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.315</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Mon, 19 Oct 2026 17:48:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/kabel/versions/0.3.143</guid>
-    <title>[org.replikativ/kabel &quot;0.3.143&quot;]</title>
-    <link>https://clojars.org/org.replikativ/kabel/versions/0.3.143</link>
-    <description>A library for simple wire-like connectivity semantics.</description>
-    <pubDate>Mon, 19 Oct 2026 17:36:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.data-star.clojure/ring-malli-schemas/versions/1.0.0-RC12</guid>
-    <title>[dev.data-star.clojure/ring-malli-schemas &quot;1.0.0-RC12&quot;]</title>
-    <link>https://clojars.org/dev.data-star.clojure/ring-malli-schemas/versions/1.0.0-RC12</link>
-    <description>Malli schemas for the Datastar SDK</description>
-    <pubDate>Mon, 19 Oct 2026 16:58:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.data-star.clojure/http-kit-malli-schemas/versions/1.0.0-RC12</guid>
-    <title>[dev.data-star.clojure/http-kit-malli-schemas &quot;1.0.0-RC12&quot;]</title>
-    <link>https://clojars.org/dev.data-star.clojure/http-kit-malli-schemas/versions/1.0.0-RC12</link>
-    <description>Malli schemas for the Datastar SDK</description>
-    <pubDate>Mon, 19 Oct 2026 16:58:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.data-star.clojure/aleph-malli-schemas/versions/1.0.0-RC12</guid>
-    <title>[dev.data-star.clojure/aleph-malli-schemas &quot;1.0.0-RC12&quot;]</title>
-    <link>https://clojars.org/dev.data-star.clojure/aleph-malli-schemas/versions/1.0.0-RC12</link>
-    <description>Malli schemas for the Datastar SDK</description>
-    <pubDate>Mon, 19 Oct 2026 16:58:01 +0000</pubDate>
   </item>
   </channel>
 </rss>
