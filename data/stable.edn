@@ -1,5 +1,3 @@
-{:created 1792520829246, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-proximum", :version "0.2.1"}
-{:created 1792520919538, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-test", :version "0.5.0"}
 {:created 1792521029945, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-depsolve", :version "0.6.6"}
 {:created 1792521317271, :description "Time-travel replay debugger for BareBuild apps. Records the event log, reconstructs any state by replaying the pure step, and re-projects it onto live components.", :group_name "com.github.avanelsas", :jar_name "barereplay", :version "0.6.0"}
 {:created 1792522021596, :description "Development-time REPL surface over BareBuild's recorded log. Reads what each step asked, sent, answered and handed to consumers, and what the page shows, as data.", :group_name "com.github.avanelsas", :jar_name "bareprobe", :version "0.3.0"}
@@ -254,3 +252,5 @@
 {:created 1792723191080, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.336"}
 {:created 1792724720870, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20261023.030507.9002b95"}
 {:created 1792726774548, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.339"}
+{:created 1792730652748, :description "An independent, clean-room, open-source reimplementation of Datomic's architecture in Clojure: transactor, embedded peer, remote client, Datalog, pull, time travel.", :group_name "io.github.anusornc", :jar_name "kala", :version "0.5.0"}
+{:created 1792730669258, :description "The kala memory layer as an MCP server: six tools over stdio — context, record, recall, read, history, turns.", :group_name "io.github.anusornc", :jar_name "kala-mcp", :version "0.5.0"}
