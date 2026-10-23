@@ -1,4 +1,3 @@
-{:created 1792521317271, :description "Time-travel replay debugger for BareBuild apps. Records the event log, reconstructs any state by replaying the pure step, and re-projects it onto live components.", :group_name "com.github.avanelsas", :jar_name "barereplay", :version "0.6.0"}
 {:created 1792522021596, :description "Development-time REPL surface over BareBuild's recorded log. Reads what each step asked, sent, answered and handed to consumers, and what the page shows, as data.", :group_name "com.github.avanelsas", :jar_name "bareprobe", :version "0.3.0"}
 {:created 1792522865024, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-qdrant", :version "0.2.1"}
 {:created 1792524322475, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-providers", :version "0.2.3"}
@@ -254,3 +253,4 @@
 {:created 1792730652748, :description "An independent, clean-room, open-source reimplementation of Datomic's architecture in Clojure: transactor, embedded peer, remote client, Datalog, pull, time travel.", :group_name "io.github.anusornc", :jar_name "kala", :version "0.5.0"}
 {:created 1792730669258, :description "The kala memory layer as an MCP server: six tools over stdio — context, record, recall, read, history, turns.", :group_name "io.github.anusornc", :jar_name "kala-mcp", :version "0.5.0"}
 {:created 1792732006614, :description "Clojure tools for Vis: format, lint, tests, managed nREPL and reader validation.", :group_name "com.blockether", :jar_name "vis-lang-clojure", :version "1.17.3"}
+{:created 1792739606798, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.213"}
