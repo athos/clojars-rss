@@ -1,20 +1,3 @@
-{:created 1792633056316, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1708"}
-{:created 1792637773624, :description "Vaelii — a contextualized common-sense knowledge base with a\n                count-aware trie index, forward/backward inference,\n                and JTMS truth maintenance, over an in-memory or on-disk store.", :group_name "com.vaelii", :jar_name "vaelii", :version "0.28.0"}
-{:created 1792637824832, :description "Foreign-format readers for vaelii — OpenCyc, RDF/OWL, WordNet, OBO and\n                ATOMIC, each translated into one corpus format, discovered through\n                vaelii's plugin extension point.", :group_name "com.vaelii", :jar_name "vaelii-foreign", :version "0.28.0"}
-{:created 1792637881611, :description "Postgres targets for vaelii's storage protocols, in two independent\n                lanes. The record store (vaelii.postgres.record-store) puts a KB's\n                durable ground truth in a database — core selects it as :pg-memory\n                or :pg-disk-log — with COPY on the bulk path, a fetch LRU in front of a\n                round-trip point read, and cursor-streamed enumerations. The\n                snapshot sink (vaelii.postgres.snapshot) is a SnapshotSink /\n                SnapshotSource, so a KB image — the index projection today, any of\n                io.snapshot's named sections — lands in a database as a few bulk\n                transactions and reads back the same way. An Apache-2.0 adapter on\n                the SSPL engine, depending on core, never depended on by it.", :group_name "com.vaelii", :jar_name "postgres", :version "0.28.0"}
-{:created 1792637940804, :description "SQLite targets for vaelii's storage protocols. The first is the\n                snapshot sink (vaelii.sqlite.snapshot): a SnapshotSink /\n                SnapshotSource over a single SQLite file, so a KB image — the index\n                projection today, any of io.snapshot's named sections — lands in a\n                zero-configuration file as a few bulk transactions and reads back\n                the same way. An Apache-2.0 adapter on the SSPL engine, depending on\n                core, never depended on by it.", :group_name "com.vaelii", :jar_name "sqlite", :version "0.28.0"}
-{:created 1792637992413, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-di", :version "0.5.2"}
-{:created 1792638187388, :description "Functional scientific computing for Clojure — typed multiple dispatch, AD, and GPU compilation on the JVM.", :group_name "org.replikativ", :jar_name "raster", :version "0.2.1711"}
-{:created 1792639714069, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-datascript", :version "0.2.2"}
-{:created 1792640140539, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.231"}
-{:created 1792642269049, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-weave", :version "0.4.7"}
-{:created 1792642397934, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-mcp", :version "1.3.5"}
-{:created 1792643954922, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.233"}
-{:created 1792647891509, :description "Email address validation.", :group_name "de.dixieflatline", :jar_name "flimflam", :version "0.1.0-SNAPSHOT"}
-{:created 1792648295122, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.239"}
-{:created 1792651903581, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.9.3"}
-{:created 1792652021574, :description "nextcloud c4k-installation package", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-nextcloud", :version "11.2.2"}
-{:created 1792654653727, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.241"}
 {:created 1792655554464, :description nil, :group_name "org.babashka", :jar_name "babashka.impl.java", :version "0.1.23"}
 {:created 1792666492651, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.209"}
 {:created 1792668051510, :description "com.blockether/vis-contract - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-contract", :version "0.2.54"}
@@ -254,3 +237,20 @@
 {:created 1792940686998, :description "Clojure data manipulation DSL built on tech.ml.dataset", :group_name "com.github.clojure-finance", :jar_name "datajure", :version "2.7.12"}
 {:created 1792945277964, :description "Rephrase exceptions.", :group_name "org.corfield", :jar_name "rephrase", :version "1.0.8-SNAPSHOT"}
 {:created 1792950495475, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.375"}
+{:created 1792953396475, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.376"}
+{:created 1792953742004, :description nil, :group_name "com.biffweb", :jar_name "stuff", :version "2.0.4"}
+{:created 1792953749945, :description nil, :group_name "com.biffweb", :jar_name "core", :version "2.0.4"}
+{:created 1792953757834, :description nil, :group_name "com.biffweb", :jar_name "config", :version "2.0.4"}
+{:created 1792953765664, :description nil, :group_name "com.biffweb", :jar_name "fx", :version "2.0.4"}
+{:created 1792953773549, :description nil, :group_name "com.biffweb", :jar_name "graph", :version "2.0.4"}
+{:created 1792953781494, :description nil, :group_name "com.biffweb", :jar_name "sqlite", :version "2.0.4"}
+{:created 1792953789760, :description nil, :group_name "com.biffweb", :jar_name "xtdb", :version "2.0.4"}
+{:created 1792953797857, :description nil, :group_name "com.biffweb", :jar_name "ring", :version "2.0.4"}
+{:created 1792953805920, :description nil, :group_name "com.biffweb", :jar_name "datastar", :version "2.0.4"}
+{:created 1792953813718, :description nil, :group_name "com.biffweb", :jar_name "run", :version "2.0.4"}
+{:created 1792953824602, :description nil, :group_name "com.biffweb", :jar_name "tasks", :version "2.0.4"}
+{:created 1792953832456, :description nil, :group_name "com.biffweb", :jar_name "background", :version "2.0.4"}
+{:created 1792953840295, :description nil, :group_name "com.biffweb", :jar_name "authenticate", :version "2.0.4"}
+{:created 1792953848352, :description nil, :group_name "com.biffweb", :jar_name "admin", :version "2.0.4"}
+{:created 1792953856275, :description nil, :group_name "com.biffweb", :jar_name "defaults", :version "2.0.4"}
+{:created 1792954611896, :description "Replikativ compatibility distribution of SCI with forkable interpreter worlds", :group_name "org.replikativ", :jar_name "sci", :version "0.15.59-replikativ.5"}
