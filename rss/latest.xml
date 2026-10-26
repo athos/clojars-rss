@@ -4,7 +4,175 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 26 Oct 2026 08:10:21 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 09:09:12 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.102</guid>
+    <title>[org.replikativ/konserve-jdbc &quot;0.2.102&quot;]</title>
+    <link>https://clojars.org/org.replikativ/konserve-jdbc/versions/0.2.102</link>
+    <description>A generic JDBC backend for konserve.</description>
+    <pubDate>Mon, 26 Oct 2026 08:46:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-resources/versions/0.2.11-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-instrumentation-resources &quot;0.2.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-resources/versions/0.2.11-SNAPSHOT</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process</description>
+    <pubDate>Mon, 26 Oct 2026 08:30:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-prometheus/versions/0.2.11-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-prometheus &quot;0.2.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-prometheus/versions/0.2.11-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter</description>
+    <pubDate>Mon, 26 Oct 2026 08:30:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp/versions/0.2.11-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-otlp &quot;0.2.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp/versions/0.2.11-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters</description>
+    <pubDate>Mon, 26 Oct 2026 08:30:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.2.11-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging-otlp &quot;0.2.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.2.11-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only</description>
+    <pubDate>Mon, 26 Oct 2026 08:30:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.2.11-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging &quot;0.2.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.2.11-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only</description>
+    <pubDate>Mon, 26 Oct 2026 08:29:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1913</guid>
+    <title>[org.replikativ/datahike-http-server &quot;0.8.1913&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1913</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Mon, 26 Oct 2026 08:29:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.11-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-extension-trace-propagators &quot;0.2.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.11-SNAPSHOT</link>
+    <description>Provides access using Clojure to additional OpenTelemetry trace propagators</description>
+    <pubDate>Mon, 26 Oct 2026 08:29:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.11-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler &quot;0.2.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.11-SNAPSHOT</link>
+    <description>Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type</description>
+    <pubDate>Mon, 26 Oct 2026 08:29:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.11-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure &quot;0.2.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.11-SNAPSHOT</link>
+    <description>Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties</description>
+    <pubDate>Mon, 26 Oct 2026 08:29:35 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.2.11-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator &quot;0.2.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.2.11-SNAPSHOT</link>
+    <description>Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol</description>
+    <pubDate>Mon, 26 Oct 2026 08:29:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.2.11-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-resources &quot;0.2.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.2.11-SNAPSHOT</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform</description>
+    <pubDate>Mon, 26 Oct 2026 08:29:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.2.11-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk &quot;0.2.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.2.11-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK</description>
+    <pubDate>Mon, 26 Oct 2026 08:29:13 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-common/versions/0.2.11-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-common &quot;0.2.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-common/versions/0.2.11-SNAPSHOT</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK common components</description>
+    <pubDate>Mon, 26 Oct 2026 08:29:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1913</guid>
+    <title>[org.replikativ/datahike &quot;0.8.1913&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1913</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Mon, 26 Oct 2026 08:29:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.2.11-SNAPSHOT</guid>
+    <title>[com.github.steffan-westcott/clj-otel-api &quot;0.2.11-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.2.11-SNAPSHOT</link>
+    <description>An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry</description>
+    <pubDate>Mon, 26 Oct 2026 08:28:59 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.soulspace.clj/overarch/versions/0.43.0</guid>
+    <title>[org.soulspace.clj/overarch &quot;0.43.0&quot;]</title>
+    <link>https://clojars.org/org.soulspace.clj/overarch/versions/0.43.0</link>
+    <description>Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data.</description>
+    <pubDate>Mon, 26 Oct 2026 08:23:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gersak/tyrell/versions/1.0.0-RC18-SNAPSHOT</guid>
+    <title>[dev.gersak/tyrell &quot;1.0.0-RC18-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/dev.gersak/tyrell/versions/1.0.0-RC18-SNAPSHOT</link>
+    <description>Modern web components library built with ClojureScript</description>
+    <pubDate>Mon, 26 Oct 2026 08:22:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gersak/tyrell-icons-fontawesome/versions/1.0.0-RC18-SNAPSHOT</guid>
+    <title>[dev.gersak/tyrell-icons-fontawesome &quot;1.0.0-RC18-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/dev.gersak/tyrell-icons-fontawesome/versions/1.0.0-RC18-SNAPSHOT</link>
+    <description>Font Awesome 6 (solid, regular, brands) as Clojure defs, for Tyrell</description>
+    <pubDate>Mon, 26 Oct 2026 08:22:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gersak/tyrell-icons-material/versions/1.0.0-RC18-SNAPSHOT</guid>
+    <title>[dev.gersak/tyrell-icons-material &quot;1.0.0-RC18-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/dev.gersak/tyrell-icons-material/versions/1.0.0-RC18-SNAPSHOT</link>
+    <description>Material icons (filled, outlined, round, sharp, two-tone) as Clojure defs, for Tyrell</description>
+    <pubDate>Mon, 26 Oct 2026 08:22:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gersak/tyrell-icons-heroicons/versions/1.0.0-RC18-SNAPSHOT</guid>
+    <title>[dev.gersak/tyrell-icons-heroicons &quot;1.0.0-RC18-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/dev.gersak/tyrell-icons-heroicons/versions/1.0.0-RC18-SNAPSHOT</link>
+    <description>Heroicons (outline, solid, mini, micro) as Clojure defs, for Tyrell</description>
+    <pubDate>Mon, 26 Oct 2026 08:21:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gersak/tyrell-icons-lucide/versions/1.0.0-RC18-SNAPSHOT</guid>
+    <title>[dev.gersak/tyrell-icons-lucide &quot;1.0.0-RC18-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/dev.gersak/tyrell-icons-lucide/versions/1.0.0-RC18-SNAPSHOT</link>
+    <description>Lucide icons as Clojure defs, for Tyrell</description>
+    <pubDate>Mon, 26 Oct 2026 08:21:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.s-exp/enso/versions/1.0.0-beta107</guid>
+    <title>[com.s-exp/enso &quot;1.0.0-beta107&quot;]</title>
+    <link>https://clojars.org/com.s-exp/enso/versions/1.0.0-beta107</link>
+    <description>Zero-dep, near 0-alloc, High Performance Ring adapter for Clojure</description>
+    <pubDate>Mon, 26 Oct 2026 08:12:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.386</guid>
+    <title>[org.replikativ/pg-datahike &quot;0.1.386&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.386</link>
+    <description></description>
+    <pubDate>Mon, 26 Oct 2026 08:10:33 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.privatusanalytics/privatus-analytics/versions/1.0.1</guid>
     <title>[com.privatusanalytics/privatus-analytics &quot;1.0.1&quot;]</title>
@@ -356,46 +524,11 @@
     <pubDate>Sun, 25 Oct 2026 15:04:46 +0000</pubDate>
   </item>
   <item>
-    <guid>https://clojars.org/dev.gersak/tyrell/versions/1.0.0-RC18-SNAPSHOT</guid>
-    <title>[dev.gersak/tyrell &quot;1.0.0-RC18-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/dev.gersak/tyrell/versions/1.0.0-RC18-SNAPSHOT</link>
-    <description>Modern web components library built with ClojureScript</description>
-    <pubDate>Sun, 25 Oct 2026 15:02:21 +0000</pubDate>
-  </item>
-  <item>
     <guid>https://clojars.org/dev.gersak/tyrell-icons/versions/1.0.0-RC18-SNAPSHOT</guid>
     <title>[dev.gersak/tyrell-icons &quot;1.0.0-RC18-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/dev.gersak/tyrell-icons/versions/1.0.0-RC18-SNAPSHOT</link>
     <description>Every Tyrell icon set, plus tyrell.icons.build/extract to ship only the icons you use</description>
     <pubDate>Sun, 25 Oct 2026 15:02:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.gersak/tyrell-icons-fontawesome/versions/1.0.0-RC18-SNAPSHOT</guid>
-    <title>[dev.gersak/tyrell-icons-fontawesome &quot;1.0.0-RC18-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/dev.gersak/tyrell-icons-fontawesome/versions/1.0.0-RC18-SNAPSHOT</link>
-    <description>Font Awesome 6 (solid, regular, brands) as Clojure defs, for Tyrell</description>
-    <pubDate>Sun, 25 Oct 2026 15:02:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.gersak/tyrell-icons-material/versions/1.0.0-RC18-SNAPSHOT</guid>
-    <title>[dev.gersak/tyrell-icons-material &quot;1.0.0-RC18-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/dev.gersak/tyrell-icons-material/versions/1.0.0-RC18-SNAPSHOT</link>
-    <description>Material icons (filled, outlined, round, sharp, two-tone) as Clojure defs, for Tyrell</description>
-    <pubDate>Sun, 25 Oct 2026 15:01:50 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.gersak/tyrell-icons-heroicons/versions/1.0.0-RC18-SNAPSHOT</guid>
-    <title>[dev.gersak/tyrell-icons-heroicons &quot;1.0.0-RC18-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/dev.gersak/tyrell-icons-heroicons/versions/1.0.0-RC18-SNAPSHOT</link>
-    <description>Heroicons (outline, solid, mini, micro) as Clojure defs, for Tyrell</description>
-    <pubDate>Sun, 25 Oct 2026 15:01:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.gersak/tyrell-icons-lucide/versions/1.0.0-RC18-SNAPSHOT</guid>
-    <title>[dev.gersak/tyrell-icons-lucide &quot;1.0.0-RC18-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/dev.gersak/tyrell-icons-lucide/versions/1.0.0-RC18-SNAPSHOT</link>
-    <description>Lucide icons as Clojure defs, for Tyrell</description>
-    <pubDate>Sun, 25 Oct 2026 15:01:29 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/tick/versions/1.0.3</guid>
@@ -1668,139 +1801,6 @@
     <link>https://clojars.org/com.blockether/vis-python-presentation/versions/0.3.1</link>
     <description>com.blockether/vis-python-presentation - vis monorepo package.</description>
     <pubDate>Thu, 22 Oct 2026 21:04:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-contract/versions/0.3.1</guid>
-    <title>[com.blockether/vis-contract &quot;0.3.1&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-contract/versions/0.3.1</link>
-    <description>com.blockether/vis-contract - vis monorepo package.</description>
-    <pubDate>Thu, 22 Oct 2026 21:04:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.332</guid>
-    <title>[org.replikativ/pg-datahike &quot;0.1.332&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.332</link>
-    <description></description>
-    <pubDate>Thu, 22 Oct 2026 21:02:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tech.thomascothran/pavlov-web/versions/4.0.304</guid>
-    <title>[tech.thomascothran/pavlov-web &quot;4.0.304&quot;]</title>
-    <link>https://clojars.org/tech.thomascothran/pavlov-web/versions/4.0.304</link>
-    <description>Pavlov Web</description>
-    <pubDate>Thu, 22 Oct 2026 21:01:38 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tech.thomascothran/pavlov-skills/versions/4.0.304</guid>
-    <title>[tech.thomascothran/pavlov-skills &quot;4.0.304&quot;]</title>
-    <link>https://clojars.org/tech.thomascothran/pavlov-skills/versions/4.0.304</link>
-    <description>Pavlov Skills</description>
-    <pubDate>Thu, 22 Oct 2026 21:01:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tech.thomascothran/pavlov-devtools/versions/4.0.304</guid>
-    <title>[tech.thomascothran/pavlov-devtools &quot;4.0.304&quot;]</title>
-    <link>https://clojars.org/tech.thomascothran/pavlov-devtools/versions/4.0.304</link>
-    <description>Pavlov Devtools</description>
-    <pubDate>Thu, 22 Oct 2026 21:01:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tech.thomascothran/pavlov/versions/4.0.304</guid>
-    <title>[tech.thomascothran/pavlov &quot;4.0.304&quot;]</title>
-    <link>https://clojars.org/tech.thomascothran/pavlov/versions/4.0.304</link>
-    <description>Pavlov: Bthreads for Clojure(Script)</description>
-    <pubDate>Thu, 22 Oct 2026 21:01:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.350</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.350&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.350</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Thu, 22 Oct 2026 20:43:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.350</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.350&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.350</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Thu, 22 Oct 2026 20:43:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/cider/cider-nrepl/versions/0.64.0-alpha1</guid>
-    <title>[cider/cider-nrepl &quot;0.64.0-alpha1&quot;]</title>
-    <link>https://clojars.org/cider/cider-nrepl/versions/0.64.0-alpha1</link>
-    <description>A collection of nREPL middleware designed to enhance Clojure editors.</description>
-    <pubDate>Thu, 22 Oct 2026 20:32:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.327</guid>
-    <title>[org.replikativ/pg-datahike &quot;0.1.327&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.327</link>
-    <description></description>
-    <pubDate>Thu, 22 Oct 2026 19:53:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis/versions/0.3.0</guid>
-    <title>[com.blockether/vis &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis/versions/0.3.0</link>
-    <description>vis - single-namespace SDK + iteration runtime + binary entry point.</description>
-    <pubDate>Thu, 22 Oct 2026 19:47:08 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-python-presentation/versions/0.3.0</guid>
-    <title>[com.blockether/vis-python-presentation &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-python-presentation/versions/0.3.0</link>
-    <description>com.blockether/vis-python-presentation - vis monorepo package.</description>
-    <pubDate>Thu, 22 Oct 2026 19:47:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-contract/versions/0.3.0</guid>
-    <title>[com.blockether/vis-contract &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-contract/versions/0.3.0</link>
-    <description>com.blockether/vis-contract - vis monorepo package.</description>
-    <pubDate>Thu, 22 Oct 2026 19:46:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.349</guid>
-    <title>[org.replikativ/dvergr-benchmarks &quot;0.1.349&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr-benchmarks/versions/0.1.349</link>
-    <description>Benchmark providers for dvergr&#39;s evaluation path: tau2 and BFCL, transcribed and checked against upstream.</description>
-    <pubDate>Thu, 22 Oct 2026 18:49:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/dvergr/versions/0.1.349</guid>
-    <title>[org.replikativ/dvergr &quot;0.1.349&quot;]</title>
-    <link>https://clojars.org/org.replikativ/dvergr/versions/0.1.349</link>
-    <description>A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.</description>
-    <pubDate>Thu, 22 Oct 2026 18:49:32 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.322</guid>
-    <title>[org.replikativ/pg-datahike &quot;0.1.322&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.322</link>
-    <description></description>
-    <pubDate>Thu, 22 Oct 2026 18:34:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20261022.181415.fda5e81</guid>
-    <title>[yetibot &quot;20261022.181415.fda5e81&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20261022.181415.fda5e81</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Thu, 22 Oct 2026 18:14:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.320</guid>
-    <title>[org.replikativ/pg-datahike &quot;0.1.320&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.320</link>
-    <description></description>
-    <pubDate>Thu, 22 Oct 2026 18:02:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.circleci/expr/versions/1.0.54-df01dbf</guid>
-    <title>[com.circleci/expr &quot;1.0.54-df01dbf&quot;]</title>
-    <link>https://clojars.org/com.circleci/expr/versions/1.0.54-df01dbf</link>
-    <description>A boolean expression evaluator for CircleCI pipeline expressions</description>
-    <pubDate>Thu, 22 Oct 2026 17:45:37 +0000</pubDate>
   </item>
   </channel>
 </rss>
