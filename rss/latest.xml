@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 27 Oct 2026 09:04:34 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 10:03:30 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/cider/orchard/versions/0.47.0</guid>
+    <title>[cider/orchard &quot;0.47.0&quot;]</title>
+    <link>https://clojars.org/cider/orchard/versions/0.47.0</link>
+    <description>A fertile ground for Clojure tooling</description>
+    <pubDate>Tue, 27 Oct 2026 10:00:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.58</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.58&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.58</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Tue, 27 Oct 2026 09:39:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.415</guid>
+    <title>[org.replikativ/ansatz &quot;0.2.415&quot;]</title>
+    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.415</link>
+    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
+    <pubDate>Tue, 27 Oct 2026 09:26:28 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.timezynk/domus/versions/2.10.4</guid>
     <title>[com.timezynk/domus &quot;2.10.4&quot;]</title>
@@ -1775,27 +1796,6 @@
     <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.371</link>
     <description></description>
     <pubDate>Sat, 24 Oct 2026 16:36:46 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.279</guid>
-    <title>[org.replikativ/ansatz &quot;0.2.279&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.279</link>
-    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
-    <pubDate>Sat, 24 Oct 2026 15:33:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.370</guid>
-    <title>[org.replikativ/pg-datahike &quot;0.1.370&quot;]</title>
-    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.370</link>
-    <description></description>
-    <pubDate>Sat, 24 Oct 2026 15:31:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.clojure-finance/datajure/versions/2.7.9</guid>
-    <title>[com.github.clojure-finance/datajure &quot;2.7.9&quot;]</title>
-    <link>https://clojars.org/com.github.clojure-finance/datajure/versions/2.7.9</link>
-    <description>Clojure data manipulation DSL built on tech.ml.dataset</description>
-    <pubDate>Sat, 24 Oct 2026 14:35:41 +0000</pubDate>
   </item>
   </channel>
 </rss>
