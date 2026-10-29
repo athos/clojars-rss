@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 29 Oct 2026 05:02:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 06:04:01 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/cider/cider-nrepl/versions/0.64.0</guid>
+    <title>[cider/cider-nrepl &quot;0.64.0&quot;]</title>
+    <link>https://clojars.org/cider/cider-nrepl/versions/0.64.0</link>
+    <description>A collection of nREPL middleware designed to enhance Clojure editors.</description>
+    <pubDate>Thu, 29 Oct 2026 06:03:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.489</guid>
+    <title>[org.replikativ/ansatz &quot;0.2.489&quot;]</title>
+    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.489</link>
+    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
+    <pubDate>Thu, 29 Oct 2026 06:02:37 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/yetibot/versions/20261029.055827.43a4eb4</guid>
+    <title>[yetibot &quot;20261029.055827.43a4eb4&quot;]</title>
+    <link>https://clojars.org/yetibot/versions/20261029.055827.43a4eb4</link>
+    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
+    <pubDate>Thu, 29 Oct 2026 05:58:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/geschichte/versions/0.1.30</guid>
+    <title>[org.replikativ/geschichte &quot;0.1.30&quot;]</title>
+    <link>https://clojars.org/org.replikativ/geschichte/versions/0.1.30</link>
+    <description>Queryable, Datahike-backed version control with Git compatibility.</description>
+    <pubDate>Thu, 29 Oct 2026 05:36:12 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.core0/prism/versions/2.1.30-SNAPSHOT</guid>
+    <title>[io.core0/prism &quot;2.1.30-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/io.core0/prism/versions/2.1.30-SNAPSHOT</link>
+    <description>Opinionated library with client namespaces</description>
+    <pubDate>Thu, 29 Oct 2026 05:10:16 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/geschichte/versions/0.1.28</guid>
     <title>[org.replikativ/geschichte &quot;0.1.28&quot;]</title>
@@ -1764,41 +1799,6 @@
     <link>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1913</link>
     <description>A durable datalog implementation adaptable for distribution.</description>
     <pubDate>Mon, 26 Oct 2026 08:29:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.11-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-extension-trace-propagators &quot;0.2.11-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.11-SNAPSHOT</link>
-    <description>Provides access using Clojure to additional OpenTelemetry trace propagators</description>
-    <pubDate>Mon, 26 Oct 2026 08:29:49 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.11-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler &quot;0.2.11-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.11-SNAPSHOT</link>
-    <description>Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type</description>
-    <pubDate>Mon, 26 Oct 2026 08:29:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.11-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure &quot;0.2.11-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.11-SNAPSHOT</link>
-    <description>Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties</description>
-    <pubDate>Mon, 26 Oct 2026 08:29:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.2.11-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator &quot;0.2.11-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.2.11-SNAPSHOT</link>
-    <description>Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol</description>
-    <pubDate>Mon, 26 Oct 2026 08:29:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.2.11-SNAPSHOT</guid>
-    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-resources &quot;0.2.11-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.2.11-SNAPSHOT</link>
-    <description>Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform</description>
-    <pubDate>Mon, 26 Oct 2026 08:29:21 +0000</pubDate>
   </item>
   </channel>
 </rss>
