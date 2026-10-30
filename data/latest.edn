@@ -1,26 +1,3 @@
-{:created 1793078742281, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.373"}
-{:created 1793086724853, :description "A Clojure(Script) library for fetching URLs that strangers give you.", :group_name "dk.simongray", :jar_name "wary-fetch", :version "0.16.1"}
-{:created 1793086999144, :description "A Clojure(Script) library for adding full-text search to your app.", :group_name "dk.simongray", :jar_name "drop-in-search", :version "0.4.2"}
-{:created 1793087009178, :description "A Clojure(Script) library for local-first sync through storage the user already has.", :group_name "dk.simongray", :jar_name "like-minded", :version "0.9.2"}
-{:created 1793087452272, :description "A Clojure(Script) library for writing podcast software.", :group_name "dk.simongray", :jar_name "podcast-clj", :version "0.5.1"}
-{:created 1793087836937, :description "Clojure wrapper for com.mongodb.client Java API.", :group_name "com.timezynk", :jar_name "mongo", :version "1.0.6"}
-{:created 1793087961545, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.10.3"}
-{:created 1793088804748, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.215"}
-{:created 1793089058447, :description "A Clojure(Script) implementation of WebSub: subscriber, publisher and hub.", :group_name "dk.simongray", :jar_name "websub-clj", :version "0.7.1"}
-{:created 1793089337093, :description "Clojure wrapper for com.mongodb.client Java API.", :group_name "com.timezynk", :jar_name "mongo", :version "1.0.7"}
-{:created 1793089431880, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.10.4"}
-{:created 1793093188178, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.415"}
-{:created 1793093985197, :description "Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.", :group_name "com.blockether", :jar_name "lanterna", :version "3.1.5-vis.58"}
-{:created 1793095239361, :description "A fertile ground for Clojure tooling", :group_name "cider", :jar_name "orchard", :version "0.47.0"}
-{:created 1793095803835, :description "Lucide icons as Clojure defs, for Tyrell", :group_name "dev.gersak", :jar_name "tyrell-icons-lucide", :version "1.0.0-RC18"}
-{:created 1793095810555, :description "Heroicons (outline, solid, mini, micro) as Clojure defs, for Tyrell", :group_name "dev.gersak", :jar_name "tyrell-icons-heroicons", :version "1.0.0-RC18"}
-{:created 1793095817843, :description "Material icons (filled, outlined, round, sharp, two-tone) as Clojure defs, for Tyrell", :group_name "dev.gersak", :jar_name "tyrell-icons-material", :version "1.0.0-RC18"}
-{:created 1793095824905, :description "Font Awesome 6 (solid, regular, brands) as Clojure defs, for Tyrell", :group_name "dev.gersak", :jar_name "tyrell-icons-fontawesome", :version "1.0.0-RC18"}
-{:created 1793095831158, :description "Every Tyrell icon set, plus tyrell.icons.build/extract to ship only the icons you use", :group_name "dev.gersak", :jar_name "tyrell-icons", :version "1.0.0-RC18"}
-{:created 1793095838388, :description "Modern web components library built with ClojureScript", :group_name "dev.gersak", :jar_name "tyrell", :version "1.0.0-RC18"}
-{:created 1793095960338, :description "A collection of nREPL middleware designed to enhance Clojure editors.", :group_name "cider", :jar_name "cider-nrepl", :version "0.64.0-alpha3"}
-{:created 1793096512436, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-web", :version "1.443"}
-{:created 1793096521896, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-web-frame", :version "1.443"}
 {:created 1793096532666, :description "MUI based Reagent/re-frame web primitives.", :group_name "com.alpha-prosoft", :jar_name "edd-web-primitives", :version "1.443"}
 {:created 1793096542560, :description "Playwright actions for edd-web-primitives, addressed by el-id.", :group_name "com.alpha-prosoft", :jar_name "edd-web-primitives-ui-sdk", :version "1.443"}
 {:created 1793096552465, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-web-widgets", :version "1.443"}
@@ -254,3 +231,26 @@
 {:created 1793354484272, :description "Configuration loading and typed accessors for the Wagoe framework: Aero-based profile resolution and the accessors libraries read settings through", :group_name "com.wagoe", :jar_name "wagoe-config", :version "1.1.0"}
 {:created 1793354503482, :description "Foundation library for Wagoe framework: validation, utilities, interceptors", :group_name "com.wagoe", :jar_name "wagoe-core", :version "1.1.0"}
 {:created 1793354523067, :description "Observability library for Wagoe framework: logging, metrics, error reporting", :group_name "com.wagoe", :jar_name "wagoe-observability", :version "1.1.0"}
+{:created 1793354560471, :description "Internationalisation (i18n) for Wagoe framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management", :group_name "com.wagoe", :jar_name "wagoe-i18n", :version "1.1.0"}
+{:created 1793354579011, :description "Code generation library for Wagoe framework: module scaffolding", :group_name "com.wagoe", :jar_name "wagoe-scaffolder", :version "1.1.0"}
+{:created 1793354598258, :description "Cache library for Wagoe framework: in-memory and Redis cache adapters", :group_name "com.wagoe", :jar_name "wagoe-cache", :version "1.1.0"}
+{:created 1793354618424, :description "Platform library for Wagoe framework: database, HTTP, configuration, modules", :group_name "com.wagoe", :jar_name "wagoe-platform", :version "1.1.0"}
+{:created 1793354640148, :description "Storage library for Wagoe framework: local filesystem and S3 adapters", :group_name "com.wagoe", :jar_name "wagoe-storage", :version "1.1.0"}
+{:created 1793354660345, :description "Event bus for Wagoe framework: in-memory and Redis Streams adapters for cross-process events", :group_name "com.wagoe", :jar_name "wagoe-events", :version "1.1.0"}
+{:created 1793354679456, :description "Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication", :group_name "com.wagoe", :jar_name "wagoe-realtime", :version "1.1.0"}
+{:created 1793354699614, :description "Multi-tenancy library for Wagoe framework: schema isolation, tenant resolution, provisioning", :group_name "com.wagoe", :jar_name "wagoe-tenant", :version "1.1.0"}
+{:created 1793354720526, :description "Jobs library for Wagoe framework: background job queuing with in-memory and Redis adapters", :group_name "com.wagoe", :jar_name "wagoe-jobs", :version "1.1.0"}
+{:created 1793354782720, :description "External service adapters library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-external", :version "1.1.0"}
+{:created 1793354803020, :description "Email sending library for Wagoe framework: SMTP support, composition, validation", :group_name "com.wagoe", :jar_name "wagoe-email", :version "1.1.0"}
+{:created 1793354821858, :description "PSP abstraction for Wagoe framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "com.wagoe", :jar_name "wagoe-payments", :version "1.1.0"}
+{:created 1793354859644, :description "PDF and Excel report generation for Wagoe framework: Hiccup templates, declarative sections, async via jobs module", :group_name "com.wagoe", :jar_name "wagoe-reports", :version "1.1.0"}
+{:created 1793354878395, :description "Multi-provider AI library for Wagoe framework: Anthropic, OpenAI, Ollama", :group_name "com.wagoe", :jar_name "wagoe-ai", :version "1.1.0"}
+{:created 1793354897022, :description "Shared UI style library for Wagoe framework: CSS/JS bundles and assets", :group_name "com.wagoe", :jar_name "wagoe-ui-style", :version "1.1.0"}
+{:created 1793354916624, :description "Shared UI library for Wagoe framework: layout, components, Hiccup rendering helpers", :group_name "com.wagoe", :jar_name "wagoe-shared-ui", :version "1.1.0"}
+{:created 1793354936627, :description "User management library for Wagoe framework: authentication, sessions, MFA", :group_name "com.wagoe", :jar_name "wagoe-user", :version "1.1.0"}
+{:created 1793354976401, :description "Admin interface library for Wagoe framework: auto-CRUD, schema introspection", :group_name "com.wagoe", :jar_name "wagoe-admin", :version "1.1.0"}
+{:created 1793354995660, :description "Workflow orchestration library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-workflow", :version "1.1.0"}
+{:created 1793355014841, :description "Full-text search library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-search", :version "1.1.0"}
+{:created 1793355073167, :description "Developer tooling for the Wagoe framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "com.wagoe", :jar_name "wagoe-tools", :version "1.1.0"}
+{:created 1793355093618, :description "Development tools and dashboard for the Wagoe framework: dev dashboard, REPL utilities, system inspection", :group_name "com.wagoe", :jar_name "wagoe-devtools", :version "1.1.0"}
+{:created 1793357717496, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.509"}
