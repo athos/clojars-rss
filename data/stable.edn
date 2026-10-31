@@ -1,6 +1,3 @@
-{:created 1793128360181, :description "Realtime library for Wagoe framework: WebSocket-based real-time communication with JWT authentication", :group_name "com.wagoe", :jar_name "wagoe-realtime", :version "1.1.0-rc-1"}
-{:created 1793128382348, :description "Multi-tenancy library for Wagoe framework: schema isolation, tenant resolution, provisioning", :group_name "com.wagoe", :jar_name "wagoe-tenant", :version "1.1.0-rc-1"}
-{:created 1793128402601, :description "Jobs library for Wagoe framework: background job queuing with in-memory and Redis adapters", :group_name "com.wagoe", :jar_name "wagoe-jobs", :version "1.1.0-rc-1"}
 {:created 1793128464223, :description "External service adapters library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-external", :version "1.1.0-rc-1"}
 {:created 1793128484853, :description "Email sending library for Wagoe framework: SMTP support, composition, validation", :group_name "com.wagoe", :jar_name "wagoe-email", :version "1.1.0-rc-1"}
 {:created 1793128505270, :description "PSP abstraction for Wagoe framework: multi-provider payment processing (Mollie, Stripe, Mock), checkout flow, webhook verification", :group_name "com.wagoe", :jar_name "wagoe-payments", :version "1.1.0-rc-1"}
@@ -254,3 +251,6 @@
 {:created 1793401573138, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.535"}
 {:created 1793403631906, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.186"}
 {:created 1793408058668, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.537"}
+{:created 1793409253524, :description "The latest Telegram Bot API specification and client lib for Clojure-based apps.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api", :version "1.4.337"}
+{:created 1793409268348, :description "Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.", :group_name "com.github.marksto", :jar_name "clj-tg-bot-api.updates", :version "1.4.337"}
+{:created 1793409396253, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.538"}
