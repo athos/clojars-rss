@@ -4,7 +4,14 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 1 Nov 2026 12:02:39 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 1 Nov 2026 13:01:12 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.59</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.59&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.59</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Sun, 1 Nov 2026 12:26:23 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/vis/versions/0.4.7</guid>
     <title>[com.blockether/vis &quot;0.4.7&quot;]</title>
@@ -1800,13 +1807,6 @@
     <link>https://clojars.org/org.domaindrivenarchitecture/dda-build-clj/versions/3.3.0</link>
     <description>build script support lib</description>
     <pubDate>Thu, 29 Oct 2026 15:16:20 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.160</guid>
-    <title>[org.replikativ/spindel &quot;0.1.160&quot;]</title>
-    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.160</link>
-    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
-    <pubDate>Thu, 29 Oct 2026 15:04:11 +0000</pubDate>
   </item>
   </channel>
 </rss>
