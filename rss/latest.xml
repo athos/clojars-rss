@@ -4,7 +4,133 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 1 Nov 2026 17:01:02 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 1 Nov 2026 18:02:15 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/ai.intergraph/game-master/versions/0.1.32</guid>
+    <title>[ai.intergraph/game-master &quot;0.1.32&quot;]</title>
+    <link>https://clojars.org/ai.intergraph/game-master/versions/0.1.32</link>
+    <description>Reusable Game Master runtime library for Intergraph</description>
+    <pubDate>Sun, 1 Nov 2026 17:50:28 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.clojars.cmiles74/message-parser/versions/1.0</guid>
+    <title>[org.clojars.cmiles74/message-parser &quot;1.0&quot;]</title>
+    <link>https://clojars.org/org.clojars.cmiles74/message-parser/versions/1.0</link>
+    <description></description>
+    <pubDate>Sun, 1 Nov 2026 17:34:33 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-adapter-logback/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-adapter-logback &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-adapter-logback/versions/0.2.11</link>
+    <description>OpenTelemetry appender and MDC provider for Logback, using Clojure library clj-otel-api</description>
+    <pubDate>Sun, 1 Nov 2026 17:21:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-adapter-log4j/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-adapter-log4j &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-adapter-log4j/versions/0.2.11</link>
+    <description>OpenTelemetry appender and context data provider for Log4j, using Clojure library clj-otel-api</description>
+    <pubDate>Sun, 1 Nov 2026 17:21:15 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-runtime-telemetry/versions/0.2.11</link>
+    <description>Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime</description>
+    <pubDate>Sun, 1 Nov 2026 17:21:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-resources/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-instrumentation-resources &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-instrumentation-resources/versions/0.2.11</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process</description>
+    <pubDate>Sun, 1 Nov 2026 17:21:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-prometheus/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-prometheus &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-prometheus/versions/0.2.11</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter</description>
+    <pubDate>Sun, 1 Nov 2026 17:20:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-otlp &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-otlp/versions/0.2.11</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters</description>
+    <pubDate>Sun, 1 Nov 2026 17:20:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging-otlp &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.2.11</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only</description>
+    <pubDate>Sun, 1 Nov 2026 17:20:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-exporter-logging &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.2.11</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only</description>
+    <pubDate>Sun, 1 Nov 2026 17:20:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-extension-trace-propagators &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.11</link>
+    <description>Provides access using Clojure to additional OpenTelemetry trace propagators</description>
+    <pubDate>Sun, 1 Nov 2026 17:20:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.11</link>
+    <description>Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type</description>
+    <pubDate>Sun, 1 Nov 2026 17:20:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.11</link>
+    <description>Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties</description>
+    <pubDate>Sun, 1 Nov 2026 17:20:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.2.11</link>
+    <description>Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol</description>
+    <pubDate>Sun, 1 Nov 2026 17:20:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-resources &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.2.11</link>
+    <description>Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform</description>
+    <pubDate>Sun, 1 Nov 2026 17:20:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.2.11</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK</description>
+    <pubDate>Sun, 1 Nov 2026 17:19:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-common/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-sdk-common &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-common/versions/0.2.11</link>
+    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK common components</description>
+    <pubDate>Sun, 1 Nov 2026 17:19:51 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.2.11</guid>
+    <title>[com.github.steffan-westcott/clj-otel-api &quot;0.2.11&quot;]</title>
+    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.2.11</link>
+    <description>An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry</description>
+    <pubDate>Sun, 1 Nov 2026 17:19:44 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/foerster/versions/0.1.124</guid>
     <title>[org.replikativ/foerster &quot;0.1.124&quot;]</title>
@@ -1681,132 +1807,6 @@
     <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.492</link>
     <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
     <pubDate>Fri, 30 Oct 2026 02:58:16 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.chaploud/pgmalli/versions/0.3.1</guid>
-    <title>[io.github.chaploud/pgmalli &quot;0.3.1&quot;]</title>
-    <link>https://clojars.org/io.github.chaploud/pgmalli/versions/0.3.1</link>
-    <description>Generate malli schemas from an applied PostgreSQL schema</description>
-    <pubDate>Fri, 30 Oct 2026 02:52:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/geschichte/versions/0.1.41</guid>
-    <title>[org.replikativ/geschichte &quot;0.1.41&quot;]</title>
-    <link>https://clojars.org/org.replikativ/geschichte/versions/0.1.41</link>
-    <description>Queryable, Datahike-backed version control with Git compatibility.</description>
-    <pubDate>Fri, 30 Oct 2026 02:48:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20261030.022933.ebf5602</guid>
-    <title>[yetibot &quot;20261030.022933.ebf5602&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20261030.022933.ebf5602</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Fri, 30 Oct 2026 02:29:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.174</guid>
-    <title>[org.replikativ/spindel &quot;0.1.174&quot;]</title>
-    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.174</link>
-    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
-    <pubDate>Fri, 30 Oct 2026 01:58:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ejc-sql/versions/0.5.0-SNAPSHOT</guid>
-    <title>[ejc-sql &quot;0.5.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/ejc-sql/versions/0.5.0-SNAPSHOT</link>
-    <description>Interact with database via java/clojure libs to run SQL scripts</description>
-    <pubDate>Fri, 30 Oct 2026 01:49:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/partial-cps/versions/0.1.70</guid>
-    <title>[org.replikativ/partial-cps &quot;0.1.70&quot;]</title>
-    <link>https://clojars.org/org.replikativ/partial-cps/versions/0.1.70</link>
-    <description>Lightweight Clojure/ClojureScript library for partial continuation-passing style transformations.</description>
-    <pubDate>Fri, 30 Oct 2026 01:39:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.173</guid>
-    <title>[org.replikativ/spindel &quot;0.1.173&quot;]</title>
-    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.173</link>
-    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
-    <pubDate>Thu, 29 Oct 2026 23:43:15 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.171</guid>
-    <title>[org.replikativ/spindel &quot;0.1.171&quot;]</title>
-    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.171</link>
-    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
-    <pubDate>Thu, 29 Oct 2026 22:41:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.seancorfield/logging4j2/versions/1.0.10</guid>
-    <title>[com.github.seancorfield/logging4j2 &quot;1.0.10&quot;]</title>
-    <link>https://clojars.org/com.github.seancorfield/logging4j2/versions/1.0.10</link>
-    <description>A log4j2 alternative to clojure.tools.logging.</description>
-    <pubDate>Thu, 29 Oct 2026 22:06:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.168</guid>
-    <title>[org.replikativ/spindel &quot;0.1.168&quot;]</title>
-    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.168</link>
-    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
-    <pubDate>Thu, 29 Oct 2026 21:58:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.chaploud/pgmalli/versions/0.3.0</guid>
-    <title>[io.github.chaploud/pgmalli &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/io.github.chaploud/pgmalli/versions/0.3.0</link>
-    <description>Generate malli schemas from an applied PostgreSQL schema</description>
-    <pubDate>Thu, 29 Oct 2026 21:48:39 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.165</guid>
-    <title>[org.replikativ/spindel &quot;0.1.165&quot;]</title>
-    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.165</link>
-    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
-    <pubDate>Thu, 29 Oct 2026 20:55:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20261029.204933.77082e3</guid>
-    <title>[yetibot &quot;20261029.204933.77082e3&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20261029.204933.77082e3</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Thu, 29 Oct 2026 20:49:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20261029.195917.5ea325b</guid>
-    <title>[yetibot &quot;20261029.195917.5ea325b&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20261029.195917.5ea325b</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Thu, 29 Oct 2026 19:59:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/spindel/versions/0.1.162</guid>
-    <title>[org.replikativ/spindel &quot;0.1.162&quot;]</title>
-    <link>https://clojars.org/org.replikativ/spindel/versions/0.1.162</link>
-    <description>Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.</description>
-    <pubDate>Thu, 29 Oct 2026 19:03:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/puppetdb/versions/8.17.1</guid>
-    <title>[org.openvoxproject/puppetdb &quot;8.17.1&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/puppetdb/versions/8.17.1</link>
-    <description>OpenVox-integrated catalog and fact storage</description>
-    <pubDate>Thu, 29 Oct 2026 18:45:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/geschichte/versions/0.1.40</guid>
-    <title>[org.replikativ/geschichte &quot;0.1.40&quot;]</title>
-    <link>https://clojars.org/org.replikativ/geschichte/versions/0.1.40</link>
-    <description>Queryable, Datahike-backed version control with Git compatibility.</description>
-    <pubDate>Thu, 29 Oct 2026 18:32:05 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.openvoxproject/puppetserver/versions/8.17.1</guid>
-    <title>[org.openvoxproject/puppetserver &quot;8.17.1&quot;]</title>
-    <link>https://clojars.org/org.openvoxproject/puppetserver/versions/8.17.1</link>
-    <description>OpenVox Server</description>
-    <pubDate>Thu, 29 Oct 2026 18:23:17 +0000</pubDate>
   </item>
   </channel>
 </rss>
