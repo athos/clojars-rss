@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 1 Nov 2026 15:01:10 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 1 Nov 2026 16:01:17 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.20.3</guid>
+    <title>[com.blockether/vis-lang-clojure &quot;1.20.3&quot;]</title>
+    <link>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.20.3</link>
+    <description>Clojure tools for Vis: format, lint, tests, managed nREPL and reader validation.</description>
+    <pubDate>Sun, 1 Nov 2026 15:27:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/yetibot/versions/20261101.151950.1ee03dc</guid>
+    <title>[yetibot &quot;20261101.151950.1ee03dc&quot;]</title>
+    <link>https://clojars.org/yetibot/versions/20261101.151950.1ee03dc</link>
+    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
+    <pubDate>Sun, 1 Nov 2026 15:20:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.60</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.60&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.60</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Sun, 1 Nov 2026 15:05:38 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/svar/versions/0.7.219</guid>
     <title>[com.blockether/svar &quot;0.7.219&quot;]</title>
@@ -1786,27 +1807,6 @@
     <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-arm64/versions/1.2.0</link>
     <description>Native dependency of Datalevin on Linux Arm64</description>
     <pubDate>Thu, 29 Oct 2026 16:19:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/1.2.0</guid>
-    <title>[org.clojars.huahaiy/dtlvnative-linux-x86_64 &quot;1.2.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.huahaiy/dtlvnative-linux-x86_64/versions/1.2.0</link>
-    <description>Native dependency of Datalevin on Linux x86-64</description>
-    <pubDate>Thu, 29 Oct 2026 16:15:09 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20261029.160331.9b68cf7</guid>
-    <title>[yetibot &quot;20261029.160331.9b68cf7&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20261029.160331.9b68cf7</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Thu, 29 Oct 2026 16:03:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20261029.154512.927ff49</guid>
-    <title>[yetibot &quot;20261029.154512.927ff49&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20261029.154512.927ff49</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Thu, 29 Oct 2026 15:45:37 +0000</pubDate>
   </item>
   </channel>
 </rss>
