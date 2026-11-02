@@ -4,7 +4,50 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 2 Nov 2026 22:01:34 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 2 Nov 2026 23:01:27 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.buddhilw/or-tools-clj/versions/0.1.1</guid>
+    <title>[io.github.buddhilw/or-tools-clj &quot;0.1.1&quot;]</title>
+    <link>https://clojars.org/io.github.buddhilw/or-tools-clj/versions/0.1.1</link>
+    <description></description>
+    <pubDate>Mon, 2 Nov 2026 22:44:53 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/ansatz-lean-jvm/versions/0.2.591</guid>
+    <title>[org.replikativ/ansatz-lean-jvm &quot;0.2.591&quot;]</title>
+    <link>https://clojars.org/org.replikativ/ansatz-lean-jvm/versions/0.2.591</link>
+    <description>Optional Ansatz Lean JVM interpreter runtime</description>
+    <pubDate>Mon, 2 Nov 2026 22:38:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.591</guid>
+    <title>[org.replikativ/ansatz &quot;0.2.591&quot;]</title>
+    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.591</link>
+    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
+    <pubDate>Mon, 2 Nov 2026 22:38:25 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/yetibot/versions/20261102.223327.8342105</guid>
+    <title>[yetibot &quot;20261102.223327.8342105&quot;]</title>
+    <link>https://clojars.org/yetibot/versions/20261102.223327.8342105</link>
+    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
+    <pubDate>Mon, 2 Nov 2026 22:33:44 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/yetibot/core/versions/20261102.223159.a72adbf</guid>
+    <title>[yetibot/core &quot;20261102.223159.a72adbf&quot;]</title>
+    <link>https://clojars.org/yetibot/core/versions/20261102.223159.a72adbf</link>
+    <description>Core yetibot utilities, extracted for shared use among yetibot
+                and its various plugins</description>
+    <pubDate>Mon, 2 Nov 2026 22:32:39 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/svar/versions/0.7.221</guid>
+    <title>[com.blockether/svar &quot;0.7.221&quot;]</title>
+    <link>https://clojars.org/com.blockether/svar/versions/0.7.221</link>
+    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
+    <pubDate>Mon, 2 Nov 2026 22:29:44 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/ansatz-lean-jvm/versions/0.2.589</guid>
     <title>[org.replikativ/ansatz-lean-jvm &quot;0.2.589&quot;]</title>
@@ -1766,48 +1809,6 @@
     <link>https://clojars.org/com.github.clojure-finance/clojure-backtesting/versions/1.1.2</link>
     <description>A day-stepping backtesting framework for daily security data from CRSP-style files or Yahoo Finance, with point-in-time fundamentals.</description>
     <pubDate>Sat, 31 Oct 2026 03:45:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.clojure-finance/clj-yfinance/versions/0.1.10</guid>
-    <title>[com.github.clojure-finance/clj-yfinance &quot;0.1.10&quot;]</title>
-    <link>https://clojars.org/com.github.clojure-finance/clj-yfinance/versions/0.1.10</link>
-    <description></description>
-    <pubDate>Sat, 31 Oct 2026 03:30:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.544</guid>
-    <title>[org.replikativ/ansatz &quot;0.2.544&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.544</link>
-    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
-    <pubDate>Sat, 31 Oct 2026 02:56:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.538</guid>
-    <title>[org.replikativ/ansatz &quot;0.2.538&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.538</link>
-    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
-    <pubDate>Sat, 31 Oct 2026 01:16:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.marksto/clj-tg-bot-api.updates/versions/1.4.337</guid>
-    <title>[com.github.marksto/clj-tg-bot-api.updates &quot;1.4.337&quot;]</title>
-    <link>https://clojars.org/com.github.marksto/clj-tg-bot-api.updates/versions/1.4.337</link>
-    <description>Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.</description>
-    <pubDate>Sat, 31 Oct 2026 01:14:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.marksto/clj-tg-bot-api/versions/1.4.337</guid>
-    <title>[com.github.marksto/clj-tg-bot-api &quot;1.4.337&quot;]</title>
-    <link>https://clojars.org/com.github.marksto/clj-tg-bot-api/versions/1.4.337</link>
-    <description>The latest Telegram Bot API specification and client lib for Clojure-based apps.</description>
-    <pubDate>Sat, 31 Oct 2026 01:14:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.537</guid>
-    <title>[org.replikativ/ansatz &quot;0.2.537&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.537</link>
-    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
-    <pubDate>Sat, 31 Oct 2026 00:54:18 +0000</pubDate>
   </item>
   </channel>
 </rss>
