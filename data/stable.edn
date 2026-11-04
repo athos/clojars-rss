@@ -1,8 +1,3 @@
-{:created 1793553617150, :description "Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-extension-autoconfigure", :version "0.2.11"}
-{:created 1793553623498, :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :version "0.2.11"}
-{:created 1793553629757, :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-extension-trace-propagators", :version "0.2.11"}
-{:created 1793553636069, :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-logging", :version "0.2.11"}
-{:created 1793553642366, :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-logging-otlp", :version "0.2.11"}
 {:created 1793553648914, :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-otlp", :version "0.2.11"}
 {:created 1793553655322, :description "Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-prometheus", :version "0.2.11"}
 {:created 1793553661542, :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-instrumentation-resources", :version "0.2.11"}
@@ -254,3 +249,8 @@
 {:created 1793799011809, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20261104.132931.d84b9c5"}
 {:created 1793799170535, :description "A Markov-chain-based name generator for games, fiction, &c.", :group_name "eigenhombre", :jar_name "namejen", :version "0.1.24"}
 {:created 1793799576153, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20261104.133916.1b6cce5"}
+{:created 1793802153584, :description "A ClojureScript HTTP client for the Duct framework", :group_name "org.duct-framework", :jar_name "client.http", :version "0.1.1"}
+{:created 1793802647329, :description "Integrant methods for Datahike", :group_name "org.duct-framework", :jar_name "database.datalog.datahike", :version "0.1.1"}
+{:created 1793803005340, :description "Integrant methods for Datalevin", :group_name "org.duct-framework", :jar_name "database.datalog.datalevin", :version "0.1.4"}
+{:created 1793803839670, :description "Integrant methods for connecting to a SQL database", :group_name "org.duct-framework", :jar_name "database.sql", :version "0.4.2"}
+{:created 1793804041760, :description "Integrant methods for a SQL database connection pool", :group_name "org.duct-framework", :jar_name "database.sql.hikaricp", :version "0.7.2"}
