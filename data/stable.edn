@@ -1,9 +1,3 @@
-{:created 1793553648914, :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-otlp", :version "0.2.11"}
-{:created 1793553655322, :description "Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-prometheus", :version "0.2.11"}
-{:created 1793553661542, :description "Provides access using Clojure to OpenTelemetry Resource objects which describe the local host and running process", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-instrumentation-resources", :version "0.2.11"}
-{:created 1793553667756, :description "Provides Clojure wrappers of OpenTelemetry instrumentation of the JVM runtime", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-instrumentation-runtime-telemetry", :version "0.2.11"}
-{:created 1793553675332, :description "OpenTelemetry appender and context data provider for Log4j, using Clojure library clj-otel-api", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-adapter-log4j", :version "0.2.11"}
-{:created 1793553682265, :description "OpenTelemetry appender and MDC provider for Logback, using Clojure library clj-otel-api", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-adapter-logback", :version "0.2.11"}
 {:created 1793554473429, :description nil, :group_name "org.clojars.cmiles74", :jar_name "message-parser", :version "1.0"}
 {:created 1793555428498, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.32"}
 {:created 1793556397905, :description "com.blockether/vis-contract - vis monorepo package.", :group_name "com.blockether", :jar_name "vis-contract", :version "0.4.9"}
@@ -254,3 +248,9 @@
 {:created 1793803005340, :description "Integrant methods for Datalevin", :group_name "org.duct-framework", :jar_name "database.datalog.datalevin", :version "0.1.4"}
 {:created 1793803839670, :description "Integrant methods for connecting to a SQL database", :group_name "org.duct-framework", :jar_name "database.sql", :version "0.4.2"}
 {:created 1793804041760, :description "Integrant methods for a SQL database connection pool", :group_name "org.duct-framework", :jar_name "database.sql.hikaricp", :version "0.7.2"}
+{:created 1793804530773, :description "Integrant methods for running a Jetty web server", :group_name "org.duct-framework", :jar_name "server.http.jetty", :version "0.3.6"}
+{:created 1793804858359, :description "Integrant methods for the Reitit routing library", :group_name "org.duct-framework", :jar_name "router.reitit", :version "0.5.3"}
+{:created 1793805027520, :description "Common Ring handlers for the Duct framework", :group_name "org.duct-framework", :jar_name "handler", :version "0.1.5"}
+{:created 1793805814466, :description "Reactive SQLite: register queries, get recomputed results - posh's architecture on SQLite's preupdate hook, for JVM and ClojureScript.", :group_name "org.clojars.ebifriedrice", :jar_name "rsqlite", :version "0.3.0"}
+{:created 1793806828728, :description "Duct module for running web applications", :group_name "org.duct-framework", :jar_name "module.web", :version "0.13.7"}
+{:created 1793807176176, :description "Integrant methods for running database migrations using Ragtime", :group_name "org.duct-framework", :jar_name "migrator.ragtime", :version "0.6.1"}
