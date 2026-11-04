@@ -1,13 +1,3 @@
-{:created 1793467043949, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.560"}
-{:created 1793467820079, :description "Pavlov: Bthreads for Clojure(Script)", :group_name "tech.thomascothran", :jar_name "pavlov", :version "5.0.309"}
-{:created 1793467828717, :description "Pavlov Devtools", :group_name "tech.thomascothran", :jar_name "pavlov-devtools", :version "5.0.309"}
-{:created 1793467837521, :description "Pavlov Skills", :group_name "tech.thomascothran", :jar_name "pavlov-skills", :version "5.0.309"}
-{:created 1793467846048, :description "Pavlov Web", :group_name "tech.thomascothran", :jar_name "pavlov-web", :version "5.0.309"}
-{:created 1793469167547, :description "JSON Schema 2020-12 validation for Clojure.", :group_name "com.blockether", :jar_name "skjema", :version "0.3.3"}
-{:created 1793472803138, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.561"}
-{:created 1793473090061, :description "Build your jank projects using Leiningen.", :group_name "org.jank-lang", :jar_name "lein-jank", :version "2026.10-3"}
-{:created 1793473118212, :description "", :group_name "org.jank-lang", :jar_name "lein-template.jank", :version "2026.10-3"}
-{:created 1793474958793, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.563"}
 {:created 1793476128601, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20261031.194811.5d997d8"}
 {:created 1793476188328, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20261031.194934.56cf833"}
 {:created 1793476225346, :description "Reactive computation you can fork. Incremental reactive computation for Clojure/ClojureScript with cached spins, mutable signals, copy-on-write forking, and a typed delta algebra.", :group_name "org.replikativ", :jar_name "spindel", :version "0.1.199"}
@@ -254,3 +244,13 @@
 {:created 1793752071951, :description "Optional Ansatz Lean JVM interpreter runtime", :group_name "org.replikativ", :jar_name "ansatz-lean-jvm", :version "0.2.605"}
 {:created 1793753285130, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20261104.004726.3d02a62"}
 {:created 1793753459863, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20261104.005041.b982db3"}
+{:created 1793755365063, :description "OAuth support for Clojure", :group_name "net.clojars.savya", :jar_name "clj-oauth", :version "1.10.2"}
+{:created 1793755390126, :description "Opinionated library with client namespaces", :group_name "io.core0", :jar_name "prism", :version "2.1.31"}
+{:created 1793755398793, :description "DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.", :group_name "net.clojars.savya", :jar_name "duckdb-clj", :version "0.9.2"}
+{:created 1793755405319, :description "Local text-embedding inference for Clojure: run sentence-transformers ONNX models in-process.", :group_name "net.clojars.savya", :jar_name "embeddings-clj", :version "0.7.2"}
+{:created 1793755447724, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.4.4"}
+{:created 1793755458141, :description "Represent and manipulate various Internet entities as data.", :group_name "net.clojars.savya", :jar_name "inet.data", :version "3.0.2"}
+{:created 1793755458846, :description "AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.", :group_name "net.clojars.savya", :jar_name "psql-clj-aws", :version "3.0.3"}
+{:created 1793755463671, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.46.0"}
+{:created 1793755473297, :description "Idiomatic Clojure wrapper over DJL's HuggingFace tokenizers (native Rust tokenizers via JNI): encode, decode, and count tokens.", :group_name "net.clojars.savya", :jar_name "tokenizers-clj", :version "0.11.2"}
+{:created 1793756349069, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.45.0"}
