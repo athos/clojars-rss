@@ -1,13 +1,3 @@
-{:created 1793551797790, :description "Probabilistic inference in forkable worlds: SMC, particle MCMC, MCMC over traces, HMC blocks, variational inference and counterfactuals on spindel savepoints.", :group_name "org.replikativ", :jar_name "foerster", :version "0.1.124"}
-{:created 1793553584541, :description "An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-api", :version "0.2.11"}
-{:created 1793553591289, :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK common components", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-common", :version "0.2.11"}
-{:created 1793553597475, :description "Provides programmatic configuration using Clojure of OpenTelemetry SDK", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk", :version "0.2.11"}
-{:created 1793553604598, :description "Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-contrib-aws-resources", :version "0.2.11"}
-{:created 1793553610775, :description "Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-contrib-aws-xray-propagator", :version "0.2.11"}
-{:created 1793553617150, :description "Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-extension-autoconfigure", :version "0.2.11"}
-{:created 1793553623498, :description "Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-sdk-extension-jaeger-remote-sampler", :version "0.2.11"}
-{:created 1793553629757, :description "Provides access using Clojure to additional OpenTelemetry trace propagators", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-extension-trace-propagators", :version "0.2.11"}
-{:created 1793553636069, :description "Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-logging", :version "0.2.11"}
 {:created 1793553642366, :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-logging-otlp", :version "0.2.11"}
 {:created 1793553648914, :description "Provides programmatic configuration using Clojure of OpenTelemetry OTLP exporters", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-otlp", :version "0.2.11"}
 {:created 1793553655322, :description "Provides programmatic configuration using Clojure of OpenTelemetry Prometheus exporter", :group_name "com.github.steffan-westcott", :jar_name "clj-otel-exporter-prometheus", :version "0.2.11"}
@@ -254,3 +244,13 @@
 {:created 1793793549435, :description "Clojure tools for Vis: format, lint, tests, managed nREPL and reader validation.", :group_name "com.blockether", :jar_name "vis-lang-clojure", :version "1.20.6"}
 {:created 1793793554119, :description nil, :group_name "me.lomin", :jar_name "sinho", :version "4.0.1"}
 {:created 1793795595999, :description "Clojure tools for Vis: format, lint, tests, managed nREPL and reader validation.", :group_name "com.blockether", :jar_name "vis-lang-clojure", :version "1.20.7"}
+{:created 1793797339031, :description "Native fff-c library for darwin-arm64.", :group_name "com.blockether", :jar_name "fff-native-darwin-arm64", :version "0.12.17"}
+{:created 1793797343893, :description "Native fff-c library for linux-arm64.", :group_name "com.blockether", :jar_name "fff-native-linux-arm64", :version "0.12.17"}
+{:created 1793797470468, :description "Native fff-c library for darwin-x64.", :group_name "com.blockether", :jar_name "fff-native-darwin-x64", :version "0.12.17"}
+{:created 1793797496814, :description "Native fff-c library for linux-x64.", :group_name "com.blockether", :jar_name "fff-native-linux-x64", :version "0.12.17"}
+{:created 1793798290029, :description "Native fff-c library for windows-x64.", :group_name "com.blockether", :jar_name "fff-native-windows-x64", :version "0.12.17"}
+{:created 1793798344623, :description "Clojure binding to fff — fast file and content search — via JDK FFM.", :group_name "com.blockether", :jar_name "fff", :version "0.12.17"}
+{:created 1793798549654, :description nil, :group_name "com.monkeyprojects", :jar_name "clj-scw-client", :version "0.2.1-SNAPSHOT"}
+{:created 1793799011809, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20261104.132931.d84b9c5"}
+{:created 1793799170535, :description "A Markov-chain-based name generator for games, fiction, &c.", :group_name "eigenhombre", :jar_name "namejen", :version "0.1.24"}
+{:created 1793799576153, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20261104.133916.1b6cce5"}

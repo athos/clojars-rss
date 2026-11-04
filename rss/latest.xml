@@ -4,7 +4,78 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 4 Nov 2026 13:01:15 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 4 Nov 2026 14:01:57 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/yetibot/versions/20261104.133916.1b6cce5</guid>
+    <title>[yetibot &quot;20261104.133916.1b6cce5&quot;]</title>
+    <link>https://clojars.org/yetibot/versions/20261104.133916.1b6cce5</link>
+    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
+    <pubDate>Wed, 4 Nov 2026 13:39:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/eigenhombre/namejen/versions/0.1.24</guid>
+    <title>[eigenhombre/namejen &quot;0.1.24&quot;]</title>
+    <link>https://clojars.org/eigenhombre/namejen/versions/0.1.24</link>
+    <description>A Markov-chain-based name generator for games, fiction, &amp;c.</description>
+    <pubDate>Wed, 4 Nov 2026 13:32:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/yetibot/core/versions/20261104.132931.d84b9c5</guid>
+    <title>[yetibot/core &quot;20261104.132931.d84b9c5&quot;]</title>
+    <link>https://clojars.org/yetibot/core/versions/20261104.132931.d84b9c5</link>
+    <description>Core yetibot utilities, extracted for shared use among yetibot
+                and its various plugins</description>
+    <pubDate>Wed, 4 Nov 2026 13:30:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.monkeyprojects/clj-scw-client/versions/0.2.1-SNAPSHOT</guid>
+    <title>[com.monkeyprojects/clj-scw-client &quot;0.2.1-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/com.monkeyprojects/clj-scw-client/versions/0.2.1-SNAPSHOT</link>
+    <description></description>
+    <pubDate>Wed, 4 Nov 2026 13:22:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff/versions/0.12.17</guid>
+    <title>[com.blockether/fff &quot;0.12.17&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff/versions/0.12.17</link>
+    <description>Clojure binding to fff — fast file and content search — via JDK FFM.</description>
+    <pubDate>Wed, 4 Nov 2026 13:19:04 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-windows-x64/versions/0.12.17</guid>
+    <title>[com.blockether/fff-native-windows-x64 &quot;0.12.17&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-windows-x64/versions/0.12.17</link>
+    <description>Native fff-c library for windows-x64.</description>
+    <pubDate>Wed, 4 Nov 2026 13:18:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-linux-x64/versions/0.12.17</guid>
+    <title>[com.blockether/fff-native-linux-x64 &quot;0.12.17&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-linux-x64/versions/0.12.17</link>
+    <description>Native fff-c library for linux-x64.</description>
+    <pubDate>Wed, 4 Nov 2026 13:04:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-darwin-x64/versions/0.12.17</guid>
+    <title>[com.blockether/fff-native-darwin-x64 &quot;0.12.17&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-darwin-x64/versions/0.12.17</link>
+    <description>Native fff-c library for darwin-x64.</description>
+    <pubDate>Wed, 4 Nov 2026 13:04:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-linux-arm64/versions/0.12.17</guid>
+    <title>[com.blockether/fff-native-linux-arm64 &quot;0.12.17&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-linux-arm64/versions/0.12.17</link>
+    <description>Native fff-c library for linux-arm64.</description>
+    <pubDate>Wed, 4 Nov 2026 13:02:23 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/fff-native-darwin-arm64/versions/0.12.17</guid>
+    <title>[com.blockether/fff-native-darwin-arm64 &quot;0.12.17&quot;]</title>
+    <link>https://clojars.org/com.blockether/fff-native-darwin-arm64/versions/0.12.17</link>
+    <description>Native fff-c library for darwin-arm64.</description>
+    <pubDate>Wed, 4 Nov 2026 13:02:19 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.20.7</guid>
     <title>[com.blockether/vis-lang-clojure &quot;1.20.7&quot;]</title>
@@ -1737,76 +1808,6 @@
     <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging-otlp/versions/0.2.11</link>
     <description>Provides programmatic configuration using Clojure of OpenTelemetry OTLP JSON logging exporter, intended for debugging only</description>
     <pubDate>Sun, 1 Nov 2026 17:20:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.2.11</guid>
-    <title>[com.github.steffan-westcott/clj-otel-exporter-logging &quot;0.2.11&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-exporter-logging/versions/0.2.11</link>
-    <description>Provides programmatic configuration using Clojure of OpenTelemetry logging exporter, intended for debugging only</description>
-    <pubDate>Sun, 1 Nov 2026 17:20:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.11</guid>
-    <title>[com.github.steffan-westcott/clj-otel-extension-trace-propagators &quot;0.2.11&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-extension-trace-propagators/versions/0.2.11</link>
-    <description>Provides access using Clojure to additional OpenTelemetry trace propagators</description>
-    <pubDate>Sun, 1 Nov 2026 17:20:29 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.11</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler &quot;0.2.11&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-jaeger-remote-sampler/versions/0.2.11</link>
-    <description>Provides access using Clojure to an OpenTelemetry Sampler object that implements the Jaeger remote sampler type</description>
-    <pubDate>Sun, 1 Nov 2026 17:20:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.11</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure &quot;0.2.11&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-extension-autoconfigure/versions/0.2.11</link>
-    <description>Provides access using Clojure of OpenTelemetry SDK configuration using environment variables and system properties</description>
-    <pubDate>Sun, 1 Nov 2026 17:20:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.2.11</guid>
-    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator &quot;0.2.11&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-xray-propagator/versions/0.2.11</link>
-    <description>Provides access using Clojure to a TextMapPropagator implementation compatible with the AWS X-Ray Trace Header propagation protocol</description>
-    <pubDate>Sun, 1 Nov 2026 17:20:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.2.11</guid>
-    <title>[com.github.steffan-westcott/clj-otel-contrib-aws-resources &quot;0.2.11&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-contrib-aws-resources/versions/0.2.11</link>
-    <description>Provides access using Clojure to OpenTelemetry Resource objects describing the execution environment on the Amazon Web Services (AWS) platform</description>
-    <pubDate>Sun, 1 Nov 2026 17:20:04 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.2.11</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk &quot;0.2.11&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk/versions/0.2.11</link>
-    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK</description>
-    <pubDate>Sun, 1 Nov 2026 17:19:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-common/versions/0.2.11</guid>
-    <title>[com.github.steffan-westcott/clj-otel-sdk-common &quot;0.2.11&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-sdk-common/versions/0.2.11</link>
-    <description>Provides programmatic configuration using Clojure of OpenTelemetry SDK common components</description>
-    <pubDate>Sun, 1 Nov 2026 17:19:51 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.2.11</guid>
-    <title>[com.github.steffan-westcott/clj-otel-api &quot;0.2.11&quot;]</title>
-    <link>https://clojars.org/com.github.steffan-westcott/clj-otel-api/versions/0.2.11</link>
-    <description>An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry</description>
-    <pubDate>Sun, 1 Nov 2026 17:19:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/foerster/versions/0.1.124</guid>
-    <title>[org.replikativ/foerster &quot;0.1.124&quot;]</title>
-    <link>https://clojars.org/org.replikativ/foerster/versions/0.1.124</link>
-    <description>Probabilistic inference in forkable worlds: SMC, particle MCMC, MCMC over traces, HMC blocks, variational inference and counterfactuals on spindel savepoints.</description>
-    <pubDate>Sun, 1 Nov 2026 16:49:57 +0000</pubDate>
   </item>
   </channel>
 </rss>
