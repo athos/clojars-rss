@@ -1,11 +1,3 @@
-{:created 1793587081424, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-reitit", :version "0.11.2729"}
-{:created 1793587087161, :description nil, :group_name "systems.bread", :jar_name "bread-plugin-rum", :version "0.11.2729"}
-{:created 1793587093981, :description nil, :group_name "systems.bread", :jar_name "bread-theme-rise", :version "0.11.2729"}
-{:created 1793587098764, :description nil, :group_name "systems.bread", :jar_name "bread-theme-crust", :version "0.11.2729"}
-{:created 1793589858418, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.385"}
-{:created 1793589873116, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.385"}
-{:created 1793591704473, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.581"}
-{:created 1793591724834, :description "Optional Ansatz Lean JVM interpreter runtime", :group_name "org.replikativ", :jar_name "ansatz-lean-jvm", :version "0.2.581"}
 {:created 1793591913186, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.45.1"}
 {:created 1793592600514, :description "Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct", :group_name "org.replikativ", :jar_name "ansatz", :version "0.2.582"}
 {:created 1793592652192, :description "Optional Ansatz Lean JVM interpreter runtime", :group_name "org.replikativ", :jar_name "ansatz-lean-jvm", :version "0.2.582"}
@@ -254,3 +246,11 @@
 {:created 1793895963742, :description "A Leiningen template for the Cryogen static site generator", :group_name "cryogen", :jar_name "lein-template", :version "0.8.0"}
 {:created 1793904439918, :description "Lightweight Clojure/ClojureScript library for partial continuation-passing style transformations.", :group_name "org.replikativ", :jar_name "partial-cps", :version "0.1.73"}
 {:created 1793905256873, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.11.1"}
+{:created 1793906229937, :description "A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.", :group_name "dev.arkaitz", :jar_name "web-base", :version "0.18.0"}
+{:created 1793906306495, :description "Magic-link authentication as a web-base plugin: issue a challenge, redeem it once, hand back a subject, with a standard, brandable sign-in. The ceremony itself runs under any Ring host.", :group_name "dev.arkaitz", :jar_name "auth-base", :version "0.18.0"}
+{:created 1793906415690, :description "A pooled connection with a lifecycle, migrations that run before anything serves, and a Ring session store that never upserts. Any JDBC database; HikariCP and ragtime underneath, Integrant only for the one optional namespace that ships its key.", :group_name "dev.arkaitz", :jar_name "db-base", :version "0.8.0"}
+{:created 1793907337652, :description "Clojure wrapper for com.mongodb.client Java API.", :group_name "com.timezynk", :jar_name "mongo", :version "1.0.8"}
+{:created 1793907419101, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.11.2"}
+{:created 1793908069767, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.393"}
+{:created 1793908083815, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.393"}
+{:created 1793908299797, :description "A wrapper around the Java UDP API to make it a little nicer.", :group_name "udp-wrapper", :jar_name "udp-wrapper", :version "0.1.3"}
