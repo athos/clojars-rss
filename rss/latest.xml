@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Fri, 6 Nov 2026 22:01:11 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 6 Nov 2026 23:01:23 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/db-base/versions/0.9.0</guid>
+    <title>[dev.arkaitz/db-base &quot;0.9.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/db-base/versions/0.9.0</link>
+    <description>A pooled connection with a lifecycle, migrations that run before anything serves, and a Ring session store that never upserts. Any JDBC database; HikariCP and ragtime underneath, Integrant only for the one optional namespace that ships its key.</description>
+    <pubDate>Fri, 6 Nov 2026 22:06:22 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/auth-base/versions/0.19.0</guid>
+    <title>[dev.arkaitz/auth-base &quot;0.19.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/auth-base/versions/0.19.0</link>
+    <description>Magic-link authentication as a web-base plugin: issue a challenge, redeem it once, hand back a subject, with a standard, brandable sign-in. The ceremony itself runs under any Ring host.</description>
+    <pubDate>Fri, 6 Nov 2026 22:03:52 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.arkaitz/web-base/versions/0.22.0</guid>
+    <title>[dev.arkaitz/web-base &quot;0.22.0&quot;]</title>
+    <link>https://clojars.org/dev.arkaitz/web-base/versions/0.22.0</link>
+    <description>A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.</description>
+    <pubDate>Fri, 6 Nov 2026 22:02:48 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/dk.simongray/podcast-clj/versions/0.5.3</guid>
     <title>[dk.simongray/podcast-clj &quot;0.5.3&quot;]</title>
@@ -1799,28 +1820,6 @@
     <link>https://clojars.org/org.replikativ/ansatz-lean-jvm/versions/0.2.591</link>
     <description>Optional Ansatz Lean JVM interpreter runtime</description>
     <pubDate>Mon, 2 Nov 2026 22:38:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.591</guid>
-    <title>[org.replikativ/ansatz &quot;0.2.591&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.591</link>
-    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
-    <pubDate>Mon, 2 Nov 2026 22:38:25 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20261102.223327.8342105</guid>
-    <title>[yetibot &quot;20261102.223327.8342105&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20261102.223327.8342105</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Mon, 2 Nov 2026 22:33:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/core/versions/20261102.223159.a72adbf</guid>
-    <title>[yetibot/core &quot;20261102.223159.a72adbf&quot;]</title>
-    <link>https://clojars.org/yetibot/core/versions/20261102.223159.a72adbf</link>
-    <description>Core yetibot utilities, extracted for shared use among yetibot
-                and its various plugins</description>
-    <pubDate>Mon, 2 Nov 2026 22:32:39 +0000</pubDate>
   </item>
   </channel>
 </rss>
