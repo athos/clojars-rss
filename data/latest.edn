@@ -1,24 +1,3 @@
-{:created 1793877960255, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.391"}
-{:created 1793880744903, :description "FIXME: my new library.", :group_name "net.clojars.ebifriedrice", :jar_name "parseq", :version "0.1.1"}
-{:created 1793889859583, :description "Dynamic protobuf over the pbwire C ABI, schema at runtime, no generated code", :group_name "io.github.jinganix", :jar_name "pbwire-clojure", :version "0.1.8"}
-{:created 1793890476674, :description "A functional effect and streaming system for clojure and clojurescript.", :group_name "missionary", :jar_name "missionary", :version "b.48"}
-{:created 1793891737050, :description "Manage Multiple email inboxes in one simple to use Windows desktop app", :group_name "net.clojars.inboxcabin", :jar_name "inboxcabin", :version "1.3.0"}
-{:created 1793891998985, :description "Dynamic protobuf over the pbwire C ABI, schema at runtime, no generated code", :group_name "io.github.jinganix", :jar_name "pbwire-clojure", :version "0.1.9"}
-{:created 1793894890948, :description "Dynamic protobuf over the pbwire C ABI, schema at runtime, no generated code", :group_name "io.github.jinganix", :jar_name "pbwire-clojure", :version "0.1.10"}
-{:created 1793895798121, :description "Cryogen's compiler", :group_name "cryogen-core", :jar_name "cryogen-core", :version "0.5.2"}
-{:created 1793895963742, :description "A Leiningen template for the Cryogen static site generator", :group_name "cryogen", :jar_name "lein-template", :version "0.8.0"}
-{:created 1793904439918, :description "Lightweight Clojure/ClojureScript library for partial continuation-passing style transformations.", :group_name "org.replikativ", :jar_name "partial-cps", :version "0.1.73"}
-{:created 1793905256873, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.11.1"}
-{:created 1793906229937, :description "A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.", :group_name "dev.arkaitz", :jar_name "web-base", :version "0.18.0"}
-{:created 1793906306495, :description "Magic-link authentication as a web-base plugin: issue a challenge, redeem it once, hand back a subject, with a standard, brandable sign-in. The ceremony itself runs under any Ring host.", :group_name "dev.arkaitz", :jar_name "auth-base", :version "0.18.0"}
-{:created 1793906415690, :description "A pooled connection with a lifecycle, migrations that run before anything serves, and a Ring session store that never upserts. Any JDBC database; HikariCP and ragtime underneath, Integrant only for the one optional namespace that ships its key.", :group_name "dev.arkaitz", :jar_name "db-base", :version "0.8.0"}
-{:created 1793907337652, :description "Clojure wrapper for com.mongodb.client Java API.", :group_name "com.timezynk", :jar_name "mongo", :version "1.0.8"}
-{:created 1793907419101, :description "MongoDB utilities", :group_name "com.timezynk", :jar_name "domus", :version "2.11.2"}
-{:created 1793908069767, :description "A Clojure agentic programming framework — continuous-time collaborative multi-agent rooms.", :group_name "org.replikativ", :jar_name "dvergr", :version "0.1.393"}
-{:created 1793908083815, :description "Benchmark providers for dvergr's evaluation path: tau2 and BFCL, transcribed and checked against upstream.", :group_name "org.replikativ", :jar_name "dvergr-benchmarks", :version "0.1.393"}
-{:created 1793908299797, :description "A wrapper around the Java UDP API to make it a little nicer.", :group_name "udp-wrapper", :jar_name "udp-wrapper", :version "0.1.3"}
-{:created 1793911042540, :description "A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.", :group_name "dev.arkaitz", :jar_name "web-base", :version "0.19.0"}
-{:created 1793912291257, :description "Postgres logical replication consumer for Clojure", :group_name "net.clojars.ebifriedrice", :jar_name "postlog", :version "0.1.0"}
 {:created 1793913764977, :description "Gossip dissemination of messages over unreliable networks.", :group_name "gossip", :jar_name "gossip", :version "0.2.0"}
 {:created 1793914313031, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20261105.213123.d8f9093"}
 {:created 1793914600520, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20261105.213618.9d70d64"}
@@ -254,3 +233,24 @@
 {:created 1794327596154, :description nil, :group_name "io.pedestal", :jar_name "pedestal.http-kit", :version "0.8.3"}
 {:created 1794327601081, :description nil, :group_name "io.pedestal", :jar_name "pedestal.embedded", :version "0.8.3"}
 {:created 1794329638299, :description "Clojure tools for Vis: format, lint, tests, managed nREPL and reader validation.", :group_name "com.blockether", :jar_name "vis-lang-clojure", :version "1.20.15"}
+{:created 1794334223709, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core", :version "2.340.0"}
+{:created 1794334233735, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-aws", :version "2.340.0"}
+{:created 1794334243174, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-client", :version "2.340.0"}
+{:created 1794334252598, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-clj", :version "2.340.0"}
+{:created 1794334261970, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-import", :version "2.340.0"}
+{:created 1794334271549, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-io", :version "2.340.0"}
+{:created 1794334281448, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-json", :version "2.340.0"}
+{:created 1794334289973, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-kafka", :version "2.340.0"}
+{:created 1794334299521, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-nippy", :version "2.340.0"}
+{:created 1794334309107, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-opensearch", :version "2.340.0"}
+{:created 1794334318714, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-parquet", :version "2.340.0"}
+{:created 1794334327369, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-scaffold", :version "2.340.0"}
+{:created 1794334336652, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-security", :version "2.340.0"}
+{:created 1794334345884, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-sqs", :version "2.340.0"}
+{:created 1794334354996, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-undertow", :version "2.340.0"}
+{:created 1794334364657, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-view-store-postgres", :version "2.340.0"}
+{:created 1794334373723, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-xlsx", :version "2.340.0"}
+{:created 1794334383317, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-java-lambda-runtime", :version "2.340.0"}
+{:created 1794334392477, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-router", :version "2.340.0"}
+{:created 1794336380315, :description "Clojure tools for Vis: format, lint, tests, managed nREPL and reader validation.", :group_name "com.blockether", :jar_name "vis-lang-clojure", :version "1.20.16"}
+{:created 1794337125000, :description "An immutable database", :group_name "io.github.radarroark", :jar_name "xitdb", :version "0.49.0"}
