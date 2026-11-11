@@ -1,4 +1,3 @@
-{:created 1794002632972, :description "Magic-link authentication as a web-base plugin: issue a challenge, redeem it once, hand back a subject, with a standard, brandable sign-in. The ceremony itself runs under any Ring host.", :group_name "dev.arkaitz", :jar_name "auth-base", :version "0.19.0"}
 {:created 1794002782744, :description "A pooled connection with a lifecycle, migrations that run before anything serves, and a Ring session store that never upserts. Any JDBC database; HikariCP and ragtime underneath, Integrant only for the one optional namespace that ships its key.", :group_name "dev.arkaitz", :jar_name "db-base", :version "0.9.0"}
 {:created 1794010138420, :description "A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.", :group_name "dev.arkaitz", :jar_name "web-base", :version "0.23.0"}
 {:created 1794012100507, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20261107.004125.f400332"}
@@ -254,3 +253,4 @@
 {:created 1794416416513, :description "Font Awesome 6 (solid, regular, brands) as Clojure defs, for Tyrell", :group_name "dev.gersak", :jar_name "tyrell-icons-fontawesome", :version "1.0.0-rc.21"}
 {:created 1794416424647, :description "Every Tyrell icon set, plus tyrell.icons.build/extract to ship only the icons you use", :group_name "dev.gersak", :jar_name "tyrell-icons", :version "1.0.0-rc.21"}
 {:created 1794416433095, :description "Modern web components library built with ClojureScript", :group_name "dev.gersak", :jar_name "tyrell", :version "1.0.0-rc.21"}
+{:created 1794417314912, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20261111.171455.f750377"}
