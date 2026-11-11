@@ -1,13 +1,3 @@
-{:created 1794000915853, :description "A Clojure(Script) library for writing podcast software.", :group_name "dk.simongray", :jar_name "podcast-clj", :version "0.5.3"}
-{:created 1794002568192, :description "A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.", :group_name "dev.arkaitz", :jar_name "web-base", :version "0.22.0"}
-{:created 1794002632972, :description "Magic-link authentication as a web-base plugin: issue a challenge, redeem it once, hand back a subject, with a standard, brandable sign-in. The ceremony itself runs under any Ring host.", :group_name "dev.arkaitz", :jar_name "auth-base", :version "0.19.0"}
-{:created 1794002782744, :description "A pooled connection with a lifecycle, migrations that run before anything serves, and a Ring session store that never upserts. Any JDBC database; HikariCP and ragtime underneath, Integrant only for the one optional namespace that ships its key.", :group_name "dev.arkaitz", :jar_name "db-base", :version "0.9.0"}
-{:created 1794010138420, :description "A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.", :group_name "dev.arkaitz", :jar_name "web-base", :version "0.23.0"}
-{:created 1794012100507, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20261107.004125.f400332"}
-{:created 1794023694491, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20261107.035438.453d61c"}
-{:created 1794026483659, :description "AWS in the REPL.", :group_name "rs.shaffe", :jar_name "salmon", :version "0.32.2"}
-{:created 1794027641452, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20261107.050013.f0ab0e4"}
-{:created 1794028377210, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20261107.051238.a7b8b12"}
 {:created 1794030946072, :description "Dynamic protobuf over the pbwire C ABI, schema at runtime, no generated code", :group_name "io.github.jinganix", :jar_name "pbwire-clojure", :version "0.1.13"}
 {:created 1794036019320, :description "A collection of nREPL middleware designed to enhance Clojure editors.", :group_name "cider", :jar_name "cider-nrepl", :version "0.64.1"}
 {:created 1794047848332, :description "Configuration loading and typed accessors for the Wagoe framework: Aero-based profile resolution and the accessors libraries read settings through", :group_name "com.wagoe", :jar_name "wagoe-config", :version "1.1.2"}
@@ -254,3 +244,13 @@
 {:created 1794410272544, :description "80 native Web Components with centralised theming — stateless, framework-free, zero runtime. Built with ClojureScript, compiled to tree-shakeable ESM.", :group_name "com.github.avanelsas", :jar_name "baredom", :version "4.19.0"}
 {:created 1794410824210, :description "A Clojure library for JEP 401 value objects.", :group_name "org.hugoduncan", :jar_name "value-type", :version "0.1.127"}
 {:created 1794412046221, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.234"}
+{:created 1794414083106, :description "Composable Clojure benchmark framework", :group_name "org.clojars.fiv0", :jar_name "benchy", :version "0.1.0"}
+{:created 1794414253688, :description "ClojureScript optimized for modern React development.", :group_name "lilactown", :jar_name "helix", :version "0.3.0"}
+{:created 1794414712088, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20261111.163113.0605945"}
+{:created 1794415591257, :description "A yetibot plugin for https://kroki.io/", :group_name "yetibot", :jar_name "kroki", :version "20261111.164625.6559feb"}
+{:created 1794416393088, :description "Lucide icons as Clojure defs, for Tyrell", :group_name "dev.gersak", :jar_name "tyrell-icons-lucide", :version "1.0.0-rc.21"}
+{:created 1794416399894, :description "Heroicons (outline, solid, mini, micro) as Clojure defs, for Tyrell", :group_name "dev.gersak", :jar_name "tyrell-icons-heroicons", :version "1.0.0-rc.21"}
+{:created 1794416408100, :description "Material icons (filled, outlined, round, sharp, two-tone) as Clojure defs, for Tyrell", :group_name "dev.gersak", :jar_name "tyrell-icons-material", :version "1.0.0-rc.21"}
+{:created 1794416416513, :description "Font Awesome 6 (solid, regular, brands) as Clojure defs, for Tyrell", :group_name "dev.gersak", :jar_name "tyrell-icons-fontawesome", :version "1.0.0-rc.21"}
+{:created 1794416424647, :description "Every Tyrell icon set, plus tyrell.icons.build/extract to ship only the icons you use", :group_name "dev.gersak", :jar_name "tyrell-icons", :version "1.0.0-rc.21"}
+{:created 1794416433095, :description "Modern web components library built with ClojureScript", :group_name "dev.gersak", :jar_name "tyrell", :version "1.0.0-rc.21"}
