@@ -1,5 +1,3 @@
-{:created 1794071534749, :description "Talking to Postgres via sockets, from Clojure and ClojureScript", :group_name "com.github.duanebester", :jar_name "clunk", :version "0.0.39"}
-{:created 1794072620803, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20261107.173000.c633310"}
 {:created 1794074579057, :description nil, :group_name "io.github.hive-agi", :jar_name "bb-mcp", :version "1.3.7"}
 {:created 1794075581579, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-emacs", :version "0.6.2"}
 {:created 1794075752444, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-ingest-kit", :version "0.2.2"}
@@ -254,3 +252,5 @@
 {:created 1794448509360, :description "im.ttalk clj-http - general-purpose zero-dependency HTTP client on java.net.http (request / async / line streaming / SSE / proxy)", :group_name "im.ttalk", :jar_name "clj-http", :version "0.5.449"}
 {:created 1794448742617, :description "Expose local services to the internet in one line of code: instant public HTTPS URLs with automatic TLS, through NAT and firewalls, no signup. Webhook-friendly ngrok-style reverse tunnel, with SDKs in 20 languages and a single-binary Go server.", :group_name "dev.ggcode", :jar_name "etunnel-clj", :version "1.6.3"}
 {:created 1794452903048, :description "A Clojure Companion for Jetty 12.1", :group_name "io.factorhouse", :jar_name "slipway-jetty12", :version "2.1.17"}
+{:created 1794469514141, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20261112.074438.fe07503"}
+{:created 1794469735328, :description "A command line in your chat, where chat ∈ {irc,slack}.", :group_name "yetibot", :jar_name "yetibot", :version "20261112.074834.d69eb16"}
