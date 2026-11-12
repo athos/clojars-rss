@@ -4,7 +4,126 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 12 Nov 2026 09:02:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 10:02:13 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-server-jetty/versions/0.5.457</guid>
+    <title>[im.ttalk/clj-agent-server-jetty &quot;0.5.457&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-server-jetty/versions/0.5.457</link>
+    <description>clj-agent Server Jetty - default Jetty 12 adapter/host for clj-agent-server</description>
+    <pubDate>Thu, 12 Nov 2026 09:45:41 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-server/versions/0.5.457</guid>
+    <title>[im.ttalk/clj-agent-server &quot;0.5.457&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-server/versions/0.5.457</link>
+    <description>clj-agent Server - AG-UI and MCP HTTP endpoints as Ring handlers (routing / guard / SSE / adapter shims)</description>
+    <pubDate>Thu, 12 Nov 2026 09:45:31 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-tools/versions/0.5.457</guid>
+    <title>[im.ttalk/clj-agent-tools &quot;0.5.457&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-tools/versions/0.5.457</link>
+    <description>clj-agent Tools - workspace coding tools for agents (files / edit / apply_patch / exec / web_fetch)</description>
+    <pubDate>Thu, 12 Nov 2026 09:45:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-agui/versions/0.5.457</guid>
+    <title>[im.ttalk/clj-agent-agui &quot;0.5.457&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-agui/versions/0.5.457</link>
+    <description>clj-agent AGUI - Agent runtime backend (run registry / event stream / AG-UI codec)</description>
+    <pubDate>Thu, 12 Nov 2026 09:45:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-mcp/versions/0.5.457</guid>
+    <title>[im.ttalk/clj-agent-mcp &quot;0.5.457&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-mcp/versions/0.5.457</link>
+    <description>clj-agent MCP - Model Context Protocol client + server (Streamable HTTP / stdio)</description>
+    <pubDate>Thu, 12 Nov 2026 09:45:01 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-provider/versions/0.5.457</guid>
+    <title>[im.ttalk/clj-agent-provider &quot;0.5.457&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-provider/versions/0.5.457</link>
+    <description>clj-agent LLM - LLM Provider Abstraction Module</description>
+    <pubDate>Thu, 12 Nov 2026 09:44:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-client/versions/0.5.457</guid>
+    <title>[im.ttalk/clj-agent-client &quot;0.5.457&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-client/versions/0.5.457</link>
+    <description>clj-agent Client - Agent runtime (client / ReAct loop / memory / subagent)</description>
+    <pubDate>Thu, 12 Nov 2026 09:44:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-core/versions/0.5.457</guid>
+    <title>[im.ttalk/clj-agent-core &quot;0.5.457&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-core/versions/0.5.457</link>
+    <description>clj-agent Core - ChatClient / ChatModel 原语与协议（对齐 Spring AI 命名）</description>
+    <pubDate>Thu, 12 Nov 2026 09:44:30 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-http/versions/0.5.457</guid>
+    <title>[im.ttalk/clj-http &quot;0.5.457&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-http/versions/0.5.457</link>
+    <description>im.ttalk clj-http - general-purpose zero-dependency HTTP client on java.net.http (request / async / line streaming / SSE / proxy)</description>
+    <pubDate>Thu, 12 Nov 2026 09:44:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.ggcode/etunnel-clj/versions/1.6.4</guid>
+    <title>[dev.ggcode/etunnel-clj &quot;1.6.4&quot;]</title>
+    <link>https://clojars.org/dev.ggcode/etunnel-clj/versions/1.6.4</link>
+    <description>Expose local services to the internet in one line of code: instant public HTTPS URLs with automatic TLS, through NAT and firewalls, no signup. Webhook-friendly ngrok-style reverse tunnel, with SDKs in 20 languages and a single-binary Go server.</description>
+    <pubDate>Thu, 12 Nov 2026 09:38:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gersak/tyrell/versions/1.0.0-rc.22</guid>
+    <title>[dev.gersak/tyrell &quot;1.0.0-rc.22&quot;]</title>
+    <link>https://clojars.org/dev.gersak/tyrell/versions/1.0.0-rc.22</link>
+    <description>Modern web components library built with ClojureScript</description>
+    <pubDate>Thu, 12 Nov 2026 09:18:11 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gersak/tyrell-icons/versions/1.0.0-rc.22</guid>
+    <title>[dev.gersak/tyrell-icons &quot;1.0.0-rc.22&quot;]</title>
+    <link>https://clojars.org/dev.gersak/tyrell-icons/versions/1.0.0-rc.22</link>
+    <description>Every Tyrell icon set, plus tyrell.icons.build/extract to ship only the icons you use</description>
+    <pubDate>Thu, 12 Nov 2026 09:18:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gersak/tyrell-icons-fontawesome/versions/1.0.0-rc.22</guid>
+    <title>[dev.gersak/tyrell-icons-fontawesome &quot;1.0.0-rc.22&quot;]</title>
+    <link>https://clojars.org/dev.gersak/tyrell-icons-fontawesome/versions/1.0.0-rc.22</link>
+    <description>Font Awesome 6 (solid, regular, brands) as Clojure defs, for Tyrell</description>
+    <pubDate>Thu, 12 Nov 2026 09:17:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gersak/tyrell-icons-material/versions/1.0.0-rc.22</guid>
+    <title>[dev.gersak/tyrell-icons-material &quot;1.0.0-rc.22&quot;]</title>
+    <link>https://clojars.org/dev.gersak/tyrell-icons-material/versions/1.0.0-rc.22</link>
+    <description>Material icons (filled, outlined, round, sharp, two-tone) as Clojure defs, for Tyrell</description>
+    <pubDate>Thu, 12 Nov 2026 09:17:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gersak/tyrell-icons-heroicons/versions/1.0.0-rc.22</guid>
+    <title>[dev.gersak/tyrell-icons-heroicons &quot;1.0.0-rc.22&quot;]</title>
+    <link>https://clojars.org/dev.gersak/tyrell-icons-heroicons/versions/1.0.0-rc.22</link>
+    <description>Heroicons (outline, solid, mini, micro) as Clojure defs, for Tyrell</description>
+    <pubDate>Thu, 12 Nov 2026 09:17:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.gersak/tyrell-icons-lucide/versions/1.0.0-rc.22</guid>
+    <title>[dev.gersak/tyrell-icons-lucide &quot;1.0.0-rc.22&quot;]</title>
+    <link>https://clojars.org/dev.gersak/tyrell-icons-lucide/versions/1.0.0-rc.22</link>
+    <description>Lucide icons as Clojure defs, for Tyrell</description>
+    <pubDate>Thu, 12 Nov 2026 09:17:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/thheller/shadow-cljs/versions/3.5.14</guid>
+    <title>[thheller/shadow-cljs &quot;3.5.14&quot;]</title>
+    <link>https://clojars.org/thheller/shadow-cljs/versions/3.5.14</link>
+    <description>CLJS development tools</description>
+    <pubDate>Thu, 12 Nov 2026 09:08:13 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/yetibot/versions/20261112.074834.d69eb16</guid>
     <title>[yetibot &quot;20261112.074834.d69eb16&quot;]</title>
@@ -1680,125 +1799,6 @@
     <link>https://clojars.org/org.replikativ/ansatz-lean-jvm/versions/0.2.621</link>
     <description>Optional Ansatz Lean JVM interpreter runtime</description>
     <pubDate>Sun, 8 Nov 2026 05:09:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.621</guid>
-    <title>[org.replikativ/ansatz &quot;0.2.621&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.621</link>
-    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
-    <pubDate>Sun, 8 Nov 2026 05:09:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz-lean-jvm/versions/0.2.619</guid>
-    <title>[org.replikativ/ansatz-lean-jvm &quot;0.2.619&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz-lean-jvm/versions/0.2.619</link>
-    <description>Optional Ansatz Lean JVM interpreter runtime</description>
-    <pubDate>Sun, 8 Nov 2026 04:52:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.619</guid>
-    <title>[org.replikativ/ansatz &quot;0.2.619&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.619</link>
-    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
-    <pubDate>Sun, 8 Nov 2026 04:52:07 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.muthuishere/toolnexus/versions/0.27.0</guid>
-    <title>[net.clojars.muthuishere/toolnexus &quot;0.27.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.muthuishere/toolnexus/versions/0.27.0</link>
-    <description>Dynamic MCP servers, agent skills, native functions, HTTP endpoints and A2A agents as one uniform Tool interface, with a built-in tool-calling client loop.</description>
-    <pubDate>Sun, 8 Nov 2026 03:57:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.clojure-finance/clj-yfinance/versions/0.1.11</guid>
-    <title>[com.github.clojure-finance/clj-yfinance &quot;0.1.11&quot;]</title>
-    <link>https://clojars.org/com.github.clojure-finance/clj-yfinance/versions/0.1.11</link>
-    <description></description>
-    <pubDate>Sun, 8 Nov 2026 02:08:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis/versions/0.5.6</guid>
-    <title>[com.blockether/vis &quot;0.5.6&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis/versions/0.5.6</link>
-    <description>vis - single-namespace SDK + iteration runtime + binary entry point.</description>
-    <pubDate>Sun, 8 Nov 2026 01:10:28 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-presentation/versions/0.5.6</guid>
-    <title>[com.blockether/vis-presentation &quot;0.5.6&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-presentation/versions/0.5.6</link>
-    <description>com.blockether/vis-presentation - vis monorepo package.</description>
-    <pubDate>Sun, 8 Nov 2026 01:10:22 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-contract/versions/0.5.6</guid>
-    <title>[com.blockether/vis-contract &quot;0.5.6&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-contract/versions/0.5.6</link>
-    <description>com.blockether/vis-contract - vis monorepo package.</description>
-    <pubDate>Sun, 8 Nov 2026 01:10:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-mcp/versions/1.16.2</guid>
-    <title>[io.github.hive-agi/hive-mcp &quot;1.16.2&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-mcp/versions/1.16.2</link>
-    <description></description>
-    <pubDate>Sun, 8 Nov 2026 00:10:14 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-emacs/versions/0.6.3</guid>
-    <title>[io.github.hive-agi/hive-emacs &quot;0.6.3&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-emacs/versions/0.6.3</link>
-    <description></description>
-    <pubDate>Sat, 7 Nov 2026 23:51:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/bb-mcp/versions/1.3.8</guid>
-    <title>[io.github.hive-agi/bb-mcp &quot;1.3.8&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/bb-mcp/versions/1.3.8</link>
-    <description></description>
-    <pubDate>Sat, 7 Nov 2026 23:16:43 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/bb-depsolve/versions/0.6.9</guid>
-    <title>[io.github.hive-agi/bb-depsolve &quot;0.6.9&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/bb-depsolve/versions/0.6.9</link>
-    <description></description>
-    <pubDate>Sat, 7 Nov 2026 23:15:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.20.8</guid>
-    <title>[com.blockether/vis-lang-clojure &quot;1.20.8&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.20.8</link>
-    <description>Clojure tools for Vis: format, lint, tests, managed nREPL and reader validation.</description>
-    <pubDate>Sat, 7 Nov 2026 23:11:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-claude/versions/0.2.4</guid>
-    <title>[io.github.hive-agi/hive-claude &quot;0.2.4&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-claude/versions/0.2.4</link>
-    <description></description>
-    <pubDate>Sat, 7 Nov 2026 22:39:54 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-overarch/versions/0.2.3</guid>
-    <title>[io.github.hive-agi/hive-overarch &quot;0.2.3&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-overarch/versions/0.2.3</link>
-    <description></description>
-    <pubDate>Sat, 7 Nov 2026 22:35:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-milvus/versions/0.6.2</guid>
-    <title>[io.github.hive-agi/hive-milvus &quot;0.6.2&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-milvus/versions/0.6.2</link>
-    <description></description>
-    <pubDate>Sat, 7 Nov 2026 22:35:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.hive-agi/hive-qdrant/versions/0.2.6</guid>
-    <title>[io.github.hive-agi/hive-qdrant &quot;0.2.6&quot;]</title>
-    <link>https://clojars.org/io.github.hive-agi/hive-qdrant/versions/0.2.6</link>
-    <description></description>
-    <pubDate>Sat, 7 Nov 2026 22:35:44 +0000</pubDate>
   </item>
   </channel>
 </rss>
