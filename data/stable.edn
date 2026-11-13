@@ -1,5 +1,3 @@
-{:created 1794326799857, :description "Local text-embedding inference for Clojure: run sentence-transformers ONNX models in-process.", :group_name "net.clojars.savya", :jar_name "embeddings-clj", :version "0.7.3"}
-{:created 1794326836913, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.4.5"}
 {:created 1794326851322, :description "AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.", :group_name "net.clojars.savya", :jar_name "psql-clj-aws", :version "3.0.4"}
 {:created 1794327068240, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.48.0"}
 {:created 1794327553484, :description nil, :group_name "io.pedestal", :jar_name "pedestal.common", :version "0.8.3"}
@@ -254,3 +252,5 @@
 {:created 1794596999921, :description "Workflow orchestration library for Wagoe framework", :group_name "com.wagoe", :jar_name "wagoe-workflow", :version "1.2.0"}
 {:created 1794597057196, :description "Developer tooling for the Wagoe framework: scaffolding, AI assistance, i18n management, deployment and development utilities", :group_name "com.wagoe", :jar_name "wagoe-tools", :version "1.2.0"}
 {:created 1794597076628, :description "Development tools and dashboard for the Wagoe framework: dev dashboard, REPL utilities, system inspection", :group_name "com.wagoe", :jar_name "wagoe-devtools", :version "1.2.0"}
+{:created 1794597096041, :description "Model Context Protocol server for the Wagoe framework (stdio transport)", :group_name "com.wagoe", :jar_name "wagoe-mcp", :version "1.2.0"}
+{:created 1794600666640, :description "Embeddable, immutable database.", :group_name "io.github.codeboost", :jar_name "xitdb-clj", :version "0.7.3"}
