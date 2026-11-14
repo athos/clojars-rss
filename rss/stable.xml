@@ -4,7 +4,44 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 14 Nov 2026 01:02:15 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 02:02:38 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.vaelii/vaelii-agents/versions/0.33.0</guid>
+    <title>[com.vaelii/vaelii-agents &quot;0.33.0&quot;]</title>
+    <link>https://clojars.org/com.vaelii/vaelii-agents/versions/0.33.0</link>
+    <description>Agent-facing code for vaelii: model-provider clients and the KB read
+                tools a model calls, generated from the daemon&#39;s op table.</description>
+    <pubDate>Sat, 14 Nov 2026 01:42:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.vaelii/sqlite/versions/0.33.0</guid>
+    <title>[com.vaelii/sqlite &quot;0.33.0&quot;]</title>
+    <link>https://clojars.org/com.vaelii/sqlite/versions/0.33.0</link>
+    <description>SQLite targets for vaelii&#39;s storage protocols. The first is the
+                snapshot sink (vaelii.sqlite.snapshot): a SnapshotSink /
+                SnapshotSource over a single SQLite file, so a KB image — the index
+                projection today, any of io.snapshot&#39;s named sections — lands in a
+                zero-configuration file as a few bulk transactions and reads back
+                the same way. An Apache-2.0 adapter on the SSPL engine, depending on
+                core, never depended on by it.</description>
+    <pubDate>Sat, 14 Nov 2026 01:32:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.vaelii/postgres/versions/0.33.0</guid>
+    <title>[com.vaelii/postgres &quot;0.33.0&quot;]</title>
+    <link>https://clojars.org/com.vaelii/postgres/versions/0.33.0</link>
+    <description>Postgres targets for vaelii&#39;s storage protocols, in two independent
+                lanes. The record store (vaelii.postgres.record-store) puts a KB&#39;s
+                durable ground truth in a database — core selects it as :pg-memory
+                or :pg-disk-log — with COPY on the bulk path, a fetch LRU in front of a
+                round-trip point read, and cursor-streamed enumerations. The
+                snapshot sink (vaelii.postgres.snapshot) is a SnapshotSink /
+                SnapshotSource, so a KB image — the index projection today, any of
+                io.snapshot&#39;s named sections — lands in a database as a few bulk
+                transactions and reads back the same way. An Apache-2.0 adapter on
+                the SSPL engine, depending on core, never depended on by it.</description>
+    <pubDate>Sat, 14 Nov 2026 01:31:21 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/djblue/portal/versions/0.69.0</guid>
     <title>[djblue/portal &quot;0.69.0&quot;]</title>
@@ -1781,27 +1818,6 @@
     <link>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.20.15</link>
     <description>Clojure tools for Vis: format, lint, tests, managed nREPL and reader validation.</description>
     <pubDate>Tue, 10 Nov 2026 16:53:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.embedded/versions/0.8.3</guid>
-    <title>[io.pedestal/pedestal.embedded &quot;0.8.3&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.embedded/versions/0.8.3</link>
-    <description></description>
-    <pubDate>Tue, 10 Nov 2026 16:20:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.http-kit/versions/0.8.3</guid>
-    <title>[io.pedestal/pedestal.http-kit &quot;0.8.3&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.http-kit/versions/0.8.3</link>
-    <description></description>
-    <pubDate>Tue, 10 Nov 2026 16:19:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.pedestal/pedestal.jetty/versions/0.8.3</guid>
-    <title>[io.pedestal/pedestal.jetty &quot;0.8.3&quot;]</title>
-    <link>https://clojars.org/io.pedestal/pedestal.jetty/versions/0.8.3</link>
-    <description></description>
-    <pubDate>Tue, 10 Nov 2026 16:19:51 +0000</pubDate>
   </item>
   </channel>
 </rss>
