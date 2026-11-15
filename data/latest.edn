@@ -1,7 +1,3 @@
-{:created 1794414712088, :description "Core yetibot utilities, extracted for shared use among yetibot\n                and its various plugins", :group_name "yetibot", :jar_name "core", :version "20261111.163113.0605945"}
-{:created 1794415591257, :description "A yetibot plugin for https://kroki.io/", :group_name "yetibot", :jar_name "kroki", :version "20261111.164625.6559feb"}
-{:created 1794416393088, :description "Lucide icons as Clojure defs, for Tyrell", :group_name "dev.gersak", :jar_name "tyrell-icons-lucide", :version "1.0.0-rc.21"}
-{:created 1794416399894, :description "Heroicons (outline, solid, mini, micro) as Clojure defs, for Tyrell", :group_name "dev.gersak", :jar_name "tyrell-icons-heroicons", :version "1.0.0-rc.21"}
 {:created 1794416408100, :description "Material icons (filled, outlined, round, sharp, two-tone) as Clojure defs, for Tyrell", :group_name "dev.gersak", :jar_name "tyrell-icons-material", :version "1.0.0-rc.21"}
 {:created 1794416416513, :description "Font Awesome 6 (solid, regular, brands) as Clojure defs, for Tyrell", :group_name "dev.gersak", :jar_name "tyrell-icons-fontawesome", :version "1.0.0-rc.21"}
 {:created 1794416424647, :description "Every Tyrell icon set, plus tyrell.icons.build/extract to ship only the icons you use", :group_name "dev.gersak", :jar_name "tyrell-icons", :version "1.0.0-rc.21"}
@@ -254,3 +250,7 @@
 {:created 1794695602320, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-java-lambda-runtime", :version "2.343.0"}
 {:created 1794695622184, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-router", :version "2.343.0"}
 {:created 1794696085269, :description "A colour engine that derives an accessible palette, light and dark, from one brand colour, a CSS kit whose every rule a host can override, and Hiccup components for web-base hosts.", :group_name "dev.arkaitz", :jar_name "uikit-base", :version "0.2.0"}
+{:created 1794697634031, :description "Expose local services to the internet in one line of code: instant public HTTPS URLs with automatic TLS, through NAT and firewalls, no signup. Webhook-friendly ngrok-style reverse tunnel, with SDKs in 20 languages and a single-binary Go server.", :group_name "dev.ggcode", :jar_name "etunnel-clj", :version "1.7.2"}
+{:created 1794698562779, :description "A colour engine that derives an accessible palette, light and dark, from one brand colour, a CSS kit whose every rule a host can override, and Hiccup components for web-base hosts.", :group_name "dev.arkaitz", :jar_name "uikit-base", :version "0.3.0"}
+{:created 1794699763688, :description "JavaScript runtime and platform detection for ClojureScript, nbb, Cherry, Clojurific and Squint", :group_name "io.github.paintparty", :jar_name "js-runtime-detection", :version "0.1.0"}
+{:created 1794700435700, :description "Terminal color profile detection", :group_name "io.github.paintparty", :jar_name "supports-color", :version "0.1.1"}
