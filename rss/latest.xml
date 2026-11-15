@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 15 Nov 2026 09:02:02 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 10:01:25 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-web-widgets/versions/2.263.0</guid>
+    <title>[com.alpha-prosoft/edd-web-widgets &quot;2.263.0&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-web-widgets/versions/2.263.0</link>
+    <description></description>
+    <pubDate>Sun, 15 Nov 2026 09:50:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-web-primitives-ui-sdk/versions/2.263.0</guid>
+    <title>[com.alpha-prosoft/edd-web-primitives-ui-sdk &quot;2.263.0&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-web-primitives-ui-sdk/versions/2.263.0</link>
+    <description>Playwright actions for edd-web-primitives, addressed by el-id.</description>
+    <pubDate>Sun, 15 Nov 2026 09:50:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-web-primitives/versions/2.263.0</guid>
+    <title>[com.alpha-prosoft/edd-web-primitives &quot;2.263.0&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-web-primitives/versions/2.263.0</link>
+    <description>MUI based Reagent/re-frame web primitives.</description>
+    <pubDate>Sun, 15 Nov 2026 09:50:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-web-frame/versions/2.263.0</guid>
+    <title>[com.alpha-prosoft/edd-web-frame &quot;2.263.0&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-web-frame/versions/2.263.0</link>
+    <description></description>
+    <pubDate>Sun, 15 Nov 2026 09:50:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-core-web-playwright/versions/2.263.0</guid>
+    <title>[com.alpha-prosoft/edd-core-web-playwright &quot;2.263.0&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-core-web-playwright/versions/2.263.0</link>
+    <description></description>
+    <pubDate>Sun, 15 Nov 2026 09:50:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-core-web/versions/2.263.0</guid>
+    <title>[com.alpha-prosoft/edd-core-web &quot;2.263.0&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-core-web/versions/2.263.0</link>
+    <description></description>
+    <pubDate>Sun, 15 Nov 2026 09:49:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.61</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.61&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.61</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Sun, 15 Nov 2026 09:48:34 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.typedclojure/typed.malli/versions/1.4.1-SNAPSHOT</guid>
     <title>[org.typedclojure/typed.malli &quot;1.4.1-SNAPSHOT&quot;]</title>
@@ -1768,55 +1817,6 @@
     <link>https://clojars.org/com.biffweb/xtdb/versions/2.0.6</link>
     <description></description>
     <pubDate>Thu, 12 Nov 2026 01:41:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/sqlite/versions/2.0.6</guid>
-    <title>[com.biffweb/sqlite &quot;2.0.6&quot;]</title>
-    <link>https://clojars.org/com.biffweb/sqlite/versions/2.0.6</link>
-    <description></description>
-    <pubDate>Thu, 12 Nov 2026 01:41:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/graph/versions/2.0.6</guid>
-    <title>[com.biffweb/graph &quot;2.0.6&quot;]</title>
-    <link>https://clojars.org/com.biffweb/graph/versions/2.0.6</link>
-    <description></description>
-    <pubDate>Thu, 12 Nov 2026 01:41:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/fx/versions/2.0.6</guid>
-    <title>[com.biffweb/fx &quot;2.0.6&quot;]</title>
-    <link>https://clojars.org/com.biffweb/fx/versions/2.0.6</link>
-    <description></description>
-    <pubDate>Thu, 12 Nov 2026 01:41:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/config/versions/2.0.6</guid>
-    <title>[com.biffweb/config &quot;2.0.6&quot;]</title>
-    <link>https://clojars.org/com.biffweb/config/versions/2.0.6</link>
-    <description></description>
-    <pubDate>Thu, 12 Nov 2026 01:41:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/core/versions/2.0.6</guid>
-    <title>[com.biffweb/core &quot;2.0.6&quot;]</title>
-    <link>https://clojars.org/com.biffweb/core/versions/2.0.6</link>
-    <description></description>
-    <pubDate>Thu, 12 Nov 2026 01:41:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.biffweb/stuff/versions/2.0.6</guid>
-    <title>[com.biffweb/stuff &quot;2.0.6&quot;]</title>
-    <link>https://clojars.org/com.biffweb/stuff/versions/2.0.6</link>
-    <description></description>
-    <pubDate>Thu, 12 Nov 2026 01:40:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/tech.thomascothran/pavlov-explorer/versions/5.0.313</guid>
-    <title>[tech.thomascothran/pavlov-explorer &quot;5.0.313&quot;]</title>
-    <link>https://clojars.org/tech.thomascothran/pavlov-explorer/versions/5.0.313</link>
-    <description>Pavlov Explorer</description>
-    <pubDate>Thu, 12 Nov 2026 01:17:27 +0000</pubDate>
   </item>
   </channel>
 </rss>

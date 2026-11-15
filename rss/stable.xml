@@ -4,7 +4,56 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sun, 15 Nov 2026 09:02:02 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 10:01:25 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-web-widgets/versions/2.263.0</guid>
+    <title>[com.alpha-prosoft/edd-web-widgets &quot;2.263.0&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-web-widgets/versions/2.263.0</link>
+    <description></description>
+    <pubDate>Sun, 15 Nov 2026 09:50:45 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-web-primitives-ui-sdk/versions/2.263.0</guid>
+    <title>[com.alpha-prosoft/edd-web-primitives-ui-sdk &quot;2.263.0&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-web-primitives-ui-sdk/versions/2.263.0</link>
+    <description>Playwright actions for edd-web-primitives, addressed by el-id.</description>
+    <pubDate>Sun, 15 Nov 2026 09:50:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-web-primitives/versions/2.263.0</guid>
+    <title>[com.alpha-prosoft/edd-web-primitives &quot;2.263.0&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-web-primitives/versions/2.263.0</link>
+    <description>MUI based Reagent/re-frame web primitives.</description>
+    <pubDate>Sun, 15 Nov 2026 09:50:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-web-frame/versions/2.263.0</guid>
+    <title>[com.alpha-prosoft/edd-web-frame &quot;2.263.0&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-web-frame/versions/2.263.0</link>
+    <description></description>
+    <pubDate>Sun, 15 Nov 2026 09:50:17 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-core-web-playwright/versions/2.263.0</guid>
+    <title>[com.alpha-prosoft/edd-core-web-playwright &quot;2.263.0&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-core-web-playwright/versions/2.263.0</link>
+    <description></description>
+    <pubDate>Sun, 15 Nov 2026 09:50:07 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.alpha-prosoft/edd-core-web/versions/2.263.0</guid>
+    <title>[com.alpha-prosoft/edd-core-web &quot;2.263.0&quot;]</title>
+    <link>https://clojars.org/com.alpha-prosoft/edd-core-web/versions/2.263.0</link>
+    <description></description>
+    <pubDate>Sun, 15 Nov 2026 09:49:58 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.61</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.61&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.61</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Sun, 15 Nov 2026 09:48:34 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/dev.ggcode/etunnel-clj/versions/1.7.4</guid>
     <title>[dev.ggcode/etunnel-clj &quot;1.7.4&quot;]</title>
@@ -1768,55 +1817,6 @@
     <link>https://clojars.org/com.tekservix/smsgora-clj/versions/1.0.0</link>
     <description>SMS Gora SMS Gateway: Clojure client by Tekservix. Send and receive SMS through your own Android phones, with delivery reports and signed webhooks.</description>
     <pubDate>Thu, 12 Nov 2026 00:39:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis/versions/0.5.15</guid>
-    <title>[com.blockether/vis &quot;0.5.15&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis/versions/0.5.15</link>
-    <description>vis - single-namespace SDK + iteration runtime + binary entry point.</description>
-    <pubDate>Wed, 11 Nov 2026 23:26:12 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-presentation/versions/0.5.15</guid>
-    <title>[com.blockether/vis-presentation &quot;0.5.15&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-presentation/versions/0.5.15</link>
-    <description>com.blockether/vis-presentation - vis monorepo package.</description>
-    <pubDate>Wed, 11 Nov 2026 23:26:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/vis-contract/versions/0.5.15</guid>
-    <title>[com.blockether/vis-contract &quot;0.5.15&quot;]</title>
-    <link>https://clojars.org/com.blockether/vis-contract/versions/0.5.15</link>
-    <description>com.blockether/vis-contract - vis monorepo package.</description>
-    <pubDate>Wed, 11 Nov 2026 23:26:01 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.jinganix/pbwire-clojure/versions/0.1.16</guid>
-    <title>[io.github.jinganix/pbwire-clojure &quot;0.1.16&quot;]</title>
-    <link>https://clojars.org/io.github.jinganix/pbwire-clojure/versions/0.1.16</link>
-    <description>Dynamic protobuf over the pbwire C ABI, schema at runtime, no generated code</description>
-    <pubDate>Wed, 11 Nov 2026 22:54:42 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ai.badmonkey.agentspaces/agentspaces-datascript/versions/0.6.0</guid>
-    <title>[ai.badmonkey.agentspaces/agentspaces-datascript &quot;0.6.0&quot;]</title>
-    <link>https://clojars.org/ai.badmonkey.agentspaces/agentspaces-datascript/versions/0.6.0</link>
-    <description>A DataScript database on an AgentSpaces persistent ref: the indexes as content-addressed nodes, the tail on the head, restored lazily on restart and shared with every member.</description>
-    <pubDate>Wed, 11 Nov 2026 22:11:31 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ai.badmonkey.agentspaces/agentspaces-clj/versions/0.6.0</guid>
-    <title>[ai.badmonkey.agentspaces/agentspaces-clj &quot;0.6.0&quot;]</title>
-    <link>https://clojars.org/ai.badmonkey.agentspaces/agentspaces-clj/versions/0.6.0</link>
-    <description>Idiomatic Clojure bindings for AgentSpaces: the shared, leased, replicated tuple space and its peer-to-peer fabric, driven with maps, keywords, and functions.</description>
-    <pubDate>Wed, 11 Nov 2026 21:59:53 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/fi.metosin/signaali/versions/0.1.1</guid>
-    <title>[fi.metosin/signaali &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/fi.metosin/signaali/versions/0.1.1</link>
-    <description>Small, portable and flexible implementation of signals</description>
-    <pubDate>Wed, 11 Nov 2026 19:58:34 +0000</pubDate>
   </item>
   </channel>
 </rss>
