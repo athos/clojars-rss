@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 16 Nov 2026 21:01:21 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 22:01:27 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.64</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.64&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.64</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Mon, 16 Nov 2026 22:00:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-tmux/versions/0.2.5</guid>
+    <title>[io.github.hive-agi/hive-tmux &quot;0.2.5&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-tmux/versions/0.2.5</link>
+    <description></description>
+    <pubDate>Mon, 16 Nov 2026 21:39:20 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.ggcode/etunnel-clj/versions/1.7.11</guid>
+    <title>[dev.ggcode/etunnel-clj &quot;1.7.11&quot;]</title>
+    <link>https://clojars.org/dev.ggcode/etunnel-clj/versions/1.7.11</link>
+    <description>Expose local services to the internet in one line of code: instant public HTTPS URLs with automatic TLS, through NAT and firewalls, no signup. Webhook-friendly ngrok-style reverse tunnel, with SDKs in 20 languages and a single-binary Go server.</description>
+    <pubDate>Mon, 16 Nov 2026 21:10:31 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.supabase-community/realtime/versions/1.6.1</guid>
     <title>[io.github.supabase-community/realtime &quot;1.6.1&quot;]</title>
@@ -1791,27 +1812,6 @@
     <link>https://clojars.org/io.github.joshrotenberg/cljev/versions/0.1.1</link>
     <description>A client for TypeSafe&#39;s System One API and its Jev models, for Babashka and the JVM</description>
     <pubDate>Thu, 12 Nov 2026 22:07:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.s-exp/enso/versions/1.0.0-beta140</guid>
-    <title>[com.s-exp/enso &quot;1.0.0-beta140&quot;]</title>
-    <link>https://clojars.org/com.s-exp/enso/versions/1.0.0-beta140</link>
-    <description>Zero-dep, near 0-alloc, High Performance Ring adapter for Clojure</description>
-    <pubDate>Thu, 12 Nov 2026 21:25:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz-lean-jvm/versions/0.2.633</guid>
-    <title>[org.replikativ/ansatz-lean-jvm &quot;0.2.633&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz-lean-jvm/versions/0.2.633</link>
-    <description>Optional Ansatz Lean JVM interpreter runtime</description>
-    <pubDate>Thu, 12 Nov 2026 21:08:52 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/ansatz/versions/0.2.633</guid>
-    <title>[org.replikativ/ansatz &quot;0.2.633&quot;]</title>
-    <link>https://clojars.org/org.replikativ/ansatz/versions/0.2.633</link>
-    <description>Verified Clojure via Lean 4 Mathlib — write Clojure, prove it correct</description>
-    <pubDate>Thu, 12 Nov 2026 21:08:07 +0000</pubDate>
   </item>
   </channel>
 </rss>
