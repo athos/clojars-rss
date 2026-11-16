@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 16 Nov 2026 16:02:29 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 17:01:17 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/markdown-clj/versions/1.12.13</guid>
+    <title>[markdown-clj &quot;1.12.13&quot;]</title>
+    <link>https://clojars.org/markdown-clj/versions/1.12.13</link>
+    <description>Markdown parser</description>
+    <pubDate>Mon, 16 Nov 2026 16:26:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.63</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.63&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.63</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Mon, 16 Nov 2026 16:07:46 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/markdown-clj/versions/1.12.12</guid>
     <title>[markdown-clj &quot;1.12.12&quot;]</title>
@@ -1798,20 +1812,6 @@
     <link>https://clojars.org/org.babashka/json/versions/0.1.7</link>
     <description></description>
     <pubDate>Thu, 12 Nov 2026 22:18:57 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.joshrotenberg/cljev/versions/0.1.1</guid>
-    <title>[io.github.joshrotenberg/cljev &quot;0.1.1&quot;]</title>
-    <link>https://clojars.org/io.github.joshrotenberg/cljev/versions/0.1.1</link>
-    <description>A client for TypeSafe&#39;s System One API and its Jev models, for Babashka and the JVM</description>
-    <pubDate>Thu, 12 Nov 2026 22:07:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.s-exp/enso/versions/1.0.0-beta140</guid>
-    <title>[com.s-exp/enso &quot;1.0.0-beta140&quot;]</title>
-    <link>https://clojars.org/com.s-exp/enso/versions/1.0.0-beta140</link>
-    <description>Zero-dep, near 0-alloc, High Performance Ring adapter for Clojure</description>
-    <pubDate>Thu, 12 Nov 2026 21:25:24 +0000</pubDate>
   </item>
   </channel>
 </rss>

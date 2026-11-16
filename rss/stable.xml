@@ -4,7 +4,21 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Mon, 16 Nov 2026 16:02:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 17:01:17 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/markdown-clj/versions/1.12.13</guid>
+    <title>[markdown-clj &quot;1.12.13&quot;]</title>
+    <link>https://clojars.org/markdown-clj/versions/1.12.13</link>
+    <description>Markdown parser</description>
+    <pubDate>Mon, 16 Nov 2026 16:26:09 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.63</guid>
+    <title>[com.blockether/lanterna &quot;3.1.5-vis.63&quot;]</title>
+    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.63</link>
+    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
+    <pubDate>Mon, 16 Nov 2026 16:07:46 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/markdown-clj/versions/1.12.12</guid>
     <title>[markdown-clj &quot;1.12.12&quot;]</title>
@@ -1798,21 +1812,6 @@
     <link>https://clojars.org/com.blockether/svar/versions/0.7.235</link>
     <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
     <pubDate>Thu, 12 Nov 2026 16:53:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/versions/20261112.152704.2042a1c</guid>
-    <title>[yetibot &quot;20261112.152704.2042a1c&quot;]</title>
-    <link>https://clojars.org/yetibot/versions/20261112.152704.2042a1c</link>
-    <description>A command line in your chat, where chat ∈ {irc,slack}.</description>
-    <pubDate>Thu, 12 Nov 2026 15:27:21 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/yetibot/core/versions/20261112.152303.5b28e88</guid>
-    <title>[yetibot/core &quot;20261112.152303.5b28e88&quot;]</title>
-    <link>https://clojars.org/yetibot/core/versions/20261112.152303.5b28e88</link>
-    <description>Core yetibot utilities, extracted for shared use among yetibot
-                and its various plugins</description>
-    <pubDate>Thu, 12 Nov 2026 15:23:41 +0000</pubDate>
   </item>
   </channel>
 </rss>
