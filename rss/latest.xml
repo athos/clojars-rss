@@ -4,7 +4,91 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 17 Nov 2026 05:02:15 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 06:02:58 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/com.blockether/vis/versions/0.5.20</guid>
+    <title>[com.blockether/vis &quot;0.5.20&quot;]</title>
+    <link>https://clojars.org/com.blockether/vis/versions/0.5.20</link>
+    <description>vis - single-namespace SDK + iteration runtime + binary entry point.</description>
+    <pubDate>Tue, 17 Nov 2026 05:55:38 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/vis-presentation/versions/0.5.20</guid>
+    <title>[com.blockether/vis-presentation &quot;0.5.20&quot;]</title>
+    <link>https://clojars.org/com.blockether/vis-presentation/versions/0.5.20</link>
+    <description>com.blockether/vis-presentation - vis monorepo package.</description>
+    <pubDate>Tue, 17 Nov 2026 05:55:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.blockether/vis-contract/versions/0.5.20</guid>
+    <title>[com.blockether/vis-contract &quot;0.5.20&quot;]</title>
+    <link>https://clojars.org/com.blockether/vis-contract/versions/0.5.20</link>
+    <description>com.blockether/vis-contract - vis monorepo package.</description>
+    <pubDate>Tue, 17 Nov 2026 05:55:26 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.5</guid>
+    <title>[net.clojars.savya/psql-clj-aws &quot;3.0.5&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.5</link>
+    <description>AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.</description>
+    <pubDate>Tue, 17 Nov 2026 05:38:49 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.6</guid>
+    <title>[net.clojars.savya/psql-clj &quot;2.4.6&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.6</link>
+    <description>PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.</description>
+    <pubDate>Tue, 17 Nov 2026 05:38:36 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/embeddings-clj/versions/0.7.4</guid>
+    <title>[net.clojars.savya/embeddings-clj &quot;0.7.4&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/embeddings-clj/versions/0.7.4</link>
+    <description>Local text-embedding inference for Clojure: run sentence-transformers ONNX models in-process.</description>
+    <pubDate>Tue, 17 Nov 2026 05:38:03 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.50.0</guid>
+    <title>[net.clojars.savya/anthropic-clj &quot;0.50.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.50.0</link>
+    <description>Idiomatic Clojure wrapper over the official Anthropic Java SDK</description>
+    <pubDate>Tue, 17 Nov 2026 05:37:32 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.50.0</guid>
+    <title>[net.clojars.savya/openai-clj &quot;0.50.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.50.0</link>
+    <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
+    <pubDate>Tue, 17 Nov 2026 05:37:08 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/jose-clj/versions/0.9.2</guid>
+    <title>[net.clojars.savya/jose-clj &quot;0.9.2&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/jose-clj/versions/0.9.2</link>
+    <description>Idiomatic Clojure JOSE: JWS, JWE, JWK/JWKS, and JWT (signed, encrypted, nested) over Nimbus JOSE+JWT.</description>
+    <pubDate>Tue, 17 Nov 2026 05:34:16 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/clj-oauth/versions/1.10.3</guid>
+    <title>[net.clojars.savya/clj-oauth &quot;1.10.3&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/clj-oauth/versions/1.10.3</link>
+    <description>OAuth support for Clojure</description>
+    <pubDate>Tue, 17 Nov 2026 05:34:10 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/inet.data/versions/3.0.3</guid>
+    <title>[net.clojars.savya/inet.data &quot;3.0.3&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/inet.data/versions/3.0.3</link>
+    <description>Represent and manipulate various Internet entities as data.</description>
+    <pubDate>Tue, 17 Nov 2026 05:34:02 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/pdfplumber-clj/versions/2.0.2</guid>
+    <title>[net.clojars.savya/pdfplumber-clj &quot;2.0.2&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/pdfplumber-clj/versions/2.0.2</link>
+    <description>Plain-data PDF extraction for Clojure: text, words, characters, and geometric objects.</description>
+    <pubDate>Tue, 17 Nov 2026 05:33:54 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.alpha-prosoft/edd-web-widgets/versions/2.266.0</guid>
     <title>[com.alpha-prosoft/edd-web-widgets &quot;2.266.0&quot;]</title>
@@ -1728,90 +1812,6 @@
     <link>https://clojars.org/com.wagoe/wagoe-storage/versions/1.2.0</link>
     <description>Storage library for Wagoe framework: local filesystem and S3 adapters</description>
     <pubDate>Fri, 13 Nov 2026 19:02:56 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-i18n/versions/1.2.0</guid>
-    <title>[com.wagoe/wagoe-i18n &quot;1.2.0&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-i18n/versions/1.2.0</link>
-    <description>Internationalisation (i18n) for Wagoe framework: marker-based translation, locale selection, Hiccup postwalk rendering, and catalogue management</description>
-    <pubDate>Fri, 13 Nov 2026 19:02:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-observability/versions/1.2.0</guid>
-    <title>[com.wagoe/wagoe-observability &quot;1.2.0&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-observability/versions/1.2.0</link>
-    <description>Observability library for Wagoe framework: logging, metrics, error reporting</description>
-    <pubDate>Fri, 13 Nov 2026 19:01:37 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-core/versions/1.2.0</guid>
-    <title>[com.wagoe/wagoe-core &quot;1.2.0&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-core/versions/1.2.0</link>
-    <description>Foundation library for Wagoe framework: validation, utilities, interceptors</description>
-    <pubDate>Fri, 13 Nov 2026 19:01:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.wagoe/wagoe-config/versions/1.2.0</guid>
-    <title>[com.wagoe/wagoe-config &quot;1.2.0&quot;]</title>
-    <link>https://clojars.org/com.wagoe/wagoe-config/versions/1.2.0</link>
-    <description>Configuration loading and typed accessors for the Wagoe framework: Aero-based profile resolution and the accessors libraries read settings through</description>
-    <pubDate>Fri, 13 Nov 2026 19:00:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.martinverup/java-http/versions/0.1.0</guid>
-    <title>[io.github.martinverup/java-http &quot;0.1.0&quot;]</title>
-    <link>https://clojars.org/io.github.martinverup/java-http/versions/0.1.0</link>
-    <description></description>
-    <pubDate>Fri, 13 Nov 2026 18:40:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.7.238</guid>
-    <title>[com.blockether/svar &quot;0.7.238&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.7.238</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Fri, 13 Nov 2026 17:41:26 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.pooriayousefi/mcp.clj/versions/1.0.3</guid>
-    <title>[org.clojars.pooriayousefi/mcp.clj &quot;1.0.3&quot;]</title>
-    <link>https://clojars.org/org.clojars.pooriayousefi/mcp.clj/versions/1.0.3</link>
-    <description>Pure Clojure SDK for the Model Context Protocol (MCP).</description>
-    <pubDate>Fri, 13 Nov 2026 17:38:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.pooriayousefi/ajent/versions/2.2.0</guid>
-    <title>[org.clojars.pooriayousefi/ajent &quot;2.2.0&quot;]</title>
-    <link>https://clojars.org/org.clojars.pooriayousefi/ajent/versions/2.2.0</link>
-    <description>aJent: MCP-native Agentic AI Framework with offline + online LLM provider support</description>
-    <pubDate>Fri, 13 Nov 2026 16:53:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.clojars.pooriayousefi/mcp.clj/versions/1.0.2</guid>
-    <title>[org.clojars.pooriayousefi/mcp.clj &quot;1.0.2&quot;]</title>
-    <link>https://clojars.org/org.clojars.pooriayousefi/mcp.clj/versions/1.0.2</link>
-    <description>Pure Clojure SDK for the Model Context Protocol (MCP).</description>
-    <pubDate>Fri, 13 Nov 2026 16:46:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.fulcrologic/fulcro-statechart-routing/versions/1.0.0-RC1</guid>
-    <title>[com.fulcrologic/fulcro-statechart-routing &quot;1.0.0-RC1&quot;]</title>
-    <link>https://clojars.org/com.fulcrologic/fulcro-statechart-routing/versions/1.0.0-RC1</link>
-    <description>Statechart-driven UI routing for Fulcro, with URL synchronization and cross-chart routing.</description>
-    <pubDate>Fri, 13 Nov 2026 16:20:03 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.oliyh/martian-clj-http/versions/0.2.5</guid>
-    <title>[com.github.oliyh/martian-clj-http &quot;0.2.5&quot;]</title>
-    <link>https://clojars.org/com.github.oliyh/martian-clj-http/versions/0.2.5</link>
-    <description>clj-http implementation for martian</description>
-    <pubDate>Fri, 13 Nov 2026 16:18:24 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.oliyh/martian-clj-http-lite/versions/0.2.5</guid>
-    <title>[com.github.oliyh/martian-clj-http-lite &quot;0.2.5&quot;]</title>
-    <link>https://clojars.org/com.github.oliyh/martian-clj-http-lite/versions/0.2.5</link>
-    <description>clj-http-lite implementation for martian</description>
-    <pubDate>Fri, 13 Nov 2026 16:18:10 +0000</pubDate>
   </item>
   </channel>
 </rss>
