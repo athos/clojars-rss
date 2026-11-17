@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Tue, 17 Nov 2026 22:01:25 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 23:01:09 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.clojure-quant/itera-pixi-timeseries/versions/0.1.38</guid>
+    <title>[io.github.clojure-quant/itera-pixi-timeseries &quot;0.1.38&quot;]</title>
+    <link>https://clojars.org/io.github.clojure-quant/itera-pixi-timeseries/versions/0.1.38</link>
+    <description></description>
+    <pubDate>Tue, 17 Nov 2026 22:56:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.clojure-quant/itera-plot/versions/0.1.38</guid>
+    <title>[io.github.clojure-quant/itera-plot &quot;0.1.38&quot;]</title>
+    <link>https://clojars.org/io.github.clojure-quant/itera-plot/versions/0.1.38</link>
+    <description></description>
+    <pubDate>Tue, 17 Nov 2026 22:56:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.clojure-quant/itera/versions/0.1.38</guid>
+    <title>[io.github.clojure-quant/itera &quot;0.1.38&quot;]</title>
+    <link>https://clojars.org/io.github.clojure-quant/itera/versions/0.1.38</link>
+    <description></description>
+    <pubDate>Tue, 17 Nov 2026 22:55:57 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/dev.ggcode/etunnel-clj/versions/1.7.13</guid>
     <title>[dev.ggcode/etunnel-clj &quot;1.7.13&quot;]</title>
@@ -1775,34 +1796,6 @@
     <link>https://clojars.org/ai.intergraph/game-master/versions/0.1.35</link>
     <description>Reusable Game Master runtime library for Intergraph</description>
     <pubDate>Sat, 14 Nov 2026 04:54:48 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.arkaitz/web-base/versions/0.24.0</guid>
-    <title>[dev.arkaitz/web-base &quot;0.24.0&quot;]</title>
-    <link>https://clojars.org/dev.arkaitz/web-base/versions/0.24.0</link>
-    <description>A super-micro-framework for server-rendered Clojure web applications: routing, sessions, errors, a page shell, htmx.</description>
-    <pubDate>Sat, 14 Nov 2026 04:17:59 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.vaelii/vaelii-agents/versions/0.33.0</guid>
-    <title>[com.vaelii/vaelii-agents &quot;0.33.0&quot;]</title>
-    <link>https://clojars.org/com.vaelii/vaelii-agents/versions/0.33.0</link>
-    <description>Agent-facing code for vaelii: model-provider clients and the KB read
-                tools a model calls, generated from the daemon&#39;s op table.</description>
-    <pubDate>Sat, 14 Nov 2026 01:42:02 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.vaelii/sqlite/versions/0.33.0</guid>
-    <title>[com.vaelii/sqlite &quot;0.33.0&quot;]</title>
-    <link>https://clojars.org/com.vaelii/sqlite/versions/0.33.0</link>
-    <description>SQLite targets for vaelii&#39;s storage protocols. The first is the
-                snapshot sink (vaelii.sqlite.snapshot): a SnapshotSink /
-                SnapshotSource over a single SQLite file, so a KB image — the index
-                projection today, any of io.snapshot&#39;s named sections — lands in a
-                zero-configuration file as a few bulk transactions and reads back
-                the same way. An Apache-2.0 adapter on the SSPL engine, depending on
-                core, never depended on by it.</description>
-    <pubDate>Sat, 14 Nov 2026 01:32:06 +0000</pubDate>
   </item>
   </channel>
 </rss>
