@@ -1,23 +1,3 @@
-{:created 1794658714187, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-web-widgets", :version "2.262.0"}
-{:created 1794661726786, :description "A Clojure(Script) library of colour for websites and apps: the colour spaces of CSS Color 4, contrast, and accessible themes from one colour.", :group_name "dk.simongray", :jar_name "colour-coded", :version "0.3.0"}
-{:created 1794668409063, :description "A Clojure(Script) library of colour for websites and apps: the colour spaces of CSS Color 4, contrast, and accessible themes from one colour.", :group_name "dk.simongray", :jar_name "colour-coded", :version "0.3.1"}
-{:created 1794671152795, :description "A reactive server-rendered web framework for Clojure built on Datastar and Reitit.", :group_name "ai.dyal", :jar_name "hyper", :version "0.3.0"}
-{:created 1794672493576, :description "Expose local services to the internet in one line of code: instant public HTTPS URLs with automatic TLS, through NAT and firewalls, no signup. Webhook-friendly ngrok-style reverse tunnel, with SDKs in 20 languages and a single-binary Go server.", :group_name "dev.ggcode", :jar_name "etunnel-clj", :version "1.6.16"}
-{:created 1794679097190, :description "A clojure tool to navigate through your data.", :group_name "djblue", :jar_name "portal", :version "0.69.1"}
-{:created 1794679866737, :description nil, :group_name "com.cnuernber", :jar_name "ham-fisted", :version "3.038"}
-{:created 1794682338560, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.239"}
-{:created 1794683515870, :description "Reusable Game Master runtime library for Intergraph", :group_name "ai.intergraph", :jar_name "game-master", :version "0.1.36"}
-{:created 1794688260735, :description "A clojure tool to navigate through your data.", :group_name "djblue", :jar_name "portal", :version "0.69.2"}
-{:created 1794688300434, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.240"}
-{:created 1794688604758, :description "Clojure/Script library for making MCP servers and clients", :group_name "io.github.plumce", :jar_name "plumcp.core", :version "0.4.0-alpha1"}
-{:created 1794688639907, :description "Auth module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-auth", :version "0.4.0-alpha1"}
-{:created 1794688678336, :description "Dev module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-dev", :version "0.4.0-alpha1"}
-{:created 1794688727372, :description "JSON (charred library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-charred", :version "0.4.0-alpha1"}
-{:created 1794688767709, :description "JSON (cheshire library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-cheshire", :version "0.4.0-alpha1"}
-{:created 1794688804919, :description "JSON (clojure/data.json library) module for PluMCP", :group_name "io.github.plumce", :jar_name "plumcp.core-json-datajson", :version "0.4.0-alpha1"}
-{:created 1794689017474, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "wire-core", :version "4.5.0"}
-{:created 1794689022311, :description nil, :group_name "com.cleancoders.c3kit", :jar_name "wire", :version "4.5.0"}
-{:created 1794691895738, :description "A colour engine that derives an accessible palette, light and dark, from one brand colour, a CSS kit whose every rule a host can override, and Hiccup components for web-base hosts.", :group_name "dev.arkaitz", :jar_name "uikit-base", :version "0.1.0"}
 {:created 1794695422463, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core", :version "2.343.0"}
 {:created 1794695432268, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-aws", :version "2.343.0"}
 {:created 1794695441787, :description nil, :group_name "com.alpha-prosoft", :jar_name "edd-core-client", :version "2.343.0"}
@@ -254,3 +234,23 @@
 {:created 1795009818154, :description "clj-agent Tools - workspace coding tools for agents (files / edit / apply_patch / exec / web_fetch)", :group_name "im.ttalk", :jar_name "clj-agent-tools", :version "0.6.458"}
 {:created 1795009829235, :description "clj-agent Server - AG-UI and MCP HTTP endpoints as Ring handlers (routing / guard / SSE / adapter shims)", :group_name "im.ttalk", :jar_name "clj-agent-server", :version "0.6.458"}
 {:created 1795009840246, :description "clj-agent Server Jetty - default Jetty 12 adapter/host for clj-agent-server", :group_name "im.ttalk", :jar_name "clj-agent-server-jetty", :version "0.6.458"}
+{:created 1795012591792, :description nil, :group_name "io.github.clojure-quant", :jar_name "itera", :version "0.1.39"}
+{:created 1795012608209, :description nil, :group_name "io.github.clojure-quant", :jar_name "itera-plot", :version "0.1.39"}
+{:created 1795012623440, :description nil, :group_name "io.github.clojure-quant", :jar_name "itera-pixi-timeseries", :version "0.1.39"}
+{:created 1795013511716, :description "The 78 Rider-Waite tarot cards as plain Clojure data: names, keywords, upright and reversed meanings, yes/no answers, plus a seeded draw.", :group_name "org.clojars.ok1mind", :jar_name "tarot-cards", :version "0.1.3"}
+{:created 1795013515655, :description "im.ttalk clj-http - general-purpose zero-dependency HTTP client on java.net.http (request / async / line streaming / SSE / proxy)", :group_name "im.ttalk", :jar_name "clj-http", :version "0.6.459"}
+{:created 1795013528225, :description "im.ttalk clj-http-apache - optional Apache HttpClient 5 async transport", :group_name "im.ttalk", :jar_name "clj-http-apache", :version "0.6.459"}
+{:created 1795013539937, :description "im.ttalk clj-http-netty - optional Netty HTTP/1.1 transport", :group_name "im.ttalk", :jar_name "clj-http-netty", :version "0.6.459"}
+{:created 1795013554085, :description "clj-agent Core - ChatClient / ChatModel 原语与协议（对齐 Spring AI 命名）", :group_name "im.ttalk", :jar_name "clj-agent-core", :version "0.6.459"}
+{:created 1795013567512, :description "clj-agent Client - Agent runtime (client / ReAct loop / memory / subagent)", :group_name "im.ttalk", :jar_name "clj-agent-client", :version "0.6.459"}
+{:created 1795013580586, :description "clj-agent LLM - LLM Provider Abstraction Module", :group_name "im.ttalk", :jar_name "clj-agent-provider", :version "0.6.459"}
+{:created 1795013593286, :description "clj-agent MCP - Model Context Protocol client + server (Streamable HTTP / stdio)", :group_name "im.ttalk", :jar_name "clj-agent-mcp", :version "0.6.459"}
+{:created 1795013608996, :description "clj-agent AGUI - Agent runtime backend (run registry / event stream / AG-UI codec)", :group_name "im.ttalk", :jar_name "clj-agent-agui", :version "0.6.459"}
+{:created 1795013621355, :description "clj-agent Tools - workspace coding tools for agents (files / edit / apply_patch / exec / web_fetch)", :group_name "im.ttalk", :jar_name "clj-agent-tools", :version "0.6.459"}
+{:created 1795013633638, :description "clj-agent Server - AG-UI and MCP HTTP endpoints as Ring handlers (routing / guard / SSE / adapter shims)", :group_name "im.ttalk", :jar_name "clj-agent-server", :version "0.6.459"}
+{:created 1795013647165, :description "clj-agent Server Jetty - default Jetty 12 adapter/host for clj-agent-server", :group_name "im.ttalk", :jar_name "clj-agent-server-jetty", :version "0.6.459"}
+{:created 1795013936339, :description "Pavlov: Bthreads for Clojure(Script)", :group_name "tech.thomascothran", :jar_name "pavlov", :version "5.1.317"}
+{:created 1795013944760, :description "Pavlov Devtools", :group_name "tech.thomascothran", :jar_name "pavlov-devtools", :version "5.1.317"}
+{:created 1795013953411, :description "Pavlov Skills", :group_name "tech.thomascothran", :jar_name "pavlov-skills", :version "5.1.317"}
+{:created 1795013961708, :description "Pavlov Web", :group_name "tech.thomascothran", :jar_name "pavlov-web", :version "5.1.317"}
+{:created 1795013970245, :description "Pavlov Explorer", :group_name "tech.thomascothran", :jar_name "pavlov-explorer", :version "5.1.317"}
