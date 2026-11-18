@@ -4,7 +4,91 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 18 Nov 2026 13:02:04 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 14:02:11 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.dominic/specel/versions/0.1.0-SNAPSHOT</guid>
+    <title>[io.dominic/specel &quot;0.1.0-SNAPSHOT&quot;]</title>
+    <link>https://clojars.org/io.dominic/specel/versions/0.1.0-SNAPSHOT</link>
+    <description>Hegel generators for clojure.spec.</description>
+    <pubDate>Wed, 18 Nov 2026 14:01:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-server-jetty/versions/0.6.458</guid>
+    <title>[im.ttalk/clj-agent-server-jetty &quot;0.6.458&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-server-jetty/versions/0.6.458</link>
+    <description>clj-agent Server Jetty - default Jetty 12 adapter/host for clj-agent-server</description>
+    <pubDate>Wed, 18 Nov 2026 13:50:40 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-server/versions/0.6.458</guid>
+    <title>[im.ttalk/clj-agent-server &quot;0.6.458&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-server/versions/0.6.458</link>
+    <description>clj-agent Server - AG-UI and MCP HTTP endpoints as Ring handlers (routing / guard / SSE / adapter shims)</description>
+    <pubDate>Wed, 18 Nov 2026 13:50:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-tools/versions/0.6.458</guid>
+    <title>[im.ttalk/clj-agent-tools &quot;0.6.458&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-tools/versions/0.6.458</link>
+    <description>clj-agent Tools - workspace coding tools for agents (files / edit / apply_patch / exec / web_fetch)</description>
+    <pubDate>Wed, 18 Nov 2026 13:50:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-agui/versions/0.6.458</guid>
+    <title>[im.ttalk/clj-agent-agui &quot;0.6.458&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-agui/versions/0.6.458</link>
+    <description>clj-agent AGUI - Agent runtime backend (run registry / event stream / AG-UI codec)</description>
+    <pubDate>Wed, 18 Nov 2026 13:50:06 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-mcp/versions/0.6.458</guid>
+    <title>[im.ttalk/clj-agent-mcp &quot;0.6.458&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-mcp/versions/0.6.458</link>
+    <description>clj-agent MCP - Model Context Protocol client + server (Streamable HTTP / stdio)</description>
+    <pubDate>Wed, 18 Nov 2026 13:49:54 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-provider/versions/0.6.458</guid>
+    <title>[im.ttalk/clj-agent-provider &quot;0.6.458&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-provider/versions/0.6.458</link>
+    <description>clj-agent LLM - LLM Provider Abstraction Module</description>
+    <pubDate>Wed, 18 Nov 2026 13:49:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-client/versions/0.6.458</guid>
+    <title>[im.ttalk/clj-agent-client &quot;0.6.458&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-client/versions/0.6.458</link>
+    <description>clj-agent Client - Agent runtime (client / ReAct loop / memory / subagent)</description>
+    <pubDate>Wed, 18 Nov 2026 13:49:29 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-agent-core/versions/0.6.458</guid>
+    <title>[im.ttalk/clj-agent-core &quot;0.6.458&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-agent-core/versions/0.6.458</link>
+    <description>clj-agent Core - ChatClient / ChatModel 原语与协议（对齐 Spring AI 命名）</description>
+    <pubDate>Wed, 18 Nov 2026 13:49:18 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-http-apache/versions/0.6.458</guid>
+    <title>[im.ttalk/clj-http-apache &quot;0.6.458&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-http-apache/versions/0.6.458</link>
+    <description>im.ttalk clj-http-apache - optional Apache HttpClient 5 async transport</description>
+    <pubDate>Wed, 18 Nov 2026 13:49:05 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/im.ttalk/clj-http/versions/0.6.458</guid>
+    <title>[im.ttalk/clj-http &quot;0.6.458&quot;]</title>
+    <link>https://clojars.org/im.ttalk/clj-http/versions/0.6.458</link>
+    <description>im.ttalk clj-http - general-purpose zero-dependency HTTP client on java.net.http (request / async / line streaming / SSE / proxy)</description>
+    <pubDate>Wed, 18 Nov 2026 13:48:55 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/com.monkeyprojects/shadow-junit-xml/versions/0.2.1</guid>
+    <title>[com.monkeyprojects/shadow-junit-xml &quot;0.2.1&quot;]</title>
+    <link>https://clojars.org/com.monkeyprojects/shadow-junit-xml/versions/0.2.1</link>
+    <description></description>
+    <pubDate>Wed, 18 Nov 2026 13:23:36 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/dev.ggcode/etunnel-clj/versions/1.7.15</guid>
     <title>[dev.ggcode/etunnel-clj &quot;1.7.15&quot;]</title>
@@ -228,13 +312,6 @@
     <link>https://clojars.org/io.github.clojure-quant/itera/versions/0.1.36</link>
     <description></description>
     <pubDate>Tue, 17 Nov 2026 18:07:30 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.dominic/specel/versions/0.1.0-SNAPSHOT</guid>
-    <title>[io.dominic/specel &quot;0.1.0-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/io.dominic/specel/versions/0.1.0-SNAPSHOT</link>
-    <description>Hegel generators for clojure.spec.</description>
-    <pubDate>Tue, 17 Nov 2026 18:04:47 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/markdown-clj/versions/1.12.14</guid>
@@ -1719,83 +1796,6 @@
     <link>https://clojars.org/io.github.plumce/plumcp.core-json-charred/versions/0.4.0-alpha1</link>
     <description>JSON (charred library) module for PluMCP</description>
     <pubDate>Sat, 14 Nov 2026 20:38:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.plumce/plumcp.core-dev/versions/0.4.0-alpha1</guid>
-    <title>[io.github.plumce/plumcp.core-dev &quot;0.4.0-alpha1&quot;]</title>
-    <link>https://clojars.org/io.github.plumce/plumcp.core-dev/versions/0.4.0-alpha1</link>
-    <description>Dev module for PluMCP</description>
-    <pubDate>Sat, 14 Nov 2026 20:37:58 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.plumce/plumcp.core-auth/versions/0.4.0-alpha1</guid>
-    <title>[io.github.plumce/plumcp.core-auth &quot;0.4.0-alpha1&quot;]</title>
-    <link>https://clojars.org/io.github.plumce/plumcp.core-auth/versions/0.4.0-alpha1</link>
-    <description>Auth module for PluMCP</description>
-    <pubDate>Sat, 14 Nov 2026 20:37:19 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/io.github.plumce/plumcp.core/versions/0.4.0-alpha1</guid>
-    <title>[io.github.plumce/plumcp.core &quot;0.4.0-alpha1&quot;]</title>
-    <link>https://clojars.org/io.github.plumce/plumcp.core/versions/0.4.0-alpha1</link>
-    <description>Clojure/Script library for making MCP servers and clients</description>
-    <pubDate>Sat, 14 Nov 2026 20:36:44 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.7.240</guid>
-    <title>[com.blockether/svar &quot;0.7.240&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.7.240</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Sat, 14 Nov 2026 20:31:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/djblue/portal/versions/0.69.2</guid>
-    <title>[djblue/portal &quot;0.69.2&quot;]</title>
-    <link>https://clojars.org/djblue/portal/versions/0.69.2</link>
-    <description>A clojure tool to navigate through your data.</description>
-    <pubDate>Sat, 14 Nov 2026 20:31:00 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ai.intergraph/game-master/versions/0.1.36</guid>
-    <title>[ai.intergraph/game-master &quot;0.1.36&quot;]</title>
-    <link>https://clojars.org/ai.intergraph/game-master/versions/0.1.36</link>
-    <description>Reusable Game Master runtime library for Intergraph</description>
-    <pubDate>Sat, 14 Nov 2026 19:11:55 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/svar/versions/0.7.239</guid>
-    <title>[com.blockether/svar &quot;0.7.239&quot;]</title>
-    <link>https://clojars.org/com.blockether/svar/versions/0.7.239</link>
-    <description>svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.</description>
-    <pubDate>Sat, 14 Nov 2026 18:52:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.cnuernber/ham-fisted/versions/3.038</guid>
-    <title>[com.cnuernber/ham-fisted &quot;3.038&quot;]</title>
-    <link>https://clojars.org/com.cnuernber/ham-fisted/versions/3.038</link>
-    <description></description>
-    <pubDate>Sat, 14 Nov 2026 18:11:06 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/djblue/portal/versions/0.69.1</guid>
-    <title>[djblue/portal &quot;0.69.1&quot;]</title>
-    <link>https://clojars.org/djblue/portal/versions/0.69.1</link>
-    <description>A clojure tool to navigate through your data.</description>
-    <pubDate>Sat, 14 Nov 2026 17:58:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/dev.ggcode/etunnel-clj/versions/1.6.16</guid>
-    <title>[dev.ggcode/etunnel-clj &quot;1.6.16&quot;]</title>
-    <link>https://clojars.org/dev.ggcode/etunnel-clj/versions/1.6.16</link>
-    <description>Expose local services to the internet in one line of code: instant public HTTPS URLs with automatic TLS, through NAT and firewalls, no signup. Webhook-friendly ngrok-style reverse tunnel, with SDKs in 20 languages and a single-binary Go server.</description>
-    <pubDate>Sat, 14 Nov 2026 16:08:13 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/ai.dyal/hyper/versions/0.3.0</guid>
-    <title>[ai.dyal/hyper &quot;0.3.0&quot;]</title>
-    <link>https://clojars.org/ai.dyal/hyper/versions/0.3.0</link>
-    <description>A reactive server-rendered web framework for Clojure built on Datastar and Reitit.</description>
-    <pubDate>Sat, 14 Nov 2026 15:45:52 +0000</pubDate>
   </item>
   </channel>
 </rss>
