@@ -4,7 +4,35 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 19 Nov 2026 04:02:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 05:02:14 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-addon/versions/1.1.13</guid>
+    <title>[io.github.hive-agi/hive-addon &quot;1.1.13&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-addon/versions/1.1.13</link>
+    <description></description>
+    <pubDate>Thu, 19 Nov 2026 04:56:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.js-upup/picvane-image-info/versions/0.1.0</guid>
+    <title>[net.clojars.js-upup/picvane-image-info &quot;0.1.0&quot;]</title>
+    <link>https://clojars.org/net.clojars.js-upup/picvane-image-info/versions/0.1.0</link>
+    <description>Inspect local image dimensions and aspect ratios using Java ImageIO</description>
+    <pubDate>Thu, 19 Nov 2026 04:47:48 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/hive-compose/versions/0.1.6</guid>
+    <title>[io.github.hive-agi/hive-compose &quot;0.1.6&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/hive-compose/versions/0.1.6</link>
+    <description></description>
+    <pubDate>Thu, 19 Nov 2026 04:41:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/io.github.hive-agi/autonomous/versions/0.1.2</guid>
+    <title>[io.github.hive-agi/autonomous &quot;0.1.2&quot;]</title>
+    <link>https://clojars.org/io.github.hive-agi/autonomous/versions/0.1.2</link>
+    <description></description>
+    <pubDate>Thu, 19 Nov 2026 04:06:14 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/org.replikativ/ansatz-lean-jvm/versions/0.2.647</guid>
     <title>[org.replikativ/ansatz-lean-jvm &quot;0.2.647&quot;]</title>
@@ -1768,34 +1796,6 @@
     <link>https://clojars.org/dev.ggcode/etunnel-clj/versions/1.7.5</link>
     <description>Expose local services to the internet in one line of code: instant public HTTPS URLs with automatic TLS, through NAT and firewalls, no signup. Webhook-friendly ngrok-style reverse tunnel, with SDKs in 20 languages and a single-binary Go server.</description>
     <pubDate>Sun, 15 Nov 2026 12:08:18 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.62</guid>
-    <title>[com.blockether/lanterna &quot;3.1.5-vis.62&quot;]</title>
-    <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.62</link>
-    <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
-    <pubDate>Sun, 15 Nov 2026 10:47:47 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-web-widgets/versions/2.263.0</guid>
-    <title>[com.alpha-prosoft/edd-web-widgets &quot;2.263.0&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-web-widgets/versions/2.263.0</link>
-    <description></description>
-    <pubDate>Sun, 15 Nov 2026 09:50:45 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-web-primitives-ui-sdk/versions/2.263.0</guid>
-    <title>[com.alpha-prosoft/edd-web-primitives-ui-sdk &quot;2.263.0&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-web-primitives-ui-sdk/versions/2.263.0</link>
-    <description>Playwright actions for edd-web-primitives, addressed by el-id.</description>
-    <pubDate>Sun, 15 Nov 2026 09:50:36 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.alpha-prosoft/edd-web-primitives/versions/2.263.0</guid>
-    <title>[com.alpha-prosoft/edd-web-primitives &quot;2.263.0&quot;]</title>
-    <link>https://clojars.org/com.alpha-prosoft/edd-web-primitives/versions/2.263.0</link>
-    <description>MUI based Reagent/re-frame web primitives.</description>
-    <pubDate>Sun, 15 Nov 2026 09:50:27 +0000</pubDate>
   </item>
   </channel>
 </rss>
