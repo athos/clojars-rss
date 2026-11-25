@@ -4,7 +4,28 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Wed, 25 Nov 2026 18:02:30 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 19:00:57 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1949</guid>
+    <title>[org.replikativ/datahike-http-server &quot;0.8.1949&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1949</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Wed, 25 Nov 2026 18:58:57 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1949</guid>
+    <title>[org.replikativ/datahike &quot;0.8.1949&quot;]</title>
+    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1949</link>
+    <description>A durable datalog implementation adaptable for distribution.</description>
+    <pubDate>Wed, 25 Nov 2026 18:58:14 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/dev.ggcode/etunnel-clj/versions/1.7.43</guid>
+    <title>[dev.ggcode/etunnel-clj &quot;1.7.43&quot;]</title>
+    <link>https://clojars.org/dev.ggcode/etunnel-clj/versions/1.7.43</link>
+    <description>Expose local services to the internet in one line of code: instant public HTTPS URLs with automatic TLS, through NAT and firewalls, no signup. Webhook-friendly ngrok-style reverse tunnel, with SDKs in 20 languages and a single-binary Go server.</description>
+    <pubDate>Wed, 25 Nov 2026 18:14:20 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/com.outskirtslabs/vips/versions/0.3.0</guid>
     <title>[com.outskirtslabs/vips &quot;0.3.0&quot;]</title>
@@ -1778,27 +1799,6 @@
     <link>https://clojars.org/com.blockether/lanterna/versions/3.1.5-vis.65</link>
     <description>Patched build of mabe02/lanterna 3.1.5 with PR #625 (emoji rendering in StreamBasedTerminal/AbstractTextGraphics) cherry-picked, plus a port of the opentui width and terminal rules: grapheme segmentation and cell widths from the opentui Unicode tables with the wcwidth, unicode and unicode-wide methods; TerminalCapabilities detects the method, OSC 66 explicit width and explicit cursor positioning from the environment and the terminal replies (XTVERSION, DECRQM 2027, cursor position probes), and TerminalScreen draws graphemes as opentui does; control chars degrade to a space instead of throwing. Adds com.googlecode.lanterna.terminal.image.TerminalImage for Kitty/iTerm2 inline graphics and com.googlecode.lanterna.terminal.html for complete interactive browser terminals, portable cell-accurate HTML views and embedded image/video/audio media. Superset of com.googlecode.lanterna:lanterna:3.1.5.</description>
     <pubDate>Sun, 22 Nov 2026 20:58:35 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/sci/versions/0.15.60-replikativ.2</guid>
-    <title>[org.replikativ/sci &quot;0.15.60-replikativ.2&quot;]</title>
-    <link>https://clojars.org/org.replikativ/sci/versions/0.15.60-replikativ.2</link>
-    <description>Replikativ compatibility distribution of SCI with forkable interpreter worlds</description>
-    <pubDate>Sun, 22 Nov 2026 20:47:33 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1938</guid>
-    <title>[org.replikativ/datahike-http-server &quot;0.8.1938&quot;]</title>
-    <link>https://clojars.org/org.replikativ/datahike-http-server/versions/0.8.1938</link>
-    <description>A durable datalog implementation adaptable for distribution.</description>
-    <pubDate>Sun, 22 Nov 2026 20:29:40 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/datahike/versions/0.8.1938</guid>
-    <title>[org.replikativ/datahike &quot;0.8.1938&quot;]</title>
-    <link>https://clojars.org/org.replikativ/datahike/versions/0.8.1938</link>
-    <description>A durable datalog implementation adaptable for distribution.</description>
-    <pubDate>Sun, 22 Nov 2026 20:28:49 +0000</pubDate>
   </item>
   </channel>
 </rss>
