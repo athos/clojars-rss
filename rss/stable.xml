@@ -4,7 +4,42 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Thu, 26 Nov 2026 00:05:11 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 01:02:20 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.6</guid>
+    <title>[net.clojars.savya/psql-clj-aws &quot;3.0.6&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj-aws/versions/3.0.6</link>
+    <description>AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.</description>
+    <pubDate>Thu, 26 Nov 2026 00:57:42 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.7</guid>
+    <title>[net.clojars.savya/psql-clj &quot;2.4.7&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/psql-clj/versions/2.4.7</link>
+    <description>PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.</description>
+    <pubDate>Thu, 26 Nov 2026 00:57:27 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/dogstatsd/versions/0.6.1</guid>
+    <title>[net.clojars.savya/dogstatsd &quot;0.6.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/dogstatsd/versions/0.6.1</link>
+    <description>Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).</description>
+    <pubDate>Thu, 26 Nov 2026 00:55:50 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/buddy-auth/versions/6.0.1</guid>
+    <title>[net.clojars.savya/buddy-auth &quot;6.0.1&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/buddy-auth/versions/6.0.1</link>
+    <description></description>
+    <pubDate>Thu, 26 Nov 2026 00:55:21 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/net.clojars.savya/duckdb-clj/versions/0.9.3</guid>
+    <title>[net.clojars.savya/duckdb-clj &quot;0.9.3&quot;]</title>
+    <link>https://clojars.org/net.clojars.savya/duckdb-clj/versions/0.9.3</link>
+    <description>DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.</description>
+    <pubDate>Thu, 26 Nov 2026 00:53:49 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.conao3/leanfran/versions/0.13.3</guid>
     <title>[io.github.conao3/leanfran &quot;0.13.3&quot;]</title>
@@ -1764,41 +1799,6 @@
     <link>https://clojars.org/net.clojars.js-upup/storyboard-shot-prompt/versions/0.1.0</link>
     <description>Render storyboard rows as one-shot prompts with explicit camera direction and end frames.</description>
     <pubDate>Mon, 23 Nov 2026 05:29:41 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.marksto/clj-tg-bot-api.updates/versions/1.4.346</guid>
-    <title>[com.github.marksto/clj-tg-bot-api.updates &quot;1.4.346&quot;]</title>
-    <link>https://clojars.org/com.github.marksto/clj-tg-bot-api.updates/versions/1.4.346</link>
-    <description>Optional tooling for receiving Telegram Bot API updates with `clj-tg-bot-api`.</description>
-    <pubDate>Mon, 23 Nov 2026 05:27:17 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/com.github.marksto/clj-tg-bot-api/versions/1.4.346</guid>
-    <title>[com.github.marksto/clj-tg-bot-api &quot;1.4.346&quot;]</title>
-    <link>https://clojars.org/com.github.marksto/clj-tg-bot-api/versions/1.4.346</link>
-    <description>The latest Telegram Bot API specification and client lib for Clojure-based apps.</description>
-    <pubDate>Mon, 23 Nov 2026 05:27:11 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.replikativ/konserve-gcs/versions/0.1.20</guid>
-    <title>[org.replikativ/konserve-gcs &quot;0.1.20&quot;]</title>
-    <link>https://clojars.org/org.replikativ/konserve-gcs/versions/0.1.20</link>
-    <description>Konserve GCS Backend</description>
-    <pubDate>Mon, 23 Nov 2026 04:26:23 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.52.0</guid>
-    <title>[net.clojars.savya/anthropic-clj &quot;0.52.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/anthropic-clj/versions/0.52.0</link>
-    <description>Idiomatic Clojure wrapper over the official Anthropic Java SDK</description>
-    <pubDate>Mon, 23 Nov 2026 02:53:34 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.savya/openai-clj/versions/0.52.0</guid>
-    <title>[net.clojars.savya/openai-clj &quot;0.52.0&quot;]</title>
-    <link>https://clojars.org/net.clojars.savya/openai-clj/versions/0.52.0</link>
-    <description>Idiomatic Clojure wrapper over the official OpenAI Java SDK.</description>
-    <pubDate>Mon, 23 Nov 2026 02:49:48 +0000</pubDate>
   </item>
   </channel>
 </rss>

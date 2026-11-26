@@ -1,8 +1,3 @@
-{:created 1795419178833, :description "Realtime web comms library for Clojure/Script", :group_name "com.taoensso", :jar_name "sente", :version "1.23.0-RC2"}
-{:created 1795419362009, :description "Clojure tools for Vis: format, lint, tests, managed nREPL and reader validation.", :group_name "com.blockether", :jar_name "vis-lang-clojure", :version "1.20.25"}
-{:created 1795419986975, :description "Prebuilt imaging-c cdylib (FFM) for linux-arm64.", :group_name "com.blockether", :jar_name "imaging-native-linux-arm64", :version "0.1.14"}
-{:created 1795420019787, :description "Prebuilt imaging-c cdylib (FFM) for windows-x64.", :group_name "com.blockether", :jar_name "imaging-native-windows-x64", :version "0.1.14"}
-{:created 1795420115338, :description "Prebuilt imaging-c cdylib (FFM) for darwin-x64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-x64", :version "0.1.14"}
 {:created 1795420205624, :description "Prebuilt imaging-c cdylib (FFM) for linux-x64.", :group_name "com.blockether", :jar_name "imaging-native-linux-x64", :version "0.1.14"}
 {:created 1795420406702, :description "Prebuilt imaging-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-arm64", :version "0.1.14"}
 {:created 1795420462418, :description "Imaging for Clojure without java.desktop — decode/encode, transforms, drawing, text, SVG and plotting over a Rust cdylib via FFM.", :group_name "com.blockether", :jar_name "imaging", :version "0.1.14"}
@@ -254,3 +249,8 @@
 {:created 1795646811677, :description "Write and prove functions in Lean 4, run them on the JVM from Clojure.", :group_name "io.github.conao3", :jar_name "leanfran", :version "0.13.2"}
 {:created 1795648386435, :description "Expose local services to the internet in one line of code: instant public HTTPS URLs with automatic TLS, through NAT and firewalls, no signup. Webhook-friendly ngrok-style reverse tunnel, with SDKs in 20 languages and a single-binary Go server.", :group_name "dev.ggcode", :jar_name "etunnel-clj", :version "1.7.48"}
 {:created 1795651439616, :description "Write and prove functions in Lean 4, run them on the JVM from Clojure.", :group_name "io.github.conao3", :jar_name "leanfran", :version "0.13.3"}
+{:created 1795654429507, :description "DuckDB type coercion and helpers for Clojure over next.jdbc: LIST, STRUCT, MAP, and more.", :group_name "net.clojars.savya", :jar_name "duckdb-clj", :version "0.9.3"}
+{:created 1795654521639, :description nil, :group_name "net.clojars.savya", :jar_name "buddy-auth", :version "6.0.1"}
+{:created 1795654550184, :description "Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).", :group_name "net.clojars.savya", :jar_name "dogstatsd", :version "0.6.1"}
+{:created 1795654647459, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.4.7"}
+{:created 1795654662034, :description "AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.", :group_name "net.clojars.savya", :jar_name "psql-clj-aws", :version "3.0.6"}
