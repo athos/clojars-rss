@@ -1,9 +1,3 @@
-{:created 1795420205624, :description "Prebuilt imaging-c cdylib (FFM) for linux-x64.", :group_name "com.blockether", :jar_name "imaging-native-linux-x64", :version "0.1.14"}
-{:created 1795420406702, :description "Prebuilt imaging-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-arm64", :version "0.1.14"}
-{:created 1795420462418, :description "Imaging for Clojure without java.desktop — decode/encode, transforms, drawing, text, SVG and plotting over a Rust cdylib via FFM.", :group_name "com.blockether", :jar_name "imaging", :version "0.1.14"}
-{:created 1795421879748, :description "Expose local services to the internet in one line of code: instant public HTTPS URLs with automatic TLS, through NAT and firewalls, no signup. Webhook-friendly ngrok-style reverse tunnel, with SDKs in 20 languages and a single-binary Go server.", :group_name "dev.ggcode", :jar_name "etunnel-clj", :version "1.7.32"}
-{:created 1795425231004, :description "A small, local, browser-based editor for Clojure.", :group_name "com.github.avanelsas", :jar_name "bareedit", :version "0.4.0"}
-{:created 1795427924784, :description "Prebuilt imaging-c cdylib (FFM) for linux-arm64.", :group_name "com.blockether", :jar_name "imaging-native-linux-arm64", :version "0.1.15"}
 {:created 1795427958293, :description "Prebuilt imaging-c cdylib (FFM) for linux-x64.", :group_name "com.blockether", :jar_name "imaging-native-linux-x64", :version "0.1.15"}
 {:created 1795428113515, :description "Prebuilt imaging-c cdylib (FFM) for darwin-x64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-x64", :version "0.1.15"}
 {:created 1795428121121, :description "Prebuilt imaging-c cdylib (FFM) for darwin-arm64.", :group_name "com.blockether", :jar_name "imaging-native-darwin-arm64", :version "0.1.15"}
@@ -254,3 +248,9 @@
 {:created 1795654550184, :description "Idiomatic Clojure wrapper over the official Datadog java-dogstatsd-client (DogStatsD metrics, events, service checks).", :group_name "net.clojars.savya", :jar_name "dogstatsd", :version "0.6.1"}
 {:created 1795654647459, :description "PostgreSQL helpers for Clojure: environment- and .pgpass-aware connection specs, HikariCP pooling, and next.jdbc type coercion for JSON/JSONB, arrays, inet and enums. PostGIS support lives in the psql-clj-gis companion.", :group_name "net.clojars.savya", :jar_name "psql-clj", :version "2.4.7"}
 {:created 1795654662034, :description "AWS RDS/Aurora IAM authentication for psql-clj: build a db-spec whose password is a short-lived RDS IAM auth token.", :group_name "net.clojars.savya", :jar_name "psql-clj-aws", :version "3.0.6"}
+{:created 1795655192740, :description "Expose local services to the internet in one line of code: instant public HTTPS URLs with automatic TLS, through NAT and firewalls, no signup. Webhook-friendly ngrok-style reverse tunnel, with SDKs in 20 languages and a single-binary Go server.", :group_name "dev.ggcode", :jar_name "etunnel-clj", :version "1.7.49"}
+{:created 1795655582565, :description "Idiomatic Clojure wrapper over the official OpenAI Java SDK.", :group_name "net.clojars.savya", :jar_name "openai-clj", :version "0.53.0"}
+{:created 1795655645074, :description "Idiomatic Clojure wrapper over the official Anthropic Java SDK", :group_name "net.clojars.savya", :jar_name "anthropic-clj", :version "0.53.0"}
+{:created 1795655933597, :description "Frame change audit utilities", :group_name "net.clojars.yanyuzz", :jar_name "live-frame-audit", :version "0.1.0"}
+{:created 1795655959229, :description "Statement reconciliation utilities", :group_name "net.clojars.yanyuzz", :jar_name "bank-statement-check", :version "0.1.0"}
+{:created 1795655970066, :description "Pixel comparison utilities", :group_name "net.clojars.yanyuzz", :jar_name "image-pixel-compare", :version "0.1.0"}
