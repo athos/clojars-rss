@@ -1,6 +1,3 @@
-{:created 1795598152946, :description "nextcloud c4k-installation package", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-nextcloud", :version "11.2.4"}
-{:created 1795599152189, :description "forgejo c4k-installation package", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-forgejo", :version "10.0.1"}
-{:created 1795599524808, :description "svar — answer in Swedish. Type-safe LLM output for Clojure, inspired by BAML. Schemaless JSON parsing, token counting, guardrails, and agentic reasoning loops.", :group_name "com.blockether", :jar_name "svar", :version "0.7.247"}
 {:created 1795600125880, :description "stats c4k-installation package", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-stats", :version "1.0.2"}
 {:created 1795600655553, :description "Leiningen plugin for consuming and compiling protobuf schemas", :group_name "com.appsflyer", :jar_name "lein-protodeps", :version "1.1.0-SNAPSHOT"}
 {:created 1795600724986, :description "forgejo c4k-installation package", :group_name "org.domaindrivenarchitecture", :jar_name "c4k-monitoring", :version "0.1.3"}
@@ -246,7 +243,6 @@
 {:created 1795808813783, :description "Fast and primitive math library", :group_name "generateme", :jar_name "fastmath", :version "3.0.0-alpha10-SNAPSHOT"}
 {:created 1795808842831, :description "Creative coding / glitch library backed by Java2D", :group_name "clojure2d", :jar_name "clojure2d", :version "1.5.0-alpha3-SNAPSHOT"}
 {:created 1795808892983, :description "A plotting library for Clojure: plots are plain maps of data, mappings and charts", :group_name "org.clojars.generateme", :jar_name "cljplot2", :version "0.1.0-SNAPSHOT"}
-{:created 1795810105005, :description "An in-process task-queue that is backed by disk.", :group_name "org.clj-commons", :jar_name "durable-queue", :version "0.3.8-SNAPSHOT"}
 {:created 1795810304288, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike", :version "0.8.1958"}
 {:created 1795810359899, :description "A durable datalog implementation adaptable for distribution.", :group_name "org.replikativ", :jar_name "datahike-http-server", :version "0.8.1958"}
 {:created 1795810480707, :description "Fast, portable CBOR serialization for Clojure and ClojureScript, in a format other languages can read.", :group_name "org.replikativ", :jar_name "boring", :version "0.1.34"}
@@ -254,3 +250,7 @@
 {:created 1795814549675, :description "A library for simple wire-like connectivity semantics.", :group_name "org.replikativ", :jar_name "kabel", :version "0.3.144"}
 {:created 1795814574556, :description "Fast, portable CBOR serialization for Clojure and ClojureScript, in a format other languages can read.", :group_name "org.replikativ", :jar_name "boring", :version "0.1.35"}
 {:created 1795815087029, :description nil, :group_name "org.replikativ", :jar_name "pg-datahike", :version "0.1.443"}
+{:created 1795819012804, :description "Enhanced throw, try, leveraging Clojure's capabilities.", :group_name "org.clj-commons", :jar_name "slingshot", :version "0.14.25-SNAPSHOT"}
+{:created 1795819016261, :description nil, :group_name "io.github.hive-agi", :jar_name "hive-dsl", :version "0.7.0"}
+{:created 1795819071623, :description "An in-process task-queue that is backed by disk.", :group_name "org.clj-commons", :jar_name "durable-queue", :version "0.3.8-SNAPSHOT"}
+{:created 1795819890058, :description "Clojure tools for Vis: format, lint, tests, managed nREPL and reader validation.", :group_name "com.blockether", :jar_name "vis-lang-clojure", :version "1.20.28"}
