@@ -4,41 +4,55 @@
   <title>Clojars Latest Updates</title>
   <link>https://clojars.org/</link>
   <description>Unofficially generated RSS feed for libraries recently registered on Clojars</description>
-  <lastBuildDate>Sat, 28 Nov 2026 18:02:12 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 19:01:03 +0000</lastBuildDate>
+  <item>
+    <guid>https://clojars.org/org.replikativ/skuld/versions/0.1.21</guid>
+    <title>[org.replikativ/skuld &quot;0.1.21&quot;]</title>
+    <link>https://clojars.org/org.replikativ/skuld/versions/0.1.21</link>
+    <description>A Datahike ledger with Tendermint consensus.</description>
+    <pubDate>Sat, 28 Nov 2026 18:50:56 +0000</pubDate>
+  </item>
+  <item>
+    <guid>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.451</guid>
+    <title>[org.replikativ/pg-datahike &quot;0.1.451&quot;]</title>
+    <link>https://clojars.org/org.replikativ/pg-datahike/versions/0.1.451</link>
+    <description></description>
+    <pubDate>Sat, 28 Nov 2026 18:42:11 +0000</pubDate>
+  </item>
   <item>
     <guid>https://clojars.org/io.github.pfeodrippe/bomsom-viz/versions/0.1.0-SNAPSHOT</guid>
     <title>[io.github.pfeodrippe/bomsom-viz &quot;0.1.0-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/io.github.pfeodrippe/bomsom-viz/versions/0.1.0-SNAPSHOT</link>
     <description>bomsom&#39;s cards for the cards window: the server, its levels, a scope, a spectrum and the synths with their controls, drawn every frame.</description>
-    <pubDate>Sat, 28 Nov 2026 17:20:10 +0000</pubDate>
+    <pubDate>Sat, 28 Nov 2026 18:39:48 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.github.pfeodrippe/bomsom/versions/0.1.0-SNAPSHOT</guid>
     <title>[io.github.pfeodrippe/bomsom &quot;0.1.0-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/io.github.pfeodrippe/bomsom/versions/0.1.0-SNAPSHOT</link>
     <description>Sound from jank: SuperCollider&#39;s server in the process (supercollider-sys), driven from the REPL.</description>
-    <pubDate>Sat, 28 Nov 2026 17:20:01 +0000</pubDate>
+    <pubDate>Sat, 28 Nov 2026 18:39:38 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.github.pfeodrippe/cards/versions/0.1.0-SNAPSHOT</guid>
     <title>[io.github.pfeodrippe/cards &quot;0.1.0-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/io.github.pfeodrippe/cards/versions/0.1.0-SNAPSHOT</link>
     <description>A window of cards (Dear ImGui) following a jank REPL: each evaluation drawn by what its value is.</description>
-    <pubDate>Sat, 28 Nov 2026 17:19:51 +0000</pubDate>
+    <pubDate>Sat, 28 Nov 2026 18:39:28 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.github.pfeodrippe/jankifier/versions/0.1.0-SNAPSHOT</guid>
     <title>[io.github.pfeodrippe/jankifier &quot;0.1.0-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/io.github.pfeodrippe/jankifier/versions/0.1.0-SNAPSHOT</link>
     <description>Utils for writing more jank than C++.</description>
-    <pubDate>Sat, 28 Nov 2026 17:19:41 +0000</pubDate>
+    <pubDate>Sat, 28 Nov 2026 18:39:19 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/io.github.pfeodrippe/supercollider-sys/versions/0.1.0-SNAPSHOT</guid>
     <title>[io.github.pfeodrippe/supercollider-sys &quot;0.1.0-SNAPSHOT&quot;]</title>
     <link>https://clojars.org/io.github.pfeodrippe/supercollider-sys/versions/0.1.0-SNAPSHOT</link>
-    <description>SuperCollider&#39;s server as a library (libscsynth), its UGen plugins and its C API, for jank.</description>
-    <pubDate>Sat, 28 Nov 2026 17:19:31 +0000</pubDate>
+    <description>SuperCollider&#39;s server as a library (libscsynth), its UGen plugins and its C API, and its language (sclang), for jank.</description>
+    <pubDate>Sat, 28 Nov 2026 18:39:09 +0000</pubDate>
   </item>
   <item>
     <guid>https://clojars.org/com.blockether/vis-lang-clojure/versions/1.20.30</guid>
@@ -1782,20 +1796,6 @@
     <link>https://clojars.org/dev.ggcode/etunnel-clj/versions/1.7.42</link>
     <description>Expose local services to the internet in one line of code: instant public HTTPS URLs with automatic TLS, through NAT and firewalls, no signup. Webhook-friendly ngrok-style reverse tunnel, with SDKs in 20 languages and a single-binary Go server.</description>
     <pubDate>Wed, 25 Nov 2026 17:16:27 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/net.clojars.onegtmlab/gtm-tool-finder/versions/1.0.2</guid>
-    <title>[net.clojars.onegtmlab/gtm-tool-finder &quot;1.0.2&quot;]</title>
-    <link>https://clojars.org/net.clojars.onegtmlab/gtm-tool-finder/versions/1.0.2</link>
-    <description>Offline search over the OneGTMLab GTM tool directory: API reviews for 66 sales and marketing tools, 99 head-to-head comparisons and 110 GTM glossary terms. Clojure API and command line.</description>
-    <pubDate>Wed, 25 Nov 2026 17:16:10 +0000</pubDate>
-  </item>
-  <item>
-    <guid>https://clojars.org/org.scicloj/wadogo/versions/1.1.0-alpha2-SNAPSHOT</guid>
-    <title>[org.scicloj/wadogo &quot;1.1.0-alpha2-SNAPSHOT&quot;]</title>
-    <link>https://clojars.org/org.scicloj/wadogo/versions/1.1.0-alpha2-SNAPSHOT</link>
-    <description>Scales for Clojure</description>
-    <pubDate>Wed, 25 Nov 2026 16:48:22 +0000</pubDate>
   </item>
   </channel>
 </rss>
